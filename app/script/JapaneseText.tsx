@@ -1,9 +1,10 @@
 import { Fragment } from "react";
 import { displayJapanese } from "./display-text";
+import { phraseRuby } from "./phrase-ruby";
 
 // Parse only the source engine's ruby directive; never inject HTML.
 export function JapaneseText({text}: {text:string}) {
-  const source = displayJapanese(text);
+  const source = phraseRuby(displayJapanese(text));
   const pattern = /\[ruby\s+text=(?:"([^"]*)"|([^\s\]]+))([^\]]*)\]/g;
   const nodes = [];
   let cursor = 0;
