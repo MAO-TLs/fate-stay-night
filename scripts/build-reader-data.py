@@ -83,12 +83,27 @@ def natural_key(script: str):
 
 
 def main() -> None:
-    OUT.mkdir(parents=True, exist_ok=True)
     scripts = []
     concordance = []
     ordered_scripts = [script for script in scene_order() if (JP / f"{script}.ks").exists() and (EN / f"{script}.md").exists()]
-    if len(ordered_scripts) != 712 or len(set(ordered_scripts)) != 712:
-        raise RuntimeError(f"Scene index does not resolve to 712 unique base scripts: {len(ordered_scripts)} / {len(set(ordered_scripts))}")
+    source_scripts = {path.stem for path in JP.glob("*.ks")}
+    if len(set(ordered_scripts)) != len(ordered_scripts) or set(ordered_scripts) != source_scripts:
+        raise RuntimeError("Scene index must cover every source script exactly once.")
+    # Never overwrite an expanded publication with a narrower source inventory.
+    index_path = OUT / "index.json"
+    if index_path.exists():
+        published = json.loads(index_path.read_text(encoding="utf-8"))["scripts"]
+        omitted = {item["script"] for item in published} - set(ordered_scripts)
+        if omitted:
+            raise RuntimeError(
+                f"Refusing to overwrite reader data: {len(omitted)} existing scripts "
+                "are outside this generator's source inventory. No files were changed."
+            )
+        existing_ids = {item["script"]: item["id"] for item in published}
+        if any(existing_ids.get(script, f"{position:04d}") != f"{position:04d}"
+               for position, script in enumerate(ordered_scripts)):
+            raise RuntimeError("Refusing to renumber published script IDs. No files were changed.")
+    OUT.mkdir(parents=True, exist_ok=True)
     for position, script in enumerate(ordered_scripts):
         jp_path = JP / f"{script}.ks"
         en_path = EN / f"{script}.md"

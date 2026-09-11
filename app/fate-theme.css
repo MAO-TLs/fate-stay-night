@@ -7,7 +7,7 @@
 .button-primary{background:#e88b52;color:#210f08}
 .button-primary:hover{background:#f1a270}
 .button-secondary{color:#fff;border-color:#98624a;background:rgba(26,10,6,.04)}
-.release-strip{background:#27130d;color:#fff}
+.release-strip{background:#21110d;color:#fff}
 .release-grid>div{border-color:#533022}
 .release-label{color:#c7997e}
 .chapter-card{background:#fff}.chapter-card:hover{background:#fff3e8}
@@ -30,6 +30,7 @@
 .reader-page ruby{ruby-position:over}
 .reader-page rt{font-size:.55em;line-height:1.1;white-space:pre}
 footer{background:#f1e9e1;color:#706057}
+main:not(.reader-page)>footer{background:var(--navy);color:#e6d5c8}
 a:focus-visible{outline-color:#dd864b}
 .chapter-grid{grid-template-columns:repeat(3,1fr)}
 /* Prepublication pages, absent from WA2's release page. */
