@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import "./wa2-publication.css";
+import "./mao-publication-template.css";
 import "./mao-reader-template.css";
 import "./fate-theme.css";
 export const metadata: Metadata = {

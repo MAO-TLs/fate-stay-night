@@ -12,6 +12,21 @@
 .release-label{color:#c7997e}
 .chapter-card{background:#fff}.chapter-card:hover{background:#fff3e8}
 .install-section{background:#fff}
+.release-reading,.release-credits{background:#f3e9df}
+.release-scope{background:#fff}
+.mao-reader-shell{
+ --mao-template-ink:#2b211c;
+ --mao-template-ink-soft:#706057;
+ --mao-template-paper:#faf8f5;
+ --mao-template-ice:#f3dfcc;
+ --mao-template-ice-deep:#efb383;
+ --mao-template-ice-ink:#945027;
+ --mao-template-blue:#945027;
+ --mao-template-navy:#21110d;
+ --mao-template-line:rgba(91,52,30,.2);
+}
+.reader-page{background:#faf8f5}
+.reader-page .script-line .speaker{display:none}
 footer{background:#f1e9e1;color:#706057}
 a:focus-visible{outline-color:#dd864b}
 .chapter-grid{grid-template-columns:repeat(3,1fr)}
