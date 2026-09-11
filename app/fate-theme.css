@@ -1,0 +1,33 @@
+/* WA2 publication baseline with the current cross-title spacing contract.
+   Fate retains its approved artwork, orange palette, and route organization. */
+:root{color-scheme:light;--ink:#2b211c;--ink-soft:#706057;--paper:#faf8f5;--white:#fff;--ice:#f3dfcc;--ice-deep:#efb383;--ice-ink:#945027;--blue:#db703b;--navy:#21110d;--line:rgba(230,149,99,.19)}
+.hero,.reader-header{background:#241008;color:#fff}
+.hero::after{background:linear-gradient(90deg,rgba(25,10,7,.92) 0%,rgba(37,12,5,.8) 39%,rgba(38,13,5,.2) 70%,rgba(30,11,6,.05) 100%)}
+.hero h1 span{white-space:nowrap}
+.button-primary{background:#e88b52;color:#210f08}
+.button-primary:hover{background:#f1a270}
+.button-secondary{color:#fff;border-color:#98624a;background:rgba(26,10,6,.04)}
+.release-strip{background:#27130d;color:#fff}
+.release-grid>div{border-color:#533022}
+.release-label{color:#c7997e}
+.chapter-card{background:#fff}.chapter-card:hover{background:#fff3e8}
+.install-section{background:#fff}
+footer{background:#f1e9e1;color:#706057}
+a:focus-visible{outline-color:#dd864b}
+.chapter-grid{grid-template-columns:repeat(3,1fr)}
+/* Prepublication pages, absent from WA2's release page. */
+.subpage-title{padding-block:54px 62px}
+.subpage-title h1{font:400 clamp(46px,6vw,78px)/1.02 var(--serif);margin:0;letter-spacing:-.05em}
+.subpage-title>p:last-child{max-width:680px;margin:18px 0 0;color:#d7b29a;font-family:var(--serif);font-size:18px;line-height:1.6}
+.reader-header .eyebrow{color:var(--ice-deep)}
+.method-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:40px;margin-top:60px}
+.method-grid h3{font:400 28px var(--serif)}
+.method-grid p{color:var(--ink-soft);font-size:16px;line-height:1.75}
+@media(max-width:900px){.hero::after{background:linear-gradient(90deg,rgba(25,10,7,.95) 0%,rgba(37,12,5,.84) 58%,rgba(30,11,6,.36) 100%)}.chapter-grid{grid-template-columns:1fr 1fr}}
+@media(max-width:600px){.chapter-grid,.method-grid{grid-template-columns:1fr}}
+/* Shared release-title sizing; overrides the older bundled mobile rule. */
+.hero h1{font-size:clamp(76px,9.2vw,138px)}
+@media(max-width:640px){
+  .hero h1{font-size:clamp(44px,14vw,82px)}
+  .subpage-title{padding-block:42px 50px}
+}
