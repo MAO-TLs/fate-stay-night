@@ -33,7 +33,7 @@ def english_pages(path: Path) -> list[tuple[str, str]]:
     return cleaned
 
 
-def japanese_pages(path: Path) -> list[tuple[str, str]]:
+def japanese_pages(path: Path, preserve_ruby: bool = False) -> list[tuple[str, str]]:
     pages: list[tuple[str, list[str]]] = []
     in_comment = False
     for raw in path.read_text(encoding="utf-8-sig").splitlines():
@@ -46,9 +46,10 @@ def japanese_pages(path: Path) -> list[tuple[str, str]]:
                 pages.append((match.group(1), []))
             elif pages and raw and not raw.startswith(("@", "*", ";")):
                 text = raw
-                text = re.sub(r"\[ruby\s+text=([^\]]+)\]", "", text)
+                if not preserve_ruby:
+                    text = re.sub(r"\[ruby\s+text=([^\]]+)\]", "", text)
                 text = re.sub(r"\[(?:lr|r|line\d+|font[^\]]*|resetfont|ch[^\]]*)\]", "\n", text)
-                text = re.sub(r"\[[^\]]+\]", "", text)
+                text = re.sub(r"\[(?!ruby\s)[^\]]+\]", "", text)
                 text = text.replace("　", " ").strip()
                 if text:
                     pages[-1][1].append(text)
@@ -92,6 +93,7 @@ def main() -> None:
         jp_path = JP / f"{script}.ks"
         en_path = EN / f"{script}.md"
         jp_pages = japanese_pages(jp_path)
+        ruby_pages = japanese_pages(jp_path, preserve_ruby=True)
         en_pages = english_pages(en_path)
         if [x[0] for x in jp_pages] != [x[0] for x in en_pages]:
             raise RuntimeError(f"Page mismatch: {script}")
@@ -103,8 +105,8 @@ def main() -> None:
             "route": route,
             "title": script,
             "pages": [
-                {"ref": label, "ja": japanese, "en": english}
-                for (label, japanese), (_, english) in zip(jp_pages, en_pages)
+                {"ref": label, "ja": japanese, "jaRuby": ruby, "en": english}
+                for (label, japanese), (_, ruby), (_, english) in zip(jp_pages, ruby_pages, en_pages)
             ],
         }
         (OUT / f"{item_id}.json").write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")

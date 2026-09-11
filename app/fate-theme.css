@@ -27,6 +27,8 @@
 }
 .reader-page{background:#faf8f5}
 .reader-page .script-line .speaker{display:none}
+.reader-page ruby{ruby-position:over}
+.reader-page rt{font-size:.55em;line-height:1.1;white-space:pre}
 footer{background:#f1e9e1;color:#706057}
 a:focus-visible{outline-color:#dd864b}
 .chapter-grid{grid-template-columns:repeat(3,1fr)}
