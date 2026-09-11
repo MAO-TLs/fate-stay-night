@@ -14,11 +14,15 @@ OUT = SITE / "public/data/script"
 
 def english_pages(path: Path) -> list[tuple[str, str]]:
     pages: list[tuple[str, list[str]]] = []
+    in_page = False
     for raw in path.read_text(encoding="utf-8-sig").splitlines():
         match = re.match(r"^#{2,4}\s+(page\d+)\s*$", raw)
         if match:
             pages.append((match.group(1), []))
-        elif pages and not raw.startswith("#"):
+            in_page = True
+        elif re.match(r"^#{1,6}\s", raw):
+            in_page = False
+        elif pages and in_page:
             pages[-1][1].append(raw)
     cleaned = []
     for label, lines in pages:
