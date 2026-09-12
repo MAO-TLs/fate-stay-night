@@ -1,0 +1,1495 @@
+[
+  {
+    "script": "桜ルート九日目-15",
+    "ref": "page2",
+    "line": 28,
+    "source_sha256": "8ea27d8867cc8171fadf0cb03a576056157f47719698d939c32d1ca0e3697ef2",
+    "witness_sha256": "d8e3d1315cc29c9ade427a0fd3863c1317d268628b34864e5835247cc3f5742c",
+    "reason": "Inactive explanatory narration. The source-critical review found that the displayed scene already carries the intended inference and explicitly directs that this comment not be restored."
+  },
+  {
+    "script": "桜ルート九日目-15",
+    "ref": "page10",
+    "line": 79,
+    "source_sha256": "8ea27d8867cc8171fadf0cb03a576056157f47719698d939c32d1ca0e3697ef2",
+    "witness_sha256": "d8e3d1315cc29c9ade427a0fd3863c1317d268628b34864e5835247cc3f5742c",
+    "reason": "Inactive explanatory narration. The source-critical review explicitly distinguishes Rin's concern about mistaken instruction from an added explanation and directs that this comment not be restored."
+  },
+  {
+    "script": "桜ルート九日目-15",
+    "ref": "page11",
+    "line": 89,
+    "source_sha256": "8ea27d8867cc8171fadf0cb03a576056157f47719698d939c32d1ca0e3697ef2",
+    "witness_sha256": "d8e3d1315cc29c9ade427a0fd3863c1317d268628b34864e5835247cc3f5742c",
+    "reason": "Inactive explanatory narration. The source-critical review explicitly directs that the unreported individual answers not be invented or restored."
+  },
+  {
+    "script": "桜ルート九日目-35",
+    "ref": "page21",
+    "line": 168,
+    "source_sha256": "1064feef0735a34bdd9f435999a74b7b0f4ecf3de9885209a5b89450d7c7c6be",
+    "witness_sha256": "f74820a5460b2c835976eecf9decffc98fd383296e121d4ccb4970f75df77c3a",
+    "reason": "Inactive explanatory narration. The source-critical review explicitly says the extra narration after page21 is inactive and must not be restored."
+  },
+  {
+    "script": "桜ルート九日目-35",
+    "ref": "page24",
+    "line": 194,
+    "source_sha256": "1064feef0735a34bdd9f435999a74b7b0f4ecf3de9885209a5b89450d7c7c6be",
+    "witness_sha256": "f74820a5460b2c835976eecf9decffc98fd383296e121d4ccb4970f75df77c3a",
+    "reason": "Inactive duplicate dialogue. The same Shirou question is already active in the page's double-column presentation, and the source-critical review explicitly says not to restore the commented copy."
+  },
+  {
+    "script": "桜ルート九日目-35",
+    "ref": "page24",
+    "line": 197,
+    "source_sha256": "1064feef0735a34bdd9f435999a74b7b0f4ecf3de9885209a5b89450d7c7c6be",
+    "witness_sha256": "f74820a5460b2c835976eecf9decffc98fd383296e121d4ccb4970f75df77c3a",
+    "reason": "Inactive duplicate dialogue. The same Rin question is already active in the page's double-column presentation, and the source-critical review explicitly says not to restore the commented copy."
+  },
+  {
+    "script": "桜ルート九日目-35",
+    "ref": "page50",
+    "line": 387,
+    "source_sha256": "1064feef0735a34bdd9f435999a74b7b0f4ecf3de9885209a5b89450d7c7c6be",
+    "witness_sha256": "f74820a5460b2c835976eecf9decffc98fd383296e121d4ccb4970f75df77c3a",
+    "reason": "Inactive internal narration. The source-critical review explicitly identifies page50's angry narration as inactive and directs that the active question after the commented page marker remain the transition."
+  },
+  {
+    "script": "桜ルート九日目-35",
+    "ref": "page50",
+    "line": 388,
+    "source_sha256": "1064feef0735a34bdd9f435999a74b7b0f4ecf3de9885209a5b89450d7c7c6be",
+    "witness_sha256": "f74820a5460b2c835976eecf9decffc98fd383296e121d4ccb4970f75df77c3a",
+    "reason": "Inactive internal narration. The source-critical review explicitly identifies page50's angry narration as inactive and directs that the active question after the commented page marker remain the transition."
+  },
+  {
+    "script": "桜ルート五日目-05",
+    "ref": "page25",
+    "line": 260,
+    "source_sha256": "b72006ec2ff8d42ddf750237e495fb2674882e6d7cf9e978e150858ebc34eced",
+    "witness_sha256": "6874d37a85709c27481fb7f2ef9cfb1896412cd2196641580d0b5cb0248e9442",
+    "reason": "Inactive legacy narration. The source-critical review explicitly identifies the tentative delivery line at the end of page25 as deleted and directs that it not be restored."
+  },
+  {
+    "script": "桜ルート五日目-05",
+    "ref": "page29",
+    "line": 291,
+    "source_sha256": "b72006ec2ff8d42ddf750237e495fb2674882e6d7cf9e978e150858ebc34eced",
+    "witness_sha256": "6874d37a85709c27481fb7f2ef9cfb1896412cd2196641580d0b5cb0248e9442",
+    "reason": "Inactive legacy narration. The source-critical review explicitly says not to restore the deleted description of Illya's smug laugh at the end of page29."
+  },
+  {
+    "script": "桜ルート五日目-05",
+    "ref": "page37",
+    "line": 352,
+    "source_sha256": "b72006ec2ff8d42ddf750237e495fb2674882e6d7cf9e978e150858ebc34eced",
+    "witness_sha256": "6874d37a85709c27481fb7f2ef9cfb1896412cd2196641580d0b5cb0248e9442",
+    "reason": "Inactive legacy narration. The source-critical review identifies the extra running description at the end of page37 as invalid rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート五日目-09",
+    "ref": "page17",
+    "line": 149,
+    "source_sha256": "0caf45367cd7d4d4048e846443aa8465c9cfdb9d1dfe41c559d644e0cfc6a958",
+    "witness_sha256": "47a886b809a03b07b4c3d8fd568e9e44083e640de43215a7890bc8d3251e18aa",
+    "reason": "Inactive legacy narration. The source-critical review identifies the old description following Saber's declaration as commented out and not part of the scene's restored Original reading."
+  },
+  {
+    "script": "桜ルート五日目-13",
+    "ref": "page12",
+    "line": 160,
+    "source_sha256": "005cd0a3c2a10ea66ea096093bc3acfd0ac66b5c70faa8a9ca24ceb7a8662712",
+    "witness_sha256": "960de19ea78c4a00190e87cef11eafa3f65992029e7dc8febeb6338271ff579c",
+    "reason": "Inactive deleted dialogue. The source-critical review explicitly says Shirou's deleted page12 interjection must not be restored."
+  },
+  {
+    "script": "桜ルート五日目-13",
+    "ref": "page12",
+    "line": 164,
+    "source_sha256": "005cd0a3c2a10ea66ea096093bc3acfd0ac66b5c70faa8a9ca24ceb7a8662712",
+    "witness_sha256": "960de19ea78c4a00190e87cef11eafa3f65992029e7dc8febeb6338271ff579c",
+    "reason": "Inactive delivery narration attached to deleted dialogue. Restoring it without the rejected line would create a false utterance, and the source-critical review excludes that deleted page12 beat."
+  },
+  {
+    "script": "桜ルート五日目-14",
+    "ref": "page16",
+    "line": 136,
+    "source_sha256": "9f8fc3f56f8fc1c93fda2dfc71f2328cadeee571b127267ac2650059de6cb0e0",
+    "witness_sha256": "7e296ca23542e560573673a2750b47800d6a50e3a330ef825b00f18fed007c79",
+    "reason": "Inactive deleted narration. The source-critical review explicitly directs that both deleted sentences at the end of page16 not be restored."
+  },
+  {
+    "script": "桜ルート五日目-14",
+    "ref": "page16",
+    "line": 137,
+    "source_sha256": "9f8fc3f56f8fc1c93fda2dfc71f2328cadeee571b127267ac2650059de6cb0e0",
+    "witness_sha256": "7e296ca23542e560573673a2750b47800d6a50e3a330ef825b00f18fed007c79",
+    "reason": "Inactive deleted narration. The source-critical review explicitly directs that both deleted sentences at the end of page16 not be restored."
+  },
+  {
+    "script": "桜ルート五日目-14",
+    "ref": "page26",
+    "line": 222,
+    "source_sha256": "9f8fc3f56f8fc1c93fda2dfc71f2328cadeee571b127267ac2650059de6cb0e0",
+    "witness_sha256": "7e296ca23542e560573673a2750b47800d6a50e3a330ef825b00f18fed007c79",
+    "reason": "Inactive deleted dialogue. The source-critical review identifies Shirou's training comparison at the opening of page26 as commented out rather than a recoverable edition difference."
+  },
+  {
+    "script": "桜ルート五日目-16",
+    "ref": "page6",
+    "line": 49,
+    "source_sha256": "ecd83df9a1fe157cf232d1c1a466bd16fe84fc5ead8ff518b983a04806c66dcd",
+    "witness_sha256": "794f4704c8eb952d446d439c6887988ab10a4f6838f9d4499b953e475c0db1ee",
+    "reason": "Inactive legacy narration. The source-critical review explicitly identifies the old declaration beat at the opening of page6 as commented out rather than part of the restored Original reading."
+  },
+  {
+    "script": "桜ルート八日目-14",
+    "ref": "page8",
+    "line": 68,
+    "source_sha256": "b6cfe07e5ae6b76c39725a6b33fa65d8527321eb8a109cccc29c0b7c22d4ce08",
+    "witness_sha256": "3bc82970e9f7bd4a3c1c55d4537e69a5913d761ac50461417d95727f8732872f",
+    "reason": "Inactive alternate dialogue. The source-critical review explicitly directs use of the active shortened speech at page8, not this preceding commented version or its ruby."
+  },
+  {
+    "script": "桜ルート八日目-14",
+    "ref": "page27",
+    "line": 208,
+    "source_sha256": "b6cfe07e5ae6b76c39725a6b33fa65d8527321eb8a109cccc29c0b7c22d4ce08",
+    "witness_sha256": "3bc82970e9f7bd4a3c1c55d4537e69a5913d761ac50461417d95727f8732872f",
+    "reason": "Inactive elaboration. The source-critical review explicitly says the boiling-head and whistling-ear description at page27 must not be restored as active narration."
+  },
+  {
+    "script": "桜ルート六日目-00",
+    "ref": "page40",
+    "line": 439,
+    "source_sha256": "6269105ae30a97ba134c5456862537b813871e17abebbb171ee8ff2ad2abe34a",
+    "witness_sha256": "6c718b31d1ae274c230dc37fa8264933ccd70788eed42632c6f44f0bb5fd8021",
+    "reason": "Inactive legacy stage narration. The source-critical review explicitly identifies the old room-entry description on page40 as invalid rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート六日目-00",
+    "ref": "page40",
+    "line": 443,
+    "source_sha256": "6269105ae30a97ba134c5456862537b813871e17abebbb171ee8ff2ad2abe34a",
+    "witness_sha256": "6c718b31d1ae274c230dc37fa8264933ccd70788eed42632c6f44f0bb5fd8021",
+    "reason": "Inactive legacy delivery narration. The source-critical review treats page40's old staging lines as invalid and preserves the active greeting without this added composure claim."
+  },
+  {
+    "script": "桜ルート六日目-00",
+    "ref": "page71",
+    "line": 697,
+    "source_sha256": "6269105ae30a97ba134c5456862537b813871e17abebbb171ee8ff2ad2abe34a",
+    "witness_sha256": "6c718b31d1ae274c230dc37fa8264933ccd70788eed42632c6f44f0bb5fd8021",
+    "reason": "Inactive legacy narration. The source-critical review explicitly says the deleted descriptions on pages71 and73 must not be restored."
+  },
+  {
+    "script": "桜ルート六日目-00",
+    "ref": "page73",
+    "line": 714,
+    "source_sha256": "6269105ae30a97ba134c5456862537b813871e17abebbb171ee8ff2ad2abe34a",
+    "witness_sha256": "6c718b31d1ae274c230dc37fa8264933ccd70788eed42632c6f44f0bb5fd8021",
+    "reason": "Inactive legacy narration. The source-critical review explicitly says the deleted descriptions on pages71 and73 must not be restored."
+  },
+  {
+    "script": "桜ルート六日目-09",
+    "ref": "page41",
+    "line": 360,
+    "source_sha256": "98a60e13fd577d26b474f4283c71e0c74866dd41bddb8168f3273f3bfd4dc6c2",
+    "witness_sha256": "108c22c400f91cd3b81ca78a897139bd7db170eccbc201b100f117a90d14be36",
+    "reason": "Inactive legacy narration. The source-critical review explicitly inventories page41's glare description as a single inactive commented line, not part of the restored Original scene."
+  },
+  {
+    "script": "桜ルート六日目-19",
+    "ref": "page15",
+    "line": 159,
+    "source_sha256": "780d649687a1d314cd389956dc50c7092d12e025e849744a75c9e917b61668d9",
+    "witness_sha256": "abc86d44b736f7df59108c35b301512c6d6b783742297d87be77ee033ff18798",
+    "reason": "Inactive legacy narration. The source-critical review explicitly says not to import the commented narrator identification at page15 into active prose."
+  },
+  {
+    "script": "桜ルート六日目-19",
+    "ref": "page17",
+    "line": 175,
+    "source_sha256": "780d649687a1d314cd389956dc50c7092d12e025e849744a75c9e917b61668d9",
+    "witness_sha256": "abc86d44b736f7df59108c35b301512c6d6b783742297d87be77ee033ff18798",
+    "reason": "Inactive legacy phone-call narration. The source-critical review explicitly inventories the commented narration at page17 as inactive rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート六日目-19",
+    "ref": "page17",
+    "line": 176,
+    "source_sha256": "780d649687a1d314cd389956dc50c7092d12e025e849744a75c9e917b61668d9",
+    "witness_sha256": "abc86d44b736f7df59108c35b301512c6d6b783742297d87be77ee033ff18798",
+    "reason": "Inactive legacy phone-call narration. The source-critical review explicitly inventories the commented narration at page17 as inactive rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート十一日目-02",
+    "ref": "page48",
+    "line": 373,
+    "source_sha256": "d6e2fa529f7b0dde57991d4fa44012ec2ed75c601541eafdc49294f744cfb8c2",
+    "witness_sha256": "84e21fcfbd663dd26564f0844329b3f1b21e819c89d625304e3f903e24ceb920",
+    "reason": "Inactive preliminary narration. The source-critical review says page48's two preliminary smiling sentences are commented out while the following active narration independently confirms the genuine smile."
+  },
+  {
+    "script": "桜ルート十一日目-02",
+    "ref": "page48",
+    "line": 374,
+    "source_sha256": "d6e2fa529f7b0dde57991d4fa44012ec2ed75c601541eafdc49294f744cfb8c2",
+    "witness_sha256": "84e21fcfbd663dd26564f0844329b3f1b21e819c89d625304e3f903e24ceb920",
+    "reason": "Inactive preliminary narration. The source-critical review says page48's two preliminary smiling sentences are commented out while the following active narration independently confirms the genuine smile."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page21",
+    "line": 205,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "8bb9c5bd9e08016df6717450531f958db1dc7540eded6119c074832a32169856",
+    "reason": "Inactive attraction narration. The source-critical review explicitly states that commented additions at pages21,49,78, and84 are not active prose."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page49",
+    "line": 394,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "8bb9c5bd9e08016df6717450531f958db1dc7540eded6119c074832a32169856",
+    "reason": "Inactive delivery fragment. The source-critical review explicitly says the commented comparison to Rin at page49 must not be restored."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page49",
+    "line": 395,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "8bb9c5bd9e08016df6717450531f958db1dc7540eded6119c074832a32169856",
+    "reason": "Inactive comparison narration. The source-critical review explicitly says the commented comparison to Rin at page49 must not be restored."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page78",
+    "line": 605,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "8bb9c5bd9e08016df6717450531f958db1dc7540eded6119c074832a32169856",
+    "reason": "Inactive explanatory narration. The source-critical review explicitly states that the commented addition at page78 is not active prose."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page84",
+    "line": 649,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "8bb9c5bd9e08016df6717450531f958db1dc7540eded6119c074832a32169856",
+    "reason": "Inactive smile narration. The source-critical review explicitly states that the commented addition at page84 is not active prose."
+  },
+  {
+    "script": "桜ルート十一日目-08",
+    "ref": "page39",
+    "line": 321,
+    "source_sha256": "b3b977fc971e140f8799a9773121c6419be50a68a0aef76db25c4a9f41ed1150",
+    "witness_sha256": "b70d57fdca597dcb07288ab6b42d617a37f47fe05d9d82a7a12cc4f21fb0d31d",
+    "reason": "Inactive delivery narration. The source-critical review explicitly excludes the commented emphatic-delivery sentence at page39 while preserving the active elder-sister narration and Sakura's response."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page2",
+    "line": 44,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive explanatory narration. The source-critical review explicitly states that commented prose at page2 is excluded while the active reactions remain included."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page13",
+    "line": 138,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive delivery narration. The source-critical review explicitly states that commented prose at page13 is excluded; the following active narration already communicates Shirou's strained voice and breathing."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page35",
+    "line": 293,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive recollection. The source-critical review explicitly identifies the extended page35 recollection as inactive rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page35",
+    "line": 294,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive recollection. The source-critical review explicitly identifies the extended page35 recollection as inactive rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page35",
+    "line": 295,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive recollection. The source-critical review explicitly identifies the extended page35 recollection as inactive rather than an Original-edition restoration."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page38",
+    "line": 320,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive expression narration. The source-critical review explicitly says the commented pouting description at page38 must not be restored as active action."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page42",
+    "line": 350,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "cf43866d31e587f16c8824d7e7df749c97f713139eeb537929efe07f58b762ae",
+    "reason": "Inactive expression narration. The source-critical review explicitly says the commented direct-gaze description at page42 must not be restored as active action."
+  },
+  {
+    "script": "桜ルート十一日目-10",
+    "ref": "page35",
+    "line": 300,
+    "source_sha256": "d892c0c34e5e99f865357656e18df250ee167d916bb361befae7c9ea6d9c0395",
+    "witness_sha256": "454c11e14bb0eccf877cb1e5e9c2b902b0b96fdf6a6386730767d137dcf81e43",
+    "reason": "Inactive smile narration. The source-critical review explicitly identifies the additional smiling sentence at page35 as commented out rather than active Original prose."
+  },
+  {
+    "script": "桜ルート十一日目-13",
+    "ref": "page12",
+    "line": 121,
+    "source_sha256": "8088f61ada91e0a778fcb1fd01d86395f11548f1894c6c49ed71edc9a5b8d395",
+    "witness_sha256": "69eeec6fe5ddbeda53fd2defb30086480bde70fc01bd1580bfbb2099bed1f963",
+    "reason": "Inactive departure narration. The source-critical review explicitly excludes the commented narration at pages12–13 while retaining Rin actively pulling Shirou outside."
+  },
+  {
+    "script": "桜ルート十一日目-13",
+    "ref": "page13",
+    "line": 127,
+    "source_sha256": "8088f61ada91e0a778fcb1fd01d86395f11548f1894c6c49ed71edc9a5b8d395",
+    "witness_sha256": "69eeec6fe5ddbeda53fd2defb30086480bde70fc01bd1580bfbb2099bed1f963",
+    "reason": "Inactive Sakura reaction narration. The source-critical review explicitly says the description of Sakura remaining lonely at page13 is not active narration."
+  },
+  {
+    "script": "桜ルート十一日目-13",
+    "ref": "page18",
+    "line": 165,
+    "source_sha256": "8088f61ada91e0a778fcb1fd01d86395f11548f1894c6c49ed71edc9a5b8d395",
+    "witness_sha256": "69eeec6fe5ddbeda53fd2defb30086480bde70fc01bd1580bfbb2099bed1f963",
+    "reason": "Inactive longer alternate opening. The source-critical review explicitly excludes it and retains the shorter active speech beginning with Rin's denial of sympathy."
+  },
+  {
+    "script": "桜ルート十三日目-01",
+    "ref": "page10",
+    "line": 89,
+    "source_sha256": "af726bf1053694c4acf311049852c8cadee5f591afa5360c87446be093f6b381",
+    "witness_sha256": "658b3b321321db25d4f2581f38f5f780b2aaa15a710a0f976157032794688239",
+    "reason": "Inactive summary narration. The source-critical review explicitly states that commented prose at page10 is excluded while Shirou's active threat and contemplated violence remain intact."
+  },
+  {
+    "script": "桜ルート十三日目-06",
+    "ref": "page37",
+    "line": 365,
+    "source_sha256": "b251cdaa5d6f0694632a0c781327876000e333e597580bbc529d540c38a9f6e0",
+    "witness_sha256": "eb24d063eac214ca5c86ec2f6d820f7de3fcd62f8716f2b59c80a56ab08ad7d7",
+    "reason": "Inactive defiant narration. The source-critical review explicitly directs that the commented page37 sentence not be restored, preserving the confession and moral cost of Shirou's choice."
+  },
+  {
+    "script": "桜ルート十三日目-09",
+    "ref": "page5",
+    "line": 65,
+    "source_sha256": "8d63d86fb6b72c8d01b5358362d2a97b1d85c8cfa1202be0fe5d09d67f2eebab",
+    "witness_sha256": "621e19dd24c822c3b1783575a631210679abf2748b520e4b6b2d60578bf449d8",
+    "reason": "Inactive changing-clothes aside. The source-critical review explicitly says the commented argument before the deleted page6 marker is not active prose."
+  },
+  {
+    "script": "桜ルート十三日目-09",
+    "ref": "page5",
+    "line": 67,
+    "source_sha256": "8d63d86fb6b72c8d01b5358362d2a97b1d85c8cfa1202be0fe5d09d67f2eebab",
+    "witness_sha256": "621e19dd24c822c3b1783575a631210679abf2748b520e4b6b2d60578bf449d8",
+    "reason": "Inactive changing-clothes aside. The source-critical review explicitly says the commented argument before the deleted page6 marker is not active prose."
+  },
+  {
+    "script": "桜ルート十三日目-09",
+    "ref": "page5",
+    "line": 68,
+    "source_sha256": "8d63d86fb6b72c8d01b5358362d2a97b1d85c8cfa1202be0fe5d09d67f2eebab",
+    "witness_sha256": "621e19dd24c822c3b1783575a631210679abf2748b520e4b6b2d60578bf449d8",
+    "reason": "Inactive changing-clothes aside. The source-critical review explicitly says the commented argument before the deleted page6 marker is not active prose."
+  },
+  {
+    "script": "桜ルート十二日目-00",
+    "ref": "page11",
+    "line": 98,
+    "source_sha256": "05e4ce9963cc5d74c1391c7c1f662b1ca23f8df91a4de16d4691d05b3ee42526",
+    "witness_sha256": "87ae5362d8d34500483267fc113dff1ff4d4560579a42162f13ca31eb55afbad",
+    "reason": "Inactive redundant narration. The source-critical review explicitly excludes commented narration at pages11–12 while the active prose already establishes Rin's seriousness and Shirou's revised judgment."
+  },
+  {
+    "script": "桜ルート十二日目-00",
+    "ref": "page12",
+    "line": 108,
+    "source_sha256": "05e4ce9963cc5d74c1391c7c1f662b1ca23f8df91a4de16d4691d05b3ee42526",
+    "witness_sha256": "87ae5362d8d34500483267fc113dff1ff4d4560579a42162f13ca31eb55afbad",
+    "reason": "Inactive redundant narration. The source-critical review explicitly excludes commented narration at pages11–12; Rin's active repeated question and the response sequence remain intact."
+  },
+  {
+    "script": "桜ルート十二日目-03",
+    "ref": "page7",
+    "line": 60,
+    "source_sha256": "ca5c76f262c2271695788673257642fee53cb217b64673901d52de47e7ef238f",
+    "witness_sha256": "662db3ad88c4bbb4382321b8c31b18e653568e91af460a7136af5c9b592b4f8b",
+    "reason": "Inactive gaze narration. The source-critical review explicitly inventories the commented narration at page7 as excluded while Illya's active technical correction remains complete."
+  },
+  {
+    "script": "桜ルート十二日目-03",
+    "ref": "page16",
+    "line": 133,
+    "source_sha256": "ca5c76f262c2271695788673257642fee53cb217b64673901d52de47e7ef238f",
+    "witness_sha256": "662db3ad88c4bbb4382321b8c31b18e653568e91af460a7136af5c9b592b4f8b",
+    "reason": "Inactive delivery narration. The source-critical review explicitly says the emotionless-voice assertion at page16 is commented out and must not determine Illya's delivery."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page6",
+    "line": 82,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive rebuttal narration. The source-critical review explicitly states that commented prose at page6 is excluded rather than restored as Original dialogue or narration."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page11",
+    "line": 136,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive Sakura-plea narration. The source-critical review explicitly excludes the commented prose at page11 while retaining the active confrontation."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page11",
+    "line": 137,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive Sakura-passion narration. The source-critical review explicitly excludes the commented prose at page11 while retaining Sakura's active speech."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page11",
+    "line": 138,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive Rin-response narration. The source-critical review explicitly excludes the commented prose at page11 while retaining Rin's active cold response."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page17",
+    "line": 183,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive narration fragment. The source-critical review explicitly says the commented page17 prose is excluded while the dialogue on that page remains active."
+  },
+  {
+    "script": "桜ルート十二日目-07",
+    "ref": "page17",
+    "line": 191,
+    "source_sha256": "03aea3cbbaa7c1500219d019e9ac55fa116a3504f96dd1bf24f0f0561f9a6f32",
+    "witness_sha256": "43410a0c0a828fcf457b3e1fce16a3d87a582dc1fbb92af24419ff356839b686",
+    "reason": "Inactive weak-voice narration. The source-critical review explicitly excludes this commented page17 delivery note while preserving Rin's active reply."
+  },
+  {
+    "script": "桜ルート十二日目-12",
+    "ref": "page7",
+    "line": 82,
+    "source_sha256": "63cbde1f66dbf095201787eb1ba882e6d20db538cdee150c84fd2c5a2fd13143",
+    "witness_sha256": "5550640d28e7cf554ca18a45ba770a940ca6b8d78a95d5476b9c3e43e0ea8f01",
+    "reason": "Inactive longer alternate continuation. The source-critical review explicitly preserves the short active ending at page7 and says the commented longer explanation must not be restored."
+  },
+  {
+    "script": "桜ルート十二日目-13",
+    "ref": "page5",
+    "line": 63,
+    "source_sha256": "4c48a1bb19fc20687d976361057dc7b17c0220ae20c9df1e304da948509f6eb6",
+    "witness_sha256": "a81fc40f25ec1b022ac138077fbec7fe47788ccb04a75ee27030878e77690a20",
+    "reason": "Inactive observation about Rin's unchanged tone. The source-critical review inventories this sentence as commented prose and keeps the following active narration on page5."
+  },
+  {
+    "script": "桜ルート十二日目-13",
+    "ref": "page30",
+    "line": 271,
+    "source_sha256": "4c48a1bb19fc20687d976361057dc7b17c0220ae20c9df1e304da948509f6eb6",
+    "witness_sha256": "a81fc40f25ec1b022ac138077fbec7fe47788ccb04a75ee27030878e77690a20",
+    "reason": "Inactive satisfaction fragment. The source-critical review explicitly inventories this commented page30 fragment as excluded and preserves the active shift into Shirou's unmet need on page31."
+  },
+  {
+    "script": "桜ルート十五日目-04",
+    "ref": "page28",
+    "line": 229,
+    "source_sha256": "4d4a4facdacdcb09933c3aa9227ef5ff1c2320a1e1caca753c8a4acb39e8feff",
+    "witness_sha256": "40e2dcbff32e80974fc6ae3432a23f9697459110b87fa4a461dc15c721d7af94",
+    "reason": "Inactive shouted-reply narration. The source-critical review explicitly keeps this commented sentence excluded while preserving the active anger narration that follows on page28."
+  },
+  {
+    "script": "桜ルート十五日目-12",
+    "ref": "page149",
+    "line": 1316,
+    "source_sha256": "436f2308dab538282cd00ede03b122c8d8148926ae968d43cec59b1f030fc413",
+    "witness_sha256": "c592cb1022e3f33d44c991ad5b0a5d5273f78adbe678b18ba83edf34b5e7189d",
+    "reason": "Inactive pre-ruby duplicate. The source immediately follows this commented wording with the active ruby-bearing version of the same speech, which the source-critical English preserves on page149."
+  },
+  {
+    "script": "桜ルート十六日目-10",
+    "ref": "page7",
+    "line": 133,
+    "source_sha256": "6661b33cfd7a0fb57416d17b65cac9e9354bb5d602bbefa21ebe06abb1fd4d75",
+    "witness_sha256": "65ea325e8c57011d8b9c0ec6c6b3ff743952064c19ec688d3b2f8b04fa2f9cf1",
+    "reason": "Inactive Projection performance line. The source-critical review explicitly excludes the commented ‘Trace, on’ line and deleted page8 marker while preserving the active final Projection narration on page7."
+  },
+  {
+    "script": "桜ルート十六日目-21",
+    "ref": "page4",
+    "line": 52,
+    "source_sha256": "2c49ed8a32c58089e95436898292aefadb7889ec6fc9b09993da6d5f26578fe8",
+    "witness_sha256": "04b4ef6f69b802147bbf648d0454cddaa508acaaed5732a2ff27aa9f5c526d80",
+    "reason": "Inactive Zouken groan. The source-critical review explicitly states that the commented groans on pages4, 10, and 19 remain excluded."
+  },
+  {
+    "script": "桜ルート十六日目-21",
+    "ref": "page10",
+    "line": 102,
+    "source_sha256": "2c49ed8a32c58089e95436898292aefadb7889ec6fc9b09993da6d5f26578fe8",
+    "witness_sha256": "04b4ef6f69b802147bbf648d0454cddaa508acaaed5732a2ff27aa9f5c526d80",
+    "reason": "Inactive Zouken groan. The source-critical review explicitly states that the commented groans on pages4, 10, and 19 remain excluded."
+  },
+  {
+    "script": "桜ルート十六日目-21",
+    "ref": "page19",
+    "line": 192,
+    "source_sha256": "2c49ed8a32c58089e95436898292aefadb7889ec6fc9b09993da6d5f26578fe8",
+    "witness_sha256": "04b4ef6f69b802147bbf648d0454cddaa508acaaed5732a2ff27aa9f5c526d80",
+    "reason": "Inactive Zouken groan. The source-critical review explicitly states that the commented groans on pages4, 10, and 19 remain excluded."
+  },
+  {
+    "script": "桜ルート十日目-07",
+    "ref": "page33",
+    "line": 256,
+    "source_sha256": "a507fd77b79fc7b015724ffa92b3cff365f28e2e07678a74ce00d4f1d1c39a2d",
+    "witness_sha256": "2527ebc27bea6e2f4f7cba06c98144700da7ea10dbe629cfa1456fe23bb39005",
+    "reason": "Inactive pronunciation alternative. The source-critical review explicitly excludes the commented vowel-by-vowel demand and retains the active request for a different accent."
+  },
+  {
+    "script": "桜ルート十日目-07",
+    "ref": "page34",
+    "line": 263,
+    "source_sha256": "a507fd77b79fc7b015724ffa92b3cff365f28e2e07678a74ce00d4f1d1c39a2d",
+    "witness_sha256": "2527ebc27bea6e2f4f7cba06c98144700da7ea10dbe629cfa1456fe23bb39005",
+    "reason": "Inactive pronunciation alternative. The source-critical review explicitly excludes the commented shorter corpse-wax response and preserves the active revised exchange."
+  },
+  {
+    "script": "桜ルート十日目-07",
+    "ref": "page35",
+    "line": 271,
+    "source_sha256": "a507fd77b79fc7b015724ffa92b3cff365f28e2e07678a74ce00d4f1d1c39a2d",
+    "witness_sha256": "2527ebc27bea6e2f4f7cba06c98144700da7ea10dbe629cfa1456fe23bb39005",
+    "reason": "Inactive assent narration. The source-critical review explicitly excludes this commented page35 fragment while retaining Rider's active pronunciation struggle and Shirou's reaction."
+  },
+  {
+    "script": "桜ルート四日目-00",
+    "ref": "page4",
+    "line": 42,
+    "source_sha256": "f4fbe6467b47961a6a6ed41687bc9def8201ea8dea225cc1c16ff4c7d8603f30",
+    "witness_sha256": "525c15c3cf0d58e367fcde23cca82d2b3dbf5f36ea4e6b75626516036464e1fb",
+    "reason": "Inactive Illya characterization. The source-critical page4 preserves her full name and its connection to Shinji's grandfather without restoring this commented descriptive sentence."
+  },
+  {
+    "script": "桜ルート四日目-01",
+    "ref": "page43",
+    "line": 355,
+    "source_sha256": "f67ad636acced8c012b19185ede15f6f837f57e1fef78b6f7f5421342f08aa02",
+    "witness_sha256": "d33e77f15defb21edfecf9c07793a85b48771918ee1b56fa86aab9fea8dd9613",
+    "reason": "Superseded expression narration. The source-critical review excludes commented superseded lines and preserves the active sentence stating that Kirei shows no remorse and enjoys hearing Kiritsugu's name."
+  },
+  {
+    "script": "桜ルート四日目-01",
+    "ref": "page46",
+    "line": 369,
+    "source_sha256": "f67ad636acced8c012b19185ede15f6f837f57e1fef78b6f7f5421342f08aa02",
+    "witness_sha256": "d33e77f15defb21edfecf9c07793a85b48771918ee1b56fa86aab9fea8dd9613",
+    "reason": "Inactive delivery narration. The source-critical review excludes commented superseded lines and begins active page46 with Shirou's judgment that Kirei's answer is not wrong."
+  },
+  {
+    "script": "桜ルート四日目-01",
+    "ref": "page56",
+    "line": 438,
+    "source_sha256": "f67ad636acced8c012b19185ede15f6f837f57e1fef78b6f7f5421342f08aa02",
+    "witness_sha256": "d33e77f15defb21edfecf9c07793a85b48771918ee1b56fa86aab9fea8dd9613",
+    "reason": "Superseded moral judgment. The active source immediately replaces this commented wording with the affirmative statement that Kiritsugu's act was right, which the source-critical page56 preserves."
+  },
+  {
+    "script": "桜ルート四日目-05",
+    "ref": "page12",
+    "line": 119,
+    "source_sha256": "220f37c163d5feb16911e017a4ae7cfcc6b9722fcf2dda35c96269f30d136d56",
+    "witness_sha256": "3449846ef6abdc90e719a87463e3e0ff6b034ef206d66f465171d93fd64fefa0",
+    "reason": "Inactive Shinji-expression narration. The source-critical page12 preserves Shinji's active claim about feeding Servants and does not restore this commented laughter description."
+  },
+  {
+    "script": "桜ルート四日目-10",
+    "ref": "page27",
+    "line": 247,
+    "source_sha256": "b34f41d20b67ca8205fb22d170c4599c17c947518057d388ef71ad5572cc51db",
+    "witness_sha256": "ee139caf72bd1f10ee489278f640c46f04e2e85c84d84f9b693f2d9a76694dab",
+    "reason": "Inactive explanation of Shirou's reaction to Saber's clothes. The source-critical review explicitly excludes superseded commented narration and preserves only the two active page27 sentences."
+  },
+  {
+    "script": "桜ルート四日目-10",
+    "ref": "page27",
+    "line": 248,
+    "source_sha256": "b34f41d20b67ca8205fb22d170c4599c17c947518057d388ef71ad5572cc51db",
+    "witness_sha256": "ee139caf72bd1f10ee489278f640c46f04e2e85c84d84f9b693f2d9a76694dab",
+    "reason": "Inactive explanation of Shirou's reaction to Saber's feminine clothes. The source-critical review explicitly excludes superseded commented narration and preserves only the two active page27 sentences."
+  },
+  {
+    "script": "桜ルート四日目-10",
+    "ref": "page35",
+    "line": 301,
+    "source_sha256": "b34f41d20b67ca8205fb22d170c4599c17c947518057d388ef71ad5572cc51db",
+    "witness_sha256": "ee139caf72bd1f10ee489278f640c46f04e2e85c84d84f9b693f2d9a76694dab",
+    "reason": "Superseded complete sentence. The active source immediately replaces it with an unfinished connective leading into Shirou's page36 outburst, and the source-critical review preserves that active transition."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page19",
+    "line": 172,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive awakening dialogue. The source-critical review excludes all superseded commented lines and preserves the active page19 awakening and blood-taste sequence."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page19",
+    "line": 173,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive nausea narration. The source-critical review excludes all superseded commented lines and preserves the active page19 awakening and blood-taste sequence."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page27",
+    "line": 272,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive second-surprise aside. The source-critical page27 retains Rin's startling composure but excludes this commented summary beat."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page32",
+    "line": 319,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive body-horror narration. The source-critical page32 preserves the active nausea and remembered absence of Shirou's body without restoring the commented elaboration."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page32",
+    "line": 320,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive body-horror narration. The source-critical page32 preserves the active nausea and remembered absence of Shirou's body without restoring the commented elaboration."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page32",
+    "line": 321,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive body-horror narration. The source-critical page32 preserves the active nausea and remembered absence of Shirou's body without restoring the commented elaboration."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page138",
+    "line": 1072,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive rationale for Shirou's attraction to Rin. The source-critical review ends active page138 after his wish not to fight her and explicitly excludes superseded comments."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page138",
+    "line": 1073,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive rationale for Shirou's attraction to Rin. The source-critical review ends active page138 after his wish not to fight her and explicitly excludes superseded comments."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page138",
+    "line": 1077,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive wholly deleted page139 prose. The source-critical topology explicitly states that page139 is wholly commented out and excludes all of its prose."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page138",
+    "line": 1078,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive wholly deleted page139 prose. The source-critical topology explicitly states that page139 is wholly commented out and excludes all of its prose."
+  },
+  {
+    "script": "桜ルート四日目-11",
+    "ref": "page138",
+    "line": 1079,
+    "source_sha256": "e31bbb40779fe86af55770f6ad1e02bcb9a2a0c00cce6b705f88ff217ec9c6c1",
+    "witness_sha256": "53c76adec0551e5b828c9e899c40991904fe83829cb21d26d64c149b88a4c060",
+    "reason": "Inactive wholly deleted page139 prose. The source-critical topology explicitly states that page139 is wholly commented out and excludes all of its prose."
+  },
+  {
+    "script": "凛ルート五日目-06",
+    "ref": "page23",
+    "line": 348,
+    "source_sha256": "e148632f78674ebeb8372dd4c27e53062a9996250bfe3a7158151d686f5cd296",
+    "witness_sha256": "da1fb1d1676fc37c76d8dc9296fbb03f215b5bb07d1361b92de6a990e141c146",
+    "reason": "Inactive gunfire narration. The source-critical topology explicitly retains seven commented source lines as inactive and renders the active page23 continuation independently."
+  },
+  {
+    "script": "凛ルート五日目-06",
+    "ref": "page23",
+    "line": 357,
+    "source_sha256": "e148632f78674ebeb8372dd4c27e53062a9996250bfe3a7158151d686f5cd296",
+    "witness_sha256": "da1fb1d1676fc37c76d8dc9296fbb03f215b5bb07d1361b92de6a990e141c146",
+    "reason": "Inactive chase dialogue. The source-critical topology explicitly retains seven commented source lines as inactive and does not restore this deleted exchange."
+  },
+  {
+    "script": "凛ルート五日目-06",
+    "ref": "page23",
+    "line": 359,
+    "source_sha256": "e148632f78674ebeb8372dd4c27e53062a9996250bfe3a7158151d686f5cd296",
+    "witness_sha256": "da1fb1d1676fc37c76d8dc9296fbb03f215b5bb07d1361b92de6a990e141c146",
+    "reason": "Inactive Rin retort. The source-critical topology explicitly retains seven commented source lines as inactive and does not restore this deleted exchange."
+  },
+  {
+    "script": "凛ルート五日目-25",
+    "ref": "page0",
+    "line": 146,
+    "source_sha256": "5ab11859b20b35cb5c63263e23da8cbaed45c813bb295e4e902d203606b973f9",
+    "witness_sha256": "20a3e8950d9e6f9262dccacf42ef67032b9210245230262e12405eca01f7aabf",
+    "reason": "Inactive first-playthrough guidance. The source-critical review explicitly excludes all commented route-unlock commentary from reader-facing text."
+  },
+  {
+    "script": "凛ルート五日目-25",
+    "ref": "page0",
+    "line": 150,
+    "source_sha256": "5ab11859b20b35cb5c63263e23da8cbaed45c813bb295e4e902d203606b973f9",
+    "witness_sha256": "20a3e8950d9e6f9262dccacf42ef67032b9210245230262e12405eca01f7aabf",
+    "reason": "Inactive first-playthrough guidance. The source-critical review explicitly excludes all commented route-unlock commentary from reader-facing text."
+  },
+  {
+    "script": "凛ルート五日目-25",
+    "ref": "page0",
+    "line": 154,
+    "source_sha256": "5ab11859b20b35cb5c63263e23da8cbaed45c813bb295e4e902d203606b973f9",
+    "witness_sha256": "20a3e8950d9e6f9262dccacf42ef67032b9210245230262e12405eca01f7aabf",
+    "reason": "Inactive first-playthrough guidance. The source-critical review explicitly excludes all commented route-unlock commentary from reader-facing text."
+  },
+  {
+    "script": "凛ルート六日目-02",
+    "ref": "page9",
+    "line": 77,
+    "source_sha256": "897aedbff92edb91fb370d88b8a1bfc26c119006e1ae1e9a037215b153e8e9ae",
+    "witness_sha256": "10125d63e681aba798e1236021d5bb100bbc7714148979b33cca6ba8f30d5ce2",
+    "reason": "Superseded single-column dialogue. The source-critical review explicitly identifies all eight commented page9 lines as inactive forms replaced by the active simultaneous double-column command."
+  },
+  {
+    "script": "凛ルート六日目-02",
+    "ref": "page9",
+    "line": 80,
+    "source_sha256": "897aedbff92edb91fb370d88b8a1bfc26c119006e1ae1e9a037215b153e8e9ae",
+    "witness_sha256": "10125d63e681aba798e1236021d5bb100bbc7714148979b33cca6ba8f30d5ce2",
+    "reason": "Superseded single-column dialogue. The source-critical review explicitly identifies all eight commented page9 lines as inactive forms replaced by the active simultaneous double-column command."
+  },
+  {
+    "script": "凛ルート六日目-02",
+    "ref": "page9",
+    "line": 85,
+    "source_sha256": "897aedbff92edb91fb370d88b8a1bfc26c119006e1ae1e9a037215b153e8e9ae",
+    "witness_sha256": "10125d63e681aba798e1236021d5bb100bbc7714148979b33cca6ba8f30d5ce2",
+    "reason": "Superseded single-column dialogue. The source-critical review explicitly identifies all eight commented page9 lines as inactive forms replaced by the active simultaneous double-column command."
+  },
+  {
+    "script": "凛ルート六日目-02",
+    "ref": "page9",
+    "line": 88,
+    "source_sha256": "897aedbff92edb91fb370d88b8a1bfc26c119006e1ae1e9a037215b153e8e9ae",
+    "witness_sha256": "10125d63e681aba798e1236021d5bb100bbc7714148979b33cca6ba8f30d5ce2",
+    "reason": "Superseded single-column dialogue. The source-critical review explicitly identifies all eight commented page9 lines as inactive forms replaced by the active simultaneous double-column command."
+  },
+  {
+    "script": "セイバールート九日目-03",
+    "ref": "page28",
+    "line": 244,
+    "source_sha256": "ff5653aa185872e7e155e75195c4d7edbf72073a25571df0b29b9ddf1d8e48aa",
+    "witness_sha256": "23c82e2c8c1f1d8326b0758defbaf33b75a9e705277e4c23644840df08145106",
+    "reason": "Inactive respiratory simile. The source-critical review audits all twenty active page28 segments and excludes this commented elaboration between the weakness and air-hunger beats."
+  },
+  {
+    "script": "セイバールート九日目-03",
+    "ref": "page28",
+    "line": 320,
+    "source_sha256": "ff5653aa185872e7e155e75195c4d7edbf72073a25571df0b29b9ddf1d8e48aa",
+    "witness_sha256": "23c82e2c8c1f1d8326b0758defbaf33b75a9e705277e4c23644840df08145106",
+    "reason": "Inactive debris comparison. The source-critical page28 sequence instead preserves the active overlap with remembered ruins on the following line."
+  },
+  {
+    "script": "セイバールート九日目-07",
+    "ref": "page7",
+    "line": 93,
+    "source_sha256": "dbbde9ef029a33b84f63dfad47e35b45b9e829f84d3764ad6baebd3fd42d407b",
+    "witness_sha256": "74c0d3cd548bee8e7aa2a0acf4945942fa78a31e532cf4c428c4398a7b054329",
+    "reason": "Inactive Shinji line about Shirou's neck. The source-critical review explicitly identifies this page7 line as commented out and keeps it out of the translated scene."
+  },
+  {
+    "script": "セイバールート十五日目-25",
+    "ref": "page0",
+    "line": 128,
+    "source_sha256": "ef6d562ddf34e340962e8d5b74b849e2494a4227b446717890037e55721e05d7",
+    "witness_sha256": "0e619ed1d3685a34cf21ef7cde319fa32ffd0c5b8cbe1cd797f0aff90e770d5a",
+    "reason": "Inactive Day Three route hint. The source-critical review explicitly says all route hints and lion/Command Spell material in this block must remain excluded."
+  },
+  {
+    "script": "セイバールート十五日目-25",
+    "ref": "page0",
+    "line": 130,
+    "source_sha256": "ef6d562ddf34e340962e8d5b74b849e2494a4227b446717890037e55721e05d7",
+    "witness_sha256": "0e619ed1d3685a34cf21ef7cde319fa32ffd0c5b8cbe1cd797f0aff90e770d5a",
+    "reason": "Inactive Day Three route hint. The source-critical review explicitly says all route hints and lion/Command Spell material in this block must remain excluded."
+  },
+  {
+    "script": "セイバールート十五日目-25",
+    "ref": "page0",
+    "line": 141,
+    "source_sha256": "ef6d562ddf34e340962e8d5b74b849e2494a4227b446717890037e55721e05d7",
+    "witness_sha256": "0e619ed1d3685a34cf21ef7cde319fa32ffd0c5b8cbe1cd797f0aff90e770d5a",
+    "reason": "Inactive Tiger Dojo attack cue. The source-critical review explicitly says all route hints and lion/Command Spell material in this block must remain excluded."
+  },
+  {
+    "script": "セイバールート十五日目-25",
+    "ref": "page0",
+    "line": 143,
+    "source_sha256": "ef6d562ddf34e340962e8d5b74b849e2494a4227b446717890037e55721e05d7",
+    "witness_sha256": "0e619ed1d3685a34cf21ef7cde319fa32ffd0c5b8cbe1cd797f0aff90e770d5a",
+    "reason": "Inactive lion and Command Spell route hint. The source-critical review explicitly says this commented material must remain excluded."
+  },
+  {
+    "script": "セイバールート十五日目-25",
+    "ref": "page0",
+    "line": 148,
+    "source_sha256": "ef6d562ddf34e340962e8d5b74b849e2494a4227b446717890037e55721e05d7",
+    "witness_sha256": "0e619ed1d3685a34cf21ef7cde319fa32ffd0c5b8cbe1cd797f0aff90e770d5a",
+    "reason": "Inactive assent closing the deleted route-hint block. The active source jumps directly to Illya's farewell, as the source-critical review requires."
+  },
+  {
+    "script": "凛ルート十一日目-04",
+    "ref": "page39",
+    "line": 398,
+    "source_sha256": "bdcc837db8f39d9de3dfaf871b43871ba259e1d16db9bc1bbe7bb3b01c786b26",
+    "witness_sha256": "86999ed95ca968a30d521d9c2ac993ca75534426aedcdfc879c13e8a4c0c79c2",
+    "reason": "Inactive narration of Rin laughing while walking. The source-critical structural inventory explicitly identifies this page39 sentence as inactive."
+  },
+  {
+    "script": "凛ルート十一日目-04",
+    "ref": "page128",
+    "line": 1022,
+    "source_sha256": "bdcc837db8f39d9de3dfaf871b43871ba259e1d16db9bc1bbe7bb3b01c786b26",
+    "witness_sha256": "86999ed95ca968a30d521d9c2ac993ca75534426aedcdfc879c13e8a4c0c79c2",
+    "reason": "Inactive claim of partially understanding Rin's feelings. The source-critical review explicitly excludes it and preserves Shirou's differently qualified active reflection."
+  },
+  {
+    "script": "凛ルート十四日目-21",
+    "ref": "page7",
+    "line": 67,
+    "source_sha256": "9e406897ad44f2271a8e9ef1ffa556f3bd59f9ccda794fdc68aeebb7db0e514f",
+    "witness_sha256": "a7536f4070dd39d31af170b1d37f762960365b9240377d125d4ef5f12cac4545",
+    "reason": "Inactive Lancer-delivery narration. The source-critical page7 begins with Shirou's reaction and preserves his active observation about Lancer teasing Saber without restoring this commented sentence."
+  },
+  {
+    "script": "セイバールート三日目-04",
+    "ref": "page54",
+    "line": 585,
+    "source_sha256": "0e977de29c9730b2fa3fddba0725836ff48fd936618286a7460d72287627d55a",
+    "witness_sha256": "57612db1650b259f4cb799e54bded26ac52b204b8a32d84e99a9eda4876f65d9",
+    "reason": "Inactive pain cry. The source-critical page54 preserves the fragmented impact and tumble sequence but does not restore this commented speech command."
+  },
+  {
+    "script": "セイバールート六日目-14",
+    "ref": "page30",
+    "line": 499,
+    "source_sha256": "1dbd57d156de519b7d7e1d82337ae828484493d3fc174133cf619384826933e4",
+    "witness_sha256": "cd433bd1e148620bd223cf3b431870f8e43d57165ace8d58e2b9f0576d1551fb",
+    "reason": "Inactive tactical narration. The source-critical page30 preserves the distance and Assassin's unprecedented stance while excluding this commented description of Saber stepping in."
+  },
+  {
+    "script": "セイバールート十一日目-14",
+    "ref": "page40",
+    "line": 850,
+    "source_sha256": "386675978d3a512f70bf3ff943279ab358e381e6190ff2c1e770b41fcad66e49",
+    "witness_sha256": "0dfa69040effc8be57830538514902c7984ed7f5667c168786dd22d682c31e28",
+    "reason": "Inactive narration of Shirou stopping Saber. The source-critical page40 begins with Shirou addressing Illya and preserves the active response without restoring this commented stage direction."
+  },
+  {
+    "script": "セイバールート十一日目-14",
+    "ref": "page40",
+    "line": 852,
+    "source_sha256": "386675978d3a512f70bf3ff943279ab358e381e6190ff2c1e770b41fcad66e49",
+    "witness_sha256": "0dfa69040effc8be57830538514902c7984ed7f5667c168786dd22d682c31e28",
+    "reason": "Inactive causal narration before Illya notices Shirou. The source-critical page40 preserves only her active slow raising of her face and subsequent reaction."
+  },
+  {
+    "script": "セイバールート十二日目-00",
+    "ref": "page65",
+    "line": 613,
+    "source_sha256": "6f778c2261260f5b2c7e82a2644e64474c5930573bfc38ce4393627d193a2605",
+    "witness_sha256": "a7e3a263fcaeeb866dffb302a161ba05ab0b96200c08e409625caa5119af32cb",
+    "reason": "Inactive explanation of Saber's opposition. The source-critical page65 preserves the active statement that Saber is prepared to resist without restoring this commented rationale."
+  },
+  {
+    "script": "セイバールート十二日目-00",
+    "ref": "page66",
+    "line": 623,
+    "source_sha256": "6f778c2261260f5b2c7e82a2644e64474c5930573bfc38ce4393627d193a2605",
+    "witness_sha256": "a7e3a263fcaeeb866dffb302a161ba05ab0b96200c08e409625caa5119af32cb",
+    "reason": "Inactive description of Illya's innocent question. The source-critical page66 preserves her active question directly and excludes this commented gloss."
+  },
+  {
+    "script": "セイバールート十二日目-07",
+    "ref": "page13",
+    "line": 107,
+    "source_sha256": "7430a5add0eefd9cbcb0cca6d8ad231791162e35acbe334677259c2303a3f868",
+    "witness_sha256": "2c210acac5aa4b09bb7d031abc1f3b36f33af0387995c72162ee482c95fdd2b4",
+    "reason": "Inactive arm-withdrawal narration. The source-critical page13 preserves Shirou's active protest without restoring this commented physical beat."
+  },
+  {
+    "script": "セイバールート十二日目-07",
+    "ref": "page18",
+    "line": 143,
+    "source_sha256": "7430a5add0eefd9cbcb0cca6d8ad231791162e35acbe334677259c2303a3f868",
+    "witness_sha256": "2c210acac5aa4b09bb7d031abc1f3b36f33af0387995c72162ee482c95fdd2b4",
+    "reason": "Inactive description of Rin's teasing smile. The source-critical page18 begins with Shirou's active realization that her teasing is deliberate."
+  },
+  {
+    "script": "セイバールート十二日目-07",
+    "ref": "page21",
+    "line": 163,
+    "source_sha256": "7430a5add0eefd9cbcb0cca6d8ad231791162e35acbe334677259c2303a3f868",
+    "witness_sha256": "2c210acac5aa4b09bb7d031abc1f3b36f33af0387995c72162ee482c95fdd2b4",
+    "reason": "Inactive chair-return narration. The source-critical page21 preserves Rin ending the joke and Shirou's active concern without this commented beat."
+  },
+  {
+    "script": "セイバールート十二日目-07",
+    "ref": "page24",
+    "line": 183,
+    "source_sha256": "7430a5add0eefd9cbcb0cca6d8ad231791162e35acbe334677259c2303a3f868",
+    "witness_sha256": "2c210acac5aa4b09bb7d031abc1f3b36f33af0387995c72162ee482c95fdd2b4",
+    "reason": "Inactive narration of Rin's suddenly serious gaze. The source-critical page24 preserves her active transition into technical advice without this commented stage direction."
+  },
+  {
+    "script": "セイバールート十二日目-07",
+    "ref": "page32",
+    "line": 241,
+    "source_sha256": "7430a5add0eefd9cbcb0cca6d8ad231791162e35acbe334677259c2303a3f868",
+    "witness_sha256": "2c210acac5aa4b09bb7d031abc1f3b36f33af0387995c72162ee482c95fdd2b4",
+    "reason": "Inactive head-tilt narration. The source-critical page32 begins directly with Shirou's active reasoning about the fundamentals of magecraft."
+  },
+  {
+    "script": "セイバールート十五日目-11",
+    "ref": "page77",
+    "line": 847,
+    "source_sha256": "e0a0d0d3eef3f337c7dca3d4dd7ff565a3f97180b700e6ac662d2da867b52288",
+    "witness_sha256": "0dc8b7c0ca71e4b139a4ca1ea245c19b9d26358de2e6f64ccb9f5485d3b33858",
+    "reason": "Superseded first half of Shirou's evasive roll. The active source combines the roll and immediate head-raise into one sentence, which the source-critical page77 preserves."
+  },
+  {
+    "script": "セイバールート十五日目-11",
+    "ref": "page77",
+    "line": 848,
+    "source_sha256": "e0a0d0d3eef3f337c7dca3d4dd7ff565a3f97180b700e6ac662d2da867b52288",
+    "witness_sha256": "0dc8b7c0ca71e4b139a4ca1ea245c19b9d26358de2e6f64ccb9f5485d3b33858",
+    "reason": "Superseded second half of Shirou's evasive roll. The active source combines the roll and immediate head-raise into one sentence, which the source-critical page77 preserves."
+  },
+  {
+    "script": "セイバールート十五日目-11",
+    "ref": "page147",
+    "line": 2007,
+    "source_sha256": "e0a0d0d3eef3f337c7dca3d4dd7ff565a3f97180b700e6ac662d2da867b52288",
+    "witness_sha256": "0dc8b7c0ca71e4b139a4ca1ea245c19b9d26358de2e6f64ccb9f5485d3b33858",
+    "reason": "Inactive narration of Shirou raising himself to glare at Kirei. The source-critical page147 preserves only Shirou's active spoken rejection before moving to Kirei's reply."
+  },
+  {
+    "script": "セイバールート十五日目-11",
+    "ref": "page147",
+    "line": 2008,
+    "source_sha256": "e0a0d0d3eef3f337c7dca3d4dd7ff565a3f97180b700e6ac662d2da867b52288",
+    "witness_sha256": "0dc8b7c0ca71e4b139a4ca1ea245c19b9d26358de2e6f64ccb9f5485d3b33858",
+    "reason": "Inactive narration of Kirei's unpleasant smile. The source-critical page147 preserves only Shirou's active spoken rejection before moving to Kirei's reply."
+  },
+  {
+    "script": "セイバールート十五日目-13",
+    "ref": "page86",
+    "line": 1352,
+    "source_sha256": "0c47584819a9f9a0bfebe6c371bcc9a3fae07de2ea706f57e6866b37bbe98c70",
+    "witness_sha256": "89a3f27d0e2762bdf9208881856eb5e3b33c05f4bf7b90c928fb796d8b6f8be9",
+    "reason": "Inactive gloss identifying Gilgamesh's scream. The source-critical page86 preserves the active cry itself and excludes inactive commented text."
+  },
+  {
+    "script": "セイバールート十五日目-13",
+    "ref": "page86",
+    "line": 1353,
+    "source_sha256": "0c47584819a9f9a0bfebe6c371bcc9a3fae07de2ea706f57e6866b37bbe98c70",
+    "witness_sha256": "89a3f27d0e2762bdf9208881856eb5e3b33c05f4bf7b90c928fb796d8b6f8be9",
+    "reason": "Inactive transition fragment before the finishing attack. The source-critical battle sequence moves directly from the active page86 cry into Saber's page87 invocation."
+  },
+  {
+    "script": "セイバールート十五日目-13",
+    "ref": "page87",
+    "line": 1410,
+    "source_sha256": "0c47584819a9f9a0bfebe6c371bcc9a3fae07de2ea706f57e6866b37bbe98c70",
+    "witness_sha256": "89a3f27d0e2762bdf9208881856eb5e3b33c05f4bf7b90c928fb796d8b6f8be9",
+    "reason": "Inactive sentence separately claiming the cut. The source-critical governing decision explicitly says not to restore this commented line."
+  },
+  {
+    "script": "セイバールート十五日目-13",
+    "ref": "page105",
+    "line": 1700,
+    "source_sha256": "0c47584819a9f9a0bfebe6c371bcc9a3fae07de2ea706f57e6866b37bbe98c70",
+    "witness_sha256": "89a3f27d0e2762bdf9208881856eb5e3b33c05f4bf7b90c928fb796d8b6f8be9",
+    "reason": "Superseded generic fall narration. The active source immediately replaces it with the specific sentence that Kirei's body collapses without strength, preserved by the source-critical page105."
+  },
+  {
+    "script": "プロローグ1日目",
+    "ref": "page22",
+    "line": 289,
+    "source_sha256": "317eeef325ab1adf79ab144360c4ded4485afa731d0ad6bd405b41ddac3a15cc",
+    "witness_sha256": "42809244f5e8b2ef14e2e5b43cede0f9c7778b24161581b09a49dee84609b66f",
+    "reason": "Superseded statement that obtaining it is Tohsaka's duty and unavoidable for a magus. The immediately following active line replaces this wording, and the source-critical page22 preserves the active reading."
+  },
+  {
+    "script": "プロローグ1日目",
+    "ref": "page136",
+    "line": 1294,
+    "source_sha256": "317eeef325ab1adf79ab144360c4ded4485afa731d0ad6bd405b41ddac3a15cc",
+    "witness_sha256": "42809244f5e8b2ef14e2e5b43cede0f9c7778b24161581b09a49dee84609b66f",
+    "reason": "Inactive dialogue proposing that Rin prepare for class. The active source and source-critical page136 move directly to her opening the mathematics workbook."
+  },
+  {
+    "script": "プロローグ1日目",
+    "ref": "page169",
+    "line": 1590,
+    "source_sha256": "317eeef325ab1adf79ab144360c4ded4485afa731d0ad6bd405b41ddac3a15cc",
+    "witness_sha256": "42809244f5e8b2ef14e2e5b43cede0f9c7778b24161581b09a49dee84609b66f",
+    "reason": "Inactive explanation that Rin has archery-club and student-council business but no time for either. The active source and source-critical page169 omit this aside."
+  },
+  {
+    "script": "プロローグ1日目",
+    "ref": "page227",
+    "line": 2446,
+    "source_sha256": "317eeef325ab1adf79ab144360c4ded4485afa731d0ad6bd405b41ddac3a15cc",
+    "witness_sha256": "42809244f5e8b2ef14e2e5b43cede0f9c7778b24161581b09a49dee84609b66f",
+    "reason": "Superseded narration of Rin bracing herself and glaring. The immediately following active line instead has her look straight at him, which the source-critical page227 preserves."
+  },
+  {
+    "script": "プロローグ1日目",
+    "ref": "page246",
+    "line": 2636,
+    "source_sha256": "317eeef325ab1adf79ab144360c4ded4485afa731d0ad6bd405b41ddac3a15cc",
+    "witness_sha256": "42809244f5e8b2ef14e2e5b43cede0f9c7778b24161581b09a49dee84609b66f",
+    "reason": "Inactive Archer cry following Rin's Command Spell. The active source and source-critical page246 end after Rin's line and do not include this reply."
+  },
+  {
+    "script": "セイバールート十五日目-02",
+    "ref": "page20",
+    "line": 207,
+    "source_sha256": "ae95852689e496339662dabacfd139f67726eaa977ec6980c34d42dda103586e",
+    "witness_sha256": "874a0c3ecb95146d164e8e8f6582af827222d484edd9558aee4a06acbc5953d5",
+    "reason": "Inactive statement that the victim continued looking at Shirou. The source-critical structural inventory explicitly identifies and excludes this discarded page20 line."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page28",
+    "line": 240,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive bell-tower comparison for Sakura's voice. The source-critical inventory explicitly excludes this page28 line and preserves the active reflection that follows."
+  },
+  {
+    "script": "桜ルート八日目-18",
+    "ref": "page35",
+    "line": 546,
+    "source_sha256": "e98299b485a042462a982fd97625aaa09d48040ad436c0dd877b84cc4567fbdd",
+    "witness_sha256": "217dc7ec5b16d36dbbd3b770fd8df1f69aae24e79860232f3c7ead793facc41a",
+    "reason": "Inactive longer scream and its production cue. The source-critical inventory explicitly retains only Saber's active brief cry on page35."
+  },
+  {
+    "script": "桜ルート十六日目-11",
+    "ref": "page58",
+    "line": 837,
+    "source_sha256": "bf59fe8e63ff8ba29655a9c5809ae12e45a046489388af6f278ec3c046d61f36",
+    "witness_sha256": "5cc651fd2de3b8035a10ee006bed82d0a413cbfb9b68b06a78495933dc4effe5",
+    "reason": "Inactive narration of Kirei turning back toward the blown-away Shirou. The active source and source-critical page58 end with Kirei's dialogue before advancing to page59."
+  },
+  {
+    "script": "桜ルート十六日目-22",
+    "ref": "page29",
+    "line": 702,
+    "source_sha256": "c11360c8039a9e87e59fa6d795d47de871827f98ab08cacd0800b25981407aad",
+    "witness_sha256": "a5966fffe17d81680e62129ae9c64098e1811c625ade13e4f2ff77794bc8bf82",
+    "reason": "Inactive Kirei vocalization. The source-critical topology explicitly excludes this commented page29 line and moves directly from the seventh strike into Shirou's active narration."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page15",
+    "line": 120,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive page15 narration explicitly excluded by the source-critical structural inventory; it is not an edition reading."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page15",
+    "line": 121,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive page15 narration explicitly excluded by the source-critical structural inventory; it is not an edition reading."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page37",
+    "line": 336,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive bodily-motion line explicitly excluded by the source-critical structural inventory."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page40",
+    "line": 365,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive page40 narration explicitly excluded by the source-critical structural inventory; it is not an edition reading."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page40",
+    "line": 366,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive page40 narration explicitly excluded by the source-critical structural inventory; it is not an edition reading."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page59",
+    "line": 595,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive alternate retreat description explicitly excluded by the source-critical structural inventory."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page67",
+    "line": 669,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive wound-pain sentence explicitly excluded by the source-critical structural inventory."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page70",
+    "line": 700,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive embrace-response sentence explicitly excluded by the source-critical structural inventory."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page72",
+    "line": 721,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Inactive page72 narration explicitly excluded by the source-critical structural inventory; it is not an edition reading."
+  },
+  {
+    "script": "桜ルート九日目-30",
+    "ref": "page78",
+    "line": 789,
+    "source_sha256": "a98fbfad989535d54a4b34cb91f447f7d52f1b3a7c79d62b6b5863b75ae862ff",
+    "witness_sha256": "9f85ebd9e159b4a3a9eef335e45a875fda46a6f049b4bdab91b9b08462e118b6",
+    "reason": "Superseded shorter Sakura line explicitly excluded by the source-critical structural inventory in favor of the active reading."
+  },
+  {
+    "script": "セイバールート十二日目-12",
+    "ref": "page10",
+    "line": 115,
+    "source_sha256": "80dd8875cf6986ef4105317920475f77837dfdd285f591a1e5ccfd0caea8a8a7",
+    "witness_sha256": "1ac44a6a49f21aaf94dd61b10e613f9d1a73b6f9f5e864411583f053849d5e7a",
+    "reason": "Superseded page10 physical-description variant. The source-critical governing record explicitly excludes it in favor of the immediately following active sentence."
+  },
+  {
+    "script": "セイバールート十五日目-22",
+    "ref": "page13",
+    "line": 123,
+    "source_sha256": "59ee0b706b62cfdc96282fcb0e05c3a1734817fe9da2ee8a3b164118d4c106c1",
+    "witness_sha256": "5c7129a984a482d61ca503c4dd4c4eb88ef4ca54a4cd13e84753a8c8434a7a23",
+    "reason": "Superseded Shirou utterance. The source-critical inventory explicitly excludes it and preserves the immediately following active wording."
+  },
+  {
+    "script": "凛ルート七日目-04",
+    "ref": "page27",
+    "line": 216,
+    "source_sha256": "a5dbdeb386247be41a728a80b015e3fac6a98ce79bf5510afb816cf0c7362653",
+    "witness_sha256": "3307c79e08825635a928f89f0d78e69f8f9fa572402a5df0e71931530e8f6e43",
+    "reason": "Discarded descriptive line. The source-critical inventory explicitly excludes the commented page27 image and retains the active description."
+  },
+  {
+    "script": "桜ルート十一日目-04",
+    "ref": "page21",
+    "line": 204,
+    "source_sha256": "9fb5a80b1acfcbc79351f8e8dc477256b332d5ee2e37a4adc506edcd8939c356",
+    "witness_sha256": "e994cd5f2f5098ef3391971134b2cb0310cc0ef6732f0e158fbe51685a1f0719",
+    "reason": "Inactive line break belonging to excluded page21 prose. The source-critical topology explicitly restores no inactive prose."
+  },
+  {
+    "script": "桜ルート十一日目-09",
+    "ref": "page33",
+    "line": 282,
+    "source_sha256": "f26dc7656d0eec293f116209c1829f691e02b7599a80a0296301fd84bbf280b5",
+    "witness_sha256": "80696467c55bd2756211b2d5d861461aa01ab4a2c5d19fff483b31e6f9359706",
+    "reason": "Inactive line break preceding an excluded production delivery cue. The source-critical topology explicitly restores no inactive prose or control."
+  },
+  {
+    "script": "桜ルート十三日目-01",
+    "ref": "page19",
+    "line": 147,
+    "source_sha256": "af726bf1053694c4acf311049852c8cadee5f591afa5360c87446be093f6b381",
+    "witness_sha256": "919fedf288cc89dc921357ad74b604abd24fae41b4615600607f9c836209fa20",
+    "reason": "Superseded longer Zouken explanation. The source-critical inventory explicitly excludes its additional claim and preserves the immediately following active version."
+  },
+  {
+    "script": "桜ルート十三日目-09",
+    "ref": "page5",
+    "line": 66,
+    "source_sha256": "8d63d86fb6b72c8d01b5358362d2a97b1d85c8cfa1202be0fe5d09d67f2eebab",
+    "witness_sha256": "ca15056c1933e5d773a11b9594609473957ca87b4b4015576d6affc0d0d2e461",
+    "reason": "Inactive clothing-change aside. The source-critical topology explicitly excludes the entire commented page5 block and attaches the next active reflection to page5."
+  },
+  {
+    "script": "桜ルート十日目-05",
+    "ref": "page8",
+    "line": 107,
+    "source_sha256": "0b2c3ee7ff64a2b373b11e2d4d4e245e69e769dee0bb4e817483cecffefbc010",
+    "witness_sha256": "f5de96ce00d99142c9d8f042fdf7802d25f9fa60e51c8e261c00c63ad0b2e784",
+    "reason": "Superseded longer self-condemnation variant. The source-critical inventory explicitly excludes it and preserves the immediately following active shorter line."
+  },
+  {
+    "script": "セイバールート十一日目-18",
+    "ref": "page43",
+    "line": 388,
+    "source_sha256": "6b63274868474746ab20fd5de24c49a9b0bb1681e8a4aa2babd86d9c5c3502fc",
+    "witness_sha256": "5af5a94c8268157974f97569bf30fa2ebfb41155832c89b06bbfb033d650b77d",
+    "reason": "Inactive rhetorical restatement about sharing Magic Circuits. The source-critical page43 proceeds from the active definition directly to the next page and explicitly excludes commented source lines."
+  },
+  {
+    "script": "セイバールート十一日目-18",
+    "ref": "page48",
+    "line": 445,
+    "source_sha256": "6b63274868474746ab20fd5de24c49a9b0bb1681e8a4aa2babd86d9c5c3502fc",
+    "witness_sha256": "5af5a94c8268157974f97569bf30fa2ebfb41155832c89b06bbfb033d650b77d",
+    "reason": "Inactive design-metaphor sentence. The source-critical page48 preserves the active account of permanent incompleteness without restoring this commented line."
+  },
+  {
+    "script": "セイバールート十一日目-18",
+    "ref": "page68",
+    "line": 670,
+    "source_sha256": "6b63274868474746ab20fd5de24c49a9b0bb1681e8a4aa2babd86d9c5c3502fc",
+    "witness_sha256": "5af5a94c8268157974f97569bf30fa2ebfb41155832c89b06bbfb033d650b77d",
+    "reason": "Inactive page68 physical description. The source-critical governing record explicitly says the commented physical description is not restored."
+  },
+  {
+    "script": "セイバールート十一日目-18",
+    "ref": "page68",
+    "line": 671,
+    "source_sha256": "6b63274868474746ab20fd5de24c49a9b0bb1681e8a4aa2babd86d9c5c3502fc",
+    "witness_sha256": "5af5a94c8268157974f97569bf30fa2ebfb41155832c89b06bbfb033d650b77d",
+    "reason": "Inactive page68 physical description. The source-critical governing record explicitly says the commented physical description is not restored."
+  },
+  {
+    "script": "セイバールート十一日目-18",
+    "ref": "page99",
+    "line": 1294,
+    "source_sha256": "6b63274868474746ab20fd5de24c49a9b0bb1681e8a4aa2babd86d9c5c3502fc",
+    "witness_sha256": "5af5a94c8268157974f97569bf30fa2ebfb41155832c89b06bbfb033d650b77d",
+    "reason": "Inactive silence sentence. The source-critical page99 begins with the active red-lake narration and explicitly excludes commented source lines."
+  },
+  {
+    "script": "セイバールート十四日目-11",
+    "ref": "page59",
+    "line": 589,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50",
+    "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive added portrait detail. The source-critical page59 preserves only Saber's slight movement before her interrupted speech."
+  },
+  {
+    "script": "セイバールート十四日目-11",
+    "ref": "page74",
+    "line": 744,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50",
+    "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive sentence claiming heat suddenly returned to Shirou's body. The source-critical page74 preserves the active arm reaction without this commented precursor."
+  },
+  {
+    "script": "セイバールート十四日目-11",
+    "ref": "page79",
+    "line": 776,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50",
+    "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive description of Saber's returned glance. The source-critical page79 preserves the active shoulder-glance and immediate closing of the door."
+  },
+  {
+    "script": "セイバールート十四日目-11",
+    "ref": "page92",
+    "line": 905,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50",
+    "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive reflection about Shirou's earlier worry over sleeping beside Saber. The source-critical page92 ends with the active calming warmth and scent."
+  },
+  {
+    "script": "セイバールート四日目-10",
+    "ref": "page49",
+    "line": 382,
+    "source_sha256": "feb20b479af7489b6c25d5192686dc78e022f9dea4046752a0fbfabe6e745da6",
+    "witness_sha256": "cc14ea0d6b455d0ed56595353ee05ac7a0cb895831d9b3cbb67291c9a872c1de",
+    "reason": "Inactive line break belonging to a superseded Saber explanation. The source-critical page49 preserves only the active exchange beginning with Shirou's question."
+  },
+  {
+    "script": "セイバールート十四日目-11", "ref": "page0", "line": 6,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50", "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive internal script-title comment, not reader prose or an edition reading."
+  },
+  {
+    "script": "セイバールート十四日目-11", "ref": "page0", "line": 12,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50", "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive production-status note, not reader prose or an edition reading."
+  },
+  {
+    "script": "セイバールート十四日目-11", "ref": "page0", "line": 13,
+    "source_sha256": "f0e569ae9e0a8d9db2be957b3dfd27012203d39bccb532154c4ce4ab6a82cd50", "witness_sha256": "42497b435aee5eea51ce1b72acbd2c293b94a88875cae2e30c8f06b15598f178",
+    "reason": "Inactive fixed-text production marker, not reader prose or an edition reading."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page0", "line": 7,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive internal script-title comment, not reader prose or an edition reading."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page0", "line": 13,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive production-status note, not reader prose or an edition reading."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page0", "line": 14,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive fixed-text production marker, not reader prose or an edition reading."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page71", "line": 678,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive reflective sentence. The source-critical topology counts it among the excluded comments and preserves the active scene progression."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page75", "line": 701,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive nervous aside. The source-critical topology counts it among the excluded comments and preserves the active facing-seated narration."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page76", "line": 724,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive statement about what Shirou will receive. The source-critical topology excludes the commented line and advances from concentration to page77."
+  },
+  {
+    "script": "凛ルート十四日目-08", "ref": "page123", "line": 1405,
+    "source_sha256": "5f216bab3546eec2c91a9d270fdd2418ca4a10078be22d3b498adaf0de69dd0d", "witness_sha256": "43cf05f78f05cd34ffa41f11a656c0ad349934c469ca1cd70b9bb0f5bdae4e4b",
+    "reason": "Inactive room-lighting sentence. The source-critical topology excludes the commented line and advances from waking perception to page124."
+  },
+  {
+    "script": "凛ルート十四日目-15", "ref": null, "line": 4,
+    "source_sha256": "f1d97ecf16c589bbee6d61d7f48eaf4a64ef90e7c09afd5d2b80e365c7c72db5", "witness_sha256": "7107b8507ed76fc48c713abb11697db6fcdedb65162db85e4f109908c7b33639",
+    "reason": "Inactive internal epilogue-call comment before any page label, not reader prose."
+  },
+  {
+    "script": "凛ルート十四日目-15", "ref": null, "line": 8,
+    "source_sha256": "f1d97ecf16c589bbee6d61d7f48eaf4a64ef90e7c09afd5d2b80e365c7c72db5", "witness_sha256": "7107b8507ed76fc48c713abb11697db6fcdedb65162db85e4f109908c7b33639",
+    "reason": "Inactive route-state production comment before any page label, not reader prose."
+  },
+  {
+    "script": "凛ルート十四日目-16", "ref": null, "line": 4,
+    "source_sha256": "ceb500d97001e63d342e7ebbc5110fcbe2cb90bf6b5632fb05e5866903a5e704", "witness_sha256": "4dbdbbe9d6fca936655a588a943ec93534fc3f35016f1ecc2a7c38455f374661",
+    "reason": "Inactive internal epilogue-call comment before any page label, not reader prose."
+  },
+  {
+    "script": "凛ルート十四日目-16", "ref": null, "line": 8,
+    "source_sha256": "ceb500d97001e63d342e7ebbc5110fcbe2cb90bf6b5632fb05e5866903a5e704", "witness_sha256": "4dbdbbe9d6fca936655a588a943ec93534fc3f35016f1ecc2a7c38455f374661",
+    "reason": "Inactive route-state production comment before any page label, not reader prose."
+  },
+  {
+    "script": "桜ルート五日目-04", "ref": "page3", "line": 52,
+    "source_sha256": "6c14c066fcd564ab00062d45d3ee8a4f73e9c8efa0eaa35c6722f80d766973da", "witness_sha256": "378e80ef846a77b235d2dfb67ee451229c9d1a1f7d55ac853ddb11c13d2a4af1",
+    "reason": "Superseded shorter lunch-bell sentence. The immediately following active line supplies the governing wording."
+  },
+  {
+    "script": "桜ルート五日目-17", "ref": "page24", "line": 284,
+    "source_sha256": "2ab869a4ae9039860c58cccbfc2174a434d392e41d28d85ca8f74ed5f372b785", "witness_sha256": "a614a5b2250702b2515aa055aa8b0fd4ed02fce68b9e60284d5f5838a6db1e10",
+    "reason": "Inactive production-only voiced groan; the active source uses a sound-effect command rather than reader dialogue."
+  },
+  {
+    "script": "桜ルート十五日目-25", "ref": "page54", "line": 566,
+    "source_sha256": "b8e7b6b219a821d0dc53e5a7f3467ab120ab7b8d903df1b2c83b2f15380b0711", "witness_sha256": "17f3d1242c952ac6b0febf9eb32d0cd01330a2349e9136ba7a82ead408277079",
+    "reason": "Inactive text-editor production instruction, not reader prose or an edition reading."
+  },
+  {
+    "script": "桜ルート七日目-21", "ref": "page20", "line": 302,
+    "source_sha256": "eea8102743073e1ceb6de3ec5435d3fb185e7989f7f4bc3d199a8d5a422dfa92", "witness_sha256": "8d786bcaa6efe0ee01241ed149828d863bc4dada19864b9ce6fddd566224a92e",
+    "reason": "Inactive commented alternative. The source-critical topology explicitly keeps the page20 alternatives inactive and restores no commented wording."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page5", "line": 61,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive explanatory sentence. The source-critical governing record explicitly excludes the commented explanation and preserves the active scene."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page28", "line": 376,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive page28 expansion. The source-critical inventory explicitly excludes every commented expansion and preserves only the active reading."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page28", "line": 377,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive page28 expansion. The source-critical inventory explicitly excludes every commented expansion and preserves only the active reading."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page29", "line": 382,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive page29 expansion. The source-critical inventory explicitly excludes every commented expansion and preserves only the active reading."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page30", "line": 392,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive page30 expansion. The source-critical inventory explicitly excludes every commented expansion and preserves only the active reading."
+  },
+  {
+    "script": "桜ルート十一日目-15", "ref": "page38", "line": 491,
+    "source_sha256": "80e7cee529a4b809c3ae18140f3e6e6bcf4dbbdf9f539582549ad0e109c05a5e", "witness_sha256": "799b8089fb4ef01897e86409ceaf57a7ce72ea1a7eefc396396ff0afa3627625",
+    "reason": "Inactive physical-collapse sentence. The source-critical governing record explicitly excludes it and attributes the subsequent loss of consciousness to Shirou's own depletion."
+  },
+  {
+    "script": "桜ルート七日目-21", "ref": "page20", "line": 305,
+    "source_sha256": "eea8102743073e1ceb6de3ec5435d3fb185e7989f7f4bc3d199a8d5a422dfa92", "witness_sha256": "8d786bcaa6efe0ee01241ed149828d863bc4dada19864b9ce6fddd566224a92e",
+    "reason": "Inactive scream alternative. The source-critical topology explicitly keeps the page20 alternatives inactive and preserves the following active breakdown."
+  }
+]

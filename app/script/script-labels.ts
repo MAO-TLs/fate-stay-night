@@ -21,6 +21,31 @@ function details(script: string) {
 }
 
 export function scriptTitle(script: string) { return details(script).title; }
+export type Edition = "original" | "all-ages";
+export function sceneKey(script: string) {
+  if (script === "セイバールート十四日目-101") return "セイバールート十四日目-11";
+  if (script === "凛ルート十四日目-130") return "凛ルート十四日目-08";
+  const extra = catalog[script];
+  return extra?.variant ? script.replace(/-\d+$/, "-" + String(extra.scene).padStart(2, "0")) : script;
+}
+export function isOriginalVariant(script: string) { return Boolean(catalog[script]?.variant); }
+export function sceneTitle(script: string) { return scriptTitle(sceneKey(script)); }
+export function editionParts<T extends {script:string}>(scripts:T[], script:string, edition:Edition):T[] {
+  const group=scripts.filter(x => sceneKey(x.script) === sceneKey(script));
+  const originals=group.filter(x => isOriginalVariant(x.script));
+  const alternatives=group.filter(x => !isOriginalVariant(x.script));
+  if (!originals.length) return alternatives;
+  if (edition === "all-ages") return alternatives;
+  return originals.sort((a,b) => Number(/-(101|130)$/.test(a.script))-Number(/-(101|130)$/.test(b.script)));
+}
+export function editionScripts<T extends {script:string}>(scripts:T[], edition:Edition):T[] {
+  const groups = new Map<string,T[]>();
+  for (const item of scripts) {
+    const key=sceneKey(item.script);
+    groups.set(key,[...(groups.get(key) ?? []),item]);
+  }
+  return [...groups.values()].map(group => editionParts(scripts,group[0].script,edition)[0] ?? group[0]).sort((a,b)=>compareScripts({script:sceneKey(a.script)},{script:sceneKey(b.script)}));
+}
 export function compareScripts(a: {script:string}, b: {script:string}) {
   const x=details(a.script), y=details(b.script);
   return x.route-y.route || x.day-y.day || x.scene-y.scene || x.variant-y.variant;
