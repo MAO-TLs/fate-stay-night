@@ -40,8 +40,8 @@ assert.equal(ordered.at(-2).script,'ラストエピソード');
 assert.equal(ordered.at(-1).script,'タイガー道場すぺしゃる');
 assert.equal(ordered.at(-1).route,'extras');
 const concordance=JSON.parse(fs.readFileSync(path.join(__dirname,'../public/data/script/concordance.json')));
-assert.equal(concordance.length,27526);
-assert.equal(index.pageCount,27526);
+assert.equal(concordance.length,27529);
+assert.equal(index.pageCount,27529);
 for(const item of index.scripts) {
   const payload=JSON.parse(fs.readFileSync(path.join(__dirname,`../public/data/script/${item.id}.json`)));
   assert.equal(payload.script,item.script);
@@ -55,7 +55,7 @@ for(const item of index.scripts) {
 const prologue=JSON.parse(fs.readFileSync(path.join(__dirname,'../public/data/script/0000.json')));
 assert.match(prologue.pages[0].mirrorMoon,/thrust like lightning/i);
 assert.ok(!Object.hasOwn(concordance[0],'mirrorMoon'));
-console.log('PASS: 729 labels, restored-scene adjacency, ending order, Last Episode section, and 27,526 concordance bindings.');
+console.log('PASS: 729 labels, restored-scene adjacency, ending order, Last Episode section, and 27,529 concordance bindings.');
 
 const tigerMeta=index.scripts.find(s=>s.script==='タイガー道場すぺしゃる');
 const tiger=require('../public/data/script/'+tigerMeta.id+'.json');

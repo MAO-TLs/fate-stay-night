@@ -84,6 +84,22 @@ for (const script of scripts) {
   }
 }
 assert.ok(variants >= 2);
+const finalOriginalExpected = {
+  "桜ルート七日目-18": ["page3","page4","page5"],
+  "桜ルート八日目-21": ["page6","page9","page12","page13","page14","page15","page16","page17","page18","page23","page24","page25","page27"],
+};
+for (const [name, refs] of Object.entries(finalOriginalExpected)) {
+  const meta=scripts.find(s=>s.script===name);
+  const data=JSON.parse(fs.readFileSync(path.join(root,"public/data/script",meta.id+".json")));
+  for (const ref of refs) {
+    const page=data.pages.find(p=>p.ref===ref);
+    assert.ok(page,`Missing final Original page: ${name}:${ref}`);
+    assert.ok(page.editions?.original?.ja.trim(),`Missing final Original Japanese: ${name}:${ref}`);
+    assert.ok(page.editions?.original?.en.trim(),`Missing final Original English: ${name}:${ref}`);
+    assert.equal(projection.editionAvailable(page,"original"),true);
+  }
+}
+assert.equal(Object.values(finalOriginalExpected).flat().length,16);
 for (const addition of additions) {
   const meta=scripts.find(s=>s.script===addition.script);
   const data=JSON.parse(fs.readFileSync(path.join(root,"public/data/script",meta.id+".json")));

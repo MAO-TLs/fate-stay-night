@@ -108,6 +108,99 @@ def restored_source_text(source_lines, preserve_ruby: bool = False) -> str:
     return "\n".join(line.replace("　", " ").strip() for line in text.splitlines() if line.strip())
 
 
+def bound_handoff_sections(path: Path) -> dict[tuple[str, str], str]:
+    """Read numbered script/page sections from a hash-bound handoff file."""
+    sections = {}
+    current = None
+    lines = []
+    heading = re.compile(r"^###\s+\d+\.\s+(.+?)\.ks\s+—\s+(?:Ultimate Edition\s+)?target\s+(page\d+)\s*$")
+    for raw in path.read_text(encoding="utf-8-sig").splitlines():
+        match = heading.match(raw)
+        if match:
+            if current:
+                sections[current] = "\n".join(lines).strip()
+            current = match.groups()
+            lines = []
+        elif raw.startswith("### "):
+            if current:
+                sections[current] = "\n".join(lines).strip()
+            current = None
+            lines = []
+        elif current:
+            if not re.match(r"^Original Japanese lines \d+", raw):
+                lines.append(raw)
+    if current:
+        sections[current] = "\n".join(lines).strip()
+    return sections
+
+
+def handoff_reader_text(raw: str, language: str, preserve_ruby: bool = False) -> str:
+    """Turn reviewed engine text into readable website prose without reauthoring it."""
+    lines = []
+    for line in raw.splitlines():
+        command = line.strip()
+        if command in ("@r", "@pgnl"):
+            lines.append("")
+        elif not command.startswith("@"):
+            lines.append(line)
+    text = "\n".join(lines).replace("[auml]", "ä").replace("[szlig]", "ß")
+    if not preserve_ruby:
+        text = re.sub(r"\[ruby\s+text=([^\]]+)\]", "", text)
+    text = re.sub(r"\[(?:l\]\[r|lr)\]", "\n\n", text)
+    text = re.sub(r"\[line\d+\]", "—", text)
+    text = re.sub(r"\[(?!ruby\s)[^\]]+\]", "", text)
+    paragraphs = []
+    for paragraph in re.split(r"\n\s*\n", text):
+        physical = [line.replace("　", "").strip() for line in paragraph.splitlines() if line.strip()]
+        if not physical:
+            continue
+        joined = (" " if language == "en" else "").join(physical)
+        joined = re.sub(r"\s+([,.!?;:、。」])", r"\1", joined)
+        if language == "en":
+            joined = joined.replace("「", "“").replace("」", "”")
+        paragraphs.append(joined)
+    return "\n\n".join(paragraphs)
+
+
+def final_original_editions(script: str, pages: list[dict]) -> None:
+    """Expose the final reviewed Original-only Sakura passages in the reader."""
+    if script not in ("桜ルート七日目-18", "桜ルート八日目-21"):
+        return
+    japanese_path = ROOT / "handoff/original-edition-final-16-untranslated-units.txt"
+    english_path = ROOT / "campaign/original_variant_bindings/user-original-final-16.md"
+    expected = {
+        japanese_path: "50d71415952306ed0e312936ffbdcd75493b63599d17143026fc5eaa23842b89",
+        english_path: "3e0e97e60e3840ed95bd7497630161b60c1a947cd439cd31872e853abcbd1672",
+    }
+    for path, digest in expected.items():
+        if hashlib.sha256(path.read_bytes()).hexdigest() != digest:
+            raise RuntimeError(f"Final Original handoff changed: {path.name}")
+    japanese = bound_handoff_sections(japanese_path)
+    english = bound_handoff_sections(english_path)
+    keys = {key for key in japanese if key[0] == script}
+    if keys != {key for key in english if key[0] == script}:
+        raise RuntimeError(f"Final Original handoff does not align: {script}")
+    for _, ref in sorted(keys, key=lambda key: int(key[1][4:])):
+        original = {
+            "ja": handoff_reader_text(japanese[(script, ref)], "ja"),
+            "jaRuby": handoff_reader_text(japanese[(script, ref)], "ja", preserve_ruby=True),
+            "en": handoff_reader_text(english[(script, ref)], "en"),
+        }
+        page = next((item for item in pages if item["ref"] == ref), None)
+        if page is None:
+            pages.append({
+                "ref": ref, "ja": "", "jaRuby": "", "en": "",
+                "editionVirtual": True, "availableEditions": ["original"],
+                "editions": {"original": original},
+            })
+        else:
+            page["editions"] = {
+                "all-ages": {key: page[key] for key in ("ja", "jaRuby", "en")},
+                "original": original,
+            }
+    pages.sort(key=lambda item: int(re.search(r"\d+", item["ref"]).group()))
+
+
 def route_for(script: str) -> str:
     if script.startswith("プロローグ"):
         return "prologue"
@@ -364,6 +457,7 @@ def embedded_editions(script, pages, manuscript):
                 "en": "\n\n".join(shared[:position] + [english] + shared[position + replaced:]),
             },
         }
+    final_original_editions(script, pages)
     # These two complete-page alternatives have reviewed dual-source bindings.
     # Do not mistake engine-order composite files for linear reader prose.
     if script != "桜ルート七日目-18":
