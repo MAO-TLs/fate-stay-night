@@ -30,6 +30,8 @@
 .reader-page ruby{ruby-position:over}
 .reader-page rt{font-size:.55em;line-height:1.1;white-space:pre}
 footer{background:#f1e9e1;color:#706057}
+.reader-page .reader-controls{overscroll-behavior:auto}
+.reader-controls-anchor{height:0;scroll-margin-top:16px}
 main:not(.reader-page)>footer{background:var(--navy);color:#e6d5c8}
 a:focus-visible{outline-color:#dd864b}
 .chapter-grid{grid-template-columns:repeat(3,1fr)}
