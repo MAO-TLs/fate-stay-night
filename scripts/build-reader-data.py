@@ -90,7 +90,8 @@ def comparator_pages(path: Path) -> list[tuple[str, str]]:
     cleaned = []
     for label, lines in pages:
         text = "\n".join(lines).replace("[auml]", "ä").replace("[szlig]", "ß")
-        text = re.sub(r"\[(?:lr|l|r|line\d+|font[^\]]*|resetfont|ch[^\]]*|indent|endindent)\]", "\n", text)
+        text = re.sub(r"\[(?:lr|l|r)\]", "\n", text)
+        text = re.sub(r"\[(?:line\d+|font[^\]]*|resetfont|ch[^\]]*|indent|endindent)\]", "", text)
         text = re.sub(r"\[[^\]]+\]", "", text)
         cleaned.append((label, "\n".join(line.strip() for line in text.splitlines() if line.strip())))
     return cleaned

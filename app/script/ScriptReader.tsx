@@ -16,7 +16,7 @@ type SearchScope = "script" | "corpus";
 
 const routeNames: Record<string, string> = {prologue: "Prologue", fate: "Fate", ubw: "Unlimited Blade Works", hf: "Heaven's Feel", "last-episode": "Last Episode", extras: "Extras"};
 const resultLimit = 200;
-const readerDataRevision = "2026-09-13-mirror-moon";
+const readerDataRevision = "2026-09-13-mirror-moon-2";
 
 export function ScriptReader() {
   const [index, setIndex] = useState<IndexData | null>(null);
