@@ -1,0 +1,1057 @@
+[
+  {
+    "ref": "unit000",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 17,
+    "line_end": 19,
+    "kind": "dialogue",
+    "ja": "はーい、おつかれさま。[lr]\n本編オールクリア＆タイガースタンプフルコンプおめでとうございました。",
+    "en": "All right! Well done, everyone.\n\nCongratulations on finishing the entire main story and collecting every Tiger stamp."
+  },
+  {
+    "ref": "unit001",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 23,
+    "line_end": 23,
+    "kind": "dialogue",
+    "ja": "おめでとーございましたー！",
+    "en": "Congratulaaations!"
+  },
+  {
+    "ref": "unit002",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 27,
+    "line_end": 27,
+    "kind": "dialogue",
+    "ja": "長かった『Ｆａｔｅ』本編をオールクリアし、タイガースタンプまで制覇した貴方を労うタイガー道場ＳＰにようこそ！",
+    "en": "Welcome to Tiger Dojo Special, our little reward for everyone who made it through the long, long story of Fate and conquered the Tiger stamps too!"
+  },
+  {
+    "ref": "unit003",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 30,
+    "line_end": 32,
+    "kind": "dialogue",
+    "ja": "ここまで遊び尽くしてくれたのなら、もはや言う事はありません。[lr]\nええ、もう何処へなりとも行くがいいサー！",
+    "en": "If you’ve played every last bit of it, there’s nothing more for us to say.\n\nYes! You’re free! Go wherever you please!"
+  },
+  {
+    "ref": "unit004",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 36,
+    "line_end": 38,
+    "kind": "dialogue",
+    "ja": "そうだねー、これで連打地獄ともお別れだねー。[lr]\nさて、そんなわたしたちは一足先に慰安旅行としてアインツベルンの秘湯、バルハラ温泉に来ていまーす。",
+    "en": "That’s right. Goodbye to button-mashing hell.\n\nMeanwhile, we’ve started our vacation a little early. We’re visiting the Einzberns’ secret hot spring: the Valhalla Baths!"
+  },
+  {
+    "ref": "unit005",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 41,
+    "line_end": 41,
+    "kind": "dialogue",
+    "ja": "どうタイガ、お湯加減は気に入った？",
+    "en": "Well, Taiga? How’s the water?"
+  },
+  {
+    "ref": "unit006",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 50,
+    "line_end": 52,
+    "kind": "dialogue",
+    "ja": "いいよー、いやされるわー。[lr]\nなんか、あまりの気持ち良さに気を抜くと天国にいっちゃう感じー。",
+    "en": "Lovely. So soothing.\n\nIt feels so good, I think I might go straight to heaven if I let myself relax."
+  },
+  {
+    "ref": "unit007",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 60,
+    "line_end": 62,
+    "kind": "dialogue",
+    "ja": "でしょ？　この温泉の効能はぁ、疲労回復と霊魂昇天なんだから。[lr]\n気を抜くとそのまま帰ってこれなくなるわ。",
+    "en": "Right? This spring cures fatigue and sends your soul to heaven.\n\nLet your guard down and you won’t be coming back."
+  },
+  {
+    "ref": "unit008",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 71,
+    "line_end": 75,
+    "kind": "dialogue",
+    "ja": "ハッ……！？[lr]\nなんか、いまバター畑が見えたような……！？[lr]\n危ない危ない、お風呂で眠っちゃダメだよねー。",
+    "en": "Huh…!?\n\nI could’ve sworn I just saw a field of butter…!\n\nOoh, that was close. Mustn’t fall asleep in the bath."
+  },
+  {
+    "ref": "unit009",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 81,
+    "line_end": 83,
+    "kind": "dialogue",
+    "ja": "さて、今回でタイガー道場もグランドフィナーレ。[lr]\n『Ｆａｔｅ』を締めくくるという事で、今までの反省会などをしてみたいと思います。",
+    "en": "Now, this is the grand finale of Tiger Dojo.\n\nTo bring Fate to a close, I thought we could look back and see where we went wrong."
+  },
+  {
+    "ref": "unit010",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 92,
+    "line_end": 94,
+    "kind": "dialogue",
+    "ja": "えー、最後まで怒られるなんてつまんなーい。[lr]\nせっかく温泉なんだし、思い出話をするぐらいに留めるべきだと思うわ。",
+    "en": "Aww. Getting scolded right to the end? No fun at all.\n\nWe’ve come all this way to a hot spring. Let’s stick to reminiscing."
+  },
+  {
+    "ref": "unit011",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 101,
+    "line_end": 101,
+    "kind": "dialogue",
+    "ja": "はっ！？　年下のロリっ娘にいさめられるわたし。",
+    "en": "Gasp! Here I am, being told off by a little girl!"
+  },
+  {
+    "ref": "unit012",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 107,
+    "line_end": 107,
+    "kind": "dialogue",
+    "ja": "けどたしかにそーねー。温泉気持ちいいし、反省会なんてライオンのするコトだぞ[heart]",
+    "en": "But you’re right. The water’s lovely. Let the lions do all that soul-searching. ♥"
+  },
+  {
+    "ref": "unit013",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 110,
+    "line_end": 110,
+    "kind": "dialogue",
+    "ja": "うん、わたし反省した。素直に何も考えず、今までのコトを振り返ってみましょう。",
+    "en": "Yes, I’ve seen the error of my ways. Let’s stop thinking so hard and just look back over everything."
+  },
+  {
+    "ref": "unit014",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 115,
+    "line_end": 115,
+    "kind": "dialogue",
+    "ja": "で、そういうイリヤちゃんは本編でどこがお気に入りだった？",
+    "en": "So, Illya, what was your favorite part of the story?"
+  },
+  {
+    "ref": "unit015",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 121,
+    "line_end": 121,
+    "kind": "dialogue",
+    "ja": "わたし？　そうねー、リンルートでわたしが殺されるところかな。ホントはイベント画がなかったんだけど、後から付け足してくれたの。",
+    "en": "Mine? Hmm. Probably where I get killed in Rin’s route. There wasn’t a special illustration originally, but they added one afterward."
+  },
+  {
+    "ref": "unit016",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 127,
+    "line_end": 127,
+    "kind": "dialogue",
+    "ja": "ああ、あの心臓引き抜かれるヤツねー。たしかにアレにはときめいたなー。",
+    "en": "Oh, the one where they pull your heart out? That made my heart skip a beat too."
+  },
+  {
+    "ref": "unit017",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 134,
+    "line_end": 136,
+    "kind": "dialogue",
+    "ja": "いっそそのまま昇天なさい。[lr]\nわたしが言ってるのは、バーサーカーとわたしのイベント画よ。",
+    "en": "Why don’t you go straight to heaven, then?\n\nI mean the picture of Berserker and me."
+  },
+  {
+    "ref": "unit018",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 139,
+    "line_end": 139,
+    "kind": "dialogue",
+    "ja": "ちなみに、タイガの言ってるイベント画は没候補Ｎｏ１のクセにいつのまにか出来てた謎のイベント画なんだから。",
+    "en": "For the record, the one you mean was first on the list to be cut. Then, somehow, it mysteriously got finished."
+  },
+  {
+    "ref": "unit019",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 145,
+    "line_end": 145,
+    "kind": "dialogue",
+    "ja": "そ、そーだったんだー。",
+    "en": "O-oh. Was it?"
+  },
+  {
+    "ref": "unit020",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 148,
+    "line_end": 148,
+    "kind": "dialogue",
+    "ja": "なんかなー。あんな悪趣味なイベント画を残して、わたしがバビロニアの神の力で変身、アンリマユと一騎打ちしてるイベント画を没にするなんてヘンだよねー。",
+    "en": "Honestly. They keep something that tasteless, then cut the picture where I transform with the power of a Babylonian god and face Angra Mainyu in single combat. What’s wrong with them?"
+  },
+  {
+    "ref": "unit021",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 152,
+    "line_end": 152,
+    "kind": "dialogue",
+    "ja": "[line3]ねえタイガ。どうでもいいんだけど、バビロニアの神の力で変身するヒーローは豹男よ。虎じゃないわ。",
+    "en": "—Taiga. Not that it matters, but that hero with the Babylonian god’s power is Jaguar Man. Not a tiger."
+  },
+  {
+    "ref": "unit022",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 161,
+    "line_end": 161,
+    "kind": "dialogue",
+    "ja": "え！？　うそ、だってかわいいヒゲ生えてるよあの虎マント！？",
+    "en": "What!? No! But that tiger cape has such cute whiskers!"
+  },
+  {
+    "ref": "unit023",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 165,
+    "line_end": 165,
+    "kind": "dialogue",
+    "ja": "ヒゲが生えてれば虎なら、いまどき起動戦士も虎になるわ。",
+    "en": "If whiskers make you a tiger, then even a Gundam counts these days."
+  },
+  {
+    "ref": "unit024",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 169,
+    "line_end": 169,
+    "kind": "dialogue",
+    "ja": "ショック！　お汁粉とぜんざいが違う食べ物だっていうぐらいショック！",
+    "en": "I’m devastated! As devastated as finding out that oshiruko and zenzai are different dishes!"
+  },
+  {
+    "ref": "unit025",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 173,
+    "line_end": 173,
+    "kind": "dialogue",
+    "ja": "はあ。……前から疑問だったんだけど、タイガってどうして虎に拘るの？",
+    "en": "Honestly… I’ve wondered about this for a while. Why are you so hung up on tigers, Taiga?"
+  },
+  {
+    "ref": "unit026",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 176,
+    "line_end": 176,
+    "kind": "dialogue",
+    "ja": "タイガーって呼ばれるの嫌いなクセに、着てる服は虎柄だし。虎、好きなの嫌いなの？",
+    "en": "You hate being called Tiger, but you wear tiger stripes. Do you love them or hate them?"
+  },
+  {
+    "ref": "unit027",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 183,
+    "line_end": 183,
+    "kind": "dialogue",
+    "ja": "うむ。深く憎み、同時に深く愛している。",
+    "en": "Mm. I hate them deeply. And love them just as deeply."
+  },
+  {
+    "ref": "unit028",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 187,
+    "line_end": 189,
+    "kind": "dialogue",
+    "ja": "…………まあ、いいけど。人の趣味はそれぞれだし、追及するのはやめておくわ。[lr]\nで、そういうタイガは本編のどこがお気に入りなのよ。",
+    "en": "…Well, all right. To each her own. I’ll leave it there.\n\nSo what was your favorite part of the story?"
+  },
+  {
+    "ref": "unit029",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 195,
+    "line_end": 197,
+    "kind": "dialogue",
+    "ja": "んー、そうねー。オープニングムービーとか好きよ？[lr]\nとくに、藤村大河が映ってるところとか。",
+    "en": "Hmm. I like the opening movie.\n\nEspecially the part with Taiga Fujimura in it."
+  },
+  {
+    "ref": "unit030",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 201,
+    "line_end": 203,
+    "kind": "dialogue",
+    "ja": "訊いたわたしが愚かだったわ。[lr]\nこのままじゃ一生話が進まないから、順序だててやっていきましょう。",
+    "en": "I should’ve known better than to ask.\n\nWe’ll be here forever at this rate. Let’s take it in order."
+  },
+  {
+    "ref": "unit031",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 210,
+    "line_end": 212,
+    "kind": "dialogue",
+    "ja": "じゃ、まずは第一部、セイバールートからね。[lr]\nルートタイトルの「Fate」が示す通り、『Ｆａｔｅ』を代表するルートでーす！",
+    "en": "First, Part One: Saber’s route.\n\nAs its title, Fate, suggests, this is the route that represents the whole game!"
+  },
+  {
+    "ref": "unit032",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 215,
+    "line_end": 215,
+    "kind": "dialogue",
+    "ja": "わたしも出番が多いし、タイガもエンディングに出てくるし、とりあえず文句がつけられないルートかなー。",
+    "en": "I get plenty to do, and you’re even in the ending, Taiga. Not much to complain about there."
+  },
+  {
+    "ref": "unit033",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 221,
+    "line_end": 221,
+    "kind": "dialogue",
+    "ja": "そうねー、この頃はまだわたしもメインヒロイン張ってたのになー。月日は残酷よね、ふふふ。シナリオ書いたヤツ殺しちゃうぞ[heart]",
+    "en": "True. Back then, I was still playing the leading lady. Time is cruel, isn’t it? Heh heh. I’ll kill whoever wrote the script. ♥"
+  },
+  {
+    "ref": "unit034",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 227,
+    "line_end": 229,
+    "kind": "dialogue",
+    "ja": "はいはい、ひがまないひがまない。[lr]\nセイバールートのコンセプトは、セイバーをメインにおいた聖杯戦争の顛末ね。",
+    "en": "Yes, yes. No sulking.\n\nThe idea behind Saber’s route is to tell the story of the Holy Grail War, with Saber at its center."
+  },
+  {
+    "ref": "unit035",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 232,
+    "line_end": 232,
+    "kind": "dialogue",
+    "ja": "初心者マスター向けの、王道的なお話だと思うわ。",
+    "en": "A good, straightforward adventure for Masters just starting out."
+  },
+  {
+    "ref": "unit036",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 238,
+    "line_end": 240,
+    "kind": "dialogue",
+    "ja": "イリヤちゃんも中ボス張ってたしねー。[lr]\nセイバーちゃんとは別れる事になったけど、これで士郎も一皮むけてより逞しく……",
+    "en": "And you got to be a midboss, Illya.\n\nWe had to say goodbye to Saber, but Shirou’s grown through it. Come out stronger…"
+  },
+  {
+    "ref": "unit037",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 245,
+    "line_end": 248,
+    "kind": "dialogue",
+    "ja": "……って、アレ？[lr]\nとなると、このルートのままいくと士郎ってばアー[r]\nチャーさんになっちゃう危険性大？",
+    "en": "…Wait. Hang on.\n\nDoes that mean carrying on from this route puts Shirou in serious danger of becoming Archer?"
+  },
+  {
+    "ref": "unit038",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 252,
+    "line_end": 254,
+    "kind": "dialogue",
+    "ja": "それはシロウの生き方次第ね。[lr]\nま、その可能性は低いとは思うけど。すぐ近くにわたしがいるんだし。",
+    "en": "That depends on how Shirou lives.\n\nI don’t think it’s very likely, though. He’s got me right there beside him."
+  },
+  {
+    "ref": "unit039",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 260,
+    "line_end": 260,
+    "kind": "dialogue",
+    "ja": "そっかー、この小悪魔がいるなら士郎も悪の道まっしぐらで安心ねー。",
+    "en": "Oh, good. With a little devil like you around, he’ll be headed straight down the road to evil. Nothing to worry about."
+  },
+  {
+    "ref": "unit040",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 267,
+    "line_end": 269,
+    "kind": "dialogue",
+    "ja": "って、ちょっと待った。[lr]\nイリヤちゃん、そんなに長く生きられるの……！？",
+    "en": "Wait a minute.\n\nIllya, can you live that long…!?"
+  },
+  {
+    "ref": "unit041",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 276,
+    "line_end": 278,
+    "kind": "dialogue",
+    "ja": "それは内緒。[lr]\nま、人間ダレだっていつか死ぬんだし、気にしてたってしょうがないわ。",
+    "en": "That’s a secret.\n\nEveryone dies sooner or later. No point worrying about it."
+  },
+  {
+    "ref": "unit042",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 284,
+    "line_end": 284,
+    "kind": "dialogue",
+    "ja": "で、次は凛ルート、『unlimited blade works』だけど。",
+    "en": "Next, Rin’s route: Unlimited Blade Works."
+  },
+  {
+    "ref": "unit043",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 287,
+    "line_end": 288,
+    "kind": "dialogue",
+    "ja": "内容は群像劇というか、お話のメインがよりサーヴァントよりになってたわね。[lr]",
+    "en": "More of an ensemble story, you might say. The focus shifts further toward the Servants."
+  },
+  {
+    "ref": "unit044",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 292,
+    "line_end": 292,
+    "kind": "dialogue",
+    "ja": "というか、ズバリ言って、",
+    "en": "Or, to put it bluntly—"
+  },
+  {
+    "ref": "unit045",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 297,
+    "line_end": 299,
+    "kind": "dialogue",
+    "ja": "わたしたちの出番なかったわー。[lr]\nイリヤちゃんは途中退場だし、わたしの扱いもぞんざいだー。",
+    "en": "There was nothing for us to do.\n\nYou got written out halfway through, Illya, and they barely bothered with me."
+  },
+  {
+    "ref": "unit046",
+    "page": "page0",
+    "speaker": "Rin",
+    "line_start": 306,
+    "line_end": 306,
+    "kind": "dialogue",
+    "ja": "おまえは常にぞんざいだが。",
+    "en": "They never bother much with you."
+  },
+  {
+    "ref": "unit047",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 315,
+    "line_end": 315,
+    "kind": "dialogue",
+    "ja": "ぐはっ！　嘘のない真実が胸に突き刺さる！",
+    "en": "Gah! The unvarnished truth, straight through the heart!"
+  },
+  {
+    "ref": "unit048",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 320,
+    "line_end": 320,
+    "kind": "dialogue",
+    "ja": "けど遠坂さんも、メインヒロイン張ってるわりには弱いぞー？",
+    "en": "But Tohsaka doesn’t make much of an impression either, considering she’s supposed to be the heroine."
+  },
+  {
+    "ref": "unit049",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 323,
+    "line_end": 323,
+    "kind": "dialogue",
+    "ja": "おいしいトコはみんなアーチャーさんに持っていかれてるんじゃないのかなー？",
+    "en": "Doesn’t Archer get all the good bits?"
+  },
+  {
+    "ref": "unit050",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 329,
+    "line_end": 331,
+    "kind": "dialogue",
+    "ja": "それは仕方ないわ。[lr]\n『unlimited blade works』のタイトルが示す通り、凛ルートは士郎の話でもあるんだもの",
+    "en": "That can’t be helped.\n\nAs the title Unlimited Blade Works suggests, Rin’s route is also Shirou’s story."
+  },
+  {
+    "ref": "unit051",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 334,
+    "line_end": 334,
+    "kind": "dialogue",
+    "ja": "『Fate』と『unlimited blade works』は表裏一体。",
+    "en": "Fate and Unlimited Blade Works are two sides of the same coin."
+  },
+  {
+    "ref": "unit052",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 337,
+    "line_end": 337,
+    "kind": "dialogue",
+    "ja": "このお話の主人公はあくまでシロウなんだから、メインはシロウのお話であるべきでしょ。",
+    "en": "Shirou is the protagonist, after all. His story ought to come first."
+  },
+  {
+    "ref": "unit053",
+    "page": "page0",
+    "speaker": "Rin",
+    "line_start": 342,
+    "line_end": 342,
+    "kind": "dialogue",
+    "ja": "ヤツも歪んでるからな。",
+    "en": "He’s twisted too, mind you."
+  },
+  {
+    "ref": "unit054",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 347,
+    "line_end": 349,
+    "kind": "dialogue",
+    "ja": "なるほどねー。[lr]\nそうなると、骨になるテーマは遠坂さんルートで全部終わっちゃったワケか。",
+    "en": "I see.\n\nSo Rin’s route finishes dealing with all the themes at the heart of the story?"
+  },
+  {
+    "ref": "unit055",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 356,
+    "line_end": 358,
+    "kind": "dialogue",
+    "ja": "そういう事。[lr]\nここまでが表の『Ｆａｔｅ』、とりあえず一マスターとして出来る事はちゃんとこなしたお話。",
+    "en": "Exactly.\n\nThat’s Fate on the surface: the story of someone doing everything a Master can."
+  },
+  {
+    "ref": "unit056",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 364,
+    "line_end": 366,
+    "kind": "dialogue",
+    "ja": "で、次の桜ルートが裏の『Ｆａｔｅ』。[lr]\n聖杯戦争の発端から、その終幕までを戦い抜く死闘編なのでしたー！",
+    "en": "Then Sakura’s route is Fate’s hidden side.\n\nThe life-or-death struggle, from the origins of the Holy Grail War to its final end!"
+  },
+  {
+    "ref": "unit057",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 370,
+    "line_end": 370,
+    "kind": "dialogue",
+    "ja": "死闘編かあ。そうよねー、桜ちゃんルートが一番死亡数多いしねー。",
+    "en": "A life-or-death struggle. Yes, Sakura’s route does have the highest body count."
+  },
+  {
+    "ref": "unit058",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 375,
+    "line_end": 375,
+    "kind": "dialogue",
+    "ja": "一番短くなる筈のルートが一番長くなってたなんて笑えないなー、お姉ちゃん。",
+    "en": "The route that was supposed to be the shortest ended up the longest. Your big sister isn’t laughing."
+  },
+  {
+    "ref": "unit059",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 378,
+    "line_end": 378,
+    "kind": "dialogue",
+    "ja": "このルートがもっと短くなってたら、わたしやイリヤちゃんルートもあったんだけどなー。",
+    "en": "If it had been a little shorter, there could’ve been routes for you and me too, Illya."
+  },
+  {
+    "ref": "unit060",
+    "page": "page0",
+    "speaker": "Rin",
+    "line_start": 389,
+    "line_end": 389,
+    "kind": "dialogue",
+    "ja": "おまえのルートなぞプロット段階からないが。",
+    "en": "You never had a route. Not even in the outline."
+  },
+  {
+    "ref": "unit061",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 408,
+    "line_end": 410,
+    "kind": "dialogue",
+    "ja": "さて、激動の桜ちゃんルートだったけど、イリヤちゃん的にはどうなの？[lr]\nこれ、大団円って言っていいの？",
+    "en": "Anyway. Sakura’s route was quite a ride. What did you think of it, Illya?\n\nCan we call it a happy ending?"
+  },
+  {
+    "ref": "unit062",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 416,
+    "line_end": 418,
+    "kind": "dialogue",
+    "ja": "もちろん。大聖杯なんてバカげたものも壊れて、わたしとセイバー以外はみんな生きてるんだから。[lr]\nこれ以上を望んだらバチがあたると思うわ。",
+    "en": "Of course. That ridiculous Greater Grail is gone, and everyone except Saber and me is alive.\n\nIt’d be tempting fate to ask for more."
+  },
+  {
+    "ref": "unit063",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 422,
+    "line_end": 422,
+    "kind": "dialogue",
+    "ja": "ふーん。予定では桜ちゃんも遠坂さんもライダーさんもセイバーちゃんも残ってるっていう、とんでもないエンディングがあったそうだけど。",
+    "en": "Hmm. I hear there was an ending planned where Sakura, Tohsaka, Rider, and Saber all stayed. Can you imagine?"
+  },
+  {
+    "ref": "unit064",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 427,
+    "line_end": 427,
+    "kind": "dialogue",
+    "ja": "……………………。えーと、ヘブン？",
+    "en": "…Um… heaven?"
+  },
+  {
+    "ref": "unit065",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 433,
+    "line_end": 435,
+    "kind": "dialogue",
+    "ja": "ヘブンっていうよりヘルね。[lr]\nま、人生ままならないから楽しいのよ。誰かが欠けてるぐらいがちょうどいいってコト。",
+    "en": "Hell, more like.\n\nLife’s fun because it doesn’t all go your way. Having someone missing is just about right."
+  },
+  {
+    "ref": "unit066",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 439,
+    "line_end": 441,
+    "kind": "dialogue",
+    "ja": "おお、貫禄のあるお言葉。[lr]\nさすが妹にしてお姉さんキャラは違うわねー。",
+    "en": "Ooh, such words of wisdom.\n\nThat’s what comes of being the little sister and the big sister at once."
+  },
+  {
+    "ref": "unit067",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 444,
+    "line_end": 444,
+    "kind": "dialogue",
+    "ja": "ところでイリヤちゃん的には、士郎は兄貴と弟分どっちなの？",
+    "en": "Speaking of which, is Shirou your big brother or your little brother?"
+  },
+  {
+    "ref": "unit068",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 450,
+    "line_end": 452,
+    "kind": "dialogue",
+    "ja": "それも秘密でーす！[lr]\nわたしが両属性持っているように、シロウも両属性持っているのでしたー！",
+    "en": "That’s a secret too!\n\nI get to be both, and so does Shirou!"
+  },
+  {
+    "ref": "unit069",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 460,
+    "line_end": 460,
+    "kind": "dialogue",
+    "ja": "あー、わかるわかる。",
+    "en": "Ah, yes. I see what you mean."
+  },
+  {
+    "ref": "unit070",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 463,
+    "line_end": 463,
+    "kind": "dialogue",
+    "ja": "けど一つ間違えて成長するとアーチャーさんっぽくなるかと思うと、お姉ちゃんとしては面白いような悲しいような。",
+    "en": "But when I think he might grow up like Archer if something goes wrong… As his big sister, I’m not sure whether to laugh or cry."
+  },
+  {
+    "ref": "unit071",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 469,
+    "line_end": 469,
+    "kind": "dialogue",
+    "ja": "ま、それはこれからの成長次第ってコトで、リンとサクラに期待しましょ。",
+    "en": "Well, it depends on how he grows from here. Let’s put our faith in Rin and Sakura."
+  },
+  {
+    "ref": "unit072",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 472,
+    "line_end": 472,
+    "kind": "dialogue",
+    "ja": "さっきも言ったけど、『Ｆａｔｅ』はシロウの物語なの。セイバーとリンルートで出てきたシロウの在り方の問題。",
+    "en": "Like I said, Fate is Shirou’s story. Saber’s route and Rin’s bring out the problem with the way he lives."
+  },
+  {
+    "ref": "unit073",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 475,
+    "line_end": 475,
+    "kind": "dialogue",
+    "ja": "その一つの解決編がサクラルート『Heavensfeel』ってワケ。",
+    "en": "Sakura’s route, Heaven’s Feel, is one answer to that problem."
+  },
+  {
+    "ref": "unit074",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 481,
+    "line_end": 481,
+    "kind": "dialogue",
+    "ja": "それがどんな解決だったのかは、わたしたちが語るまでもないわよね。",
+    "en": "And we don’t need to tell you what kind of answer it was."
+  },
+  {
+    "ref": "unit075",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 484,
+    "line_end": 484,
+    "kind": "dialogue",
+    "ja": "なくした物はいっぱいあるけど、これからまた積み重ねていくワケだ。",
+    "en": "They’ve lost so much. But from now on, they’ll build things up again."
+  },
+  {
+    "ref": "unit076",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 488,
+    "line_end": 490,
+    "kind": "dialogue",
+    "ja": "そ。だから文句なしの大団円なの。[lr]\nみんなはこれから、これでもかっていうぐらいハッピーになるんだから。",
+    "en": "Exactly. A happy ending, no question.\n\nThey’re going to have more happiness than they know what to do with."
+  },
+  {
+    "ref": "unit077",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 496,
+    "line_end": 496,
+    "kind": "dialogue",
+    "ja": "うう、いい子じゃのう……天に召された後でいいヤツだったと気付くなんて、なんかますます悪のヒロインっぽいわよイリヤちゃん。",
+    "en": "Oh, you’re such a good girl… Only realizing you were a good person after you’ve gone to heaven—that makes you seem even more like a villainous heroine, Illya."
+  },
+  {
+    "ref": "unit078",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 502,
+    "line_end": 502,
+    "kind": "dialogue",
+    "ja": "ふーんだ。もとからわたしはそういう役回りよ。今さら未練なんてないわ。",
+    "en": "Hmph. That was always my part. I have no regrets now."
+  },
+  {
+    "ref": "unit079",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 505,
+    "line_end": 505,
+    "kind": "dialogue",
+    "ja": "あとは残った人たちの戦いだもの。わたしはゆっくり、こうして温泉に入りながら、地上の様子を眺めているんだから。",
+    "en": "The rest is for the people left behind to fight through. I’ll take my time here in the hot spring and watch what happens down below."
+  },
+  {
+    "ref": "unit080",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 513,
+    "line_end": 515,
+    "kind": "dialogue",
+    "ja": "そっか。[lr]\nよしよし、それじゃ最後は笑顔で、きれいに締めるとするか弟子一号！",
+    "en": "I see.\n\nAll right, then. Smiles on! Let’s bring this to a nice, tidy close, Apprentice Number One!"
+  },
+  {
+    "ref": "unit081",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 521,
+    "line_end": 521,
+    "kind": "dialogue",
+    "ja": "押忍、りょーかいであります師しょー！",
+    "en": "Yes, ma’am! Understood!"
+  },
+  {
+    "ref": "unit082",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 525,
+    "line_end": 529,
+    "kind": "dialogue",
+    "ja": "うむ！[lr]\n『Ｆａｔｅ／ｓｔａｙ　ｎｉｇｈｔ』はこれにて終了！[lr]\n膨大なプレイ時間にめげず、よく戦いぬいてくれた！",
+    "en": "Good!\n\nAnd that concludes Fate/stay night!\n\nYou’ve fought your way through an enormous game. Well done for sticking with it!"
+  },
+  {
+    "ref": "unit083",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 535,
+    "line_end": 537,
+    "kind": "dialogue",
+    "ja": "うん、ここまでプレイしてくれて本当にありがとー！[lr]\n今までずーっとバッドエンドに付き合ってきたわたしたちの役目もこれでおしまいです。",
+    "en": "Yes, thank you so much for playing all the way to the end!\n\nWe’ve been with you through all those bad endings. Our work is done now too."
+  },
+  {
+    "ref": "unit084",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 540,
+    "line_end": 540,
+    "kind": "dialogue",
+    "ja": "これが本当のお別れだけど、縁があったらまた本編で再会しましょう！",
+    "en": "This really is goodbye. But if fate allows, let’s meet again in the main story!"
+  },
+  {
+    "ref": "unit085",
+    "page": "page0",
+    "speaker": "Taiga",
+    "line_start": 544,
+    "line_end": 544,
+    "kind": "dialogue",
+    "ja": "じゃあねー！　もう死なないようにね若者ー！",
+    "en": "Bye! Try not to die again, youngster!"
+  },
+  {
+    "ref": "unit086",
+    "page": "page0",
+    "speaker": "Illya",
+    "line_start": 548,
+    "line_end": 548,
+    "kind": "dialogue",
+    "ja": "ばいばーい！",
+    "en": "Bye-bye!"
+  },
+  {
+    "ref": "unit087",
+    "page": "page1",
+    "line_start": 563,
+    "line_end": 563,
+    "kind": "credit",
+    "ja": "ヤバい文",
+    "en": "Dangerous Prose"
+  },
+  {
+    "ref": "unit088",
+    "page": "page1",
+    "line_start": 566,
+    "line_end": 566,
+    "kind": "credit",
+    "ja": "きのこ",
+    "en": "Kinoko"
+  },
+  {
+    "ref": "unit089",
+    "page": "page1",
+    "line_start": 567,
+    "line_end": 567,
+    "kind": "credit",
+    "ja": "家事手伝い",
+    "en": "Help Around the House"
+  },
+  {
+    "ref": "unit090",
+    "page": "page1",
+    "line_start": 568,
+    "line_end": 568,
+    "kind": "credit",
+    "ja": "小山さん",
+    "en": "Koyama"
+  },
+  {
+    "ref": "unit091",
+    "page": "page1",
+    "line_start": 569,
+    "line_end": 569,
+    "kind": "credit",
+    "ja": "BLACKさん",
+    "en": "BLACK"
+  },
+  {
+    "ref": "unit092",
+    "page": "page1",
+    "line_start": 570,
+    "line_end": 570,
+    "kind": "credit",
+    "ja": "あおつきくん",
+    "en": "Aotsuki"
+  },
+  {
+    "ref": "unit093",
+    "page": "page1",
+    "line_start": 571,
+    "line_end": 571,
+    "kind": "credit",
+    "ja": "けーたさん",
+    "en": "Keita"
+  },
+  {
+    "ref": "unit094",
+    "page": "page1",
+    "line_start": 572,
+    "line_end": 572,
+    "kind": "credit",
+    "ja": "つくり",
+    "en": "Tsukuri"
+  },
+  {
+    "ref": "unit095",
+    "page": "page1",
+    "line_start": 573,
+    "line_end": 573,
+    "kind": "credit",
+    "ja": "社内きっての藤ねぇファン",
+    "en": "Taiga’s Biggest Fan in the Office"
+  },
+  {
+    "ref": "unit096",
+    "page": "page1",
+    "line_start": 574,
+    "line_end": 574,
+    "kind": "credit",
+    "ja": "処刑広報",
+    "en": "Public Relations and Executions"
+  },
+  {
+    "ref": "unit097",
+    "page": "page1",
+    "line_start": 575,
+    "line_end": 575,
+    "kind": "credit",
+    "ja": "それでも責任者、泣けるネ",
+    "en": "Still in Charge. Brings a Tear to Your Eye."
+  },
+  {
+    "ref": "unit098",
+    "page": "page1",
+    "line_start": 576,
+    "line_end": 576,
+    "kind": "credit",
+    "ja": "たけちゃん",
+    "en": "Take"
+  },
+  {
+    "ref": "unit099",
+    "page": "page1",
+    "line_start": 577,
+    "line_end": 577,
+    "kind": "credit",
+    "ja": "",
+    "en": ""
+  },
+  {
+    "ref": "unit100",
+    "page": "page1",
+    "line_start": 578,
+    "line_end": 578,
+    "kind": "credit",
+    "ja": "Produced by",
+    "en": "Produced by"
+  },
+  {
+    "ref": "unit101",
+    "page": "page1",
+    "line_start": 579,
+    "line_end": 579,
+    "kind": "credit",
+    "ja": "TYPE-MOONの暗部",
+    "en": "TYPE-MOON’s Dark Side"
+  },
+  {
+    "ref": "unit102",
+    "page": "page1",
+    "speaker": "Taiga",
+    "line_start": 597,
+    "line_end": 597,
+    "kind": "dialogue",
+    "ja": "あれ……？　ところでイリヤちゃん。さっき、ここから地上の様子を眺める、なんて言ってなかった？",
+    "en": "Huh…? Illya, didn’t you say something earlier about watching the world down below from here?"
+  },
+  {
+    "ref": "unit103",
+    "page": "page1",
+    "speaker": "Illya",
+    "line_start": 601,
+    "line_end": 601,
+    "kind": "dialogue",
+    "ja": "言ったわよ？　ここから、地上を見守るって。",
+    "en": "I did. Watching over the world below."
+  },
+  {
+    "ref": "unit104",
+    "page": "page1",
+    "speaker": "Taiga",
+    "line_start": 605,
+    "line_end": 605,
+    "kind": "dialogue",
+    "ja": "ば…………まま、まさか、この温泉って、あの。",
+    "en": "B-but… D-don’t tell me this hot spring is…"
+  },
+  {
+    "ref": "unit105",
+    "page": "page1",
+    "speaker": "Illya",
+    "line_start": 609,
+    "line_end": 609,
+    "kind": "dialogue",
+    "ja": "えーと…………ヘブン？",
+    "en": "Um… heaven?"
+  },
+  {
+    "ref": "unit106",
+    "page": "page1",
+    "speaker": "Taiga",
+    "line_start": 613,
+    "line_end": 615,
+    "kind": "dialogue",
+    "ja": "ぎゃわーーーーーーーーー！[lr]\nぜんぜんきれいに終わってなーーーーーい！！",
+    "en": "AAAAAAAH!\n\nThat wasn’t a tidy ending at all!"
+  }
+]

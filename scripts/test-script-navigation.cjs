@@ -10,7 +10,7 @@ const mod={exports:{}};
 new Function('require','module','exports',compiled)(()=>catalog,mod,mod.exports);
 const {scriptTitle,compareScripts}=mod.exports;
 const ordered=[...index.scripts].sort(compareScripts);
-assert.equal(new Set(ordered.map(s=>s.id)).size,727);
+assert.equal(new Set(ordered.map(s=>s.id)).size,729);
 for(const item of ordered) assert.match(scriptTitle(item.script),/[A-Za-z]/);
 for(const [name,entry] of Object.entries(catalog)) {
   const pos=ordered.findIndex(s=>s.script===name);
@@ -27,11 +27,12 @@ for(const [name,entry] of Object.entries(catalog)) {
 for(const [route,endings] of [['fate',['セイバーエピローグ']],['ubw',['凛エピローグ2','凛エピローグ']],['hf',['桜エピローグ','桜エピローグ2']]]) {
   assert.deepEqual(ordered.filter(s=>s.route===route).slice(-endings.length).map(s=>s.script),endings);
 }
-assert.equal(ordered.at(-1).script,'ラストエピソード');
-assert.equal(ordered.at(-1).route,'last-episode');
+assert.equal(ordered.at(-2).script,'ラストエピソード');
+assert.equal(ordered.at(-1).script,'タイガー道場すぺしゃる');
+assert.equal(ordered.at(-1).route,'extras');
 const concordance=JSON.parse(fs.readFileSync(path.join(__dirname,'../public/data/script/concordance.json')));
-assert.equal(concordance.length,27410);
-assert.equal(index.pageCount,27410);
+assert.equal(concordance.length,27520);
+assert.equal(index.pageCount,27520);
 for(const item of index.scripts) {
   const payload=JSON.parse(fs.readFileSync(path.join(__dirname,`../public/data/script/${item.id}.json`)));
   assert.equal(payload.script,item.script);
@@ -39,4 +40,17 @@ for(const item of index.scripts) {
   assert.equal(payload.pages.length,item.pages);
   assert.deepEqual(concordance.filter(p=>p.scriptId===item.id).map(({scriptId,script,route,title,...page})=>page),payload.pages);
 }
-console.log('PASS: 727 labels, restored-scene adjacency, ending order, Last Episode section, and 27,410 concordance bindings.');
+console.log('PASS: 729 labels, restored-scene adjacency, ending order, Last Episode section, and 27,520 concordance bindings.');
+
+const tigerMeta=index.scripts.find(s=>s.script==='タイガー道場すぺしゃる');
+const tiger=require('../public/data/script/'+tigerMeta.id+'.json');
+assert.equal(tiger.pages.length,107);
+assert.deepEqual(tiger.pages.filter(p=>p.speaker==='Rin').map(p=>p.ref),['page0-unit046','page0-unit053','page0-unit060']);
+assert.equal(tiger.pages[87].kind,'credit');
+assert.equal(tiger.pages[101].en,'TYPE-MOON’s Dark Side');
+assert.equal(tiger.pages[102].speaker,'Taiga');
+assert.equal(tiger.pages[99].en,'');
+assert.match(tiger.pages[24].en,/oshiruko and zenzai/);
+assert.ok(tiger.pages[64].en.endsWith(tiger.pages[105].en));
+assert.match(scriptTitle('セイバールート六日目-02'),/Bonus scene/);
+console.log('PASS: Tiger Dojo speaker cues, credits, post-credit scene, and callback bindings.');

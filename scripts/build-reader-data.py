@@ -99,7 +99,8 @@ def publication_inventory():
         if not source.exists() or not manuscript.exists():
             raise RuntimeError(f"Missing source or manuscript: {name}")
         if layer == "supplemental":
-            manifest = json.loads((ROOT / "campaign/supplemental_epilogues_v1/second-pass-checkpoint.json").read_text())
+            checkpoint = meta.get("checkpoint", "supplemental_epilogues_v1")
+            manifest = json.loads((ROOT / "campaign" / checkpoint / "second-pass-checkpoint.json").read_text())
             bound = next(x for x in manifest["manuscripts"] if x["script"] == name)
             if hashlib.sha256(source.read_bytes()).hexdigest() != bound["source_sha256"] or hashlib.sha256(manuscript.read_bytes()).hexdigest() != bound["final_sha256"]:
                 raise RuntimeError(f"Supplement differs from reviewed checkpoint: {name}")
@@ -143,6 +144,25 @@ def main() -> None:
                 for (label, japanese), (_, ruby), (_, english) in zip(jp_pages, ruby_pages, en_pages)
             ],
         }
+        if script == "タイガー道場すぺしゃる":
+            units_path = SITE / "app/script/bonus" / f"{script}.json"
+            checkpoint = json.loads((ROOT / "campaign/supplemental_bonus_v1/second-pass-checkpoint.json").read_text())
+            bound = next(x for x in checkpoint["manuscripts"] if x["script"] == script)
+            if hashlib.sha256(units_path.read_bytes()).hexdigest() != bound["units_sha256"]:
+                raise RuntimeError("Tiger Dojo units differ from the reviewed checkpoint.")
+            units = json.loads(units_path.read_text())
+            # This scene's two engine pages contain an entire conversation,
+            # scrolling credits, then a post-credit exchange. Keep their order.
+            payload["pages"] = []
+            for unit in units:
+                japanese = unit["ja"].replace("[heart]", "♥")
+                japanese = re.sub(r"\[(?:lr|r|line\d+)\]", "\n", japanese)
+                japanese = re.sub(r"\[[^\]]+\]", "", japanese).strip()
+                payload["pages"].append({
+                    "ref": f'{unit["page"]}-{unit["ref"]}',
+                    "ja": japanese, "jaRuby": japanese, "en": unit["en"],
+                    "speaker": unit.get("speaker"), "kind": unit["kind"],
+                })
         payloads.append(payload)
         concordance.extend({"scriptId": ids[script], "script": script, "route": route, "title": script, **page} for page in payload["pages"])
     scripts = [{**{k:p[k] for k in ("id", "script", "route", "title")}, "pages":len(p["pages"])} for p in payloads]

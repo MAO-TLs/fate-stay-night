@@ -97,5 +97,17 @@
     "route": "last-episode",
     "endingOrder": 0,
     "title": "Last Episode"
+  },
+  "セイバールート六日目-02": {
+    "layer": "supplemental",
+    "route": "fate",
+    "label": "Bonus scene",
+    "checkpoint": "supplemental_bonus_v1"
+  },
+  "タイガー道場すぺしゃる": {
+    "layer": "supplemental",
+    "route": "extras",
+    "title": "Tiger Dojo Special",
+    "checkpoint": "supplemental_bonus_v1"
   }
 }

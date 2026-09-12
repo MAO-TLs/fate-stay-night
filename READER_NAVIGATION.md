@@ -13,3 +13,7 @@ The reader retains a section selector followed by previous-script, script, and n
 Validation: `python3 scripts/test-reader-data.py`, `node scripts/test-script-navigation.cjs`, `npm run typecheck`, and `npm run build`.
 
 Publication source is committed generated JSON; manuscript and Japanese source folders live outside this site checkout. GitHub Pages builds the committed site data, not the external authoring workspace.
+
+## Bonus scenes
+
+Saber day6 Scene02 is labeled “Bonus scene” and sorted beside the other day6 scenes. Tiger Dojo Special appears in Extras, after Last Episode. Its 107 source units preserve Taiga/Illya/Rin speaker cues, all 15 credit commands including the spacer, and the five-unit post-credit exchange. Original engine page plus unit identifies each passage. The reader now contains 729 scripts and 27,520 source passages; all previously published IDs remain unchanged.

@@ -2,7 +2,7 @@ import supplemental from "./supplemental-scripts.json";
 
 const digits: Record<string, number> = {一:1,二:2,三:3,四:4,五:5,六:6,七:7,八:8,九:9};
 const names: Record<string, string> = {セイバー:"Saber",凛:"Rin",桜:"Sakura"};
-const routeRank: Record<string, number> = {prologue:0,fate:1,ubw:2,hf:3,"last-episode":4};
+const routeRank: Record<string, number> = {prologue:0,fate:1,ubw:2,hf:3,"last-episode":4,extras:5};
 type Supplement = {layer:string;route:string;scene?:number;variant?:number;label?:string;endingOrder?:number;title?:string};
 const catalog: Record<string, Supplement> = supplemental;
 
