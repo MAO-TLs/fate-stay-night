@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 import json
+import hashlib
 import re
 
 SITE = Path(__file__).resolve().parents[1]
@@ -45,7 +46,7 @@ def japanese_pages(path: Path, preserve_ruby: bool = False) -> list[tuple[str, s
             if match:
                 pages.append((match.group(1), []))
             elif pages and raw and not raw.startswith(("@", "*", ";")):
-                text = raw
+                text = raw.replace("[auml]", "ä").replace("[szlig]", "ß")
                 if not preserve_ruby:
                     text = re.sub(r"\[ruby\s+text=([^\]]+)\]", "", text)
                 text = re.sub(r"\[(?:lr|r|line\d+|font[^\]]*|resetfont|ch[^\]]*)\]", "\n", text)
@@ -82,55 +83,76 @@ def natural_key(script: str):
     return route_rank, script.replace(number.group(0), "") if number else script, int(number.group(1)) if number else 0
 
 
+def publication_inventory():
+    catalog = json.loads((SITE / "app/script/supplemental-scripts.json").read_text())
+    ordered = [name for name in scene_order() if (JP / f"{name}.ks").exists()]
+    if len(set(ordered)) != len(ordered) or set(ordered) != {p.stem for p in JP.glob("*.ks")}:
+        raise RuntimeError("Scene index must cover every base source script exactly once.")
+    ordered += [n for n in catalog if n not in ordered]
+    result = []
+    for name in ordered:
+        meta = catalog.get(name, {})
+        layer = meta.get("layer", "base")
+        source = (ROOT / "source/reader/supplemental/jp/base" if layer == "supplemental"
+                  else ROOT / "source/reader/jp" / layer) / f"{name}.ks"
+        manuscript = EN / f"{name}.md"
+        if not source.exists() or not manuscript.exists():
+            raise RuntimeError(f"Missing source or manuscript: {name}")
+        if layer == "supplemental":
+            manifest = json.loads((ROOT / "campaign/supplemental_epilogues_v1/second-pass-checkpoint.json").read_text())
+            bound = next(x for x in manifest["manuscripts"] if x["script"] == name)
+            if hashlib.sha256(source.read_bytes()).hexdigest() != bound["source_sha256"] or hashlib.sha256(manuscript.read_bytes()).hexdigest() != bound["final_sha256"]:
+                raise RuntimeError(f"Supplement differs from reviewed checkpoint: {name}")
+        result.append((name, meta.get("route", route_for(name)), source, manuscript))
+    return result
+
+
+def stable_ids(names, published):
+    ids = {item["script"]: item["id"] for item in published}
+    if len(ids) != len(published) or len(set(ids.values())) != len(ids):
+        raise RuntimeError("Duplicate published script or ID.")
+    omitted = set(ids) - set(names)
+    if omitted:
+        raise RuntimeError(f"Refusing to remove {len(omitted)} published scripts. No files were changed.")
+    next_id = max((int(i) for i in ids.values()), default=-1) + 1
+    for name in names:
+        if name not in ids:
+            ids[name] = f"{next_id:04d}"
+            next_id += 1
+    return ids
+
+
 def main() -> None:
-    scripts = []
-    concordance = []
-    ordered_scripts = [script for script in scene_order() if (JP / f"{script}.ks").exists() and (EN / f"{script}.md").exists()]
-    source_scripts = {path.stem for path in JP.glob("*.ks")}
-    if len(set(ordered_scripts)) != len(ordered_scripts) or set(ordered_scripts) != source_scripts:
-        raise RuntimeError("Scene index must cover every source script exactly once.")
-    # Never overwrite an expanded publication with a narrower source inventory.
+    inventory = publication_inventory()
     index_path = OUT / "index.json"
-    if index_path.exists():
-        published = json.loads(index_path.read_text(encoding="utf-8"))["scripts"]
-        omitted = {item["script"] for item in published} - set(ordered_scripts)
-        if omitted:
-            raise RuntimeError(
-                f"Refusing to overwrite reader data: {len(omitted)} existing scripts "
-                "are outside this generator's source inventory. No files were changed."
-            )
-        existing_ids = {item["script"]: item["id"] for item in published}
-        if any(existing_ids.get(script, f"{position:04d}") != f"{position:04d}"
-               for position, script in enumerate(ordered_scripts)):
-            raise RuntimeError("Refusing to renumber published script IDs. No files were changed.")
-    OUT.mkdir(parents=True, exist_ok=True)
-    for position, script in enumerate(ordered_scripts):
-        jp_path = JP / f"{script}.ks"
-        en_path = EN / f"{script}.md"
+    published = json.loads(index_path.read_text())["scripts"] if index_path.exists() else []
+    ids = stable_ids([n for n, _, _, _ in inventory], published)
+    payloads = []
+    concordance = []
+    # Validate the entire projection before writing any published file.
+    for script, route, jp_path, en_path in inventory:
         jp_pages = japanese_pages(jp_path)
         ruby_pages = japanese_pages(jp_path, preserve_ruby=True)
         en_pages = english_pages(en_path)
         if [x[0] for x in jp_pages] != [x[0] for x in en_pages]:
             raise RuntimeError(f"Page mismatch: {script}")
-        item_id = f"{position:04d}"
-        route = route_for(script)
         payload = {
-            "id": item_id,
-            "script": script,
-            "route": route,
-            "title": script,
+            "id": ids[script], "script": script, "route": route, "title": script,
             "pages": [
                 {"ref": label, "ja": japanese, "jaRuby": ruby, "en": english}
                 for (label, japanese), (_, ruby), (_, english) in zip(jp_pages, ruby_pages, en_pages)
             ],
         }
-        (OUT / f"{item_id}.json").write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-        scripts.append({"id": item_id, "script": script, "route": route, "title": payload["title"], "pages": len(payload["pages"])})
-        concordance.extend({"scriptId": item_id, "script": script, "route": route, "title": payload["title"], **page} for page in payload["pages"])
+        payloads.append(payload)
+        concordance.extend({"scriptId": ids[script], "script": script, "route": route, "title": script, **page} for page in payload["pages"])
+    scripts = [{**{k:p[k] for k in ("id", "script", "route", "title")}, "pages":len(p["pages"])} for p in payloads]
     index = {"scripts": scripts, "scriptCount": len(scripts), "pageCount": sum(x["pages"] for x in scripts)}
-    (OUT / "index.json").write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    OUT.mkdir(parents=True, exist_ok=True)
+    for payload in payloads:
+        (OUT / f'{payload["id"]}.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    index_path.write_text(json.dumps(index, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
     (OUT / "concordance.json").write_text(json.dumps(concordance, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    print(json.dumps({"scripts": index["scriptCount"], "pages": index["pageCount"]}))
+    print(json.dumps({"scripts": index["scriptCount"], "pages": index["pageCount"], "preserved_ids":len(published)}))
 
 
 if __name__ == "__main__":

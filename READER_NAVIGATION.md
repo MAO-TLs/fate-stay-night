@@ -1,11 +1,15 @@
-# Script navigation contract
+# Published reader navigation
 
-The forthcoming reader must preserve two separate selectors, as requested:
+The reader retains a section selector followed by previous-script, script, and next-script controls. Corpus search is independent of the selected reading section.
 
-- Route selector first: Fate, Unlimited Blade Works, Heaven’s Feel (existing section IDs: `fate`, `ubw`, `hf`). Preserve additional source-supported groups separately if needed.
-- Previous-script arrow, a script selector filtered to the selected route, then next-script arrow.
-- Derive route membership from validated source metadata, not English display titles.
-- Selecting a route opens its first ordered script. Deep links and cross-route arrow navigation must synchronize both selectors.
-- Keep corpus-wide search independent of route selection; stack controls on narrow screens.
+- Section order: Prologue, Fate, Unlimited Blade Works, Heaven’s Feel, Last Episode.
+- Within each route: numeric day, then numeric scene. The nine restored original H-scene scripts are explicitly labeled “H-scene version” and placed immediately after the corresponding base scene, where it exists. A restored-only scene occupies its natural scene position. The archival 100 offset is not presented as a scene number.
+- Route epilogues follow the route’s numbered scenes. UBW has True then Good; HF has True then Normal. Last Episode is a separate final section.
+- `app/script/supplemental-scripts.json` binds the nine restored scripts and six epilogues to source layer, route, and display order. Missing manuscripts are never inferred from filename patterns or presented as translated.
+- Published IDs remain unchanged when order or inventory expands. Labels and display position are separate from the stable numeric deep-link ID.
+- The generator validates all ordered source-page labels and binds the epilogues to their reviewed source/manuscript hashes before writing. Commented Last Episode labels do not discard their following active text.
+- Landing and reader passage/script counts derive from the generated index. Search filters include Last Episode.
 
-The current script page is only an unpublished placeholder. Implement and test these controls when the validated reader corpus is connected; do not publish unfinished translation content to demonstrate navigation.
+Validation: `python3 scripts/test-reader-data.py`, `node scripts/test-script-navigation.cjs`, `npm run typecheck`, and `npm run build`.
+
+Publication source is committed generated JSON; manuscript and Japanese source folders live outside this site checkout. GitHub Pages builds the committed site data, not the external authoring workspace.

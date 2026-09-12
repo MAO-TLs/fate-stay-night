@@ -1,0 +1,101 @@
+{
+  "セイバールート十一日目-118": {
+    "layer": "restored",
+    "route": "fate",
+    "scene": 18,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "セイバールート十四日目-101": {
+    "layer": "restored",
+    "route": "fate",
+    "scene": 1,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "セイバールート十四日目-111": {
+    "layer": "restored",
+    "route": "fate",
+    "scene": 11,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "凛ルート十四日目-108": {
+    "layer": "restored",
+    "route": "ubw",
+    "scene": 8,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "凛ルート十四日目-130": {
+    "layer": "restored",
+    "route": "ubw",
+    "scene": 30,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "桜ルート九日目-130": {
+    "layer": "restored",
+    "route": "hf",
+    "scene": 30,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "桜ルート五日目-117": {
+    "layer": "restored",
+    "route": "hf",
+    "scene": 17,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "桜ルート十一日目-115": {
+    "layer": "restored",
+    "route": "hf",
+    "scene": 15,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "桜ルート十二日目-113": {
+    "layer": "restored",
+    "route": "hf",
+    "scene": 13,
+    "variant": 1,
+    "label": "H-scene version"
+  },
+  "セイバーエピローグ": {
+    "layer": "supplemental",
+    "route": "fate",
+    "endingOrder": 0,
+    "title": "Saber Route — Epilogue"
+  },
+  "凛エピローグ2": {
+    "layer": "supplemental",
+    "route": "ubw",
+    "endingOrder": 0,
+    "title": "Rin Route — True Ending Epilogue"
+  },
+  "凛エピローグ": {
+    "layer": "supplemental",
+    "route": "ubw",
+    "endingOrder": 1,
+    "title": "Rin Route — Good Ending Epilogue"
+  },
+  "桜エピローグ": {
+    "layer": "supplemental",
+    "route": "hf",
+    "endingOrder": 0,
+    "title": "Sakura Route — True Ending Epilogue"
+  },
+  "桜エピローグ2": {
+    "layer": "supplemental",
+    "route": "hf",
+    "endingOrder": 1,
+    "title": "Sakura Route — Normal Ending Epilogue"
+  },
+  "ラストエピソード": {
+    "layer": "supplemental",
+    "route": "last-episode",
+    "endingOrder": 0,
+    "title": "Last Episode"
+  }
+}
