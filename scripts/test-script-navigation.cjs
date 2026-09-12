@@ -9,6 +9,15 @@ const compiled = ts.transpileModule(source,{compilerOptions:{module:ts.ModuleKin
 const mod={exports:{}};
 new Function('require','module','exports',compiled)(()=>catalog,mod,mod.exports);
 const {scriptTitle,compareScripts}=mod.exports;
+const referenceSource = fs.readFileSync(path.join(__dirname,'../app/script/reference-label.ts'),'utf8');
+const referenceCompiled = ts.transpileModule(referenceSource,{compilerOptions:{module:ts.ModuleKind.CommonJS,target:ts.ScriptTarget.ES2022}}).outputText;
+const referenceMod={exports:{}};
+new Function('require','module','exports',referenceCompiled)(require,referenceMod,referenceMod.exports);
+const {referenceLabel}=referenceMod.exports;
+assert.equal(referenceLabel('page0'),'1');
+assert.equal(referenceLabel('page59'),'60');
+assert.equal(referenceLabel('0712-page3'),'4');
+assert.equal(referenceLabel('page0-unit000'),'1');
 const ordered=[...index.scripts].sort(compareScripts);
 assert.equal(new Set(ordered.map(s=>s.id)).size,729);
 for(const item of ordered) assert.match(scriptTitle(item.script),/[A-Za-z]/);
@@ -31,16 +40,22 @@ assert.equal(ordered.at(-2).script,'ラストエピソード');
 assert.equal(ordered.at(-1).script,'タイガー道場すぺしゃる');
 assert.equal(ordered.at(-1).route,'extras');
 const concordance=JSON.parse(fs.readFileSync(path.join(__dirname,'../public/data/script/concordance.json')));
-assert.equal(concordance.length,27520);
-assert.equal(index.pageCount,27520);
+assert.equal(concordance.length,27526);
+assert.equal(index.pageCount,27526);
 for(const item of index.scripts) {
   const payload=JSON.parse(fs.readFileSync(path.join(__dirname,`../public/data/script/${item.id}.json`)));
   assert.equal(payload.script,item.script);
   assert.equal(payload.route,item.route);
   assert.equal(payload.pages.length,item.pages);
-  assert.deepEqual(concordance.filter(p=>p.scriptId===item.id).map(({scriptId,script,route,title,...page})=>page),payload.pages);
+  assert.deepEqual(
+    concordance.filter(p=>p.scriptId===item.id).map(({scriptId,script,route,title,...page})=>page),
+    payload.pages.map(({mirrorMoon,...page})=>page)
+  );
 }
-console.log('PASS: 729 labels, restored-scene adjacency, ending order, Last Episode section, and 27,520 concordance bindings.');
+const prologue=JSON.parse(fs.readFileSync(path.join(__dirname,'../public/data/script/0000.json')));
+assert.match(prologue.pages[0].mirrorMoon,/thrust like lightning/i);
+assert.ok(!Object.hasOwn(concordance[0],'mirrorMoon'));
+console.log('PASS: 729 labels, restored-scene adjacency, ending order, Last Episode section, and 27,526 concordance bindings.');
 
 const tigerMeta=index.scripts.find(s=>s.script==='タイガー道場すぺしゃる');
 const tiger=require('../public/data/script/'+tigerMeta.id+'.json');

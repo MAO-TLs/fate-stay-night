@@ -10,6 +10,7 @@ SITE = Path(__file__).resolve().parents[1]
 ROOT = SITE.parent
 JP = ROOT / "source/reader/jp/base"
 EN = ROOT / "campaign/reconciliation/by_script"
+MM = ROOT / "source/reader/eng/base"
 SCENE_INDEX = ROOT / "source/reader/scene-index.js"
 OUT = SITE / "public/data/script"
 
@@ -64,6 +65,35 @@ def japanese_pages(path: Path, preserve_ruby: bool = False, restored_lines=None,
         if stripped.endswith("*/"):
             in_comment = False
     return [(label, "\n".join(lines).strip()) for label, lines in pages]
+
+
+def comparator_pages(path: Path) -> list[tuple[str, str]]:
+    """Extract the archived mirror moon reader witness by engine page."""
+    pages: list[tuple[str, list[str]]] = []
+    in_comment = False
+    for raw in path.read_text(encoding="utf-8-sig").splitlines():
+        stripped = raw.strip()
+        if stripped.startswith("/*"):
+            in_comment = True
+        if not in_comment:
+            match = re.match(r"^\*(page\d+)(?:\||$)", raw)
+            if match:
+                pages.append((match.group(1), []))
+            elif pages:
+                align = re.match(r'^@align\b.*?\btext="([^"]*)"', stripped)
+                if align:
+                    pages[-1][1].append(align.group(1))
+                elif raw and not raw.startswith(("@", "*", ";")):
+                    pages[-1][1].append(raw)
+        if stripped.endswith("*/"):
+            in_comment = False
+    cleaned = []
+    for label, lines in pages:
+        text = "\n".join(lines).replace("[auml]", "ä").replace("[szlig]", "ß")
+        text = re.sub(r"\[(?:lr|l|r|line\d+|font[^\]]*|resetfont|ch[^\]]*|indent|endindent)\]", "\n", text)
+        text = re.sub(r"\[[^\]]+\]", "", text)
+        cleaned.append((label, "\n".join(line.strip() for line in text.splitlines() if line.strip())))
+    return cleaned
 
 
 def restored_source_text(source_lines, preserve_ruby: bool = False) -> str:
@@ -446,7 +476,8 @@ def refresh_editions() -> None:
             changes[path] = after
         for page in payload["pages"]:
             projected_concordance.append({"scriptId": meta["id"], "script": meta["script"],
-                "route": meta["route"], "title": meta["title"], **page})
+                "route": meta["route"], "title": meta["title"],
+                **{key: value for key, value in page.items() if key != "mirrorMoon"}})
             if "editions" in page:
                 key = (meta["id"], page["ref"])
                 if key in projected:
@@ -485,13 +516,27 @@ def main() -> None:
         jp_pages = japanese_pages(jp_path)
         ruby_pages = japanese_pages(jp_path, preserve_ruby=True)
         en_pages = english_pages(en_path)
+        mm_path = MM / f"{script}.ks"
+        mm_pages = comparator_pages(mm_path) if mm_path.exists() else []
         if [x[0] for x in jp_pages] != [x[0] for x in en_pages]:
             raise RuntimeError(f"Page mismatch: {script}")
+        mm_by_ref = {}
+        for label, text in mm_pages:
+            mm_by_ref.setdefault(label, []).append(text)
+        mm_seen = {}
+        aligned_mm = []
+        for label, _ in jp_pages:
+            occurrence = mm_seen.get(label, 0)
+            witnesses = mm_by_ref.get(label, [])
+            aligned_mm.append(witnesses[occurrence] if occurrence < len(witnesses) else "")
+            mm_seen[label] = occurrence + 1
         payload = {
             "id": ids[script], "script": script, "route": route, "title": script,
             "pages": [
-                {"ref": label, "ja": japanese, "jaRuby": ruby, "en": english}
-                for (label, japanese), (_, ruby), (_, english) in zip(jp_pages, ruby_pages, en_pages)
+                {"ref": label, "ja": japanese, "jaRuby": ruby, "en": english,
+                 "mirrorMoon": mirror_moon}
+                for ((label, japanese), (_, ruby), (_, english), mirror_moon)
+                in zip(jp_pages, ruby_pages, en_pages, aligned_mm)
             ],
         }
         if script == "タイガー道場すぺしゃる":
@@ -515,7 +560,9 @@ def main() -> None:
                 })
         embedded_editions(script, payload["pages"], en_path)
         payloads.append(payload)
-        concordance.extend({"scriptId": ids[script], "script": script, "route": route, "title": script, **page} for page in payload["pages"])
+        concordance.extend({"scriptId": ids[script], "script": script, "route": route, "title": script,
+                            **{key: value for key, value in page.items() if key != "mirrorMoon"}}
+                           for page in payload["pages"])
     scripts = [{**{k:p[k] for k in ("id", "script", "route", "title")}, "pages":len(p["pages"]),
         "editionPages": {edition: sum(edition in page.get("availableEditions", ["original", "all-ages"]) for page in p["pages"])
                          for edition in ("original", "all-ages")}} for p in payloads]

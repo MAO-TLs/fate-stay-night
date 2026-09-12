@@ -8,7 +8,7 @@ import { JapaneseText } from "./JapaneseText";
 import { editionAvailable, editionText, type EditionPassage } from "./edition-text";
 
 type ScriptMeta = {id: string; script: string; route: string; title: string; pages: number; editionPages?: Record<Edition, number>};
-type Page = EditionPassage & {ref: string; speaker?: string | null; kind?: string};
+type Page = EditionPassage & {ref: string; speaker?: string | null; kind?: string; mirrorMoon?: string};
 type ScriptData = Omit<ScriptMeta, "pages"> & {pages: Page[]};
 type IndexData = {scripts: ScriptMeta[]; scriptCount: number; pageCount: number};
 type ConcordancePage = Page & {scriptId: string; script: string; route: string; title: string};
@@ -21,6 +21,7 @@ export function ScriptReader() {
   const [index, setIndex] = useState<IndexData | null>(null);
   const [selectedId, setSelectedId] = useState("");
   const [edition, setEdition] = useState<Edition>("original");
+  const [showMirrorMoon, setShowMirrorMoon] = useState(false);
   const [route, setRoute] = useState("prologue");
   const [data, setData] = useState<ScriptData | null>(null);
   const [scope, setScope] = useState<SearchScope>("script");
@@ -99,6 +100,7 @@ export function ScriptReader() {
     const current = index?.scripts.find(x => x.id === selectedId);
     const counterpart = editionScripts(index?.scripts ?? [], next).find(x => current && sceneKey(x.script) === sceneKey(current.script));
     setEdition(next);
+    if (next !== "original") setShowMirrorMoon(false);
     if (counterpart) setSelectedId(counterpart.id);
     const url = new URL(window.location.href);
     url.searchParams.set("edition", next);
@@ -138,14 +140,15 @@ export function ScriptReader() {
       <fieldset className="search-scope"><legend>Edition</legend><div className="scope-options"><label><input type="radio" name="edition" value="original" checked={edition === "original"} onChange={() => changeEdition("original")}/><span>Original</span></label><label><input type="radio" name="edition" value="all-ages" checked={edition === "all-ages"} onChange={() => changeEdition("all-ages")}/><span>Réalta Nua</span></label></div></fieldset>
       <div className="control"><label htmlFor="search">{scope === "corpus" ? `Search all ${selectedEditionPageCount.toLocaleString() ?? ""} passages` : "Search this script"}</label><input id="search" type="search" value={scope === "corpus" ? corpusQuery : scriptQuery} onChange={event => scope === "corpus" ? setCorpusQuery(event.target.value) : setScriptQuery(event.target.value)} placeholder="English or 日本語"/></div>
       <div className="result-count" id="search-status" role="status" aria-live="polite">{resultStatus}</div>
+      {edition === "original" && <label className="comparison-toggle"><input type="checkbox" checked={showMirrorMoon} onChange={event => setShowMirrorMoon(event.target.checked)}/><span>Display mirror moon for comparison</span><small>Original edition only</small></label>}
     </div>
     {error && <p className="script-status">{error}</p>}
-    {!error && scope === "script" && data && <><div className="script-meta"><h2>{scriptTitle(data.script)}</h2><p>{data.pages.length.toLocaleString()} source passages</p></div>{visiblePages.length ? <div className="script-lines" id="script-results">{visiblePages.map(page => <ScriptLine key={page.ref} id={page.ref} page={page}/>)}</div> : <p className="script-empty">No passages match this search.</p>}<a className="back-to-controls" href="#reader-controls" onClick={event => { event.preventDefault(); document.getElementById("reader-controls")?.scrollIntoView({behavior:"instant", block:"start"}); document.getElementById("route")?.focus({preventScroll:true}); }}>Back to controls ↑</a></>}
+    {!error && scope === "script" && data && <><div className="script-meta"><h2>{scriptTitle(data.script)}</h2><p>{data.pages.length.toLocaleString()} source passages</p></div>{visiblePages.length ? <div className="script-lines" id="script-results">{visiblePages.map(page => <ScriptLine key={page.ref} id={page.ref} page={page} showMirrorMoon={showMirrorMoon}/>)}</div> : <p className="script-empty">No passages match this search.</p>}<a className="back-to-controls" href="#reader-controls" onClick={event => { event.preventDefault(); document.getElementById("reader-controls")?.scrollIntoView({behavior:"instant", block:"start"}); document.getElementById("route")?.focus({preventScroll:true}); }}>Back to controls ↑</a></>}
     {!error && scope === "corpus" && !corpusQuery.trim() && <div className="concordance-prompt"><p className="eyebrow">All scripts</p><h2>Search every route.</h2><p>Enter Japanese or English above to search all {selectedEditionPageCount.toLocaleString()} aligned passages.</p></div>}
     {!error && scope === "corpus" && corpusQuery.trim() && concordance && <><div className="script-meta concordance-meta"><div><p className="eyebrow">All scripts</p><h2>Search results</h2></div><p>{corpusMatches.length.toLocaleString()} matches</p></div><div className="concordance-route-filter">{[["all","All sections"], ...Object.entries(routeNames)].map(([id,label]) => <button className={corpusRoute === id ? "is-active" : ""} key={id} onClick={() => setCorpusRoute(id)}>{label}<span>{id === "all" ? corpusMatches.length : editionConcordance.filter(x => x.route === id && `${x.ja}\n${x.en}`.toLocaleLowerCase().includes(corpusQuery.toLocaleLowerCase())).length}</span></button>)}</div><div className="concordance-results" id="concordance-results">{corpusMatches.slice(0,resultLimit).map(page => <article className="concordance-hit" key={`${page.scriptId}-${page.ref}`}><a className="concordance-hit-link" href={`?script=${page.scriptId}&edition=${edition}#${page.ref}`}><span>{scriptTitle(page.script)}</span><code>{referenceLabel(page.ref)}</code><strong>Open script →</strong></a><div className="concordance-hit-grid"><div className="line-cell line-ja"><span className="speaker speaker-ja">Japanese{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p lang="ja">{<JapaneseText text={page.jaRuby || page.ja || "—"}/>}</p></div><div className="line-cell line-en"><span className="speaker">MAO English{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p>{displayEnglish(page.en) || "—"}</p></div></div></article>)}</div>{corpusMatches.length > resultLimit && <p className="script-status">Showing the first {resultLimit} matches. Refine the search to narrow the result set.</p>}</>}
   </section>;
 }
 
-function ScriptLine({id, page}: {id: string; page: Page}) {
-  return <article className="script-line" id={id} tabIndex={-1}><a className="line-ref" href={`#${id}`} aria-label={`Link to passage ${referenceLabel(id)}`}>{referenceLabel(id)}</a><div className="line-cell line-ja"><span className="speaker speaker-ja">Japanese{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p lang="ja">{<JapaneseText text={page.jaRuby || page.ja || "—"}/>}</p></div><div className="line-cell line-en"><span className="speaker">MAO English{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p>{displayEnglish(page.en) || "—"}</p></div></article>;
+function ScriptLine({id, page, showMirrorMoon}: {id: string; page: Page; showMirrorMoon: boolean}) {
+  return <article className={`script-line${showMirrorMoon ? " script-line-comparison" : ""}`} id={id} tabIndex={-1}><a className="line-ref" href={`#${id}`} aria-label={`Link to passage ${referenceLabel(id)}`}>{referenceLabel(id)}</a><div className="line-cell line-ja"><span className="speaker speaker-ja">Japanese{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p lang="ja">{<JapaneseText text={page.jaRuby || page.ja || "—"}/>}</p></div><div className="line-cell line-en"><span className="speaker">MAO English{page.speaker ? ` · ${page.speaker}` : page.kind === "credit" ? " · Credits" : ""}</span><p>{displayEnglish(page.en) || "—"}</p></div>{showMirrorMoon && <div className="line-cell line-comparison"><span className="speaker">mirror moon</span><p>{displayEnglish(page.mirrorMoon || "") || "—"}</p></div>}</article>;
 }
