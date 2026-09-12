@@ -16,6 +16,7 @@ type SearchScope = "script" | "corpus";
 
 const routeNames: Record<string, string> = {prologue: "Prologue", fate: "Fate", ubw: "Unlimited Blade Works", hf: "Heaven's Feel", "last-episode": "Last Episode", extras: "Extras"};
 const resultLimit = 200;
+const readerDataRevision = "2026-09-13-mirror-moon";
 
 export function ScriptReader() {
   const [index, setIndex] = useState<IndexData | null>(null);
@@ -32,7 +33,7 @@ export function ScriptReader() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    fetch("../data/script/index.json").then(r => {
+    fetch(`../data/script/index.json?v=${readerDataRevision}`).then(r => {
       if (!r.ok) throw new Error("The script index could not be loaded.");
       return r.json();
     }).then((value: IndexData) => {
@@ -64,7 +65,7 @@ export function ScriptReader() {
     const selected = index.scripts.find(x => x.id === selectedId);
     if (!selected) return;
     const parts = editionParts(index.scripts, selected.script, edition);
-    Promise.all(parts.map(part => fetch(`../data/script/${part.id}.json`).then(r => {
+    Promise.all(parts.map(part => fetch(`../data/script/${part.id}.json?v=${readerDataRevision}`).then(r => {
       if (!r.ok) throw new Error("This script could not be loaded.");
       return r.json();
     }))).then((values: ScriptData[]) => {
@@ -85,7 +86,7 @@ export function ScriptReader() {
 
   useEffect(() => {
     if (scope !== "corpus" || concordance) return;
-    fetch("../data/script/concordance.json").then(r => r.json()).then(setConcordance).catch(reason => setError(String(reason)));
+    fetch(`../data/script/concordance.json?v=${readerDataRevision}`).then(r => r.json()).then(setConcordance).catch(reason => setError(String(reason)));
   }, [scope, concordance]);
 
   const choices = useMemo(() => editionScripts(index?.scripts ?? [], edition), [index, edition]);
