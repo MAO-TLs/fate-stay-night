@@ -90,7 +90,7 @@
 
 .reader-page .reader-header .eyebrow { color: var(--ice-deep); }
 
-.reader-page .reader-intro { padding-block: 42px 50px; }
+.reader-page .reader-intro { padding-block: 54px 62px; }
 .reader-page .reader-intro h1 {
 	margin: 0;
 	font-family: var(--serif);
