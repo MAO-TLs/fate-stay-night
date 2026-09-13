@@ -30,7 +30,7 @@ def english_pages(path: Path) -> list[tuple[str, str]]:
     cleaned = []
     for label, lines in pages:
         text = "\n".join(lines).strip()
-        if re.fullmatch(r"\*?\[(?:No|no) (?:translatable|reader-facing|spoken|active)[^\]]*\]\*?", text):
+        if re.fullmatch(r"\*?\[(?:(?:No|no) (?:translatable|reader-facing|spoken|active)[^\]]*|End of script|The scene (?:ends|continues)\.)\]\*?", text):
             text = ""
         cleaned.append((label, text))
     return cleaned
@@ -170,7 +170,7 @@ def final_original_editions(script: str, pages: list[dict]) -> None:
     english_path = ROOT / "campaign/original_variant_bindings/user-original-final-16.md"
     expected = {
         japanese_path: "50d71415952306ed0e312936ffbdcd75493b63599d17143026fc5eaa23842b89",
-        english_path: "3e0e97e60e3840ed95bd7497630161b60c1a947cd439cd31872e853abcbd1672",
+        english_path: "7acb67f198354434b5bff31129d7425b485dc5a3c84b599c80ee9db5acdf038d",
     }
     for path, digest in expected.items():
         if hashlib.sha256(path.read_bytes()).hexdigest() != digest:
@@ -387,7 +387,7 @@ def embedded_editions(script, pages, manuscript):
     for addition in additions:
         if addition["script"] != script:
             continue
-        source = JP / (script + ".ks")
+        source = ROOT / addition["source_path"] if addition.get("source_path") else JP / (script + ".ks")
         if hashlib.sha256(source.read_bytes()).hexdigest() != addition["source_sha256"]:
             raise RuntimeError(f"New edition source changed: {script}")
         lines = source.read_text(encoding="utf-8-sig").splitlines()
@@ -400,12 +400,18 @@ def embedded_editions(script, pages, manuscript):
         if addition.get("virtual"):
             if any(page["ref"] == addition["ref"] for page in pages):
                 raise RuntimeError(f"Edition-only page collides with shared page: {script} {addition['ref']}")
+            if addition.get("source_is_active"):
+                active = dict(japanese_pages(source))[addition["ref"]]
+                active_ruby = dict(japanese_pages(source, preserve_ruby=True))[addition["ref"]]
+            else:
+                active = restored_source_text(addition["source_lines"])
+                active_ruby = restored_source_text(addition["source_lines"], preserve_ruby=True)
             page = {
                 "ref": addition["ref"], "ja": "", "jaRuby": "", "en": "",
                 "editionVirtual": True, "availableEditions": ["original"],
                 "editions": {"original": {
-                    "ja": restored_source_text(addition["source_lines"]),
-                    "jaRuby": restored_source_text(addition["source_lines"], preserve_ruby=True),
+                    "ja": active,
+                    "jaRuby": active_ruby,
                     "en": addition["english"],
                 }},
             }
@@ -418,7 +424,7 @@ def embedded_editions(script, pages, manuscript):
         replaced = addition.get("replace_paragraphs", 0)
         if not 0 <= position <= len(shared) or not 0 <= replaced <= len(shared) - position:
             raise RuntimeError(f"Invalid edition insertion point: {script}")
-        restored = {line["line"] for line in addition["source_lines"]}
+        restored = set() if addition.get("source_is_active") else {line["line"] for line in addition["source_lines"]}
         omitted = {line["line"] for line in addition.get("omitted_source_lines", [])}
         if "existing_english" in addition:
             # Some published pages already translated the commented Original
@@ -436,7 +442,7 @@ def embedded_editions(script, pages, manuscript):
                 "original": {
                     "ja": dict(japanese_pages(source, restored_lines=restored))[page["ref"]],
                     "jaRuby": dict(japanese_pages(source, preserve_ruby=True, restored_lines=restored))[page["ref"]],
-                    "en": page["en"],
+                    "en": "\n\n".join(shared[:position] + addition.get("original_replacement", existing) + shared[position + len(existing):]),
                 },
             }
             continue

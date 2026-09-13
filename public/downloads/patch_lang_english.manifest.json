@@ -1,0 +1,489 @@
+{
+  "schema": "mao-fsn-ultimate-edition-english-v1",
+  "version": "1.0.0",
+  "base": "clean_room/work/story-final/patch_lang_english.xp3",
+  "base_sha256": "1ff38daed7da0c729b4fdf6a8c143cc9983fe25c318b4a6af587febc2e2df21c",
+  "output": "release/v1.0.0/patch_lang_english.xp3",
+  "output_sha256": "aa01e123e93d1426573f3a9bd4ed7bd03c00f8cb6fe4c572a05507528b95d9c8",
+  "entries": 895,
+  "entry_types": {
+    ".dic": 16,
+    ".fcf": 40,
+    ".ks": 734,
+    ".mo": 2,
+    ".png": 46,
+    ".po": 2,
+    ".tlg": 6,
+    ".ttf": 4,
+    ".txt": 1,
+    ".webp": 44
+  },
+  "removed": [
+    {
+      "entry": "translation.rar",
+      "sha256": "fabd7169cca2bf82c15577c987c9956ad71e1c2647aac2f7b5dea52804e854e4"
+    },
+    {
+      "entry": "桜ルート十四日目-110.ks",
+      "sha256": "39be939a3c85361fa0345ff49a7dcb2b0d7ff0b05c6aaf1da2ebbee3ccd7553b"
+    }
+  ],
+  "replaced": [
+    {
+      "entry": "settings.mo",
+      "source": "clean_room/work/catalogs/settings.mo",
+      "sha256": "137cd73646922b8c469d92f74c69049bc5b4d17ff1af09b354a5a68a5621d7d8"
+    },
+    {
+      "entry": "settings.po",
+      "source": "clean_room/work/catalogs/settings.po",
+      "sha256": "bb64ce3d1d61f5c42c2938d323b912721f4b76a327c20ed8822883614cba1adb"
+    },
+    {
+      "entry": "translation.mo",
+      "source": "clean_room/work/catalogs/translation.mo",
+      "sha256": "948e514bb287980f2ac5875b2d75e7a849a7b21376410f3faa4296166ce4edb7"
+    },
+    {
+      "entry": "translation.po",
+      "source": "clean_room/work/catalogs/translation.po",
+      "sha256": "43e8140707d4a452477586a20f712bcb4e465e5c44fcf0a7acdc124cc6c6a274"
+    },
+    {
+      "entry": "chara2displayname.dic",
+      "source": "clean_room/work/dictionaries/chara2displayname.dic",
+      "sha256": "b80ac69dfe717d444c05b80acd1bfa3bbe23e1ef7c48497a8b1e9a387f1209e9"
+    },
+    {
+      "entry": "language.dic",
+      "source": "clean_room/work/dictionaries/language.dic",
+      "sha256": "0c8f9a78d3ad23c334690d30251c45e5f0048e57e1fd75393417b210eed6136a"
+    },
+    {
+      "entry": "status-abilities.dic",
+      "source": "clean_room/work/dictionaries/status-abilities.dic",
+      "sha256": "d1860779867b699847003c1446c02bd63ca5b1deddc17b906bb2573cc42bac25"
+    },
+    {
+      "entry": "status-buttons.dic",
+      "source": "clean_room/work/dictionaries/status-buttons.dic",
+      "sha256": "0f77b3081813a4cad07aebb690bd63ab5401bee8050585a7b3982659b99a3720"
+    },
+    {
+      "entry": "status-classes.dic",
+      "source": "clean_room/work/dictionaries/status-classes.dic",
+      "sha256": "06087c87043e9664d4246d951e7d0ac4d82512e112c345c95c154590f7482e27"
+    },
+    {
+      "entry": "status-details.dic",
+      "source": "clean_room/work/dictionaries/status-details.dic",
+      "sha256": "e5d2bb509931d861b6bd90489637a9210a8b0f1fb5c2666506bf49f427991215"
+    },
+    {
+      "entry": "status-id.dic",
+      "source": "clean_room/work/dictionaries/status-id.dic",
+      "sha256": "3056ccdc759ee8350ffa58e340bc10280fc619958686731e8301f209821eed06"
+    },
+    {
+      "entry": "status-noble-phantasm-buttons.dic",
+      "source": "clean_room/work/dictionaries/status-noble-phantasm-buttons.dic",
+      "sha256": "341adcb991a75f8118ca1acb59dd364f31a71280e6b08b50c98e58e21d21528b"
+    },
+    {
+      "entry": "status-noble-phantasm-specification.dic",
+      "source": "clean_room/work/dictionaries/status-noble-phantasm-specification.dic",
+      "sha256": "5549ffce800502c86e7e93b63265e815ccd6316d482f1ae95cf7edb3a9d48252"
+    },
+    {
+      "entry": "status-noble-phantasm-text.dic",
+      "source": "clean_room/work/dictionaries/status-noble-phantasm-text.dic",
+      "sha256": "4c406dc104a505bd393023faac7f4ae677388ab294f5ad30a417637a3a3a308f"
+    },
+    {
+      "entry": "status-skills.dic",
+      "source": "clean_room/work/dictionaries/status-skills.dic",
+      "sha256": "c85ff59acd20a9ae431d8ea0d32772ea4a65033017e505abdb2592ff899c5dea"
+    },
+    {
+      "entry": "tiger-dojo-names.dic",
+      "source": "clean_room/work/dictionaries/tiger-dojo-names.dic",
+      "sha256": "0bc2dbf01b9864e1476add52ef814a0fa30fab97f9473176803bb2b1bc638668"
+    },
+    {
+      "entry": "voice-names.dic",
+      "source": "clean_room/work/dictionaries/voice-names.dic",
+      "sha256": "495363dc95619a76b432c1aef4ddd596d94515eeccfe60368302ee31752dc492"
+    },
+    {
+      "entry": "weapons-names.dic",
+      "source": "clean_room/work/dictionaries/weapons-names.dic",
+      "sha256": "9be6dc0ffcf54db5ca3cc109355f2ae2d26d91497846623a689dc33ceac10689"
+    },
+    {
+      "entry": "weapons-text.dic",
+      "source": "clean_room/work/dictionaries/weapons-text.dic",
+      "sha256": "9921adc9d131027ab91b25bdd62d80db80ef5c486ab6ccc17186a3b6e09ab8bd"
+    },
+    {
+      "entry": "weapons-users.dic",
+      "source": "clean_room/work/dictionaries/weapons-users.dic",
+      "sha256": "8e3e915abb3cfffccc01b4a82db51be83ae8534017a155c071bd8308a2385788"
+    },
+    {
+      "entry": "セイバールート一日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート一日目.fcf",
+      "sha256": "16e78f1d085794bc832d95c9682d7eeda74cf051f7f170f9da673a5d9f602f16"
+    },
+    {
+      "entry": "セイバールート七日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート七日目.fcf",
+      "sha256": "ee75feec9308e6a57905e07b2eeea64af10faac6602e398c75aa28d73d2d0940"
+    },
+    {
+      "entry": "セイバールート三日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート三日目.fcf",
+      "sha256": "b114e5da466c751325e5f6376a174370247dc84acd3c2efbf3b03422b4dde2c5"
+    },
+    {
+      "entry": "セイバールート九日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート九日目.fcf",
+      "sha256": "6f362195e02a8976aa285a3e41c5e78aa04320c232bb9e8b7cf3fec3df765eff"
+    },
+    {
+      "entry": "セイバールート二日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート二日目.fcf",
+      "sha256": "d15bcf158ae3e39966a781538873ec5c76285439a89fb4664254ae58a243b77e"
+    },
+    {
+      "entry": "セイバールート五日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート五日目.fcf",
+      "sha256": "228d82a3417321b325e3e5eb31891e55b914af1b58ca3569209b44c690769b0b"
+    },
+    {
+      "entry": "セイバールート六日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート六日目.fcf",
+      "sha256": "2190ddb94e91e0657790cf99b0bfe4e7aab7f591c761669fadb9e98ca13d460c"
+    },
+    {
+      "entry": "セイバールート十一日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十一日目.fcf",
+      "sha256": "00e28d83838cb68432185f1191c7486cf79addd95acca23d87bac7f81d54a388"
+    },
+    {
+      "entry": "セイバールート十三日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十三日目.fcf",
+      "sha256": "f30d414eadf49e0843e15ea44429a62ea4bc83046085c793c33b221a174f4516"
+    },
+    {
+      "entry": "セイバールート十二日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十二日目.fcf",
+      "sha256": "85a32e42e0af5fa59a03a08c5cd488e1cefe2ea994940556e70c8b307137919f"
+    },
+    {
+      "entry": "セイバールート十五日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十五日目.fcf",
+      "sha256": "ef860affdb854090ee4cde92d9049dbe6b654c3ae91d7f45e90111c43b59bc9b"
+    },
+    {
+      "entry": "セイバールート十四日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十四日目.fcf",
+      "sha256": "ceae1324ac8551cb2a328fb0f52121a51e13ecfcff48e31537274b5eded4450f"
+    },
+    {
+      "entry": "セイバールート十日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート十日目.fcf",
+      "sha256": "cf5587e80a2cbe4395d9aa94fee2e3c2876b775d932ae7b84f6645e0c25dae41"
+    },
+    {
+      "entry": "セイバールート四日目.fcf",
+      "source": "clean_room/work/flowcharts/セイバールート四日目.fcf",
+      "sha256": "e1dad1d32099b901e3dfe7e7dd4b23eeb52b8257c719c7bcc328b5b142ce9b1b"
+    },
+    {
+      "entry": "プロローグ.fcf",
+      "source": "clean_room/work/flowcharts/プロローグ.fcf",
+      "sha256": "8b81250bd972a5118637b454dfbb5a5c509f90ca9c73efc38de67c714b994236"
+    },
+    {
+      "entry": "凛ルート七日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート七日目.fcf",
+      "sha256": "e7f9d0a543e382217646844b19166a9ea78ce0382ab4b65680923899e0bc0eb6"
+    },
+    {
+      "entry": "凛ルート三日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート三日目.fcf",
+      "sha256": "79be93540cd377ab451dcf595aae093c2846432b205fe77d730fba6674e9b3b8"
+    },
+    {
+      "entry": "凛ルート九日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート九日目.fcf",
+      "sha256": "d12c35f3fa5699e86cc9043b6b3ccaa1e4832edac7adb618d6cfa200d08e77e8"
+    },
+    {
+      "entry": "凛ルート五日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート五日目.fcf",
+      "sha256": "14a9a9698efeb831e0b106e429b79c0fae3227d955e83aa5d7e1c813c2c7493e"
+    },
+    {
+      "entry": "凛ルート八日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート八日目.fcf",
+      "sha256": "5d9956325ad914e8b9862fc881bb12eae5ccb32ede51f981e2b3d05850fccfcb"
+    },
+    {
+      "entry": "凛ルート六日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート六日目.fcf",
+      "sha256": "e892ac4255140ae9168e93032df350398158e22a5c9fdd38bdcde108052a82d1"
+    },
+    {
+      "entry": "凛ルート十一日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート十一日目.fcf",
+      "sha256": "a944f589493393534d58c1d73853503ab4f4fca7dd85ae6bd8c910cfd9217fa9"
+    },
+    {
+      "entry": "凛ルート十三日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート十三日目.fcf",
+      "sha256": "9faff964764eb72fe2817e28765a1c9532276fa96db88479bdc8d678973a44ce"
+    },
+    {
+      "entry": "凛ルート十二日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート十二日目.fcf",
+      "sha256": "507b9bdcf1ee784bf0a49907a96822b1cd3e18ce6f1678a57803f80bfb88121d"
+    },
+    {
+      "entry": "凛ルート十四日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート十四日目.fcf",
+      "sha256": "2280a91badb7178c7446fd54eabb1d0cb52e81fd7d0a7768b9a640c52833a97f"
+    },
+    {
+      "entry": "凛ルート十日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート十日目.fcf",
+      "sha256": "315b3747438e83c3d6f33d5e7a99c3126fd0f29f7a3a19de6ae6b8f31255bc8b"
+    },
+    {
+      "entry": "凛ルート四日目.fcf",
+      "source": "clean_room/work/flowcharts/凛ルート四日目.fcf",
+      "sha256": "9d9bff3aeb2162aac52f367f5e898af08008df4335785c8b932b88e0499847a1"
+    },
+    {
+      "entry": "桜ルート七日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート七日目.fcf",
+      "sha256": "1f26c9c5f4b0081af1477b3ce5b571ae8da7629d919d158fdc7c766d213ef8e7"
+    },
+    {
+      "entry": "桜ルート九日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート九日目.fcf",
+      "sha256": "47d8eb7d964c311f67dc67815c9248e4bd56711a1377d9a987e61797e13af92f"
+    },
+    {
+      "entry": "桜ルート五日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート五日目.fcf",
+      "sha256": "eb0f848996bf744250b2654e4e8840d51a479dc59650fcb2f06b0f1f0e5d6f03"
+    },
+    {
+      "entry": "桜ルート八日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート八日目.fcf",
+      "sha256": "a6c473826807d497bc499604fc8e86869c05516b29067e28e6608bc629d8a8d3"
+    },
+    {
+      "entry": "桜ルート六日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート六日目.fcf",
+      "sha256": "9283768da42f82ff37f8f4463a5ccf62be9fa382512530130d94b5afbfd38e75"
+    },
+    {
+      "entry": "桜ルート十一日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十一日目.fcf",
+      "sha256": "7ff65db15a86db4ba4e1ed7680b75436bbe0bc0b45b593d0cccc72a074ef09dd"
+    },
+    {
+      "entry": "桜ルート十三日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十三日目.fcf",
+      "sha256": "f28fe7719f3fd116dd990cea64813f39b403c1ee7d86f3225d54cb5af1e73eed"
+    },
+    {
+      "entry": "桜ルート十二日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十二日目.fcf",
+      "sha256": "f31e8692c6799185c7906ba1a0ac94c291f679e400b5b7e7853505d0b09f636f"
+    },
+    {
+      "entry": "桜ルート十五日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十五日目.fcf",
+      "sha256": "1a3ee840744c6791323c5ed7ade83ddb7606ed04fded240bd4d9d764b865c0f2"
+    },
+    {
+      "entry": "桜ルート十六日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十六日目.fcf",
+      "sha256": "cd66eabb336e35bcdf9812599b06fb939880d384fb03a14e145813889743d55a"
+    },
+    {
+      "entry": "桜ルート十四日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十四日目.fcf",
+      "sha256": "d5f27bc615ca123acce2ca5891b0a58cdc0cf631d9e773e66b88f77f174f2550"
+    },
+    {
+      "entry": "桜ルート十日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート十日目.fcf",
+      "sha256": "34f82ac7ee494333d180579311d7736739a050b6022738293c14fb4e44e732c0"
+    },
+    {
+      "entry": "桜ルート四日目.fcf",
+      "source": "clean_room/work/flowcharts/桜ルート四日目.fcf",
+      "sha256": "80b3522623f1d226541ab336c08e5b33e0601d61001372ca055c17758f0960c9"
+    },
+    {
+      "entry": "シーン一覧.txt",
+      "source": "clean_room/work/シーン一覧.txt",
+      "sha256": "91665a017c844f68f28d6a56d1b958ac2c59d5c55897828f101046f645665cb1"
+    },
+    {
+      "entry": "images/rinn03_150.png",
+      "source": "clean_room/work/image-rebuild/images/rinn03_150.png",
+      "sha256": "c3a1e4ef77e2afa91290ad9979d794c9295ffb5d05580577a04876ac63b7fa06",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/rinn03_150.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/rinn03_150.webp",
+      "sha256": "612928b169138c46a13800560b041cf1b4f7159509b63440e87d595d03d4a4cb",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/ステータス画面.png",
+      "source": "clean_room/work/image-rebuild/images/ステータス画面.png",
+      "sha256": "0dc99d623150761dc25ea0abd14b2d634513fb43b114c55228d7acc59898dcc7",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/ステータス画面.png",
+      "source": "clean_room/work/image-rebuild/images-hd/ステータス画面.png",
+      "sha256": "250fd638450794efd5759a66ad2a200442f71d267e0f2830068d133fc114b37c",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/タイガー注意書き.png",
+      "source": "clean_room/work/image-rebuild/images/タイガー注意書き.png",
+      "sha256": "14d1a938cd3cf18ecfd8d47fd154e99560de306cae79412d75fc68256b145478",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/タイガー注意書き.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/タイガー注意書き.webp",
+      "sha256": "b7bf2e21d3f18100be89a6417a17edadab9ada6aeeb35cbd08abce1d1bc2f7ba",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/ジャプニカ暗殺帳.png",
+      "source": "clean_room/work/image-rebuild/images/ジャプニカ暗殺帳.png",
+      "sha256": "ac15fdcc65659db405029777769340a7fa50702a29961d283ae5bd68900dad5c",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/ジャプニカ暗殺帳.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/ジャプニカ暗殺帳.webp",
+      "sha256": "c5bdba0582263ea3cc1902c524a765784fd93eded877eaac0cc633777d8464fa",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/凛ルートヒント.png",
+      "source": "clean_room/work/image-rebuild/images/凛ルートヒント.png",
+      "sha256": "e9ecb95c1964bfed44e3fd828e4a69f4749f3b82f53b83f8e49d25ef4c367d6d",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/凛ルートヒント.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/凛ルートヒント.webp",
+      "sha256": "ade339d98a9cf7f7fc4fbfbd263f8ff674fc347c2c915f4073e81093258a0063",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/桜ルートヒント.png",
+      "source": "clean_room/work/image-rebuild/images/桜ルートヒント.png",
+      "sha256": "dae6cf09afa1828af661005b6b8cbdda0fdb964c0ae0964abac9f8333d84c708",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/桜ルートヒント.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/桜ルートヒント.webp",
+      "sha256": "c45d26dbd1594c35ae85773a4e61578de58df78a463a3a295dfd59483f6ffb73",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/24時間軸説明・サーヴァント.png",
+      "source": "clean_room/work/image-rebuild/images/24時間軸説明・サーヴァント.png",
+      "sha256": "a90a7779c126a0375a8c16a075a2d4606ec9e0c7f2aaec44a05cf2cc97a9778c",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/24時間軸説明・サーヴァントb.png",
+      "source": "clean_room/work/image-rebuild/images/24時間軸説明・サーヴァントb.png",
+      "sha256": "eeabaf7e20038497ce399cf8bf7f865d862a5ddc18bcf730a6af4a2ba1eb8c33",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/24時間軸説明・サーヴァントc.png",
+      "source": "clean_room/work/image-rebuild/images/24時間軸説明・サーヴァントc.png",
+      "sha256": "5252bffcae0b64bbc80e6b87e0703dcf92fc6711f8f0b4d5c28198dfe2f59d50",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/25時間軸説明・セイバー.png",
+      "source": "clean_room/work/image-rebuild/images/25時間軸説明・セイバー.png",
+      "sha256": "bad6cc7d1ab7d027eea7269ead6981db1163145fd69520c37b1670301328788f",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/25時間軸説明・セイバーb.png",
+      "source": "clean_room/work/image-rebuild/images/25時間軸説明・セイバーb.png",
+      "sha256": "59f9509a2aa56a46208382c408268cf8a3049814fa04bb038a79b9e1fc9fe771",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images/25時間軸説明・セイバーc.png",
+      "source": "clean_room/work/image-rebuild/images/25時間軸説明・セイバーc.png",
+      "sha256": "145c0a72b0b60b1263339a41b9c939025c71b7cbdb1234b360f61aed65936825",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/24時間軸説明・サーヴァント.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/24時間軸説明・サーヴァント.webp",
+      "sha256": "4b977a26946d0588df9f7bae039d30ccf9908d4b0e6f927d554f70ff89f38487",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/24時間軸説明・サーヴァントb.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/24時間軸説明・サーヴァントb.webp",
+      "sha256": "9144165fe4e01234c5423013fd82f9ebbc596fbce1b7425c70b4d65bbe680f86",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/24時間軸説明・サーヴァントc.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/24時間軸説明・サーヴァントc.webp",
+      "sha256": "b50232523fb770acf753dc6749fa2f450a1d0c5d88c9f2cdf9c92caac083bb71",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/25時間軸説明・セイバー.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/25時間軸説明・セイバー.webp",
+      "sha256": "fe0c2e6e683954e91767fbdf854a1e6af69ed0446b4410fa56d570104677852d",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/25時間軸説明・セイバーb.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/25時間軸説明・セイバーb.webp",
+      "sha256": "a24135f7c8f68cbc0085aabdcf50ab1ed2045ac625ed4db1a73c4dc02a9cfcc6",
+      "text_only_pixel_guard": true
+    },
+    {
+      "entry": "images-hd/25時間軸説明・セイバーc.webp",
+      "source": "clean_room/work/image-rebuild/images-hd/25時間軸説明・セイバーc.webp",
+      "sha256": "113e3e0acd735c445568e326cffd93946497f2f32f6b28c43f1d51ce0071f449",
+      "text_only_pixel_guard": true
+    }
+  ],
+  "validation": {
+    "reopened_payloads_equal_build": true,
+    "forbidden_terminology_matches": 0,
+    "text_only_image_assets": 24,
+    "reviewed_image_assets": 96,
+    "runtime_tested": false
+  }
+}

@@ -236,8 +236,8 @@
     "source_sha256": "9db5cc01b89ffaef7e82d940440bc5564538d23dd586ffa6f3e96a5d39fa4ff4",
     "source_lines": [{"line": 336, "raw": ";　不意に、[lr]"}, {"line": 341, "raw": ";　小さな声で、しかしハッキリと呟いた。"}],
     "insert_after_paragraph": 3, "replace_paragraphs": 2,
-    "english": "Then, suddenly—\n\n“…I don't understand,” she murmurs in a small but distinct voice.",
-    "review": {"context": "Read Sakura's frozen silence and her following clarification. Reuses the existing transition and dialogue while restoring both the sudden break and the narration describing her quiet but distinct delivery.", "witness_sha256": "bcaa653681780bcf46bf3bfb4a5f87a6cea442b8ff2e6de230ad5c2109edb6a4", "witness_page": "page39"}
+    "english": "Then, suddenly—\n\n“…I don’t understand.”\n\nShe murmurs it in a small but distinct voice.",
+    "review": {"context": "Read Sakura's frozen silence and her following clarification. The dialogue is identical in both Japanese editions, so both now use the same English wording; the Original alone restores the sudden break and narration describing her quiet but distinct delivery.", "witness_sha256": "bcaa653681780bcf46bf3bfb4a5f87a6cea442b8ff2e6de230ad5c2109edb6a4", "witness_page": "page39"}
   },
   {
     "script": "セイバールート五日目-00", "ref": "page51",
@@ -736,7 +736,8 @@
     "insert_after_paragraph": 1,
     "existing_english": ["Without answering, Illya trudges toward the entrance, then stops beside the wall."],
     "all_ages_replacement": ["Illya trudges toward the entrance, then stops beside the wall."],
-    "review": {"context": "Full scene previously read and source-bound. Existing English merges the commented silence/walking line with the following active description. Original reuses the whole published sentence; All-ages removes only the introductory silence clause, preserving the shared wording verbatim.", "witness_sha256": "4a7993a418f04921edbde2ee4039066325029c5f4920c459c97bea052f750f8d", "witness_page": "page46", "preservation": "No new translation; the shared action remains exactly the same in both editions."}
+    "original_replacement": ["Without answering, Illya turns and walks away.", "She trudges toward the entrance, then stops beside the wall."],
+    "review": {"context": "Full scene previously read and source-bound. The Original has a separate sentence saying that Illya walks away without answering, followed by the shared sentence describing her trudging to the entrance and stopping by the wall. The shared Japanese now uses one identical English rendering in both editions.", "witness_sha256": "4a7993a418f04921edbde2ee4039066325029c5f4920c459c97bea052f750f8d", "witness_page": "page46", "preservation": "The shared action remains exactly the same in both editions; only the Original receives the preceding restored sentence."}
   },
   {
     "script": "セイバールート十二日目-03", "ref": "page12",
@@ -3194,5 +3195,42 @@
     ],
     "english": "“All right. Here goes.”\n\nI pour gasoline into the empty tank in my chest.\n\nI give the key a mighty turn, kick down the goddamn heavy accelerator, and charge into the living room where Sakura is.",
     "review": {"context": "Shirou forces himself into motion and heads into the living room to face Sakura.", "meaning": "The engine metaphor escalates from fuel to ignition to acceleration, preserving the strained force of will and rough diction.", "witness_sha256": "2ac5a2d323c4ece0fd4210fcbe7c2bee114ed4a29ee84c83a20ab8ef744526f5", "witness_page": "page13", "provenance": "User-supplied and approved MAO English for the bound Original Japanese lines; inherited comparator English not used."}
+  },
+  {
+    "script": "凛ルート十二日目-14",
+    "ref": "page23",
+    "source_path": "engineering/ultimate_english/original_2004_research/凛ルート十二日目-14.ks",
+    "source_is_active": true,
+    "source_sha256": "b97ce967f8f3f22e8a5af0aba18af0a47ef13ae292bf186d2b18b345b2347959",
+    "source_lines": [{"line": 296, "raw": "　愛しい玩具だからこそ、調教には時間をかけるべきだ。[l][r]"}],
+    "insert_after_paragraph": 0,
+    "existing_english": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves care in its completion."],
+    "all_ages_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves care in its completion."],
+    "original_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves time and care in her training.", "To Caster, Saber is a first-rate tool in both beauty and ability.", "A jewel without equal deserves to be savored with painstaking care."],
+    "review": {"context": "The 2004 script continues Caster's appraisal of Saber for two paragraphs that the all-ages revision removes.", "provenance": "New translation from the hash-bound 2004 Japanese script; inherited comparator English not used."}
+  },
+  {
+    "script": "凛ルート十二日目-14",
+    "ref": "page24",
+    "source_path": "engineering/ultimate_english/original_2004_research/凛ルート十二日目-14.ks",
+    "source_is_active": true,
+    "source_sha256": "b97ce967f8f3f22e8a5af0aba18af0a47ef13ae292bf186d2b18b345b2347959",
+    "source_lines": [{"line": 309, "raw": "　白い装束に包まれた少女を、キャスターは艶めく視線"}],
+    "insert_after_paragraph": 0,
+    "existing_english": ["“…Yes. Controlling your body with a Command Spell would be terribly dull.", "“You will choose to become my Servant of your own accord. …Yes. Before I break your body, I shall break your heart.”", "The strongest piece is already as good as hers.", "Nothing now threatens her victory.", "The Holy Grail's whereabouts remain a concern, but only a matter of time. Her lips curve as she prepares to enjoy the fall of the King of Knights, her reward for every intrigue."],
+    "all_ages_replacement": ["“…Yes. Controlling your body with a Command Spell would be terribly dull.", "“You will choose to become my Servant of your own accord. …Yes. Before I break your body, I shall break your heart.”", "The strongest piece is already as good as hers.", "Nothing now threatens her victory.", "The Holy Grail's whereabouts remain a concern, but only a matter of time. Her lips curve as she prepares to enjoy the fall of the King of Knights, her reward for every intrigue."],
+    "original_replacement": ["“…Yes. Controlling her body with a Command Spell would be terribly dull.", "“She will choose to become my Servant of her own accord. …Yes. I shall break her heart before I break her body.”", "Caster glares at the girl swathed in white, desire gleaming in her eyes.", "At the thought of ravaging those white limbs and making her a slave who seeks nothing but pleasure, she almost forgets the Holy Grail itself."],
+    "review": {"context": "The 2004 narration remains in Caster's third-person interior viewpoint; the all-ages rewrite turns the speech toward Saber and replaces the following fantasy.", "provenance": "New translation from the hash-bound 2004 Japanese script; inherited comparator English not used."}
+  },
+  {
+    "script": "凛ルート十二日目-14",
+    "ref": "page25",
+    "virtual": true,
+    "source_path": "engineering/ultimate_english/original_2004_research/凛ルート十二日目-14.ks",
+    "source_is_active": true,
+    "source_sha256": "b97ce967f8f3f22e8a5af0aba18af0a47ef13ae292bf186d2b18b345b2347959",
+    "source_lines": [{"line": 317, "raw": "　[line3]あの少女を卑しい性奴にする。[l][r]"}],
+    "english": "—She will make the girl into a debased sex slave.\n\nOf course, she will do nothing so crude as take her virginity.\n\nThe girl is still untouched.\n\nThen she ought to remain untouched forever, while her body drowns in pleasure—\n\na girl whose body can never be satisfied, grasping more greedily at sex than anyone.\n\nThe image twists Caster’s lips into a smile…",
+    "review": {"context": "Original-only continuation of Caster's fantasy; the all-ages version removes this page entirely.", "provenance": "New translation from the hash-bound 2004 Japanese script; inherited comparator English not used."}
   }
 ]

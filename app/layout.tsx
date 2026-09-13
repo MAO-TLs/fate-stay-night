@@ -5,7 +5,7 @@ import "./mao-reader-template.css";
 import "./fate-theme.css";
 export const metadata: Metadata = {
   title: { default: "Fate/stay night English Translation | MAO", template: "%s | MAO Translations" },
-  description: "Read MAO Translations' Fate/stay night manuscript alongside the original Japanese.",
+  description: "Download the MAO English patch for Fate/stay night Réalta Nua Ultimate Edition, or read both editions beside the Japanese script.",
 };
 export default function RootLayout({children}: {children: React.ReactNode}) {
  return <html lang="en"><body>{children}</body></html>;
