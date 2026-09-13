@@ -13,7 +13,6 @@
 .chapter-card{background:#fff}.chapter-card:hover{background:#fff3e8}
 .install-section{background:#fff}
 .install-steps a{color:var(--ice-ink);text-decoration:underline;text-underline-offset:3px}
-.release-reading,.release-credits{background:#f3e9df}
 .release-scope{background:#fff}
 .mao-reader-shell{
  --mao-template-ink:#2b211c;
