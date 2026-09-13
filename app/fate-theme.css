@@ -51,4 +51,10 @@ a:focus-visible{outline-color:#dd864b}
 @media(max-width:640px){
   .hero h1{font-size:clamp(44px,14vw,82px)}
   .subpage-title{padding-block:42px 50px}
+  .nav .wordmark{max-width:none;white-space:nowrap;flex-shrink:0;line-height:1.5}
+  .reader-page .nav-links{gap:16px;font-size:12px}
+}
+@media(max-width:380px){
+  .reader-page .wordmark{font-size:10px;letter-spacing:.08em}
+  .reader-page .nav-links{gap:12px;font-size:11px}
 }
