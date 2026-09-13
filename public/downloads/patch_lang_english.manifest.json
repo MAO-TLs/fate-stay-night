@@ -4,7 +4,7 @@
   "base": "clean_room/work/story-final/patch_lang_english.xp3",
   "base_sha256": "1ff38daed7da0c729b4fdf6a8c143cc9983fe25c318b4a6af587febc2e2df21c",
   "output": "release/v1.0.0/patch_lang_english.xp3",
-  "output_sha256": "aa01e123e93d1426573f3a9bd4ed7bd03c00f8cb6fe4c572a05507528b95d9c8",
+  "output_sha256": "ae8df0a2540a67954607394aa2c8c84b8a81ba91ccea1596aa90fb7bffdecb37",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -42,12 +42,12 @@
     {
       "entry": "translation.mo",
       "source": "clean_room/work/catalogs/translation.mo",
-      "sha256": "948e514bb287980f2ac5875b2d75e7a849a7b21376410f3faa4296166ce4edb7"
+      "sha256": "8c0ae750df30c9d95ab9f4c3ec1598f72f60a1de18c26c53d7410b475d9927a8"
     },
     {
       "entry": "translation.po",
       "source": "clean_room/work/catalogs/translation.po",
-      "sha256": "43e8140707d4a452477586a20f712bcb4e465e5c44fcf0a7acdc124cc6c6a274"
+      "sha256": "17f0b2000bc676436d310b50b292c63344a1a3f4e2d90f49a8a40d0673f0aa42"
     },
     {
       "entry": "chara2displayname.dic",
