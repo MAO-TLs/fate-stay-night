@@ -58,3 +58,4 @@ a:focus-visible{outline-color:#dd864b}
   .reader-page .wordmark{font-size:10px;letter-spacing:.08em}
   .reader-page .nav-links{gap:12px;font-size:11px}
 }
+.credits > div { align-items: center; }
