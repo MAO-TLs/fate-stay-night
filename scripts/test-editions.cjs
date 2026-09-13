@@ -10,6 +10,21 @@ vm.runInNewContext(ts.transpileModule(fs.readFileSync(path.join(root, "app/scrip
   compilerOptions: {target: ts.ScriptTarget.ES2022, module: ts.ModuleKind.CommonJS, esModuleInterop:true}
 }).outputText, {exports:labels, require:()=>JSON.parse(fs.readFileSync(path.join(root,"app/script/supplemental-scripts.json")))});
 const scripts = JSON.parse(fs.readFileSync(path.join(root,"public/data/script/index.json"))).scripts;
+const prologue3 = fs.readFileSync(path.join(root,"..","campaign/reconciliation/by_script/プロローグ3日目.md"),"utf8");
+for (const line of [
+  "Thank you, Tohsaka.",
+  "What is it, Tohsaka?",
+  "Y-you saw us, Tohsaka?",
+  "leave the rest to me, Tohsaka.",
+  "worry, Tohsaka.",
+]) assert.ok(prologue3.includes(line), `Prologue 3 Rin-viewpoint address sentinel missing: ${line}`);
+for (const line of [
+  "Thank you, Shirou.",
+  "What is it, Shirou?",
+  "Y-you saw us, Shirou?",
+  "leave the rest to me, Shirou.",
+  "worry, Shirou.",
+]) assert.ok(!prologue3.includes(line), `Prologue 3 contains impossible Sakura-to-Rin address: ${line}`);
 for (const edition of ["original","all-ages"]) {
   const choices = labels.editionScripts(scripts,edition);
   assert.equal(choices.length, scripts.length - 9);
@@ -79,7 +94,13 @@ for (const script of scripts) {
       const expected=page.en.split("\n\n");
       assert.deepEqual(expected.splice(alignment.insert_after_paragraph,alignment.existing_english.length,...(alignment.all_ages_replacement || [])),alignment.existing_english);
       assert.equal(page.editions["all-ages"].en,expected.join("\n\n"));
-      assert.equal(page.editions.original.en,page.en,"Original must reuse existing English exactly");
+      const originalExpected=page.en.split("\n\n");
+      if (alignment.original_replacement) originalExpected.splice(
+        alignment.insert_after_paragraph,
+        alignment.existing_english.length,
+        ...alignment.original_replacement,
+      );
+      assert.equal(page.editions.original.en,originalExpected.join("\n\n"),"Original must match its reviewed English binding");
     } else assert.equal(page.editions["all-ages"].en,page.en);
   }
 }
@@ -120,7 +141,13 @@ for (const addition of additions) {
     continue;
   }
   if (addition.existing_english) {
-    assert.equal(page.editions.original.en,page.en);
+    const originalExpected=page.en.split("\n\n");
+    if (addition.original_replacement) originalExpected.splice(
+      addition.insert_after_paragraph,
+      addition.existing_english.length,
+      ...addition.original_replacement,
+    );
+    assert.equal(page.editions.original.en,originalExpected.join("\n\n"));
     for(const line of addition.source_lines) {
       const plain=line.raw.slice(1).replace(/\[[^\]]*\]/g,"").trim();
       assert.ok(page.editions.original.ja.includes(plain));

@@ -2,9 +2,9 @@
   "schema": "mao-fsn-ultimate-edition-english-v1",
   "version": "1.0.0",
   "base": "clean_room/work/story-final/patch_lang_english.xp3",
-  "base_sha256": "1ff38daed7da0c729b4fdf6a8c143cc9983fe25c318b4a6af587febc2e2df21c",
+  "base_sha256": "1a1bcbb2805e4344fe2bc971a995c1c16c05fc23f7b616eb6cdc3bc774d3720e",
   "output": "release/v1.0.0/patch_lang_english.xp3",
-  "output_sha256": "ae8df0a2540a67954607394aa2c8c84b8a81ba91ccea1596aa90fb7bffdecb37",
+  "output_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
