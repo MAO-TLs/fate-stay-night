@@ -21,7 +21,7 @@ export default function Home() {
         <div className="hero-copy">
           <p className="eyebrow">An English translation by MAO</p>
           <h1>FATE/<br /><span>STAY NIGHT</span></h1>
-          <p className="dek">A new English translation of the complete visual novel, built for Réalta Nua Ultimate Edition and its Original and all-ages versions.</p>
+          <p className="dek">A new English translation of the complete visual novel, built for Réalta Nua Ultimate Edition and its original and all-ages versions.</p>
           <div className="hero-actions">
             <a className="button button-primary" href="downloads/patch_lang_english.xp3" download>Download English patch <span aria-hidden="true">↓</span></a>
             <a className="button button-secondary" href="script/">Script <span aria-hidden="true">→</span></a>
@@ -47,7 +47,7 @@ export default function Home() {
       <div className="section-heading">
         <p className="eyebrow">Read online</p>
         <h2>Browse the complete script</h2>
-        <p>Search {pageCount.toLocaleString()} passages or read any of the {scriptCount.toLocaleString()} scripts with the Japanese beside the MAO English translation, using either the Original or all-ages text.</p>
+        <p>Search {pageCount.toLocaleString()} passages or read any of the {scriptCount.toLocaleString()} scripts with the Japanese beside the MAO English translation, using either the original or all-ages text.</p>
       </div>
       <div className="chapter-grid">
         {routes.map(([number, title, id]) => {
@@ -72,7 +72,7 @@ export default function Home() {
           <li><span>01</span><div><h3>Install Ultimate Edition</h3><p>Follow the <a href="https://www.reddit.com/r/fatestaynight/comments/as1lc4/fatestay_night_realta_nua_ultimate_edition_release/">Ultimate Edition release instructions</a> with legally obtained copies of all three Réalta Nua PC routes. Keep its required <code>patch.xp3</code> and any optional feature patches you use.</p></div></li>
           <li><span>02</span><div><h3>Remove the previous English archive</h3><p>Close the game. In the Ultimate Edition game folder, remove or back up the existing <code>patch_lang_english.xp3</code>. Only one file with that name should be present.</p></div></li>
           <li><span>03</span><div><h3>Add the MAO patch</h3><p>Place the downloaded <code>patch_lang_english.xp3</code> beside <code>Fate.exe</code> and <code>patch.xp3</code>. Do not rename it.</p></div></li>
-          <li><span>04</span><div><h3>Choose your edition in game</h3><p>Use Ultimate Edition’s patch settings to select the Original mature script or the all-ages Réalta Nua script. Keep the Ultimate Edition mature-content patches installed if you want their corresponding visual assets.</p></div></li>
+          <li><span>04</span><div><h3>Choose your edition in game</h3><p>Use Ultimate Edition’s patch settings to select the original mature script or the all-ages Réalta Nua script. Keep the Ultimate Edition mature-content patches installed if you want their corresponding visual assets.</p></div></li>
         </ol>
         <aside className="install-warning"><strong>This is a language archive.</strong><p>It depends on the existing Ultimate Edition installation and does not replace its core patch, executable, audio, movies, or other optional packages.</p></aside>
       </div>
