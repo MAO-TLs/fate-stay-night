@@ -6,13 +6,13 @@ User requirement, 2026-09-09: the eventual FSN script reader and audit must matc
 
 At integration time, identify the current published WA2 revision and its matching local source. Reuse its reader and audit components, markup, styles, and behavior. Adapt the data bindings to FSN; do not independently redesign or approximate the interface. The current local WA2 implementations are under `outputs/wa2-retranslation/`; the shared contract is `work/mao-publication-template/contract.json` relative to the workspace root. Verify their relationship to the published revision before reuse. The frozen CSS used by this initial site is not proof that later reader/audit implementations match current WA2.
 
-Allowed differences: FSN title and approved content, three-route organization, orange color palette, and comparator name mirror moon (MIRROR MOON in the comparison-column heading). Keep the approved light content surfaces. Do not change typography, density, card spacing, control placement, section hierarchy, or interaction patterns arbitrarily.
+Allowed differences: FSN title and approved content, three-route organization, orange color palette, and comparator name mirror moon (mirror moon in the comparison-column heading). Keep the approved light content surfaces. Do not change typography, density, card spacing, control placement, section hierarchy, or interaction patterns arbitrarily.
 
 ## Script reader
 
 Match WA2's section and script selectors, previous/next navigation, current-script and all-script search, results and concordance presentation, comparison toggle, errors toggle, and all current reader preferences. Match compact row spacing, source references, speaker placement, column widths, wrapping, responsive breakpoints, and keyboard/focus behavior.
 
-The ordinary Japanese/MAO two-column view has no edition headings. The comparison view has JAPANESE, MAO ENGLISH, MIRROR MOON headings at the top right of each cell, with speaker metadata at the left when available. Do not add version or source labels.
+The ordinary Japanese/MAO two-column view has no edition headings. The comparison view has JAPANESE, MAO ENGLISH, mirror moon headings at the top right of each cell, with speaker metadata at the left when available. Do not add version or source labels.
 
 Match exact inline error highlights, hover tooltips, focus access, single-open notes, Escape-to-close, and the fallback for evidence that cannot be positioned. Preserve URL state and direct links for section, script, search scope/query, comparison, errors, and line references, including reload and browser back/forward behavior.
 
