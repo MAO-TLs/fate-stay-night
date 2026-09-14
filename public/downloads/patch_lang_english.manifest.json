@@ -1,10 +1,10 @@
 {
   "schema": "mao-fsn-ultimate-edition-english-v1",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "base": "clean_room/work/story-final/patch_lang_english.xp3",
   "base_sha256": "1a1bcbb2805e4344fe2bc971a995c1c16c05fc23f7b616eb6cdc3bc774d3720e",
-  "output": "release/v1.0.0/patch_lang_english.xp3",
-  "output_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
+  "output": "release/v1.0.1/patch_lang_english.xp3",
+  "output_sha256": "c3a8bc344e128100d20168692542aabdc78021c636a57c8bde02b012c7958b5a",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -481,9 +481,21 @@
   ],
   "validation": {
     "reopened_payloads_equal_build": true,
-    "forbidden_terminology_matches": 0,
-    "text_only_image_assets": 24,
-    "reviewed_image_assets": 96,
+    "engine_token_sequences_unchanged": true,
+    "unchanged_entry_payloads_byte_identical": true,
     "runtime_tested": false
+  },
+  "release_lineage": {
+    "parent_version": "1.0.0",
+    "parent_output_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb"
+  },
+  "hotfix": {
+    "issue": "Authored em dashes adjacent to [lineN] doubled the horizontal line rendered by the engine.",
+    "changed_scripts": 87,
+    "affected_markers": 295,
+    "marker_adjacent_sides_removed": 303,
+    "em_dash_characters_removed": 511,
+    "remaining_marker_adjacent_em_dash_runs": 0,
+    "report": "release/v1.0.1/line-marker-hotfix-report.json"
   }
 }
