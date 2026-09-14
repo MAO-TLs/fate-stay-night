@@ -5,6 +5,7 @@ from collections import defaultdict
 from pathlib import Path
 import json
 import shutil
+import subprocess
 
 SITE = Path(__file__).resolve().parents[1]
 AUDIT = SITE.parent / "audit" / "mirror_moon_v1"
@@ -16,6 +17,10 @@ def read(path: Path):
 
 
 def main():
+    # The completed re-review supersedes the original publication ledger.
+    if (SITE / "scripts/data/audit-review.json").exists():
+        subprocess.run(["node", str(SITE / "scripts/apply-audit-review.cjs")], check=True)
+        return
     dossiers = read(AUDIT / "dossiers.json")
     index = read(SITE / "public" / "data" / "script" / "index.json")
     scripts = {item["script"]: item for item in index["scripts"]}

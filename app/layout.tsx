@@ -6,6 +6,7 @@ import "./fate-theme.css";
 export const metadata: Metadata = {
   title: { default: "Fate/stay night English Translation | MAO", template: "%s | MAO Translations" },
   description: "Download the MAO English patch for Fate/stay night Réalta Nua Ultimate Edition, or read both editions beside the Japanese script.",
+  icons: { icon: { url: "/fate-stay-night/favicon.svg", type: "image/svg+xml", sizes: "any" } },
 };
 export default function RootLayout({children}: {children: React.ReactNode}) {
  return <html lang="en"><body>{children}</body></html>;

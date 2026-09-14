@@ -59,3 +59,7 @@ a:focus-visible{outline-color:#dd864b}
   .reader-page .nav-links{gap:12px;font-size:11px}
 }
 .credits > div { align-items: center; }
+.reader-page .concordance-hit > .script-line { grid-template-columns: repeat(2, minmax(0, 1fr)); outline: none; box-shadow: none; }
+.reader-page .concordance-hit > .script-line-comparison { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.reader-page .concordance-hit > .script-line > .line-ref { display: none; }
+@media (max-width: 900px) { .reader-page .concordance-hit > .script-line { grid-template-columns: 1fr; } }

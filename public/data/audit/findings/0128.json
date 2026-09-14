@@ -1,1 +1,1 @@
-{"schema":"fsn-mirror-moon-editorial-errors/1","scriptId":"0128","findingCount":1,"findings":[{"id":"fsn-mm-001663","ref":"page1","category":"remaining_lamp_count_grammar","status":"confirmed_primary","highlight":"There’s twenty more left.","evidenceJa":"残るは二十個","governingReading":"Twenty lamps remain.","explanation":"The singular contraction with a plural count is visibly ungrammatical.","dossiers":["materially-different","grammar","written-presentation"]}]}
+{"schema":"fsn-mirror-moon-editorial-errors/1","scriptId":"0128","findingCount":0,"findings":[]}
