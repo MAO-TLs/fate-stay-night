@@ -1,6 +1,7 @@
 const assert = require('node:assert/strict');
 const fs = require('node:fs');
 const path = require('node:path');
+const {selectExamples, routeOf, evidenceKey, topicMatch} = require('./select-dossier-examples.cjs');
 const site = path.resolve(__dirname,'..');
 const read = file => JSON.parse(fs.readFileSync(path.join(site,file)));
 const review = read('scripts/data/audit-review.json');
@@ -12,9 +13,10 @@ for (const route of index.routes) {
   const data = read(`public/data/audit/findings/${route.scriptId}.json`);
   assert.equal(data.findings.length,route.findingCount);
   assert.equal(data.findingCount,route.findingCount);
-  const pages = new Set(read(`public/data/script/${route.scriptId}.json`).pages.map(p=>p.ref));
+  const scriptData = read(`public/data/script/${route.scriptId}.json`);
+  const pages = new Set(scriptData.pages.map(p=>p.ref));
   data.findings.forEach(f=>assert(pages.has(f.ref),f.id));
-  records.push(...data.findings);
+  records.push(...data.findings.map(f=>({...f,script:scriptData.script})));
 }
 assert.deepEqual(new Set(records.map(r=>r.id)),kept);
 assert.equal(records.length,kept.size);
@@ -25,6 +27,7 @@ assert.equal(ds.needsContextCount,154);
 assert.equal(ds.withdrawnFindingCount,7771);
 assert(!records.some(r=>r.id==='fsn-mm-000064'));
 let cited=0;
+const byId = new Map(records.map(f=>[f.id,f]));
 for (const d of ds.groups.flatMap(g=>g.dossiers)) {
   assert.equal(d.confirmedCount,d.findingIds.length);
   assert.equal(d.exampleCount,d.examples.length);
@@ -32,6 +35,21 @@ for (const d of ds.groups.flatMap(g=>g.dossiers)) {
   assert.equal(new Set(d.examples.map(e=>e.findingId)).size,d.exampleCount);
   d.findingIds.forEach(id=>assert(kept.has(id),id));
   d.examples.forEach(e=>assert(kept.has(e.findingId),e.findingId));
+  const candidates = d.findingIds.map(id=>byId.get(id));
+  const selected = selectExamples(candidates,8,d.id);
+  assert.deepEqual(d.examples.map(e=>e.findingId),selected.map(f=>f.id),d.id);
+  assert.equal(new Set(selected.map(evidenceKey)).size,selected.length,d.id);
+  const relevant = candidates.filter(f=>topicMatch(f,d.id));
+  if(new Set(relevant.map(evidenceKey)).size>=8) {
+    assert(selected.every(f=>topicMatch(f,d.id)),d.id);
+    assert.equal(new Set(selected.map(routeOf)).size,new Set(relevant.map(routeOf)).size,d.id);
+  }
+  for(const e of d.examples) {
+    const f = byId.get(e.findingId);
+    assert.equal(e.japanese,f.evidenceJa);
+    assert.equal(e.mirrorMoon,f.highlight);
+    assert.equal(e.note,f.explanation);
+  }
   cited+=d.examples.length;
 }
 assert.equal(ds.citedPassageCount,cited);

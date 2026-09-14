@@ -2,6 +2,7 @@
 const fs = require('node:fs');
 const path = require('node:path');
 const { execFileSync } = require('node:child_process');
+const {selectExamples} = require('./select-dossier-examples.cjs');
 const site = path.resolve(__dirname, '..');
 const snapshot = 'c0efd34d9d3275d994feed777041d8985f03cc5a';
 const read = file => JSON.parse(fs.readFileSync(file, 'utf8'));
@@ -50,20 +51,11 @@ if (index.mappedFindings + index.unmappedFindings !== counts.keep) throw Error('
 for (const group of dossiers.groups) {
   for (const d of group.dossiers) {
     d.findingIds = d.findingIds.filter(retained);
-    d.examples = d.examples.filter(e=>retained(e.findingId)).slice(0, 8);
-    const cited = new Set(d.examples.map(e => e.findingId));
-    for (const id of d.findingIds) {
-      if (d.examples.length >= 8) break;
-      if (cited.has(id)) continue;
-      const f = citationCandidates.get(id);
-      if (!f || !f.evidenceJa || !f.highlight || !f.explanation) continue;
-      d.examples.push({
+    d.examples = selectExamples(d.findingIds.map(id => citationCandidates.get(id)), 8, d.id).map(f => ({
         ref: `${f.script}:${f.ref}`, findingId: f.id,
         japanese: f.evidenceJa, mirrorMoon: f.highlight,
         note: f.explanation, category: f.category, status: f.status,
-      });
-      cited.add(id);
-    }
+      }));
     d.confirmedCount = d.findingIds.length;
     d.exampleCount = d.examples.length;
     d.diagnostic = `${d.confirmedCount.toLocaleString('en-US')} retained findings after re-review; ${d.exampleCount} cited passages.`;
