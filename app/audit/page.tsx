@@ -46,6 +46,11 @@ type AuditPayload = {
   reviewedPageCount: number;
   corpusConfirmedFindingCount: number;
   withheldBorderlineCount: number;
+  previouslyWithheldBorderlineCount: number;
+  revisionNeededCount: number;
+  needsContextCount: number;
+  withdrawnFindingCount: number;
+  reviewedFindingCount: number;
   uniqueCounterexamplePageCount: number;
   dossierCount: number;
   citedPassageCount: number;
@@ -98,6 +103,7 @@ export default function AuditPage() {
           <div><strong>{audit.withheldBorderlineCount.toLocaleString()}</strong><span>Borderline calls withheld</span></div>
           <div><strong>{audit.uniqueCounterexamplePageCount.toLocaleString()}</strong><span>Counterexamples recorded</span></div>
         </div>
+        <p className="audit-method-note">All {audit.reviewedFindingCount.toLocaleString()} previously published findings have been re-reviewed. {audit.withdrawnFindingCount.toLocaleString()} findings were withdrawn, and {audit.needsContextCount.toLocaleString()} await further source context. The borderline total includes {audit.revisionNeededCount.toLocaleString()} claims requiring revision and {audit.previouslyWithheldBorderlineCount.toLocaleString()} previously withheld calls. Only retained confirmed findings contribute to the error count and reader highlights.</p>
         <p className="audit-method-note">The audit evaluates the mirror moon English independently against the original Japanese witness. The Japanese critical edition supports interpretation; it does not replace the source. Conditional 2004 text and unresolved edition variants are withheld from the error count.</p>
       </section>
 
