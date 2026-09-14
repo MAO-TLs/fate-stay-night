@@ -25,11 +25,14 @@ const base = 'public/data/audit/';
 const index = original(base + 'findings/index.json');
 const dossiers = original(base + 'dossiers.json');
 const known = new Set(index.unmapped.map(f=>f.id));
+const citationCandidates = new Map(index.unmapped.map(f => [f.id, f]));
 for (const route of index.routes) {
   const file = base + `findings/${route.scriptId}.json`;
   const payload = original(file);
   payload.findings.forEach(f=>known.add(f.id));
   payload.findings = payload.findings.filter(f=>retained(f.id));
+  const script = read(path.join(site, 'public/data/script', `${route.scriptId}.json`)).script;
+  payload.findings.forEach(f => citationCandidates.set(f.id, {...f, script}));
   payload.findingCount = payload.findings.length;
   route.findingCount = payload.findingCount;
   write(path.join(site,file),payload);
@@ -47,7 +50,20 @@ if (index.mappedFindings + index.unmappedFindings !== counts.keep) throw Error('
 for (const group of dossiers.groups) {
   for (const d of group.dossiers) {
     d.findingIds = d.findingIds.filter(retained);
-    d.examples = d.examples.filter(e=>retained(e.findingId));
+    d.examples = d.examples.filter(e=>retained(e.findingId)).slice(0, 8);
+    const cited = new Set(d.examples.map(e => e.findingId));
+    for (const id of d.findingIds) {
+      if (d.examples.length >= 8) break;
+      if (cited.has(id)) continue;
+      const f = citationCandidates.get(id);
+      if (!f || !f.evidenceJa || !f.highlight || !f.explanation) continue;
+      d.examples.push({
+        ref: `${f.script}:${f.ref}`, findingId: f.id,
+        japanese: f.evidenceJa, mirrorMoon: f.highlight,
+        note: f.explanation, category: f.category, status: f.status,
+      });
+      cited.add(id);
+    }
     d.confirmedCount = d.findingIds.length;
     d.exampleCount = d.examples.length;
     d.diagnostic = `${d.confirmedCount.toLocaleString('en-US')} retained findings after re-review; ${d.exampleCount} cited passages.`;

@@ -28,6 +28,8 @@ let cited=0;
 for (const d of ds.groups.flatMap(g=>g.dossiers)) {
   assert.equal(d.confirmedCount,d.findingIds.length);
   assert.equal(d.exampleCount,d.examples.length);
+  assert.equal(d.exampleCount,Math.min(8,d.confirmedCount));
+  assert.equal(new Set(d.examples.map(e=>e.findingId)).size,d.exampleCount);
   d.findingIds.forEach(id=>assert(kept.has(id),id));
   d.examples.forEach(e=>assert(kept.has(e.findingId),e.findingId));
   cited+=d.examples.length;
