@@ -4,7 +4,7 @@
   "parent_version": "1.0.0",
   "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
   "output": "release/v1.1.0/patch_lang_english.xp3",
-  "output_sha256": "4b1ecfe99a455dc78d0c72cb23b43155eb1a50c910bf6362f15312710a5c9f53",
+  "output_sha256": "5577c8655b725bbd241cc5b1af3febf72b1431e21e2fe20f35691ed4930cf442",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -19,12 +19,12 @@
     ".webp": 44
   },
   "changed_entries": 337,
-  "projected_pages": 1233,
-  "automatic_projected_pages": 1230,
+  "projected_pages": 1234,
+  "automatic_projected_pages": 1231,
   "manual_exact_pages": 3,
   "projection_modes": {
     "fit": 51,
-    "exact": 1105,
+    "exact": 1106,
     "conditional": 68,
     "parallel-audio": 6
   },
@@ -45,6 +45,6 @@
     "passed": true,
     "resolved_scripts": 789
   },
-  "projection_report_sha256": "31251cba4b01b66ef6bb115575632c082574504a4c5904fdd3ec808a210e7a6e",
-  "manuscript_manifest_sha256": "82cd97ba06bee5dab0cb52f69d00f0cc0b0b20897b591fb277e3c14e4d6ef650"
+  "projection_report_sha256": "460f69a6f3f6f4566f9ac5a371df632dd698a9d7e9aa87ed4f396584182a885d",
+  "manuscript_manifest_sha256": "d1fdf321db5abfd0db32561c689bad123f6128ae258f96c2aeeb994666e1ffdb"
 }
