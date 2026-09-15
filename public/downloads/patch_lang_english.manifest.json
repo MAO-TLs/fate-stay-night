@@ -4,7 +4,7 @@
   "parent_version": "1.0.0",
   "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
   "output": "release/v1.1.0/patch_lang_english.xp3",
-  "output_sha256": "cd72195298aa01d4517c21f082107079e54b746d032816ef08ef3cf496e442fb",
+  "output_sha256": "4b1ecfe99a455dc78d0c72cb23b43155eb1a50c910bf6362f15312710a5c9f53",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -18,14 +18,15 @@
     ".txt": 1,
     ".webp": 44
   },
-  "changed_entries": 333,
-  "projected_pages": 1062,
-  "automatic_projected_pages": 1059,
+  "changed_entries": 337,
+  "projected_pages": 1233,
+  "automatic_projected_pages": 1230,
   "manual_exact_pages": 3,
   "projection_modes": {
-    "fit": 48,
-    "exact": 947,
-    "conditional": 64
+    "fit": 51,
+    "exact": 1105,
+    "conditional": 68,
+    "parallel-audio": 6
   },
   "line_marker_fix": {
     "markers": 307,
@@ -44,6 +45,6 @@
     "passed": true,
     "resolved_scripts": 789
   },
-  "projection_report_sha256": "b98d9ce9e93eaf67d2661165760307bc15eca8c4860c8ce6087ef692328a07a9",
-  "manuscript_manifest_sha256": "351a5d508bbf1f0fa370b90e39e64c4e4be98c14ca6ed1f26fc0639eb3d623c0"
+  "projection_report_sha256": "31251cba4b01b66ef6bb115575632c082574504a4c5904fdd3ec808a210e7a6e",
+  "manuscript_manifest_sha256": "82cd97ba06bee5dab0cb52f69d00f0cc0b0b20897b591fb277e3c14e4d6ef650"
 }
