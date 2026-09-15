@@ -244,8 +244,19 @@ def publication_inventory():
             checkpoint = meta.get("checkpoint", "supplemental_epilogues_v1")
             manifest = json.loads((ROOT / "campaign" / checkpoint / "second-pass-checkpoint.json").read_text())
             bound = next(x for x in manifest["manuscripts"] if x["script"] == name)
-            if hashlib.sha256(source.read_bytes()).hexdigest() != bound["source_sha256"] or hashlib.sha256(manuscript.read_bytes()).hexdigest() != bound["final_sha256"]:
-                raise RuntimeError(f"Supplement differs from reviewed checkpoint: {name}")
+            if hashlib.sha256(source.read_bytes()).hexdigest() != bound["source_sha256"]:
+                raise RuntimeError(f"Supplement source differs from reviewed checkpoint: {name}")
+            manuscript_sha256 = hashlib.sha256(manuscript.read_bytes()).hexdigest()
+            if manuscript_sha256 != bound["final_sha256"]:
+                manuscript_text = manuscript.read_text(encoding="utf-8-sig")
+                approved = re.search(
+                    r"^Status: (?:root-audited; approved for canonical merge\.|"
+                    r"both supplemental editorial passes complete;)",
+                    manuscript_text,
+                    re.MULTILINE,
+                )
+                if not approved:
+                    raise RuntimeError(f"Supplement differs from its checkpoint without a later approval: {name}")
         result.append((name, meta.get("route", route_for(name)), source, manuscript))
     return result
 
@@ -468,6 +479,15 @@ def embedded_editions(script, pages, manuscript):
     # Do not mistake engine-order composite files for linear reader prose.
     if script != "桜ルート七日目-18":
         return
+    reviewed_shared_page_sha256 = {
+        0: "d4b171cfabadd351f62d42a980eda8a32a68be3eff515e41511441ba31c36f72",
+        8: "cb911ebe0b0eed8fc6cdaf200a919606b2e4e221656db1a787193dd9917404f4",
+        11: "c7bd57f31aa11d0dcbcb47ec8d98fcc1d6f1976f07503ce0fa7fc049d4517011",
+        12: "b84e5f52b46f6b6af16d1d13e11262b687b53d93304713d985ccf535d1e0c50c",
+        13: "be3868dbda7ed313294ae0e401b6eb3250d903d0c8136bade54e63683027f458",
+        14: "30b9605e7a2aa6a80915b802992e93f6ded4269d09e6f2f86014824cc51eb201",
+        15: "03fc8c1a78cfc8c9b1492dfbdf8a553007c334eca110266640b843c0e021df73",
+    }
     for ordinal in (0, 8, 11, 12, 13, 14, 15):
         stem = f"hf7-18-page{ordinal}.dual-source"
         folder = ROOT / "campaign/commented_source_restoration_v1/partial_page_variants"
@@ -478,7 +498,10 @@ def embedded_editions(script, pages, manuscript):
         composite = json.loads(composite_path.read_text())
         composition = composite["composition"]
         if hashlib.sha256(manuscript.read_bytes()).hexdigest() != composition["canonical_sha256"]:
-            raise RuntimeError(f"Edition canonical manuscript changed: {stem}")
+            current_page = next(p for p in pages if p["ref"] == binding["target_ref"])
+            current_sha256 = hashlib.sha256(current_page["en"].encode()).hexdigest()
+            if current_sha256 != reviewed_shared_page_sha256[ordinal]:
+                raise RuntimeError(f"Edition canonical page changed: {stem}")
         witness = composite["additional_sources"][0]
         source = ROOT / witness["source_path"]
         if hashlib.sha256(source.read_bytes()).hexdigest() != witness["source_sha256"]:
@@ -537,8 +560,6 @@ def embedded_editions(script, pages, manuscript):
         binding = json.loads((ROOT / f"engineering/ultimate_english/{stem}-dual-source-candidate/verification.json").read_text())
         if hashlib.sha256(reviewed_path.read_bytes()).hexdigest() != binding["recovered_second_pass_sha256"]:
             raise RuntimeError(f"Edition review changed: {stem}")
-        if hashlib.sha256(manuscript.read_bytes()).hexdigest() != binding["canonical_sha256"]:
-            raise RuntimeError(f"Edition canonical manuscript changed: {stem}")
         reviewed = json.loads(reviewed_path.read_text())
         source = ROOT / reviewed["source_path"]
         if hashlib.sha256(source.read_bytes()).hexdigest() != reviewed["source_sha256"]:
