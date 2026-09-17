@@ -8,6 +8,7 @@ import { compareScripts, sceneTitle as scriptTitle, sceneKey, isOriginalVariant,
 import { JapaneseText } from "./JapaneseText";
 import { EnglishText } from "./EnglishText";
 import { editionAvailable, editionText, type EditionPassage } from "./edition-text";
+import auditIndex from "../../public/data/audit/findings/index.json";
 
 type ScriptMeta = {id: string; script: string; route: string; title: string; pages: number; editionPages?: Record<Edition, number>};
 type Page = EditionPassage & {ref: string; speaker?: string | null; kind?: string; mirrorMoon?: string};
@@ -17,6 +18,7 @@ type ConcordancePage = Page & {scriptId: string; script: string; route: string; 
 type SearchScope = "script" | "corpus";
 type AuditFinding = {id: string; ref: string; category: string; status: string; highlight: string; evidenceJa: string; governingReading: string; explanation: string; dossiers: string[]};
 type AuditPayload = {schema: string; scriptId: string; findingCount: number; findings: AuditFinding[]};
+type AuditIndex = {routes: {scriptId: string; findingCount: number}[]};
 
 const routeNames: Record<string, string> = {prologue: "Prologue", fate: "Fate", ubw: "Unlimited Blade Works", hf: "Heaven's Feel", "last-episode": "Last Episode", extras: "Extras"};
 const resultLimit = 200;
@@ -141,6 +143,13 @@ export function ScriptReader() {
   const choices = useMemo(() => editionScripts(index?.scripts ?? [], edition), [index, edition]);
   const routeScripts = choices.filter(x => x.route === route);
   const selectedEditionPageCount = choices.reduce((total, item) => total + editionParts(index?.scripts ?? [], item.script, edition).reduce((sum, part) => sum + (part.editionPages?.[edition] ?? part.pages), 0), 0);
+  const selectedMirrorMoonFindingCount = useMemo(() => {
+    if (!index || edition !== "original") return 0;
+    const selected = index.scripts.find(x => x.id === selectedId);
+    if (!selected) return 0;
+    const counts = new Map((auditIndex as AuditIndex).routes.map(route => [route.scriptId, route.findingCount]));
+    return editionParts(index.scripts, selected.script, edition).reduce((total, part) => total + (counts.get(part.id) ?? 0), 0);
+  }, [index, selectedId, edition]);
   function scenePageCount(script: string) {
     return editionParts(index?.scripts ?? [], script, edition).reduce((sum, part) => sum + (part.editionPages?.[edition] ?? part.pages), 0);
   }
@@ -196,7 +205,7 @@ export function ScriptReader() {
       <div className="control"><label htmlFor="search">{scope === "corpus" ? `Search all ${selectedEditionPageCount.toLocaleString() ?? ""} passages` : "Search this script"}</label><input id="search" type="search" value={scope === "corpus" ? corpusQuery : scriptQuery} onChange={event => scope === "corpus" ? setCorpusQuery(event.target.value) : setScriptQuery(event.target.value)} placeholder="English or 日本語"/></div>
       <div className="result-count" id="search-status" role="status" aria-live="polite">{resultStatus}</div>
       {edition === "original" && <label className="comparison-toggle"><input type="checkbox" checked={showMirrorMoon} onChange={event => { setShowMirrorMoon(event.target.checked); if (!event.target.checked) { setShowAuditFindings(false); setActiveFindingId(""); } }}/><span>Display mirror moon for comparison</span><small>Classic edition only</small></label>}
-      {edition === "original" && showMirrorMoon && <div className="comparison-errors-row"><label className="comparison-toggle comparison-toggle-errors"><input type="checkbox" checked={showAuditFindings} onChange={event => { setShowAuditFindings(event.target.checked); setActiveFindingId(""); }}/><span>Display mirror moon errors</span></label><small className="comparison-errors-status" aria-live="polite">{showAuditFindings ? `${auditFindings.length.toLocaleString()} findings in this script` : "Source-audited notes"}</small></div>}
+      {edition === "original" && showMirrorMoon && <div className="comparison-errors-row"><label className="comparison-toggle comparison-toggle-errors"><input type="checkbox" checked={showAuditFindings} onChange={event => { setShowAuditFindings(event.target.checked); setActiveFindingId(""); }}/><span>Display mirror moon errors</span></label><small className="comparison-errors-status" aria-live="polite">{`${(showAuditFindings ? auditFindings.length : selectedMirrorMoonFindingCount).toLocaleString()} findings in this script`}</small></div>}
     </div>
     {error && <p className="script-status">{error}</p>}
     {!error && scope === "script" && data && <><div className="script-meta"><h2>{scriptTitle(data.script)}</h2><p>{data.pages.length.toLocaleString()} source passages</p></div>{visiblePages.length ? <div className="script-lines" id="script-results">{visiblePages.map(page => <ScriptLine key={page.ref} id={page.ref} page={page} showMirrorMoon={showMirrorMoon} findings={showAuditFindings ? findingsByPage.get(page.ref) ?? [] : []} activeFindingId={activeFindingId} onToggleFinding={id => setActiveFindingId(current => current === id ? "" : id)}/>)}</div> : <p className="script-empty">No passages match this search.</p>}<a className="back-to-controls" href="#reader-controls" onClick={event => { event.preventDefault(); document.getElementById("reader-controls")?.scrollIntoView({behavior:"instant", block:"start"}); document.getElementById("route")?.focus({preventScroll:true}); }}>Back to controls ↑</a></>}
