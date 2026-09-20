@@ -1,10 +1,10 @@
 {
   "schema": "mao-fsn-ultimate-edition-english-v2",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "parent_version": "1.0.0",
   "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
-  "output": "release/v1.1.0/patch_lang_english.xp3",
-  "output_sha256": "5577c8655b725bbd241cc5b1af3febf72b1431e21e2fe20f35691ed4930cf442",
+  "output": "release/v1.1.1/patch_lang_english.xp3",
+  "output_sha256": "20a7ec62d89adf3d24799fbf46bcb2a91fd6e5279b40000551add53af5909167",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -18,14 +18,14 @@
     ".txt": 1,
     ".webp": 44
   },
-  "changed_entries": 337,
-  "projected_pages": 1234,
-  "automatic_projected_pages": 1231,
-  "manual_exact_pages": 3,
+  "changed_entries": 458,
+  "projected_pages": 1718,
+  "automatic_projected_pages": 1712,
+  "manual_exact_pages": 6,
   "projection_modes": {
-    "fit": 51,
-    "exact": 1106,
-    "conditional": 68,
+    "fit": 65,
+    "exact": 1563,
+    "conditional": 78,
     "parallel-audio": 6
   },
   "line_marker_fix": {
@@ -45,6 +45,6 @@
     "passed": true,
     "resolved_scripts": 789
   },
-  "projection_report_sha256": "460f69a6f3f6f4566f9ac5a371df632dd698a9d7e9aa87ed4f396584182a885d",
-  "manuscript_manifest_sha256": "d1fdf321db5abfd0db32561c689bad123f6128ae258f96c2aeeb994666e1ffdb"
+  "projection_report_sha256": "5b634144e68dfada64016ffe9e030c8d9a01ff322547b89f95df90806372a67e",
+  "manuscript_manifest_sha256": "cce5b0405a0ce3d32b16e32de6f1d59264e1e4df4773222f0b2d37883ee2a49b"
 }

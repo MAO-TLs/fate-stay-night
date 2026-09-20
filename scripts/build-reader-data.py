@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 from pathlib import Path
+import difflib
 import json
 import hashlib
 import re
@@ -346,6 +347,34 @@ def fragment_editions(script, pages):
         }
 
 
+def synchronize_shared_edition_english(page: dict) -> None:
+    """Keep identical Japanese paragraphs identical across edition overlays.
+
+    Edition records preserve genuinely edition-specific prose, but their copies
+    of shared sentences can otherwise retain an older English revision after the
+    canonical manuscript changes. Only exact Japanese paragraph matches are
+    synchronized, and only when both witnesses retain one-to-one paragraph
+    alignment.
+    """
+    editions = page.get("editions", {})
+    all_ages = editions.get("all-ages")
+    original = editions.get("original")
+    if not all_ages or not original:
+        return
+    all_ages_ja = [part.strip() for part in all_ages["ja"].splitlines() if part.strip()]
+    original_ja = [part.strip() for part in original["ja"].splitlines() if part.strip()]
+    all_ages_en = all_ages["en"].split("\n\n") if all_ages["en"] else []
+    original_en = original["en"].split("\n\n") if original["en"] else []
+    if len(all_ages_ja) != len(all_ages_en) or len(original_ja) != len(original_en):
+        return
+    for _tag, a0, a1, b0, b1 in difflib.SequenceMatcher(
+        a=all_ages_ja, b=original_ja, autojunk=False
+    ).get_opcodes():
+        if _tag == "equal":
+            original_en[b0:b1] = all_ages_en[a0:a1]
+    original["en"] = "\n\n".join(original_en)
+
+
 def restored_page_editions(script, pages):
     folder = ROOT / "campaign/commented_source_restoration_v1"
     for path in sorted(folder.glob("*.second-pass.json")):
@@ -475,6 +504,14 @@ def embedded_editions(script, pages, manuscript):
             },
         }
     final_original_editions(script, pages)
+    shared_revision_overlays = {
+        ("セイバールート一日目-06", "page41"),
+        ("セイバールート三日目-01", "page16"),
+        ("セイバールート三日目-16", "page90"),
+    }
+    for page in pages:
+        if (script, page["ref"]) in shared_revision_overlays:
+            synchronize_shared_edition_english(page)
     # These two complete-page alternatives have reviewed dual-source bindings.
     # Do not mistake engine-order composite files for linear reader prose.
     if script != "桜ルート七日目-18":

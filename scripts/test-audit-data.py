@@ -14,11 +14,15 @@ class AuditDataTests(unittest.TestCase):
         cls.public_index = json.loads((SITE / "public/data/audit/findings/index.json").read_text())
         cls.script_index = json.loads((SITE / "public/data/script/index.json").read_text())
         cls.dossiers = json.loads((AUDIT / "dossiers.json").read_text())
+        cls.published_dossiers = json.loads((SITE / "public/data/audit/dossiers.json").read_text())
 
     def test_every_adjudicated_finding_is_published_or_explicitly_unmapped(self):
         documents = [json.loads((AUDIT / "ledger.json").read_text())]
         documents += [json.loads(Path(path).read_text()) for path in glob.glob(str(AUDIT / "ledger_tranches/*.json"))]
         source_ids = {finding["id"] for document in documents for finding in document["findings"]}
+        reviews = json.loads((SITE / "scripts/data/audit-review.json").read_text())
+        retained_ids = {review["id"] for review in reviews if review["verdict"] == "keep"}
+        source_ids &= retained_ids
         mapped_ids = set()
         for route in self.public_index["routes"]:
             payload = json.loads((SITE / f'public/data/audit/findings/{route["scriptId"]}.json').read_text())
@@ -27,7 +31,7 @@ class AuditDataTests(unittest.TestCase):
         unmapped_ids = {finding["id"] for finding in self.public_index["unmapped"]}
         self.assertFalse(mapped_ids & unmapped_ids)
         self.assertEqual(source_ids, mapped_ids | unmapped_ids)
-        self.assertEqual(len(source_ids), self.dossiers["corpusConfirmedFindingCount"])
+        self.assertEqual(len(source_ids), self.published_dossiers["corpusConfirmedFindingCount"])
         self.assertEqual(len(mapped_ids), self.public_index["mappedFindings"])
         self.assertEqual(len(unmapped_ids), self.public_index["unmappedFindings"])
 
