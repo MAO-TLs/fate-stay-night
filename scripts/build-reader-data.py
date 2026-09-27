@@ -301,7 +301,7 @@ def fragment_editions(script, pages):
             raise RuntimeError(f"Fragment review changed: {stem}")
         counts, paths = binding["paragraph_counts"], binding["target_text_paths"]
         collapsed_runs = {
-            "saber14-00-page22": ("d9963e3323ac1ed895132158cf0c7344f1b4fdaa4051f807bb379e2b4def25c2", [2, 2]),
+            "saber14-00-page22": ("395251a099c1fb0845e1c526dc4009eaff9d924ac20ed39466751448cca68d77", [2, 2]),
             "saber14-00-page40": ("90dd901413a55f408aebec92e1a223c4c2cb5f8576f73b652f8546f22b3214b7", [3, 2]),
         }
         if stem in collapsed_runs:
@@ -505,6 +505,8 @@ def embedded_editions(script, pages, manuscript):
         }
     final_original_editions(script, pages)
     shared_revision_overlays = {
+        ("セイバールート一日目-02", "page11"),
+        ("セイバールート一日目-06", "page7"),
         ("セイバールート一日目-06", "page41"),
         ("セイバールート三日目-01", "page16"),
         ("セイバールート三日目-16", "page90"),
@@ -519,9 +521,9 @@ def embedded_editions(script, pages, manuscript):
     reviewed_shared_page_sha256 = {
         0: "d4b171cfabadd351f62d42a980eda8a32a68be3eff515e41511441ba31c36f72",
         8: "cb911ebe0b0eed8fc6cdaf200a919606b2e4e221656db1a787193dd9917404f4",
-        11: "c7bd57f31aa11d0dcbcb47ec8d98fcc1d6f1976f07503ce0fa7fc049d4517011",
-        12: "b84e5f52b46f6b6af16d1d13e11262b687b53d93304713d985ccf535d1e0c50c",
-        13: "be3868dbda7ed313294ae0e401b6eb3250d903d0c8136bade54e63683027f458",
+        11: "7f0905641b3a9c6430cf3ea8bfb0a99dbec88e50217f573a91ba3203b4ce66fc",
+        12: "3240a6d6d1988583c6a8619e26452ad92cbc82276a885cc96bad72b46a29d2dd",
+        13: "8f9cedfb25e4a9b030c0ff4d46bdfd5fa8864a696397418b2282f3f8a3e7077c",
         14: "30b9605e7a2aa6a80915b802992e93f6ded4269d09e6f2f86014824cc51eb201",
         15: "03fc8c1a78cfc8c9b1492dfbdf8a553007c334eca110266640b843c0e021df73",
     }
@@ -581,7 +583,16 @@ def embedded_editions(script, pages, manuscript):
         ruby = ruby.replace("[l][r]", "\n").replace("[lr]", "\n")
         ruby = re.sub(r"\[(?!ruby\s)[^\]]+\]", "", ruby).strip()
         page = next(p for p in pages if p["ref"] == binding["target_ref"])
-        if ordinal == 13:
+        if ordinal == 11:
+            # The closing inference is shared by both editions. Keep the
+            # frozen canonical revision while preserving the distinct threats.
+            original[-2:] = page["en"].split("\n\n")[-2:]
+        elif ordinal == 12:
+            # Opening and closing narration is shared; only the middle account
+            # of Shinji's state differs between Original and All-ages.
+            shared = page["en"].split("\n\n")
+            original[0], original[-1] = shared[0], shared[-1]
+        elif ordinal == 13:
             # The reaction, silence, and appearance have identical Japanese in
             # both witnesses. Keep the published English, not the older draft.
             original[:3] = page["en"].split("\n\n")[:3]

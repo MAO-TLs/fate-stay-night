@@ -1,10 +1,10 @@
 {
   "schema": "mao-fsn-ultimate-edition-english-v2",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "parent_version": "1.0.0",
   "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
-  "output": "release/v1.1.1/patch_lang_english.xp3",
-  "output_sha256": "20a7ec62d89adf3d24799fbf46bcb2a91fd6e5279b40000551add53af5909167",
+  "output": "release/v1.2.0/patch_lang_english.xp3",
+  "output_sha256": "52a167e9d95fb7409e5f418332bc76d9058caa1bca8fe2c86426cedb60d27d55",
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -18,20 +18,21 @@
     ".txt": 1,
     ".webp": 44
   },
-  "changed_entries": 458,
-  "projected_pages": 1718,
-  "automatic_projected_pages": 1712,
-  "manual_exact_pages": 6,
+  "changed_entries": 651,
+  "projected_pages": 5951,
+  "automatic_projected_pages": 5941,
+  "manual_exact_pages": 10,
   "projection_modes": {
-    "fit": 65,
-    "exact": 1563,
-    "conditional": 78,
-    "parallel-audio": 6
+    "conditional": 242,
+    "exact": 5428,
+    "fit": 264,
+    "parallel-audio": 6,
+    "runtime-conditional": 1
   },
   "line_marker_fix": {
-    "markers": 307,
-    "adjacent_sides": 315,
-    "em_dash_characters_removed": 528,
+    "markers": 330,
+    "adjacent_sides": 338,
+    "em_dash_characters_removed": 578,
     "remaining": 0
   },
   "non_script_entries_byte_identical_to_parent": true,
@@ -45,6 +46,6 @@
     "passed": true,
     "resolved_scripts": 789
   },
-  "projection_report_sha256": "5b634144e68dfada64016ffe9e030c8d9a01ff322547b89f95df90806372a67e",
-  "manuscript_manifest_sha256": "cce5b0405a0ce3d32b16e32de6f1d59264e1e4df4773222f0b2d37883ee2a49b"
+  "projection_report_sha256": "8b01770e5f80d4a1889cdb4807333a8eebf8727c7756e692cc033319247c7c0c",
+  "manuscript_manifest_sha256": "11ec8a241002966508b4bddf49a2e387fc966b6282b262918cff066fe06a0425"
 }

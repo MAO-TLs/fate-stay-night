@@ -186,7 +186,7 @@ for (const [name,ref,phrases] of [
   ["凛ルート六日目-14","page4",["There is only one.","The thread is so fine","If the enemy controlling it deserves praise"]],
   ["凛ルート十一日目-03","page9",["My throat moves","If anything is making too much noise","It is past pounding now"]],
   ["凛ルート十四日目-21","page9",["Yes, you were.","She scolds me, looking offended.","her indignation brings me"]],
-  ["凛ルート十四日目-34","page60",["Then let us grade your work.","I will not allow a single copy","Gilgamesh raises his arm."]]
+  ["凛ルート十四日目-34","page60",["Then let us grade your work.","I will not suffer a single copy","Gilgamesh raises his arm."]]
 ]) {
   const meta=scripts.find(s=>s.script===name);
   const data=JSON.parse(fs.readFileSync(path.join(root,"public/data/script",meta.id+".json")));

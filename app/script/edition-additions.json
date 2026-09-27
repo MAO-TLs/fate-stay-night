@@ -83,7 +83,7 @@
       {"line": 276, "raw": ";　こうまでゆったりとしていると、自分たちが追われていて、かつさっきまであんなコトをしていたなんて信じられない。"}
     ],
     "insert_after_paragraph": 1,
-    "english": "For no particular reason, I look up at the sky.\n\n…Will dawn break soon?\n\nA faint red glow touches the eastern sky, and the forest is slowly growing light.\n\nThe woods are quiet and still.\n\nIn such tranquility, it is difficult to believe that we are being hunted—or that what happened only moments ago truly occurred.",
+    "english": "For no particular reason, I look up at the sky.\n\n…Will dawn break soon?\n\nA faint red glow touches the eastern sky, and the forest is slowly growing light.\n\nThe woods are quiet and still.\n\nIn such tranquility, it is difficult to believe that we are being hunted—or that only moments ago we were doing something like that.",
     "review": {"context": "Read Shirou leaning against the wall after his exchange with Saber and his subsequent attempt to master his thoughts. Restores the full dawn interlude. The commented page24 marker folds its last two lines into reader page23; both are verified against the same pinned witness.", "witness_sha256": "8ae71ff816b0dd1727dc8972cfb9bff45fdec8df66165709e33b758441c9537d", "witness_page": "page23-page24"}
   },
   {
@@ -344,7 +344,7 @@
     "source_sha256": "236fbc2cc8c6323938544770d4659b5bb7bc89e1e14d14ddaa18857158299f15",
     "source_lines": [{"line": 196, "raw": ";　見上げるビルにはまだ明かりが灯っていて、それだけで手の込んだイルミネーションを見ているようだ。"}],
     "insert_after_paragraph": 2,
-    "english": "The buildings above me are still lit, and their lights alone look like an elaborate illumination display.",
+    "english": "The lights in the buildings above look like an elaborate display all by themselves.",
     "review": {"context": "Read the end of his shift, busy station district, and following upward glance at the tallest building. Restores the impression created by ordinary building lights, not an actual installed light show.", "witness_sha256": "c436f953f6d215f9e43493803874e61a5a337fd1f219815b4aa27af20d5b5ff3", "witness_page": "page23"}
   },
   {
@@ -361,8 +361,8 @@
     "source_lines": [{"line": 76, "raw": ";　[ruby text=オーナー char=3]管理者とやらは衛宮切嗣が魔術師だって事を知らないし、切嗣だって[ruby text=オーナー char=3]管理者が誰なのかなんて知らなかった。[lr]"}],
     "omitted_source_lines": [{"line": 77, "raw": "　[ruby text=オーナー char=3]管理者とやらは衛宮切嗣が魔術師である事を知らない。[lr]"}],
     "insert_after_paragraph": 0, "replace_paragraphs": 1,
-    "english": "The Owner—the city's administrator—whoever that may be, apparently does not know that Kiritsugu Emiya was a mage, and Kiritsugu never knew who the Owner was either.",
-    "review": {"context": "Read the unauthorized move to Fuyuki and subsequent uncertainty about the family's position. Reuses the shared English clause and restores the Original's reciprocal lack of knowledge; All-ages lacks the statement about Kiritsugu. Japanese ruby remains source-derived.", "witness_sha256": "4b699bd4b1e98aabacb4e9bcbdf10b65db089964381327f012fd8c143b381288", "witness_page": "page10"}
+    "english": "The city’s Owner, whoever that may be, apparently does not know that Kiritsugu Emiya was a mage, and Kiritsugu never knew who the Owner was either.",
+    "review": {"context": "Read the unauthorized move to Fuyuki and subsequent uncertainty about the family's position. Reuses the shared natural-English rendering of the Owner ruby and restores the Original's reciprocal lack of knowledge; All-ages lacks the statement about Kiritsugu.", "witness_sha256": "4b699bd4b1e98aabacb4e9bcbdf10b65db089964381327f012fd8c143b381288", "witness_page": "page10"}
   },
   {
     "script": "セイバールート二日目-00", "ref": "page14",
@@ -771,8 +771,8 @@
     "source_sha256": "253cb53ef7e18e1c75dd24e8973301df92d5c417c73bdf238a2fe06b8f03f94c",
     "source_lines": [{"line": 467, "raw": ";　セイバーと打ち合っていた足を止めて、竹刀を壁際に置く。"}],
     "insert_after_paragraph": 1,
-    "english": "I stop the footwork that has kept me sparring with Saber and set my shinai by the wall.",
-    "review": {"context": "Physical stop after the two-hour practice and before drinking water. Keeps the focus on feet stopping, as well as setting down the shinai; existing training duration unchanged.", "witness_sha256": "4a7993a418f04921edbde2ee4039066325029c5f4920c459c97bea052f750f8d", "witness_page": "page57"}
+    "english": "I come to a stop after sparring with Saber and set my shinai by the wall.",
+    "review": {"context": "Physical stop after the two-hour practice and before drinking water. Preserves Shirou coming to a stop and setting down the shinai in natural English; existing training duration unchanged.", "witness_sha256": "4a7993a418f04921edbde2ee4039066325029c5f4920c459c97bea052f750f8d", "witness_page": "page57"}
   },
   {
     "script": "セイバールート十二日目-03", "ref": "page77",
@@ -819,7 +819,7 @@
     "source_sha256": "63bf372e737b2821da5a2fbaaaf375dec0377ad9a9701a02d8c7138d06386c3e",
     "source_lines": [{"line": 380, "raw": ";　見上げるビルにはまだ明かりが灯っていて、それだけで手の込んだイルミネーションを見ているようだ。"}],
     "insert_after_paragraph": 2,
-    "english": "The buildings I look up at are still lit, and those lights alone seem like an elaborate illuminated display.",
+    "english": "The lights in the buildings above look like an elaborate display all by themselves.",
     "review": {"context": "After work in the station district, before the narrator notices a figure above. Preserves the ordinary building lights compared to a designed display; no neon, colors or festivities invented.", "witness_sha256": "cb865fa5176b2559f125aad5dbef2ec5f6670058030400feb277a1c880f097d2", "witness_page": "page48"}
   },
   {
@@ -895,8 +895,8 @@
     "source_sha256": "c22df0bcf9f95565700a05e03d5858f1a2e3c1a3c59b3880d6f2280d223599d2",
     "source_lines": [{"line": 57, "raw": ";　よっぽど意外だったのか、イリヤは目を見開いて俺を見ている。"}],
     "insert_after_paragraph": 3,
-    "english": "She must be very surprised; Illya stares at me with her eyes wide open.",
-    "review": {"context": "Follows Illya recognizing Shirou. Must preserves the narrator's inference in datta no ka rather than asserting knowledge of her thoughts. Existing three dialogue paragraphs unchanged.", "witness_sha256": "52ee45d61ff042af334b14420ab687c5a1d84a61022476d11b3431d4c3c2edce", "witness_page": "page5"}
+    "english": "Illya stares at me, eyes wide. I must have taken her completely by surprise.",
+    "review": {"context": "Follows Illya recognizing Shirou. The second sentence preserves the narrator's inference in datta no ka rather than asserting knowledge of her thoughts; the first carries her visible wide-eyed stare without repeating her name or literalizing the construction. Existing three dialogue paragraphs unchanged.", "witness_sha256": "52ee45d61ff042af334b14420ab687c5a1d84a61022476d11b3431d4c3c2edce", "witness_page": "page5"}
   },
   {
     "script": "セイバールート十四日目-09", "ref": "page62",
@@ -1013,7 +1013,7 @@
       {"line": 250, "raw": ";　道場の片隅で正座をしている少女は、紛れもなく昨夜の少女だ。"}
     ],
     "insert_after_paragraph": 3,
-    "english": "There is not the slightest break in her straight, dignified posture.\n\nHer presence alone draws the air in the dojo taut.\n\nYet there is nothing cold about it.\n\nThere is such purity in the sight of her that I forget even the cold winter air.\n\n“——, ——”\n\nEven the sound of my catching breath is an intrusion.\n\nThe girl kneeling formally in a corner of the dojo is unmistakably the girl from last night.",
+  "english": "Her straight, dignified posture is flawless.\n\nHer presence alone draws the air in the dojo taut.\n\nYet there is nothing cold about it.\n\nThere is such purity in the sight of her that I forget even the cold winter air.\n\n“——, ——”\n\nEven the sound of my catching breath is an intrusion.\n\nThe girl kneeling formally in a corner of the dojo is unmistakably the girl from last night.",
     "review": {"context": "Full scene read. The local source comments out page26 and page27 boundaries, so their prose belongs to the reader's page25. The next active page28 continues the description of the girl from last night.", "meaning": "Preserves the tautness/coldness contrast, bodily posture and seiza; no new emotion or physical description. The quoted breath break is retained rather than discarded.", "witness_sha256": "b29847bbd109e157e6eedfe220241b0ea02b6ab54c20e8921591670914b29aa2", "witness_pages": ["page25", "page26", "page27"]}
   },
   {
@@ -1038,7 +1038,7 @@
     "source_lines": [{"line": 366, "raw": ";　呼びかけてくる少女と目があった途端、緊張する自分がわかる。[lr]"}],
     "omitted_source_lines": [{"line": 367, "raw": "　目があった途端、緊張する自分がわかる。[lr]"}],
     "insert_after_paragraph": 1, "replace_paragraphs": 1,
-    "english": "The moment my eyes meet those of the girl calling to me, I feel myself tense.",
+  "english": "The girl who called my name meets my eyes, and I tense at once.",
     "review": {"context": "Mutually exclusive wording: Original explicitly identifies the girl calling him, while All-ages shortens it. The replacement retains the existing sentence's tense and closing phrase; surrounding paragraphs are unchanged.", "witness_sha256": "b29847bbd109e157e6eedfe220241b0ea02b6ab54c20e8921591670914b29aa2", "witness_page": "page42"}
   },
   {
@@ -1056,13 +1056,13 @@
     "source_sha256": "bf7dd47c633441037ade029dba76c2ed5e91fcb41ddc85130f01be792958ac54",
     "source_lines": [{"line": 953, "raw": ";　一体なんだ、と今度こそ問いつめようとした矢先、彼女の雰囲気が一変した。"}],
     "insert_after_paragraph": 1,
-    "existing_english": ["Before I can demand an explanation, her entire manner changes."],
+    "english": "Before I can demand an explanation, her entire manner changes.",
     "review": {
-      "context": "Full Japanese scene read. The narrator is about to demand an explanation when Saber's manner changes. The published English already expresses this sentence, so it is reused verbatim in Original, alongside the restored Japanese. All-ages omits this sentence in both languages while retaining its existing quotation.",
+      "context": "Full Japanese scene read. The narrator is about to demand an explanation when Saber's manner changes. Original restores this sentence alongside the restored Japanese; All-ages omits it in both languages while retaining the shared quotation.",
       "witness_commit": "60004b118bac19b4c5c2837be8043f393619ec16",
       "witness_sha256": "d54e7e3fa4280f5be3fac0b2500729dca4dc01be81a8da47b81b64571f98b3d5",
       "witness_page": "page82",
-      "preservation": "No retranslation. Baseline data and shared quotation remain untouched; edition projections correct the alignment."
+      "preservation": "The final shared manuscript leaves this Original-only sentence to the edition overlay rather than duplicating it in All-ages."
     }
   },
   {
@@ -1270,7 +1270,7 @@
     "omitted_source_lines": [{"line": 674, "raw": "　重くはないイリヤの体重でも、こうあからさまに膝にのっかると妙に生々しくい。"}],
     "insert_after_paragraph": 2,
     "replace_paragraphs": 1,
-    "english": "She weighs almost nothing, yet with her perched so openly on my lap, her closeness feels disconcertingly real, and I find it hard to think straight.",
+    "english": "She weighs almost nothing, but having her sit squarely on my lap feels disconcertingly intimate, and I can hardly think straight.",
     "review": {
       "context": "The Original source carries the thought through Shirou's loss of composure; the All-ages branch cuts off after the description of Illya's physical proximity.",
       "meaning": "Think straight renders reisei na shikou ga dekinaku naru without intensifying the scene. The preceding shared paragraphs remain unchanged.",
@@ -1567,8 +1567,8 @@
     "source_sha256": "2f86b56db661da103432de88e38d605e8934a650022ea13c38686ca45efb18c7",
     "source_lines": [{"line": 257, "raw": ";　そうだよな、マスターから魔力が補充されないんだから、セイバーは自分で魔力を蓄えるしかない」"}],
     "insert_after_paragraph": 1,
-    "english": "“Of course. If her Master cannot replenish her magical energy, Saber has no choice but to conserve it herself.",
-    "review": {"context": "The sentence supplies Shirou's omitted reasoning between his apology and his acknowledgment that establishing a connection has not created energy to spare.", "meaning": "Conserve captures takuwaeru in the immediate resource-management context; the open quotation follows the source's continued speech across the next paragraph.", "witness_sha256": "8b100f878629989680fbd84376beea1d525b57f3b625a2f26ab5a98fc1d11256", "witness_page": "page29", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
+    "english": "“Of course. If her Master can't replenish her magical energy, Saber has no choice but to build up a supply on her own.",
+    "review": {"context": "The sentence supplies Shirou's omitted reasoning between his apology and his acknowledgment that establishing a connection has not created energy to spare.", "meaning": "Build up a supply preserves takuwaeru as accumulation rather than mere conservation; the open quotation follows the source's continued speech across the next paragraph.", "witness_sha256": "8b100f878629989680fbd84376beea1d525b57f3b625a2f26ab5a98fc1d11256", "witness_page": "page29", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
     "script": "セイバールート十二日目-06",
@@ -1830,9 +1830,10 @@
     "source_sha256": "1caa3cd6a7830b546f3e3f5db232f1573747adefc39cf3abe36fb9983920e369",
     "source_lines": [{"line": 120, "raw": ";　自分の体なんて後回しだ。[lr]"}],
     "insert_after_paragraph": 1,
-    "existing_english": ["My body—my own welfare—comes second."],
-    "all_ages_replacement": ["My body—my own welfare—comes second."],
-    "review": {"context": "The Original uses the ordinary word for body while the All-ages branch adds a ruby reading of self. The published English already communicates both layers explicitly, so it remains identical.", "witness_sha256": "04cf99706a4b5570f300289752436475e2bd5baf54182f39f95c65839b3e7a3b", "witness_page": "page11"}
+    "existing_english": ["I can worry about myself later."],
+    "all_ages_replacement": ["I can worry about myself later."],
+    "original_replacement": ["I can worry about my body later."],
+    "review": {"context": "The Original names Shirou's body, while the All-ages line uses body with a ruby reading of self. Each edition now receives one natural English sentence rather than a stacked body/welfare gloss.", "witness_sha256": "04cf99706a4b5570f300289752436475e2bd5baf54182f39f95c65839b3e7a3b", "witness_page": "page11"}
   },
   {
     "script": "セイバールート十日目-00",
@@ -1896,7 +1897,7 @@
     "omitted_source_lines": [{"line": 460, "raw": "　瞬間。[lr]"}],
     "insert_after_paragraph": 2,
     "replace_paragraphs": 1,
-    "english": "The instant I ignore it and break into a run toward Saber——",
+    "english": "I ignore it and break into a run toward Saber——",
     "review": {"context": "The Original specifies that Shirou disregards the falling white comet and runs toward Saber; the All-ages branch reduces this to a bare temporal beat.", "meaning": "Break into a run preserves hashiridashita, while the suspended dash connects directly to the tempest erupting in the next paragraph.", "witness_sha256": "b5c0c231516491868f4638c7c2b5c1c443453127505cbd6c209a1d30879ddc09", "witness_page": "page35", "provenance": "New translation from the local commented Japanese witness; the All-ages published English remains unchanged."}
   },
   {
@@ -1953,8 +1954,8 @@
     "source_sha256": "e03979cceff5a720a5e6454e2e07baacf3f3384776830606c5f1b901d2ee3c26",
     "source_lines": [{"line": 55, "raw": ";　殴られたら倍にして返す性格だ、アレは。"}],
     "insert_after_paragraph": 2,
-    "english": "He is the sort who pays back any blow twofold.",
-    "review": {"context": "The sentence sharpens Shirou's assessment that Shinji will not quietly accept yesterday's defeat.", "meaning": "Pays back any blow twofold preserves both the retaliation and doubling idiom without insisting on a literal punch.", "witness_sha256": "7776466a2fb1abc998df7a470e8f2724c6c5400a4ecf20198b1def06cc3ed417", "witness_page": "page7", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
+    "english": "Hit him once, and he'll hit back twice as hard. That's Shinji.",
+    "review": {"context": "The sentence sharpens Shirou's assessment that Shinji will not quietly accept yesterday's defeat.", "meaning": "The blunt conditional preserves both the retaliation and doubling idiom in Shirou's colloquial voice without insisting on a literal punch.", "witness_sha256": "7776466a2fb1abc998df7a470e8f2724c6c5400a4ecf20198b1def06cc3ed417", "witness_page": "page7", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
     "script": "セイバールート十日目-09",
@@ -1962,7 +1963,7 @@
     "source_sha256": "e03979cceff5a720a5e6454e2e07baacf3f3384776830606c5f1b901d2ee3c26",
     "source_lines": [{"line": 150, "raw": ";　セイバーは立ち止まった俺へと振り返るなり、顔を強ばらせた。"}],
     "insert_after_paragraph": 1,
-    "english": "The moment Saber turns back toward me where I have stopped, her expression stiffens.",
+    "english": "Saber turns back to me as soon as I stop, and her expression stiffens.",
     "review": {"context": "Saber begins asking what is wrong, then reacts upon seeing Shirou's condition.", "meaning": "The moment preserves naru nari's immediacy; expression stiffens retains kao o kowabaraseta without inventing a specific emotion.", "witness_sha256": "7776466a2fb1abc998df7a470e8f2724c6c5400a4ecf20198b1def06cc3ed417", "witness_page": "page22", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
@@ -1980,7 +1981,7 @@
     "source_sha256": "e03979cceff5a720a5e6454e2e07baacf3f3384776830606c5f1b901d2ee3c26",
     "source_lines": [{"line": 587, "raw": ";　む……言ったかもしれないけど、そんな細かいコトまで覚えてないんだけど。"}],
     "insert_after_paragraph": 3,
-    "english": "Hm… I may have said that, but I do not remember every little detail.",
+    "english": "Hm… I might have said that, but I don't remember every little detail.",
     "review": {"context": "Shirou responds internally after Saber quotes his earlier complaint about putting treatment before the search for Rider's Master.", "meaning": "May have said that preserves the qualified admission; every little detail retains sonna komakai koto made without feigning total amnesia.", "witness_sha256": "7776466a2fb1abc998df7a470e8f2724c6c5400a4ecf20198b1def06cc3ed417", "witness_page": "page77", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
@@ -2001,7 +2002,7 @@
     "source_sha256": "ddb09b57785a9490487332e2493d73ea14681e456300feb600aaf5c871907399",
     "source_lines": [{"line": 267, "raw": ";　うん、そういう意味でも二度びっくり。"}],
     "insert_after_paragraph": 3,
-    "english": "Yes. In that sense too, this is my second surprise.",
+    "english": "Right. Surprise number two.",
     "review": {"context": "Shirou counts Rin's complete ease in his home as a second, distinct surprise after finding her there at all.", "meaning": "Second surprise preserves nido bikkuri and the self-confirming un without inventing a new first surprise.", "witness_sha256": "75fd745698b110b896e368415ab08499320735fdca9f94fcbbd7dbdb5c8f231c", "witness_page": "page27", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
@@ -2037,7 +2038,7 @@
     "omitted_source_lines": [{"line": 337, "raw": "　……恐ろしい。あまりの唯我独尊ぶりに、二人して呆然と見送ってしまった。"}],
     "insert_after_paragraph": 2,
     "replace_paragraphs": 1,
-    "english": "Perhaps because her manner is so utterly self-possessed, Saber and I can only stare after her in stunned silence.",
+  "english": "Perhaps her sheer imperiousness was what did it: Saber and I could only stare after her in stunned silence.",
     "review": {"context": "The Original frames the reaction as a tentative causal inference across two sentences; the All-ages branch compresses it and adds an explicit judgment that she is terrifying.", "meaning": "Perhaps preserves tame ka; utterly self-possessed retains yuiga dokuson in the established surrounding voice without importing the All-ages addition.", "witness_sha256": "3bef847a751455d1dfa1f6f5b9e642ccb90674e6088d1158d969f9420809357e", "witness_page": "page44", "provenance": "New translation from the local commented Japanese witness; the All-ages published English remains unchanged."}
   },
   {
@@ -2051,7 +2052,7 @@
     "omitted_source_lines": [{"line": 246, "raw": "　……恐ろしい。あまりの唯我独尊ぶりに、二人して呆然と見送ってしまった。"}],
     "insert_after_paragraph": 2,
     "replace_paragraphs": 1,
-    "english": "Perhaps because her manner is so utterly self-possessed, Saber and I can only stare after her in stunned silence.",
+  "english": "Perhaps her sheer imperiousness was what did it: Saber and I could only stare after her in stunned silence.",
     "review": {"reuse": "This branch pair is textually identical to Saber Day 4 Scene 08 page44 and reuses its reviewed Original wording; the All-ages published English remains unchanged.", "witness_sha256": "e4a0080a0a87fcf1694235c64a13667978b3ea7c3140ec927540f9ac867130e8", "witness_page": "page30"}
   },
   {
@@ -2623,8 +2624,8 @@
       {"line": 100, "raw": ";　顔は真っ赤で、とにかく恥ずかしかったけど、それ以上にセイバーとお茶が飲みたかった。"}
     ],
     "insert_after_paragraph": 2,
-    "english": "I press Saber into joining me.\n\nMy face is burning red, and the embarrassment is almost unbearable, but more than that, I want to sit down and have tea with her.",
-    "review": {"context": "On the eve of the final battle, Shirou insists that Saber share tea with him despite his embarrassment at asking.", "meaning": "Press into joining me preserves gouin ni sasou without implying coercion beyond his forceful invitation; more than that retains sore ijou ni as the emotional priority.", "witness_sha256": "617f4bbf13cf755a93d47722dd18a076ad6e01dfc8e84eb90d5ac0e55bb7c6b6", "witness_page": "page12", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
+    "english": "I insist that Saber join me.\n\nMy face is burning red, and the embarrassment is almost unbearable, but more than that, I want to sit down and have tea with her.",
+    "review": {"context": "On the eve of the final battle, Shirou insists that Saber share tea with him despite his embarrassment at asking.", "meaning": "Insist that Saber join me preserves gouin ni sasou as a forceful invitation without implying coercion; more than that retains sore ijou ni as the emotional priority.", "witness_sha256": "617f4bbf13cf755a93d47722dd18a076ad6e01dfc8e84eb90d5ac0e55bb7c6b6", "witness_page": "page12", "provenance": "New translation from the local commented Japanese witness; inherited English not used."}
   },
   {
     "script": "凛ルート十四日目-06",
@@ -2766,9 +2767,8 @@
     "source_sha256": "a594321c9de43a40e5b14d48b26b08267153c6ff5ce1ed59d5272836c14ab9f4",
     "source_lines": [{"line": 25, "raw": ";　……ああ、それはきっと間違いじゃない。[lr]"}],
     "insert_after_paragraph": 1,
-    "existing_english": ["…She is probably right about that."],
-    "all_ages_replacement": [],
-    "review": {"context": "The published English already translates the Original-only sentence agreeing with Taiga, although the All-ages Japanese page omits it.", "meaning": "The existing English is retained verbatim for Original and removed from All-ages so each edition now matches its Japanese source.", "witness_sha256": "f99c052680be7fb5896d0958649edc69fb98f694e957d0c3a06c53647506fc84", "witness_page": "page2"}
+    "english": "…Yeah. She's probably right about that.",
+    "review": {"context": "The Original alone includes Shirou's explicit agreement with Taiga before the shared observation about his archery.", "meaning": "The edition overlay restores the commented Original sentence without duplicating the shared tashika ni clause that follows in both versions.", "witness_sha256": "f99c052680be7fb5896d0958649edc69fb98f694e957d0c3a06c53647506fc84", "witness_page": "page2"}
   },
   {
     "script": "凛ルート四日目-04",
@@ -3204,9 +3204,9 @@
     "source_sha256": "b97ce967f8f3f22e8a5af0aba18af0a47ef13ae292bf186d2b18b345b2347959",
     "source_lines": [{"line": 296, "raw": "　愛しい玩具だからこそ、調教には時間をかけるべきだ。[l][r]"}],
     "insert_after_paragraph": 0,
-    "existing_english": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves care in its completion."],
-    "all_ages_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves care in its completion."],
-    "original_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy deserves time and care in her training.", "To Caster, Saber is a first-rate tool in both beauty and ability.", "A jewel without equal deserves to be savored with painstaking care."],
+    "existing_english": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy is worth taking one's time to finish."],
+    "all_ages_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy is worth taking one's time to finish."],
+    "original_replacement": ["“Gh… ah——”", "But Caster will do nothing so crude.", "A beloved toy is worth taking one's time to finish.", "To Caster, Saber is a first-rate tool in both beauty and ability.", "A jewel without equal deserves to be savored with painstaking care."],
     "review": {"context": "The 2004 script continues Caster's appraisal of Saber for two paragraphs that the all-ages revision removes.", "provenance": "New translation from the hash-bound 2004 Japanese script; inherited comparator English not used."}
   },
   {
