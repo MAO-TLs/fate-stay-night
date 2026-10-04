@@ -40,7 +40,7 @@ export default function Home() {
           ["Version", "v1.2.0"],
           ["Script coverage", "Original + all-ages"],
           ["Passages", pageCount.toLocaleString()],
-          ["Status", "Complete"],
+          ["Status", "Released"],
         ].map(([label, value]) => <div key={label}><span className="release-label">{label}</span><strong className={label === "Status" ? "release-status" : undefined}>{value}</strong></div>)}
       </div>
     </section>
