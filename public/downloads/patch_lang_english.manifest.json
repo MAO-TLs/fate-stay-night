@@ -1,10 +1,11 @@
 {
-  "schema": "mao-fsn-ultimate-edition-english-v2",
-  "version": "1.2.0",
-  "parent_version": "1.0.0",
-  "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
-  "output": "release/v1.2.0/patch_lang_english.xp3",
-  "output_sha256": "52a167e9d95fb7409e5f418332bc76d9058caa1bca8fe2c86426cedb60d27d55",
+  "schema": "mao-fsn-ultimate-edition-english-v3",
+  "version": "1.2.1",
+  "parent_version": "1.2.0",
+  "parent_sha256": "52a167e9d95fb7409e5f418332bc76d9058caa1bca8fe2c86426cedb60d27d55",
+  "output": "release/v1.2.1/patch_lang_english.xp3",
+  "output_sha256": "f72ded54544270487dcf8cce2659031468e37f33a91789247ed4626023f633e7",
+  "output_bytes": 15782743,
   "entries": 895,
   "entry_types": {
     ".dic": 16,
@@ -18,34 +19,130 @@
     ".txt": 1,
     ".webp": 44
   },
-  "changed_entries": 651,
-  "projected_pages": 5951,
-  "automatic_projected_pages": 5941,
-  "manual_exact_pages": 10,
-  "projection_modes": {
-    "conditional": 242,
-    "exact": 5428,
-    "fit": 264,
-    "parallel-audio": 6,
-    "runtime-conditional": 1
-  },
-  "line_marker_fix": {
-    "markers": 330,
-    "adjacent_sides": 338,
-    "em_dash_characters_removed": 578,
-    "remaining": 0
+  "changed_entries": 7,
+  "display_repair": {
+    "changed_entries": [
+      {
+        "entry": "セイバールート十五日目-19.ks",
+        "before_sha256": "614c84c6b74d47955fcc3ab47b7bbae0741e4fb0bd4f1091c139645395bd6454",
+        "after_sha256": "177bc298ebc1877418cf5b70a04299ec26adeb44e37456c0c8592eb80062e6b1"
+      },
+      {
+        "entry": "ラストエピソード.ks",
+        "before_sha256": "5e5fd4f0d461b3bb54de9b0eb20460a59087c8463f20cab7329218550357367b",
+        "after_sha256": "59e994d18a9ae6348a9521c8793e428f2cbb459df1fb881a01eb2d7133899601"
+      },
+      {
+        "entry": "凛ルート十四日目-03.ks",
+        "before_sha256": "ec0d7603beb75ac86d0f3ccd3ffa8042ac57634b10d007065f8074589285e797",
+        "after_sha256": "ac787776ebd916f2d561d25c04629350ea7d6409aee1044e4bfa9f4d0710cd80"
+      },
+      {
+        "entry": "凛ルート十四日目-26.ks",
+        "before_sha256": "370554258586549252603b33fc6de0ff6ca8fa0e1b72b564ff55421b9e80240c",
+        "after_sha256": "627431e7c60a3d7f9809e8340fdf0d51092bee7879cf3e35f905d2fd607132d0"
+      },
+      {
+        "entry": "凛ルート十日目-08.ks",
+        "before_sha256": "d335678d0ae4dbc62899aaedaf60020526f544107d600fe84c208208ff4f0906",
+        "after_sha256": "ba27eb625bbd637a31ae51ade7201ae0721f1a2c6ad96efc680c89ba2030447b"
+      },
+      {
+        "entry": "桜ルート八日目-24.ks",
+        "before_sha256": "ba364c5e8a2055be20b32e32ee01b0140e5d7e37fe811e75f235c854241143b3",
+        "after_sha256": "79be18c70e1fd91b4f0cf777a8a0fba6a50e7ac2b6bb3c426b001b01f03f2b0f"
+      },
+      {
+        "entry": "桜ルート十六日目-20.ks",
+        "before_sha256": "247bf32d9bb2286033eb5a8afa3d8f3b0ff82d649d0fa9a5367ef10498967aa0",
+        "after_sha256": "b122d1acea51274099cf44338cd8ea298482de395e4e9b01ad0dd955288b1202"
+      }
+    ],
+    "edits": [
+      {
+        "entry": "セイバールート十五日目-19.ks",
+        "kind": "split_overwide_centered_sentence",
+        "ref": "page67"
+      },
+      {
+        "entry": "ラストエピソード.ks",
+        "kind": "split_overwide_centered_sentence",
+        "ref": "page39"
+      },
+      {
+        "entry": "凛ルート十四日目-03.ks",
+        "kind": "center_each_explicit_line",
+        "lines": 2
+      },
+      {
+        "entry": "凛ルート十四日目-03.ks",
+        "kind": "center_each_explicit_line",
+        "lines": 2
+      },
+      {
+        "entry": "凛ルート十四日目-26.ks",
+        "kind": "center_each_explicit_line",
+        "lines": 2
+      },
+      {
+        "entry": "凛ルート十日目-08.ks",
+        "kind": "center_each_explicit_line",
+        "lines": 2
+      },
+      {
+        "entry": "凛ルート十日目-08.ks",
+        "kind": "center_each_explicit_line",
+        "lines": 2
+      },
+      {
+        "entry": "桜ルート八日目-24.ks",
+        "kind": "remove_editorial_sentinel_and_its_line_wait",
+        "ref": "page0"
+      },
+      {
+        "entry": "桜ルート十六日目-20.ks",
+        "kind": "split_overwide_centered_sentence",
+        "ref": "page40"
+      }
+    ]
   },
   "non_script_entries_byte_identical_to_parent": true,
-  "engine_control_lines_preserved": true,
+  "dialogue_wording_unchanged": true,
+  "page_labels_preserved": true,
+  "page_break_commands_preserved": true,
+  "engine_control_lines_preserved": false,
+  "engine_control_changes_limited_to_documented_display_repairs": true,
   "browser": {
     "scripts": 729,
     "passages": 27530
   },
-  "runtime_tested": false,
-  "runtime_harness_static_build": {
-    "passed": true,
-    "resolved_scripts": 789
+  "reader_and_manuscript_content_changed": false,
+  "inherited_projection": {
+    "parent_version": "1.0.0",
+    "parent_sha256": "983b730f59b4fd61cb51d28bc4ce7b5628ee5ae5d84f657414fbacc1ff9b2eeb",
+    "projected_pages": 5951,
+    "automatic_projected_pages": 5941,
+    "manual_exact_pages": 10,
+    "projection_modes": {
+      "conditional": 242,
+      "exact": 5428,
+      "fit": 264,
+      "parallel-audio": 6,
+      "runtime-conditional": 1
+    },
+    "line_marker_fix": {
+      "markers": 330,
+      "adjacent_sides": 338,
+      "em_dash_characters_removed": 578,
+      "remaining": 0
+    },
+    "projection_report_sha256": "8b01770e5f80d4a1889cdb4807333a8eebf8727c7756e692cc033319247c7c0c",
+    "manuscript_manifest_sha256": "11ec8a241002966508b4bddf49a2e387fc966b6282b262918cff066fe06a0425"
   },
-  "projection_report_sha256": "8b01770e5f80d4a1889cdb4807333a8eebf8727c7756e692cc033319247c7c0c",
-  "manuscript_manifest_sha256": "11ec8a241002966508b4bddf49a2e387fc966b6282b262918cff066fe06a0425"
+  "display_verification_sha256": "fb049c50a722c68d16e35f9ca0c9cfb11614ed1d9e4897686ef4c40be91117a8",
+  "runtime_tested": true,
+  "runtime_test_scope": "Bounded native text-renderer fixtures only; see display verification report",
+  "runtime_playthrough_verified": false,
+  "native_display_cases": 1332,
+  "scripts_statically_checked": 734
 }
