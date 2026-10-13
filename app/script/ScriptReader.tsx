@@ -1,5 +1,6 @@
 "use client";
 import { referenceLabel } from "./reference-label";
+import { readSearchLocation, writeSearchLocation } from "./search-location";
 
 import { useEffect, useMemo, useState } from "react";
 import type { ReactNode } from "react";
@@ -50,6 +51,11 @@ export function ScriptReader() {
       value = {...value, scripts: [...value.scripts].sort(compareScripts)};
       setIndex(value);
       const params = new URLSearchParams(window.location.search);
+      const search = readSearchLocation(new URL(window.location.href));
+      setScope(search.scope);
+      setCorpusQuery(search.scope === "corpus" ? search.query : "");
+      setScriptQuery(search.scope === "script" ? search.query : "");
+      setCorpusRoute(search.filter === "all" || Object.hasOwn(routeNames, search.filter) ? search.filter : "all");
       const requested = params.get("script");
       const requestedRoute = params.get("section");
       const requestedItem = value.scripts.find(x => x.id === requested);
@@ -70,6 +76,14 @@ export function ScriptReader() {
       setRoute(initial.route);
     }).catch(reason => setError(String(reason)));
   }, []);
+
+  useEffect(() => {
+    if (!urlStateReady) return;
+    const url = writeSearchLocation(new URL(window.location.href), {
+      scope, query: scope === "corpus" ? corpusQuery : scriptQuery, filter: corpusRoute,
+    });
+    window.history.replaceState(window.history.state, "", url);
+  }, [urlStateReady, scope, corpusQuery, scriptQuery, corpusRoute]);
 
   useEffect(() => {
     if (!selectedId || !index) return;

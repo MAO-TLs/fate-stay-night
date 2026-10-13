@@ -28,7 +28,7 @@ export default function Home() {
             <a className="button button-primary" href={patchDownloadUrl}>Download English patch <span aria-hidden="true">↓</span></a>
             <a className="button button-secondary" href="script/">Script <span aria-hidden="true">→</span></a>
           </div>
-          <p className="compatibility">15.8 MB · <a href={releaseNotesUrl}>Release notes</a> · Version 1.2.1 · Windows · Réalta Nua Ultimate Edition required</p>
+          <p className="compatibility">15.8 MB · <a href={releaseNotesUrl}>Release notes</a> · Patch version v1.2.1 · Windows · Réalta Nua Ultimate Edition required · <a href="#install">Installation instructions</a></p>
         </div>
         <div aria-hidden="true" />
       </div>
