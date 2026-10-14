@@ -1,0 +1,191 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0697",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Nobody comes out to greet us.\nRyudou Temple looms over us like a giant hunched in the darkness. I feel some strange power from it.\nIs the wind blowing, up in the sky?\nI crane my neck to listen, and hear howling wind.",
+      "sourceUnit": "桜ルート十六日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I sense power from the top of the stairs. They seem to be building something at the pond beyond the temple grounds.\"\n\"No, we're not going to the temple. The compound up top was built just for show, for the benefit of Masters seeking the Holy Grail.\"\nTohsaka walks away from the stairs and into the forest.",
+      "sourceUnit": "桜ルート十六日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you all right, Rider? I know there's a Bounded Field around the temple. I heard Servants can't go in except by the front gate.\"",
+      "sourceUnit": "桜ルート十六日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...There is a pressure, but it's bearable.\"\nOnce we are inside the cave, we will be close to the best leylines in this land, as far as Servants are concerned. It will be easy to recover simply by absorbing mana from the air.\"\n\"Okay. Well, hang in there.\"",
+      "sourceUnit": "桜ルート十六日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "We push our way through the trees, walking through the night.\nThere aren't even any game trails out here, and we mostly have to drop down small cliffs and rock walls.",
+      "sourceUnit": "桜ルート十六日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... I think Illya said it's around here... Shirou, do you see anything that looks like an entrance?\"\n\"That looks like an entrance?\"",
+      "sourceUnit": "桜ルート十六日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Any crevices that a person might fit through, or any suspicious shrines. It's supposed to be an entrance, so I don't think it'll be a pitfall.\"\n\"...Don't be ridiculous. You think I can see in the forest at night just because the stars are out?\"",
+      "sourceUnit": "桜ルート十六日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Oh. I can see pretty well, actually.\nThere are withered trees all around us. Maybe we're behind Ryudou Temple now.\nOf course, there are no man-made buildings in sight. All I see are the dead trees and a bubbling brook.",
+      "sourceUnit": "桜ルート十六日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...A stream?\"\nWait.\nThat means the water must be coming from somewhere.",
+      "sourceUnit": "桜ルート十六日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rider, there's rocks stacked up beyond this stream, right?\nI can't see because it's so dark. Is there an opening back there?\"\n\"...Don't turn around, Shirou.\"\nI hear a small metallic sound, like a clasp being undone.\nRider must have taken off her blindfold.",
+      "sourceUnit": "桜ルート十六日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...There is. It's a natural cave. A human could fit through the opening. It looks like a dead end one meter beyond that, but I can sense magical camouflage.\"\n\"Oh. Thanks...Tohsaka, we found something.\"",
+      "sourceUnit": "桜ルート十六日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I call out to Tohsaka and head down the stream.\nIt turned out to be only a spring, rather than a river.",
+      "sourceUnit": "桜ルート十六日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "It's flowing from several piles of rocks, and we finally come across an opening that one person can fit through.\nThe rocks remind me of igloos.\nOne could tell at a glance that you'd hit a rock as soon as you step inside, and no sane person would even think of entering.",
+      "sourceUnit": "桜ルート十六日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nice find. We can slip through here, no problem.\"\nTohsaka goes inside without looking back.\n\"Go ahead. I will guard the rear.\"\nI nod at Rider and venture into the darkness.",
+      "sourceUnit": "桜ルート十六日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I make scraping sounds on the stone.\nI feel my way forward with my hands on the wet ground.\nThe ground begins to slope dramatically.",
+      "sourceUnit": "桜ルート十六日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...It's tight and claustrophobic in the darkness.\nI'll tumble down into the infinite darkness unless I slowly go down on my back.",
+      "sourceUnit": "桜ルート十六日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIn the dark, I make a slow descent, sprawled on the angled rock.\n...The way ahead is dark, and I can't tell how far down this goes.\nI can only hear my breathing.",
+      "sourceUnit": "桜ルート十六日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Let me ask you this while I can.\"\nThen,\nTohsaka suddenly talks to me from ahead.",
+      "sourceUnit": "桜ルート十六日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it?\"\n\"The Jeweled Sword. Why did you make it for me?\"\nHer tone is bored, like she's making small talk to kill time because she's tired of climbing down.",
+      "sourceUnit": "桜ルート十六日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? Why are you asking?\"\n\"Because. I said I was going to kill Sakura.\nAre you okay with giving me a weapon to do it?\"\n\"......\"\nI nod in the dark.\nTohsaka's right, of course.",
+      "sourceUnit": "桜ルート十六日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not okay with it. But I can't save Sakura without you, and we have a better chance together than alone.\n...Plus, I promised you that I'd Project the sword.\nI already broke one promise to you. I didn't want to break another.\"",
+      "sourceUnit": "桜ルート十六日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "It was quite a while ago.\nAfter I lost Saber, I asked Tohsaka for help.\nShe helped me, and I made her a promise:",
+      "sourceUnit": "桜ルート十六日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I would make her win.\nI promised to make Tohsaka the victor of the Holy Grail War.",
+      "sourceUnit": "桜ルート十六日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...I can't keep that promise anymore.\nSo, I want to at least keep my other promise.\nAt that time...\nFor Rin Tohsaka, the girl I liked at the time, who believed in me when I had nothing left.",
+      "sourceUnit": "桜ルート十六日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. You're a stickler for these things, huh?\"\n\"Yeah. Not as much as you are, though.\"",
+      "sourceUnit": "桜ルート十六日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "The darkness goes still again.\nOur conversation ends there.\nWe don't look at each other. We just stoically descend into the infernal depths.",
+      "sourceUnit": "桜ルート十六日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Our long path seems to take us through the underworld itself.\nIt's a winding path, and my body feels like it's walked more than a hundred meters.\nWe turn to find ourselves facing a dark cavern.",
+      "sourceUnit": "桜ルート十六日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "The one-man-wide path becomes an ever deeper passage.\nWe don't need any illumination.\nSome sort of luminescent moss suffuses the cavern with a green glow.",
+      "sourceUnit": "桜ルート十六日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The passage teems with life energy.\nIt feels so raw.\nIt's an air of birthing, filled with vitality, that seems to celebrate life.\nAbundant od and flowing mana, as far as the eye can see.",
+      "sourceUnit": "桜ルート十六日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's so raw that it makes me nauseous.\nThe warmth of radiant life is so filthy I want to turn away from it.",
+      "sourceUnit": "桜ルート十六日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nI have nothing to say.\nThis is a land of death.\nTalking to Tohsaka would lower my guard enough to get me killed.",
+      "sourceUnit": "桜ルート十六日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let's go. From here on out, prioritize your own life.\"\nTohsaka goes deeper down the passage towards the source of the dark air.\nRider and I move forward, keeping an eye on our surroundings.",
+      "sourceUnit": "桜ルート十六日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nI see something red on the ground.\nThese are unmistakably bloodstains.\nThe blood spatter continues into the cave.",
+      "sourceUnit": "桜ルート十六日目-14:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nDid someone get here before us?\nWere they wounded so badly that they bled everywhere they walked?",
+      "sourceUnit": "桜ルート十六日目-14:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"...Sorry, I'll be right there.\"\nI shake off the premonitions and keep walking.\nI can't afford to worry about anyone else now.",
+      "sourceUnit": "桜ルート十六日目-14:page34:1"
+    },
+    "page35": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page36": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

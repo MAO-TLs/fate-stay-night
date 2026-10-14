@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0318",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. I think they're having a sale at the shopping district today.\"\n...Hm.\nSaber is looking forward to dinner, so it might not be a bad idea to splurge and make it a fancy dinner.\nI can just report to Tohsaka once I get home.",
+      "sourceUnit": "凛ルート八日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I just bought some beef filet.\"",
+      "sourceUnit": "凛ルート八日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "And veal too. It's rare, expensive, and doesn't taste that different, but boy did I fall for the butcher's sales pitch hook, line, and sinker!",
+      "sourceUnit": "凛ルート八日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well. It was pretty cheap.\"\nI can just look at it as a day's worth of earnings, I guess.\nSaber looks like she'd like something like this. We've been having homemade meals, so I'm sure she would be happy if I make something like a Western-style full-course meal.",
+      "sourceUnit": "凛ルート八日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...It'd be perfect if I could prepare appetizers, desserts, and cheese, but it'd be hard on my wallet.\nSaber is fine, but if I even made Fuji-nee a gourmet meal, then later on it'd be...?\"",
+      "sourceUnit": "凛ルート八日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Something unfamiliar caught the corner of my eye.\n\"...\"\nI wonder what it is and look back at the cake shop, Fleur.",
+      "sourceUnit": "凛ルート八日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...Is that some kind of uniform?\nA woman in an outfit unfit for this antique shopping district looks like she's giving the lady at the local cake shop some trouble.",
+      "sourceUnit": "凛ルート八日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...I get curious and stop.\nFrom what I overheard, it seemed like the money that the woman in white is trying to pay with is not Japanese yen, so the lady in the cake shop doesn't seem to know what to do.\nThe out-of-place woman is also speaking in broken Japanese.",
+      "sourceUnit": "凛ルート八日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Well, I got a bargain.\nI guess I'll do something about it since I happened to pass by.",
+      "sourceUnit": "凛ルート八日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you!\"\nI'm thanked two-fold and leave the cake shop.",
+      "sourceUnit": "凛ルート八日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thanks. You helped me with the cake.\"\nThe girl also thanks me in broken Japanese.\nBut, I really haven't done much.\nAll I did was exchange her foreign currency with my two thousand yen bills.",
+      "sourceUnit": "凛ルート八日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Change. Left over. You can have it.\"\n\"Huh? No, I got enough already. You gave me two ten franc notes.\"",
+      "sourceUnit": "凛ルート八日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis Nightingale-esque clad woman looks around absent-mindedly.",
+      "sourceUnit": "凛ルート八日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm already done shopping. Goodbye.\"\nShe bows and leaves.\nI watch the girl leave, thinking to myself that there are days like this.",
+      "sourceUnit": "凛ルート八日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"Oh yeah. Do you like cake?\"\nI get curious and ask her.",
+      "sourceUnit": "凛ルート八日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "The girl in white stops and after looking around absent-mindedly...\n\"...Yes. And Sella has common tastes.\"\nShe gives a vague answer.",
+      "sourceUnit": "凛ルート八日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I check the school directory as soon as I get home and call Tohsaka's.\nThe phone rings.\nAfter calling dozens of times, right before I'm ready to give up, she picks up.",
+      "sourceUnit": "凛ルート八日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, this is Tohsaka.\"\nThe voice on the other end is definitely Tohsaka's.",
+      "sourceUnit": "凛ルート八日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hello? It's Emiya. Do you have time right now?\"\n\"Huh? Stop fooling around, Ar—Wait, no way, is it actually you...!?\"\n\"...Hey. I don't have the free time to be playing around with you.\"",
+      "sourceUnit": "凛ルート八日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... No, that's not it... Sorry, I was just a little surprised. Did something happen for you to call?\"",
+      "sourceUnit": "凛ルート八日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"It's about Issei. I promised you that I would get it cleared up today. Issei wasn't a Master. He didn't have a Command Spell anywhere, so there's no doubt.\"",
+      "sourceUnit": "凛ルート八日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? ...I'm surprised that you actually looked into it today. So Issei is innocent, huh? ...Well, we're out of leads now, but I guess that's fine.\"\nI can't tell whether she's disappointed or relieved. I can't grasp Tohsaka's reaction that well through the phone.",
+      "sourceUnit": "凛ルート八日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, good work. We'll think about what to do about the search for the Master tomorrow. So is that all? If so, I have to go.\"\n\"...\"\nI don't have anything else to say.\nBut, there is one other thing that bothers me.",
+      "sourceUnit": "凛ルート八日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. You seemed surprised earlier. Did something happen?\"\n...\nI can feel Tohsaka's bewilderment through the phone.\nAfter a brief moment of silence...",
+      "sourceUnit": "凛ルート八日目-05:page23:1"
+    },
+    "page24": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート八日目-05:page24:1"
+    },
+    "page25": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

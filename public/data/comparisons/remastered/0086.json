@@ -1,0 +1,331 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0086",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's lunchtime.\nTemporary though this break from classes is, students rush back and forth across the whole school",
+      "sourceUnit": "セイバールート六日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, it won't look suspicious if I wander around now.\"\nI wolf down my lunch and head into the hallway.\nThis really isn't the time to say I've never done anything like this.\nThe war has already begun.\nSo now I need to look for anything suspicious, like what Tohsaka was talking about, in my own way.",
+      "sourceUnit": "セイバールート六日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess the first place to look would be wherever there's not usually anyone around.\"\nLet's see...\nI just hope I can make some progress without wasting this one-hour lunch break.",
+      "sourceUnit": "セイバールート六日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "After I've searched the building, I take a look outside just to be sure.\nI didn't see anything strange at the athletic fields or behind the buildings, but this area seems different.",
+      "sourceUnit": "セイバールート六日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't tell me this is...\"\nI've found a few suspicious spots around campus.\nBehind the stairways, dead ends, empty classrooms, and other, less public places.\nThis place is different.\nEveryone gathers here every day, so it's a far cry from the isolated, deserted places I've checked.",
+      "sourceUnit": "セイバールート六日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"How did I not notice this earlier?\nThis place is the most bizarre place of all.\"\nI clutch at my chest as I speak.\nThe atmosphere here is suffocating.\nThe heavy wind and humid air make being here at all damned uncomfortable.\nAs soon as I realize what I'm smelling, I find myself getting nauseous.",
+      "sourceUnit": "セイバールート六日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka said that there should be base points for Bounded Fields.\nI don't know how many there are, but I think the first must be somewhere around here.\"\nIf I'm right, there should be some inscription or sign of it somewhere...",
+      "sourceUnit": "セイバールート六日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\n...\n...It's no use.\nI don't have the abilities to detect magical energy, so there's no way I can find any signs that a Bounded Field has formed.",
+      "sourceUnit": "セイバールート六日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nI guess I have no choice but to report back to Tohsaka—\n\"Oh it's you. Looking for something, Emiya?\"\nWho's there!?\nI whirl around when I hear that voice. There, standing in front of the kyudou club dojo is...",
+      "sourceUnit": "セイバールート六日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shinji.\"\n\"Hey, what a coincidence. I was actually heading that way myself. You didn't happen to see it...did you?\"\nShinji grins.\nShinji Matou seems genuinely pleased with himself.",
+      "sourceUnit": "セイバールート六日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...See...what? I don't see anything around here.\"\n\"Ah. You did see it. I get it now. So that's why you and Tohsaka were together. Yeah...teaming up with other Masters is an efficient way to go.\"\n\"What!? Shinji, don't tell me...\"",
+      "sourceUnit": "セイバールート六日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, chill, Emiya. It's between you and me. We shouldn't be hiding anything from each other.\nI don't know what the hell's following you around, but you got forced into this shitty role as Master too, right?\"",
+      "sourceUnit": "セイバールート六日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Shinji is so blunt about this. Not an ounce of hesitation.\nHe's a Master, and not at all shy about it.",
+      "sourceUnit": "セイバールート六日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't tell me...you're a Master, Shinji?\"\n\"That's what I've been saying.\nBut hey, don't get me wrong, I've got no intention of fighting anyone. Sure, I'll kill anyone who tries attacking me, but I won't do anything if people leave me alone. See? We're a lot alike in that regard, aren't we?\"",
+      "sourceUnit": "セイバールート六日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Shinji giggles.\nFrom what he's saying, it's clear he's a Master. But...",
+      "sourceUnit": "セイバールート六日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm actually surprised to learn that you're a Master, Emiya. So why don't we have a little chat...one shocked Master to another?\"\n\"A chat...I don't mind, but what are we going to be chatting about?\"",
+      "sourceUnit": "セイバールート六日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"About what's going to happen, obviously.\nI already told you I have no plans to fight, but the rest of the participants sure do. So it'd be best to be ready for anything that might come our way, don't you think? It might be scary alone, but not so much if there's two of us.\"",
+      "sourceUnit": "セイバールート六日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nIs Shinji asking me to team up with him?",
+      "sourceUnit": "セイバールート六日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, this probably isn't the best place to talk about this kind of stuff. Who knows who might be listening. Why don't we go somewhere else?\nHm...maybe we can talk at my house. Tohsaka wouldn't be able to spy on us there, and we'll be safe even if we're attacked.\"",
+      "sourceUnit": "セイバールート六日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Go somewhere else? Are you crazy? Lunch break's almost over, so if we wanted to talk—\"\n\"You are so freakin' boring. So what if we skip class? Let's just go. I'm glad to know you're a Master too. Don't ruin the moment.\"",
+      "sourceUnit": "セイバールート六日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"That's no reason to go. People would be suspicious if we skipped class.\"\n\"Tch! You just won't budge, will you!? Oh I get it!\nYeah...you're right. You should be on guard!\"",
+      "sourceUnit": "セイバールート六日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"But don't worry. I'm not going to attack you . No matter what. Do you really take me for the kinda guy to stab you in the back?\"",
+      "sourceUnit": "セイバールート六日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh...yeah. I guess I shouldn't just casually follow you, huh?\"",
+      "sourceUnit": "セイバールート六日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, whatever. You have a Servant hanging around you too, so I'm not going to pick a fight with someone so dangerous.\"",
+      "sourceUnit": "セイバールート六日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Huh?\nDoes Shinji think I have Saber with me right now?\nActually no...Shinji just can't see the Servant in spirit form.\nThat's why he thinks I have Saber with me.",
+      "sourceUnit": "セイバールート六日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Just come on. If Tohsaka finds out, neither of us will live to tell the tale.\"\nShinji starts to walk away.\n...\nI guess I have no choice but to follow him.\nI'm interested to hear what Shinji has to say, so at this point I should just give up on attending afternoon classes.",
+      "sourceUnit": "セイバールート六日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "We walk up the hill.\nWe are in a residential area with Western-style houses in stark contrast to my house.\nI hear Tohsaka's house is at the top of this hill, and I remember the Matou house is right below it, like it's trying to hide or something.",
+      "sourceUnit": "セイバールート六日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe Matou house is still as impressive as I remember.\nI visited a few times during middle school, but I haven't been near it recently.\nI haven't been invited since Shinji and I drifted apart, and above all, Sakura doesn't like me coming here.",
+      "sourceUnit": "セイバールート六日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "It's daytime, but the mansion is dark.\nThe whole place is designed so that sunlight doesn't get in, and there's not much in the way of lighting inside.\nThere's honestly a decent enough chance of someone smacking into a wall if they don't know the layout of the place.",
+      "sourceUnit": "セイバールート六日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"This way, Emiya. I'm in the living room.\"\nI don't know when he got there, but I hear Shinji's voice from the back of the mansion.\nEven after a year, I still remember my way around the house, so I'm able to find the living room easily enough.",
+      "sourceUnit": "セイバールート六日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "There's nothing in the way of lighting, even in the living room.\nThe curtain is pulled shut, blocking out the sun.\nNot a hint of artificial light either, so the place is dark and gloomy.",
+      "sourceUnit": "セイバールート六日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Over here, Emiya.\"\nI turn towards the voice.\nThere, I see Shinji sitting on a chair and...\n...a woman, dark like obsidian, standing behind him.",
+      "sourceUnit": "セイバールート六日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me introduce her. This is my Servant, Rider.\"\n...\nA chill runs down my spine.\nThe chill is so intense it stings the back of my neck.",
+      "sourceUnit": "セイバールート六日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I thought we were going to talk alone, Shinji?\"\nI take a step back.",
+      "sourceUnit": "セイバールート六日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't mind her. She's just here as a precaution. I wouldn't want you taking the chance to ambush me. I'd rather have her nearby.\"\nShinji reaches out towards his dark Servant...Rider.\nHis fingers caress along her waist, then stroke down her thigh.",
+      "sourceUnit": "セイバールート六日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...\nRider doesn't move a muscle.\nShe is still as a statue, keeping watch on me through veiled eyes.\nI imagine she can even see my fingertips shivering.",
+      "sourceUnit": "セイバールート六日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Some hospitality you're showing to a guest you invited. You might be going a bit far with your caution, Shinji.\"\n\"I'm just kidding. I know perfectly well you're not the type to do something like that.\nYour Servant's another story, though. Training this one took me a while, actually. It's not unusual for a Servant to ignore their Master's orders, so just think of this as me keeping an eye on things.\"",
+      "sourceUnit": "セイバールート六日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...A Servant who doesn't obey their Master?\nNow that I look closer, Rider is a little different than Saber.\nSaber is silent, but she is not frosty.\nI sense only coldness from Rider.",
+      "sourceUnit": "セイバールート六日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "A human almost completely lacking humanity.\nA dark figure that looks like the blood in its veins has discolored.\nShe doesn't give the impression of a Heroic Spirit turned Servant. I can only sense something inorganic, devoid of any light.",
+      "sourceUnit": "セイバールート六日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"So Rider is your way of keeping my Servant in check? Can't say I love that.\"\n\"Sorry about that. But I'm an amateur, you know. I'm not used to this kind of stuff, unlike you. You'll have to forgive me for that.\"\n\"Hah. Can't say I'm exactly used to this, either.\"",
+      "sourceUnit": "セイバールート六日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"That so? Oh, then why don't you call yours out too? That'll help us understand each other, and things will be even.\nYeah...let's do that! Hey Emiya, I showed you mine, so show me yours!\"",
+      "sourceUnit": "セイバールート六日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...Shinji really thinks Saber's right next to me.\nIt's probably best to let him keep thinking that.",
+      "sourceUnit": "セイバールート六日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse. If you're just doing this to keep me in check, you shouldn't mind.\nThat should be enough if I'm just here to talk.\"\n\"What the hell? Don't you get it? I said I want to see it! I don't know why you're being a little shit about it, but I think it'd be in your best interests to listen to me.\"",
+      "sourceUnit": "セイバールート六日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Then we're done talking. I didn't come here to show off our Servants. If that was what you wanted, I'm heading home.\"\n\"Tch. Fine. You're useless, as usual.\"\nHe moans discontentedly and slumps further into his chair.",
+      "sourceUnit": "セイバールート六日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Let's talk, then. There's really only one thing I want to talk about anyway.\nYeah. As I was saying earlier: Wanna team up with me, Emiya? I might've become a Master, but I don't know what the hell a Holy Grail War even is. I'd rather work with someone I know I can trust than do this by myself.\"",
+      "sourceUnit": "セイバールート六日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold up. I want to ask you something. My answer will depend on your response.\"\n\"What's that? You want to know why I became a Master?\"\nI nod.\nAs far as I know, Shinji's not a mage.\nUntil I find out how Shinji was selected to be a Master, I don't intend on working with him.",
+      "sourceUnit": "セイバールート六日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I hear mages are the only ones who can be Masters. I may be inexperienced, but I am training in magecraft. I became a Master because I formed a contract with a Servant by sheer coincidence... Did you accidentally summon a Servant and get dragged in to this Holy Grail War too?\"",
+      "sourceUnit": "セイバールート六日目-00:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "If that's what happened with him, we're in the same boat.\nI don't think I'd be able to refuse his proposal to team up in that case.",
+      "sourceUnit": "セイバールート六日目-00:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. So you became a Master by coincidence, huh?\nGood. That's a more reasonable explanation.\"\nShinji giggles like it's the funniest thing he's ever heard.",
+      "sourceUnit": "セイバールート六日目-00:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I guess something similar happened with me. At least, in that I was forced into becoming a Master like you.\nDon't get me wrong though.\nI knew what Masters were, and I've known about Holy Grail Wars forever now. Unlike your family, the Matou family's a respected line of mages.\"",
+      "sourceUnit": "セイバールート六日目-00:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "What!?\nThe Matous are a family of mages!?\n\"Wha...I've never heard that before!\nWait, does that mean you...\"\nAnd Sakura, his sister, have also trained in magecraft?",
+      "sourceUnit": "セイバールート六日目-00:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Calm down, Emiya. The Matou family may be a family of mages, but its power's run dry.\nThe Matou ancestors apparently rooted themselves here along with the Tohsaka family, but they couldn't adapt well to Japan.\nAnd as generations went, the, uh…Magic Circuits? Yeah, those started to dwindle, and by the time I was born, the Matou bloodline was pretty much back to the point of being more or less ordinary humans.\nThat's why there are no mages in the Matou family. It's just a line that used to be mages.\"",
+      "sourceUnit": "セイバールート六日目-00:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Used to be mages... So now the only thing that remains in your family is your knowledge of magecraft?\"\n\"Yeah, unfortunately. But even if we don't have any Magic Circuits, we're still able to learn magecraft. I managed to look up everything about Masters and Holy Grail Wars easily enough. And I was able to keep my emotions under control when I found myself being a Master because of my ancestors' teachings.\"",
+      "sourceUnit": "セイバールート六日目-00:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nI see...\nWhen I became a Master, it was Tohsaka who taught me about Holy Grail Wars.\nSo, similarly, Shinji was able to understand his own situation thanks to the writings his family passed down.",
+      "sourceUnit": "セイバールート六日目-00:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"In other words, you only learned about magecraft itself. Does that mean Sakura has been learning about magecraft too?\"",
+      "sourceUnit": "セイバールート六日目-00:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You don't know anything, do you?\nListen. Old mage families only pass down their secret knowledge to a single person. If there are two children, the oldest male becomes their heir.\"",
+      "sourceUnit": "セイバールート六日目-00:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Splitting something in two just dilutes its power.\"\nA mage's job is to collect ten magecraft disciplines and crystallize them, then leave that to the heir to strengthen their bloodline. There are no exceptions, not even for family.\"",
+      "sourceUnit": "セイバールート六日目-00:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why mage families don't teach magecraft to anyone other than their heirs. Children who weren't selected to be the family's successor either never learn that their family practices magecraft, or they're sent to be adopted by a different family.\"",
+      "sourceUnit": "セイバールート六日目-00:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's a relief.\"\nI sigh in relief.\nI want Sakura to live a normal, peaceful life, having nothing to do with magecraft.\nI would never want her to get involved in a battle that forces someone to fight without reason.",
+      "sourceUnit": "セイバールート六日目-00:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"So now do you get it, Emiya?\nI may have become a Master, but I've got no power in magecraft.\nYou, on the other hand, said you can use a little. But you have next to no knowledge of magecraft.\nSee? Don't you think we're a good match? We were both forced to be Masters. Let's work together.\"",
+      "sourceUnit": "セイバールート六日目-00:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't have a problem with that. I just want to be clear though: You're proposing this to protect yourself, right?\"\n\"In part, yes, but I think we'll need to work on getting rid of our immediate enemy first. I feel like she's been giving me the evil eye.\"",
+      "sourceUnit": "セイバールート六日目-00:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Giving you the evil eye? Are you talking about Tohsaka?\"",
+      "sourceUnit": "セイバールート六日目-00:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I am! She wouldn't be treating me like crap otherwise!\nListen. She'll be relentless against the other Masters. You should know that by now, since you've been with her for a while.\nI don't know what's gotten into her, but for some reason Tohsaka has warmed to you. Why would a girl who never drops her guard do that?\nSo come on. Don't you think this is our opportunity to defeat her?\"",
+      "sourceUnit": "セイバールート六日目-00:page62:1"
+    },
+    "page63": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page64": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

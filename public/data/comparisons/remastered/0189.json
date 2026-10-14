@@ -1,0 +1,251 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0189",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And so the day ends.\nDinner was chaotic.\nIllya got chattier with each meal, and she and Tohsaka have gotten to this weird point where I'm not sure whether they're fighting or being friendly.",
+      "sourceUnit": "セイバールート十二日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Saber has accepted Illya's presence here, but she hasn't warmed up to her. More than that, Saber gets pretty frowny whenever Illya gets near me.",
+      "sourceUnit": "セイバールート十二日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nThese past few days have been just plain rough.\nThe normal routine of just a few days ago has devolved into complete chaos.",
+      "sourceUnit": "セイバールート十二日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I step silently out into the yard.\nIt's just about time for the calendar to roll over to the next day.\nI walk beneath the pale light of the moon, leaving faint puffs of white breath in my wake.",
+      "sourceUnit": "セイバールート十二日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Next thing I know, I'm at work on my daily routine.\nI don't really need to train out here since Tohsaka is teaching me.\nBut I still sit on the cold ground and check on the things I've been working on for so long.",
+      "sourceUnit": "セイバールート十二日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I'm not doing this because I'm worried about my skills.\nIt's more that I find doing it soothing.\nI've been doing this for years, so just not doing it would feel weird.",
+      "sourceUnit": "セイバールート十二日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on.\"\nI put even more effort into tonight's training.\nTohsaka told me not to do it anymore, but I can't just do as she says.\nIf I can master this Projection thing, it'd mean I could be a lot more helpful to Saber.",
+      "sourceUnit": "セイバールート十二日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "And the heat from earlier is still lingering within me.\nThe night at the ruins.\nThe battle in the forest in the morning mist.\nThe golden sword I created.\nThe residual heat still lingers in my hands, and deep down I find myself hoping I'll be able to reignite those flames.",
+      "sourceUnit": "セイバールート十二日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Creation philosophy, appraisal.\"\nIt's easy to recreate.\nAt the time, I was so desperate that my mind was a jumble, but now I can retrace the necessary steps and form my incantation.",
+      "sourceUnit": "セイバールート十二日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "No.\nFrom the very beginning, there has only been a single thing that could serve as a trigger for me.\nThe pronunciation is the same.\nBut just by changing my perception of how it is said, it will become something entirely mine, my own original spell.",
+      "sourceUnit": "セイバールート十二日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Basic structure, hypothesis.\"\nI know very well how dangerous this is. Tohsaka doesn't need to remind me.\nI really have no business getting anywhere near Projection magecraft.\nIt's completely beyond me.\nVenturing so brazenly into dangerous waters can lead only to death.",
+      "sourceUnit": "セイバールート十二日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"End of hypothesis. Now, instant nothingness.\"\nI erase the blueprint that was in my head.\nA shadow falls across the door.\nSaber comes in, her frame blotting out the light of the moon.",
+      "sourceUnit": "セイバールート十二日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Good. You are here, Shirou. I could not find you, and was worried something might have happened.\"\n\"Huh? No, nothing's happened. I couldn't sleep, so I came here to do some mental exercises. Once I finish, I'll head back to my room, so you don't need to worry.\"",
+      "sourceUnit": "セイバールート十二日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That is fine, then.\"\nSaber focuses on my forehead.\nShe can probably see that I'm dripping with sweat.",
+      "sourceUnit": "セイバールート十二日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"It's always like this. Don't worry.\nMages have to practice their magecraft.\n...And, well, failure comes with the territory for an amateur like me.\"\nI wipe the sweat from my brow with the back of a hand.",
+      "sourceUnit": "セイバールート十二日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh?\"\n...I'm surprised.\nMy sweat is cold as ice.\nI thought it was cold, but I don't remember the shed being quite this cold.",
+      "sourceUnit": "セイバールート十二日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, have you been doing this every day?\"\n\"Well yeah, as much as I possibly could. It's a daily routine my old man taught me, so I should at least keep to it.\"",
+      "sourceUnit": "セイバールート十二日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "As soon as I finish speaking, I regret my bluff.\nI regret telling her this is my daily routine.\nMy intent was to boast to Saber.\nAt the end of the day, my training isn't just some chore to me.\nBut it isn't the easiest of tasks either.",
+      "sourceUnit": "セイバールート十二日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber says nothing.\nThe moon hangs behind her, its light spilling around her frame.\nThe shed, plunged into bluish darkness, is illuminated by the few shafts of silvery light that make it past Saber.\n...\nI recall the first night I met her.",
+      "sourceUnit": "セイバールート十二日目-15:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Tohsaka said something to me today.\"\nThat moment felt just like a dream...\n\"Is it true that Servants don't dream?\"\nI can't stop myself from asking.",
+      "sourceUnit": "セイバールート十二日目-15:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. We do not have dreams. Servants are spiritual forms, and so do not sleep to begin with.\nI am forced to sleep because I cannot turn into spiritual form, but I still do not dream.\"\n\"But, this morning, you said...\"",
+      "sourceUnit": "セイバールート十二日目-15:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere is a brief silence.\nShe closes her eyes, then, apparently having made up her mind...",
+      "sourceUnit": "セイバールート十二日目-15:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"The dream I had, Shirou, was yours.\nMaster and Servant are mentally connected. If the connection becomes strong enough, there are times when they will experience each other's memories.\"",
+      "sourceUnit": "セイバールート十二日目-15:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"You dreamed of...my past?\"\n\"Yes. It is tantamount to stepping into your mind, but I was not able to prevent it from happening.\n...Please forgive me for that, Shirou.\"",
+      "sourceUnit": "セイバールート十二日目-15:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't...\"\nI did the same thing.\nSaber's past.\nI've seen several scenes from her life before she became a Servant now.",
+      "sourceUnit": "セイバールート十二日目-15:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be silly. That's not your fault. You can't help what you dream about.\nAnd I have to apologize too.\nMy past is pretty boring. Seeing something that boring probably makes you not want to have to sleep.\"",
+      "sourceUnit": "セイバールート十二日目-15:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No. This morning was the first such dream I had. I did not see anything recent, so I did not infringe on your privacy as a young man!\"",
+      "sourceUnit": "セイバールート十二日目-15:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Saber is dead serious about that warning.\nBut privacy? Well, yeah sure, I've done my share of dumb things...",
+      "sourceUnit": "セイバールート十二日目-15:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a relief. But if you're saying you didn't see any recent memories, then how far into the past did you see?\"",
+      "sourceUnit": "セイバールート十二日目-15:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"There was a large fire. That is all I saw.\"\nHer voice is quiet.\nHer gentle gaze tells me what she saw.",
+      "sourceUnit": "セイバールート十二日目-15:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Oh.\nThat dream.",
+      "sourceUnit": "セイバールート十二日目-15:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Well, I don't know what to say...\"\nShould I say it was \"unfortunate\"?\nIt's like...going to a movie theater expecting to see a movie you know, but you somehow end up in the wrong theater and end up getting a completely different show.",
+      "sourceUnit": "セイバールート十二日目-15:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"It helped me to understand. No... I have been thinking this for some time now, but you have a dangerous side to you.\"\n\"Huh? What do you mean, dangerous? Well, yeah, I'm sure the odds are plenty stacked against me, from your point of view.\"",
+      "sourceUnit": "セイバールート十二日目-15:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not what I mean.\nYou are very similar to me. That is why I understand your mistakes. I can see what might happen to you if you continue on this path.\"",
+      "sourceUnit": "セイバールート十二日目-15:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, I don't think I've made any mistakes.\nSure, I've failed plenty of times, but my goal is to be a champion of justice like my old man. A goal like that? Can't be a mistake. No way.\"",
+      "sourceUnit": "セイバールート十二日目-15:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I am telling you that is your mistake.\nShirou. What happened on that day was not your fault. You cannot and should not take responsibility for it.\nThere is nothing you need redeem yourself for.\"",
+      "sourceUnit": "セイバールート十二日目-15:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That's obvious.\nIt was just an accident, and I was just a victim.\nSure, I may be dealing with survivor's guilt...",
+      "sourceUnit": "セイバールート十二日目-15:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin once said that your self-sacrifice and devotion are bizarre. And I agree.\nYou are not sacrificing your life to save others.\nIn fact, at no point did you even consider your own life.",
+      "sourceUnit": "セイバールート十二日目-15:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\nMaybe my pupils have dilated.\nI'm not sure why, but I can't seem to focus on Saber's face.",
+      "sourceUnit": "セイバールート十二日目-15:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"You will never be able to forget that accident. But as long as you remember it, you cannot change. Is that not extremely painful for you?\"\n\"Painful? For me?\"",
+      "sourceUnit": "セイバールート十二日目-15:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Well yeah, that's painful.\nSaber doesn't have to remind me of that.\nIt is obvious.\nSo many people died. It was absolute hell.\nSomething like that causing you pain is only natural.\nAnd besides, if I didn't feel that...\nIt might all be meaningless.",
+      "sourceUnit": "セイバールート十二日目-15:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. You're right. It is painful to remember.\nBut it's in the past now. There's nothing I can do about it.\"\nSaber doesn't answer.\nInstead, she claws at her arm in frustration.",
+      "sourceUnit": "セイバールート十二日目-15:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...I must obtain the Holy Grail.\nBut that also applies to you, Shirou.\"\n\"Eh? Saber...\"",
+      "sourceUnit": "セイバールート十二日目-15:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"You require the Holy Grail.\nYou summoning me was ultimately inevitable, Master.\"",
+      "sourceUnit": "セイバールート十二日目-15:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know how to respond to that.\n\"...I am going to go to bed. Please do not strain yourself overmuch.\"\nSaber leaves.",
+      "sourceUnit": "セイバールート十二日目-15:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mhm.\"\nI fold my arms and think.\nDo I need the Holy Grail?\nA vessel that grants wishes to its possessor.\nA vessel which contains unlimited quantities of magical energy...for which it is said nothing is impossible.\nWere I to get it, it could easily grant my wish...",
+      "sourceUnit": "セイバールート十二日目-15:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that's wrong. No matter how I look at it, I don't need the Holy Grail.\"\nNope. I definitely don't need it.\nBecause I don't have any wishes that can't come true, or hope for anything that's impossible.\nI wouldn't have a dream if it weren't something I could attain myself.",
+      "sourceUnit": "セイバールート十二日目-15:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "The night grows darker.\nIn the familiar old shed, lit only by the moon, I listen to the distant wind.",
+      "sourceUnit": "セイバールート十二日目-15:page47:1"
+    },
+    "page48": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

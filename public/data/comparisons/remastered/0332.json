@@ -1,0 +1,116 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0332",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There's no one at home.\nThe hallway is dead silent.\nMy ears might still be screwed up, as I can't hear my own footsteps.\nThe numbness in my limbs won't go away, and I don't feel the ground under my feet.",
+      "sourceUnit": "凛ルート九日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nSurprised that I can walk in this condition, I head straight to my room without conversation.",
+      "sourceUnit": "凛ルート九日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's not train tonight. You must be tired too, right?\nYou were wounded badly too.\"\nSaber follows me to my room.",
+      "sourceUnit": "凛ルート九日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, I do not have a problem. I used magical energy to heal myself, and I still have enough to replenish it.\nMore importantly, Shirou, do you feel any abnormality in your body?\"",
+      "sourceUnit": "凛ルート九日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? No, I'm fine. My limbs are still heavy, but I think they're just sore. It should be gone by tomorrow.\"",
+      "sourceUnit": "凛ルート九日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. However, please let me know if your body is hurting.\"",
+      "sourceUnit": "凛ルート九日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. You can wake me up if anything happens. If you get hungry in the middle of the night, I can make you a midnight snack or something.\"\nI can't provide Saber with magical energy, so the only thing I can do is make her food to cheer her up.",
+      "sourceUnit": "凛ルート九日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou. Please do not push yourself.\"\nShe heads to the room next to mine.",
+      "sourceUnit": "凛ルート九日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I should just go to sleep.\"\nI make my bed and lie down.\nMy limbs still feel numb.\nIt might be a side effect of magecraft that I'm not used to, but I feel ready to pass out.",
+      "sourceUnit": "凛ルート九日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm... No, stupid, I'm...\"\nI'm actually tired.\nThe ringing in my ears bothers me, but it seems like I'll be able to sleep well for the first time in a while...",
+      "sourceUnit": "凛ルート九日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... Ah...\"",
+      "sourceUnit": "凛ルート九日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Ugh... Guh...\"",
+      "sourceUnit": "凛ルート九日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...haah...haah... Guh...\"",
+      "sourceUnit": "凛ルート九日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... Guh...!!!\"\nI claw at my futon.\nIt feels like molten steel is coming up my throat.\nEvery muscle and bone in my body is screwed.",
+      "sourceUnit": "凛ルート九日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh... Ugh... Guh...!\"\nA grinding sound echoes in my numb ears.\nThe sound of creaking bones comes from within me.\nWhat is wrong with them?\nThe bones in my limbs are splitting in complaint, and my ribs are squirming as if trying to burst through my chest muscles.",
+      "sourceUnit": "凛ルート九日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Haah...!\"\nAgony runs through my entire body.\nMy body feels like it's being crushed by a massive vice from without, but the pain comes from within.\nI'm being crushed. I'm being pulled apart.",
+      "sourceUnit": "凛ルート九日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!!!\"\nOn top of my bed...\nI squirm like a bug and try to bear the anguish.",
+      "sourceUnit": "凛ルート九日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Ah, ah...\"\n...My forehead is hot.\nMy brain must not be able to bear this pain. It burns like a sauna.\nI no longer care if this is compensation for using magecraft beyond me, or if this is the abnormality that Saber warned me about.",
+      "sourceUnit": "凛ルート九日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Ah...\"\nBut for some reason, I don't want to call to Saber for help.\nI don't want to worry her over something like this. I have to handle it myself.\n\"...That's just...how it should...\"\nI desperately suppress every groan as I sweat profusely.",
+      "sourceUnit": "凛ルート九日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...The clock that I look over at absently is not even at midnight.\nIt would be easier if I just go to sleep, but I'm sure this pain will wake me up even if I do so.",
+      "sourceUnit": "凛ルート九日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Haah... Guh...!!!\"\n...I'm going into a daze.\nMy consciousness is fading away.\nThe pain should go away once the sun comes up.\nBut until then...\nThe fact that I have to bear this pain for seven more hours is like a nightmare...",
+      "sourceUnit": "凛ルート九日目-10:page20:1"
+    },
+    "page21": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

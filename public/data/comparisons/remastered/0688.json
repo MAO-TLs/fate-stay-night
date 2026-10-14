@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0688",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't allow myself to die here.\nIt's two meters to the door.\nI can escape in a single bound.\nThe problem is that Rider can close in on me faster than I can leap back.",
+      "sourceUnit": "桜ルート十五日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't tell if there's anger or disappointment behind Rider's bloodlust.\nMaybe it's just the poor lighting in the shed, but standing in the dark, she reminds me of a giant snake about to strike its prey.",
+      "sourceUnit": "桜ルート十五日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —\"\nI focus on predicting when the snake will strike.\n\"...Haah...!\"\nI dodge a dagger before I jump back.",
+      "sourceUnit": "桜ルート十五日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I made it...!\"\nI feel a little excited as I run into the yard.\nMy heartbeat rises with the exhilaration of avoiding Rider's daggers and taking the opportunity to escape, when she's stronger than me.",
+      "sourceUnit": "桜ルート十五日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "But my happiness ends there.\nThe fight has just begun. I need to find some way to beat Rider, or else...",
+      "sourceUnit": "桜ルート十五日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nNobody's chasing me...?\nRider slowly emerges from the shed.\n\"...You have lost my interest. You cannot kill Sakura with your meager skills. I don't even need to finish you off.\"\nThen, she vanishes into the night as suddenly as she appeared.",
+      "sourceUnit": "桜ルート十五日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nRider's presence fades away.\nShe must have left the house.\nHer bloodlust is gone, and it doesn't seem like it'll ever return.",
+      "sourceUnit": "桜ルート十五日目-14:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

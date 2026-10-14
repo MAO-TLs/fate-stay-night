@@ -1,0 +1,386 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0034",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Sakura heads to the club while I head to the school building.\nThe schoolyard is filled with athletic club members training. This morning is practically brimming with enthusiastic energy.",
+      "sourceUnit": "セイバールート三日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut something feels...strange.\nEverything in the school is as usual.\nThe students exercising for morning practice are lively, and the new school building is spotless.",
+      "sourceUnit": "セイバールート三日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe it's just my imagination.\"\nBut when I close my eyes, the mood changes drastically.\nThe building walls feel...stained, like membranes have latched onto them, and the students themselves seem like empty dolls.",
+      "sourceUnit": "セイバールート三日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe I'm just tired.\"\nI shake my head to clear it, and head onto campus.",
+      "sourceUnit": "セイバールート三日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "School ends early on Saturdays.\nClasses end in the morning, but by the time I finish helping Issei, the sun is starting to set.\n\"Guess it's time to go home.\"\nI pack my bag and leave the classroom.",
+      "sourceUnit": "セイバールート三日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "But then...\n\"Hey, you're still here, Emiya.\"\nI run into Shinji.\nThere are a few girls behind him making a small commotion.",
+      "sourceUnit": "セイバールート三日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't believe you're still hanging around when you've got nothing to do. Oh right...you're still kissing the student council's ass. Look at you. You get into the school's good graces even though you don't go to any clubs.\"\n\"I'm not helping the student council. I'm just helping the school by repairing old equipment, since we all use it.\"",
+      "sourceUnit": "セイバールート三日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah. Listen to you. Anything is a given according to Emiya. Did I ever tell you how much you piss me off?\"\n\"Eh? Don't remember. I probably wasn't listening if you did. You say that kinda stuff all the time.\"",
+      "sourceUnit": "セイバールート三日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Grrr!\nHmph. I get it. So you're saying you'll fix anything as long as it's something that's in the school, huh?\"\n\"It's impossible to fix everything. The most I can do is take care of things.\"",
+      "sourceUnit": "セイバールート三日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Then do me a favor. Our kyudou club's kind of in a mess right now. We've got bowstrings lying around, and the range hasn't been cleaned recently.\nIf you've got time on your hands, can you take care of that too?\nYou used to be in the kyudou club, so shouldn't you be helping us too instead of just kissing the student council's ass all the time?\"",
+      "sourceUnit": "セイバールート三日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Shinji, didn't Ms. Fujimura tell YOU to do all that?\"\n\"Yeah. You'll get in trouble if you don't do everything you were told.\"\n\"But all the shops will close if you start cleaning up now. If that guy's offering, let's just let him do it.\"\n\"That's kind of mean. Plus, an outsider can't possibly clean everything up.\"\n\"That might not be right. Shinji just said he's a former club member. Maybe we CAN let him do it.\"",
+      "sourceUnit": "セイバールート三日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The girls behind Shinji are awfully chatty.\nThey seem to be kyudou members, but since I don't recognize any of them, they must be the members Shinji recruited recently.",
+      "sourceUnit": "セイバールート三日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm counting on you, then. The key's in the usual place, so just go in whenever. You don't mind, right, Emiya?\"\n\"No, I don't mind. I've got some time on my hands, so it's no problem.\"\n\"Haha, thanks! So let's go, everyone. This clown'll do the boring chores for us!\"",
+      "sourceUnit": "セイバールート三日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't leave me behind, Shinji! Oh, uh...good luck with the cleaning, Senpai.\"",
+      "sourceUnit": "セイバールート三日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I clean the kyudou dojo without any problems, since I'm familiar with it.\nIt's a big room, so it took a while, but it was kind of fun cleaning the place I used to spend so much time in until a year and a half ago.",
+      "sourceUnit": "セイバールート三日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Midway through, I considered trying to shoot a bit, but decided not to; it would be rude to the owner of the bow.\nIf I want to shoot, all I have to do is bring in my own bow and visit.",
+      "sourceUnit": "セイバールート三日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I look at the time, and it's way past curfew.\nIt's a little after seven. The school gates must be closed by now, so there's no need for me to rush out.",
+      "sourceUnit": "セイバールート三日目-01:page16:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Now that I look closely...\nI don't remember the dojo being so dirty before. There's dirt and grime all over the place, like behind the bow rest and the club room.",
+      "sourceUnit": "セイバールート三日目-01:page17:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I guess another hour or two wouldn't make much of a difference at this point.\"\nI've already started, so I might as well clean every nook and cranny.",
+      "sourceUnit": "セイバールート三日目-01:page18:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "The wind is starting to pick up.\nIt's so cold, my cheeks start to sting.\nFuyuki typically isn't cold at night during winter, but tonight's certainly an exception.",
+      "sourceUnit": "セイバールート三日目-01:page19:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy breath fogs the air with every exhale.",
+      "sourceUnit": "セイバールート三日目-01:page20:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"No wonder it's darker than usual; the moon's hidden tonight.\"\nI look up, and there's no light in the sky.\nThe strong winds send the clouds speeding across the night sky.\nCurfew is long past, and there's no sign of life in the empty school.",
+      "sourceUnit": "セイバールート三日目-01:page21:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Not so much as a sound can be heard on campus, and it seems to be covered with colder air than any place in town.\n\"...?\"\nI think...\nI heard something.",
+      "sourceUnit": "セイバールート三日目-01:page22:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I do hear something. Is it coming from the schoolyard?\"\nThat night, under the frosty sky...\nI guess I just got curious about the sound that broke the hushed silence.\nSo I headed toward the sound to investigate.",
+      "sourceUnit": "セイバールート三日目-01:page23:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I go to the schoolyard.\n\"Is that...people?\"\nIt looks that way, at least from a distance.\nIt's just so damn dark.\nI need to get closer if I want to find out more.",
+      "sourceUnit": "セイバールート三日目-01:page24:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The sounds grow louder, more intense.\n...I know that sound. It's clashing metal.\nIt sounds like a fight.",
+      "sourceUnit": "セイバールート三日目-01:page25:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"This is so stupid. What the hell am I thinking?\"\nI'm being stupid, obviously. Who would ever fight in a school courtyard with weapons like that?",
+      "sourceUnit": "セイバールート三日目-01:page26:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "And then.\nIt was probably a gut instinct that sensed the danger. Or maybe keeping out of sight as I approached was just a stroke of luck.\nWhatever the reason, I hid behind a tree big enough to conceal me, and took a closer look at the source of the sound.\nThere, my mind froze.",
+      "sourceUnit": "セイバールート三日目-01:page27:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nI can't comprehend what I'm seeing.\nA man in red and a man in blue.\nThe two of them are clad in armor so ancient it's several steps beyond old-fashioned. It's a ridiculous sight, but their rapid, deadly movements make clear that their fight is no joke.",
+      "sourceUnit": "セイバールート三日目-01:page28:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I don't understand.\nI can't even follow their movements; they're too fast.\nTheir movements look so surreal, my mind can't function properly.\nThe sound of their clashing weapons is the only thing convincing me the two of them are actually fighting to the death.",
+      "sourceUnit": "セイバールート三日目-01:page29:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut there's one thing I'm sure about:\nThey're not human. They have to be something else, in the guise of humans.\nMy magecraft training isn't why I know this.\nAnyone could see that these two aren't human.\nTo start, humans just can't move like that.\nNobody should get involved with whatever that is.\n...\nI can feel their intent to kill, even from a distance.\nI'm going to die.\nMy body instinctively knows before my brain kicks in...that I just won't live if I stay here.\nMy racing heart is proof of that.\nI sense they're living things designed only to kill.\n...\nNo knife or blade would be a match for whatever they're wielding. They are clearly meant only to kill.\nI suddenly remember yesterday's murders.\nThe family that fell victim is said to have been killed by a bladed weapon.\n\"...Damn!\"\nI shouldn't stay and watch another second.\nBut I can't move a muscle; I can hardly breathe.\nMy mind is telling me to flee.\nBut something else tells me they'll find me the second I move.\nMore than any internal conflict though, I am just...paralyzed.\nI'm more than forty meters away from them, but I still imagine getting stabbed in the back with that spear. I can't breathe.\n...\nThe sounds stop.\nThe two figures separate and stand, facing each other.\nJust as I'm starting to feel a sense of relief that the fight's over, another, stronger sense of malice creeps over me.",
+      "sourceUnit": "セイバールート三日目-01:page30:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wha...\"\nMy heart feels like it's shriveled up in my chest.\nThe numbness in my body turns to convulsions, and I clench my teeth in an effort to compose myself.",
+      "sourceUnit": "セイバールート三日目-01:page31:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Unbelievable! Who the hell is that guy!?\"\nA nauseatingly high amount of magical energy flows into the man in blue.\nKiritsugu once demonstrated to me how to draw in magical energy from one's surroundings.\nIt was a kind of magecraft so beautiful that it impressed even an apprentice mage like me.",
+      "sourceUnit": "セイバールート三日目-01:page32:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "But this is different.\nThe same way even the simple act of drinking water can look revolting if done excessively...\n...the man in blue appears to be...binge-eating. The sight is so extreme that anyone with magical energy would find it repulsive.",
+      "sourceUnit": "セイバールート三日目-01:page33:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe's going to die.\nThe man in red is dead meat.\nThe attack will be infused with more magical energy than anyone could possibly defend against.",
+      "sourceUnit": "セイバールート三日目-01:page34:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "He's going to die.\nThat inhuman...something in the guise of a man is going to die.\nBut can I...",
+      "sourceUnit": "セイバールート三日目-01:page35:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Can I...",
+      "sourceUnit": "セイバールート三日目-01:page36:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Can I just let this happen?",
+      "sourceUnit": "セイバールート三日目-01:page37:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "That question shakes me out of my paralysis.\nMy body is suddenly free, and I take a deep breath.\n\"WHO'S THERE!?\"\nThe man in blue glares in my direction.",
+      "sourceUnit": "セイバールート三日目-01:page38:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"!!!\"\nThe man in blue crouches in a way that tells me one thing:\nI'm his new target.",
+      "sourceUnit": "セイバールート三日目-01:page39:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"!!!!!!\"\nMy legs are moving before I even have the thought of running.\nThe rest of my body finally realizes it's time to flee for my life, and suddenly all my energy is being poured into doing exactly that.",
+      "sourceUnit": "セイバールート三日目-01:page40:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "I don't remember where I ran through or how I got there, but I'm in the school building.",
+      "sourceUnit": "セイバールート三日目-01:page41:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Real genius here.\"\nI regret my own actions as I huff and puff.\nI should've run toward town.\nI've got to be the world's biggest idiot, thinking I can escape by running into an empty building.",
+      "sourceUnit": "セイバールート三日目-01:page42:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "A school, of all places. There must've been other, better places to hide.\nAnd what the hell convinced me I'd die if I didn't run to begin with!?",
+      "sourceUnit": "セイバールート三日目-01:page43:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnh...hnnh...hnnh...\"\nMy chest burns from all the running.\nI turn around, but I don't sense anything pursuing me.\nThe only sound is my own footsteps.",
+      "sourceUnit": "セイバールート三日目-01:page44:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnh...hnnh...hnnh...\"\nI can finally stop.\nMy feet can barely move another step. I gulp down lungfuls of air, trying to slow my heart down, and I breathe a sigh of relief. I survived.",
+      "sourceUnit": "セイバールート三日目-01:page45:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Ghh... What the hell was all that?\"\nI try to recall what I just saw as I catch my breath.\nOne thing's for sure: I definitely wasn't meant to see that.",
+      "sourceUnit": "セイバールート三日目-01:page46:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Things that looked human fighting in the schoolyard at night...\nThat's all I can really remember.\nBut I'd seen something else out of the corner of my eye...\n\"I think there was also someone else...\"\nI can't remember what they looked like, though.\nHonestly, I couldn't afford to look at anything other than the two figures locked in combat.",
+      "sourceUnit": "セイバールート三日目-01:page47:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"But finally—\"\n\"Guess our little game of hide-and-seek ends here, huh?\"\nThe voice comes from right in front of me.",
+      "sourceUnit": "セイバールート三日目-01:page48:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. You ran pretty far.\"",
+      "sourceUnit": "セイバールート三日目-01:page49:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't breathe.\nMy mind goes blank. I can't think.\nBut I know that I am going to die.",
+      "sourceUnit": "セイバールート三日目-01:page50:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"There's no way out of this. You get that, right? Don't worry. It's always like this when you're about to die. Nothing to be ashamed of.\"\nAnd with that...\n...he raises his spear.",
+      "sourceUnit": "セイバールート三日目-01:page51:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, kid. You're just unlucky today. But you saw what you saw, so you gotta die.\"\nNo mercy. No compassion. His spear pierces my heart.",
+      "sourceUnit": "セイバールート三日目-01:page52:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "I didn't even have time to dodge.\nNo training I ever did prepared me for this.\nI knew I was going to die.\nI knew the spear was going to impale me, but I couldn't move.",
+      "sourceUnit": "セイバールート三日目-01:page53:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah..hh...\"\nThe world distorts around me.\nMy body grows cold.\nNumbness creeps from my fingertips into the rest of me.\n\"Hrrk...\"\nI cough up blood. Once.",
+      "sourceUnit": "セイバールート三日目-01:page54:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "I felt like there should've been more. But it was just the one cough.\nThat spear must have been special.\nMy blood slows and grows stagnant. My heart just stops, all from a single strike of that spear.",
+      "sourceUnit": "セイバールート三日目-01:page55:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't see anything.\nI don't feel anything.\nI'm like a jellyfish, floating in the dark sea at night.\nI stopped feeling pain long ago.\nThe world has turned white. I'm the lone dark spot.\nSo rather than being aware that I died...\nIt just feels like everything around me has ceased to exist.",
+      "sourceUnit": "セイバールート三日目-01:page56:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I know this.\nI experienced the same thing ten years ago.\nThis is what dying feels like.",
+      "sourceUnit": "セイバールート三日目-01:page57:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Dead men tell no tales. But the weak dying is just the order of things.\"\nMy eyes can't focus.",
+      "sourceUnit": "セイバールート三日目-01:page58:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"It's a dirty thing you made me do. After what I just did, calling me a hero seems like a bad joke.\"\nI can only hear his voice.",
+      "sourceUnit": "セイバールート三日目-01:page59:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. I'm not complaining. At least I saw the girl's Servant, so I'll head back.\"\nHe sounds so...irritated.\nAfterwards, I hear footsteps fading down the hallway.",
+      "sourceUnit": "セイバールート三日目-01:page60:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, huh? I want to settle the score, but I'm in no position to ruin my Master's plans. Damn. My Master's a nasty one.\"\nThe voice suddenly disappears.\nHe must have jumped out the window.\nAfterwards...",
+      "sourceUnit": "セイバールート三日目-01:page61:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "The footsteps I heard earlier stop.\nThere's an awkward silence.\nThen footsteps again.\nI can't hear...that well...anymore...",
+      "sourceUnit": "セイバールート三日目-01:page62:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Go after him, Archer. Lancer will probably go back to his Master. We need to at least find out what his Master looks like.\"",
+      "sourceUnit": "セイバールート三日目-01:page63:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I don't know who's talking.\nI muster up all my concentration as my mind fades, but I still can't put my finger on it.\nAll I can hear now is the sound of my breathing.\nMy lungs must still be functioning.\nI hear a loud, whistling sound coming from my mouth, like a passing typhoon.",
+      "sourceUnit": "セイバールート三日目-01:page64:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm impressed he's not dead yet.\"",
+      "sourceUnit": "セイバールート三日目-01:page65:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I sense somebody peering into my face.\nMy breathing must be loud, as the person reaches their finger out to try to close my mouth.",
+      "sourceUnit": "セイバールート三日目-01:page66:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop. Seriously, why does it have to be you?\"\nWhoever it is, they grit their teeth, seeming troubled.\nThe moment I hear that sound, the person touches me without hesitation.",
+      "sourceUnit": "セイバールート三日目-01:page67:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Forging and replacing an entire heart... Honestly, if this works, I should be a shoo-in for the Clock Tower.\"\nThe voice sounds distressed.\nBut at that moment, my fading consciousness finally flickers to nothing.",
+      "sourceUnit": "セイバールート三日目-01:page68:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nSensation returns to my body.\nSlowly, little by little, my bodily functions return...like dew drops trickling down a leaf.",
+      "sourceUnit": "セイバールート三日目-01:page69:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "...\nDrip...drip...\nWhat's going on?\nThe person hovering over me is sweating, intensely focusing on where their hands are pressed against my chest.",
+      "sourceUnit": "セイバールート三日目-01:page70:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe next thing I know, the palm over my chest grows extremely hot.\nIt's so hot, my corpse jolts and my cold, stagnated blood starts to flow again.",
+      "sourceUnit": "セイバールート三日目-01:page71:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nI sense the person take a deep breath and sit down.\n\"I'm beat.\"\nClink. I hear something fall.\n\"Well, I guess I couldn't help it. Forgive me, Father. Your daughter is just an extremely heartless person.\"",
+      "sourceUnit": "セイバールート三日目-01:page72:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "That was it.\nThe person mocks themself, and leaves.",
+      "sourceUnit": "セイバールート三日目-01:page73:1"
+    },
+    "page77": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page78": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

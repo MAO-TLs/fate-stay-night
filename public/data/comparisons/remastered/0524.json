@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0524",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Zouken Matou stands there, looking just as he did the night before.\nHe looks completely intact, even after Archer cut him in two.\nThe old mage, waiting only for death to claim him, laughs, as if the other night's events were all a dream.",
+      "sourceUnit": "桜ルート八日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "His methods are a mystery, but if he's truly recovered, then they must be in the realm of restoration, not just healing.\nYou can't accomplish this by just healing a wound.\nIt's grand magecraft which returns a lost body from nothing to its original form.\nSo...does that mean he's immortal?",
+      "sourceUnit": "桜ルート八日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you expect to accomplish by swinging a stick, boy?\"\n...\nI face down Zouken with a Strengthened kyousaku stick.",
+      "sourceUnit": "桜ルート八日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I can't get any closer to him, nor can I run away to join Saber.\n...If Zouken is immortal, then there's nothing I can do against him with a stick.",
+      "sourceUnit": "桜ルート八日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Will you attack me, or go after your Servant? Either way, nothing will happen until you move your feet.\"\nInsects squirm and chitter all around the old mage.\nNo, not just around him.\nI can see the shadows moving, blocking out the moonlight.",
+      "sourceUnit": "桜ルート八日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Bugs.\"\nI know what they are, even if I can't see them.\nThe darkness is a disgusting horde of insects.\nDarker than black, they fill all four corners of the shrine room, covering every wall.\nThe room is completely overrun by the bugs teeming over the walls, and the stench of rotten meat.",
+      "sourceUnit": "桜ルート八日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Why do you hesitate? You were the ones who disemboweled me the other day. Didn't you join forces with the Tohsaka girl to defeat me?\"",
+      "sourceUnit": "桜ルート八日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...The insect-wielding Zouken is clearly enjoying this.\nObviously, I can't do a damn thing about the swarms of insects with a stick.\nZouken only needs to give the order to drown me in a sea of bugs.",
+      "sourceUnit": "桜ルート八日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "No, maybe...\nIf I run outside as fast as I can, I might be able to break out of this desperate situation.\nThere's a lot of them, but they're just bugs.\nI doubt they can take out a whole human in a matter of seconds.",
+      "sourceUnit": "桜ルート八日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Whatever you do, I can wait.\nWill you believe in Saber and wait for her return? Kill me with that weapon? Or break past my worms and run outside! The choice is yours.\"",
+      "sourceUnit": "桜ルート八日目-05:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

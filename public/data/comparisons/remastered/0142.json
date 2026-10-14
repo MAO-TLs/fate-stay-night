@@ -1,0 +1,521 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0142",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm having a bad dream.",
+      "sourceUnit": "セイバールート十日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "My body, injured as it is, demands long, deep sleep.\nBut my mind is still stuck replaying all that happened today, and won't let me rest peacefully.\nMy body, still not fully healed, is burning. My mind is plagued with guilt.",
+      "sourceUnit": "セイバールート十日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I think I'm crying out in my sleep.\nAs I sleep, my dream drags on.",
+      "sourceUnit": "セイバールート十日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...How many victims were there?\nTohsaka said there were no deaths, but that might just be the official story.\nNo way does someone come out unscathed after having their life force ripped from them.\nThey could suffer any number of long-term physical problems in years to come, or even brain damage from lack of oxygen.\nSome students even had severe skin damage.\nEven if they heal, they'll likely have scars for the rest of their lives.",
+      "sourceUnit": "セイバールート十日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...My body hurts.\nI nearly died today... No, I did die today. A convulsion rocks my whole body.\nBad luck for everyone who got sucked into this today, but you did well, Shirou.\nYou stopped a catastrophe, and you did it by taking a wound that would normally kill you.\nThere's nothing to feel guilty about.\nThe pain tries to tell me to just go to sleep.",
+      "sourceUnit": "セイバールート十日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "No.\nI can't make excuses for myself.",
+      "sourceUnit": "セイバールート十日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't matter. There was a disaster, and I just happened to be there. But I couldn't do anything.\nThey're saying I saved lives.\nBut...I didn't save anyone. Not one person.\nIf only this had just been a mistake, if only it hadn't happened...then my mind would be at peace and I could sleep.",
+      "sourceUnit": "セイバールート十日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...I'm pissed off.\nIt's absurd, my heart complaining like this when my body's already so weak.",
+      "sourceUnit": "セイバールート十日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "There won't be a miracle like that.",
+      "sourceUnit": "セイバールート十日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Just wishing for a do-over because things didn't go well, or were so terrible they should never have happened...is pathetic.\nYou can't take back what's already done.\nIt's not possible, and shouldn't be attempted anyway.",
+      "sourceUnit": "セイバールート十日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "So I can't just pretend all that didn't happen.\nThere's only one thing I can do: make sure I do everything I possibly can to prevent anything like that from ever happening again.",
+      "sourceUnit": "セイバールート十日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "That's enough sleep.\nI can worry about my body later.\nIf I can move, I should wake up and hit the ground running.\nIf my goal is to make sure no one is hurt, I'll need to push myself to the verge of death—",
+      "sourceUnit": "セイバールート十日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I open my eyes.\nI take one deep breath, filling my lungs with air.",
+      "sourceUnit": "セイバールート十日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haaa.\"\nThe frigid winter air dispels my drowsiness almost instantly.\nI realize it's just past six in the morning. Habits really are extraordinary things.\nMy body must have at least partly recovered, since I'm waking up at my usual time.",
+      "sourceUnit": "セイバールート十日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay.\"\nI stand up and fold up my futon blanket.\nThe instant I undertake even such a mundane task...\n...intense pain spikes through my left shoulder.",
+      "sourceUnit": "セイバールート十日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh. Yeah, I guess I'm not completely healed.\"\nIt's only pain, though.\nThis is far better than what I felt when Berserker tore out my stomach the other day.\nWhen that happened, my insides felt like they were slush, and the nausea was far more intense than the pain.",
+      "sourceUnit": "セイバールート十日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I head out to the hallway.\nThe sunlight is muted by the gloom outside.\nIt's cloudy; looks like it's going to rain.",
+      "sourceUnit": "セイバールート十日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Have you awoken?\"\n\"Yeah. I just woke up. You're up early. You're usually asleep around now.\"\nYeah, Saber's not typically up so long before breakfast.",
+      "sourceUnit": "セイバールート十日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I do not sleep because I want to. I have mentioned this before, but I only sleep until breakfast to conserve my magical energy.\nI would appreciate you not suggesting that I have been merely sleeping in.\"",
+      "sourceUnit": "セイバールート十日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? I didn't mean for it to sound like that.\nI was more asking if it was okay for you to be awake so early.\"\n\"Oh, were you? So you are saying that you find me being an early riser odd...\"",
+      "sourceUnit": "セイバールート十日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Saber sounds crabby.\nMaybe it's my imagination.\nSaber doesn't seem quite as...reserved as usual.",
+      "sourceUnit": "セイバールート十日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I didn't say it was strange... I was just wondering if it was okay.\nIt's my fault that you need to sleep so much. So don't you need to sleep as much as possible today too?\"",
+      "sourceUnit": "セイバールート十日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. But I am simply remaining on standby. I am sleeping in anticipation of emergencies, so I do not think it is logical for me to sleep right now.\"",
+      "sourceUnit": "セイバールート十日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, it's not logical? We're not fighting anybody right now, and nobody's attacking us.\"\n\"Ah...um, well, that is...\"\nSaber's stumbling over her words... It seems like there's something she doesn't want to say.",
+      "sourceUnit": "セイバールート十日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, whatever. There's no emergency, so you should sleep until the next time we go out.\nI'll call you up when breakfast's ready, so just save your strength until then. I'm going to need your help all day today.\"\nI head to the kitchen.",
+      "sourceUnit": "セイバールート十日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Please wait, Shirou.\"\n\"Huh? What, do you have something els—\"",
+      "sourceUnit": "セイバールート十日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What did you just say you were going to do?\"",
+      "sourceUnit": "セイバールート十日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nI hold my breath, barely realizing I'm doing it.\nShe's asked me something, but her eyes are preventing me from giving an answer.",
+      "sourceUnit": "セイバールート十日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You should be resting.\nRin will prepare breakfast. Your priority is recuperating in your room and letting your body heal. If you do not understand this, then I will not hear your answer to my question.\"",
+      "sourceUnit": "セイバールート十日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...\"\nSaber's being so stern because she's genuinely concerned about me.",
+      "sourceUnit": "セイバールート十日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Please return to your room, Shirou. You are the one who should be sleeping, not me.\"\nSaber sees right through me, and glares at me all the more intensely.\nBut still...I can't let Shinji let loose.",
+      "sourceUnit": "セイバールート十日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'm not going to go back to my room. I've rested enough, and there are things I need to do. Once we're ready, let's head out to town, Saber. We're going to catch Shinji. Today.\"",
+      "sourceUnit": "セイバールート十日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? There is no particular reason we need to capture Rider's Master today. If we are to fight, we should do it after your wounds have healed. It will not be too late.\"\n\"You've got it wrong, Saber. If we're setting priorities, my body is at the bottom of the list.\"",
+      "sourceUnit": "セイバールート十日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"We don't have the luxury of waiting. You know exactly what Shinji is willing to do. We need to separate him from Rider before they make another Bounded Field. He won't be a threat if he doesn't have a Servant.\"",
+      "sourceUnit": "セイバールート十日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"So you are saying you do not want more victims, like yesterday. Is that why you are doing this? Not to defeat Rider's Master?\"",
+      "sourceUnit": "セイバールート十日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. I'm going to hold Shinji accountable. To do that, we need to defeat Rider.\nAnd it's the right thing to do, to prevent more victims. That's the most important reason we have to fight.\"",
+      "sourceUnit": "セイバールート十日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see.\nIf that is Master's command, I will obey.\"",
+      "sourceUnit": "セイバールート十日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Find Shinji? Well, I don't really have a problem with that, but you're saying this because you think you have a chance at winning, right?\"",
+      "sourceUnit": "セイバールート十日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "It's after breakfast.\nThat's Tohsaka's immediate response when I say we can't just let Shinji remain on the run.",
+      "sourceUnit": "セイバールート十日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? You're asking about my chances of beating Shinji?\"\n\"That's right. I'll be honest here, if you're planning on going up against a Master without a hope of winning, I'm going to die laughing.\"",
+      "sourceUnit": "セイバールート十日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...um...\"\n...Crap.\nNow that she mentions it, I've really only thought about stopping Shinji. I haven't given much thought to the details. Or...any.",
+      "sourceUnit": "セイバールート十日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...Emiya, are you serious!?\"\n\"Ugh...sorry. Laugh all you want.\"\n\"Oh. Wow. Sorry, that's really not funny.\"",
+      "sourceUnit": "セイバールート十日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Ugh... That reaction makes it clear just how stupid I'm being. I want to curl up into a little ball and hide.",
+      "sourceUnit": "セイバールート十日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Your Master's talking nonsense, so what do you think? Do you have a problem with fighting Rider?\"",
+      "sourceUnit": "セイバールート十日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I have no qualms about fighting Rider. I have already assessed her strength.\nAnd I believe Shirou has also gauged her abilities. He confronted her directly as well.\"",
+      "sourceUnit": "セイバールート十日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? So Shirou knows how strong she is too?\"\nTohsaka looks my way, her eyes curious.\nShe obviously wants to know about how strong Rider is.",
+      "sourceUnit": "セイバールート十日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "True, I do have...something of an assessment.\nMaybe it's because I've formed a contract with a Servant, or maybe it's the power of the Command Spells.\nShe may not be my Servant, but I have some understanding of her abilities since I've seen her fight.\nRider wasn't an especially strong Servant.",
+      "sourceUnit": "セイバールート十日目-00:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider isn't as strong as Saber. If they fight one-on-one, I don't see Saber losing.\"",
+      "sourceUnit": "セイバールート十日目-00:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So you do have a chance at winning.\nShinji's not a mage, so Rider can't get any support from her Master. So it'll come down to a duel between Saber and Rider.\"",
+      "sourceUnit": "セイバールート十日目-00:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka's right.\nAs long as Shinji's a Master, Rider has to fight on her own.\nSaber shouldn't be at a disadvantage, but...",
+      "sourceUnit": "セイバールート十日目-00:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Why the long face? There a problem?\"",
+      "sourceUnit": "セイバールート十日目-00:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Listen, Tohsaka...even though Saber had Rider cornered, and Saber is waaay superior in combat, Rider managed to escape with Shinji.\nI think it was Rider's Noble Phantasm...\"",
+      "sourceUnit": "セイバールート十日目-00:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "The arrow of light that tore through the hallway.\nIf Saber hadn't shoved me to the ground, that wave of destruction would have completely annihilated me.\nIf that was Rider's ace in the hole, we shouldn't take her lightly...even if she is weaker.",
+      "sourceUnit": "セイバールート十日目-00:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm? So that means Rider is one of those types whose Noble Phantasm is more powerful than the Servant itself.\"",
+      "sourceUnit": "セイバールート十日目-00:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Saber. Shirou aside, you must have been able to tell what Rider's Noble Phantasm was, right? You should have some idea since it was deployed in front of you.\"",
+      "sourceUnit": "セイバールート十日目-00:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I must apologize. I was so intent on protecting Shirou, I was not able to determine what it was.\nHad I taken the time to do so, Shirou and I would have been caught up in it.\"",
+      "sourceUnit": "セイバールート十日目-00:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Caught up in it? Is Rider's Noble Phantasm a projectile?\"",
+      "sourceUnit": "セイバールート十日目-00:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"It certainly seemed similar to one. It can likely be classified as something close to your magecraft. That was not an anti-personnel Noble Phantasm, like my sword or Lancer's spear.\"",
+      "sourceUnit": "セイバールート十日目-00:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"It's close to my magecraft? That doesn't sound right.\nYour magic resistance is god-tier. Modern magecraft just can't hurt you. If there was magecraft you actually needed to avoid, it would be...\"",
+      "sourceUnit": "セイバールート十日目-00:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Mystics would have to be nullified with even stronger Mystics.\nThe only type of Mystics that can penetrate my armor would be what you call True Magic, or Phantasmals of the divine realm.\"\n\"True Magician...are you trying to say that Rider is a mage!?\"",
+      "sourceUnit": "セイバールート十日目-00:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I did not feel that much magical energy from her.\nShe is Rider. If there is a True Magician around, it could only be Caster. Rider's Noble Phantasm is likely something different.\"",
+      "sourceUnit": "セイバールート十日目-00:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Saber's answer gets a sigh of relief from Tohsaka.\nI don't quite get what's going on though.",
+      "sourceUnit": "セイバールート十日目-00:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Is your armor that strong? You say only True Magic can penetrate it, so does that mean Lancer's Gáe Bolg is True Magic?\"",
+      "sourceUnit": "セイバールート十日目-00:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Yes. You're right, Lancer's Gáe Bolg is a curse, close in power to True Magic. Rin, would you care to explain this to Shirou?\"",
+      "sourceUnit": "セイバールート十日目-00:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Me? Well, fine. Let's just cut to the chase: you believe Saber can only be injured by True Magic, right?\"",
+      "sourceUnit": "セイバールート十日目-00:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, well...that's not what I'm saying...\nBut I just thought it was amazing that her armor's that strong.\"",
+      "sourceUnit": "セイバールート十日目-00:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course it's amazing. All Servants are Heroic Spirits...not just Saber, you know? They're spirits, so they can't be harmed by ordinary means, since Servants themselves are Mystics.\"",
+      "sourceUnit": "セイバールート十日目-00:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Only fellow Servants, since they're also Heroic Spirits, can physically harm other Servants. On the flip side, so long as we're dealing with a Servant, they could wound Saber even if they grabbed something like a paper cutter.\"",
+      "sourceUnit": "セイバールート十日目-00:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"So what you're saying is that Saber's armor isn't invulnerable when she's dealing with another Servant.\"",
+      "sourceUnit": "セイバールート十日目-00:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. But Saber is skilled at close combat, so there's no way she'd be wounded in hand-to-hand combat.\nThe only other method would be to attack her form a long distance... Like with a magecraft projectile. But Saber has, despite being a knight, remarkable magic resistance, so she can deflect most magecraft.\"",
+      "sourceUnit": "セイバールート十日目-00:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Curses, the epitome of bad luck, can't touch her, while more direct intervention, like firing magical energy at her like arrows, also won't work.\nIf someone wants to defeat Saber, they'll have to fight her head-on and beat her that way.\"",
+      "sourceUnit": "セイバールート十日目-00:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Saber listens silently to Tohsaka's explanation.\nSaber never interrupts her, probably because everything Tohsaka's saying is true.",
+      "sourceUnit": "セイバールート十日目-00:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell? That's like cheating.\nSomeone would try to go up against Saber with magecraft because they can't beat her in single combat? But if magecraft itself is useless against her, what can they do?\nThat sounds unfair.\"",
+      "sourceUnit": "セイバールート十日目-00:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"That may be true. But it doesn't mean Saber is unbeatable in hand-to-hand combat.\nBerserker is much stronger than Saber, and even Lancer has his spear, which can be fatal.\nAnd we were just talking about Rider having a Noble Phantasm that could beat even Saber. So we're not saying Saber is perfect.\"",
+      "sourceUnit": "セイバールート十日目-00:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Even we have ways to defeat Saber.\nWe just need to use magecraft that exceeds Saber's magic resistance, or borrow a weapon wielded by a Servant to cut her head off while she's sleeping... Servants' weapons are spiritual too, so they should be able to hurt her.\"",
+      "sourceUnit": "セイバールート十日目-00:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nIt's an alarming example, but I get it.\nWait. But hold on, Tohsaka...\nWe probably shouldn't be talking about things like this in front of Saber.",
+      "sourceUnit": "セイバールート十日目-00:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I see...\nSo it's not that Rider's Noble Phantasm was exceptional; Saber just went on the defensive because it was a Servant that was attacking.\"",
+      "sourceUnit": "セイバールート十日目-00:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"You got it wrong. If Saber was focusing on defending, Rider wouldn't be able to finish her off alone. If Rider isn't a particularly exceptional Heroic Spirit, it wouldn't amount to much, even with her Noble Phantasm in the mix.\nDo you agree, Saber? You think Rider's Noble Phantasm is unrelated to her abilities, right?\"",
+      "sourceUnit": "セイバールート十日目-00:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Most likely, yes. I believe it was an autonomous weapon that does not rely on Rider's skill, and that it has an effect on the Noble Phantasm itself.\nIt is either magecraft or Phantasmal.\nWhatever it is, the intensity from the magic circle was overwhelming. I do not think many Servants could survive a direct strike.\"",
+      "sourceUnit": "セイバールート十日目-00:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? By how much, quantifiably?\"\n\"If I were to describe it in your terms, I would rank it at perhaps A+. This is a matter of opinion though, as I am not certain.\"",
+      "sourceUnit": "セイバールート十日目-00:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"A+!? That's one step below True Magic!\nWhoa, I can't believe it didn't just blow the entire school to bits!\"",
+      "sourceUnit": "セイバールート十日目-00:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"It must not be a purely destructive Noble Phantasm. It may have originally served a different purpose.\"",
+      "sourceUnit": "セイバールート十日目-00:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Maybe. But this is a problem. According to Saber, it's beyond an A rank. In terms of raw power, that attack might be one of the strongest out of all the Servants.\"",
+      "sourceUnit": "セイバールート十日目-00:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Yes it did seem like it was a Noble Phantasm that excels in both offense and defense...however my Noble Phantasm is more...\"\nSaber's face is indecipherable.",
+      "sourceUnit": "セイバールート十日目-00:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI don't know what just happened.\nSaber doesn't look amused.",
+      "sourceUnit": "セイバールート十日目-00:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Did Tohsaka's say something that worries you?\"\n\"Eh? Oh, no. It is nothing...but I do believe it is inappropriate for a knight to ask another for their opinion of who is stronger.\"",
+      "sourceUnit": "セイバールート十日目-00:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nShe's acting strange.\nSaber seems embarrassed by her own actions, and starts to mutter under her breath.",
+      "sourceUnit": "セイバールート十日目-00:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, whatever. By the way, I thought I heard you say something weird. Something about Saber and Lancer being anti-personnel or something.\"",
+      "sourceUnit": "セイバールート十日目-00:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you mean an anti-personnel Noble Phantasm? Well, it is what the word suggests. My Invisible Air and Lancer's Gáe Bolg are armaments that are strictly used to defeat people.\nNo matter how powerful the magical energy or curse it may possess, it cannot be used against something else.\"",
+      "sourceUnit": "セイバールート十日目-00:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "...Well, I guess that makes sense.\nSaber's invisible sword is definitely useful in battle.",
+      "sourceUnit": "セイバールート十日目-00:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "But that's only effective against people.\nIf you chopped firewood with Saber's sword, whether you can see the blade or not isn't going to affect how quickly you can chop wood.\nIt's the same with Lancer's Gáe Bolg.\nEven a cursed spear that always strikes the heart is just a sharp spear if you use it against a boulder or a house.",
+      "sourceUnit": "セイバールート十日目-00:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So that's why it's called an anti-personnel Noble Phantasm.\nWhich means Rider's Noble Phantasm is...\"",
+      "sourceUnit": "セイバールート十日目-00:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"It would be an anti-army Noble Phantasm. Actually, I heard from Father about this once; certain Noble Phantasms are designated anti-personnel, and others as anti-army.\"",
+      "sourceUnit": "セイバールート十日目-00:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"The simple way to understand it is this: an anti-personnel Noble Phantasm is like a gun with unlimited ammo, but an anti-army Noble Phantasm is like a missile you can only launch once.\nRider's Noble Phantasm may be powerful, but it probably has limited uses. At the very least, it doesn't generate a continuous effect like Saber's sword being invisible.\"",
+      "sourceUnit": "セイバールート十日目-00:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\nHold on a minute.\nA gun versus a missile... There's no contest.\nSure, Saber's invisible sword is awesome, but if she goes up against a ridiculous Noble Phantasm like that, she'll be dead before she can even swing her sword...",
+      "sourceUnit": "セイバールート十日目-00:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're saying that if we're going to fight Rider, we need to defeat her before she deploys her Noble Phantasm.\"",
+      "sourceUnit": "セイバールート十日目-00:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Most likely. You've got no chance if it becomes a battle of Noble Phantasms.\nIf you're going to find Rider and Shinji, you should at least keep that in mind.\nThe biggest requirement is for you to defeat Rider before she deploys her Noble Phantasm.\nThe longer you draw out the fight, the more of a disadvantage you'll be at.\"",
+      "sourceUnit": "セイバールート十日目-00:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Or you can defeat Rider's Master while I battle Rider. He is not able to fight, so that might be the better plan.\"",
+      "sourceUnit": "セイバールート十日目-00:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "So that's what we've come up with.\nSince we have no strategy to deal with Rider's Noble Phantasm, we just need to defeat Rider before she uses it.\nWhatever Noble Phantasms other Servants have, we still don't want to have to deal with Rider's.",
+      "sourceUnit": "セイバールート十日目-00:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for the warning, Tohsaka.\nWe're going to go find Shinji, but what do you want to do, Tohsaka? Will you stay and watch the house?\"",
+      "sourceUnit": "セイバールート十日目-00:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, if you'd insisted, we could've come with you to look for Shinji. But, I'll pass.\"\nRider isn't the only enemy. We can't forget that we teamed up initially to beat Berserker.\nSo while you're out pursuing Shinji, I have something else to do.\"",
+      "sourceUnit": "セイバールート十日目-00:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka stands up with a frosty smile.\n\"See you. I look forward to hearing some good news.\"",
+      "sourceUnit": "セイバールート十日目-00:page101:1"
+    },
+    "page102": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

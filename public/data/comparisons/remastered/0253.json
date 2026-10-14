@@ -1,0 +1,251 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0253",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Club practice ends by the time the sun sets.\nThe sun goes down early in winter, and they must be taking into account the incidents that have been happening lately.",
+      "sourceUnit": "凛ルート四日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah Mitsuzuri, where is Shinji? I haven't seen him.\"\n\"He's ditching. Maybe he got a girlfriend, but he's been like that recently.\"\nMitsuzuri says it as if it's nothing and makes her way towards the school building.",
+      "sourceUnit": "凛ルート四日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"See you later. I have some business at the teacher's office.\"\nThe kyudo captain leaves, fiddling with the room key.",
+      "sourceUnit": "凛ルート四日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We're at the front gate.\nWith the sun setting on the town below us, I part with the others along with Fuji-nee, Sakura, and Saber.",
+      "sourceUnit": "凛ルート四日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye, Ms. Fujimura!\"\n\"Don't bully Emiya, Taiga!\"\nEveryone sees us off in high spirits as we start down the hill.",
+      "sourceUnit": "凛ルート四日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "We descend back into town.\nBeside me are Sakura and Fuji-nee, and Saber follows slightly behind us.",
+      "sourceUnit": "凛ルート四日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? Why is that girl following us?\"\nWell...\nIt seems as though she didn't think anything of it at the time, but is finally catching on.",
+      "sourceUnit": "凛ルート四日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Shirou. Do you know her?\"\nThis is the second time someone's asked me today. Thanks to Mitsuzuri for giving me a rehearsal, I'm able to answer without hesitation.\n\"Of course I know her. I'm the one who brought her.\"\nI answered as nonchalantly as I can.",
+      "sourceUnit": "凛ルート四日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"T-that's what I thought... So, Senpai, how do you know her...?\"\n\"Yeah. I didn't know you had a foreign friend.\"",
+      "sourceUnit": "凛ルート四日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, not a friend, but she's an acquaintance of my father. She's the daughter of someone my old man met when he was flying around the world.\"\n\"Kiritsugu's? So she came to visit Kiritsugu?\"",
+      "sourceUnit": "凛ルート四日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. She'll be staying at my place for a while, so please do your best to be accommodating.\"\n\"...What?\"",
+      "sourceUnit": "凛ルート四日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Both Sakura and Fuji-nee react in the same way at the exact same time.\nWell, if I was told \"that girl will start living with you today,\" then it would be weirder to not be surprised.",
+      "sourceUnit": "凛ルート四日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Wai—S-Shirou, are you saying you're going to be living with her...!?\"",
+      "sourceUnit": "凛ルート四日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Saber is only staying for a short while. I'm just giving her a place to stay. It's nothing to be so shocked by.\"",
+      "sourceUnit": "凛ルート四日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um. Senpai, is her name Saber...?\"",
+      "sourceUnit": "凛ルート四日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, it's a rare name. She's not used to Japan, so she might act differently... Oh, also she seems unapproachable, but she's actually really nice. Sakura, it would be helpful if you could be friends with her.\"",
+      "sourceUnit": "凛ルート四日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. That's fine, but...\"\nSakura doesn't make eye contact with me and looks at Fuji-nee as if pleading for help.",
+      "sourceUnit": "凛ルート四日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura. Do you approve of Saber staying over?\"",
+      "sourceUnit": "凛ルート四日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... I can't approve of it as a teacher, but I can't ignore someone who came for Kiritsugu... She looks responsible, so I don't think anything will happen. Right, Shirou?\"\nShe gives me a sidelong glance.",
+      "sourceUnit": "凛ルート四日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"O-of course. Kiritsugu's guest is my guest. I'm not gonna be rude to her. If anything, she's like a little sister.\"\n\"Hmm. By the way, how old is she? She looks younger than Sakura.\"",
+      "sourceUnit": "凛ルート四日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Um, well...something like that.\"\n\"...\"\nFuji-nee stares into my face.\nAnd, as we're at the bottom of the hill, suddenly...",
+      "sourceUnit": "凛ルート四日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, do you like her?\"",
+      "sourceUnit": "凛ルート四日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Surprise attack.",
+      "sourceUnit": "凛ルート四日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Nnn...! I-I don't know her! I just met her, so I can't say!\"\n...Ugh, my face is hot... I bet my face looks red to Fuji-nee right now.",
+      "sourceUnit": "凛ルート四日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. You're not lying, but the possibility isn't zero.\"\nI don't know what she got from that.\nFuji-nee crosses her arms and goes quiet, as if she's thinking hard about something.",
+      "sourceUnit": "凛ルート四日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "As a result, Saber's stay was approved.",
+      "sourceUnit": "凛ルート四日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess it's fine. It'll be a good experience if you think of it as a homestay, and there's a lot of empty rooms here.\"",
+      "sourceUnit": "凛ルート四日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee's single opinion settles it.\nSakura didn't say anything the whole time, but in the end...\n\"Yeah, and I don't feel like I have a say in this.\"\nShe agreed in the end.",
+      "sourceUnit": "凛ルート四日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd so, dinnertime rolls around.\nI put in extra effort into making dinner to welcome Saber.",
+      "sourceUnit": "凛ルート四日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Starting with preparing salad-style seared bonito, then fried chicken with a zesty green onion sauce, a classic meat and potato stew, and to top it off, a variety of tempura including shrimp.\nThe menu is kind of all over the place, but...",
+      "sourceUnit": "凛ルート四日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt ended without anyone saying anything.",
+      "sourceUnit": "凛ルート四日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSplish splash.\nI wash the dishes in the kitchen.\nNot that I expected everyone to be the best of friends from day one, but couldn't there have been a bit more conversation?",
+      "sourceUnit": "凛ルート四日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I think I made the tempura especially good this time.\nIt's straight instead of curved, and the outside is crunchy.\nIt was perfectly made, so they could have at least said something.",
+      "sourceUnit": "凛ルート四日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...They still finished everything. What's up with just 'more, please' repeated three times being the only thing said?\"\nSplish splash.\nCleaning up after four people takes a while.\n...Now that I think about it, is Sakura protesting the situation by not helping today of all days?",
+      "sourceUnit": "凛ルート四日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "It's past 9 PM.\nThey usually go home around this time.",
+      "sourceUnit": "凛ルート四日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee. If you're going home, can you see Sakura off?\"\nI call out from the kitchen while washing the dishes.\n...\nThere is no response.\nFuji-nee is watching TV, as if it's not her concern.",
+      "sourceUnit": "凛ルート四日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hello? Earth to Ms. Fujimura?\"\nI go to the living room and tap on her head.\nThen...\n\"Sorry, but no dice. I won't be able to take Sakura home for a while.\"",
+      "sourceUnit": "凛ルート四日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm? Why? Do you have to do something, Fuji-nee?\"\n\"Ehh, nah. I'll be staying here starting tonight, too.\"\nAs if it were nothing,\nFuji-nee makes another sneak attack on me.",
+      "sourceUnit": "凛ルート四日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\n\"Oh, why don't you join us, Sakura? I'll contact your family, so don't worry. Wouldn't it be more fun if the three of us had a sleepover?\"",
+      "sourceUnit": "凛ルート四日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Y-yes, please! I knew I could count on you, Ms. Fujimura!\"\nWait.\nWhy are you so enthusiastic about it, Sakura?",
+      "sourceUnit": "凛ルート四日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, then let's use the room in the back! We have plenty of beds and pajamas for all of us! That's fine with you, right, Saber?\"\nIs it just me or does it sound more like an order?",
+      "sourceUnit": "凛ルート四日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber looks at me as if asking for help.",
+      "sourceUnit": "凛ルート四日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is troubling, Shirou. I must protect you, so I cannot fulfill my duty if I am in the same room as them. And I would not know how to interact with them either.\"",
+      "sourceUnit": "凛ルート四日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. If Fuji-nee brought it up, I can't stop her.\nAlso, she's probably doing this as a compromise.\nIf we decline, she might take back letting you stay here. If that happens, we'll have to sleep elsewhere.\"",
+      "sourceUnit": "凛ルート四日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...That would trouble me too. The Bounded Field at this house is excellent, so this location is a good base. As long as you are here, you will be prepared for any enemy surprise attacks.\"",
+      "sourceUnit": "凛ルート四日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Then even more so, please just hang in there. As long as we're both here, we can meet up at anytime, right?\n...Um, dealing with Fuji-nee is a lot, but if you have trouble, just say you don't know Japanese.\"",
+      "sourceUnit": "凛ルート四日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, stop whispering over there.\nCome over here, Saber. Shirou's a boy, so he's fine by himself, right?\"\nFuji-nee pulls Saber to her.",
+      "sourceUnit": "凛ルート四日目-07:page46:1"
+    },
+    "page47": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page48": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

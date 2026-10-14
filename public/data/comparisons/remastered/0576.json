@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0576",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right, I'll be honest.\nBut first, let me be clear about something. I don't know how to flatter or say things to make people like me, so I'd appreciate it if you keep that in mind.\"",
+      "sourceUnit": "桜ルート十日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I fix Rider with a serious stare.\nShe's as unreadable as ever, but she seems to understand that I'm being serious.",
+      "sourceUnit": "桜ルート十日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll just say it—I don't hold a grudge against you, Rider, and I don't mind if you eat with us, either. I don't know how to approach you, Rider, but I'm rather fond of you.\"\nI fight down my nervousness and say it clearly.",
+      "sourceUnit": "桜ルート十日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...You can't mean that. Aren't you afraid of me?\"",
+      "sourceUnit": "桜ルート十日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure I am. You scare me, but you're on our side.\nYou've already saved me once, and you fought to protect Sakura at the school. I can't hate you for that... I'm just not sure how to approach you.\"",
+      "sourceUnit": "桜ルート十日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I fail to understand, but you don't appear to be lying... I'll ask one more time. Aren't you afraid of me?\"",
+      "sourceUnit": "桜ルート十日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I am. I've seen firsthand how fearsome of a Servant you are.\n...But, it feels like you're all right on the inside, like you're similar to Sakura, somehow. So I think I can trust you, and I hope you'll keep protecting Sakura. I'm just not sure how to deal with you, personally.\"",
+      "sourceUnit": "桜ルート十日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Urgh...that sounded like a romantic confession.\nI feel like she'll ask me the same question again if I look her in the eyes, so I'd better turn away and play this—\n...Wait.\nOh crap, what am I saying in front of Sakura!?",
+      "sourceUnit": "桜ルート十日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not what you think, Sakura. I was just talking about my preferences, not saying that I—\"\n\"I don't care. Now I know that you're flirtatious and have a weak spot for beautiful women.\"",
+      "sourceUnit": "桜ルート十日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nWow.\nIs this the first time Sakura has ever looked this upset with me?",
+      "sourceUnit": "桜ルート十日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, calm down. I like Rider as a person, not as a woman. You trust her, right? I feel the same way.\nBesides, to me, you're actually the prettier one. Compared to Rider, I'd say—\"",
+      "sourceUnit": "桜ルート十日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Whoa, w-what was that incredible hostility I just felt from Rider!?",
+      "sourceUnit": "桜ルート十日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, that you're in no way any less beautiful, and I don't think it's right to compare people to each other.\"\n...Uh oh.\nThe more I run my mouth, the deeper I seem to dig my grave.",
+      "sourceUnit": "桜ルート十日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Actually, never mind. This isn't something to talk about over breakfast. I suggest we change the topic.\"\nI raise my hands pleadingly.\nDepending on how you see it, it could be a complete surrender.",
+      "sourceUnit": "桜ルート十日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No, we're not finished yet. This is a good chance to find out how you really feel, Senpai.\"\n\"I agree with Sakura. It's a trivial matter to me, but we ought to clarify this.\"\nBoth of them lean in toward me.",
+      "sourceUnit": "桜ルート十日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai. Do you like me or Rider more?\nI'm sure you know what your own feelings are.\"\nAh.",
+      "sourceUnit": "桜ルート十日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura is right. It's a trivial matter, but I'm interested in your answer as well.\"\nOof.",
+      "sourceUnit": "桜ルート十日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's hear your answer!\"\nI feel my back against the wall.\nI have no way out, and I know that the moment I open my mouth, I'm bound to piss one of them off.",
+      "sourceUnit": "桜ルート十日目-01:page17:1"
+    },
+    "page18": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十日目-01:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,796 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0693",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Both hands on the clock point to the top.\nIt's midnight, the time we agreed on.",
+      "sourceUnit": "桜ルート十五日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I wrap up the Azoth Blade and keep it on my waist.\nIt's my only weapon. The only other thing I take with me is the pendant Tohsaka talked about.",
+      "sourceUnit": "桜ルート十五日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, Rin's calling for you. She said she'll be waiting outside, so come when you're ready.\"\nIllya will stay here.\nIt's true that Zouken's targeting Illya, but it's also my wish for her to stay here.",
+      "sourceUnit": "桜ルート十五日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Tohsaka's waiting outside for me?\"\n\"Yeah. She looked impatient, so you'd better go or she'll start grumbling.\"",
+      "sourceUnit": "桜ルート十五日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod at Illya and stand up.\nMy left arm doesn't hurt anymore.\nMy functions as a living creature are just slowly being eroded.",
+      "sourceUnit": "桜ルート十五日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "If I stop, I won't know what I'm doing.\n\"I'm going, then. Take care, Illya.\"\n\"Good luck, Shirou. Come home with Sakura and Rin before dawn, okay?\"\nI wave at Illya and leave the room.",
+      "sourceUnit": "桜ルート十五日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The air rumbles.\nThe pressure of it is enough to crush the spirit of any who enter.\nIs the wind blowing, up in the sky?\nI crane my neck to listen, and hear howling wind.",
+      "sourceUnit": "桜ルート十五日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...I know this air.\nIt's the same as ten years ago.\nYou don't need to be a mage to sense the ominous feeling of countless curses suffusing the air .",
+      "sourceUnit": "桜ルート十五日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"This feeling... Is Sakura at Ryudou Temple, halfway up the mountain?\"\n\"No, we're not going to the temple. The compound up top was built just for show, for the benefit of Masters seeking the Holy Grail.\n...If you want to go to the source of the Holy Grail War, you need to go down to find the Greater Grail.\"",
+      "sourceUnit": "桜ルート十五日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...The forest is dark.\nWe navigate our way into the mountains, using the light of the moon peeking through the clouds.",
+      "sourceUnit": "桜ルート十五日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "We push our way through the trees, walking through the night.\nThere aren't even any game trails out here, and we mostly have to drop down small cliffs and rock walls.",
+      "sourceUnit": "桜ルート十五日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... I think Illya said it's around here... Shirou, do you see anything that looks like an entrance?\"\n\"That looks like an entrance?\"",
+      "sourceUnit": "桜ルート十五日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Any crevices that a person might fit through, or any suspicious shrines. It's supposed to be an entrance, so I don't think it'll be a pitfall.\"\n\"...Don't be ridiculous. You think I can see in the forest at night just because the stars are out?\"",
+      "sourceUnit": "桜ルート十五日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Oh. I can see pretty well, actually.\nThere are withered trees all around us. Maybe we're behind Ryudou Temple now.\nOf course, there are no manmade buildings in sight. All I see are the dead trees and a bubbling brook.",
+      "sourceUnit": "桜ルート十五日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...A stream?\"\nWait.\nThat means the water must be coming from somewhere.",
+      "sourceUnit": "桜ルート十五日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop. Hold on, I'm going to take a look at something.\"\nI squint, following the sound of water.\n...The stream isn't flowing from up the mountain, but from a patch of earth covered in rocks.",
+      "sourceUnit": "桜ルート十五日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "It's dark and I can't see it well, but the rocks are big.\nThe piles of rocks feel like a natural gate, and I think the water is coming from in there...",
+      "sourceUnit": "桜ルート十五日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Looks like a cave... It might be a dead end, but maybe...\"\n\"What? Did you find something?\"\n\"Yeah. I'm going to check it out. Over here, Tohsaka. Watch your step; the slope is pretty steep.\"",
+      "sourceUnit": "桜ルート十五日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "We descend to the stream.\nIt turned out to be only a spring, rather than a river.",
+      "sourceUnit": "桜ルート十五日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "It's flowing from several piles of rocks, and we finally come across an opening that one person can fit through.\nThe rocks remind me of igloos.\nWhen I go inside, I nearly run into a big stone, and it doesn't look big enough to fit a person.",
+      "sourceUnit": "桜ルート十五日目-20:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"There's a horizontal opening...but this is a dead end. The water looks like it's coming out of the rocks.\"\n\"No, this is the right place. Try touching the rock furthest in the back. You'll be able to slip through easily.\"",
+      "sourceUnit": "桜ルート十五日目-20:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI do as she says and place my hand on the dark stone.\n\"Oh.\"\nMy palm sinks through the surface and feels empty air instead of cool stone.",
+      "sourceUnit": "桜ルート十五日目-20:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. Is this some kind of illusion?\"\n\"A Bounded Field, probably. Let's keep going.\"\nTohsaka presses further into the gloom without turning back.",
+      "sourceUnit": "桜ルート十五日目-20:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is the point of no return. We're in enemy territory now.\nI quietly take a deep breath and follow Tohsaka.",
+      "sourceUnit": "桜ルート十五日目-20:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I make scraping sounds on the stone.\nI feel my way forward with my hands on the wet ground.\nThe ground begins to slope dramatically.",
+      "sourceUnit": "桜ルート十五日目-20:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...It's tight and claustrophobic in the darkness.\nI'll tumble down into the infinite darkness unless I slowly go down on my back.",
+      "sourceUnit": "桜ルート十五日目-20:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIn the dark, I make a slow descent, sprawled on the angled rock.\n...The way ahead is dark, and I can't tell how far down this goes.\nI can only hear my breathing.",
+      "sourceUnit": "桜ルート十五日目-20:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Let me ask you this while I can.\"\nThen,\nTohsaka suddenly talks to me from ahead.",
+      "sourceUnit": "桜ルート十五日目-20:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it?\"\n\"The Jeweled Sword. How did you make it?\"\nHer tone is bored, like she's making small talk to kill time because she's tired of climbing down.",
+      "sourceUnit": "桜ルート十五日目-20:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"How? Why are you asking?\"\n\"Because. I said I was going to kill Sakura.\nAre you okay with giving me a weapon to do it?\"\n\"...\"\nI nod in the dark.\nTohsaka's right, of course.",
+      "sourceUnit": "桜ルート十五日目-20:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not okay with it. But I can't save Sakura without you, and we have a better chance together than alone.\n...Plus, I promised you that I'd Project the sword.\nI already broke one promise to you. I didn't want to break another.\"",
+      "sourceUnit": "桜ルート十五日目-20:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "It was quite a while ago.\nAfter I lost Saber, I asked Tohsaka for help.\nShe helped me, and I made her a promise:",
+      "sourceUnit": "桜ルート十五日目-20:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I would make her win.\nI promised to make Tohsaka the victor of the Holy Grail War.",
+      "sourceUnit": "桜ルート十五日目-20:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...I can't keep that promise anymore.\nSo, I want to at least keep my other promise.\nAt that time...\nFor Rin Tohsaka, the girl I liked at the time, who believed in me when I had nothing left.",
+      "sourceUnit": "桜ルート十五日目-20:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. You're a stickler for these things, huh?\"\n\"Yeah. Not as much as you are, though.\"\nThe darkness goes still again.\nOur conversation ends there.\nWe don't look at each other. We just stoically descend into the infernal depths.",
+      "sourceUnit": "桜ルート十五日目-20:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Our long path seems to take us through the underworld itself.\nIt's a winding path, and my body feels like it's walked more than a hundred meters.\nWe turn to find ourselves facing a dark cavern.",
+      "sourceUnit": "桜ルート十五日目-20:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "The one-man-wide path becomes an ever deeper passage.\nWe don't need any illumination.\nSome sort of luminescent moss suffuses the cavern with a green glow.",
+      "sourceUnit": "桜ルート十五日目-20:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "The passage teems with life energy.\nIt feels so raw.\nIt's an air of birthing, filled with vitality, that seems to celebrate life.\nAbundant od and flowing mana, as far as the eye can see.",
+      "sourceUnit": "桜ルート十五日目-20:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's so raw that it makes me nauseous.\nThe warmth of radiant life is so filthy I want to turn away from it.",
+      "sourceUnit": "桜ルート十五日目-20:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...\nI have nothing to say.\nThis is a land of death.\nTalking to Tohsaka would lower my guard enough to get me killed.",
+      "sourceUnit": "桜ルート十五日目-20:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let's go. From here on out, prioritize your own life.\"\nTohsaka goes deeper down the passage towards the source of the dark air.",
+      "sourceUnit": "桜ルート十五日目-20:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nI see something red on the ground.\nThese are unmistakably bloodstains.\nThe blood spatter continues into the cave.",
+      "sourceUnit": "桜ルート十五日目-20:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\nDid someone get here before us?\nWere they wounded so badly that they bled everywhere they walked?",
+      "sourceUnit": "桜ルート十五日目-20:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"...Sorry. I'll be right there.\"\nI shake off the premonitions and keep walking.\nI can't afford to worry about anyone else now.",
+      "sourceUnit": "桜ルート十五日目-20:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Nrgh...\"\nIf I lose focus, my mind will shut off.\nWorrying about extra things could erase me entirely.\n\"...\"\nI grip the pendant tightly in my right hand.\nI use the pain to remind myself who I am, and step into the verdant dark.",
+      "sourceUnit": "桜ルート十五日目-20:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "A tepid breeze caresses my cheeks.",
+      "sourceUnit": "桜ルート十五日目-20:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "We come to the end of the passage, which opens into a larger cavern.\nIt's as wide as the school grounds.\nI can't see the ceiling in the murk, but it could be as high as ten meters.",
+      "sourceUnit": "桜ルート十五日目-20:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "There are no signs of life.\nThe forgotten underground wasteland reminds me of the pictures of the moon's surface I saw in books, long ago.\nThere...\nstands Saber, waiting for us.\nShe's the only one in the cave.\nI don't see Sakura, Zouken, or Assassin.\nOnly the darkened swordswoman blocks our path.",
+      "sourceUnit": "桜ルート十五日目-20:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\n\"...\"\nShe wouldn't have anything to say to me.",
+      "sourceUnit": "桜ルート十五日目-20:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Of course not.\nSaber's only job is to eliminate intruders.\nShe's the gatekeeper and executioner here.\nShe's the strongest Servant protecting Sakura, and she could take us both alone.",
+      "sourceUnit": "桜ルート十五日目-20:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Doesn't look like we'll be able to talk our way through.\"\nTohsaka arms herself with the Jeweled Sword she kept behind her waist, keeping her stance low.",
+      "sourceUnit": "桜ルート十五日目-20:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "She intends to attack from the front.\nI don't know what powers that sword has, but she seems to think it'll work in a clash against Saber.",
+      "sourceUnit": "桜ルート十五日目-20:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "But it won't go well.\nI know Saber, so there are ways to deal with her. We shouldn't reveal our only secret weapon while Zouken and Assassin could still be waiting—",
+      "sourceUnit": "桜ルート十五日目-20:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, wait! Saber is—\"\n\"Rin. I have no reason to fight you. Take care not to point that sword at me. I would be violating Sakura's orders if I killed you here now.\"",
+      "sourceUnit": "桜ルート十五日目-20:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nSaber's quiet voice is the same as ever. It stops Rin in her tracks.\nTohsaka and I both know what that means.",
+      "sourceUnit": "桜ルート十五日目-20:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...What do you mean? Aren't you the gatekeeper here, Saber?\"\n\"Yes. I will eliminate any who attempt to pass.\nThat was Sakura's order. But...\"\n\"I'm an exception. She wants to see me?\"\nSaber nods wordlessly.",
+      "sourceUnit": "桜ルート十五日目-20:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. Sakura's serious, then.\"\nShe murmurs briefly.\nAfter a big sigh, Tohsaka walks toward Saber.",
+      "sourceUnit": "桜ルート十五日目-20:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"Sorry. That's how it is, so I'm going on ahead.\"\nTohsaka boldly walks past Saber.\nJust before she blends into the dark...\n\"Shirou. I don't know what will happen to you, but I trust you. Make sure you live up to that.\"",
+      "sourceUnit": "桜ルート十五日目-20:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n...Hold on.\nI'm not sure what I'm supposed to do with that vague statement, not that my brain is working very well right now.\n\"I-I'm saying that I don't want you to complain when you show up after everything's over! ...If you want to save Sakura, then don't take too long.\"\nTohsaka's long hair whips through the air, and she disappears into the depths of the cave without looking back.",
+      "sourceUnit": "桜ルート十五日目-20:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Thanks, Tohsaka.\nThat boosted my spirits.\nIn other words, telling me to come before she settles the score with Sakura was her roundabout way of cheering me on.\n\"That is impossible. You will die here, Shirou.\"\n\"...!\"",
+      "sourceUnit": "桜ルート十五日目-20:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Saber's bloodlust swells.\nTohsaka's gone, leaving only me.\nI suppose that in this situation, Saber doesn't need to hide her hostility anymore.",
+      "sourceUnit": "桜ルート十五日目-20:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...I thought you said you'd only attack people who tried to get past you. I haven't moved a single step.\"\n\"It is only a matter of time. You're not going to leave.\"",
+      "sourceUnit": "桜ルート十五日目-20:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Saber's right.\nThere's no retreat. I'm going to keep going, even if I have to fight Saber.",
+      "sourceUnit": "桜ルート十五日目-20:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Yeah, you know me well.\nI never listened and always made trouble for you. You still remember how stupid I was.\"",
+      "sourceUnit": "桜ルート十五日目-20:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I move my dry tongue.\nI'm nearly scared witless.\nWhen we sparred in the dojo, Saber used less than a tenth of her strength against me, and I never managed to land a single blow.\nIn other words, there's no way I can win.\nThe instant we cross swords, my head will fly.",
+      "sourceUnit": "桜ルート十五日目-20:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "So, I need to find any vulnerability I can.\nIf there isn't one, I'll make one.\nI might be able to use small talk or sentiment to at least distract her a little bit.",
+      "sourceUnit": "桜ルート十五日目-20:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...This battle isn't a contest of sword skills at all.\nFirst, I need to do everything within my power to find a way to win.",
+      "sourceUnit": "桜ルート十五日目-20:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"You talk too much, Shirou. Do you want me to kill you sooner?\"\n\"Damn, Saber, that's scary. ...But you're keeping yourself in check pretty well. You say you'll kill me, so why haven't you?\"",
+      "sourceUnit": "桜ルート十五日目-20:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...Because I decided so. I will give you time to approach me.\nBut it will end there. I will not let you go to Sakura. I don't need to move. You will run out of patience and attack me.\"",
+      "sourceUnit": "桜ルート十五日目-20:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...\"\n...Well, that was an utter failure.\nSaber doesn't have any weaknesses to exploit.\nShe's waiting for me to approach, and she isn't going to move from her position.",
+      "sourceUnit": "桜ルート十五日目-20:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...Crap. Do I have to challenge her head-on?\"\nI force air out of my lungs.\nI only have one way left.\nArcher's arm.\nAll I can do is use Projection to defeat Saber, like I did with Berserker.",
+      "sourceUnit": "桜ルート十五日目-20:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Of course...\nI've already concluded that this won't be enough to beat her.",
+      "sourceUnit": "桜ルート十五日目-20:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah.\"\nI—my mind.\nI sever—legs—, —sensation, only my thoughts to protect myself—this headwind!",
+      "sourceUnit": "桜ルート十五日目-20:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on. (Begin Projection.)\"\nI create weapons.\nThey're the master-crafted swords that burden my Projection the least.\nForged to be a husband-wife pair, they symbolize Archer's life.",
+      "sourceUnit": "桜ルート十五日目-20:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "Yin sword, Bakuya. Yang sword, Kanshou.\nThey don't boast any outstanding abilities, but their sturdiness as swords is assured.\nWith these, I can clash blades with Saber, and they won't shatter in one or two blows.",
+      "sourceUnit": "桜ルート十五日目-20:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer's swords. So you aren't going to copy my sword, Shirou.\"\n...\nMy severed thoughts manage to come together.\n...What did Saber just say?\nShe said that I'm not going to copy her sword.",
+      "sourceUnit": "桜ルート十五日目-20:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "...That's impossible for me.\nIt would take too much time to Project a Noble Phantasm of that caliber, and more importantly, I can't master her sacred sword.\nIf I were up against a stationary target, I might have a chance, but I'd be too hard-pressed fighting Saber to invoke the sword's True Name.",
+      "sourceUnit": "桜ルート十五日目-20:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, that has nothing to do with me. I only care that you have armed yourself.\nEven if your weapons are feeble, I consider that a hostile act.\"",
+      "sourceUnit": "桜ルート十五日目-20:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "Saber's body sways.\nSoundlessly, she grips the hilt of her black sacred sword.\n\"Come. Your body won't even last minutes.\"\nOn the verge of collapse, I'm invited to a duel.",
+      "sourceUnit": "桜ルート十五日目-20:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I move in.\nChoosing my first move, predicting Saber's interception, countering and evading—I push it all aside and charge at her.\nI bring down Bakuya.\nI close the nearly ten meter span in a single breath and focus my will on my left arm in an explosive strike.",
+      "sourceUnit": "桜ルート十五日目-20:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "My downward slash is parried.\nI pay it no mind, cleaving the target with Kanshou.\nThat doesn't work, either.\nSaber's sword completely turns my dual blades and thrusts at my throat before I can even see it...!",
+      "sourceUnit": "桜ルート十五日目-20:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...!?\"\nWhat is she surprised at?\nIt doesn't matter.\nDoes she find it miraculous that Shirou Emiya unleashed an attack he should not have been capable of, and blocked a counter-strike that he shouldn't have been able to block?\nIt doesn't matter.\nWhat are these violent sparks and impacts occurring every second?\nIt really doesn't matter.",
+      "sourceUnit": "桜ルート十五日目-20:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "It's the rampage of someone approaching death, and a peaceful repose.\nI twist my body with superhuman agility.\nMy blades surge like lightning.\nMy thoughts clearly see ten moves into the future, and I can predict my life or death five seconds ahead.",
+      "sourceUnit": "桜ルート十五日目-20:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...\"\nI have her on the defense.\nI only allowed her to attack during the first exchange, and now Saber can only defend against my assault.\nI've already defended against thirty strikes sharp enough to kill me instantly.",
+      "sourceUnit": "桜ルート十五日目-20:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Ahh, gurgh...\"\nTime stops.\nMy body can't keep up with my mind.\nMy body can't follow the experience that's being brought out.\nThat's why I chose Kanshou and Bakuya.\nI Projected more than just weapons.\nI've copied Archer's skills with the dual swords from his arm.\nIt isn't perfect, but right now, my skills are close to that of Archer.",
+      "sourceUnit": "桜ルート十五日目-20:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, haah... Haah...\"\nThat's why I can hold on.\nEach blow, each withdrawal erodes my eyesight, but I can take this much.",
+      "sourceUnit": "桜ルート十五日目-20:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "My mind and body are shaved away, leaving my existence smaller and smaller.\nMy body screams in response to each of Saber's attacks, and I'm approaching my death thirty moves from now.\nBut I don't feel fear.\nAll I feel is...",
+      "sourceUnit": "桜ルート十五日目-20:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, hah... Haah, haah, haha, hahaha...!\"\nJoy that I can keep up with her.\nI can fight.\nI'm fighting.\nI don't care that it's with borrowed knowledge and skills.\nI'm having an actual dual against Saber!",
+      "sourceUnit": "桜ルート十五日目-20:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "I might have a chance at winning.\nSaber won't use her sacred sword.\nMaybe it's because the ceiling will cave in if she uses her sword, or maybe it's some other reason, but for now, Saber's fighting me with her swordsmanship only.",
+      "sourceUnit": "桜ルート十五日目-20:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "I can hold out against that.\nAs long as she doesn't use her sacred sword, I'm sure I'll find an opening...!",
+      "sourceUnit": "桜ルート十五日目-20:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...hah, aaaaaarggh!!!\"\nI increase my speed.\nI shift the gear to high and slam on the accelerator.\nThe holy shroud around my wrist is irritating.\nI feel bitter that I can only Project one more time.",
+      "sourceUnit": "桜ルート十五日目-20:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "Draw it out.\nGo deeper and further, beyond your limits.\nIf I draw more of it out, I can fight Saber even longer and stronger!",
+      "sourceUnit": "桜ルート十五日目-20:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Kuh...!\"\n\"Nngh...!\"\nI pull back.\nSaber's attack hurls me backward, and I have to plant my feet behind me to regain my footing.",
+      "sourceUnit": "桜ルート十五日目-20:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Haah, haah, haah...\"\nMy shoulders heave up and down as I catch my breath.\nMy muscles are on fire.\nThe heat in my body seems to vent from all my pores.",
+      "sourceUnit": "桜ルート十五日目-20:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Whew...\"\nGripping Kanshou and Bakuya, I watch Saber.\nWe're now ten meters apart.\nEven Saber would need a couple steps to close the distance.\nI have a little time to collect myself from here.",
+      "sourceUnit": "桜ルート十五日目-20:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI finally steady my breath.\nI look down at my body once.\nIt doesn't matter.\nI don't care what wounds I take, as long as they don't kill me instantly.\nIt would be a problem if my mobility dropped, but thankfully, I don't feel any pain.",
+      "sourceUnit": "桜ルート十五日目-20:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "I should be able to take five more of Saber's attacks.\nI can't predict the fight beyond that.\nIn the next five moves, I need to find an opening and exploit it with all my might.",
+      "sourceUnit": "桜ルート十五日目-20:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Not possible. You won't be able to hurt me using that method, much less defeat me.\"\nAnd yet...\nSaber cuts through my thoughts with a sentence.",
+      "sourceUnit": "桜ルート十五日目-20:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why not? I can fight you.\"\n\"You would still howl that, with that body? ...No, you attempt such reckless ploys because of that very body. You may not bleed, and your innards may be made of swords, but your body is at its limit. If you continue this, my next strike will destroy you, swords and all.\"",
+      "sourceUnit": "桜ルート十五日目-20:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I know that.\nEven I know that.\nBut there's no other way.\nI only have one Projection left.\nI have to use the one last sword allowed to me to defeat Saber.",
+      "sourceUnit": "桜ルート十五日目-20:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"...I won't know until I try. I'm going to come at you even harder now. If I can surpass you in the next five moves—\"\n\"Shirou. Why do you reserve your strength?\"\n...",
+      "sourceUnit": "桜ルート十五日目-20:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Her words contain a profound message.\nThey show a concern for me that renders my warped, ruined thoughts crystal clear.",
+      "sourceUnit": "桜ルート十五日目-20:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "What am I holding my strength back for?",
+      "sourceUnit": "桜ルート十五日目-20:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "...She's right.\nI'm going to die unless I defeat Saber.\nBut I still haven't used my trump card.\nI was saving one last Projection to save Sakura.\nAnd yet...\nIt won't mean anything if I can't even reach her.",
+      "sourceUnit": "桜ルート十五日目-20:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"But that's...\"\nI'll lose my ability to save Sakura in exchange for defeating Saber.\nI can't do that.\nIt'll all be for nothing if I die here, but it'll also be pointless if I can't Project anything once I reach Sakura.",
+      "sourceUnit": "桜ルート十五日目-20:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou. Once I slay you, I will return to Sakura's side.\nDo you understand what I'm saying? Rin will have to face us both.\"\n...\nThat's impossible.\nEven Tohsaka can't take on Sakura and Saber at the same time.\nBut Sakura's alone, Tohsaka will definitely...",
+      "sourceUnit": "桜ルート十五日目-20:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. She will assuredly save Sakura if I am not there.\"\nThere's meaning to this fight.\nBy not fleeing, I kept Saber tied up here.\nSakura has to face Tohsaka without her strongest protector.",
+      "sourceUnit": "桜ルート十五日目-20:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "But it's only temporary.\nSakura could call Saber back at any moment.\nShe'll probably do it if Tohsaka backs her into a corner.\nOnce that happens, Tohsaka will fail.\nWhich means that what I need to do now is make absolutely sure that Saber can't rejoin Sakura.",
+      "sourceUnit": "桜ルート十五日目-20:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, did you—\"\n\"Is that all you take me for, Shirou?\"",
+      "sourceUnit": "桜ルート十五日目-20:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "My heart stops.\nNo, it's been stopped for several seconds.\nMy body's already falling apart.\nMy fate was sealed as soon as I removed the holy shroud in the Einzbern Forest.",
+      "sourceUnit": "桜ルート十五日目-20:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "My senseless body and this mind that's no longer mine don't fear death.\nI don't even know what fear is anymore.\nI've survived this far in order to save Sakura.\nI...I don't care how it happens as long as it happens.",
+      "sourceUnit": "桜ルート十五日目-20:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. I guess I'm not dying for nothing after all.\"",
+      "sourceUnit": "桜ルート十五日目-20:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "I've made up my mind.\nUnless I defeat Saber, Tohsaka will have to face Zouken, Sakura, and Saber.\nIt's worth taking one of them out.\nI may not live to see it, but if this helps Tohsaka, then it'll save Sakura in the end.",
+      "sourceUnit": "桜ルート十五日目-20:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on. (Begin Projection).\"\nI close my eyes and begin my third Projection.\nBut I can only read these twin swords.\nI still haven't fully grasped their potential.\nFrom Archer's arm, I draw out Kanshou and Bakuya's properties and his skills with them.",
+      "sourceUnit": "桜ルート十五日目-20:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nrgh.\"\nAs soon as I connect my consciousness to the arm, the remaining forty percent of my mind drops to twenty.",
+      "sourceUnit": "桜ルート十五日目-20:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ahh.\"\nI forget my name.\nI forget what so many things are called.\nMy name goes with them.",
+      "sourceUnit": "桜ルート十五日目-20:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "Deeper.\nSearch. Search. Search.\nIt has to be there.\nThere has to be some method, some technique he's mastered that I haven't thought of.\nThese were his favorite weapons.\nThere's no way he hasn't come up with a way to absolutely kill his enemies with them, after taking them into so many battles...!",
+      "sourceUnit": "桜ルート十五日目-20:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "...\nTen percent left.\nI leave my self behind and pour water from the id of experience.",
+      "sourceUnit": "桜ルート十五日目-20:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "Two arcs.\nAttraction between yin and yang.\nSerial Projection.\nMaintain swordsmanship fundamentals.\nNamely,",
+      "sourceUnit": "桜ルート十五日目-20:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "Crane Wings, Ever Intact\nClimb Taishan with Spirit and Skill\nCross the Yellow River with Spirit and Skill\nDedicate a Name to Heaven\nLet Two Great Men Share a Life",
+      "sourceUnit": "桜ルート十五日目-20:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "...\nI reach it.\nI reach the true meaning of Kanshou and Bakuya, and Archer's ultimate technique using them.\nI'm about to push myself to my very limits.\nI have three moves left, no more.",
+      "sourceUnit": "桜ルート十五日目-20:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "The enemy shifts slightly, as if sensing my resolve.\n...Who was that again?\nEveryone's names have been shattered, but I still remember my enemy's...",
+      "sourceUnit": "桜ルート十五日目-20:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThere's no time to recall it now.\nWhile I can still move my body...\n\"Spirit and technique must be flawless and firm. (Crane wings, ever intact.)\"\nI must overcome my enemy with this offense and defense.",
+      "sourceUnit": "桜ルート十五日目-20:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "I throw.\nI put as much magical energy as I can into simultaneous throws to the left and right.",
+      "sourceUnit": "桜ルート十五日目-20:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "I target the enemy's neck.\nThe blades draw two arcs through the air, intersecting above the enemy.\nCrane wings form a beautiful cross.\nEven the greatest swordsman can't escape being flanked on both sides by steel-shattering Noble Phantasms.",
+      "sourceUnit": "桜ルート十五日目-20:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "But...\nThe enemy casually blocks them.\nShe intercepts Kanshou and Bakuya's arcs with ease.",
+      "sourceUnit": "桜ルート十五日目-20:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "The first assault is repelled.\nMy dual swords were thrown so they would come back to me even if blocked. Thrown off by the enemy, they now fly at her back.",
+      "sourceUnit": "桜ルート十五日目-20:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "I'm unarmed now.\nI close in on the enemy, having thrown my only weapons.\nI bodily charge her.",
+      "sourceUnit": "桜ルート十五日目-20:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"Freeze out. (Dispel freeze.)\"",
+      "sourceUnit": "桜ルート十五日目-20:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"The same weapons!?\"\nTwin swords receive the enemy's sword.\nMy Projection is already done.\nI create another Kanshou-Bakuya pair that I prepared in advance.",
+      "sourceUnit": "桜ルート十五日目-20:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"Futile!\nThat Noble Phantasm cannot reach me...!\"",
+      "sourceUnit": "桜ルート十五日目-20:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "She readies a lethal blow.\nBut just before she can attack...\n\"Strength moves mountains. (Climb Taishan with spirit and skill.)\"\nShe's ambushed from impossible angles.",
+      "sourceUnit": "桜ルート十五日目-20:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nWith instincts bordering on foresight, the enemy evades Kanshou's attack from behind.\nI exploit the perfect opening and swing Bakuya—\n\"Ngh, haah!\"\nIt shatters against the enemy's sword.",
+      "sourceUnit": "桜ルート十五日目-20:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "She's a monster.\nShe just blocked ambushes from behind and a full-power frontal attack, all at the same time.\nOn top of that, she completely destroyed the Bakuya I used to attack from the front.\nWhat else is she, if not a monster?",
+      "sourceUnit": "桜ルート十五日目-20:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n\"Swords cut water. (Cross the Yellow River with spirit and skill.)\"\nI wouldn't have gone to this much trouble if she wasn't a monster!",
+      "sourceUnit": "桜ルート十五日目-20:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"Another one...!?\"\nAgain, Bakuya swoops in from behind.\nIt goes without saying that this is part of the first pair I threw and she blocked.",
+      "sourceUnit": "桜ルート十五日目-20:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "Kanshou and Bakuya are mated swords.\nThanks to that trait, they are drawn to each other like magnets.\nIn other words...as long as I'm holding Kanshou, Bakuya will automatically return to my hand!",
+      "sourceUnit": "桜ルート十五日目-20:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"Kugh...!\"\nMy enemy evades the surprise attack with godlike reflexes.\nI use Kanshou to strike her exposed chest...\nBut the enemy breaks my final attack, too.",
+      "sourceUnit": "桜ルート十五日目-20:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "...\nTime freezes over.\nI take less than a second to confirm our positions.\nThis is the limit of my offense.\nShe just defended against two pairs of Kanshou and Bakuya—four swords attacking from front and back at the same time. I don't have anything else after she destroyed all my weapons.",
+      "sourceUnit": "桜ルート十五日目-20:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "The enemy's at her limit, too.\nShe was forced to expose herself to destroy one of my attacks.\nI have nothing else.",
+      "sourceUnit": "桜ルート十五日目-20:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "We're at a stalemate after that exchange of offense and defense.\nShe recovers from her moment of complete defenselessness one second later.\nHowever...\nI still have more plans up my sleeve.",
+      "sourceUnit": "桜ルート十五日目-20:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe enemy's expression stiffens.\nThe last ten percent of me is crumbling.\nLife approaches the Imperial Villa. (Dedicate a name to Heaven.)\n\"...Ahh.\"\nWith a third Projection, I overcome my limits and go beyond.\nA pair of swords appears in my empty hands once again.",
+      "sourceUnit": "桜ルート十五日目-20:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "\"SABERRR!!!\"\nNeither of us will embrace Heaven. (Let two great men share a life.)\nI swing my swords at her defenseless body from the left and right.",
+      "sourceUnit": "桜ルート十五日目-20:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "I remembered.\nAt the very end, I remembered her name.\n...\nBut it's too bad.\nI don't know if I should be proud that I remember, or regret it.",
+      "sourceUnit": "桜ルート十五日目-20:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn any case, I defeated the enemy.\nThe last strike felt perfect.\nNow I can rest.\nMy heart is moving.\nI'm sure I'll be able to stand once I close my eyes and wake up again.",
+      "sourceUnit": "桜ルート十五日目-20:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "Just a little longer.\nI sink into slumber.",
+      "sourceUnit": "桜ルート十五日目-20:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"SABERRR!!!\"\nTwo swords come in from the left and right.\nShe foresaw the attack, but she can't defend against it.\nHer body can't keep up with her mind.\nShe was unable to freely move for one brief second after thwarting the enemy's second surprise attack.",
+      "sourceUnit": "桜ルート十五日目-20:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "\"Rgh, argh...!\"\nShe falls on her back.\n...She has taken a mortal blow.\nKanshou and Bakuya pierced her armor and rent her torso. The shock of it all the way into her spine.",
+      "sourceUnit": "桜ルート十五日目-20:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, agh, guh...!\"\nShe grunts in agony.\nWhat an explosive attack.\nShe has suffered wounds that would have killed a normal man. She's only still alive because she's a Servant.",
+      "sourceUnit": "桜ルート十五日目-20:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh... Ah, agh, hah...\"\nFurthermore, she has an innate ability to heal herself.\nA powerful regeneration ability, and functionally infinite magical energy.\nThe only way to defeat her in her current state is to destroy her heart or her head once and for all.\nFailing that, she will recover in less than ten minutes.\nConversely, she is vulnerable to a coup de grace for the next ten minutes.",
+      "sourceUnit": "桜ルート十五日目-20:page149:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... agh... You've become strong, Shirou.\"\nShe speaks to the boy collapsed next to her.\nHis wounds are deep and life-threatening, but he can still move well compared to her.\nIt would be easy for him to stand up and drive a sword into her heart while she's helpless.",
+      "sourceUnit": "桜ルート十五日目-20:page150:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, that's not quite true. You were always strong.\"\nShe murmurs with labored breaths.\nThe duel is over.\nShe accepts that she will disappear in a few more seconds, and calls out to him in a nostalgic tone.",
+      "sourceUnit": "桜ルート十五日目-20:page151:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, finish me. I will regenerate unless you hurry.\"\n...\nHe doesn't answer.\n\"...Shirou?\"\nShe looks confused.\nShe turns to look at the boy lying next to her.",
+      "sourceUnit": "桜ルート十五日目-20:page152:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "...\nNobody is there anymore.\nHis heart is moving and he's breathing.\nHis eyes are open, staring up at the ceiling.\nBut that is all there is.\nThe moment he cast the third Projection, the boy's mind shattered.\n...He reached his limits, and stepped beyond them.\nThe consequence of that now lies next to her.",
+      "sourceUnit": "桜ルート十五日目-20:page153:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "\"Then... I win, Shirou.\"\nHer whisper contains no emotion.\nShe's used to it.\nShe has encountered enemies who threw their lives away but still failed to reach her, many times.\nThat is what it means to be strong.\nHeroes kill enemies who attempt every means and make every sacrifice to challenge them, as easily as breathing.",
+      "sourceUnit": "桜ルート十五日目-20:page154:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "\"...Seven more minutes. Can you free Sakura in that time, Rin?\"\nLying on her back, she looks up at the subterranean sky.\nNo tears flow.\nThe Heroic Spirit of the sword quietly waits for this war to end.",
+      "sourceUnit": "桜ルート十五日目-20:page155:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "She feels a distinct vibration in the distance.\nShe doesn't care which way the scales will tip.\nThe only emotion she might still have now is a hint of pity.\n...Rin Tohsaka and Sakura Matou.\nNo matter who survives, there is no one left in this world to bring them joy.",
+      "sourceUnit": "桜ルート十五日目-20:page156:1"
+    },
+    "page157": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

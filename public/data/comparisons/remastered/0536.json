@@ -1,0 +1,27 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0536",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Because he was on guard for my counterattack?\"",
+      "sourceUnit": "桜ルート九日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not so sure about that. From what you told me, you couldn't hurt him. And if I was Zouken, I wouldn't leave a trapped enemy any room to fight back.\nTraps are supposed to take your target down with certainty.\nIf he was on guard for your attack even after you were trapped, that would mean his trap failed.\"",
+      "sourceUnit": "桜ルート九日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's such a perfectionist way of thinking.\"\n\"It's normal for me. If you want to capture your prey alive, then there's no need to get into the same box with them.\"",
+      "sourceUnit": "桜ルート九日目-01:page2:1",
+      "recoveredDelimitedTail": true
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

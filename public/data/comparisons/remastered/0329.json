@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0329",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'll protect Saber.\nEven though she might not be able to defeat him, she should have an advantage if she focuses on retreat.\nThere's about five meters between us.\nIf Kuzuki takes another step, Tohsaka should be able to react and dodge any strike.",
+      "sourceUnit": "凛ルート九日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "But Saber is different.\nHer neck is half cut off like Rider and she's been thrown into a wall.\nSaber's situation is far more dire.\nEven if she's invincible against mages, she'll be easily defeated by Caster in that state...!",
+      "sourceUnit": "凛ルート九日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm counting on you, Tohsaka...!\"\nI grip my sword and charge towards Kuzuki in front of me.",
+      "sourceUnit": "凛ルート九日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "My true objective is to reach Saber before she is attacked by Caster.\nI'll take a swing as I pass.\nI'm sure he'll dodge it, but Tohsaka should be able to take advantage of the opening...!",
+      "sourceUnit": "凛ルート九日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I swing the sword as I pass by Kuzuki's side.",
+      "sourceUnit": "凛ルート九日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"G-guh...!?\"\nIt doesn't even do anything.\nThe wooden sword crumbles to pieces, and the blow from his fist makes me lose my footing.\nHe rushes in at Tohsaka in an instant.",
+      "sourceUnit": "凛ルート九日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Time stops.\nTohsaka is astonished, but she immediately points her hand at Kuzuki.",
+      "sourceUnit": "凛ルート九日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "And the right hand of the enemy...\nThe hand that wrecked Saber's neck strikes her in the chest.",
+      "sourceUnit": "凛ルート九日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Guh...!\"\nAll of the air in Tohsaka's lungs goes out.\nThen...\nA hammering blow, like a battering ram against a castle, strikes her face mercilessly.",
+      "sourceUnit": "凛ルート九日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Toh...saka...\"\n...I witness my own fate as I see her miserable state.\n...Tohsaka's face isn't there.\nThere's nothing left where Kuzuki's blow struck.",
+      "sourceUnit": "凛ルート九日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"You made the wrong decision, Emiya, just like Caster.\"\n\"...\"\nI can't raise my head.\n...Just like a student that doesn't know the answer and can't bear to face the teacher, I can't look at Kuzuki.\nI stand there, unable to walk.",
+      "sourceUnit": "凛ルート九日目-04:page10:1"
+    },
+    "page11": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート九日目-04:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

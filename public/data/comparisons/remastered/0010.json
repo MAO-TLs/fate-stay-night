@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0010",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I walk through the still darkened town.\nIt's about half past seven.\nThere should still be people out and about at this hour, but there are no signs of anyone around.",
+      "sourceUnit": "セイバールート一日目-07:page0:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right.\"\nThere was a crime committed in Miyama the other day.\nA burglar murdered someone, I think.\nIt must be why there's no one around, and why the school curfew has been set to six o'clock.",
+      "sourceUnit": "セイバールート一日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Gas leaks and burglars, huh? Seems like it's getting dangerous around here.\"\nNo wonder people are avoiding walking around at night.\nIt's probably not safe to let Sakura go home on her own anymore.\nFuji-nee might be fine, but Sakura's house is in the residential area on the other side of town.\nGuess I should walk her home starting toni—",
+      "sourceUnit": "セイバールート一日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI can't quite believe what I'm seeing. I must be wrong.\nI sense a presence on the uphill path I was sure was empty.\nWhoever it is, they're standing still, and look to be peering down at me.",
+      "sourceUnit": "セイバールート一日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI unconsciously hold my breath.\nA girl with silvery hair smiles and walks down the path without making a sound.",
+      "sourceUnit": "セイバールート一日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "And as she passes by...",
+      "sourceUnit": "セイバールート一日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You'd better summon one soon, or you'll die, big brother.\"",
+      "sourceUnit": "セイバールート一日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "What she says makes no sense.",
+      "sourceUnit": "セイバールート一日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I climb up the hill and reach my house.\nThe lights are already on, which means Sakura and Fuji-nee are home.",
+      "sourceUnit": "セイバールート一日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "The moment I step into the living room, I smell the delicious aroma of dinner.\nSakura and Fuji-nee are both eating at the table.\nTonight's meal is chicken stewed in cream sauce, and it's put Fuji-nee in an especially good mood.",
+      "sourceUnit": "セイバールート一日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome home, Senpai. Please excuse us for eating ahead of you.\"\n\"Thanks. And sorry for being late. I should've come home earlier.\"\n\"That's fine. You still made it in time. Please wait while I prepare your plate.\"\n\"Okay, thanks. I'll go wash up, so keep an eye on Fuji-nee to make sure she doesn't eat my portion.\"\n\"Yes, I'll do that.\"",
+      "sourceUnit": "セイバールート一日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I go to my room.\nIt's a sparse room compared to the storehouse, but it's still decorated enough, considering I don't have any particular hobbies.\nThough most of them are random things Fuji-nee just left here.",
+      "sourceUnit": "セイバールート一日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "After I wash my hands and change, I head back to see my food on the table.",
+      "sourceUnit": "セイバールート一日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for the meal.\"\n\"Please dig in. I hope you like it.\"\nSakura is humble as ever.",
+      "sourceUnit": "セイバールート一日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's cooking skills have vastly improved over the past year.\nMy cooking is no match for her Western foods. My Japanese dishes might be a little better. Neither of us is any good at making Chinese dishes.\nI'm glad to know she's improving, but it's also a little depressing when the pupil surpasses her master.",
+      "sourceUnit": "セイバールート一日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmm.\"\nIt really is delicious.\nThe longer you cook chicken, the tougher the meat gets.\nWhich is why you need to take the extra step of grilling the chicken to a crisp to seal in its juices and flavor.\nThis requires exceptional skill, and it's something the clumsy Fuji-nee would never be able to manage.",
+      "sourceUnit": "セイバールート一日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you think, Senpai? I think today's dish turned out quite well.\"\n\"No complaints here. The cream sauce is perfect. My cooking can't hold a candle to your Western dishes.\"",
+      "sourceUnit": "セイバールート一日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep, yep. Ever since Sakura started cooking, all her meat dishes have gotten better.\"\nFuji-nee, who's been concentrating on her meal until now,\npipes up.",
+      "sourceUnit": "セイバールート一日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"And you're in trouble, Shirou. A student shouldn't stay out so late at night.\"\nAck.\nShe looked to be in good spirits thanks to Sakura's meal, but the moment she sees my face, her mood turns sour.",
+      "sourceUnit": "セイバールート一日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I bet you were helping someone again. That's fine, but you really should be coming home early for now. Don't you remember my homeroom announcement about how it's not been safe lately?\"\nI was speaking directly to you, Shirou.\"",
+      "sourceUnit": "セイバールート一日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"You really don't need to make a homeroom announcement for something you can just tell me at home.\"\n\"You wouldn't listen if I told you here though. You're more likely to listen if I tell you at school.\"\n\"That seems like an abuse of authority, or at least mixing business with private matters.\"",
+      "sourceUnit": "セイバールート一日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. This is just what I have to do to make things sink in for Shirou.\n\"He always gets the short end of the stick because he's busy helping everyone. That idiot should come straight home once in a while and relax a bit.\"\n\"Huh!? Who're you calling an idiot? What's wrong with helping people? I'm not losing out on anything as long as someone benefits from my help.\"",
+      "sourceUnit": "セイバールート一日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"(Sigh) You're starting to sound like Kiritsugu. And that mindset has your big sister worried, Shirou.\"\nSeeing Fuji-nee eating so heartily makes me wonder what exactly she's worried about.",
+      "sourceUnit": "セイバールート一日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Ms. Fujimura? Just from that conversation, are you saying Senpai has always been like this?\"\n\"Yep. Always. He's the type who would lend a helping hand whenever there's someone in need. It's not that he meddles in things, but he's always been a bit precocious.\"",
+      "sourceUnit": "セイバールート一日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee grins menacingly.\n\"Fuji-nee. I'm going to get mad if you say anything you shouldn't. And you shouldn't ask such silly questions, Sakura.\"",
+      "sourceUnit": "セイバールート一日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "I glare at the two.\nFuji-nee clicks her tongue in disapproval, but...\n\"Ms. Fujimura, please continue.\"\nSakura presses on, like an attentive student.",
+      "sourceUnit": "セイバールート一日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let me explain. You see, Shirou just can't help himself when he sees someone in need. It's like helping the weak and subduing the strong. When he was younger, he wrote an essay that said he wanted to be a hero of justice.\"",
+      "sourceUnit": "セイバールート一日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...\nQuit bringing up the past, Fuji-nee.\nI can't really jump in though, because it's true.\nBesides, becoming a hero of justice is still my goal.",
+      "sourceUnit": "セイバールート一日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. You were a really wonderful child, Senpai.\"\n\"Yep. It was astonishing. He would swoop in to rescue a little girl from getting bullied by a boy twice her age, and he tried his hardest at doing housework because Kiritsugu was such a slob at home.\"",
+      "sourceUnit": "セイバールート一日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Aw, he was so cute and innocent back then. I'm not sure how he got to be the stubborn, disobedient boy he is today.\"",
+      "sourceUnit": "セイバールート一日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"That's on you, Fuji-nee. That's what happens with children when they have bad role models. And if you want to say something to that, try making an entire meal all on your own.\"\n\"Wha...!\"\nFuji-nee is shocked.\nI thought she would just lower her head and repent, but...",
+      "sourceUnit": "セイバールート一日目-07:page31:1"
+    },
+    "page32": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page33": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

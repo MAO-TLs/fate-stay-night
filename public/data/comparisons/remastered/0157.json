@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0157",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ungh!\"\nThere's no time for me to hesitate.\nI can't possibly fight like this, so I need to be careful until I've recovered.",
+      "sourceUnit": "セイバールート十一日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph...there!\"\nI put my wrists together to make it look like I'm tied up.",
+      "sourceUnit": "セイバールート十一日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nThe door opens.\nCould it be Illya? Or someone else from the castle?\nI just need to remain sitting here, looking like I'm bound up, right up to the very last moment when the person comes into the room and—",
+      "sourceUnit": "セイバールート十一日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you all right, Shirou!?\"\n...\nMy eyes widen.\nFor a moment, I genuinely think I'm just hallucinating out of sheer, desperate hope.",
+      "sourceUnit": "セイバールート十一日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I see you are tied up.\nI will untie you, so please stay—\"\n\"Oh, uh...the ropes are loose.\"\nI bring my hands out front.",
+      "sourceUnit": "セイバールート十一日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not understand. Were you not held captive here?\"",
+      "sourceUnit": "セイバールート十一日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, uh...I kind of got free, and then I heard someone coming as I was trying to get away, so I pretended to still be tied up.\"",
+      "sourceUnit": "セイバールート十一日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You were trying to trick your enemy into lowering their guard to give yourself the best possible chance of escape.\"\nSaber looks impressed.\nI am...not going to tell her that I hadn't managed to think any farther than that.",
+      "sourceUnit": "セイバールート十一日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way...you're Saber, right!? You're not some illusion. You're the REAL Saber?\"\nI stand up and touch Saber.",
+      "sourceUnit": "セイバールート十一日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh!? S-Shirou, please stop. If you touch me like that...\"\n\"Yep, you're real...b-but how did you get here!?\"",
+      "sourceUnit": "セイバールート十一日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why? I should hardly need to tell you. Servants need not explain their need to protect their Masters. It is my duty to come to your aid, knowing you have been captured.\"",
+      "sourceUnit": "セイバールート十一日目-04:page10:1"
+    },
+    "page11": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート十一日目-04:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

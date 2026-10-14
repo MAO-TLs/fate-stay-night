@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0590",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll protect Illya.\nI can't protect two people at once.\nTohsaka has Archer, but Illya has nobody else.\nSo, I have to protect her\nin Berserker's place!",
+      "sourceUnit": "桜ルート十日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, get down!\"\nI tackle her to the ground.\nJust as I cover her with my body,\nmy sight and spirit are dyed jet black.",
+      "sourceUnit": "桜ルート十日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"",
+      "sourceUnit": "桜ルート十日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "It's hot.",
+      "sourceUnit": "桜ルート十日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I feel like my body's about to be blown away.\nA wave of compressed magical energy erupts into a tempest that violates the whole forest.",
+      "sourceUnit": "桜ルート十日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Nothing.",
+      "sourceUnit": "桜ルート十日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "My vision is all black.\nIt's so dark, even though I can see clearly. I must have fallen into a black sun.",
+      "sourceUnit": "桜ルート十日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I have no self. No body.",
+      "sourceUnit": "桜ルート十日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "It must have been melted by the sun.\nI have no body.\nThe complete sensory loss is more revolting than any pain.",
+      "sourceUnit": "桜ルート十日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ah...ah...\"\nBut that's a problem.\nI can't protect Illya without my body.\nThe black Shadow will try to take Illya away.\nI use my right arm to resist as best as I can.\nI hug Illya with my right arm and hold onto the ground.",
+      "sourceUnit": "桜ルート十日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ah.\"\nThat's when I finally realize it.\nI do have a body. After all, I can't protect Illya without a body.\n...Wow, I'm being so dramatic.\nI'm only missing everything from my left shoulder.\nIt's all gone.\nMy body is still here. I'm still here.",
+      "sourceUnit": "桜ルート十日目-14:page10:1"
+    },
+    "page11": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I'm disappearing.\nThe Shadow melts away without a trace, as if it's expended all its power.",
+      "sourceUnit": "桜ルート十日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Illya's safe.\nI don't know what she's saying. Maybe my ears are ringing.",
+      "sourceUnit": "桜ルート十日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka...I wonder how she's doing.\nArcher...is there.\nHis red cloak is soaked in blood, and he looks so weak, like he's about to disappear.",
+      "sourceUnit": "桜ルート十日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...That's weird.\nWhat's she doing here?",
+      "sourceUnit": "桜ルート十日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Have you lost your mind? If you do that, you'll—\"\n\"There's nothing to consider. If I do nothing, two will die. But if I transplant this, I'm sure to save one.\n...At any rate, this body has reached its limit. If I'm going to disappear anyway, then it doesn't hurt to try.\"",
+      "sourceUnit": "桜ルート十日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Archer's...talking to...Rider.",
+      "sourceUnit": "桜ルート十日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...I wonder what's happening.\nIn the end, he...\n\"Normally, he would die. You can't save a person by attaching a spiritual body to theirs. But he and I are a special case. Rin will know what to do once she wakes up.\"\nJust once, he lovingly touches Tohsaka's hair.",
+      "sourceUnit": "桜ルート十日目-14:page18:1"
+    },
+    "page19": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0692",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I remember.\nBefore, Rider asked me a question under the stars.\nShe wanted to know whether I would be on Sakura's side until the very end, no matter what.",
+      "sourceUnit": "桜ルート十五日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I couldn't answer back then.\nBut now, I can say it with pride.",
+      "sourceUnit": "桜ルート十五日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider. I know Sakura is important to you.\nEven now, you're here to stop me from leaving because it would make Sakura suffer.\"",
+      "sourceUnit": "桜ルート十五日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. Are you going to go kill Sakura despite that, Shirou?\"\n\"I'm not going to kill her. I'm going to save her.\nRider, I'll protect Sakura until the very end. No matter what happens, I will always choose her.\"",
+      "sourceUnit": "桜ルート十五日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"But to do that...I need your help. Tohsaka and I can't save her alone. If you really care about Sakura, then please help me, just this once.\"",
+      "sourceUnit": "桜ルート十五日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that...\n...your answer to the question I asked before?\"\nI nod silently.",
+      "sourceUnit": "桜ルート十五日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Very well.\nBut I will not participate in a battle with no chance of victory. What do you expect me to do, Shirou?\"",
+      "sourceUnit": "桜ルート十五日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "What I expect Rider to do?\nThere's only one thing.\nOut of all the Servants in this war, Rider is the only one with a Noble Phantasm that can resist Saber's Noble Phantasm which is Sakura's most powerful card.",
+      "sourceUnit": "桜ルート十五日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I have a question for you first. Can you use your Noble Phantasm right now?\"\n\"Yes. Sakura still provides me with magical energy.\"",
+      "sourceUnit": "桜ルート十五日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Next question: Servants are classified as spiritual bodies even when you're in material form, right? If so, is it true that normal weapons can't harm a Servant?\"",
+      "sourceUnit": "桜ルート十五日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...I would say that a normal Servant would render such attacks ineffective, but it is different for the Servants under Sakura's thrall.\nSaber is a being given flesh, who cannot return to spirit form.\nA powerful magical implement could pierce the black armor that protects them.\"",
+      "sourceUnit": "桜ルート十五日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Then that settles it. We have a chance, and I know exactly what you can do to help.\nRider, I want you to beat Saber one-on-one. To be specific...\"",
+      "sourceUnit": "桜ルート十五日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I whisper in Rider's ear.\n...It's not like anyone's listening to us, but I'm just being safe.",
+      "sourceUnit": "桜ルート十五日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. That would allow us to break through.\nIt is a contest of brute force, at any rate. We don't need to worry about complications.\"\n\"Right? If there is a problem, it would be...\"",
+      "sourceUnit": "桜ルート十五日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Your skills, and how much I can trust them.\"",
+      "sourceUnit": "桜ルート十五日目-19:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

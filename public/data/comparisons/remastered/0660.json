@@ -1,0 +1,192 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0660",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nWhen I get back to the house, the first thing I feel is a terrible chill.\nNothing seems particularly out of place, nor do I sense any danger.\nI just have a vaguely cold sense of foreboding.",
+      "sourceUnit": "桜ルート十四日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The living room is empty.\nIllya is sleeping in the tatami room.\nTohsaka's getting ready for the Projection in her guestroom.\nAs for Sakura...",
+      "sourceUnit": "桜ルート十四日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, I'm coming in.\"\nI announce myself and reach for the doorknob.\nThe chill runs down my back again.\nSomething feels wrong, something missing, but I shake off the hunch and open the door.",
+      "sourceUnit": "桜ルート十四日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura—\"\n\"Guh...!\"\nI catch sight of Rider for an instant, before she vanishes like a ghost.\nBehind her...\nThe bed that Sakura is supposed to be sleeping in is unoccupied.",
+      "sourceUnit": "桜ルート十四日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh.\"\nThe lights turn on.\n\"Wha...\"\nI blink at the sudden illumination.\n\"Welcome back. I won't ask where you've been, but you sure took a while.\"",
+      "sourceUnit": "桜ルート十四日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...? What's going on...\"\n\"I'm sure you can tell. Sakura left the house on her own, and I've been stuck here in a staring match with Rider.\n...She probably got told not to lay a hand on you. The second you came in, she went into spirit form and ran outside.\"",
+      "sourceUnit": "桜ルート十四日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"What...\"\nTohsaka's voice is calm.\n...No, it isn't.\nThis isn't the voice of someone composed.\nHer cold, flat tone sounds like she's given up.",
+      "sourceUnit": "桜ルート十四日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, you said Sakura went outside.\"\n\"She really did. It looks like she left before you did, so it's already been two hours.\nI don't know what she thinks she's going to do in her state, but she probably won't listen to us now. Rider stopped me when I was about to go look for her, so I bet she feels ashamed of what she's doing.\"",
+      "sourceUnit": "桜ルート十四日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that's crazy talk! Sakura wouldn't keep secrets from...\"\nI can't say for sure that isn't true.\n...Sakura's nightmares.\nI could never understand how Sakura feels about her steadily deteriorating health.",
+      "sourceUnit": "桜ルート十四日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, we need to bring her back! If we let her go out alone in her condition...\"\n\"More people will die. She'll suck up the magical energy from anyone around her, just like when she attacked me at school.\nPlus, remember how the Shadow didn't leave a single victim behind last night? She must've been really hungry.\"",
+      "sourceUnit": "桜ルート十四日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka.\"\nShe looks slightly away and goes quiet.\nHer eyes seem to say,\n\"It's over, Shirou.\"",
+      "sourceUnit": "桜ルート十四日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, you...\"\n\"I agree that we should look for Sakura.\nBut if we find her and she isn't Sakura anymore, you know what we have to do.\"",
+      "sourceUnit": "桜ルート十四日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That won't happen. Sakura, Sakura's still...\"\n\"Sane? Can't you tell she was at her limit? Give it a rest already, Shirou. If you keep covering for her, you'll be the one to die first—\"",
+      "sourceUnit": "桜ルート十四日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Save the speculation. I'm going to bring her home, that's all. I'll argue with you after that's done, so shut up for now!\"\n\"Hey wait, Shirou!\"",
+      "sourceUnit": "桜ルート十四日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I run down the hall.\nI don't even have time to wonder where Sakura is.\n\"It's over, Shirou.\"\nI run with all my might, as if to deny what Tohsaka was saying.",
+      "sourceUnit": "桜ルート十四日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Are you going to look for Sakura?\"\n...\nBut then,\nI hear an unexpected voice just as I reach for the door.",
+      "sourceUnit": "桜ルート十四日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...When did she show up?\nIllya's watching me from afar, as if there's a wall between us.",
+      "sourceUnit": "桜ルート十四日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Illya.\"\n\"Answer me. Are you going to look for her?\"\n...\nI nod.\nIllya's voice is strained.\nHer resignation is different than Tohsaka's. Maybe she can feel exactly what Sakura's going through, as a fellow Holy Grail.",
+      "sourceUnit": "桜ルート十四日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. But Shirou, Sakura left on her own because she didn't want you to see her. She did it to protect you. She's scared and she doesn't want to die, but she wants to settle things on her own, as a Holy Grail.\nThe Sakura you love is gone. She went out alone to erase herself.\"",
+      "sourceUnit": "桜ルート十四日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nIllya's eyes bore straight into mine.\nI return the gaze and shake my head firmly.\nI won't let it happen.\nEven if Sakura isn't herself anymore, there's only one thing for me to do.",
+      "sourceUnit": "桜ルート十四日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Shirou, Sakura and I each have another self inside us. It's a version of me that you don't know, and a version of Sakura that isn't what you think.\nSakura won't come back. Now that she's changed, she's a different person.\nAre you still afraid to kill her, Shirou?\"",
+      "sourceUnit": "桜ルート十四日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Illya asks me a question,\nvery quietly.\nThe Holy Grail is something people created.\nShe's telling me that it was made to be broken, so I shouldn't hesitate to destroy it.\nWhen Illya talks about herself like that, all I can hear is Sakura's name instead.",
+      "sourceUnit": "桜ルート十四日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I'll ask you one more time.\nAre you still going to look for Sakura?\"\n\"...\"\nI don't know what feelings are behind that question.\nSo I answer as honestly as I can.",
+      "sourceUnit": "桜ルート十四日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'm going to find her. Sakura is still Sakura to me. That goes for you too, Illya. You're still you even if you turn into something I don't understand.\"",
+      "sourceUnit": "桜ルート十四日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"No matter how this ends...\nIf you're still somewhere in there, then you're the Illya I know.\"",
+      "sourceUnit": "桜ルート十四日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"To be honest, it's hard for me to understand. But that's how I feel.\"",
+      "sourceUnit": "桜ルート十四日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "I reach for the door.\n\"...She went to find Zouken. That's the only place she would go.\"\nHer voice guides me from behind.\n\"All right. Wait here at home, Illya. I'll bring Sakura back.\"",
+      "sourceUnit": "桜ルート十四日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I leave the house entrance.\nIllya keeps watching me go from afar.",
+      "sourceUnit": "桜ルート十四日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "I arrive at the Matou mansion.\nI'm not winded at all.\nI should be tired after running this morning, but my body feels completely fine.",
+      "sourceUnit": "桜ルート十四日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"It's...open.\"\nMy finger stops before ringing the doorbell.\n...Did someone enter or leave?\nThe front door lies partly ajar, and the inside is terribly quiet.",
+      "sourceUnit": "桜ルート十四日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "There's no sign of anyone here.\nThe house is even more dreary than it was yesterday.",
+      "sourceUnit": "桜ルート十四日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I don't find anyone on the first floor.\nThe only sound I hear is my echoing footsteps.\nI make my way upstairs, the floorboards creaking beneath me.",
+      "sourceUnit": "桜ルート十四日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The second floor is also empty.\nI gaze up at the sky through the skylight.\nI could sense that there was no one living here as soon as I went up the stairs.",
+      "sourceUnit": "桜ルート十四日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I stop myself before I go back downstairs.\nNo one living.\nA sense of dread directs my attention to an open door.",
+      "sourceUnit": "桜ルート十四日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "It's Sakura's room.\nI've seen it once before.\nI've never been inside.\nWhen Shinji showed me around before, Sakura pushed us outside, blushing furiously.",
+      "sourceUnit": "桜ルート十四日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I think that was two years ago.\nNothing's changed.\nIt's a girly room, barely decorated at all, which is like Sakura.\nThere...\n\"...Shinji.\"\nShinji's dead body is sprawled on the bed.",
+      "sourceUnit": "桜ルート十四日目-01:page35:1",
+      "recoveredDelimitedTail": true
+    },
+    "page36": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

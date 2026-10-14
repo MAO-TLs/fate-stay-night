@@ -1,0 +1,216 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0467",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I walk up the stone steps.\nSaber is already armed.",
+      "sourceUnit": "桜ルート五日目-21:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nBoth of us are tense, expecting an enemy to attack at any moment.\nThe stairway up to the mountain gate is long, and the breeze is pleasantly warm despite us being in the hills.",
+      "sourceUnit": "桜ルート五日目-21:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "According to Saber, this mountain has a barrier that repels Servants.\nIf they attempt to approach Ryudou Temple by any other path besides the gate, the barrier hurts them and reduces their magical energy.\nTherefore, the only way into Ryudou Temple is up these stairs.",
+      "sourceUnit": "桜ルート五日目-21:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I was sure they'd try to ambush us. You don't sense any Servants, Saber?\"\n\"No.\nI am the only Servant on these steps—\"\nSuddenly, Saber halts and looks down.",
+      "sourceUnit": "桜ルート五日目-21:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...? What happened?\"\n\"...It must have been my imagination. I thought I saw something that resembles a katana, but there's nothing like that here.\nThe gate is unprotected. Let us go inside.\"",
+      "sourceUnit": "桜ルート五日目-21:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber ascends the stone steps quickly.\n\"Hm?\"\nAfter a moment's confusion, I run after her.",
+      "sourceUnit": "桜ルート五日目-21:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Inside, it's silent.\nThe wind is strong.\nThe shadows, deep.\nIt's terribly dark, even though the moon is out.",
+      "sourceUnit": "桜ルート五日目-21:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI look up.\nThe moon's out, all right.\nIt glows brightly, illuminating the unlit temple grounds.\nDespite that, the area is engulfed in shadow.",
+      "sourceUnit": "桜ルート五日目-21:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber.\"\n\"Yes, something is wrong. The lack of response to our entry is inconcievable. And it's too quiet.\"\n\"...Let's look around inside. A family of almost fifty runs Ryudou Temple.\nThere's no way it would be this quiet.\"",
+      "sourceUnit": "桜ルート五日目-21:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I enter the temple with Saber.\nThere's nobody around.\nAfter making sure the grounds are unoccupied, Saber and I head deeper into the buildings.",
+      "sourceUnit": "桜ルート五日目-21:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Everybody inside is asleep.\nThey show no signs of waking.\nThey don't react even when I touch or pick them up.\nEvery single one of the fifty or so monks is in a coma.\nAll of them lie in a pleasant, dreamlike sleep, breathing steadily.",
+      "sourceUnit": "桜ルート五日目-21:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Of course, one of my classmates is among them.\nIssei Ryudou is asleep. I've only seen him so relaxed on a handful of occasions in the privacy of the student council office.",
+      "sourceUnit": "桜ルート五日目-21:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nWe move quickly through the wood-floored hallways.\nSaber senses something.\nShe directs us towards the inner main shrine.\nThe Master behind this disaster must be lurking in the heart of the temple.",
+      "sourceUnit": "桜ルート五日目-21:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "We step into the main shrine.\nSuddenly, my eyes are greeted by scarlet blood all over the floor.",
+      "sourceUnit": "桜ルート五日目-21:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...!?\"\nThe center of the shrine is drenched in red.\nThere's a man on the floor.\nThere's a pool of red spreading out from him. Maybe he was stabbed through the chest.",
+      "sourceUnit": "桜ルート五日目-21:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "The wound is fatal. He's lost too much blood to survive.\nHe's already dead.\nHe looks familiar, and he must be the Master of the thing standing besides him.",
+      "sourceUnit": "桜ルート五日目-21:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "The Servant stands there, staring down at her Master's lifeless corpse.\n\"...\"\nI'm assailed by a headache and an alarming unease.\nIt isn't the gruesome scene that terrifies me, but—",
+      "sourceUnit": "桜ルート五日目-21:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "That thing...\nThat dagger...is something bad.\nSaber doesn't seem to sense it, but somehow, I can tell the power in that dagger is nothing good.",
+      "sourceUnit": "桜ルート五日目-21:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster!\"\nSaber stands ready to fight.\nCaster, the purple-robed Servant, doesn't react.\nIs it because we've caught her by surprise, or because she was caught red-handed?\nSaber slightly crouches, ready to attack Caster in a breath.",
+      "sourceUnit": "桜ルート五日目-21:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Saber! Wait!\"\n\"Why are you stopping me, Shirou!? This is our chance to defeat Caster—\"",
+      "sourceUnit": "桜ルート五日目-21:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Not that, I mean don't touch that dagger! It destroys magecraft. It might sever the contract between Master and Servant!\"\n\"Then Caster, your Master...\"",
+      "sourceUnit": "桜ルート五日目-21:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWe don't know for sure if she killed her Master.\nBut it's clear to me that the dagger in her hand has an incomparable ability to dispel magical effects.",
+      "sourceUnit": "桜ルート五日目-21:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster, you would slay your own Master!?\"\nSaber advances angrily.\n...Caster turns to look at us.\nHer lifeless demeanor makes her look more wraith than Heroic Spirit.",
+      "sourceUnit": "桜ルート五日目-21:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "A sword flashes through the air.\nSaber's sword splits Caster's robe, shredding her clothes as she evades by bounding backwards.",
+      "sourceUnit": "桜ルート五日目-21:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber...?\nYou must be here to finish me off. I don't know who put you up to this, but they're thorough.\"",
+      "sourceUnit": "桜ルート五日目-21:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Silence. I don't want to hear the words of one who betrays her lord.\n\"Ha! You think I killed my Master? That I would hurt Souichirou?\nHeh...Haha, hahahahahaha! How amusing. Yes, if I had known this would happen, perhaps I would have done it myself!\"",
+      "sourceUnit": "桜ルート五日目-21:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "She coughs blood as she laughs.\nThe black-clad mage conceals the strange dagger under her robe, and thrusts a hand at Saber.",
+      "sourceUnit": "桜ルート五日目-21:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You're an eyesore, Saber. Disappear along with your Master.\"\n...\nThere's nothing else to say.\nWatching Caster keenly, Saber swings her sword without hesitation.",
+      "sourceUnit": "桜ルート五日目-21:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...Caster fades away.\nTheir clash couldn't even be called a fight.",
+      "sourceUnit": "桜ルート五日目-21:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Caster may have outstanding magecraft, but it was completely ineffective against Saber's high Magic Resistance.\nSaber shrugged off Caster's barrage of spells and cut her down in a single blow.",
+      "sourceUnit": "桜ルート五日目-21:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I've defeated Caster. Your orders, Master.\"\n\"Uh. R-right. Well, there's nothing else to do here. I could call the hospital...or actually, I should let Kotomine take care of the rest. He should be able to help all the unconscious people.\"",
+      "sourceUnit": "桜ルート五日目-21:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...But there's no saving the dead man in front of us.\nCaster disappeared, leaving her Master's body behind.\n...His death will be buried in darkness.\nTonight, he took his last breath, and one day, he will disappear from people's memories, his final fate unknown.",
+      "sourceUnit": "桜ルート五日目-21:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"...I know. There are four more Masters. I can't afford to freeze up here.\"\n\"That is wise of you to say. I understand how you feel, but please try not to become sentimental.\"",
+      "sourceUnit": "桜ルート五日目-21:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Saber turns her back on the shrine.\n...\nI'll at least burn the sight of the fallen corpse into my memory before I follow her.",
+      "sourceUnit": "桜ルート五日目-21:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nWait.\nWhat was that?",
+      "sourceUnit": "桜ルート五日目-21:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Why did you stop?\"\n\"Huh? Uh, um, for a second it felt like we were being watched. Didn't you feel it, Saber?\"",
+      "sourceUnit": "桜ルート五日目-21:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I did not sense anything. We have already checked the surroundings for other people. Are you sure you didn't just imagine it?\"\n\"Ugh...maybe. I bet you're right, Saber. Yeah, it was probably nothing.\"",
+      "sourceUnit": "桜ルート五日目-21:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let us hurry. Now that Caster has fallen, her victims will begin to wake up. We should leave before we are sighted.\"",
+      "sourceUnit": "桜ルート五日目-21:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...She's right.\nIt leaves a bad taste in my mouth, but this should put an end to the comas happening all over the city.\nI can chalk that up as a win, at least.",
+      "sourceUnit": "桜ルート五日目-21:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Let's leave the mountain and let Kotomine know. Then we'll go home and rest.\"\nSaber nods in satisfaction and leaves the shrine.",
+      "sourceUnit": "桜ルート五日目-21:page39:1"
+    },
+    "page40": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page41": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

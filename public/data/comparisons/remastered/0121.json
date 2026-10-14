@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0121",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee. You can have some apples if you want, but you'd better eat your quota of tangerines. We still have a whole box of them left, you know.\"",
+      "sourceUnit": "セイバールート七日目-23:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh, why did you have to remind me? Ugh. I'm so tired of tangerines.\"\nFuji-nee's fangs...I mean, her teeth dig into an apple while she complains.",
+      "sourceUnit": "セイバールート七日目-23:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, you're tired of them!? That's why I was against it to begin with. There's just me, Sakura, and you in the house, but you bought over ten pieces of mochi and three boxes of tangerines!\nYou obviously bought too much for New Year's. It's already February, but we still have a whole box left. If you let them go bad, you're paying for them.\"",
+      "sourceUnit": "セイバールート七日目-23:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... Um, if I may ask...how long does it take for tangerines to rot?\"\n\"Well, about two weeks to a month at room temperature. So they're nearly done for.\"\nWell, I'm storing them in a cold room, so we should have a little more time.",
+      "sourceUnit": "セイバールート七日目-23:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh crap. Does that mean they're good to eat, or about to rot?\"\n\"...Fuji-nee, I beg of you, never live on your own. I've heard some really scary stories about food poisoning. If you live alone, you should at least check the expiration dates on food, and be very careful when you eat fish in summer.\"",
+      "sourceUnit": "セイバールート七日目-23:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about that. I'll just come to your place if I ever live alone.\nYou can give me leftovers.\"\n\"...Like hell I'd give you my leftovers, you dummy.\nYou have a huge appetite. If you're going to come for a meal, I'd just make enough for you too.\"\nI huff as I turn my away and go back to preparing dinner.",
+      "sourceUnit": "セイバールート七日目-23:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then I'll just make tons of money and give you enough to pay for all the ingredients you buy.\nYou're a good-for-nothing like Kiritsugu, so money's always tight.\"",
+      "sourceUnit": "セイバールート七日目-23:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Big talk, coming from you. Why'd you get so many tangerines anyway? You know Sakura doesn't like those kinds of fruits, and I don't eat much of them either.\"\nI might as well ask the question that's been bothering me since New Year's.",
+      "sourceUnit": "セイバールート七日目-23:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, no reason. Oh, but don't you think 'orange pekoe' has a nice ring to it?\"\n...\nWell...\nI was a fool to expect sense from Fuji-nee.",
+      "sourceUnit": "セイバールート七日目-23:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

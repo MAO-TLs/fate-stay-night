@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0596",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I don't even need to think about that.\"\n\"W-why? Rin is violent, greedy, and as loud as a mynah. But you still want to be with her? Is that what you're into?\"",
+      "sourceUnit": "桜ルート十日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's not like that, Illya.\nThis is about whether I'll obey her orders, and I'm willing to. I can't stop Zouken on my own, and I'm only alive thanks to Archer.\"",
+      "sourceUnit": "桜ルート十日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"But... That's only because Archer is your...\"",
+      "sourceUnit": "桜ルート十日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll let Tohsaka give me orders. That makes me no different from a Servant, right? She can treat me like one if that's what she wants.\"\nI look at Tohsaka for confirmation.",
+      "sourceUnit": "桜ルート十日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Tohsaka? Hey, don't ignore me when I'm talking to you.\"",
+      "sourceUnit": "桜ルート十日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Y-yeah. I'm glad you get it.\nMy Archer left his unfinished work to you, so we're in the same boat now. I'll work you hard to pay back that debt.\"\n\"Of course. I can't sleep at night unless I properly pay back my debts.\"",
+      "sourceUnit": "桜ルート十日目-17:page5:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

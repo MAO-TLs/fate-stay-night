@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0127",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I should call Tohsaka back.\nI shouldn't break any more lamps.\n...Actually, I really shouldn't be talking big after breaking over forty lamps.",
+      "sourceUnit": "セイバールート九日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Tohsaka.\"\nI call out to her, but there's no answer.\nThat's weird. Did she step out of the house?\nWhere else might Tohsaka go...?",
+      "sourceUnit": "セイバールート九日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"There's someone in the shed.\"\nIt sounds like Tohsaka and Saber are talking inside.\n\"Hey, Tohsa—\"\nThe instant I lift a hand to call out to her...",
+      "sourceUnit": "セイバールート九日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "A chill runs up my spine.\nI think it's because I can feel Tohsaka's magical energy seeping from the shed. It pulses with enmity.",
+      "sourceUnit": "セイバールート九日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...?\"\nI immediately stop calling for her.\nEven from here, I can tell Tohsaka is agitated.",
+      "sourceUnit": "セイバールート九日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "But I can hear the two of them talking.\nBefore I know it, I'm eavesdropping.",
+      "sourceUnit": "セイバールート九日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"What's up with him!?\"\nTohsaka sounds both angry and nervous.\nSaber stands silently behind her.",
+      "sourceUnit": "セイバールート九日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't believe it. Saber, did you know about this?\"\n\"No, I did not. I am a knight, not a mage. I only felt something was amiss. I do not understand the situation as well as you, Rin.\"",
+      "sourceUnit": "セイバールート九日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then let me tell you. He's no mage.\"",
+      "sourceUnit": "セイバールート九日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean by that?\"\n\"I mean what I said.\nMagecraft is ultimately equivalent exchange. No matter what kind of Mystics you're talking about, all it does is take something from somewhere else and put it to use.\"",
+      "sourceUnit": "セイバールート九日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"But this is different. He is creating something from nothing. He's taking something that shouldn't exist and giving it shape.\nThis is...a concept encroaching on reality itself.\nHis magecraft is nothing but a degraded version of it.\"",
+      "sourceUnit": "セイバールート九日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI have no idea what Tohsaka is saying.\nBut I definitely shouldn't be listening in on the two of them.\nI walk away from the shed.\nI'll be lying to Tohsaka, but I should go back to her room and pretend I was waiting for her to come back...",
+      "sourceUnit": "セイバールート九日目-01:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

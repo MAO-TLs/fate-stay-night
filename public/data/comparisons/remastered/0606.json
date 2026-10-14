@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0606",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew.\"\nI breathe out the gloom that collected in my lungs.\nI'm being absurd.\nHow is believing in delusions supposed to help me?\nIf Tohsaka saw me like this, she'd be furious with me before she even got to laughing.",
+      "sourceUnit": "桜ルート十日目-25:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...It'll be okay. I can't move the arm, but I still have options. There's plenty of other stuff to worry about.\"",
+      "sourceUnit": "桜ルート十日目-25:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The bigger problem is Sakura, not my arm.\nShe seemed energetic, but she could collapse at any time.\nI need to defeat Zouken and obtain the Holy Grail before then.\nI can worry about myself after that.\nI'll beat Zouken and Assassin with one arm.\n...And they're not my only enemies.\nWe're facing a mysterious, unknown foe too.",
+      "sourceUnit": "桜ルート十日目-25:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know the story behind it.\nI have no idea what that black Shadow is, nor how Saber became Zouken's Servant.\nAll I know is that she's my enemy now.",
+      "sourceUnit": "桜ルート十日目-25:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

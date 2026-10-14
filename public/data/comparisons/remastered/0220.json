@@ -1,0 +1,326 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0220",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I step into the darkness.",
+      "sourceUnit": "セイバールート十五日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's a room made of stone.\nThe lights are out, but the room itself feels like it's alive, and a faint blue light suffuses the whole place.\n\"There's a sanctuary...underground...?\"\nNo dust or cobwebs anywhere. It looks like this place sees a lot of use.",
+      "sourceUnit": "セイバールート十五日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure how far back it goes.\nI look back up the stairs I just came down.\nThe staircase hugs a curved wall.\nAfter descending the curved stairs, I look up and see the entrance is about ten meters above me now.",
+      "sourceUnit": "セイバールート十五日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nMaybe it's the absence of light...\n...but the gently curving staircase puts me in mind of a centipede crawling its way through the cathedral.",
+      "sourceUnit": "セイバールート十五日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...?\"\nAnd then I notice a door.\nIt's right at the bottom of the stairs.\nThere's a symbol on the wall. Beyond it, a deep darkness beckons me.",
+      "sourceUnit": "セイバールート十五日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Almost as if it were drawing me in, I find myself stepping into the darkness.\nI step through what seems like an entrance of some kind.\nIt's...damp.\nThe floor's all slimy and it's hard to walk.\nIt reminds me of when I was cleaning the school pool.\nMoss covers the entire floor, and it feels like my feet are sinking to the ankles into some kind of rot covering the floor.",
+      "sourceUnit": "セイバールート十五日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop suddenly.\nThe nasty sensation beneath my feet is bad enough, but now there's a horrible stench.",
+      "sourceUnit": "セイバールート十五日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I pinch my nose shut.\nThis isn't some temporary odor. It's permeated the whole room.\nIt doesn't smell like fish.\nOr gunpowder.\nIt smells like...formaldehyde.\nThe chemical reek of it has stagnated in the room like thick mud.",
+      "sourceUnit": "セイバールート十五日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy senses seem to have been numbed from the moment I got into the basement.\nI'm long past tension and nervousness.",
+      "sourceUnit": "セイバールート十五日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nMy heart expands and contracts without a break, and my limbs are moving so weirdly it feels like I might wrench out every nerve in my body.\nAnd what's worse...\nMy eyes have grown accustomed to the darkness.",
+      "sourceUnit": "セイバールート十五日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "The darkness fades.\nI hear drops of water falling.\nIt's almost like that serves as the starting bell.\nWhat I couldn't see before is suddenly clear.",
+      "sourceUnit": "セイバールート十五日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nWhat I see...\n...is an all-too-familiar living hell.",
+      "sourceUnit": "セイバールート十五日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Death lined up, all in a row.\nDebris is piled everywhere.\nThe stench of death, covered by antiseptics.",
+      "sourceUnit": "セイバールート十五日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ah.\"\nI thought this was all a lie.\nI want to believe none of this is real.\nBut I can't deceive myself.\nI can tell in an instant.\nEven in a room so full of corpses...\n...not one of the bodies here is truly dead.",
+      "sourceUnit": "セイバールート十五日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"They're...alive.\"\nThey're all alive.\nThese...corpses—they can only be called corpses, however human they once were—are all alive.",
+      "sourceUnit": "セイバールート十五日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah.\"\nWhy are they still alive? How are they still alive?\nI look over each and every body.\nNot one of them has retained their original form.\nImagining what happened to every one of these sacrilegious forms is just too terrifying. They're more like the husks of dead trees than corpses.\nSome have been broken down to the point that their flesh has seeped into the cracks of the stone pavement...\nSome are hung against the wall, and are little more than nests for bugs.\nWhatever their arrangement, these...figures have only torsos and heads, and even those are pitifully ragged.",
+      "sourceUnit": "セイバールート十五日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't even need to know why.\nThe corpses are being eaten away in their coffins.\nI don't know how it works.\nEach corpse is welded into a coffin, and the coffin sucks the nutrients from them.",
+      "sourceUnit": "セイバールート十五日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "The flow of life.\nThe coffin is extracting magical energy. Souls.\nLittle by little...\nThe coffin sucks the life out of its prey in such a precise amount that it neither kills it nor allows it to truly live.",
+      "sourceUnit": "セイバールート十五日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The wind moans through the chamber.\nIt's almost like a single scream from the mouths of every corpse here.\nTheir throats have long since decayed, so they can't scream for themselves anymore. By now, their throats only barely serve to carry air to their lungs.",
+      "sourceUnit": "セイバールート十五日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "But still, the corpses scream.\nAll but inaudible, they scream.\nThey must be in terrible pain, and so very afraid.\nThey continue to shriek, unable to accept that their bodies are being eaten alive as they gradually lose their shape.",
+      "sourceUnit": "セイバールート十五日目-02:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nI hear a creaking sound.\nThe coffin in front of me gurgles.\nIt's oozing.\nThe corpse's head is turned toward me. Something falls out of it.",
+      "sourceUnit": "セイバールート十五日目-02:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nIts swollen lips move slightly.\nIn a voice that isn't a voice, it asks,\n\"Where. Am. I?\"\nThat's what it wants to know.",
+      "sourceUnit": "セイバールート十五日目-02:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm about to scream.\nNo, I can't even scream anymore.\n\"Where am I?\"\nIt didn't say it was in pain, didn't ask for help, just wanted to know what this horrible place is.",
+      "sourceUnit": "セイバールート十五日目-02:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I'm trying to understand...\nDid that child find themselves in this state when they came to?\nBefore this, they must have lived a normal life, slept normally...but one day they woke up and found themselves here.\nThe question must have come from the hope that this is just a bad dream. Being trapped in a coffin, unable to move, their limbs rotting...",
+      "sourceUnit": "セイバールート十五日目-02:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy heart's breaking.\nThis is so unimaginably horrible.\nBut...why...?\nWhy do they seem so strangely familiar?",
+      "sourceUnit": "セイバールート十五日目-02:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I've never seen any of them, but I recognize every one of the corpses.\nThis is my first time here...\nI shouldn't know any of them...\nNone of them are connected to me, so why...\nWhy do they act like they know me?\n(Just like how I know them...)\nAnd why are they staring at me?",
+      "sourceUnit": "セイバールート十五日目-02:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ah...aaa...\"\nAnd...I have another question.\nEach of them shares something in common, unless that's just a coincidence.\nWhy do all these corpses look like children of the same age?",
+      "sourceUnit": "セイバールート十五日目-02:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"Ah. Welcome, Shirou Emiya.\"\nIt comes out of nowhere.\nA hand claps my shoulder from behind. The voice is friendly, like a greeting from a close friend.",
+      "sourceUnit": "セイバールート十五日目-02:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI go completely stiff with shock. I can't even turn around.\nOnly, I don't have to turn to see who's behind me.\nKirei Kotomine.\nThis church's priest...the man responsible for this little piece of hell.\nAnd the devil...the last person I should have run into right now.",
+      "sourceUnit": "セイバールート十五日目-02:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"What unfortunate timing. I did expect you to visit soon, so I suppose it's my fault for preparing a meal at this hour.\nDo you recall how I failed to be hospitable last time?\nI attempted to be more considerate this time, but it seems we missed each other.\"",
+      "sourceUnit": "セイバールート十五日目-02:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't say anything.\nThe priest's hands rest heavily on my shoulders.",
+      "sourceUnit": "セイバールート十五日目-02:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot, however, condone your trespassing. You might see something you shouldn't.\nAnd then, having learned the truth... Well, that might set our relationship back quite a ways.\"",
+      "sourceUnit": "セイバールート十五日目-02:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The priest sounds more cheerful than I've ever heard.\nAs Kotomine stands there behind me, hands on my shoulders, I can tell he's smiling.\n...\nIt's...\n...indescribably terrifying.",
+      "sourceUnit": "セイバールート十五日目-02:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"What is the matter, Shirou Emiya? You have come to talk, correct? There is no sense being quiet then. Hm, this is a surprise. Is this such a bizarre sight to you?\"",
+      "sourceUnit": "セイバールート十五日目-02:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "He sounds so cheerful, even when he's saying such horrible things.\nDoes this man not feel anything in the face of this horror?\n\"Ugh...\"\nDo I even need to comment on how horrible this is!?",
+      "sourceUnit": "セイバールート十五日目-02:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? How cold of you. Proper manners dictate you should at least say it is not, whatever you might think.\nThese are practically your brothers and sisters, after all. I do not think they would appreciate such rudeness.\"",
+      "sourceUnit": "セイバールート十五日目-02:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\nWhat did...\nWhat did he just say? And so happily...",
+      "sourceUnit": "セイバールート十五日目-02:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"What...did you say?\"\n\"I said that these corpses are practically your siblings.\nBy whatever means, you all survived that hell. You may not be related by blood, but I believe you all share what amounts to a familial bond... Am I wrong?\"\n...",
+      "sourceUnit": "セイバールート十五日目-02:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "So that's why I thought I recognized them.\nThis is a continuation of what happened ten years ago.\nI'm back in that hospital room.",
+      "sourceUnit": "セイバールート十五日目-02:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "My head is spinning.\nChildren who have lost their homes and parents...\nThey were sent to an orphanage until they were adopted.\nBut before that happened to me, Kiritsugu Emiya adopted me, so I never knew what happened to those kids afterward.\nI'd actually avoided finding out.\nThe orphanage was at the church on top of the hill, and I could have gone there anytime, if I'd wanted to.",
+      "sourceUnit": "セイバールート十五日目-02:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "But I held back.\nI felt it wasn't fair for me, who did get adopted, to go visit the children who still hadn't been.\nThat's why I decided that if I were to meet them, it would have had to be in town.\nWe would just bump into each other, chat idly to catch up, and most importantly, have gotten over the fire and hell.\nAs small as our town is, I always dreamed of a reunion like that. But it never happened.",
+      "sourceUnit": "セイバールート十五日目-02:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Koto...mine...\"\n\"That is correct, Shirou Emiya. Had Kiritsugu Emiya not adopted you, you would have shared these things' fate.\nDo you understand? You were the only one who was saved.\nWhile everyone else died, equal, you were the one who violated this harmony by surviving. What do you think? Do you not find that just a little unfair?\"",
+      "sourceUnit": "セイバールート十五日目-02:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "My heart starts beating again.\nI'd been frozen stiff a moment ago, but suddenly I'm able to move.",
+      "sourceUnit": "セイバールート十五日目-02:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, don't mistake me. This isn't criticism. On the contrary, your situation is a delight. Your talent for survival is impressive. Honestly, I did not expect you to last so long.\nThat is why I thought to reunite you with your siblings...here in your final moments.\"",
+      "sourceUnit": "セイバールート十五日目-02:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"You piece of—\"",
+      "sourceUnit": "セイバールート十五日目-02:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Lucky boy. I planned to close this place after today, so you barely made it.\nFor the past ten years, I have kept them alive as fodder to sustain Servants, but that is all coming to an end. I can no longer collect the same quantity of robust souls, all steeped in agony, as I once did. Of course, there is also no need for feed any longer. All that remains is to kill you and your Servant.\"",
+      "sourceUnit": "セイバールート十五日目-02:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"YOU FUCKING PIECE OF SHIT!!!\"",
+      "sourceUnit": "セイバールート十五日目-02:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Those words shatter the restraints that had been holding me still.\nI move my paralyzed body.\nPushing clear of the hands on my shoulders, I leap forward and whirl around to face the priest.",
+      "sourceUnit": "セイバールート十五日目-02:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine...it was you!!!\"\nAs I face him, I put distance between us.\nIn that moment...\nI feel a powerful impact from behind.",
+      "sourceUnit": "セイバールート十五日目-02:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ghg...!?\"\nThat's weird.\nI can't breathe.\nSomething sharp protrudes from my chest.\nIt looks like the head of a spear.\nThat can't be.\nHow could a spear be growing out of my chest...?",
+      "sourceUnit": "セイバールート十五日目-02:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah yes, I also failed to mention...\nAllow me to formally introduce you to my Servant.\"\n\"Nnn...gh...ngggh...\"\nI turn around.\nThere...\nI see a blue-colored spearman, his weapon thrust through my chest.",
+      "sourceUnit": "セイバールート十五日目-02:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "He jerks it free.\nAt the same time...\n...a searing, intense pain rocks my entire body.",
+      "sourceUnit": "セイバールート十五日目-02:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...gaaagh...!\"\nRed splatters the floor.\nI collapse onto the slimy, mossy ground.\nI try to push myself to my feet, but my body's too heavy.\nI can't move.\nWhile I may not be paralyzed anymore, my body isn't capable of moving for entirely different reasons now.",
+      "sourceUnit": "セイバールート十五日目-02:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Ghggg! Ha...h!\"\nThe pain in my chest is unbelievable, blotting out the blood loss and dimming vision.\nI can't pass out.\nI've sustained fatal wounds numerous times.\nThey were all bad; they all numbed my senses.\nBut this is different.\nIt's a fatal wound for sure, but the pain is just too intense.",
+      "sourceUnit": "セイバールート十五日目-02:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...aaah...ha...krrrh!\"\nMy vision distorts.\nThe instant I pass out from pain, more pain jolts me back awake.\nI can't feel my limbs.\nI can't even tell where I am anymore.\nThe only things I feel are vomit-inducing pain, and the temptation to just disappear to escape this agony.",
+      "sourceUnit": "セイバールート十五日目-02:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you not to kill him, Lancer. Otherwise there would be no point in keeping him alive until now.\"\nI can only hear voices.\nMy eyes are open but I can't see anything.",
+      "sourceUnit": "セイバールート十五日目-02:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I hear ya, even if I don't love the order.\"\nLancer's voice is devoid of emotion.\nBut I can barely hear him.",
+      "sourceUnit": "セイバールート十五日目-02:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Then we will begin our preparations. A Servant can sense when their Master's in danger. We have about thirty minutes until Saber arrives here.\"\n\"Kotomine, this kid's not gonna last that long. If you want him alive, you should stop the bleeding.\"\n\"That will not be necessary. If he dies, so be it.\"",
+      "sourceUnit": "セイバールート十五日目-02:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "My mind is fading...\nThe pain finally becomes too much, and my mind lets me faint.",
+      "sourceUnit": "セイバールート十五日目-02:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Ghhh...ah!\"\nI stop the pain by digging into my wound.\nThe pain resumes.\nI'm on the verge of sinking into oblivion, only to be dragged into a world of searing pain.",
+      "sourceUnit": "セイバールート十五日目-02:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I want to die.\nIf this pain isn't going to stop, I want to die right now.\nI know that.\nI know, but if I faint here, I know I'm never going to wake up.",
+      "sourceUnit": "セイバールート十五日目-02:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I can't even remember what I'm doing.\nI feel like I'm just drifting through white-hot pain that will burn me to nothing.\n\"Ha...Sa...ber...!\"\nI grit my teeth, trying to endure the pain, and trying to cling to my own fading awareness.",
+      "sourceUnit": "セイバールート十五日目-02:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "I can't end it all here.\nI can't let myself drop out of the war so easily.\nThere's still a promise I haven't fulfilled yet.\nIf I believe she is the most important person in my world...\nI can't just disappear here.",
+      "sourceUnit": "セイバールート十五日目-02:page62:1"
+    },
+    "page63": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

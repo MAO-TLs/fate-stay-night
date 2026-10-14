@@ -1,0 +1,326 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0351",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...I refuse. I won't take up on your offer.\"\nI say to the mage, without looking away.",
+      "sourceUnit": "凛ルート十一日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nThree people gasp.\nNobody here expected me to choose that option.",
+      "sourceUnit": "凛ルート十一日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"A-Are you insane...? Do you understand the position you are in?\"\n\"Yeah. I get your argument. I think what you're saying is correct.\"",
+      "sourceUnit": "凛ルート十一日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "If we can avoid battles, we should avoid them. And if the Holy Grail can be shared, we should share it.\nBut...",
+      "sourceUnit": "凛ルート十一日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"But, I won't cooperate with a witch who attacks people indiscriminately.\nYour argument is correct, but your method is wrong.\n...And one more thing. I wasn't forced to be a mage. I succeeded my old man out of my own will.\nYou have no right to say anything about it.\"",
+      "sourceUnit": "凛ルート十一日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Then I do not need you. You can die here.\"\nCaster's voice is filled with murderous intent.",
+      "sourceUnit": "凛ルート十一日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"You...\"\nAt the same time, Saber braces herself.\nSeeing that...\n\"Don't move, Saber...!\"\nI stop her with all my might.",
+      "sourceUnit": "凛ルート十一日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Please. Don't move, Saber. You too, Tohsaka. We can't move right now.\"\nShe'll be killed if any one of us moves.\nIn this house...\nI would lose the person who has been like my older sister and stayed with me until now, in this very living room.",
+      "sourceUnit": "凛ルート十一日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...But Shirou...\"\n\"...Idiot. Then why did you refuse?\"\nStill, they both stopped.\n\"...\"\nI take one step towards Caster, trying to hide them.",
+      "sourceUnit": "凛ルート十一日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. I thought you might be clueless, but it seems like you at least understand your position.\"\nA smile returns to Caster's face.\n...That arm.\nHer left arm that was carrying Fuji-nee points slowly at me.",
+      "sourceUnit": "凛ルート十一日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...! How unfair, are you going to kill Shirou when he isn't resisting...!?\"\n\"Of course not. I won't take his life. He is just going to lose his rights as a Master. You seem to have only one left, but hand over that Command Spell.\nYou will not cooperate with me, yet you want to save this girl.\nYou should have been prepared for this when you said that.\"",
+      "sourceUnit": "凛ルート十一日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...!\"\nSaber's breath stops.\n\"...\"\nI apologize to Saber in my head and take one step closer to Caster.",
+      "sourceUnit": "凛ルート十一日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Got it. But how should I give you the Command Spell?\nI don't know how to hand it to people.\"\n\"Shirou...! It is no use...!\"",
+      "sourceUnit": "凛ルート十一日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us see. I can transplant it if there is no interruption, but that does not seem likely here. It is not possible to do it unless we relocate to a place where we can settle down. So...",
+      "sourceUnit": "凛ルート十一日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Rip off your skin. Here.\"",
+      "sourceUnit": "凛ルート十一日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe black witch says with a smile.",
+      "sourceUnit": "凛ルート十一日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...That is it.\nShirou, please give up on Taiga. We cannot let Caster get her way any further...!\"\n\"I agree. First of all, she's not one to release a hostage. She'll just use you until the end if you obey her.\"",
+      "sourceUnit": "凛ルート十一日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nBoth are right.\nThat's why for now, I can only apologize to them in my head.",
+      "sourceUnit": "凛ルート十一日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Take it. This is what you want, right?\"\nI raise my left arm.\nCaster should be able to take away my Command Spell, along with my flesh, with just one word.",
+      "sourceUnit": "凛ルート十一日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, Shirou...!\"\n\"What's wrong with you...!? There's no need to go that far to save someone else...!\"\n\"There is. If I'm able to save Fuji-nee at the cost of just one arm, there's no need to think about it.\"\nI show my left arm to Caster.",
+      "sourceUnit": "凛ルート十一日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Come here, Shirou Emiya.\nI do not know what you are scheming, but my finger is faster than any surprise attack.\"\nCaster does not seem to trust me, as she carefully puts distance between us.",
+      "sourceUnit": "凛ルート十一日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI walk closer.\n...Caster's right in front of me, and I'm far from the other two.\nI walked to a position where I couldn't escape from and offered my left arm.",
+      "sourceUnit": "凛ルート十一日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...\"\nThe black witch watches me in astonishment.",
+      "sourceUnit": "凛ルート十一日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Haha. Muahaha, muahahahahahaha...!!!\nI am surprised. What a good person you are, boy! Fine, I shall return this woman in deference to your good faith!\"\nHer robe flutters.\nWhile keeping her grip on Fuji-nee's neck with her left arm, Caster takes out a dagger with her remaining right hand.",
+      "sourceUnit": "凛ルート十一日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"What a joke, I didn't have to go through the trouble if it was going to be like this!\nWhat a stupid kid. An annoying people pleaser like you deserves to die...!\"\nShe swings her dagger.\nIt goes not for my arm, but down towards my chest as if to take my heart…",
+      "sourceUnit": "凛ルート十一日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster...!\"\nShe explodes.\nSaber steps in with speed that I could only imagine.",
+      "sourceUnit": "凛ルート十一日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Guh!?\"\nThat speed must've been faster than Caster had expected, as she is unable to react to her dagger being repelled.\nCaster retreats and Saber goes after her.\nShe must've realized that she can't get away.",
+      "sourceUnit": "凛ルート十一日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, then...\"\nSmiling happily, Caster puts strength into her right arm and...",
+      "sourceUnit": "凛ルート十一日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, stop, Saber...!!!\"\nI pray from the bottom of my heart and extend my raised left arm.",
+      "sourceUnit": "凛ルート十一日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Shirou, you used the Command Spell...\"\nSaber stops.\nHer movements are stopped by the absolute obedience enforced by the Command Spell.",
+      "sourceUnit": "凛ルート十一日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "There...\nWith a thud…\nThe dagger is stabbed as easily as making footsteps in snow.",
+      "sourceUnit": "凛ルート十一日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nAn illusion as though time has stopped.\nSaber looks down at her own chest, dumbfounded.",
+      "sourceUnit": "凛ルート十一日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster, you...\"\n\"Yes. This is my Noble Phantasm, Saber. It has no lethality and is nothing more than a ritualistic key.\nBut... This is a blade of betrayal that overturns any contract. We are now the same.\nBetray your Master and entrust your sword to me.\"",
+      "sourceUnit": "凛ルート十一日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...!?\"\nA red light shines through.\nOminous magical energy flows out.\nIt goes through Saber's whole body and destroys every rule that disciplined her...\nIt completely cuts my connection with Saber.",
+      "sourceUnit": "凛ルート十一日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah, ah...!\"\nSaber crumbles to the floor.\n...A bruise-like seal appears on her forehead.",
+      "sourceUnit": "凛ルート十一日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Three seals appear on Caster who is standing beside her.\nThe Command Spell that binds Servants.\nThe proof of being Saber's Master that used to be on me, is now on her arm.",
+      "sourceUnit": "凛ルート十一日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n\"Are you surprised? This is my Noble Phantasm, 'Rule Breaker.'\nThe sword of betrayal and negation that nullifies any magecraft cast in this world.\"",
+      "sourceUnit": "凛ルート十一日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Khh...\"\nSaber is panting on the floor.\nAs if she is fighting against a poison that entered her body.",
+      "sourceUnit": "凛ルート十一日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"You... A Servant taking another Servant...?\"",
+      "sourceUnit": "凛ルート十一日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I made her into a familiar, young lady. Now, everything is as planned.\nShirou Emiya is no longer her Master, and Saber is mine.\nThere is nothing to fear now that I have full command of her. Yes, it does not even matter whether Berserker attacks me. I shall go attack them this time...!\"\nCaster laughs loudly and holds the collapsed Fuji-nee in her arms.",
+      "sourceUnit": "凛ルート十一日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Here, I will give her back to you, idiot. She is an important person to you, right? Then you have to do your best until your final moment so she does not die.\"\nFuji-nee's body floats.\nAs if being pulled by an invisible arm, Fuji-nee's body levitates.",
+      "sourceUnit": "凛ルート十一日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh, Fuji-nee...!\"\nI catch her at once.",
+      "sourceUnit": "凛ルート十一日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee...! Are you all right, Fuji-nee...!?\"\nThere is no reply.\nBut her body is warm.\nFuji-nee is unconscious, but she's breathing and doesn't have a single wound.",
+      "sourceUnit": "凛ルート十一日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...\nI sigh with relief.\n\"Are you satisfied now? I did promise you, so I shall spare that girl. And...well, I shall let you go as well.\nThat spectacle from earlier was so wonderful it made me angry.\nBut...\"",
+      "sourceUnit": "凛ルート十一日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Well, I figured it would be like this.\"\n\"Yes, the fun's over, young lady.\nNow, Saber. Kill Archer's Master.\nIf he gets in the way, you can kill the kid that was your Master too.\"",
+      "sourceUnit": "凛ルート十一日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Don't be ridiculous, who would obey you...!?\"\nSaber glares at Caster, still on her knees.",
+      "sourceUnit": "凛ルート十一日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you obey me, Saber. You are mine now. You cannot disobey me physically or mentally as long as I have this Command Spell.\"",
+      "sourceUnit": "凛ルート十一日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Guh...!\"\nSaber's voice is filled with pain.\n...But, on the other hand...\nSaber's body slowly gets up against her will.",
+      "sourceUnit": "凛ルート十一日目-06:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Haah...!\"\nSaber's body moves.\nShe charges towards Tohsaka at the same speed as before,\nand...\nshe thrusts her sword.",
+      "sourceUnit": "凛ルート十一日目-06:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Khh...!\"\nI feel a dull pain in my shoulder.\nI feel the steel stabbing into my shoulder.\nSaber's sword that should be invisible emerges faintly with my blood.",
+      "sourceUnit": "凛ルート十一日目-06:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"You idiot, why...?\"\nI hear Tohsaka's voice from right behind me.\n...But, even if she says that, there's nothing I can do.\nMy body just moved on its own, and above all... I didn't want to see Saber attack Tohsaka.\nI didn't want to see it, so I just went in between them.",
+      "sourceUnit": "凛ルート十一日目-06:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nMy body jumps.\nSaber's sword doesn't stop its force.\nIt rips my flesh and scrapes my collarbone.\nThe blade will eventually tear the blood vessels in my neck, and I will die.",
+      "sourceUnit": "凛ルート十一日目-06:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah, ah...!!!!!\"\nThat's... Not good.\nI'm still carrying Fuji-nee.\nAnd Tohsaka is behind me...!",
+      "sourceUnit": "凛ルート十一日目-06:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's too bad. What a waste. I was interested in that kid, but...\"\nFar away...\nCaster is...saying something.",
+      "sourceUnit": "凛ルート十一日目-06:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Obey the Command Spell, Saber. That'll get rid of two more people if you slash them both.\"\nA ruthless order.\nMaking sounds as if resisting it...\nSaber's arm shakes while stopping.",
+      "sourceUnit": "凛ルート十一日目-06:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...! No way, Saber's Magic Resistance opposes even the binding of the Command Spell...!?\"\nCaster is astonished.\nStill looking down, Saber desperately bites her lips and pulls back her sword.",
+      "sourceUnit": "凛ルート十一日目-06:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"—un.\"",
+      "sourceUnit": "凛ルート十一日目-06:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "A squeezed out whisper.\nSomething drips.\nCrying from her downcast face…",
+      "sourceUnit": "凛ルート十一日目-06:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"...Run, Shirou...!!!!\"\n...Saber pleads with such earnesty that she might cough up blood.",
+      "sourceUnit": "凛ルート十一日目-06:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, come here...!\"\n\"Ah... Hold on, Tohsaka...\"\nTohsaka pulls my hand, and I start running.",
+      "sourceUnit": "凛ルート十一日目-06:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "...The wound on my shoulder is so hot that I can't think properly.\nStill, I have Fuji-nee in my arms, so I accept that running is my only option.\n...No.\nI have no choice but to accept it.",
+      "sourceUnit": "凛ルート十一日目-06:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber...\"\n...What a contradiction.\nShe threw away her pride as a swordsman and told me to run.\nAccepting that wish would be the greatest consolation for her right now.",
+      "sourceUnit": "凛ルート十一日目-06:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...But, on the other hand...\nAbandoning her tears and running away itself means losing her...",
+      "sourceUnit": "凛ルート十一日目-06:page62:1"
+    },
+    "page63": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

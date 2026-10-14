@@ -1,0 +1,151 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0587",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I hear the sound of wind.\nThe thing running through the forest and making the trees shake creates a familiar-sounding wind.",
+      "sourceUnit": "桜ルート十日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe tremors gradually grow stronger.\n...We're nearing their source.\nIt's probably just beyond this forest.\nWe're almost upon it. Just beyond this dense, overlapping wall of trees, a battle of epic proportions is happening...",
+      "sourceUnit": "桜ルート十日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"!\"\nI skid to a halt.\nRight before I come into a clearing, I stop as fast as I can and hide.",
+      "sourceUnit": "桜ルート十日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Berserker...!?\"\nTohsaka takes cover behind a tree too, and we behold the disastrous spectacle in the clearing.",
+      "sourceUnit": "桜ルート十日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The clearing is literally a battlefield.\nThree Servants are clashing weapons.\nOne is Berserker, the dark giant.\nThe second is the white skull-masked Assassin.\nAnd the third...the third is...",
+      "sourceUnit": "桜ルート十日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait. That's...no way.\"\nTohsaka's voice is shaking.\n...\n...I can't quite hear it.\nShe's whispering right next to me, but the words don't enter my brain.",
+      "sourceUnit": "桜ルート十日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The third Servant.\nIt's my first time seeing the third combatant, clad in black plate armor and visor.\nAt the same time...\n\"It...can't be...\"\n...it immediately calls to mind someone I know well.",
+      "sourceUnit": "桜ルート十日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"!\"\nThe dark giant raises a war cry.\nHe cleaves through the air with enough force to split a mountain, making the earth explode.",
+      "sourceUnit": "桜ルート十日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe third combatant doesn't shy away from the flying rock and gravel.\nThe black-armored Servant breezes past Berserker's greatsword and earthen assault, as if it's the source of this raging wind.",
+      "sourceUnit": "桜ルート十日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nThe roars of anguish belong to the giant.\nHe possesses a steel body that renders all attacks ineffective.\nAnd the black swordsman easily slices it open.\nA sword paints Berserker's flank in black, the inky light threatening to swallow him whole.",
+      "sourceUnit": "桜ルート十日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Berserker! Run! If that gets you, you won't be able to come back to me! You don't have to fight anymore!\"\nIllya's voice is tearful.",
+      "sourceUnit": "桜ルート十日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It's futile. Now that he's been ensnared, there is no escape.\"\nRather than two versus one, it seems even three opponents is too much for a great hero to overcome.\"\nZouken must be the one cackling.",
+      "sourceUnit": "桜ルート十日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The two Masters, Illya and Zouken, face each other from behind the protection of their Servants.",
+      "sourceUnit": "桜ルート十日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "In front of Zouken is Assassin, who seems to have lost to Berserker.\nBerserker is in front of Illya. His entire body is being corroded by something black.",
+      "sourceUnit": "桜ルート十日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...A dark swamp surrounds his feet.\nThe ground isn't made of earth, but some bottomless pit of mud hampering his movements.\nOn top of that, black vines from the swamp trap his arms and legs.",
+      "sourceUnit": "桜ルート十日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...I know those.\nThey definitely belong to the Shadow.\nBut for an instant...\n\"...\"\nI feel like I'm looking at someone I know well.",
+      "sourceUnit": "桜ルート十日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThe duel reaches a new pitch, bringing me back to my senses.\n...It's a desperate situation.\nBerserker is strong.\nHe's fighting the black swordsman evenly, even as the Shadow tries to swallow him.",
+      "sourceUnit": "桜ルート十日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "But he's at his limit.\nThe black swordsman easily runs forward and slashes Berserker.\nEven if he's at least as strong as his opponent, Berserker's freedom of movement is stripped away as the fight drags on.\nMeaning...\nThat the scales will only tip further in the swordsman's favor with each passing second.",
+      "sourceUnit": "桜ルート十日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. This outcome is clear.\nTake care of the rest, Assassin. It is too risky for me to remain here any longer. Once it consumes Berserker, capture and bring back the Einzbern girl.\"\nZouken blends into the mist.\nHe's departing the forest, leaving Assassin behind.",
+      "sourceUnit": "桜ルート十日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Take heed. It consumes everything it sees.\nEspecially any dense sources of magical energy. Be careful not to let the Einzbern girl be taken, too.\"",
+      "sourceUnit": "桜ルート十日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "His presence grows faint along with his physical form.\nZouken is gone.\nOnly Assassin and Berserker remain,\nas well as the black swordsman, holding their weapon aloft.",
+      "sourceUnit": "桜ルート十日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You'll die too, Berserker. Just run!\"\nIllya whimpers in an emotionless daze.\n\"\"\nDid he hear it?\nThe dark giant roars and advances.",
+      "sourceUnit": "桜ルート十日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nHis charge just looks like a tornado to me.\n\"\"\nBerserker kicks his way out of the ground, free of the black Shadow that had swallowed him up to the waist, and charges.",
+      "sourceUnit": "桜ルート十日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "What he's doing is inconceivable.\nNot only was he being constricted by the mud at his feet. The Shadow also had him entirely bound.\nHe couldn't move.\nHis body was getting eaten by the Shadow, meaning Berserker couldn't take a single step.",
+      "sourceUnit": "桜ルート十日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "So he decided to tear himself free.\nWith one hand, he grabbed the Shadow that latched to his chest and tore it off with a ripping sound.\n—He literally tore his body open wherever the Shadow had grabbed him, exposing his innards.",
+      "sourceUnit": "桜ルート十日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "His massive physique is swift.\nThis time, his attack is sure to crush the black swordsman.\nThis will likely be the last blow.\nWith his body ripped apart and on the verge of death, he'll make absolutely sure to kill his enemy.",
+      "sourceUnit": "桜ルート十日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "And the swordsman answers the assault...\n...with their greatest attack.",
+      "sourceUnit": "桜ルート十日目-11:page26:1"
+    },
+    "page27": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page28": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

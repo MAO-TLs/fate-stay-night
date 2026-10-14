@@ -1,0 +1,42 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0630",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "—I can't do it.\nThe pain from last night springs to mind.\nI was terrified by the indescribable agony and unavoidable death.\nBut, more than that...\nI'm afraid of what I'll do once I set this arm free.",
+      "sourceUnit": "桜ルート十二日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, Tohsaka. I can't take this cloth off. There will be no going back if I do.\"\nI give her a firm answer, fighting down the terror.\nAnd...",
+      "sourceUnit": "桜ルート十二日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well done. Yeah, it would be a big problem if you were willing to take it off so easily.\"\nTohsaka seems very happy, even though I said no.",
+      "sourceUnit": "桜ルート十二日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...? But I said no, Tohsaka.\"\n\"I know. Sorry, but that was just a test.\nYou have a dangerous habit of taking risks, so I wanted to drive the nail home. If you had said yes, I would've tied up your hands and feet.\"",
+      "sourceUnit": "桜ルート十二日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"A test... you were testing me, Tohsaka?\"\n\"Ah... Yeah, I wanted to know how you feel, Shirou.\nLook, I said earlier that I'd never make you use Archer's arm. Meaning that I wouldn't make you take off the shroud.",
+      "sourceUnit": "桜ルート十二日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I know how this sounds right after I was trying to test you, but never say that you're going to take off the shroud again. Once you do, there's no going back.\"",
+      "sourceUnit": "桜ルート十二日目-02:page5:1",
+      "recoveredDelimitedTail": true
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0166",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I hope I'm wrong, but...\nTohsaka won't be stingy about her gems, will she...?",
+      "sourceUnit": "セイバールート十一日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait a sec. I just want to be sure here... You're not going to hold back, right? I know jewels are expensive, but your life is worth a lot more.\"",
+      "sourceUnit": "セイバールート十一日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Easy for you to say. You don't know the state of my finances. You'd probably lose your mind if you found out how much even one of these is worth.\"",
+      "sourceUnit": "セイバールート十一日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. I'd never lose my mind over money!\nFine. If you're so adamant, then I'll help with it. I just have to pay for half the value of the jewels you use, right?\"\n\"Really? A man doesn't go back on his word?\"",
+      "sourceUnit": "セイバールート十一日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. I have some savings, and I can earn money if I don't have enough. I'm having you use weapons you've accumulated over a lot of time, so I should help out too.\"",
+      "sourceUnit": "セイバールート十一日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...Okay, I might be making this offer out of pride.\nI guess I want Tohsaka to see me in a positive light, no matter what.",
+      "sourceUnit": "セイバールート十一日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what? That's a really, really weird look...\"\n\"Well yes. I'm happy about it, and now I have something to look forward to.\nBy the way, Emiya. Aren't you curious how much one of these gems is worth?\"",
+      "sourceUnit": "セイバールート十一日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I suppose it's about a hundred thousand yen or something.\"\n\"No, no. That would get you a cheap throwaway gem at best.\"\n\"Maybe two hundred thousand yen?\"\n\"Not going up by much there. Still wrong.\"\n\"Okay, how about two hundred fifty thousand yen?\"",
+      "sourceUnit": "セイバールート十一日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"You know, what you usually do when you're guessing prices is...you add zeroes.\nWhy are you not going up past the hundred thousands?\"\n\"Gh... I kind of didn't want to say it, but three hundred thousand?\"",
+      "sourceUnit": "セイバールート十一日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Again, I ask: Why do you refuse to go up another digit?\"\n\"Ah...um...could it be a million yen...?\"\nThe ground is falling away at my feet.",
+      "sourceUnit": "セイバールート十一日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Close. Add another zero.\"\n...And I am about to fall right into the bowels of hell itself.",
+      "sourceUnit": "セイバールート十一日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "That's astronomical.\nI've never heard a number so devastating before. If I were to turn that number into points of damage, I could beat any video game boss in a heartbeat.\n\"What's wrong? You look pale, Emiya.\"\n\"Uh...no, I'm fine. I can calculate fine.\"\nOh, I can calculate all right. And it's hurting more than math ever should.",
+      "sourceUnit": "セイバールート十一日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? Then I'll ask you one more time: I can use my gems, right? I won't hold back. It'll be spectacular. Are you good with that?\"\n...Ugh.\nI fight back the desire to tell Tohsaka to use them sparingly.",
+      "sourceUnit": "セイバールート十一日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...I'm going to be in your debt.\"\nI try to sound as brave as I can.\n\"Of course. I won't charge you interest, so you can spend all your life paying me back.\"\nTohsaka...clearly isn't joking.",
+      "sourceUnit": "セイバールート十一日目-08:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

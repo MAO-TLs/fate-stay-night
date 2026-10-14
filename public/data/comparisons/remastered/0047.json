@@ -1,0 +1,522 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0047",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\nIt happens in an instant.\nThe man in the red coat appears right in front of Saber.\nSaber attacks and he loses his balance. I see her preparing the finishing blow.",
+      "sourceUnit": "凛ルート三日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Behind that...\nI'm sure I know the person the man in red is protecting.",
+      "sourceUnit": "凛ルート三日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wai—\"\nI reach toward her with my left hand and cry out.\nI have no idea who that man in red is.\nBut after defeating him, I'm sure Saber will attack the person behind him without hesitating.",
+      "sourceUnit": "凛ルート三日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I can't let that happen.\nI can't let Saber hurt her...!\n\"SABER, STOP!!!\"",
+      "sourceUnit": "凛ルート三日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...!?\"\nA slight but noticeable pain tingles the back of my left hand.\nOne of the marks there fades away.",
+      "sourceUnit": "凛ルート三日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "As if in exchange for that...\nSaber halts her attack, though it shouldn't have been possible for her to do so by that point.",
+      "sourceUnit": "凛ルート三日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nFor an instant, the silver armor comes to a halt, as if it has frozen to stone.\nThe man in red takes advantage of the opening and makes his escape.",
+      "sourceUnit": "凛ルート三日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"That guy... He's—\"\nI'm sure of it.\nHe's the one who was fighting Lancer.",
+      "sourceUnit": "凛ルート三日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat means, the girl behind him is...\nUh... I don't really want to believe it, but is it really...?",
+      "sourceUnit": "凛ルート三日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you out of your mind, Shirou? I could have defeated Archer and his Master right here, but you used a Command Spell just to waste the opportunity!\"",
+      "sourceUnit": "凛ルート三日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell, what am I supposed to do?\nI can barely process the situation.\nI stopped Saber because I don't want her to kill the girl who saved my life.",
+      "sourceUnit": "凛ルート三日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Master, please retract your order. I cannot defeat our enemies, even the ones who should be easily beaten, if this is how you conduct yourself.\"\nSaber readies her weapon again.\nBefore her stands the man in red I prevented her from defeating.",
+      "sourceUnit": "凛ルート三日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. Stop, Saber. To be honest, I have no idea what's going on.\nBut you're trying to kill someone I know, and I can't let you do that.\"\n\"What are you saying? She is Archer's Master. She is our enemy, so we must finish her off here.\"",
+      "sourceUnit": "凛ルート三日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\nEnemy...?\nShe and the man in red are enemies...?",
+      "sourceUnit": "凛ルート三日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't care about that.\nFor a start, you're calling me 'Master' and I have no idea what that even means. If you're going to call me that, you should at least explain it to me.\"\n\"...That's true, but...\"",
+      "sourceUnit": "凛ルート三日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"...Hm. So that's how it is, Mr. Amateur Master?\"\nRin's tone is mockingly polite.",
+      "sourceUnit": "凛ルート三日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I turn around to see the man in red and a girl in a uniform push her way to the front.\n...\nI take a moment to catch my breath.\n...So I wasn't seeing things.\nIt was Rin Tohsaka who was with the man in red.",
+      "sourceUnit": "凛ルート三日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin...Tohsaka...\"\nHow do I put this?\nEven I can tell the man behind her isn't human.\nLike Saber, he is not of this world.\nThen... If Tohsaka is bringing him around, she's also...",
+      "sourceUnit": "凛ルート三日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh, you know who I am. Well then, that makes things easier.\nFirst off, good evening, Emiya.\"\nI don't know what her intentions are.\nTohsaka greeted me with a bright smile.",
+      "sourceUnit": "凛ルート三日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... Huh?\"\nThis is...troubling.\nHer incredibly casual greeting makes it seem like all this craziness isn't real, and I find myself wanting to return the greeting...",
+      "sourceUnit": "凛ルート三日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"A-are you serious!? This isn't the time for greetings! Tohsaka, you're...!\"\n\"Yes, I'm a Master just like you. That would make me a mage. We have that in common, so there's no need to hide, is there?\"",
+      "sourceUnit": "凛ルート三日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"A mage...? You're... You're a mage, Tohsaka...!?\"",
+      "sourceUnit": "凛ルート三日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nCrap.\nI don't know why, but Tohsaka...\nShe looks really, really irritated.",
+      "sourceUnit": "凛ルート三日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, no. That's not what I meant to say.\"\n\"...I see. That makes sense. So it's going to be like that, huh?\"\nTohsaka glances at us and turns back to the man behind her.",
+      "sourceUnit": "凛ルート三日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, I'm sorry, but can you go into your spirit form for a while? I'm kinda pissed off right now.\"\n\"I don't mind, but... What do you mean by 'pissed'?\"",
+      "sourceUnit": "凛ルート三日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly what I said. I have to make him understand the situation he's in, and I don't need you for that right now. So, turn invisible. Saber can't relax as long as you're here.\"",
+      "sourceUnit": "凛ルート三日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What a pain. Well, I have to obey you...but I'm warning you. This is a waste of your time.\"\nThe man just...disappears, like some kind of illusion.",
+      "sourceUnit": "凛ルート三日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka, that was...!\"\n\"Never mind that, let's talk inside. You don't know anything about this, right Emiya? Don't worry. I'll explain, whether you like it or not.\"\nTohsaka is completely nonchalant as she heads for the gate.",
+      "sourceUnit": "凛ルート三日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Wait, Tohsaka, what are you thinking...!\"\nI stop her, without thinking.\nAnd then...\nTohsaka turns around, but her smile is different from before.",
+      "sourceUnit": "凛ルート三日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, you idiot. I'm thinking all kinds of things. That's why we need to talk!\nEmiya, it's understandable to be surprised by everything that's happened, but failing to accept that could cost you your life.\nBy the way, understand that now is one of those times.\"",
+      "sourceUnit": "凛ルート三日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\n\"If you understand, that's enough. Let's get going to your place. You're okay with that, right, Saber?\nIn return for sparing my life, I'm going to explain things to your Master.\"",
+      "sourceUnit": "凛ルート三日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Very well. I do not know your intentions, but if you are going to help my Master, then I will not attack.\"\nTohsaka goes through the gate.",
+      "sourceUnit": "凛ルート三日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...She's really pissed...\"\nI don't know why.\nI really have no idea why, but...\n\"But, still...\"\nShe's completely different from when she's at school...",
+      "sourceUnit": "凛ルート三日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "This night just keeps getting stranger.\nIn front of me, leading the way, is the school's golden child: Rin Tohsaka. Even I admire her.\nFollowing silently behind me is Saber, the blond girl who calls herself a Servant.",
+      "sourceUnit": "凛ルート三日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nOh.\nThe hallway suddenly feels like it's in another dimension.",
+      "sourceUnit": "凛ルート三日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "But, I can't be a coward forever.\nI may be an amateur, but I'm still a mage.\nTohsaka, a mage like me, is perfectly confident, so I can't be any less so, or she'll look down on me.",
+      "sourceUnit": "凛ルート三日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That said, I can only make sense of a handful of things.\nFirst, about Saber.\nShe's clearly some kind of familiar since she calls me Master, and I made a contract with her.",
+      "sourceUnit": "凛ルート三日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "I've heard that a familiar serves as a kind of assistant to mages.\nUsually, mages transplant a part of their body into something, then has the other self that process creates serve them.\nA familiar is simply intended to assist a mage in whatever they do.\nTo minimize the burden that familiar creates, small animals that require minimal magical energy are usually the most suitable for the role.",
+      "sourceUnit": "凛ルート三日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "So I was taught, at any rate. But...\n\"Hm? What is it, Shirou?\"\n\"...Oh no, it's nothing.\"",
+      "sourceUnit": "凛ルート三日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks completely human. More than that, though, she's clearly superior to me, her Master, in every way.\nI don't have enough magical energy to bind a regular person, much less the Magic Circuits to use a familiar.",
+      "sourceUnit": "凛ルート三日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSo Saber must only be something similar to a familiar. There have to be differences.\nShe called herself a Servant.\nI'm not sure what that is, but I get the sense that guy Lancer and the man in red with Tohsaka must be the same thing as well.",
+      "sourceUnit": "凛ルート三日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Saber also was calling Tohsaka a Master.\nI guess that means mages who have Servants are called Masters.",
+      "sourceUnit": "凛ルート三日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...Apparently Tohsaka is a mage too, but I have no way of telling what she really is.\nThe Emiya family are just outsiders that came to this town in my old man's generation.\nThat's why I didn't know Tohsaka was a mage, and I'm sure Tohsaka didn't know I've been learning magecraft either.",
+      "sourceUnit": "凛ルート三日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...There's several mages in this town that I don't know about.\nIf Lancer and the other mages' Servants are familiars, does that mean I've stumbled into a conflict between mages?",
+      "sourceUnit": "凛ルート三日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, this place is pretty big. I'm also not used to Japanese style. Oh, Emiya, is that the living room?\"\nTohsaka continues talking as she heads into the living room.\n\"...\"\nI need to stop overthinking this.\nWe head into the living room so I can hear what Tohsaka has to say.",
+      "sourceUnit": "凛ルート三日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "I turn on the light.\nAccording to the clock, it's already past 1 AM.",
+      "sourceUnit": "凛ルート三日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, it's so cold! The window's all broken.\"\n\"I couldn't help it. That Lancer guy attacked me and I was a little too busy trying to stay alive to worry about that kind of thing.\"",
+      "sourceUnit": "凛ルート三日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I see. So until you summoned Saber, you were fighting him by yourself?\"\n\"No. He just beat me up.\"",
+      "sourceUnit": "凛ルート三日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so you're not really a show-off, huh? I see, I see. You're really just as you seem, Emiya.\"\nShe seems pleased for some reason, as she walks over to the broken window.",
+      "sourceUnit": "凛ルート三日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nTohsaka takes a piece of shattered glass in her hand. She examines it for a bit, and...\n\"Minuten vor Schweißen.\"\nShe cuts the tip of her finger and lets a drop of her blood drip onto the shard of glass.",
+      "sourceUnit": "凛ルート三日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...\nWhat kind of magecraft is that?\"\nThe shattered pieces of the window reform into a complete whole right in front of me.",
+      "sourceUnit": "凛ルート三日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, that was...\"\n\"Just a little demonstration. It doesn't make us even after you saved me, but it's the least I could do.\n...Well, I'm sure you would've fixed it even if I hadn't, but it'd be a waste not to use my magical energy, right? Really you could just change the window, but I can't even talk when it's this cold.\"",
+      "sourceUnit": "凛ルート三日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says all this as if it were normal.\nNeedless to say, her skills are beyond my comprehension.",
+      "sourceUnit": "凛ルート三日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that's amazing, Tohsaka. I can't do anything like that, so I appreciate it.\"\n\"Huh? What do you mean you can't? Of course you can. Fixing glass is basic.\nIt's trivial. Like...entrance exam for school level stuff, right?\"",
+      "sourceUnit": "凛ルート三日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, really? I only know what my old man taught me, so I don't know any of that kind of stuff.\"\n\"Huh?\"\nTohsaka freezes.\n...Crap. I think I've just said something I shouldn't have.",
+      "sourceUnit": "凛ルート三日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on. Are... Are you a complete amateur? As in, you can't even run your own workshop?\"\n\"Um, no, I don't have a workshop.\"\n...Oh, I do have that shed where I train, but if I call that a workshop, I have a feeling I'll probably just make Tohsaka mad again.",
+      "sourceUnit": "凛ルート三日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay, I'm sure it can't be this bad, but let's check. Is there any chance you don't know how to use the Five Great Elements or how to make a Magical Path?\"\nI nod honestly.",
+      "sourceUnit": "凛ルート三日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nGeez, I'm scared.\nIt's so intimidating seeing someone this beautiful being this silent.",
+      "sourceUnit": "凛ルート三日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're, what, a complete amateur?\"\n\"Well, no. I can at least use Strengthening magecraft.\"",
+      "sourceUnit": "凛ルート三日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Strengthening... That's a pretty weird choice. So you can't do anything else?\"\n\"...Well, uh, probably.\"\nHer stare was so intense it hurt, so I wanted to be vague.",
+      "sourceUnit": "凛ルート三日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh. How did a guy like this wind up summoning Saber?\"\n\"...Hmph.\"\nThat makes me mad.\nIt's not like I've been playing around.\nSure, I'm inexperienced, but that's another matter entirely.",
+      "sourceUnit": "凛ルート三日目-09:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Whatever. No point complaining about what's already done. More importantly, I need to return the favor.\"\nTohsaka takes a breath.",
+      "sourceUnit": "凛ルート三日目-09:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll begin then.\nEmiya, you don't know anything about the situation you're in, do you?\"\nI nod.",
+      "sourceUnit": "凛ルート三日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I knew it. Well, I could tell just by looking, but I wanted to be sure first. I'd just be putting extra weight on my brain if I explained all this to someone who already knows.\"\n\"Hm?\"\nThat's...a weird way of putting it, but I stay quiet if only so she won't punch me.",
+      "sourceUnit": "凛ルート三日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"So, to start, you were chosen as a Master.\nYou have a holy sign on one of your hands, right? It varies by person, but there should be three Command Spells on the back of your hand or arm. That's proof you're a Master.\"\n\"On the back of my hand... Oh, this.\"",
+      "sourceUnit": "凛ルート三日目-09:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It's something like magic words you use to control Servants, so take care of it. It's called a Command Spell, but as long as you have that, you can keep control of your Servant.\"\n\"Huh? What do you mean 'as long as I have it'?\"",
+      "sourceUnit": "凛ルート三日目-09:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Command Spells are absolute commands. They overrule your Servant's will and force them to obey your command.\nIt doesn't require any spell to activate. In fact, it will activate as long as you focus on using it.\nAlso, if you lose all your Command Spells, you'll be killed, so be careful.\"",
+      "sourceUnit": "凛ルート三日目-09:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"What... I'll be killed...?\"\n\"That's right. Masters killing other Masters is a pretty key part of a Holy Grail War. At the end, the Master who defeats the other six Masters is awarded the Holy Grail, which can grant any wish.\"",
+      "sourceUnit": "凛ルート三日目-09:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"What...?\"\nH-hold on.\nI don't understand what Tohsaka is talking about at all.\nLike about Masters defeating other Masters.\nAnd in the end, the winner gets the Holy Grail... So, by Holy Grail, does she mean the Holy Grail!?",
+      "sourceUnit": "凛ルート三日目-09:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "You still don't get it? Fine. You got dragged into a game—a very deadly game between seven Masters—called the Holy Grail War. This is a battle to the death between mages. It only ends when you're the last Master left standing.\nTohsaka says this all plainly, as if it were normal.",
+      "sourceUnit": "凛ルート三日目-09:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...\nHer words swirl around my head.\nI have been chosen as a Master.\nTohsaka says she is a Master.\nFamiliars called Servants.\nAnd...\nThe battle to the death called the Holy Grail War...",
+      "sourceUnit": "凛ルート三日目-09:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What is that? What are you even talking about!?\"\n\"I understand how you feel here, but it's the truth.\nBesides, deep down, you understand, don't you? You've had Servants nearly kill you not once, but twice. I'm sure you've worked out that this isn't something you can just run away from.\"",
+      "sourceUnit": "凛ルート三日目-09:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat is...\nOkay, that Lancer guy did almost kill me, but...",
+      "sourceUnit": "凛ルート三日目-09:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh wait, no. You weren't almost killed, you actually were killed. I'm surprised you came back to life, Emiya.\"\n...\nI wasn't almost killed. I really bit it.",
+      "sourceUnit": "凛ルート三日目-09:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nThat guy with the spear...killed me.\nThe fact that I'm somehow alive should be even more surprising than this mess I'm in.",
+      "sourceUnit": "凛ルート三日目-09:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...The wound in my chest.\n...The blood running.\n...The warmth fading.\nAnd...\nThe pure voice I heard there, on the brink of death...",
+      "sourceUnit": "凛ルート三日目-09:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you get it now? That's the situation you've found yourself in.\nYou can't run away just because you don't know anything. But you've braced yourself since you're a mage, right? We're the ones who kill and get killed.\"\nTohsaka is in a good mood. Maybe she likes seeing me so troubled.",
+      "sourceUnit": "凛ルート三日目-09:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "...\nSure, I've braced myself.\nBut, before that...",
+      "sourceUnit": "凛ルート三日目-09:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, how'd you know about Lancer killing me?\"\nHow does she know that?",
+      "sourceUnit": "凛ルート三日目-09:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. I got carried away.\"\nShe's acting pretty suspiciously now.",
+      "sourceUnit": "凛ルート三日目-09:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"I was just assuming. Forget it. It's nothing.\"\n\"...It's not nothing.\"\nWhen it happened, someone...",
+      "sourceUnit": "凛ルート三日目-09:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it! You should be more concerned about the position you're in.\nYou're also one of the seven Masters—an integral role in the Holy Grail War.\"",
+      "sourceUnit": "凛ルート三日目-09:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Look. Once every few decades, seven Masters are chosen in this town and given a Servant.\nMasters use their own Servants to kill the other Masters.\n...Those are the rules of the ritual known as the Holy Grail War.\"",
+      "sourceUnit": "凛ルート三日目-09:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm also one of the chosen Masters.\nSo I made a contract with a Servant, and you made a contract with Saber.\nIt seems like you didn't summon Saber yourself, but Servants are familiars the Holy Grail provides. That means it's even possible for a mage who knows absolutely nothing, like you, to become a Master, too.\"",
+      "sourceUnit": "凛ルート三日目-09:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka's explanation is too specific. It doesn't feel real at all.\nThere is one thing that I've been wondering about, though.",
+      "sourceUnit": "凛ルート三日目-09:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on. You said Saber is a familiar, but I can't bring myself to think that.\nFamiliars are like cats or birds, right? I hear there's some that use ghosts, but Saber has a body. Plus, you know...she doesn't look like a familiar at all.\"",
+      "sourceUnit": "凛ルート三日目-09:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "I glance at Saber.\nSaber is quietly listening to my conversation with Tohsaka.\n...She looks just like a human being.\nI don't know her identity, but she looks like a girl about my age.",
+      "sourceUnit": "凛ルート三日目-09:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Familiars, huh...? Well, Servants are within the same classification, but they're on another level. In fact, that girl over there is a Ghost Liner, the strongest of all familiars.\"",
+      "sourceUnit": "凛ルート三日目-09:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Ghost Liner...? So, they are ghosts after all?\"\n\"Ghosts... Well, they are similar, but Saber would kill you if you compared her to one.\nServants are heroes from the past that are given bodies, so they're beings like spirits that surpass humans.\"",
+      "sourceUnit": "凛ルート三日目-09:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Heroes from the past that are given bodies?\"\n\"That's right. Legendary heroes that have died are pulled from the past or present or whenever and materialized.\"",
+      "sourceUnit": "凛ルート三日目-09:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, our job as Masters is to summon them, but the Holy Grail does the rest. It's impossible to give a soul a form, so we get the needed strength from the artifact.\"\n\"Hold on. So a hero from the past means... What...!?\"",
+      "sourceUnit": "凛ルート三日目-09:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "I look at Saber.\nSo, she was a hero, too?\nWell, it is true that there's no one dressed like that in the modern world, but still...",
+      "sourceUnit": "凛ルート三日目-09:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"That's impossible. I've never heard of such magecraft like that.\"\n\"Of course not, this isn't magecraft. Think of it as a phenomenon created by the Holy Grail. Otherwise, there's no way you can replicate a soul and materialize it.\"",
+      "sourceUnit": "凛ルート三日目-09:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"...Replicate a soul...? Then, a Servant is different from a ghost...?\"",
+      "sourceUnit": "凛ルート三日目-09:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"It's different. Haven't you heard that humans, animals, or machines that leave great achievements behind get pulled out of the cycle of reincarnation and sublimate into beings of a higher rank?\nHeroic Spirits are like that. They're basically god-like figures that are worshipped as such.\"",
+      "sourceUnit": "凛ルート三日目-09:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Spiritual evocation or the use of mediums to channel the powers of Heroic Spirits falls under general ghost-handling magecraft.\nServants are familiars that use something like the original form of the Heroic Spirit instead.\nThat's why they usually accompany you in spirit form, but you can materialize them and make them fight if necessary.\"",
+      "sourceUnit": "凛ルート三日目-09:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So, you can use them in a spirit form or give them a material body.\n...So the guy with you disappeared because he turned into spirit form?\"",
+      "sourceUnit": "凛ルート三日目-09:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. He's keeping watch on the roof right now.\nI'm sure you figured it out from the last battle, but Servants can only be defeated by other Servants. Spirits like them.\"",
+      "sourceUnit": "凛ルート三日目-09:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, we can attack them if they take form, so we might be able to defeat them.\nBut, Servants are all like walking, breathing monsters, right? So the idea is to let them fight each other while the Master supports them from behind.\"",
+      "sourceUnit": "凛ルート三日目-09:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nTohsaka's explanation offends me for some reason.\nI don't know about other Servants, but I don't want her calling Saber a monster.",
+      "sourceUnit": "凛ルート三日目-09:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, Masters need to use their summoned Servant to defeat other Masters. Do you understand that much?\"\n\"...Technically, yes. But, I'm not convinced.\nTo begin with, who even started such a thing and for what?\"",
+      "sourceUnit": "凛ルート三日目-09:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not something I know or can answer for you. You should ask the one overseeing the Holy Grail War.\nWhat I can tell you is that all you can do now is fight, and since Servants are strong familiars, use yours wisely.\"",
+      "sourceUnit": "凛ルート三日目-09:page101:1",
+      "recoveredDelimitedTail": true
+    },
+    "page102": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

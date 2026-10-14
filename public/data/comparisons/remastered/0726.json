@@ -1,0 +1,496 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0726",
+  "rows": {
+    "page0": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I have come in response to your summons.\nHenceforth, my sword is yours, and my destiny shall be entwined with yours. And thus, our contract is formed.\"",
+      "sourceUnit": "ラストエピソード:page2:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...Right. The contract was formed.\nJust as she chose him as her Master...\n...so he vowed to help her.",
+      "sourceUnit": "ラストエピソード:page3:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The moonlight still shines brightly in the darkness.\nThe shed regains its former tranquility, as if to emulate the knight's appearance.\nEvery time I think back, I find myself murmuring her name.",
+      "sourceUnit": "ラストエピソード:page4:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The azure light is all but forgotten.\nHer hair, like golden sand, bathed in the moonlight.",
+      "sourceUnit": "ラストエピソード:page5:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Years later...\nDuring one of my naps, I find myself remembering the clash of swords from long ago.\nI don't recall the correct order of things.\nMemories are distant and dim, and what I felt then is back in the distant past.",
+      "sourceUnit": "ラストエピソード:page6:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Which is why, should I encounter such a person, I know they are lacking something.\nAnd if that person continued to carry on in that fashion, the only thing awaiting them would be tragedy.\"",
+      "sourceUnit": "ラストエピソード:page9:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"If you say you will not fight, fine.\"",
+      "sourceUnit": "ラストエピソード:page10:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You've got it wrong, Saber. Shirou isn't insulting Servants. This isn't going anywhere so long as you don't understand that much, so I'm stepping in.\"",
+      "sourceUnit": "ラストエピソード:page11:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why you'll fight even if it sounds absurd. You'll try to win even if you know you don't have a chance, and you don't care if you die in the process.\nBecause, and I don't really know why, in that twisted little mind of yours, other people are more important than you are yourself.\"",
+      "sourceUnit": "ラストエピソード:page12:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It really was foolish.\nNo one person can save others.\nIf I really wanted to end this battle, I knew what I had to do from the very beginning.",
+      "sourceUnit": "ラストエピソード:page13:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "A certain man asked...\n...whether I was really not going to fight, not kill, and not let anyone kill...\nIf I realize my mistake, I should first decide what to fix, then decide who to punish.",
+      "sourceUnit": "ラストエピソード:page14:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No...COME...SABER!!!\"",
+      "sourceUnit": "ラストエピソード:page15:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Dazed, I reached my hand out.\n...But not because I wanted help.\nI just thought the sky was so far away.\nThat was my final thought, I think.",
+      "sourceUnit": "ラストエピソード:page16:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...You are too stubborn to change, aren't you?\"",
+      "sourceUnit": "ラストエピソード:page17:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need to respond, is there?\nI am your blade. Who but I can be the one to help you, Shirou?\"",
+      "sourceUnit": "ラストエピソード:page18:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "She and that sword were one.\nThe sword in the stone that selected the king.\nThe brilliance of the sword that sealed her fate was also her brilliance.",
+      "sourceUnit": "ラストエピソード:page19:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Her soul must still be on the battlefield.\nBefore daybreak...\n...under the indigo sky, she just stared off into the distance, letting the wind blow by.",
+      "sourceUnit": "ラストエピソード:page20:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "A king is not human.\nOne cannot protect people with human emotions.",
+      "sourceUnit": "ラストエピソード:page21:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, Saber. A date basically means a tryst.\nShirou may be talking about going out and having fun, but what he's really getting at here is the whole 'boy trying to attract the attention of a girl he likes' thing.\"",
+      "sourceUnit": "ラストエピソード:page22:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Ah yes, that happened too.\nLuckily, the sky was high and the wind was nice and cool.\nThat memory still lives in his heart, clear as day.",
+      "sourceUnit": "ラストエピソード:page23:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I will not break my vow as a king. I have a responsibility to fulfill my duty.\nKing Arthur's goal is to obtain the Holy Grail. Even if that were finished, I will never go back to being Altria.\nMy wish remains unchanged. From the moment I drew the sword, my vow could never change.\"",
+      "sourceUnit": "ラストエピソード:page24:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I thought you of all people would understand.\"",
+      "sourceUnit": "ラストエピソード:page25:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "It's a scene from so many years ago.",
+      "sourceUnit": "ラストエピソード:page26:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Think before you take hold of that.\"",
+      "sourceUnit": "ラストエピソード:page27:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No...\"",
+      "sourceUnit": "ラストエピソード:page28:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Even after seeing that future, she only gave a firm nod.\nThe mage asked again if that was what she wanted.",
+      "sourceUnit": "ラストエピソード:page29:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I saw many people smiling.\nSo this cannot be a mistake.\"",
+      "sourceUnit": "ラストエピソード:page30:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "She just wanted to protect everyone.\nBut to do so, she had to abandon her desire to protect people.\nShe could not protect her country as its king if she still had a human heart.",
+      "sourceUnit": "ラストエピソード:page31:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Even knowing this, she drew the sword.\nEven knowing this, she vowed to live as a king.\nNo matter what happened, her mind was made up.\nShe abandoned her human heart.\nShe was willing to give that up to protect her nation.",
+      "sourceUnit": "ラストエピソード:page32:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Who could have known the girl would take such a noble oath?\nShe was determined to fight.\nCome what may, and however it might end...\nShe still decided to fight.\nEven if an inevitable, solitary doom awaited her.",
+      "sourceUnit": "ラストエピソード:page33:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I can make a selection. I will gladly hand over the Grail to the right person.\nSo, to that end, I want to hear from you, Shirou Emiya.\"",
+      "sourceUnit": "ラストエピソード:page34:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "What I see...\n...is an all-too-familiar living hell.",
+      "sourceUnit": "ラストエピソード:page35:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "No matter how much they begged for help, I couldn't give it.\nIf there was anything I could do, it would have been to put an end to it.\nI could only fix the wrongness of those living dead.\nI could only make the architect of that hell pay for his sins.",
+      "sourceUnit": "ラストエピソード:page36:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "The priest said:\nThe truth of ten years ago. The malice that was planted into the Holy Grail.\nThe reality that there was no salvation anywhere.",
+      "sourceUnit": "ラストエピソード:page37:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "A sad event. A tragic death. Misfortune that passed.\nThere was no way to undo any of it.\nA champion of justice is someone who can only clean up a mess that's already been made. You'll never be able to save the very people you're hoping to save.",
+      "sourceUnit": "ラストエピソード:page38:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "I couldn't look them in the eye. I wanted to run away.\nNothing could be done.\nAs I listened to their pleas, I knew I had no miracle to grant.\nI didn't have the strength to contradict the man claiming champions of justice were just that.\nI have no apparent enemy.\nI've never wished for anything for myself.",
+      "sourceUnit": "ラストエピソード:page39:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "But let's say...\nIf I did have a miracle at the ready...would I...",
+      "sourceUnit": "ラストエピソード:page40:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I can't wish for that.\"",
+      "sourceUnit": "ラストエピソード:page41:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I face the corpses.\nI grit my teeth as I refused.",
+      "sourceUnit": "ラストエピソード:page42:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "What is lost cannot be returned.\nHis pained expression alone makes her heart ache.\nWhat was it she had said?\nShe could not start over.\nIt was her duty as the king. So she refused, over and over.",
+      "sourceUnit": "ラストエピソード:page43:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nShe pledged once, so long ago...\nSomething she swore to herself.\nShe would fight.\nEven if she loses everything...even if everyone in the world hates her.",
+      "sourceUnit": "ラストエピソード:page44:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...I was so foolish...\"\nAn oath from a king. A promise to fight against all odds.",
+      "sourceUnit": "ラストエピソード:page45:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"If the Holy Grail will stain me, I do not want it. I already have everything I want.\"",
+      "sourceUnit": "ラストエピソード:page46:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Yes. She has everything she needs with her now.\nHer pride as a knight. Her promise as a king.\nEven the precious dream that young girl once held...",
+      "sourceUnit": "ラストエピソード:page47:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"EX...\"\n\"SAAABER!!!!!!\"",
+      "sourceUnit": "ラストエピソード:page48:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "You have my unwavering trust and respect.\nThese are not my words as a king...\n...but as a girl who could not protect anything. And now, I shall be your sword until the very end...",
+      "sourceUnit": "ラストエピソード:page49:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Läßt!\"",
+      "sourceUnit": "ラストエピソード:page50:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...CALIBUR!!!\"",
+      "sourceUnit": "ラストエピソード:page51:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "The sun rises.\nThe wind starts to pick up.\nA golden glimmer shines, seeming to last forever.\nIn it...\n\"There is one thing I must tell you.\"\nI can hear the determination in her voice.",
+      "sourceUnit": "ラストエピソード:page52:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, what is it?\"\nI try to at least sound strong.",
+      "sourceUnit": "ラストエピソード:page53:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "She turns.\nSaber looks straight at me and says, her voice clear,\n\"I love you, Shirou.\"\nShe...said it.",
+      "sourceUnit": "ラストエピソード:page54:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "The wind blows over the mountaintop.\nFor a moment, I close my eyes, blinded by the morning sun. Then I open them again.",
+      "sourceUnit": "ラストエピソード:page55:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't think I was surprised.\nI just had a feeling.\nOur goodbye...\n...was always going to be like this.",
+      "sourceUnit": "ラストエピソード:page56:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "All I see is the wasteland.\nSaber is gone, carried off by the gusting wind.\nJust like when she appeared.\nShe left with grace, without a trace.",
+      "sourceUnit": "ラストエピソード:page57:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...that's so like you.\"\nThere are no regrets in my voice.\nEvery memory, both of what I've lost and of what I've gained, remain in my heart. I'll keep them all there. Forever.",
+      "sourceUnit": "ラストエピソード:page58:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "I look out at the rising sun, hoping I never forget any of this, that none of it fades from my mind for a long time to come.",
+      "sourceUnit": "ラストエピソード:page59:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "I watch the morning glow spreading over the distant land below.\nIt reminds me of the golden fields she'd fought on.\nThis is not a story that can be shared.\nIt is a story of a small wish...like one made on a star.",
+      "sourceUnit": "ラストエピソード:page60:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "It was a long journey.\nThe time spent...the ideal that was held up...the life I tried to live...they were all probably a nuisance.\nNo matter how far along the road he traveled, he never got any closer to the end.\nNo rest, no giving up, no hesitation... His resolve was strong.\nHe traveled a long path.",
+      "sourceUnit": "ラストエピソード:page61:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "His journey was long...endless.\nThe reason for this was quite simple.\nHe did not know where he had to go or what to do to find respite.\nIt seems he somehow failed to find the end of his journey, though that should have been decided at the outset.",
+      "sourceUnit": "ラストエピソード:page62:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Nothing is eternal or immortal.\nNo matter how prosperous or famous something might have been, the more it is used, the more it deteriorates.\nThis applies to everything: machines, bodies, even a person's mind.\nEverything wears out.\nEverything eventually fades.\nWhich is why, even something one did not think of as painful at first may come to change after years of repetition.",
+      "sourceUnit": "ラストエピソード:page63:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Your actions may be meaningful...\n...but you yourself are worthless to the end.",
+      "sourceUnit": "ラストエピソード:page64:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Hope and disappointment present themselves together.\nNoble ideals become worn-out obligations, then finally mutate into filthy obsessions.\nThe things that awed us, that we looked up to as children become mundane, and although we may look back, we no longer look up.\nThat is simply what it is to be a normal human being.\nBut he was no normal human.\nHe carefully locks away what pains him.",
+      "sourceUnit": "ラストエピソード:page65:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...And so his heart of iron is a testament to tin.\nThat is what allows him to continue his long journey.\nIn exchange, his sense of joy faded. But fortunately, he was not greedy. So he was happy to receive something in return only from time to time.",
+      "sourceUnit": "ラストエピソード:page66:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "He admired beautiful things.\nHe traveled, seeing many people and towns.\nThere were beautiful things everywhere.\nBut he never was able to find the brilliant star he'd been forced to part with.\nHis journey never ended because he had no purpose.\n...Because he never found what he wanted to find.",
+      "sourceUnit": "ラストエピソード:page67:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "But it was a satisfactory life.",
+      "sourceUnit": "ラストエピソード:page68:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "It was a long dream.\nThe curse... the ideal... and the consequences...all weighed heavily on him.\nNo matter how long the slumber, there was no awakening.\nThere's no movement, no refusal, and no desire...just a deep, calming breath.\nIt is an eternal dream and slumber.",
+      "sourceUnit": "ラストエピソード:page69:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "The king's duties have not ended.\nTo fulfill the prophecy, the king does not return to the time before the sword, even after death.\nTime passed, the nation prospered, and people changed.\nEven when people no longer wished for a noble king, the king's vow endured.\nAfter all...\n...she shouldered many lives as the price of becoming king.",
+      "sourceUnit": "ラストエピソード:page70:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "But...\n...catching a glimpse of that dream was saddening.\nScenes that peeked out from the depths of sleep...\nBut now, she wants to convey her feelings, to have him, now distant and walking his path alone, hear her.\nEven if it means she casts aside her humanity and becomes a machine that just repeats the same thing over and over.\nEven if nobody else notices his pain.\nI am here, and I know your strength.",
+      "sourceUnit": "ラストエピソード:page71:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "But her eternal oath endures.\nIf the past can't be changed, then that in itself is eternity.\nThe oath, and its resolve, now bind the king forever.\nShe will never allow herself to become the person she'd been before drawing the sword from the stone.\nBut she still wants to see him.\nEven if she has to sleep for eternity....\n...she still wants her voice to reach him.",
+      "sourceUnit": "ラストエピソード:page72:1"
+    },
+    "page71": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n...a long time passed between the two of them.",
+      "sourceUnit": "ラストエピソード:page80:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I open my eyes.\nI don't know how long I walked.\nI thought I'd only been passing through desolate land, but I find myself standing in a pleasant meadow after passing through a deep forest.",
+      "sourceUnit": "ラストエピソード:page81:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure where I am.\nHow much time has passed?\nHow far have I gone?\nEverything is so unclear.",
+      "sourceUnit": "ラストエピソード:page82:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "...\nI drop the weight I'm carrying and rest.\nAh.\nI thought I would walk forever...\nBut it seems like my journey ends here.",
+      "sourceUnit": "ラストエピソード:page83:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "A wide, verdant space unfolds before me.\nThe constraints that so heavily weighed on me are unraveled by the wind rustling through the grass.\nMy heart is at peace, and each step brings me back to those days.",
+      "sourceUnit": "ラストエピソード:page84:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe endless blue sky reminds me of a promise I made long ago, though I never spoke it aloud.\nIt was a youthful illusion...a wish I made as a bluff.\nBecause we saw the same sky and felt the same things.\nIf we'd kept pursuing it, I'm sure we could have made it happen.\nThat's what I had thought in my hometown.",
+      "sourceUnit": "ラストエピソード:page85:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n...she awakens from a dream as well.",
+      "sourceUnit": "ラストエピソード:page86:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe keeps looking up at the sky and waits hopefully.\nShe notices that the wind has changed direction, and finds herself fighting back tears.\nAs she prays, she continues waiting for her visitor.\nShe simply says \"goodbye\".\nUntil now, she's only hoped for it, but she is so thankful for that small ray of hope.",
+      "sourceUnit": "ラストエピソード:page87:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "My breathing accelerates.\nI don't believe it. I don't know how long it's been since my breathing was so labored.\nIt feels like I'm back to being that inexperienced boy.\nIt's a ridiculous idea. I chuckle. Just because I'm more experienced doesn't make me complete.",
+      "sourceUnit": "ラストエピソード:page88:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "Now that I think back, I can't even remember how many times I wished upon the sky.\nI wanted to see her.\nI wanted to see her.\nIf it was at all possible, I wanted to hold her in my arms once more and tell her what I'd wanted for so long.",
+      "sourceUnit": "ラストエピソード:page89:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "Her heart races.\nBut she still doesn't move.\nNo, she can't bear the thought of ruining all his effort of walking all this way.\nShe wants to start running to him right away, but she'll have to wait, just as she has been.",
+      "sourceUnit": "ラストエピソード:page90:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "But she still has concerns.\nShe'd questioned whether this hope...this miracle...would really be allowed to happen.\nHe is not the man he was then. His mind and body have been worn down, much like the affliction she felt.\nThis isn't the scene that had always been on their minds.\nIt was not an obsession...but neither was it forgotten.\nThey held on to the past, though it faded, day by day.",
+      "sourceUnit": "ラストエピソード:page91:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "That's why it kept going.\nEven if this were only a dream, he would still have expected this despair with a faint glimmer of hope.",
+      "sourceUnit": "ラストエピソード:page92:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "No.\nThose deceptions are over.\nThe hope, once remembered as only words, returns in all its vivid brightness.\nEverything that had been locked away for so long stirs to wakefulness.",
+      "sourceUnit": "ラストエピソード:page93:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right...\"\nBlood courses through her tin heart once again.\nThe golden earth.\nHer heart has finally caught up and arrived at her hometown, which is long since lost.",
+      "sourceUnit": "ラストエピソード:page94:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "So much feeling wells up, but there's only one thing on the tip of her tongue.\nHow much she missed him, how long she's waited...none of that matters anymore.",
+      "sourceUnit": "ラストエピソード:page95:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nIn the end, he could not change his way of life.\nSimilarly, she was never rewarded.\nBut...",
+      "sourceUnit": "ラストエピソード:page96:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "There are things which came about from protecting that promise.\nIn the end, something precious came from surviving all this.",
+      "sourceUnit": "ラストエピソード:page97:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "The important things are rising to the surface.\nIt's lucky it had all been tucked so deep in her heart.\nHis smile is as boyish and naïve as it was so long ago.",
+      "sourceUnit": "ラストエピソード:page98:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "The words that emerge come out the same as they were so long ago.\nIt is as if the moment simply picks up where it left off.",
+      "sourceUnit": "ラストエピソード:page99:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHer steps are light.\nHer face breaks into a wide smile.",
+      "sourceUnit": "ラストエピソード:page100:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes...welcome back, Shirou.\"",
+      "sourceUnit": "ラストエピソード:page101:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "And so the dream ends.",
+      "sourceUnit": "ラストエピソード:page102:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "He traveled in pursuit of a star.\nOn every journey, he saw others off.\nMuch was lost, and much was made.\nAt the end of it all lay an infinitesimally tiny morsel that cannot begin to compare to the vast span of time that's been eaten up.\nIt is so very dazzling.\nWhat remains in that tiny palm is a dazzling, coalesced brilliance. It is blinding.",
+      "sourceUnit": "ラストエピソード:page103:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n...at the end of their long journey, the two finally meet.\nThis is the end of his journey in search of a star.\nAnd now begins the pair's next long tale.\nAt its end...\n...this world will continue to turn...in much the same way that he might one day become a star to someone else.",
+      "sourceUnit": "ラストエピソード:page104:1"
+    },
+    "page103": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "ラストエピソード:page105:1"
+    }
+  }
+}

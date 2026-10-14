@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0605",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...that it'll be my old left arm.",
+      "sourceUnit": "桜ルート十日目-24:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "What     can't breathe          nerves, my nerves\nhurts\nalive but                              can't feel\ncold\ndie—       hurry          put it, put it back on\nscared\narm          hurry put it back on under the cloth it's\ndark\nthis isn't my arm",
+      "sourceUnit": "桜ルート十日目-24:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What did I just...\"\nWhat was I doing?\nFor a second, I tried undoing the cloth wrap.\nI don't understand what happened after that.\nWhat happened to me?\nWhat will happen to me?\nIt took place just a few seconds ago, but I can't remember it at all...",
+      "sourceUnit": "桜ルート十日目-24:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't do it. Seriously.\"\nIf I take it off, I'll die.\nThe priest was telling the truth.\nI don't know exactly what's happening, but whatever's under that cloth, it isn't mine.",
+      "sourceUnit": "桜ルート十日目-24:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Just forget it. I can't move my arm, that's all. If I keep thinking about it...\"\nMy mind will go dull from the terror.\nI can't afford to let that happen.\nArcher didn't give up his arm to save my life just so I could freeze in fear.",
+      "sourceUnit": "桜ルート十日目-24:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I should think about Sakura, not my arm.\"\nSakura seemed the same as she was this morning, but I never know when she might collapse.\n...I need to defeat Zouken and obtain the Holy Grail before then.\nRight now, I need to think of ways to make that happen.\nWays to beat Zouken and Assassin with one arm.\n...And they're not my only enemies.\nWe're facing a mysterious, unknown foe too.",
+      "sourceUnit": "桜ルート十日目-24:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know the story behind it.\nI have no idea what that black Shadow is, nor how Saber became Zouken's Servant.\nAll I know is that she's my enemy now.",
+      "sourceUnit": "桜ルート十日目-24:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

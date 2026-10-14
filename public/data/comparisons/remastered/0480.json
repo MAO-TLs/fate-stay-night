@@ -1,0 +1,57 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0480",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home!\"\n\"Where have you been, Shirou!?\"\n\"Where have you been, Senpai!?\"\n\"W-whoa!\"\nI scramble back in a hurry, running backwards into the door.",
+      "sourceUnit": "桜ルート六日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you 'whoa' us! I told you not to go out by yourself! And while you're still in ill health! Have you taken leave of your senses!?\"",
+      "sourceUnit": "桜ルート六日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber is right!\nYour note said that you'd be back by two. Do you know what time it is!? What have you been up to for the last two hours!?\"",
+      "sourceUnit": "桜ルート六日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...hold on. I know. I get why you're mad. Just calm down...\"\nIf they can just take a deep breath, I should be able to explain myself.",
+      "sourceUnit": "桜ルート六日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you fail to understand! I honored your wish to go to school alone yesterday, but I will not abide such folly a second time. Why, I'm glad to see you feel so fit and sprightly. That means you must be ready to have me train you until dinner time!\"\nSaber brushes Sakura aside and advances on me.",
+      "sourceUnit": "桜ルート六日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I already cleaned the dojo, so feel free to use it. I've heard how skilled you are, Saber. I'm sure Senpai will be happy to have you coach him!\"\nSakura brushes Saber aside and lets me have it.",
+      "sourceUnit": "桜ルート六日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Oof.\"\n...I can see now that one wrong word will add oil to fire, will cast pearls before swine, and result in nothing less than Saber calling our contract null and void.\n\"Your answer, Shirou!?\"\n\"Your answer, Senpai!?\"\n\"Urgh. I...was wrong.\"\nClatter, clatter, clatter.\nThe door to my house spitefully refuses to let me retreat.",
+      "sourceUnit": "桜ルート六日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let us begin right away. Please bring the first aid kit, Sakura.\"\n\"Okay. Do give him a good raking over the coals for us.\"\nThe two of them go off into the hallway in perfect sync.",
+      "sourceUnit": "桜ルート六日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. Am I gonna be able to eat dinner tonight?\"\nNevertheless, I don't know what worse punishment will await me if I don't go along right now.\nAll I can do now is drag myself to the dojo as ordered for a thorough education...",
+      "sourceUnit": "桜ルート六日目-02:page8:1",
+      "recoveredDelimitedTail": true
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

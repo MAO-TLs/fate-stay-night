@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0380",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nThey aren't opponents that we can take on by ourselves.\nThere are three enemies.\nSo we need at least one more person to cooperate with us.",
+      "sourceUnit": "凛ルート十三日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...In that case, our choices are limited.\nPeople who are also mages and have a reason to fight Caster.\nThat is none other than another Master.",
+      "sourceUnit": "凛ルート十三日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, don't get mad and hear me out. Um, do you think we can cooperate with other Masters?\"",
+      "sourceUnit": "凛ルート十三日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right, what's your intention? You have some plan for you to say that right?\"\n\"Well, not really, but... The other Masters can't ignore Caster's current situation, right?\nThen I thought that maybe we can join hands just this time.\"",
+      "sourceUnit": "凛ルート十三日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. I was actually thinking the same thing. Although I kept quiet since I thought you would object.\"",
+      "sourceUnit": "凛ルート十三日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "She says with a reluctant expression.\nShe must not like the idea deep down, but she must know that's the only option we have.",
+      "sourceUnit": "凛ルート十三日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"In that case, there are two Masters left... Lancer's Master and Berserker's Master.\n...Lancer's Master is still unknown so there's no way to negotiate, but we might have a chance with Berserker's Master, Illyasviel.\"",
+      "sourceUnit": "凛ルート十三日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Berserker's Master.\nThe girl in white and the rock-like giant I met on the first day.\nHer actions were dangerous, but I don't think she's cruel.",
+      "sourceUnit": "凛ルート十三日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, that girl might at least listen to us. She doesn't seem like she would propose any absurd conditions in return either.\"",
+      "sourceUnit": "凛ルート十三日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Idiot. She's the most dangerous for you.\nShe was only looking at you from the start. Putting myself aside, I don't know what she would do to you.\"",
+      "sourceUnit": "凛ルート十三日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"W...What do you mean? I only met that girl once, so that's not possible. D-Don't scare me like that, Tohsaka.\"",
+      "sourceUnit": "凛ルート十三日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Humph. Of course we'll break off the negotiation if that happens, idiot.\"\nAnd...\nShe looks away, then chugs her tea.",
+      "sourceUnit": "凛ルート十三日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...But, we can only bet on Illyasviel for now. If Caster's identity is like Archer said, Berserker would be a natural enemy without a doubt.\nThey knew each other when they were alive, so he should know Caster's tricks. Berserker can handle both Caster and Archer, even if they attack at the same time. We just have to capture Kuzuki during that time.\"",
+      "sourceUnit": "凛ルート十三日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"That's idealistic, but... Tohsaka, do Caster and Berserker really know each other?\"",
+      "sourceUnit": "凛ルート十三日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, Archer told me that Berserker's identity is Heracles.\nIf Caster is actually that extraordinary witch, then they might know each other from the Argo Expedition.\nIt's just like how I don't get along with Kirei. There're always people you won't get along with in this world.\"",
+      "sourceUnit": "凛ルート十三日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Huh.\nBut Tohsaka, I'm sure anyone would dislike that priest.",
+      "sourceUnit": "凛ルート十三日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then it's decided.\nBut, how should we find her? She hasn't come out since, but with that much magical energy, we should be able to find her no matter where she hides, right?\nYet we can't find her, so doesn't that mean she's not in this town?\"",
+      "sourceUnit": "凛ルート十三日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Probably not. Illyasviel must be having fun watching the Holy Grail War from afar.\"\n\"...From afar...? Is she keeping watch over the town like Caster is from Ryudou Temple?\"",
+      "sourceUnit": "凛ルート十三日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know. But, I have an idea of where she might be.\n...I heard from my dad that the Einzbern family has a villa in the forest on the outskirts of town.\"",
+      "sourceUnit": "凛ルート十三日目-03:page18:1"
+    },
+    "page19": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

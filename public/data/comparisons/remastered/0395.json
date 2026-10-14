@@ -1,0 +1,146 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0395",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sun is setting, and the lobby slowly wrapped in darkness.\n...We came to the castle to find an ally, but the only thing remaining is the ruins of a castle after a turn of events.",
+      "sourceUnit": "凛ルート十三日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what should we do? I think we can stay here and strengthen our defense, without attacking.\nWe have food and can stay warm here. If we fix the walls, we can manage to protect ourselves in the castle.\"",
+      "sourceUnit": "凛ルート十三日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's the best thing to do if we want to protect ourselves.\nBut we even gained an ally to choose the path to fight because we couldn't do so.",
+      "sourceUnit": "凛ルート十三日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, it would be meaningless even if we strengthened our defense.\nAny defense would be broken once Caster completely controls Saber.\n...Even if we do survive here, if the Holy Grail becomes Caster's, then...\"",
+      "sourceUnit": "凛ルート十三日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Not only us, but the people in town will suffer as well.\n...Then there's only one thing to do. We'll get Saber back before Caster fully controls her. We have to defeat Caster, Archer, Assassin, and Mr. Kuzuki by ourselves.\"",
+      "sourceUnit": "凛ルート十三日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod silently.\nSince we couldn't get the help of Illya, we have to do this by ourselves.\n...The sun will completely set soon.\nWe'll have to get out of this place before that and attack Caster before Saber surrenders...",
+      "sourceUnit": "凛ルート十三日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It's a simple plan.\nThe process will change depending on the situation. Our only objective is to confront Caster as a result.",
+      "sourceUnit": "凛ルート十三日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't matter whether that situation is only for an instant.\nCaster is the weakest Servant when it comes to hand-to-hand combat.\nEven if she may be a Servant, we have a chance at winning if we can fight her two against one.\nTohsaka's gems and my Projection magecraft.\nIt's not a battle we can't win if we make full use of our individual powers.",
+      "sourceUnit": "凛ルート十三日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "That was the conclusion that we reached, and we go out of the forest believing in that.\nWe don't exchange words after that.\n...There's one reason.\nWe're desperately bluffing so that we can deceive ourselves.",
+      "sourceUnit": "凛ルート十三日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The sunrise is gray.\nThe sunlight is blocked by the clouds, obscuring the light of dawn.\nA cloudy sky is above us.\nThe sky that is closer to gray than black reminds me of that time ten years ago.",
+      "sourceUnit": "凛ルート十三日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Is it going to start raining soon?\nA dull white sky.\nThat man was standing under the cloudy sky that smelled like it had just stopped raining.",
+      "sourceUnit": "凛ルート十三日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"So you did come. I know your personality. I thought you would come back with some kind of strategy.\"\nHe stares at Tohsaka with cool eyes.",
+      "sourceUnit": "凛ルート十三日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry, Archer. I can't live up to those expectations.\nAs you can see, we're empty-handed. We brainstormed a whole day, but we couldn't come up with any plan.\"",
+      "sourceUnit": "凛ルート十三日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\n\"You might not believe me, but we came here to die an honorable death.\n...But, it looks like we have a bit of luck left. If you're here, that means Saber is still going against Caster.\"",
+      "sourceUnit": "凛ルート十三日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Then, there are four opponents.\nIf we break through Archer, the gatekeeper, we can fight Caster and Assassin head-on.\nOur plan is that we break through Archer together and confront Caster with the two of us.\n...That's the lie Tohsaka made up.",
+      "sourceUnit": "凛ルート十三日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Caster and Shirou Emiya. The scale tipped to Caster, huh, Rin?\"\nArcher's oppressive question.",
+      "sourceUnit": "凛ルート十三日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I hate my own personality, but I guess I can't change it since I'm born with it. I'm inhuman when it counts most after all.\"\nTohsaka answers with an emotionless voice and steps forward.",
+      "sourceUnit": "凛ルート十三日目-19:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou. Archer will only attack you. I won't back you up. I'll fight Caster while you get killed.\"\nAs if that's a crime...\nTohsaka apologizes with her back, as if she was intending to use me as a sacrifice from the start.",
+      "sourceUnit": "凛ルート十三日目-19:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nHow stupid of her.\nShe didn't have to say such a thing.",
+      "sourceUnit": "凛ルート十三日目-19:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it, idiot. I also know your personality.\"\n\"Huh...?\"\n\"Tohsaka, it's your principle not to do anything that you don't have a chance of winning at, right? That's why I knew. ...This is certainly the only way we can win.\"",
+      "sourceUnit": "凛ルート十三日目-19:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou.\"\nHer back that didn't have any hesitation shakes slightly.\n...Oh.\nThat's all the apology I need.",
+      "sourceUnit": "凛ルート十三日目-19:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Go. I'll hold Archer down. I'll hold him down, even if it's with will, at least until you get inside the church.\"\nI control my breathing and turn the gears of my engine.\nMy condition is better than ever.\nI can project the same swords as him right away in this state.",
+      "sourceUnit": "凛ルート十三日目-19:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thanks. Sorry, Shirou.\"\nTohsaka runs.\n...Archer lets her go as if she was not in his sight from the start.\n\"Well done. It seems like you understand your powers, even while being incompetent.\"\nHe emits the intent to kill, as if to say he won't let me go this time.",
+      "sourceUnit": "凛ルート十三日目-19:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on.\"\n...I project the twin swords.\nThe match should be made in an instant.\nThe only things in my sight are Archer and Tohsaka's back running to the church.",
+      "sourceUnit": "凛ルート十三日目-19:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...Was it over in one blow, or was I able to hold out a few times?\nThe battle ends, and I look up at the sky with a limp body.\nA gray color covers the sky.\nIt should start raining soon.\nThe cloudy sky is close, and the clouds block my hands like a wall.",
+      "sourceUnit": "凛ルート十三日目-19:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, please, be safe...\"\nMy body is burning.\nI hear the faint sound of flames from the church.",
+      "sourceUnit": "凛ルート十三日目-19:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah, agh.\"\nThe sun is too far away from my powerlessly extended hand.\nThat sky was as if I went back in time to ten years ago.",
+      "sourceUnit": "凛ルート十三日目-19:page26:1"
+    },
+    "page27": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

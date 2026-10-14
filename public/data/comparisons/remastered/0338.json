@@ -1,0 +1,156 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0338",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Hmm, I guess I'll go talk to Saber.",
+      "sourceUnit": "凛ルート十日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"My favorite food, you said?\"\nI nod.",
+      "sourceUnit": "凛ルート十日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Even though I came to the dojo, my body is still numb.\nI can't spar with Saber, and I don't feel like talking about the serious things going on right now, so I ask her about her preferences for future reference.\nReally, I just want to get to know her.",
+      "sourceUnit": "凛ルート十日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...You ask strange questions. I do not understand, is there some important meaning in this...?\"",
+      "sourceUnit": "凛ルート十日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? No, nothing important. You're not a picky eater, so I just got worried about whether you enjoy my food or not.\nIf I know what food you like, I can avoid the food you dislike.\"",
+      "sourceUnit": "凛ルート十日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Then you are mistaken, Shirou. There are no problems with the meals you prepare.\nI am satisfied, and I do not think this is possible, but if you were to make a mistake, I do not think I would dislike it even then.\"",
+      "sourceUnit": "凛ルート十日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Saber completely changes and watches seriously.\n...Well, I can tell that Saber enjoys my food, so I'm glad to hear that. But...",
+      "sourceUnit": "凛ルート十日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, but you won't like it if I make something you can't stand in the first place, right? I want you to enjoy the meal, so I want to know what you find dull.\"",
+      "sourceUnit": "凛ルート十日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm. Dull, you say? Why do you need to know such a thing?\"\n\"So that I can keep it in mind for future reference. I don't think you have any allergies, but it doesn't hurt to ask.\"",
+      "sourceUnit": "凛ルート十日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmmm. I'm not convinced, but would answering you improve the quality of your meals in the future...?\"",
+      "sourceUnit": "凛ルート十日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"It will. If your preferences are clear, it'll be easier to put together a menu. I'm sure it'll taste better as well.\"\n\"...Then I will cooperate, Master. Please ask away.\"\nSaber sits up straight politely.",
+      "sourceUnit": "凛ルート十日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm.\"\n...I feel like she's pumped up like she's about to start a match.",
+      "sourceUnit": "凛ルート十日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Please, Shirou. I am ready.\"\nShe urges me on.\n...This is an unexpected turn of events, but I also sit up straight.",
+      "sourceUnit": "凛ルート十日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'll start off broadly. Do you dislike sweet stuff?\"\n\"I have no problem with it. In fact, I rather like it.\"\n\"Okay. Then, what about spicy stuff?\"\n\"I have no problem with that either. I appreciate the stimulation after a workout.\"",
+      "sourceUnit": "凛ルート十日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I see. So you're okay with both sweet and spicy. Then, more specifically, are you okay with vegetables?\"",
+      "sourceUnit": "凛ルート十日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, they are fine. I am not a vegetarian, but ripe vegetables are a must for every meal.\"\n\"Hmm. Then what about meat? Chicken, pork, beef...tell me if there's something you don't like. Also, let me know if there's a certain cooking method you like.\"",
+      "sourceUnit": "凛ルート十日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"My requirements are few on the matter. Meat is the main character of the meal.\nEverything you have made is rather delicious, so I would like for you to cook freely.\"",
+      "sourceUnit": "凛ルート十日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"O-oh really? ...This is a bit off topic, but what were the meals like where you're from?\"\n\"...\"\nHey.\nWhat's with the face? Why do you have to think it over?",
+      "sourceUnit": "凛ルート十日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Err, well. How about you just say whether it was good or bad?\"",
+      "sourceUnit": "凛ルート十日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...It was slop.\"\nShe's muttering.\nAn opinion full of hatred.\nIt's so unlike Saber to be so openly negative. With it comes what feels like a flood of dissatisfaction with the incompetence of an individual and the self-hatred of not being able to correct them.",
+      "sourceUnit": "凛ルート十日目-02:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I see. Um...I'm sorry.\nLet's get back to the original topic. What about seafood? I've cooked a lot of fish, but you haven't had any shellfish yet, right?\"",
+      "sourceUnit": "凛ルート十日目-02:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"That is true. I have not had much, but seafood is good for the body. If I disregard the labor required for preparation, it would be one of my favorite foods.\"",
+      "sourceUnit": "凛ルート十日目-02:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...Okay.\nShe likes both sweet and spicy, and is fine with vegetables, meat, and fish.",
+      "sourceUnit": "凛ルート十日目-02:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...I think I've gone about this wrong. Saber, do you have any food you don't like?\"\n\"No, you do not need to worry about that, Shirou. I do not have any foods I dislike.\"",
+      "sourceUnit": "凛ルート十日目-02:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...Well...\nI don't want to say this after asking so much, but I'm starting to feel like these questions were meaningless.",
+      "sourceUnit": "凛ルート十日目-02:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I see. So, okay. You can eat anything then?\"\n\"Yes. I will eat anything as long as it tastes good.\nI am happy to say that not even my palate is dull.\"\nSaber puffs a little with pride.",
+      "sourceUnit": "凛ルート十日目-02:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\n...So then...\nI was able to learn one thing from these questions, at least.",
+      "sourceUnit": "凛ルート十日目-02:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...That, well, if I get lazy and put in less effort into making meals, I'm not sure how Saber'll react.",
+      "sourceUnit": "凛ルート十日目-02:page27:1"
+    },
+    "page28": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

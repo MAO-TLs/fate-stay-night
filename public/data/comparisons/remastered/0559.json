@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0559",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm the only one who can move easily.\nBoth Archer and Tohsaka have been disabled by Rider's Mystic Eyes.\nSo, if we remove the common cause...!",
+      "sourceUnit": "桜ルート九日目-21:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I run at Rider.\nEven if I can't take her down, I can at least break her gaze on Archer for a second!\n\"...!? Have you lost your mind!? Don't look directly at Rider!\"\nI ignore Archer's voice and charge at Rider.\nIf those Mystic Eyes petrify people, then I can just close my eyes.\nThe hallway is narrow.\nI know how far I am from Rider.\nWhether Rider reacts to me or I manage to pull off my suicide charge, it might create an opening for Archer...!\nBut, my legs are frozen.\nThey've actually turned to stone.",
+      "sourceUnit": "桜ルート九日目-21:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nNot just my legs.\nThe petrification reaches my waist, hardening my torso, freezing my arms, and sealing my eyelids shut forever.\n\"Ev...?\"",
+      "sourceUnit": "桜ルート九日目-21:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"How foolish.\nDid you think closing your eyes would be enough to block my Mystic Eyes? Everything I see is cursed, whether physical or spiritual.\"",
+      "sourceUnit": "桜ルート九日目-21:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy throat and mouth won't move.\n...I can't even tell what's happening around me.\nI'm a stone statue that has no way of knowing\nwhether Tohsaka's screaming,\nor Archer's crumbling to pieces.",
+      "sourceUnit": "桜ルート九日目-21:page4:1"
+    },
+    "page5": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート九日目-21:page5:1"
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

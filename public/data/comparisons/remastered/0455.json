@@ -1,0 +1,276 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0455",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "After school, the campus dies down.\nThe classrooms empty, with students either going home or to their respective clubs, like baby spiders scattering from the nest.",
+      "sourceUnit": "桜ルート五日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. I'd better get home early.\"\nI need to mentally prepare to have Sakura stay over, too.\nI'll do my dinner shopping first, then break the news once Sakura comes back from club practice.",
+      "sourceUnit": "桜ルート五日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see, what should I make tonight...?\"\nArms folded, I pause to think in front of Toyoetsu, the local supermarket.\nIf I want Sakura to stay over, I'll have to convince Fuji-nee.\nMeaning that I should think of a way to make them both happy...",
+      "sourceUnit": "桜ルート五日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I splurged pretty hard yesterday, and I'm taking time off from work, plus there's another mouth to feed...so the budget's a little tight.\"",
+      "sourceUnit": "桜ルート五日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Still, I can make an exception this month.\nI do have savings, and I can't fight the Holy Grail War if I'm worried about living expenses.\nI can just think of it as a way to repay Sakura for everything she's done.",
+      "sourceUnit": "桜ルート五日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"And...there.\"\nWith a bag full of ingredients, I leave Toyoetsu.\nUsually I'm against overspending, though in this case the bounty was good.\nI managed to get my hands on some high-grade Pacific cod, which could go well in a stew tonight.",
+      "sourceUnit": "桜ルート五日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"That should make Fuji-nee happy—Hm?\"\nWhile walking home in high spirits, I stop in my tracks.\n\"Hm?\"\nSomething's pulling on my clothes from behind me.",
+      "sourceUnit": "桜ルート五日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI turn around curiously.\nI'm met by the sight of\na young girl with silver hair.",
+      "sourceUnit": "桜ルート五日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—eh!?\"\nI leap backwards with a yelp.\nThe girl just watches as I panic.",
+      "sourceUnit": "桜ルート五日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The hell...?\nShe doesn't seem hostile, much less murderous.\nInstead, she says,\n\"I'm glad you're alive, big brother.\"\nShe beams at me in genuine joy.",
+      "sourceUnit": "桜ルート五日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\n...There's no mistake that this is Berserker's Master.\nShe commands that monster that nearly tore me in half with a single slash that night.\nShe's from an ancient magical lineage that founded the Holy Grail War. One my old man Kiritsugu betrayed.\nBut what's she doing out here in the middle of the day?",
+      "sourceUnit": "桜ルート五日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...With Father Kotomine's words still fresh in my mind, she's no longer just a stranger to me.\nThat's why, without thinking, I murmur,\n\"Ill...ya?\"\n\"Huh?\"\nWithout knowing the significance of it, I blurt out the girl's name.",
+      "sourceUnit": "桜ルート五日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah—no, I mean...!\nIllyas—yeah, you're Illyasviel!\nS-sorry I got your name wrong!\"",
+      "sourceUnit": "桜ルート五日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I bow out of reflex.\nIt doesn't matter whether she's Berserker's Master or the daughter of the Einzberns right now.\nI...just...\n...can't leave her alone, not when she looks like she's about to cry.",
+      "sourceUnit": "桜ルート五日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Ah, uh, I didn't mean anything bad by it. I just thought of your name, and...\"",
+      "sourceUnit": "桜ルート五日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's your name?\"\n\"Huh?\"\n\"Tell me your name. It isn't fair that only you know mine.\"\n...\nThat's right, come to think of it.\nIllyasviel introduced herself before, but I still haven't told her my name.",
+      "sourceUnit": "桜ルート五日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm Shirou. Shirou Emiya.\"\n\"Zero Emilia? That's a weird name.\"\n\"No, that's wrong. It doesn't sound like Western names. You pronounce it she-row eh-me-yah. Just call me Shirou if it's easier that way for you.\"\nWithout really thinking about it, I correct the girl's lilted pronunciation.",
+      "sourceUnit": "桜ルート五日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nI even wag a finger at her, which makes her blink in surprise.",
+      "sourceUnit": "桜ルート五日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nBy the time I realize how blunt I'm being, it's too late.\nOnce again, she looks like she's about to cry.\n\"...Shirou. Shirou, huh? Okay, I like that.\nIt's simple, but it has a nice ring to it. Shirou suits you.\nI'll let you off for being rude earlier!\"\nSuddenly, she grabs my arm.",
+      "sourceUnit": "桜ルート五日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa! H-h-hold on, Illyasviel! What're you doing!?\"\n\"It's okay, you can keep calling me Illya, Shirou! I'll call you Shirou, so we're even!\"",
+      "sourceUnit": "桜ルート五日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... I mean, sure, that's easier to say, but wait!\"\nI try to shake Illya off my arm, but she just squeals in delight.",
+      "sourceUnit": "桜ルート五日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nUh-oh. At this rate, the neighborhood mother hens will start to gossip.",
+      "sourceUnit": "桜ルート五日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it, what are you after!? Are you trying to hunt me down in broad daylight!?\"\nI finally wrench my arm out of her grasp.\n...\n...Ah.\nIllya looks unhappy.",
+      "sourceUnit": "桜ルート五日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what? Don't look at me like that. I don't know what you're doing here, but I'm a Master, too.\"\nIllya shoots a glance at the shopping bag in my hand.\n...But she also keeps looking at me curiously.",
+      "sourceUnit": "桜ルート五日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Illya?\"\n\"Yeah? What is it, Shirou?\"\n\"Urgh.\"",
+      "sourceUnit": "桜ルート五日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "She's, um, not how I imagined.\n...She laughed back then, too, but the feeling behind it was different, like maybe...\n\"...Illya. Did you not come here to fight?\"",
+      "sourceUnit": "桜ルート五日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? Do you want me to kill you?\"\n\"Nnn...\"\nHer gaze is enough to make my hair stand on end.\nNo matter how young she looks, this girl is the strongest Master.\nShe might be giggling innocently one second, and become a ruthless Master the next.",
+      "sourceUnit": "桜ルート五日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm. I don't understand, but I'm fine with it if that's what you want. It'll just move up my schedule a little. Would you like to die here with Saber?\"\n\"...Stop joking, of course not. I don't want to die, and I'd rather not fight here.\"",
+      "sourceUnit": "桜ルート五日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Right? Masters aren't supposed to fight while it's light out. You didn't bring Saber with you, and I didn't bring Berserker either.\"",
+      "sourceUnit": "桜ルート五日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, yeah. So what are you doing here? Did we just run into each other by chance?\"\n\"Not by chance. I snuck away from Sella and came here to meet you. You should be honored.\"",
+      "sourceUnit": "桜ルート五日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI think I'm getting dizzy.\nJust when I thought she was in serious Master mode, she's back to being an innocent child.\nI have no way of knowing which side is the real Illya.",
+      "sourceUnit": "桜ルート五日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. So you're here to see me.\nBut you're not here to fight...is that really okay?\"\n\"Yeah. I'm here to talk to you, Shirou. You'll at least do that, right? I've been waiting such a long time.\"\n...\nI don't know what she means by \"at least,\" but apparently she really is just here to talk.",
+      "sourceUnit": "桜ルート五日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Or do you not want to talk? ...If not, I'll just go home. I don't want to, but I don't like forcing people to do things.\"\nIllya gazes up into my eyes.",
+      "sourceUnit": "桜ルート五日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ergh.\"\n...As a Master, it's dangerous to stay here with Illya any longer. If Saber were here, I'm sure she'd be vehemently against this course of action.",
+      "sourceUnit": "桜ルート五日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\n...But I can't just leave, not when she's looking at me like that.\nI know it's heedless, haphazard, and half-cocked, but...",
+      "sourceUnit": "桜ルート五日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not against talking to you, Illya. To be honest, I've wanted to meet you, too.\"",
+      "sourceUnit": "桜ルート五日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Yay! Then come this way! I found a small park earlier!\"\nAs soon as I agree, Illya starts running, practically dancing in delight.",
+      "sourceUnit": "桜ルート五日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, hurry, or I'll leave you behind, Shirou!\"",
+      "sourceUnit": "桜ルート五日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess whatever happens, happens.\"\nResigning myself to my fate, I follow after her.\nIllya called me Shirou.\nThat means I should deal with her in kind, not as a Master, but a regular girl.",
+      "sourceUnit": "桜ルート五日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "There's no one else at the park.\nNot in the sandbox, nor on the swings.\nIt feels lonely. I sit down on a bench with Illya.",
+      "sourceUnit": "桜ルート五日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...We must look like an odd pair.\nIllya's clearly not my sister since she's obviously foreign, but we have too much of an age gap to look like friends.",
+      "sourceUnit": "桜ルート五日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what did you want to talk about, Illya? You must have something to ask me.\"",
+      "sourceUnit": "桜ルート五日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? I don't really have any questions for you.\"\n...\nWell, then.\nHow am I supposed to answer that, inscrutable little lady?",
+      "sourceUnit": "桜ルート五日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Illya. You're the one who said you wanted to talk.\nBut now you're saying there's nothing to talk about. Normally you wouldn't invite someone for a chat without business.\"\n\"Huh? R-really? We can't talk unless it's business...?\"",
+      "sourceUnit": "桜ルート五日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh... That's not what I meant. I phrased that badly. We don't need to talk about business. Actually, it's more fun that way.\n...But you've got me at a loss. I don't know you well, so I'm not sure what we should talk about. I don't know your likes or dislikes. That goes for you too, doesn't it? Wouldn't you feel uncomfortable if I suddenly asked you about things you wouldn't wanna talk about?\"",
+      "sourceUnit": "桜ルート五日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... Yeah, maybe...but then what should I ask you? You won't get mad if I ask you anything I want?\"\n\"Yeah, probably not. I'm the big brother here, so I'll try to act like a grown-up.\"\n\"Okay. Then, Shirou...do you like me?\"",
+      "sourceUnit": "桜ルート五日目-05:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Pfft!\"\nW-w-what does this kid think she's asking!?",
+      "sourceUnit": "桜ルート五日目-05:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, you're a liar. You said you wouldn't get mad, Shirou!\"\n\"Anyone would be shocked by that, stupid! Y-you cut me in half, you know! I don't even know how to feel about that!\"",
+      "sourceUnit": "桜ルート五日目-05:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not how it happened! You're the one who ran out in front even though you're so weak! I-it wasn't my fault!\"",
+      "sourceUnit": "桜ルート五日目-05:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"The hell it wasn't! You showed up all ready to murder us! That's insane! And why does it matter whether I like you or not!?\"\nIllya's shoulders tremble, and she goes silent.",
+      "sourceUnit": "桜ルート五日目-05:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\n...Oops.\nI made up my mind to forget we're Masters, and here I am putting my foot in my mouth.",
+      "sourceUnit": "桜ルート五日目-05:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... Illya?\"\n\"...Well, it matters to me. You're a jerk, Shirou, and you're all talk. You would've died if I didn't stop him.\"\nIllya's shoulders shake and she stares at the ground, even as she says something ominous.",
+      "sourceUnit": "桜ルート五日目-05:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\n...Well, she's got me there.\nI'm the one who steered the conversation this way, and I'm older. Illya's just a kid.",
+      "sourceUnit": "桜ルート五日目-05:page52:1"
+    },
+    "page53": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

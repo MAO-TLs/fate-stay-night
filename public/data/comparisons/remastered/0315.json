@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0315",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "School's over.\nProbably because of yesterday's incident, students are not allowed to remain at the school for any reason.",
+      "sourceUnit": "凛ルート八日目-02:page0:1"
+    },
+    "page1": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート八日目-02:page1:1"
+    }
+  }
+}

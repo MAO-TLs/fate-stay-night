@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0304",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "That's the best choice we have.\nIf Shinji's Servant set up the Bounded Field, I just need to call for Saber...!",
+      "sourceUnit": "凛ルート七日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, I'm calling for Saber...! Teach me how to use the Command Spell.\"\n\"Huh... H-hold on. If you're calling for Saber, I'll also—\"",
+      "sourceUnit": "凛ルート七日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You used yours yesterday. So it's my turn now.\nYou can call Archer if calling Saber isn't enough! So, how do I use it!?\"",
+      "sourceUnit": "凛ルート七日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Concentrate on your left hand. You should close your eyes.\nImagine the shape of your Command Spell in your head and release it. Give a command while you release it.\"",
+      "sourceUnit": "凛ルート七日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I close my eyes.\nI can't take my time.\nSo I clear my thoughts as much as possible,\nconcentrate on my second Command Spell...\n\"...I'm counting on you. Come, Saber!!!\"\nand release the second mark.",
+      "sourceUnit": "凛ルート七日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh...\"\nThe back of my left hand burns.\nSimultaneously, a sudden mass forms. A knight in silver emerges from a space distortion next to me.",
+      "sourceUnit": "凛ルート七日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...!\"\n\"I have come in response to your summons.\nWhat is the situation, Master...? It is grave enough for you to use your Command Spell?\"",
+      "sourceUnit": "凛ルート七日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's just as it looks. The Servant set up a Bounded Field.\nI want to eliminate her as soon as possible.\"\n\"Understood. I certainly feel the presence of the Servant on this floor.\"",
+      "sourceUnit": "凛ルート七日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"This floor...!? The Servant's on the fourth floor!?\"\n\"There is no doubt. What about it, Rin?\"",
+      "sourceUnit": "凛ルート七日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... No, I'm sure that's the case if you say so, but I'm confused. I can feel the origin of the Bounded Field on the first floor. I'm sure your ability to detect Servants is superior to mine, but I'm pretty good at detecting traces of magecraft at least.\"",
+      "sourceUnit": "凛ルート七日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Are you saying that the Servant is on this floor even though they set up the field on the first floor, Tohsaka?\"\n\"Uh... I can't say for sure, but that's what I feel.\nI'm positive the field's source is on the first floor.\"",
+      "sourceUnit": "凛ルート七日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nSo we have to choose between the two, huh?\nIf Shinji placed the Servant on this floor, then one must definitely be a trap.\nIf we make the wrong choice, we will be sacrificing everybody in this school...",
+      "sourceUnit": "凛ルート七日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. What happened to Archer? If he were here, then we could make a more accurate analysis.\"\n\"He's not answering me! This Bounded Field has completely cut us off from the rest of the world. I have no other choice but to use my Command Spell or wait for him to sense our situation and come.\"",
+      "sourceUnit": "凛ルート七日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka and Saber glare at each other.\nThis isn't the place for it, though.\n...Think.\nTohsaka has lost her composure.\nThe best thing we can do right now is...",
+      "sourceUnit": "凛ルート七日目-06:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

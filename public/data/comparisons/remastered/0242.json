@@ -1,0 +1,556 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0242",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "She'd been blinded by light a moment ago, but now she's cast into darkness.\nIf she had been conscious, she would have seen that it was a black polar light.",
+      "sourceUnit": "セイバールート十五日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe darkness was momentary.\nBut it was not darkness. It was a swarm of tiny curses.\nThe darkness sweeps her body away, and the discomfort jolts her to wakefulness.",
+      "sourceUnit": "セイバールート十五日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI sigh.\nThe first thing her returning consciousness brings her is pain.\nWhatever parts of her were not protected by her armor are horribly burned, and her flesh has been brutally savaged by blades of all sorts. She is a dismal sight.\n\"I see...so I have...\"",
+      "sourceUnit": "セイバールート十五日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Ea defeated her.\nGilgamesh unleashed his Noble Phantasms, and she could not defend against so many. Then Ea struck her.\nShe barely managed to deflect it with Excalibur, but the damage to her body was too severe.\nHer wounds heal on their own without using magical energy, but even the protection of the sacred sword's sheath is unable to return her to full health in an instant.",
+      "sourceUnit": "セイバールート十五日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"This is it, Saber. I hope you are not still refusing to admit defeat, even in this state.\"\nGilgamesh walks forward, not a scratch on his armor.",
+      "sourceUnit": "セイバールート十五日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber lays on the ground, looking up at her enemy.\nThere's nothing she can do right now.\nNothing can stop him from doing whatever he likes with her now.",
+      "sourceUnit": "セイバールート十五日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh. What was that...light?\"\nDespite the situation, Saber is more concerned about the light.\nThat flash of light.\nThat deep darkness that welled up from the far side of the temple and, for a moment, covered the world itself.\nShe doesn't want to think about it, but that darkness might have been aimed at Shirou.",
+      "sourceUnit": "セイバールート十五日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"That light just now? You know. It's the curse.\nKotomine must have summoned it straight from the Holy Grail. The Holy Grail apparently holds within it something capable of cursing the entire world.\nThe pollution we've seen so far is nothing more than residue leaking from the Grail.\nAnd now, it seems, the main body has emerged. Your Master is dead.\"",
+      "sourceUnit": "セイバールート十五日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That...can't be...\"\nSaber wills her body to move.\nBut she knows she can't.\nShe can't just lay down, though...",
+      "sourceUnit": "セイバールート十五日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Lies. Shirou is still alive. I can still...\"\nShe can still feel her connection with her Master.\nIt's weak, like the faint embers of a fire on the verge of going out, but Shirou is alive.\nShe has to keep going.\nIf he fights something unheard of or incomprehensible, Shirou will be no match for it.",
+      "sourceUnit": "セイバールート十五日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...!\"\nSaber clings to that faint warmth and again wills herself to move.\n\"Ah...kh...ah...\"\nBut it's useless.\nEven the sacred sword's sheath needs a few more minutes to restore her.",
+      "sourceUnit": "セイバールート十五日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It's too late. Stay here, Saber.\nNo matter what you do, the Holy Grail will soon overflow. It will be a repeat of ten years ago. This time, though, the ritual is for you, rather than me.\"\nThe golden knight smiles as he turns his gaze up to the burning red sky.",
+      "sourceUnit": "セイバールート十五日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Rejoice, Saber. Once the contents of the Grail have rained down upon you, you will become like me. You will gain flesh in this world and enjoy your second life.\nOf course, you may not retain your sanity as I have.\"\n\"Gh—!?\"\nSaber looks up at him, bewildered.",
+      "sourceUnit": "セイバールート十五日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "She can sense the immensity of the curse.\nIt is a magnificent cluster of magical energy. With so much power, any magecraft would be possible. Were Caster to wield it, the possibilities would be endless.\nBut it's a double-edged sword.\nIt curses humans, and only humans.\nEven Heroic Spirits would not be able to remain themselves after coming into contact with that curse.",
+      "sourceUnit": "セイバールート十五日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat's when she realizes...\n...Gilgamesh...\nA decade ago, that corruption even swallowed up the most ancient King of Heroes.\nThen...\n\"Gilgamesh...do not tell me you...\"\nHe's gone mad.",
+      "sourceUnit": "セイバールート十五日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Do you think so, King of Knights?\"\nGilgamesh looks down at Saber, laughing merrily.\nIt's strangely out of character for him, but the look seems somehow appropriate.",
+      "sourceUnit": "セイバールート十五日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not underestimate me. How could I call myself a hero if I could not drink up something so paltry as a curse?\nAll the world's evil? Hah. It is nowhere near potent enough to contaminate my glorious self!\nListen, Saber. A hero shoulders the weight of all humanity.\nAnd I did that eons ago.\"\n...\nHearing those words, Saber gasps.",
+      "sourceUnit": "セイバールート十五日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "She knows, in that moment, that she will never understand this Heroic Spirit.\nHis unthinkable arrogance, the staggering ego leading him to believe heaven and earth exist only for him, his ruthless choices that bear no regard for any but himself...\nAll of these things are completely opposite to her own beliefs of what it is to be a king.\nBut, he was a king.\nEven Saber cannot deny that.\nNo other Servant than Gilgamesh could have retained their sense of self after being bathed in that immensely powerful curse.",
+      "sourceUnit": "セイバールート十五日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Forcing you to swallow the mud may be entertaining, but once you lose your mind, my fun will be over. Let us resolve to be married before that happens.\"\n\"Gh—!?\"",
+      "sourceUnit": "セイバールート十五日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh...you are unbelievable!\"\n\"Oh? Do you dislike such rough treatment?\nYou had best get used to it. I do not believe in restraint when it comes to women or food. I devour both as I please.\"\n\"Gh—!?\"\nSaber glares up at Gilgamesh as she hangs upside down.",
+      "sourceUnit": "セイバールート十五日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So you're acting out of a sense of duty to your Master, as a Servant. Pathetic. I can't believe you gave him your body and soul simply because of the constraints the Command Spells placed upon you.\"\n\"No. You misunderstand, Gilgamesh.\nI do not obey anyone. That is a freedom I have never had.\"",
+      "sourceUnit": "セイバールート十五日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? So are you saying that you will not be mine, no matter what?\"\nHis red eyes rake over Saber.\nThey are entirely devoid of human emotion.\nIf she disobeys, he will kill her. No matter how attached he may be to something, if it does not obey him, he will simply destroy it.\nThat is simply how Gilgamesh sees the world.",
+      "sourceUnit": "セイバールート十五日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber doesn't look away. She simply glares hatefully at Gilgamesh.",
+      "sourceUnit": "セイバールート十五日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh. I will never be anyone's possession.\nI belong to my nation. I am a king before I am a woman.\"\nShe's not saying this to anyone in particular.\nShe's simply expressing the tiny warmth still within her heart.",
+      "sourceUnit": "セイバールート十五日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha! Listen to you!\nDo not make me laugh, Saber. A country is simply one of its king's possessions. If he cannot rule everything, a transcendent being like a king serves no purpose.\nHonestly. King Arthur...it is no wonder your own country turned on you.\"",
+      "sourceUnit": "セイバールート十五日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "The golden knight mocks her for her naivete.\n...\nHer heart is set now.",
+      "sourceUnit": "セイバールート十五日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, you are correct. But listen, King of Heroes...\nYour arrogance is what destroyed your country!\"\nSuch fierce spirit.\nSaber twists her entire body, using the leverage to kick Gilgamesh in the face with her free leg!",
+      "sourceUnit": "セイバールート十五日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nGilgamesh releases her.\nSaber stretches her arms out and arrests her fall, then springs upward.",
+      "sourceUnit": "セイバールート十五日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You dare kick a man!? It seems you really do require discipline! SABER!!!\"",
+      "sourceUnit": "セイバールート十五日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "She closes her eyes and looks within herself.\n\"It is no wonder your own country turned on you.\"\nIt is not news to her.\nSince her summoning as a Saber, she's been hearing those words over and over.\nIt's different with him.\nHe grew angry with her as if it had been about him, but he also thought her actions were worthy of pride.",
+      "sourceUnit": "セイバールート十五日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "She knows what she must do.\nEven if she has no hope of victory, she cannot stop here.\nShe needs to do something while she can still feel that warmth inside her.\nShe has to get to her Master as fast as she can.",
+      "sourceUnit": "セイバールート十五日目-13:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh!\"\n...\nShe's about eight meters from Gilgamesh.\nShe positions herself at the ideal distance for intercepting an attack, which she's just experienced firsthand.",
+      "sourceUnit": "セイバールート十五日目-13:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Her body won't move the way she wants.\nShe can barely grip her sword, and her legs are hardly able to bear her weight.\nEven a weak blow would be too much for her now.\nBut she shows neither weakness nor hesitation.",
+      "sourceUnit": "セイバールート十五日目-13:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...\nLet me ask you one thing.\"\nEven Gilgamesh feels he has to prepare himself.\nThe golden knight readies Ea, his eyes on his opponent.",
+      "sourceUnit": "セイバールート十五日目-13:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you quite insane?\"\n...\nSaber doesn't answer.\nBut her determination is there to see in her eyes.",
+      "sourceUnit": "セイバールート十五日目-13:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Then I will not hold back.\"\nThe air itself roars.\nEa, the Sword of Rupture from ancient Mesopotamia, is said to have divided heaven and earth to create the world.",
+      "sourceUnit": "セイバールート十五日目-13:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Gilgamesh, the King of Heroes, readies his supreme sword to finally put an end to his enemy.\nThe atmospheric vortex it creates—the sheer quantity of converging magical energy—far exceeds Saber's Excalibur.",
+      "sourceUnit": "セイバールート十五日目-13:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Begone. You are no more than an eyesore now, woman.\"\nGilgamesh raises his sword.\nSaber mirrors the movement in perfect synchronization.\n...\n...\nTheir eyes meet for an instant.",
+      "sourceUnit": "セイバールート十五日目-13:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Enuma...Elish!\"\nGilgamesh flourishes his sword.\n\"Hn...kugh!?\"\nBut Saber's sword falls to the ground, useless. She lacks the strength to activate her Noble Phantasm.",
+      "sourceUnit": "セイバールート十五日目-13:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "The light which can sever all things bursts through her.\nUnable to do anything, she is swallowed up by the light.",
+      "sourceUnit": "セイバールート十五日目-13:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "The moment I'm engulfed in darkness...\n...hell itself is imprinted on my mind.",
+      "sourceUnit": "セイバールート十五日目-13:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "The five starting penalties: life, body, imprisonment, humiliation, and finance. Let the myriad sins, mud, darkness, and malice continue to surround and punish all. \"Eliminate human rights through decapitation, exile, and repression.\" \"Let the body descend into a state of torment and debauchery.\" \"Eliminate group consensus by forfeiting honor.\"",
+      "sourceUnit": "セイバールート十五日目-13:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ridicule through greed and arbitrary decisions that freeze assets and property.\" Imprisonment, fines, the death penalty. Crimes committed in the name of personal grudges. Crimes committed to satisfy selfish desires. Crimes committed unconsciously. Crimes proclaiming self-consciousness. Civil disturbance. Solicitation. Fraud. Theft. Robbery. Kidnapping. Self-harm. Violence. Arson. Bombing. Infringement. Manslaughter. Group violence. Professional negligence. Overconfidence.",
+      "sourceUnit": "セイバールート十五日目-13:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Accidents. Accidents by intoxication. Cover-ups. Crimes for personal gain. Crimes committed in the name of the ego. Crimes committed in the name of love. Crimes committed in the name of virtue. Crimes committed for themselves. Theft and embezzlement, fraudulent cover-ups, contraband,crimecrimecrimecrimehategrudgeattackattackattackdirtydirtydirtyyou'realldirtyatoneatoneatoneatoneciolencecrimesvictimsatoneatoneatone \"thisworldisruledbynonhumans.\" Know your conscience to rectify your sins.",
+      "sourceUnit": "セイバールート十五日目-13:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Know the penalty of your sins. Herein lies the goodness of man, so plentiful that he is unaware of the totality of what he is exposed to. Know the violence used to cover up the crime. Know the authority that hides the crime. The malignancy of man is here, so rare and so hard to find that it stands out in sharp relief. One hundred benign, one malignant. To balance it out, the malignant shines strong, and reigns as a mighty and vicious \"evil\" to compete with the benign masses. The five starting penalties...",
+      "sourceUnit": "セイバールート十五日目-13:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "For you—for you—for you—for you—for you—for you—for you—for you—for you—for you—for you—for you—for you—for  you—for you—for you—for you—for you—for you—for you—for you—for you—for you—solicitation, fraud, theft, robbery, kidnapping, self-harm,  tyranny, arson, infringement, dirtydirtydirtydirtydirtydirtydirtyyou're all dirty atoneatoneatoneatoneatoneatoneatone violence, crimes, victimsatoneatone\nDIE TO ATONE!!!\n\"...Ah.\"\nMy brain's going to explode.",
+      "sourceUnit": "セイバールート十五日目-13:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "The mud eating away at my body does not peel off. It mercilessly robs me of my warmth.\nI feel the horrible curse crushing all of my senses. Crushing me.\nDarkness I can't look at directly.\nUgliness I can't acknowledge.\nCrimes I want to run from.\nAll man's sins.\nI'm going to die.\nAnyone caught in this darkness wouldn't be able to resist letting it devour them, just from the sheer pain and disgust.",
+      "sourceUnit": "セイバールート十五日目-13:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "But...\nKotomine said it once.\nThis curse is what killed Kiritsugu.\nThat's enough to banish the darkness.",
+      "sourceUnit": "セイバールート十五日目-13:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Heat returns to my body.\nBlood rushes through me, wounded as I am, and helps me get back to my feet.\nAnd why not?\nI mean...\nKiritsugu Emiya shouldered all of this for years.\nDid he die, his own wishes unfulfilled, because those voices never stopped screaming at him to atone?",
+      "sourceUnit": "セイバールート十五日目-13:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "He said he wanted to be a champion of justice.\nHe ran around like an idiot trying to be useful to someone, and in the end, nobody let him do what he wanted to do. Even so, he still pursued something...the ideals he'd given up on.\nAnd then in the end, the words of some silly kid lifted a burden from him...and he finally let himself believe that everything would be okay.",
+      "sourceUnit": "セイバールート十五日目-13:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...aaa...ah...\"\nI have to stand up.\nI said I was going to take his place and carry on his dream.\nIf I really am the son of Kiritsugu Emiya, the champion of justice, I can't let the bad guy beat me.",
+      "sourceUnit": "セイバールート十五日目-13:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka told me.\nI need to win even if it kills me.\nSaber told me.\nKotomine is the enemy I have to defeat.\nEven Kotomine said...\nIf I'm going to fight, I should put my life on the line.",
+      "sourceUnit": "セイバールート十五日目-13:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "That's right. What can I put on the line here if not my life?\nI don't have anything else to offer anyway!",
+      "sourceUnit": "セイバールート十五日目-13:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"AHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH!!!!!!!!!\"\nI desperately leap out of the mass of black mud.\n\"Gh—!?\"\nI can hear his surprise.",
+      "sourceUnit": "セイバールート十五日目-13:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "My throat is burning.\nEvery breath is like swallowing glass.",
+      "sourceUnit": "セイバールート十五日目-13:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Hgggh...gh...abbbh...ah...\"\nI don't care.\nTears of frustration stream down my face.\nI might just burst from sheer anger before the curse can tear me apart.",
+      "sourceUnit": "セイバールート十五日目-13:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Impossible. Have you truly just shaken the curse off!?\"",
+      "sourceUnit": "セイバールート十五日目-13:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh!\"\nI push my body, forcing it to run.\nOne hand goes behind my back.\nI grip the dagger I've been concealing this whole time.",
+      "sourceUnit": "セイバールート十五日目-13:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Unbelievable. You manage to escape and your next action is so pathetically foolish. I suppose you must simply have run out of ideas.\"\n\"Shut your damn mouth! I never had a plan in the first place!!!\"\nI run.\nKotomine sticks his hand into the waterfall behind him and draws out another lump of darkness.",
+      "sourceUnit": "セイバールート十五日目-13:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Then you can follow your Servant. That light that you saw earlier was Saber's defeat. You have no one to help you now.\"\n...\nThere's no more hesitation now.\nIf I get my hands on Kotomine, he will regret what he's just said more than anything else.",
+      "sourceUnit": "セイバールート十五日目-13:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I still have a Command Spell on my left hand.\nI don't know if I'm alive or dead...but that is the proof...and I can feel the truth of it.",
+      "sourceUnit": "セイバールート十五日目-13:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "As long as I still have my Command Spell, Saber's still with me.\nIf she's still here...she must have defeated Gilgamesh and be headed to me right now.\nAnd if I don't greet her with open arms when that happens, well, I know her enough to know she'll be mad.\nSo I'm going to beat you here and now.\n...To fulfill the promise I made to her.",
+      "sourceUnit": "セイバールート十五日目-13:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Darkness closes in on me.\nKotomine releases a giant mass of curse.\nMy body begins to crumble, starting with the extremities.\n\"NGHGGG!\"\nI won't look away.\nIf this is my role...I'm not done yet!",
+      "sourceUnit": "セイバールート十五日目-13:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Enuma Elish!!!\"\nA fault line splits space itself.\nWith a flash of light and a roar of wind, Ea releases a vortex of pure destruction.",
+      "sourceUnit": "セイバールート十五日目-13:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kngh...!\"\nThe sheer intensity prevents Saber from using her own Noble Phantasm.\nSo she lowers her sword and lets herself sway as if collapsing.",
+      "sourceUnit": "セイバールート十五日目-13:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "The light draws near.\nSaber's too injured to dodge, and there is no shield capable of defending against Ea's attack.\nThat furious dance of light and wind can only annihilate everything in its path.\nNothing can stand up to Ea.\nIt is an immutable fact.\nBoth of them knew it to be true...\n...a few hours ago.",
+      "sourceUnit": "セイバールート十五日目-13:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nFor once, that astonished cry comes not from Saber, but from the golden knight wielding Ea.\nEa continues to release its torrent of magical energy, unleashing a ravening beam of destruction.\nBut Saber is on her feet...stepping into the light of Ea's power.",
+      "sourceUnit": "セイバールート十五日目-13:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh!\"\nHer silver armor screams.\nCracks splinter every layer of magical energy protecting her.\nWith not a second to lose, she closes the gap between herself and Gilgamesh.\n\"EXCALIBUR!!!\"\nTo counter Ea's destruction, Saber releases every drop of power at her command.",
+      "sourceUnit": "セイバールート十五日目-13:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Searching heat scorches the earth in all directions in a brilliant flash of light.\nTwo titanically powerful swords clash, their power so vast it creates a visible border as the two struggle against each other.\nBut...is it all for nothing?\nExcalibur cannot beat Ea.\nEven if Saber risks her life and attacks without concern for the consequences, she can only push back just the smallest bit.\nThe scales tilt in favor of Ea, and Excalibur's light weakens, pushing Saber back.",
+      "sourceUnit": "セイバールート十五日目-13:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So you have lost your mind, Saber!\"\nThe golden knight draws Ea back, but then sees his enemy's renewed, reckless advance. So he pours yet more magical energy into Ea.\nThere's no turning back now.\nAll there is to do is use his full power to utterly annihilate Saber.\nEa's segments spin faster, faster, faster, reaching their maximum speed, and the light that envelops Saber cuts Excalibur down.",
+      "sourceUnit": "セイバールート十五日目-13:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "But in the instant before that happens...\nSaber charges.\nA tiny opening created by Excalibur's power allows her to take a single step closer.\nIn the instant she reaches that space...\n...her Noble Phantasm appears.",
+      "sourceUnit": "セイバールート十五日目-13:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Darkness buffets Shirou as if he were caught in a wind tunnel.\nThere is no avoiding or deflecting darkness that coats space itself.\nThose swallowed by the darkness can only be consumed by it.",
+      "sourceUnit": "セイバールート十五日目-13:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Tchhh...ah...!\"\nHe's corroding from the fingertips inward.\nHis legs kick at the air as if swimming. His outstretched arms are swallowed up in the black mud. His vision fails him.\nIt's like being erased.\nShirou feels himself shrinking, but he refuses to die.",
+      "sourceUnit": "セイバールート十五日目-13:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah...gh!\"\nHe tries not to look away, pours every ounce of strength he has into resisting.\nHe fights the darkness covering him, the pain trying to melt his body, and the curse trying to dissolve his mind.\n\"Tch...ngh...!\"\nIt's all in vain.\nNo human could resist this corruption.\nAnd yet he continues to move.\nHis arm is still raised, held out, trying to grab something.",
+      "sourceUnit": "セイバールート十五日目-13:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "But his heart is already broken.\nHis thoughts are smothered in darkness, and soon it will consume him.\nBut in that moment...\n\"You are my...\"\nWhy did he remember that voice?",
+      "sourceUnit": "セイバールート十五日目-13:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...\nA light in the darkness.\nThe moment he realizes it's that light, everything runs in reverse.\n...\nThe switch flips.\nHis thoughts gain speed, creating crackling sparks, and form the shape with astonishing speed.",
+      "sourceUnit": "セイバールート十五日目-13:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on.\"\nHe murmurs the spell to begin Projection.\nIn that instant...\nIt's complete...skipping every step of the manufacturing process.\nHe didn't need to reproduce it from scratch.\nThe shape had already been engraved onto his very soul. It had been a part of Shirou Emiya for so, so long that he'd perfectly memorized it.",
+      "sourceUnit": "セイバールート十五日目-13:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"You were my sheath.\"",
+      "sourceUnit": "セイバールート十五日目-13:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "His fingertips, desperately reaching, move again.\nThey grab hold of the object he created without concentration or spellcasting.\nThe world turns on its head, darkness eradicated by golden light. In Shirou's grasp, duplicated flawlessly, is Saber's sheath.",
+      "sourceUnit": "セイバールート十五日目-13:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "And so...\nAs Ea's all-destroying light burns away everything in its path, Saber releases her own Noble Phantasm.",
+      "sourceUnit": "セイバールート十五日目-13:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...t!?\"\nWhat appears before her is, without question, the sacred sword's sheath.",
+      "sourceUnit": "セイバールート十五日目-13:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "The Mystics which shroud it are unknown, but the sheath repels Ea's light.\nNo, this is beyond simply defending its wielder.",
+      "sourceUnit": "セイバールート十五日目-13:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Instead, it cuts her off completely.\nThe wall that keeps the filth of the outside world from fairyland, a world that cannot be reached, forever isolated from the rest of the world...\nSaber is protected by the sheath of the sacred sword, and for a moment, she exists apart from all reason and logic in this world.\nIt is the greatest protection in the world.\nNothing, not even the Five Magics, can pierce this perfect defense.",
+      "sourceUnit": "セイバールート十五日目-13:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "And so, the sheath is named Avalon.\nAvalon. It is the place King Arthur is said to have gone after dying...the utopia the king dreamed of, but could not yet reach.",
+      "sourceUnit": "セイバールート十五日目-13:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "...\nGilgamesh sees the grim reaper raising its scythe.\nBut it's too late.\nEa won't stop rotating, and Gilgamesh can't retreat.\nHow could he?\nWho could ever have believed an attack with so much magical energy, such unimaginable power, could ever be blocked?",
+      "sourceUnit": "セイバールート十五日目-13:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh! How dare you stoop to such a petty trick!?\"\n...\nA streak of blue surges forward.\nSaber's armor is gone.\nShe's shed her armor so she can use its magical energy in her sword.",
+      "sourceUnit": "セイバールート十五日目-13:page85:1"
+    },
+    "page86": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page87": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "The moment he takes the sheath, the darkness is dispelled.\nThe darkness surrounding Shirou Emiya, the darkness that contaminated his body...fades all at once.",
+      "sourceUnit": "セイバールート十五日目-13:page87:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Impossible!\"\nBut this should come as no surprise.\nThe sacred sword's sheath protects its owner.\nThat filthy mud could not possibly destroy the embodiment of the utopia the girl sought!",
+      "sourceUnit": "セイバールート十五日目-13:page88:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "He runs.\nIn the instant the darkness is dispelled, he moves with all the speed of a comet.\n\"Projection!? Who the hell are you!?\"\nThe priest, so assured of his own strength, and the boy who could afford no such arrogance, face off.\nIt is but an instant, but that instant decides the battle.",
+      "sourceUnit": "セイバールート十五日目-13:page89:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"KIREI KOTOMINE!!!\"\nShirou Emiya runs, sometimes stumbling onto all fours.\nIn one hand, he holds the dagger.\nHe scrambles forward on his hands and knees toward the priest.",
+      "sourceUnit": "セイバールート十五日目-13:page90:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnnnnnnnngh!\"\nShirou doesn't stop. He thrusts the dagger of retribution into the priest's chest.",
+      "sourceUnit": "セイバールート十五日目-13:page91:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gghggg.\"\nThe priest turns slowly.\nBefore he can leave...\nShirou steps down on one foot to ground himself, and turns in a circle using the momentum of his dash.",
+      "sourceUnit": "セイバールート十五日目-13:page92:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "He inverts himself like a top, and he floods his left hand with magical energy.\nAnd, like a whirlwind...\n\"Läßt!\"\nHis magical energy pours into the Azoth Blade, along with the word to trigger its release.",
+      "sourceUnit": "セイバールート十五日目-13:page93:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "Saber swings her golden sword.\nShe must not have had the energy to push herself back up.\nSaber keeps her sword down, head down.\nGilgamesh stares, wide-eyed at the knight...as she cuts him in half.",
+      "sourceUnit": "セイバールート十五日目-13:page94:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn the silence after, the wind whispers through the compound.\nThere remains not a trace of the light that had flooded the area seconds ago.\nThe two knights do not exchange words. They simply stand, facing each other, as the battle ends.",
+      "sourceUnit": "セイバールート十五日目-13:page95:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nGilgamesh sighs.\nHe lifts a hand and traces a finger along her cheek, as if to check the knight.",
+      "sourceUnit": "セイバールート十五日目-13:page96:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Such an impudent woman. You opposed me to the very end.\"\nHis golden armor begins to fade.\nThe bloody King of Heroes, starts to disappear.\n\"But I shall forgive you. Some things are beautiful precisely because they are unattainable.\"",
+      "sourceUnit": "セイバールート十五日目-13:page97:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "His finger slips away from her.\nThe arm he'd raised to touch her falls weakly.\n\"Hm. I suppose it was inevitable, then, that I would lose to you.\"",
+      "sourceUnit": "セイバールート十五日目-13:page98:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "He clicks his tongue in displeasure.\nAnd then, at the end...\n\"Farewell, King of Knights. It was certainly entertaining.\"\nHe smiles ironically...and vanishes.",
+      "sourceUnit": "セイバールート十五日目-13:page99:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Pale blue sparks flicker along the priest's form.\nThey spread in all directions from where the dagger protrudes from his chest.\nNo flesh falls away, and there is no sign of bleeding.\nEven so, the battle comes to an end.",
+      "sourceUnit": "セイバールート十五日目-13:page100:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe's not even looking at me.\nInstead, he stares down at the dagger in his chest in confusion.",
+      "sourceUnit": "セイバールート十五日目-13:page101:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe wind is blowing.\nA gust of wind blows from the hollow overhead, muffling the sound around him.\nIn the silence that follows...\n\"Why do you have that sword?\"\nKotomine's voice is low, mumbling.",
+      "sourceUnit": "セイバールート十五日目-13:page102:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not mine. Tohsaka lent it to me.\"\n...\nI'm not sure how long he was thinking.\nHe takes a deep breath and finally moves, having been motionless from the moment I charged him and impaled him with the blade.",
+      "sourceUnit": "セイバールート十五日目-13:page103:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I once gave it to some girl as a gift, maybe ten years ago.\nYes... No wonder I've gotten so weak.\"\nKotomine collapses.",
+      "sourceUnit": "セイバールート十五日目-13:page104:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "...\nI watch it all unfold.\nEven on the brink of death, he spoke of himself as if he were talking about someone else.\nFinally, the priest sinks into that which he summoned, the very thing he wished for.",
+      "sourceUnit": "セイバールート十五日目-13:page105:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "And that is the end of Kirei Kotomine.",
+      "sourceUnit": "セイバールート十五日目-13:page106:1"
+    },
+    "page108": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page109": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

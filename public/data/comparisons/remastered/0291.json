@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0291",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "After dinner.\nI finished cleaning up and face Saber in the dojo.\nI tell her what happened today and how we eliminated the Bounded Field at school. And how Tohsaka anticipates that there'll be a counterattack tomorrow.",
+      "sourceUnit": "凛ルート六日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...I don't tell her about Shinji.\nI don't want her to consider him an enemy until his true intentions are clear.",
+      "sourceUnit": "凛ルート六日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, we will not be going out tonight, Shirou?\"\n\"...Yeah. I'm sure it's frustrating for you, but sit tight for tonight. I don't intend to fight needless battles, and more than anything, we're not in a place to be able to fight freely.\"",
+      "sourceUnit": "凛ルート六日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I'm inexperienced as a Master, and Saber has a limit to how many times she can battle since I'm not able to provide her with any magical energy.\nGiven our situation, it's not a good idea to be aimlessly looking around for Masters.",
+      "sourceUnit": "凛ルート六日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. You certainly do have a point. It is not proactive, but we do need to exercise utmost caution in order to win.\"\n\"...However. If you have the will to fight, we must not waste any time. If we are to stay here tonight, then we should use this time to train.\"",
+      "sourceUnit": "凛ルート六日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber stares at me.\nShe doesn't even need to tell me.\nI brought Saber to this dojo with that in mind.",
+      "sourceUnit": "凛ルート六日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. Do you remember what happened last night?\nWe had a match since you told me that I was slacking off for coming home late.",
+      "sourceUnit": "凛ルート六日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...! That is because Taiga told me that I had to go hard on you or else you would not listen to me. I-it is not because I was angry yesterday—\"",
+      "sourceUnit": "凛ルート六日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's fine. That was a good lesson.\nNo matter what I do, there's going to be those I can't beat.\nThat was never more apparent than when I fought you.\"",
+      "sourceUnit": "凛ルート六日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"With that in mind, I think it's important to train with you. I don't know how effective it'll be, but I should be able to survive a bit longer in battle if you're hard on me.\"",
+      "sourceUnit": "凛ルート六日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, Shirou...\"\n\"Yeah. Please train me whenever we have the time.\nFor today, that'll be until we go to bed.\"",
+      "sourceUnit": "凛ルート六日目-05:page10:1"
+    },
+    "page11": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

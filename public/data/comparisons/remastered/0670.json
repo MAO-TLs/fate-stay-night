@@ -1,0 +1,286 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0670",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Do what you want. I don't know what you're thinking, but I don't like Zouken either.\"\n\"I see. We have common ground, then. It is true that I have considerable ties to the old man.\"",
+      "sourceUnit": "桜ルート十五日目-22:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I go down the hill path.\nWe leave the church together, not looking at each other.",
+      "sourceUnit": "桜ルート十五日目-22:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "By the time the hired car takes us to the forest, the sun is starting to come up.\n\"Wait here. If we don't return before tomorrow, you can leave.\"\nWe have the black car wait for us on a road near the forest entrance.\nKotomine hired a driver to take us here.",
+      "sourceUnit": "桜ルート十五日目-22:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"So, how are you going to help me?\"\n\"Hmm. With transportation, for starters.\"\n...After a brief exchange, Kotomine promptly called for a chauffeur.\nTo be honest, it was a big help.\nThere aren't many taxis who would be willing to drive a high school student to the edge of town after 3:00 AM.",
+      "sourceUnit": "桜ルート十五日目-22:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"The boy may be the only one to return.\nIf that happens, the situation is not good. Take him immediately back to town without waiting for me.\"\nKotomine dispassionately gives the driver instructions.\nThe driver nods silently and opens the trunk.",
+      "sourceUnit": "桜ルート十五日目-22:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Emiya. Take this weapon.\"\n\"Huh?\"\nHe tosses me a stick-like object.",
+      "sourceUnit": "桜ルート十五日目-22:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. What's this, a sword?\"\nThe stick turned out to be a thin sword.\nFrom what I know, it's similar to a Western rapier.\nIt's specialized at thrusting, not cutting.\nBut the blade is pretty thick, so it feels hard to use.\nIt's like a longer version of the dirks Assassin uses.",
+      "sourceUnit": "桜ルート十五日目-22:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a weapon?\"\n\"Kiritsugu preferred firearms. Unfortunately, I only have submachine guns. Lead bullets won't affect ghosts, and you wouldn't know how to use them. This is more suitable for a spellcaster like yourself.\"",
+      "sourceUnit": "桜ルート十五日目-22:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nI give it a swing.\n...It's oddly heavy.\nThe sword is less than a kilo, but it's obviously weighted towards the tip.\nIt's more like an arrow than a sword.",
+      "sourceUnit": "桜ルート十五日目-22:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...It this some unique Church weapon? I can feel some magical energy from it.\"\n\"It's called a Black Key. Also, it's not magecraft, but a sacrament.\nWe specialize in dealing with spiritual entities. If you imbue its blade with your magecraft, it would even have some effect on Servants.\"\n\"Only if you hit them, of course,\" he adds unnecessarily.",
+      "sourceUnit": "桜ルート十五日目-22:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Do your best to avoid situations where you might need it.\nLet's go.\nIt's been nearly a day since Illyasviel was taken.\nIt might be unoccupied by now, but we'll know when we get there.\nWe may be able to find clues to Sakura Matou's whereabouts.\"\nUnlike me, the priest strides into the forest unarmed.",
+      "sourceUnit": "桜ルート十五日目-22:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nI take a deep breath.\nI put the Church sword back in its sheath and follow Kotomine.",
+      "sourceUnit": "桜ルート十五日目-22:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I'm the leader now.\nI rely on my memory to find the Einzbern castle.\n...I couldn't reach it the last time I was here.\nOn the way to the castle, I ran into Illya fleeing the Shadow.",
+      "sourceUnit": "桜ルート十五日目-22:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I check my left arm.\nIt's completely different since the last time I was here.\nI was helpless as the Shadow nearly slaughtered me.\nThat hasn't changed.\nI have no way to beat Sakura—no, the Shadow, and it has Saber on its side, too.",
+      "sourceUnit": "桜ルート十五日目-22:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...If I run into them, I'm done.\nThe only way to take Illya back is to ambush them.\nI need to retrieve Illya without Sakura noticing me.\nIn that case...",
+      "sourceUnit": "桜ルート十五日目-22:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "In that case, what should I do?\nHow should I deal with Sakura now that she's changed?\nHow can I turn her back into the Sakura I used to know?",
+      "sourceUnit": "桜ルート十五日目-22:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. I hope you aren't thinking about taking Sakura Matou back.\"\n\"Wha... Of course I am. I'm trying to save her—\"",
+      "sourceUnit": "桜ルート十五日目-22:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop.\nRight now, we have no chance against Matou—against that black Shadow. If we run into it, it will devour us before we can even speak to it. I believe you already know that.\"",
+      "sourceUnit": "桜ルート十五日目-22:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Nrgh...\"\nWell...\nIt's true that Sakura wouldn't be any different from the way she was in the backyard.\nBut still, I...",
+      "sourceUnit": "桜ルート十五日目-22:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Give up on her this time. If we can secure Illyasviel, it will buy us more time. If you want to speak to Sakura Matou, do so once you have a way to resist her.\"\n\"...\"",
+      "sourceUnit": "桜ルート十五日目-22:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Um, Sakura has an incredible amount of magical energy.\n...The only one who might be able to do that is Tohsaka.\nMy only role right now is to Project the Jeweled Sword she mentioned, so we can use it against Zouken and the Shadow.",
+      "sourceUnit": "桜ルート十五日目-22:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it! Fine, I just need to focus on saving Illya first, right!?\"\n\"Yes. Now let us be off. There's no time.\"",
+      "sourceUnit": "桜ルート十五日目-22:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nI clap my cheeks to motivate myself.\nThis isn't the time to be whining.\nI'm going to save Illya.\nSakura said she'd kill Illya.\nI won't let Illya die, and I won't let Sakura kill her.\nAll I can do for now is separate Illya from Sakura.\nI'll just focus on that for now.",
+      "sourceUnit": "桜ルート十五日目-22:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "We arrive at a familiar place.\nIt's been a little over two hours since we entered the forest.\nThe sun is already well into the sky, but the forest is still shrouded in mist.",
+      "sourceUnit": "桜ルート十五日目-22:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...She's here. The curses filling this forest belong to her, no doubt.\"\n\"Hm?\"\nKotomine says something strange as we run.\n...Curses filling the forest.\nCan he see those?",
+      "sourceUnit": "桜ルート十五日目-22:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"What curses, Kotomine? Can you sense Sakura?\"\n\"It is more that I resonate with her... I hope that is all. If we should happen to engage Sakura Matou in combat, I will retreat.\nI cannot harm Sakura Matou now that she has been Darkened. In a fight, I would have no chance.\"\n\"...?\"\nI mean, that goes for me, too. But anyway...",
+      "sourceUnit": "桜ルート十五日目-22:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Darkened? Sakura is Sakura. Once we get that weird Shadow off her, she'll...\"\n\"Quickly return to normal?\nI believe I explained this before. The only way to turn Sakura Matou back to normal is to sever her from the Shadow.\"",
+      "sourceUnit": "桜ルート十五日目-22:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"There are two ways.\nWe can erase the Shadow itself, or wait for her to materialize it.\nYou have no way to defeat it now. All you can do is ground Sakura Matou's mind and wait for the Shadow to be birthed into the world.\"",
+      "sourceUnit": "桜ルート十五日目-22:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know how to do that.\n...Sakura's body is covered in Command Spells.\nIf that's the Darkening Kotomine mentioned, doesn't that mean she's turning into the Shadow with each passing minute?",
+      "sourceUnit": "桜ルート十五日目-22:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kotomine. When you say the Shadow is materializing, do you mean Sakura is turning into the Shadow?\"\n\"No. They may share feelings with each other to some extent, but the Shadow's main body is inside the Holy Grail.\nSakura Matou is turning into the thing inside the Holy Grail, but it is ultimately her own shadow.\nThe Shadow would not exist without her. The shapeless main body in the Holy Grail exists in the material world by turning itself into her shadow.\"",
+      "sourceUnit": "桜ルート十五日目-22:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"If Sakura were not an imperfect Holy Grail, the thing inside would not be born into this world.\nBut once it is born, it will be separate from Sakura Matou. Once it is removed from her, the curse corrupting her would cease as well.\"",
+      "sourceUnit": "桜ルート十五日目-22:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kotomine, when you say it's going to be born, do you mean it's inside Sakura right now?\"\n\"Of course not. That would make this much easier. We would simply need to extract it from her womb.\nThe shadow's main body is inside the Holy Grail. Sakura Matou is merely a host which gives it nourishment and a real image.\"",
+      "sourceUnit": "桜ルート十五日目-22:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"But she's a Holy Grail, isn't she? What's up with that?\nAre there a bunch of them lying around?\"",
+      "sourceUnit": "桜ルート十五日目-22:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"There are. I explained early on that there is a Holy Grail on this land, and that humans supply their own Holy Grails to evoke the Holy Grail in the land.\nTo begin with, the Greater Grail system—the war itself—is the magic circle that serves as the brain controlling the rules of the ritual. This is the Holy Grail in the land, prepared by the Einzberns, the Tohsakas, and the Makiris.\"",
+      "sourceUnit": "桜ルート十五日目-22:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...The Holy Grail in the land...\"\nThe laws... Like summoning Servants, making the Masters fight, and summoning the Holy Grail.\nIf the Holy Grail war on this land was artificially created, then it stands to reason that there was a man-made cause.",
+      "sourceUnit": "桜ルート十五日目-22:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Meaning that if we can find this big magic circle and destroy it, it'll get rid of the Shadow hurting Sakura...",
+      "sourceUnit": "桜ルート十五日目-22:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine. Do you know where it is?\"\n\"I can make an educated guess. Ask Rin if you want to know where the exact entrance is.\nThe Tohsakas administer this land.\nTwo hundred years ago, the Tohsakas joined with the Einzberns to secure a location for the ritual. Rin is their successor, so she should have been told.\"",
+      "sourceUnit": "桜ルート十五日目-22:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, that all comes after we rescue Illyasviel. If she falls into Zouken's hands, both she and Sakura Matou will be expended and discarded as Holy Grails.\nZouken has no intention to use the Greater Grail. From his point of view, having both Sakura and Illyasviel is enough to accomplish his goals.\nYour idea to destroy the underlying system of the Holy Grail holds little merit.\"",
+      "sourceUnit": "桜ルート十五日目-22:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"D-don't be stupid, I wasn't even thinking about that!\"\n\"Really? I believe it is your most realistic solution, though. You are strange for not trying it.\"",
+      "sourceUnit": "桜ルート十五日目-22:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh. Shut up. Why didn't you say anything sooner?\nIf you'd told me this early on, I—\"",
+      "sourceUnit": "桜ルート十五日目-22:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"You would have destroyed the activation formula already? That won't do. My objective is the successful activation of the formula. I will not allow you to destroy it.\"",
+      "sourceUnit": "桜ルート十五日目-22:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you, we will be enemies once Illyasviel is rescued. My goals are different than yours.\nI am interested only in Sakura Matou's evolution—no, in the thing that is trying to become her. I do not desire something like what Zouken wants.\"",
+      "sourceUnit": "桜ルート十五日目-22:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, sure. You're just like him. You're trying to trick Sakura into making something she doesn't understand so you can take it for yourself.\"",
+      "sourceUnit": "桜ルート十五日目-22:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"For myself...? Perish the thought. I have no interest in the aftermath of its birth. It is not something human hands can control.\nWhat will appear is a phenomenon known as hell. If Sakura Matou turns into that, then we will all die, without exception.\"",
+      "sourceUnit": "桜ルート十五日目-22:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nWhat the hell?\nThen this guy's goal is to...",
+      "sourceUnit": "桜ルート十五日目-22:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you lost your mind?\nYou know all that, including the possibility that you might be killed, and you still want Sakura to go through with it!?\"",
+      "sourceUnit": "桜ルート十五日目-22:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. My role is to bless those who are born.\nThat does not change, regardless of the situation or the child.\nThe life trying to be born here has a will. I cannot hinder its birth.\nEmiya. If there is such a thing as a pure wish in this world, is it not the desire to be born?\"",
+      "sourceUnit": "桜ルート十五日目-22:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"But the thing that is manipulating Sakura is...\"\n\"Not evil.\nHumans obtain happiness simply by existing.\nAs they live, they learn of different types of happiness, and they learn more advanced and complicated types of recreation.\"",
+      "sourceUnit": "桜ルート十五日目-22:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"However, humans are not necessarily born happy.\nA fetus lacks the knowledge to comprehend happiness.\nFrom birth, humans have the ability to learn what they enjoy and accept what they believe is correct.\nWe all begin from zero.\nThere is no good or evil there. Only the fact that one is allowed to exist.\"",
+      "sourceUnit": "桜ルート十五日目-22:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Our ability to distinguish good and evil depends on our education.\nAny responsibility lies with the environment in which a human was raised, and a human's own self.\nOne is not born with any sin.\nThus, I bless the birth of new life, even if it is a devil.\"",
+      "sourceUnit": "桜ルート十五日目-22:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"That is how I have always lived.\nThis way of life is my own.\nEven if Sakura Matou gives birth to Hell itself, it would be difficult to change its nature.\"",
+      "sourceUnit": "桜ルート十五日目-22:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I can't understand what he's saying.\nI can tell he's sincere.\nHe says that he's going to bless the evil that's trying to be born from Sakura, even if it kills him.\n...I can never accept what he's saying.\nStill, it's true that he's helping me rescue Illya, and that he's trying to set Sakura free from Zouken.",
+      "sourceUnit": "桜ルート十五日目-22:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rrgh.\"\nHis ideas are incompatible with mine.\nWe can't coexist.\nBut right now, we have the same objective.",
+      "sourceUnit": "桜ルート十五日目-22:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Can I...trust you?\"\n\"I said that I would fight alongside you. I will ask you to watch my back.\"",
+      "sourceUnit": "桜ルート十五日目-22:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "His answer is firm.\n...That's all.\nI've gained the best ally I could ask for right now.\nNow it's time to think about saving Illya and safely escaping from this forest.",
+      "sourceUnit": "桜ルート十五日目-22:page54:1"
+    },
+    "page55": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

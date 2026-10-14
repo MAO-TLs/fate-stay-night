@@ -1,0 +1,381 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0141",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm having that dream.\nMaybe this is what death looks like to me.\nThe closer I get to death, the more I keep seeing these images I don't want to see.",
+      "sourceUnit": "セイバールート九日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I see motionless bodies, crumbling and disappearing.\nThat moment when everyone desperately sought help, but none came.\nThat was painful.\nIt was so terrible, it hurt even to live, and I thought maybe just disappearing would put me out of my misery.",
+      "sourceUnit": "セイバールート九日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Dazed, I reached my hand out.\n...But not because I wanted help.\nI just thought the sky was so far away.\nThat was my final thought, I think.",
+      "sourceUnit": "セイバールート九日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "And then I lost consciousness, and my outstretched hand fell to the ground.\nOr rather...\nIt should have.",
+      "sourceUnit": "セイバールート九日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "A large hand grasps the smaller one as it falls.\nHe rushed into the fire to save somebody, and found me.",
+      "sourceUnit": "セイバールート九日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...I remember that face.\nI remember the tears pooling in his eyes, how overjoyed he was to have found a living human being.\nHe looked so happy.\nIt seemed almost like he was the one being saved, not me.",
+      "sourceUnit": "セイバールート九日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nHe actually looked envious of me, who was on the brink of death...he even looked grateful for something as he rescued the strange child.",
+      "sourceUnit": "セイバールート九日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "It was a turning point in my life.\nThe weakness I showed in accepting death became a strength, a desire to live.\nMy mind, which had practically gone blank, was filled with the joy of being saved in that moment.\nI tried moving my fingers with what strength I had left so as not to let go of the man's hand, and then I finally passed out.",
+      "sourceUnit": "セイバールート九日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The next thing I knew, I was in the hospital, and the man who saved me had come to visit.",
+      "sourceUnit": "セイバールート九日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "That was ten years ago.\nFrom then on, all I ever did was follow in Kiritsugu's footsteps.\nThe only thing I could think of was being like him.\nIt's not because he saved me.\nI couldn't shake off the image of his face back then, and I tried to become the same thing.\nI've been striving for that ever since.\nSomewhere in the back of my mind, I dreamed I wouldn't notice.",
+      "sourceUnit": "セイバールート九日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "That's right...that I would one day...\nI held to the hope...the dream that one day I, too, would be saved if I could smile like Kiritsugu did back then...",
+      "sourceUnit": "セイバールート九日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhen I open my eyes, I'm in my living room.\nThe ticking of the clock is awfully loud.\nIt looks like I've been sleeping on the floor, and when I raise my arms, I notice the bandages wrapped tightly around both of them.",
+      "sourceUnit": "セイバールート九日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's dark out.\"\nI sit up.\nAccording to the clock, it's ten at night.",
+      "sourceUnit": "セイバールート九日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't just say 'it's dark out' like nothing happened, you ingrate. Can't you think of something better to say the moment you wake up?\"\n\"Tohsaka. You're here.\"",
+      "sourceUnit": "セイバールート九日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that's not it either.\nIs that the attitude you should be taking when I've been at your side, nursing you this whole time?\"\n...I didn't know that.\nThat's ungrateful of me.",
+      "sourceUnit": "セイバールート九日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. My brain's a little wonky. I can't really think straight, but...thanks. Guess I owe you one. Again.\"",
+      "sourceUnit": "セイバールート九日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it was nothing. You were in pretty bad shape, so I don't blame you for still being a little hazy.\"",
+      "sourceUnit": "セイバールート九日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"So...does anything hurt? I think all your external injuries have healed up, but I don't know about anything internal. If there's anything wrong still, we need to treat it.\"",
+      "sourceUnit": "セイバールート九日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I just feel dull. Nothing's hurting.\nIt's just that...\"",
+      "sourceUnit": "セイバールート九日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I feel like I'm floating.\nI don't know how I ended up here.\nI don't remember what I did toda—",
+      "sourceUnit": "セイバールート九日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right! Tohsaka! How's the school!? What happened to me after that...!?\"",
+      "sourceUnit": "セイバールート九日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay, don't worry about the others. Kirei went to follow up at the school.\nHe'll handle all the repairs for the hallway and everything else, so you don't have to worry about any of that. He's a priest, so he should do that much or risk the wrath of God.\"",
+      "sourceUnit": "セイバールート九日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"He's doing that? So that means the school's...\"\n\"It didn't become a major crisis. A lot of students were taken to the hospital, but none of their conditions seemed to be life-threatening. They're being treated for malnutrition, and most will only have to spend two or three days at the hospital.\"",
+      "sourceUnit": "セイバールート九日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, that's...\"\nThat's a relief.\nDissolving the Bounded Field took longer than expected, but I wasn't too late.",
+      "sourceUnit": "セイバールート九日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "The instant I relax, every last bit of strength floods out of me.\nI breathe out deeply, and I lean back against the wall.",
+      "sourceUnit": "セイバールート九日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Does that mean Kotomine healed me too?\nI don't think even you would be able to heal so many wounds.\"",
+      "sourceUnit": "セイバールート九日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? You healed them yourself.\nIt was the same as the thing with Berserker. The way you heal your wounds is nearly miraculous... You really don't remember?\"",
+      "sourceUnit": "セイバールート九日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I don't know why myself. I was normal until I formed a contract with Saber.\"",
+      "sourceUnit": "セイバールート九日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? Maybe you're just descended from lizards or something?\"\n\"How can you say something like that with a straight face? This is weird for me too, you know. It's like my body isn't my own.\"",
+      "sourceUnit": "セイバールート九日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I think it's fine. Whatever the cause, your condition is why you survived.\nThat's twice now. Turning into a lizard would be a fair compromise at this point.\"\n\"Are you enjoying teasing the critically injured guy, Tohsaka?\"",
+      "sourceUnit": "セイバールート九日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"You WERE critically injured.\nWell, anyway. You should thank Saber too. I'm not sure how or why, but it's all thanks to Saber that you're like this.\"",
+      "sourceUnit": "セイバールート九日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nMy brain finally starts working.\nThere's something I need to do.\nI needed her, I called her...so she came, and she saved me. I need to tell her something right away.",
+      "sourceUnit": "セイバールート九日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...!\"\nI stand up too quickly.\nPain shoots through my body as I move, but I can't let that stop me.",
+      "sourceUnit": "セイバールート九日目-14:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, where's Saber?\"\n\"She's in the dojo. I'm going to go get something from my room.\"\nTohsaka heads over to the outbuilding.",
+      "sourceUnit": "セイバールート九日目-14:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Ouch...\"\nMy joints creak with pain.\nI grit my teeth and try to endure it as I head toward the dojo.",
+      "sourceUnit": "セイバールート九日目-14:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I reach the dojo.\nSaber is sitting in seiza style, as if she's meditating.",
+      "sourceUnit": "セイバールート九日目-14:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? You've woken!?\"\nSaber notices me coming in and hurries to her feet then rushes over to me.",
+      "sourceUnit": "セイバールート九日目-14:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry for worrying you. I only just came to. And Saber...\"",
+      "sourceUnit": "セイバールート九日目-14:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not dare 'sorry' me now! There are many things I must say to you...! You accepted an invitation from the enemy and left me, you tried to fight on your own, and you did not spare an ounce of consideration for your body!\"",
+      "sourceUnit": "セイバールート九日目-14:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand that any one of those foolish decisions could have been fatal!? You very nearly did die! Do you enjoy tormenting me like this!?\"",
+      "sourceUnit": "セイバールート九日目-14:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...no, I...\"\n\"What is it!? I will not be moved by any facile excuses you might attempt to make for yourself!\nToday is the day I will hear precisely what is on that mind of yours!\"",
+      "sourceUnit": "セイバールート九日目-14:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Saber comes at me with all the rage and force of a hurricane.\nShe's so intense. I'm not sure how to explain it, but I'm kind of enjoying Saber being so emotional.",
+      "sourceUnit": "セイバールート九日目-14:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. Let me explain myself.\nLet's talk, Saber. As you can see, I've healed.\"",
+      "sourceUnit": "セイバールート九日目-14:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...Shirou, are you all right?\"\n\"Yeah, looks like it. I'm alive for now.\"\n\"I see... That is a relief.\"",
+      "sourceUnit": "セイバールート九日目-14:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Where'd that angry look from a few seconds ago go?\nSaber heaves a relieved sigh and smiles softly as if celebrating my recovery.",
+      "sourceUnit": "セイバールート九日目-14:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt helps me understand that even Saber, stoic as she always is, is acting like this because of how much I worried her.\nI wasn't relying on Saber.\nBut she still accepted me as someone to fight alongside.",
+      "sourceUnit": "セイバールート九日目-14:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHow stupid of me.\nI hadn't realized the extent to which she trusted me.\nAnd I couldn't extend the most basic trust of just letting her fight.",
+      "sourceUnit": "セイバールート九日目-14:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber.\"\nI speak up more comfortably now.\nI'm finally able to look her in the eye, and it feels natural.",
+      "sourceUnit": "セイバールート九日目-14:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes? What is it, Shirou?\"\n\"Sorry. I was an idiot.\"\nI bow my head.",
+      "sourceUnit": "セイバールート九日目-14:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Please lift your head, Shirou. I was only employing a figure of speech earlier. Yes, I was angry, but there is no call for you to apologize—\"\n\"Of course I do. I'm your partner, and I owe you an apology.\nI'm sorry I worried you. As long as I'm with you, I'll never fight alone.\"",
+      "sourceUnit": "セイバールート九日目-14:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, are you...\"\n\"Yeah. Saber...please lend me your strength.\nI can't beat the other Masters on my own. I need your help.\"",
+      "sourceUnit": "セイバールート九日目-14:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you admitting that you were mistaken earlier? Are you accepting that, as a Master, you will devote yourself to a support role, and will leave the fighting to me from now on?\"\n\"...\"",
+      "sourceUnit": "セイバールート九日目-14:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Well, I still don't want to see Saber hurt.\nThat's why I forbid her from fighting.\nAnd that's where I was wrong.\nEver since I decided to fight with her, I should've just put everything I had into helping her.",
+      "sourceUnit": "セイバールート九日目-14:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I don't think I was mistaken.\nIf you're going to protect me, I'm going to protect you. I can't let you fight alone.\"\n...\nSaber doesn't answer.\nThe mood in the dojo turns frosty.",
+      "sourceUnit": "セイバールート九日目-14:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nI just can't let this go.\nI lift my head, thinking I'll just have to beg until she accepts my determination.",
+      "sourceUnit": "セイバールート九日目-14:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "But then...\n\"...You are too stubborn to change, aren't you?\"\n\"Eh? Um...Saber?\"",
+      "sourceUnit": "セイバールート九日目-14:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need to respond, is there?\nI am your blade. Who but I can be the one to help you, Shirou?\"\nSaber extends her left hand.",
+      "sourceUnit": "セイバールート九日目-14:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't think of anything sensible to say, so I shake her hand.\nOur handshake forms something almost tangible.\nIt's been a few days since we first met, but it feels like we finally formed a real contract.",
+      "sourceUnit": "セイバールート九日目-14:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"What's going on? Why are you two shaking hands?\"\nHey.\nWhy would she show up now, of all times!?",
+      "sourceUnit": "セイバールート九日目-14:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber and I quickly let go of each other's hands.\n\"Huh? Something's fishy. You two weren't hatching some kind of scheme without me, were you?\"",
+      "sourceUnit": "セイバールート九日目-14:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"No, absolutely not. I was...ah...making sure Master is in good health before checking his pulse.\"\n...\nI'm dumbfounded.\nSaber just told a bald-faced lie.\nBut...why would Saber panic about this too?",
+      "sourceUnit": "セイバールート九日目-14:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? You've got a weird way of checking someone's pulse.\"\nTohsaka regards Saber curiously.\nIn response, Saber starts acting even more suspiciously, probably because she's not used to lying.\nI need to help her, or this will get even more awkward.",
+      "sourceUnit": "セイバールート九日目-14:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. What do you want, Tohsaka? Didn't you say you were getting something from your room?\"\n\"Oh yeah. Here, Saber.\"\n\"Thank you. I thank you for your trouble, Rin.\"",
+      "sourceUnit": "セイバールート九日目-14:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka hands Saber a bag.\nSaber looks surprisingly happy as she takes the bag.",
+      "sourceUnit": "セイバールート九日目-14:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the last of it, so be careful. Forced summoning or not, changing into your armor will shred your clothes to bits.\"\n\"I am sorry. It was so sudden, that I did not think ahead. I appreciate you bringing me more of the same clothing.\"",
+      "sourceUnit": "セイバールート九日目-14:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It's a simple design, so it's like a uniform.\nKirei keeps forcing such plain clothes on me. Not that I mind, since that outfit doesn't look very good on me. But...why are you so fixated on this outfit, Saber?\"",
+      "sourceUnit": "セイバールート九日目-14:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, Shirou mentioned that it looked good on me.\"",
+      "sourceUnit": "セイバールート九日目-14:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I'm not following all of this, but it seems that's Saber's third set of clothes.\nI don't have any women's clothing around the house, so Saber's been borrowing clothes from Tohsaka.",
+      "sourceUnit": "セイバールート九日目-14:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut, yeah...\nI'd really appreciate it if they had their girl talk when I'm not around.\nI am a guy...\nIt had been such a nice conversation until now too, but I don't really know what to do with myself when they get to talking about stuff like this.",
+      "sourceUnit": "セイバールート九日目-14:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "So not much happened afterward, and both Tohsaka and Saber forced me to go sleep in my room.",
+      "sourceUnit": "セイバールート九日目-14:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "I may have regained consciousness, but I'm still severely injured.\nRider sliced my arms up so bad that under normal circumstances, I'd have had to worry about whether I'd ever be able to use them again. Plus, I fell three stories, so I'm all broken and bruised.\nThere's plenty I should be thinking about, but the two have agreed that the best thing for me to do right now is sleep so I can heal.",
+      "sourceUnit": "セイバールート九日目-14:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut I let Shinji get away, and I'll need to settle things with him as quickly as possible.\nHe didn't hesitate to activate the Bounded Field.\nEven I know how dangerous it'd be to let a Master like that roam free.",
+      "sourceUnit": "セイバールート九日目-14:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...this isn't the time for me to be sleep...ing...\"\nThings go blank, like a dizzy spell sweeping over me.\nThe only thing that feels normal is my head.\nAs soon as I lay down, my half-healed body just forces me off to sleep.",
+      "sourceUnit": "セイバールート九日目-14:page72:1"
+    },
+    "page73": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page74": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0686",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Thank god for small mercies.\"\nI need to figure out exactly what's wrong with me, or I won't be able to act.\nI'm still conscious.\nAs long as I don't space out, I can be aware of my situation, like I have been so far.",
+      "sourceUnit": "桜ルート十五日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait, what am I doing here, again?\"\nI wonder why I'm in the shed.\nSakura's warning.\nSakura told us to run. Tohsaka said that she'd fight.\nAnd, and then...oh yeah, we have to go to a cavern under Ryudou Temple.",
+      "sourceUnit": "桜ルート十五日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"So what am I doing on the floor of the shed when we're going to Ryudou Temple?\"\nI've fallen on the ground.\nWhen I came to, I was sprawled out in the shed.\nMy right arm throbs in pain.\nThanks to that, I'm fully awake.",
+      "sourceUnit": "桜ルート十五日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Dammit. Get it together, dumbass.\"\nI stand up and check the feeling in my arms and legs.\n...I don't feel so good.\nI'm losing something at alarming speed.\nIt isn't critical.\nI should be able to fight like I have so far until morning, at least.",
+      "sourceUnit": "桜ルート十五日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You look awful. Do you recognize me, Shirou?\"",
+      "sourceUnit": "桜ルート十五日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI gasp and whirl around.\nDeep within the shed, where the moonlight doesn't reach,\na black-clothed Servant stands in the dark.",
+      "sourceUnit": "桜ルート十五日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider. Have you been here this whole...\"",
+      "sourceUnit": "桜ルート十五日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I have been monitoring you.\nMy orders are to protect Shirou Emiya, but Sakura is my Master. If you threaten her, I cannot protect you.\nThat is why I didn't help you in the forest. It is your own doing that you were chased by Berserker.\"",
+      "sourceUnit": "桜ルート十五日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Rider coolly explains.\nShe's very businesslike.\nIt seems that she was waiting for me to be alone.",
+      "sourceUnit": "桜ルート十五日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. So you're here now...\"\n\"To kill you. You are Sakura's enemies. I cannot let you go to her.\"\nRider is holding her stake-shaped daggers.\nShe inches closer, her murderous intent clear.",
+      "sourceUnit": "桜ルート十五日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nRider's serious.\nI...",
+      "sourceUnit": "桜ルート十五日目-13:page10:1"
+    }
+  }
+}

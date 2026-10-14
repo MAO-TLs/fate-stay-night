@@ -1,0 +1,237 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0023",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's almost half past seven.\nSakura and Fuji-nee have long since left the house for their morning club activities.\nI went to school early yesterday because Issei asked me to, but I leave the house at the usual time today.",
+      "sourceUnit": "セイバールート二日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I notice something strange as I walk down the hill towards the intersection.\nSeveral police cars are parked in front of a house.\nSomething must have happened, since a crowd has gathered; there are easily twenty people watching.",
+      "sourceUnit": "セイバールート二日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI'm curious, but the mass of people prevents me from finding out what's happening.\nI don't have much time, so I should hurry to school.",
+      "sourceUnit": "セイバールート二日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I make it to school ten minutes before the first bell.\nAs I cross through the gate with plenty of time as usual...\n\"Heya. Morning, Emiya.\"\nI run into a familiar student.",
+      "sourceUnit": "セイバールート二日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You haven't even changed yet, Mitsuzuri? Homeroom's about to start. You really don't have time to say 'hi' to me.\"",
+      "sourceUnit": "セイバールート二日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahahahaha! You're absolutely right. Matter-of-fact as always, Emiya!\"\nI don't know what's so funny, but she laughs heartily, not caring about her surroundings.\nThis is Ayako Mitsuzuri.\nShe's been a classmate of mine since we were first-years, and she's currently the captain of the kyudou club.",
+      "sourceUnit": "セイバールート二日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "She's an unbelievably insightful person, and it was expected that she would be the team's next captain since her first year with them.\nMitsuzuri is a precocious sort, and people have always had high hopes for her, and even leaned on her, ever since she was a first-year.\nThen again, she gets mad whenever someone mentions that in front of her, claiming she doesn't look as old as people think.",
+      "sourceUnit": "セイバールート二日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Were you just thinking something bad about me!?\"\n\"I wouldn't dare. Just making an observation. If you wanna get angry about it, that's your call.\"",
+      "sourceUnit": "セイバールート二日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't say. That may be your honest answer, but you never say out loud what's really in that head of yours.\nCuz unlike Shinji, you never let your true self show.\"\n\"Shinji? What's he got to do with this?\"",
+      "sourceUnit": "セイバールート二日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"No matter how much either of you protests, you and Shinji are friends.\nYou're his only male friend. And let me remind you that I'm the captain of the kyudou club. Isn't it only natural for me to associate our club's troublemaker with our former troublemaker?\"",
+      "sourceUnit": "セイバールート二日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess? The kyudou club's got nothing to do with it, but he and I go back a long way.\"",
+      "sourceUnit": "セイバールート二日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha, I see you just got ticked off. You always get frosty whenever the kyudou club gets mentioned.\nYou sure had some guts, quitting and leaving Shinji behind, you know? Did you not consider how the other people you left behind might feel, like Sakura and me?\"",
+      "sourceUnit": "セイバールート二日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Did Shinji do something bad again?\"\n\"We never have a day he DOESN'T do something.\nBut he might've gone a bit too far yesterday.\nHe made a first year guy quit.\"",
+      "sourceUnit": "セイバールート二日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Mitsuzuri sighs gravely.\nSeeing her look so serious is rare to begin with, but the rest of her story is particularly alarming.",
+      "sourceUnit": "セイバールート二日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"What the heck? Why'd he quit?\"\n\"Shinji took his anger out on him. He gathered all the female members and made the first year, who barely learned how to handle a bow, shoot his bow until he hit the target. Shinji mocked him the whole time.\"\n\"What!? How could you let something like that happen!?\"",
+      "sourceUnit": "セイバールート二日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I would never let that happen! But a captain's got a lot to do, you know! You know very well that I don't live in the dojo!\"",
+      "sourceUnit": "セイバールート二日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, yeah. But what the hell was Shinji thinking? He may be harsher than the others, but he's not the type to make someone into a spectacle.\"",
+      "sourceUnit": "セイバールート二日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen to you. You're something, Emiya.\"\n\"What do you mean by that? Were you just thinking something bad about me!?\"",
+      "sourceUnit": "セイバールート二日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I wouldn't dare. Just making an observation. If you wanna get angry about it, that's your call.\"\n\"Why you... Using my own words against me.\nFine. So what got into Shinji? Why'd he do that?\"",
+      "sourceUnit": "セイバールート二日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, I heard Tohsaka shot him down pretty brutally.\"\n\"Eh...Tohsaka? You mean THAT Tohsaka?\"",
+      "sourceUnit": "セイバールート二日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you know any other Tohsakas in this school?\nThe second year honor student in Class A. Miss Perfect, Rin Tohsaka.\"\n\"Uh, that's the first time I've heard that nickname.\"",
+      "sourceUnit": "セイバールート二日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "But it fits.\nIt's no surprise Shinji got rejected...\nAnd knowing Tohsaka, she probably had some pretty harsh insults to go with the rejection.",
+      "sourceUnit": "セイバールート二日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, Shinji's been acting out since yesterday.\nAnd that's why I've had to watch him like a hawk at the dojo up until now.\"\n\"Shinji does have a low tolerance for some things. I know it might be tough, but good luck, Mitsuzuri.\"",
+      "sourceUnit": "セイバールート二日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, yeah. But you know how Shinji never lets go of anything. I'm just afraid he might really do something bad the next time he asks Tohsaka and gets rejected again.\"\n\"No, even Shinji wouldn't go near someone who just rejected him. He's good about that sort of thing.\"",
+      "sourceUnit": "セイバールート二日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"But what if the person who turned him down comes near him instead? I don't know why, but Tohsaka swings by the dojo to come watch. Ah, well, you quit so you probably don't know that.\"",
+      "sourceUnit": "セイバールート二日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nThat's news to me.\nRin Tohsaka doesn't participate in any club activities because her family forbids it or something. She even turned down nominations to be a member of the student council, so I always thought she went straight home after school.",
+      "sourceUnit": "セイバールート二日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess this isn't horrible once in a while. He's always acted high and mighty, so it might be good for him to struggle for once. Sorry, but not sorry.\"\nMitsuzuri has a...weird way of looking at this.\nNow that I think about it, they say that Rin Tohsaka has a lot of enemies. I wonder if Mitsuzuri is one of them, too?",
+      "sourceUnit": "セイバールート二日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Mitsuzuri. That's kind of cruel even for you.\"\n\"Oh it's almost time. See you later Emiya. You should swing by to see my bow work next time.\"\nMitsuzuri hastily runs off.",
+      "sourceUnit": "セイバールート二日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Classic Mitsuzuri.\"\nI never minded just how forthright she always is.\nI feel a bit more at ease, and head towards the classroom.",
+      "sourceUnit": "セイバールート二日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "It's lunchtime.\nOur school has quite the cafeteria, and most of the students eat lunch there.\nBut there are some old-fashioned students who still bring their own lunches, including myself and the student council president, sitting in front of me.",
+      "sourceUnit": "セイバールート二日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya, can I have some of your fried chicken? My lunch is kind of lacking in protein.\"\n\"Fine. But why is your lunch always so plain, Issei? I know you live in a temple, but there's no rule that prohibits you from consuming alcohol or meat, right?\"",
+      "sourceUnit": "セイバールート二日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Absolutely not. That idea is anachronistic. This is just how my father does things.\nAccording to him, a young priest should not indulge themselves in luxuries, and if I want to complain, I should do something about it. So I'm actually considering joining the circus one of these days.\"\n\"Ah, that sounds like your old man.\"",
+      "sourceUnit": "セイバールート二日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Issei's father is the priest at Ryudou Temple, a larger-than-life figure who's also friends with Fuji-nee's grandfather.\nAnyone who gets along with old man Fujimura can't possibly be normal.",
+      "sourceUnit": "セイバールート二日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Well then, here you go. You owe me.\"\nI pass my bento box to him.\n\"Ah, much thanks. This is pretty much begging for alms.\"\nIssei bows deeply.\nI honestly question whether I should be reminded that he's the son of a priest at times like this.",
+      "sourceUnit": "セイバールート二日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh by the way. Did you hear about the commotion at the second district? Around the intersection you and I part ways going home?\"\n\"The intersection?\"\nCould it be the same intersection where I saw all the police cars this morning?",
+      "sourceUnit": "セイバールート二日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Apparently, there was a murder there. I don't know the details, but only one child out of a family of four survived. Both parents and the older sister were stabbed to death, but by some sort of long weapon instead of typical knives.\"",
+      "sourceUnit": "セイバールート二日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nA long weapon? Does he mean a sword or something?\nIf it's a murder, then that weapon killed the parents and the older sister.",
+      "sourceUnit": "セイバールート二日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...I can't help but imagine it.\nSomeone sneaks in the house late at night. Unreasonable violence...a horrible nightmare the victim neither imagined nor wished for, like a traffic accident. The parents are slaughtered. The older sister falls victim without knowing what is happening. A lone child, hidden in the shadows, is covered in their family's blood.",
+      "sourceUnit": "セイバールート二日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei. Did they catch the murderer?\"\n\"Doesn't look like it. Accidents stemming from faulty construction in Shinto...and now a murder with something like a sword here. It's no wonder the school curfew is ear—what's wrong Emiya? Did you choke on your lunch?\"",
+      "sourceUnit": "セイバールート二日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Nothing. Why do you ask?\"\n\"Well, you had a stern look on your face, which surprised me. Sorry, I shouldn't bring this up while we're eating.\"",
+      "sourceUnit": "セイバールート二日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Issei apologizes and tries to lighten the mood.\nI actually don't mind topics like this, and didn't realize I was looking so severe.",
+      "sourceUnit": "セイバールート二日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "And then, there's a gentle knock on the student council room's door.\n\"Sorry. Is Ryudou here?\"\n\"Eh? Uh, yes. What is it, sir?\"\nMr. Kuzuki enters, and Issei steps over to him to have a quiet conversation.\nIt must be a casual student council matter, since Issei looks relaxed.",
+      "sourceUnit": "セイバールート二日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Look at that.\"\nIt's something I don't see everyday.\nIssei is surprisingly shy. He keeps his distance from classmates and even teachers, but for some reason he's warmed up to the student council advisor, Mr. Kuzuki.",
+      "sourceUnit": "セイバールート二日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe they get along because they're both straitlaced.\"\nSouichirou Kuzuki is the homeroom teacher for class 2-A, and he's...very serious, and kind of weird.\nSome part of that is probably why he and Issei get on so well.",
+      "sourceUnit": "セイバールート二日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe two continue to talk.\nAs I watch them, I can't stop thinking about the murder.",
+      "sourceUnit": "セイバールート二日目-07:page44:1",
+      "recoveredDelimitedTail": true
+    },
+    "page45": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

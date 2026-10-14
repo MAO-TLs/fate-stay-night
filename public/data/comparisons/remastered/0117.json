@@ -1,0 +1,202 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0117",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll just take the long way home.\nIt's just about a five minute detour.\nI'm being whimsical here, and I don't need to make excuses about that.",
+      "sourceUnit": "セイバールート七日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI park my bicycle.\nI step into the park, my groceries still on my bike.",
+      "sourceUnit": "セイバールート七日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...\"\n...am I doing this in the first place?\nIt's just so impulsive of me.\nI just had the passing thought that it would be nice to see her.\nAnd then I see a silver-haired girl standing off on her own.",
+      "sourceUnit": "セイバールート七日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't seem to have noticed me.\nIf I wanted, I could just leave.\nBut if I were going to do that, I wouldn't have come here in the first place.",
+      "sourceUnit": "セイバールート七日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya.\"",
+      "sourceUnit": "セイバールート七日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Who's there!?\"\n\"Uh, it's just me, Shirou.\"\n\"Eh...? Shirou? Is that really you?\"",
+      "sourceUnit": "セイバールート七日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that really such a surprise?\"\nThis park's close to the shopping district, so me passing by here isn't all that strange. I'm honestly more curious why you're here again. Do you have that much free time?\"",
+      "sourceUnit": "セイバールート七日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. You're exactly right. I don't really have anything else to do, so I came here to play, but Sella said I shouldn't see you. She said it'd be no fun to play with you because I'm going to kill you soon anyway.\"",
+      "sourceUnit": "セイバールート七日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...well, that...\"\nWhoa.\nThat makes it pretty hard to come up with a response.",
+      "sourceUnit": "セイバールート七日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"But I don't think that's true, because being with you's fun, so I've been waiting here all this time, thinking I might meet you again.\nSo, I'm glad you came, Shirou.\"",
+      "sourceUnit": "セイバールート七日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait a minute. Don't tell me you were waiting for me this whole time!?\"\n\"Yep.\nIt's been a real long time. I was thinking how nice it'd be if you came here.\"",
+      "sourceUnit": "セイバールート七日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"You dummy. I thought you didn't like the cold. If you want to see me, you should've come to my place—okay, maybe not. If you met Saber, that'd definitely lead to a fight.\nBut still, there are plenty of other places you could have found me. You had no trouble finding me at the shopping district yesterday.\"",
+      "sourceUnit": "セイバールート七日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I can't do that. I can't go and find you myself. I just broke the rules yesterday, just that once.\nSo I decided to wait at a place I thought you might come, and I was right!\"",
+      "sourceUnit": "セイバールート七日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Illya skips around excitedly.\nHer bouncing silver hair makes her look like a winter fairy.",
+      "sourceUnit": "セイバールート七日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I got that. But why do you want to see me in the first place? If just talking to you like yesterday is enough, I'm happy to do it again.\"",
+      "sourceUnit": "セイバールート七日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. I don't have anything in particular to talk about like yesterday. I just thought it would be nice to see you today. Besides, we're enemies. I'll come and kill you when the Holy Grail War is about to end, so we can talk then.\"",
+      "sourceUnit": "セイバールート七日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "She says it so innocently.\nThe disconnect between her words and manner is hard to swallow.\nIt's not that she's going to kill me so much as how unfitting it seems for her to be a Master.",
+      "sourceUnit": "セイバールート七日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. Do you want to do that?\nDid you really choose to get involved in this Holy Grail War yourself?\"",
+      "sourceUnit": "セイバールート七日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? It's my grandfather's orders.\nI'm the best-suited to be a Master out of all the Einzberns, since I possess a really big Holy Grail.\"",
+      "sourceUnit": "セイバールート七日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...But that means you're doing it because your grandfather ordered you to. You didn't choose to be a Master.\"",
+      "sourceUnit": "セイバールート七日目-20:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm...maybe? I don't really remember, but I've been a Master since I was born. So it only makes sense for me to fight.\"\n\"That's wrong. If you're just fighting because someone told you to, you should stop.\nFirst of all, killing doesn't suit you.\"",
+      "sourceUnit": "セイバールート七日目-20:page20:1"
+    },
+    "page21": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? It doesn't sound like you're pleading for your life.\nYou actually sound really worried about me, big brother.\"",
+      "sourceUnit": "セイバールート七日目-20:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I am. I don't know what anyone else thinks, but I hate the idea of someone like you fighting. If it were up to me, I'd rather see you quit being a Master and go live a quiet life.\"",
+      "sourceUnit": "セイバールート七日目-20:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Teehee. I may consider it if you become my Servant. If you did that, I wouldn't have to kill you.\"",
+      "sourceUnit": "セイバールート七日目-20:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...wh-wh-what the hell are you talking about!? Do you really know what it means to ask me to be your Servant!?\"\nBesides, there's no way I could be a substitute for Berserker...!",
+      "sourceUnit": "セイバールート七日目-20:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm saying that you should stop fighting. I'm telling you to give up your Servant, so why would you need me to be your familiar?\"",
+      "sourceUnit": "セイバールート七日目-20:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Not a familiar. A Servant.\nServants are always with you, right? That's why I just need you to be by my side.",
+      "sourceUnit": "セイバールート七日目-20:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...mmm?\"\n...Hold on a minute.\nDon't tell me. Does Illya think...",
+      "sourceUnit": "セイバールート七日目-20:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me ask you something. What is a Servant, Illya?\"\n\"They're mine, right? They're always by my side, and they protect me. That's what Grandfather told me.\"\n...",
+      "sourceUnit": "セイバールート七日目-20:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I knew it.\nIllya considers Servants to be just that.\nCommand Spells, Masters, none of that matters.\nTo her, a Servant is just something that protects her.",
+      "sourceUnit": "セイバールート七日目-20:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. But no, I still can't. I can't agree to that, so think of something else.\"\n\"Wh-what?\nI'm not good enough for you?\"",
+      "sourceUnit": "セイバールート七日目-20:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, well, it's not about being good enough...um, it's just that...\"\nI'm worried about Illya, but I know I can't be by her side twenty-four seven, either.",
+      "sourceUnit": "セイバールート七日目-20:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, I have Saber.\nAnd as a Master, I need to stop other Masters. So, I'm sorry, but I can't be your Servant.\"",
+      "sourceUnit": "セイバールート七日目-20:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? I made a concession because I was talking to you! You're going to pay for it!\"\n\"Hey wait...hold on, Illya! We haven't finis—\"",
+      "sourceUnit": "セイバールート七日目-20:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Stupid Shirou! You're the worst for embarrassing a girl!!!\"\n\"Uh...there she goes...\"\nIllya just runs out of the park, not listening to me anymore.",
+      "sourceUnit": "セイバールート七日目-20:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "I try to follow her, but I can't find her.\n\"...Crap. This is just like yesterday.\"\nI sigh and go back to my bike.",
+      "sourceUnit": "セイバールート七日目-20:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "But...I don't think she'll just suddenly attack again like when we first met that night.\nSo I should probably have one more chance to convince her.",
+      "sourceUnit": "セイバールート七日目-20:page37:1",
+      "recoveredDelimitedTail": true
+    },
+    "page38": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

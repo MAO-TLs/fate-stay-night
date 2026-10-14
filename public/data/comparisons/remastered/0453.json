@@ -1,0 +1,391 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0453",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'd better run away.\nI mean, I'd better hurry to class.\nAsking Tohsaka for advice seemed like a good idea,",
+      "sourceUnit": "桜ルート五日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "but the school's number-one student gives off the aura of a cat ready to tear apart any mice that stray too close.\nA wise man keeps away from danger, after all.",
+      "sourceUnit": "桜ルート五日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning, Tohsaka. Later, Tohsaka.\"\nI sprint up the stairs as fast as I can.",
+      "sourceUnit": "桜ルート五日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hold it, I'm still talking to you!\"\nI run for the hallway, turning to look back at the devil's voice behind me.\n...She looks like she's still gathering steam, but nothing could be more dangerous than talking to Tohsaka right now, so this was the right call.",
+      "sourceUnit": "桜ルート五日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I made it.\nIt's still three minutes before homeroom starts, and Fuji-nee isn't here yet.",
+      "sourceUnit": "桜ルート五日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Shinji's desk is empty.\nIt's gonna be tough to face him after yesterday, but I was hoping to talk to him.\nIf he's absent, though, there's nothing I can do about that.\nGoing to the Matou house would just provoke him, so I need to think of another way that won't involve Sakura.",
+      "sourceUnit": "桜ルート五日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nThere's another empty seat:\nIssei's.\n\"Wow. Never thought I'd see that guy miss class.\"\nI put my bag down at my desk and get ready for homeroom.",
+      "sourceUnit": "桜ルート五日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for waiting! How do you like my new record?\"\nFuji-nee arrives before the bell, which is unusual for her.\n...I'm a little relieved.\nI thought maybe she overslept since she didn't come over for breakfast, but she's as chipper as ever.",
+      "sourceUnit": "桜ルート五日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"It's chow time! Let's go get the good stuff at the cafeteria before they're out!\"\nThe moment lunch break starts, a boisterous roar goes up from the middle of the classroom.\nOnly the boys are ever involved in a ruckus like this, while the girls avoid them and move their desks into fours.",
+      "sourceUnit": "桜ルート五日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh, I'll buy lunch today, too. I'm coming with you, Saitama.\"\n\"I'll pass. We had that yesterday.\"\n\"We're staying, too. ...Don't you boys ever get tired of that stuff? We're sick of the school lunches.\"",
+      "sourceUnit": "桜ルート五日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Whaaat!? Set B is the best, though! They call it a croquette combo but all you can taste is meat!\"\n\"Yeah, but not everyone thinks that makes it a good deal. I'll be honest with you man, when I eat vegetables, I don't really want them to taste like meat.\"",
+      "sourceUnit": "桜ルート五日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you, Emiya? Why don't you switch sides from the home lunch to the cafeteria team?  Actually, just make me lunch, would ya?\"\n\"Hey, no fair! Emiya, why don't you come eat with us? You can trade for one of our sandwiches!\"",
+      "sourceUnit": "桜ルート五日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh please, you bought that at a convenience store! You can't even be bothered to cook, what kind of girl are you!? We're not giving you our lunch! If you want some fine dining, then come back once you've learned to fry an egg!\"\n\"RUDE! I know how to make it! You just need to heat them up in hot water.  So, how about it, Emiya?\"",
+      "sourceUnit": "桜ルート五日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uh, that's not how you make it.\nEverything you guys said was just wrong. Anyway, I didn't bring lunch today. I haven't had time lately, and I'll probably be eating school lunch until the end of the term.\"",
+      "sourceUnit": "桜ルート五日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"WHAAAAT!?\"\nBoth Team Cafeteria and Team Takeout's jaws drop.\nIt's always times like this when the bitter rivals of our class suddenly become bosom buddies.",
+      "sourceUnit": "桜ルート五日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I have the combo meal that some of my classmates went on about. The fried shrimp tastes like red meat for some reason, and I grumble about it as I go back to my classroom.",
+      "sourceUnit": "桜ルート五日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "It's almost fifth period. I sit down and start getting ready for the next class, when...\n\"What's...this?\"\nI find a slip of paper in my desk.",
+      "sourceUnit": "桜ルート五日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I don't know what to say.\nThe note was written using a ruler grid for character spacing, perhaps to obscure the writer's handwriting.",
+      "sourceUnit": "桜ルート五日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n...It is her, right?\nAfter this morning, I can't imagine it would be anyone else.\n\"...\"\nFrankly, I'd like to pretend I never saw this threatening note, but the last sentence is particularly concerning.",
+      "sourceUnit": "桜ルート五日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Did she plan this so that I can still read the part she scribbled out...? No way, right?\"\n...I don't feel like responding, but I could use Tohsaka's advice.\nI still haven't figured out what to do with Sakura, so I'll keep my expectations low and go talk with Tohsaka.",
+      "sourceUnit": "桜ルート五日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "The school day ends after sixth period.\nIt's time.\nI don't know what Tohsaka's scheming, but there are still students on campus.\nThe kyudo club should be practicing until 5:00 PM, so I could run somewhere there's still a lot of people around, if it comes to that.\nTohsaka's a respectable mage, so she shouldn't attack me while there are witnesses around.",
+      "sourceUnit": "桜ルート五日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Miyama is, as its name suggests, a neighborhood built in a mountain pass.\nIt's a hilly area, and there are paths that cross the smaller hills.",
+      "sourceUnit": "桜ルート五日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Our school is located on one of those hills.\nThe campus was erected on a mountainside, and the area behind it is, of course, undeveloped.\nMeaning that if you go behind the school, you'll immediately enter a wooded thicket.",
+      "sourceUnit": "桜ルート五日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nIn the deepening woods, where not even the adventurous athletics club dares to tread,\nbeyond the shadowy monoliths, I find a monstrous archdemon lying in wait.",
+      "sourceUnit": "桜ルート五日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTo be honest, I already want to go home.\nBut she'll definitely come after me if I leave now.\nWithout a doubt, a merciless rain of fire will descend upon my helpless back.",
+      "sourceUnit": "桜ルート五日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, Tohsaka? I'm here. What do you want?\"\nI call out from the edge of the tree line.\nBy no means should I step into the area where she is.\nI'm sure that the closer I get, the lower my chances of survival will be.",
+      "sourceUnit": "桜ルート五日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka! Can you hear me!?\"\nI raise my voice.\n\"...ear me...me...me...\" it echoes.",
+      "sourceUnit": "桜ルート五日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I hear you! Stop standing there\nand yelling my name over and over!\"\n\"...ver...ver...ver...\"\nShe's pissed at me for getting even this close.\nHer voice echoed twice as loud.",
+      "sourceUnit": "桜ルート五日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn, Tohsaka. I think they could hear that all the way at the archery range.\"\n\"Ah. Crap. You almost had me going again.\"\nTohsaka clicks her tongue and walks backward.",
+      "sourceUnit": "桜ルート五日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Fine. I expected this much. I figured you'd come here acting like the hapless amateur you are.\"\nAnd...\nI gotta wonder what crawled up her butt and died to put her in even a worse mood than before.",
+      "sourceUnit": "桜ルート五日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...? What are you so upset about? Did I embarrass you that much by yelling?\"\n\"I-I'm not mad about that, you dork!\nI'm mad at how you can be as daring as a crook while simultaneously being so naïve it hurts!\"",
+      "sourceUnit": "桜ルート五日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She glares at me.\nYou know, others would be thrilled to be alone with Tohsaka like this, but the circumstances keep pulling me back to reality.",
+      "sourceUnit": "桜ルート五日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you getting at? Am I some sort of wolf in sheep's clothing to you?\"\n\"Hardly. In your case, you really are a sheep, except you're some mutant freak that turns the tables on the wolf.\"",
+      "sourceUnit": "桜ルート五日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Huh?\nI understand even less than I did a moment ago.\nAlso, that \"mutant freak\" doesn't sound like a sheep at all.",
+      "sourceUnit": "桜ルート五日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, whatever. I don't have time for chitchat, so let's get to business. Nice of you not to flee, by the way.\"\n\"Yeah, uh, I couldn't just ignore that awful threat you sent me. I bet it's got some curse on it.\"",
+      "sourceUnit": "桜ルート五日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nShe pauses for a moment.\nBewilderment is evident in her expression.",
+      "sourceUnit": "桜ルート五日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What threat?\"\n\"This.\"\nI show her the piece of paper I found in my desk.",
+      "sourceUnit": "桜ルート五日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, don't scare me like that. Who else besides me would invite you out here?\"",
+      "sourceUnit": "桜ルート五日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"You're such a basket case. Yeah, I'm annoyed with you, but I wouldn't curse a simple message. It was a completely ordinary letter—\n...Wait, why are you looking at me like that?\"",
+      "sourceUnit": "桜ルート五日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI mean, who wouldn't?\nTohsaka actually thinks that was just a message.\nI mean, I wouldn't have problem if that was just her personal aesthetic. But the image of Rin Tohsaka in my mind is in complete tatters now.",
+      "sourceUnit": "桜ルート五日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof... Did I...maybe...unconsciously put a Gandr on it?\"\n\"Huh? No, there was nothing wrong with the physical letter. But anyone would read it as a threat. If someone other than me had seen it, they'd report it to a teacher.\"",
+      "sourceUnit": "桜ルート五日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well, what did you expect? There wasn't time, it's not like I'd write something formal to you, so I just wrote exactly what I needed.\"",
+      "sourceUnit": "桜ルート五日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, you didn't need to use a ruler. Also, I could feel the intensity in that last sentence.\"",
+      "sourceUnit": "桜ルート五日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"That's your fault, Emiya.\nYou got away from me this morning, so I thought that was the only way to catch you. I put a little more oomph into the end, hoping you'd take the hint.\"",
+      "sourceUnit": "桜ルート五日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, whatever, call it a threat, a confession, or even a calling card. It served its purpose, and I'm happy with that.\"",
+      "sourceUnit": "桜ルート五日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka coolly turns her back on me.\n...Though, I'm glad she's aware that she wrote that note a little scarily.",
+      "sourceUnit": "桜ルート五日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. So what did you want, anyway? Don't tell me you called me all the way out here because you wanted another fight.\"",
+      "sourceUnit": "桜ルート五日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"If you want. But don't get the wrong idea. I haven't attacked you because Archer is still recovering, but if he had been ready to go, I would've taken your Command Spells from you this morning.\nI warned you so many times not to do anything reckless, but seeing you walk around in broad daylight like this makes me wish I'd gone for it.\"",
+      "sourceUnit": "桜ルート五日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy eyes widen.\nSo, Tohsaka's angry because...\n\"Tohsaka, you were worried about me?\"\nI'm not sure why, but that's what this was all about?",
+      "sourceUnit": "桜ルート五日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"O-of course not! I called you out here because I was curious about what happened this morning.\nSo, Emiya, weren't you trying to tell me something? I'm in the mood to listen, so go ahead.\"",
+      "sourceUnit": "桜ルート五日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm even more shocked.\nWhat's gotten into her? I didn't expect Tohsaka to seek me out just to let me ask her questions.",
+      "sourceUnit": "桜ルート五日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"And now the silent treatment, hmm? That's fine too, you don't have to talk to me if you can't tell me. I'm not mad anymore, so I'll just go home.\"",
+      "sourceUnit": "桜ルート五日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah—wait, Tohsaka.\nI have something to talk about. Actually, I've been wanting to ask you for advice.\"\n\"Then spit it out. I'll keep your secrets, and I'll help you if I can.\"",
+      "sourceUnit": "桜ルート五日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks.\n...Um, this doesn't have anything to do with you, but there's this girl named Sakura Matou.\nShe's a first-year I've known for a while, and I go back a long way with her big brother Shinji Matou, too.\nSo, to make a long story short, I fought Shinji last night. He was a Master.\"",
+      "sourceUnit": "桜ルート五日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji Matou was...a Master...?\"\n\"Yeah. His grandpa Zouken told me, so I'm sure of that. He said that the Matou family has always been mages. Did you know that, Tohsaka?\"",
+      "sourceUnit": "桜ルート五日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course. You're the only mage in town that I didn't know about. But that can't be right. Shinji—\"",
+      "sourceUnit": "桜ルート五日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Isn't a mage. He lacks even the bare minimum Magic Circuits to be a spellcaster. Zouken said that, too.\nBut, that only means he can't be a mage.\nI think the conditions to be a Master are different. I'm not that different from Shinji. We shouldn't assume that someone can't become a Master just because they aren't a mage.\"",
+      "sourceUnit": "桜ルート五日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So, did you beat Shinji?\"\n\"Yeah. Saber beat his Servant, Rider. His Command Spell book burned up, and he isn't a Master anymore.\n...But I don't think he's given up yet. Sakura lives at his house, even though things are really dangerous right now.\"",
+      "sourceUnit": "桜ルート五日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Zouken told me that only the chosen heir can inherit the family magecraft. Sakura was raised without knowing anything about that. So she doesn't know what Shinji's been up to.\nIf that stays true, then Sakura should be able to live her life without ever getting involved in the Masters' battles.\"",
+      "sourceUnit": "桜ルート五日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right. So what makes you think Sakura's in danger?\"\n\"I told you, Shinji is unstable. Sakura lives with him, so there's no guarantee she won't get mixed up in this.\nThat's why, um...\"",
+      "sourceUnit": "桜ルート五日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"You want to settle this before she does. You're right to think that, but it's impossible for you. There's the matter of Ryudou Temple, and I have a bad feeling about the other Masters. This war is going to drag on longer than I thought.\"\n...",
+      "sourceUnit": "桜ルート五日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nShinji forfeiting as a Master and exiting the war would be the best outcome, but it isn't realistic to hope for that.\nThe next best option would be to separate Sakura from Shinji, but...",
+      "sourceUnit": "桜ルート五日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"So there's only one thing left to do. If you don't want this Sakura girl to get involved, then you can just take her under your protection.\"\n\"I thought about that. But I'm a Master, too.\nShe's in danger at my house, and Shinji won't like it. Sakura's sure to be upset at me if I suddenly tell her to move in, too.\"",
+      "sourceUnit": "桜ルート五日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew. You sure are oblivious, Emiya.\"\n\"Huh?\"",
+      "sourceUnit": "桜ルート五日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing. You may as well ask her. Protecting Sakura from Shinji is the same as protecting her from the other Masters.\nThat just means you should pick a solution that you can do yourself, right? ...If this Sakura is so important to you, that is.\"",
+      "sourceUnit": "桜ルート五日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka's words strike a chord, somehow.\nIt's like getting punched in the head.\n\"You're...right. Yeah, that makes sense. I should just ask Sakura herself instead of worrying about how she might feel.\"\n\"...\"",
+      "sourceUnit": "桜ルート五日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks, Tohsaka. I'll try to convince her as soon as I get home... So now you're giving me the silent treatment?\"",
+      "sourceUnit": "桜ルート五日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I just didn't think I did anything worth thanking.\nMore importantly, now I owe you. I didn't think I'd learn from you that Shinji was a Master.\nIn exchange, I'd better show you my cards.\"",
+      "sourceUnit": "桜ルート五日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Your cards?\"\n\"I'm saying I'll trade you information. Finding out that Shinji was a Master clears things up for me, so I'll give you some new intel.\nYou've heard about the sudden unexplained comas happening around town, right?\nThat's the work of a Servant, and its Master is in Ryudou Temple.\"",
+      "sourceUnit": "桜ルート五日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh!? So that's why you mentioned it earlier. You mean that Ryudou Temple, in the mountains!?\"",
+      "sourceUnit": "桜ルート五日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. They're tricky, so be careful if you go after them. Even if they haven't killed anyone yet, they've been indiscriminately attacking people.\nI'd like to crush them soon since they're getting stronger by the day, but my Archer's still healing from a wound from somebody.\nWell, no matter how much energy they've saved up, there's only so much they can do with it, so I'll just sit back and wait for now.\"",
+      "sourceUnit": "桜ルート五日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "...\n...So there's a Master in Ryudou Temple.\nTohsaka must be doing everything she can to stay in the fight without Archer.",
+      "sourceUnit": "桜ルート五日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all I have for you.\nGoodbye for now, Emiya. You'd better get home soon and reassure your adorable junior.\"",
+      "sourceUnit": "桜ルート五日目-03:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Tohsaka, hey!\"\nI try to stop her, but Tohsaka ignores me and leaves in the direction of the archery range.",
+      "sourceUnit": "桜ルート五日目-03:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nI wonder why...\nTohsaka was in a foul mood from start to finish, but her initial irritation seemed somehow different from grumpiness at the end.",
+      "sourceUnit": "桜ルート五日目-03:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, it's school closing hours. I'd better get home.\"\nThe bell tolls 5:00 PM.\nThe sun will set soon.\nI have to speak to Sakura, so I should go home soon.",
+      "sourceUnit": "桜ルート五日目-03:page75:1"
+    },
+    "page76": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

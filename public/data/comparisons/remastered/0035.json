@@ -1,0 +1,576 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0035",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...!\"\nI wake suddenly.\nI feel sick, and my entire body aches. Every time my heart beats, a sharp pain stabs my head.",
+      "sourceUnit": "セイバールート三日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What...happened?\"\nMy intense headache prevents me from remembering anything.\nMy body is cold and stiff, likely because I've been sleeping in the hallway for a long time.\nThe only thing I can figure out is that the chest area of my uniform is torn, and my blood stains the hall floor.",
+      "sourceUnit": "セイバールート三日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tch.\"\nMy head feels hazy as I get up.\nThe spot where I'd been lying looks like a murder scene.",
+      "sourceUnit": "セイバールート三日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...seriously...\"\nWas my chest stabbed?",
+      "sourceUnit": "セイバールート三日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnn...haah...ng.\"\nI fight down a surge of nausea as I head into a nearby classroom.\nStaggering, I open a closet and pull out a rag and bucket.",
+      "sourceUnit": "セイバールート三日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...what the hell am I doing...?\"\nI'm still confused.\nI encountered something unbelievable, then it murdered me... But here I am, still trying to clean up after myself. How stupid can I be?",
+      "sourceUnit": "セイバールート三日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnn...hnn... Damn, it's not coming out.\"\nI wipe at the floor with a rag I found.\nI manage to wipe off the blood, despite the incredible weakness in my whole body, then gather up everything scattered around the floor and shove it in my pockets.\nThis may be my way of hiding any evidence.\nI must be doing such stupid stuff because my head's all hazy.",
+      "sourceUnit": "セイバールート三日目-16:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI put the rag and bucket away, and stagger out of the school like a zombie.\nMy body heats up with every step I take.\nIt's so cold outside, yet my body seems to be on fire.",
+      "sourceUnit": "セイバールート三日目-16:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "By the time I reach my house, the date has changed.\nThere's nobody in the house.\nSakura and even Fuji-nee left long ago.",
+      "sourceUnit": "セイバールート三日目-16:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah... Gh... Hnn...\"\nI collapse on the floor.\nLying on the floor is what lets me finally calm down a bit.\n\"...\"\nI inhale deeply.",
+      "sourceUnit": "セイバールート三日目-16:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "My heart feels like it cracks every time my chest expands to draw in air.\nActually, it's the opposite.\nIt's not that my heart is cracking.\nThe hole in my heart was just patched up, so expanding my chest opens the wound.",
+      "sourceUnit": "セイバールート三日目-16:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"So I really was almost killed.\"\nThat's also not true.\nI wasn't almost killed. I was killed.\nBut someone saved me, and now I'm alive.",
+      "sourceUnit": "セイバールート三日目-16:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder who it was. I would really like to thank them.\"\nIf they were in the area it means they could be involved with the people fighting.\nBut it still doesn't change the fact that they saved me. So I need to thank them properly one day.",
+      "sourceUnit": "セイバールート三日目-16:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ngh...!\"\nThe moment I drop my guard, the pain returns.\nAt the same time, nausea strikes me.\n\"Ah...ha...unnngh!\"\nI sit up to hold the nausea at bay.\n\"Ng...fu...hn...\"\nI place my hand on my bare chest, where the uniform is torn.\nI might've been saved, but my chest was, as a matter of fact, pierced.\nThat feeling.\nThe agony of the spear tip piercing my chest isn't something I can easily forget.\n\"Damn...I'm going to have nightmares about this for a while.\"\nWhen I close my eyes, I feel the spear thrust again.\nI try to shake that delusion off, and I make every effort to regain my composure.\n\"Good, I'm calming down.\"\nThis must be thanks to my nightly training.\nMy thoughts clear as I take slow, deep breaths. The fever and nausea abate a bit.",
+      "sourceUnit": "セイバールート三日目-16:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"So, about what happened...\"\nThe man in blue and the man in red.\nThey looked human, but I know they're not.",
+      "sourceUnit": "セイバールート三日目-16:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "They could have been ghosts of some kind.\nBut I've never heard of ghosts having forms that allow them to interact with humans like that.\nAnd the thing was talking, which makes it a little harder to believe it was a ghost, if it had a will of its own.\nFrom what I've heard, the only spirits that possess physical bodies are the elemental types, but I thought elementals didn't look human.",
+      "sourceUnit": "セイバールート三日目-16:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that's not the issue here.\"\nThere's a more fundamental issue.",
+      "sourceUnit": "セイバールート三日目-16:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Those two were trying to kill each other.\nAnd there was a robbery and a murder at a house nearby.\nEerie stuff like that has been plaguing Fuyuki lately.",
+      "sourceUnit": "セイバールート三日目-16:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWith all of this in mind, the only conclusion I can come to is that the situation is out of my control.",
+      "sourceUnit": "セイバールート三日目-16:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"If only the old man was alive right now...\"\nI guess that was kind of whiny, but I'll put it down to the patched up chest wound that still feels so raw.",
+      "sourceUnit": "セイバールート三日目-16:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Idiot. I've already decided to do whatever I can...even if I don't understand what's going on.\"\nI can complain later.\nFirst of all, I need to decide whether I should get involved or not.\n\"!?\"",
+      "sourceUnit": "セイバールート三日目-16:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "The bell on the roof of the house rings.\nNo matter what anyone says, this house is still a mage's house.\nA Bounded Field is set around it, and if there's ever an intruder in the area, an alarm rings.",
+      "sourceUnit": "セイバールート三日目-16:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"A burglar at this hour?\"\nI berate myself for my own idiocy.\nOf course it's not a burglar.",
+      "sourceUnit": "セイバールート三日目-16:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Given the timing, right after that weird incident...\nThere's definitely an intruder.\nIt's no burglar. It's an assassin. They're here to take a life, not property.\nBecause that man said so himself:\n\"You saw what you saw, so you gotta die.\"",
+      "sourceUnit": "セイバールート三日目-16:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe house is dead silent.\nThat same murderous intent I felt at school creeps closer through the hushed darkness.",
+      "sourceUnit": "セイバールート三日目-16:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI gulp.\nA chill prickles like needles along my spine.\nIt's no illusion and it's not my imagination... I know that the moment I leave this room, I'll be stabbed again.",
+      "sourceUnit": "セイバールート三日目-16:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nngh!\"\nI desperately try to contain my scream.\nThe instant I scream, the assassin will just leap right in and kill me.",
+      "sourceUnit": "セイバールート三日目-16:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "And that would just be a repeat of what happened before.\nI'm not prepared, and I'm going to be impaled again.",
+      "sourceUnit": "セイバールート三日目-16:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hnnn...haah...ghh...\"\nMy breathing grows labored as soon as that thought crosses my mind.\nI'm mad.\nI'm mad at myself for being afraid, and I'm mad that I've put myself in a situation where I'll so easily lose my life after it was saved earlier this same damn day.",
+      "sourceUnit": "セイバールート三日目-16:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nI grit my teeth and hold my hand tight over my wounded chest to restrain myself.",
+      "sourceUnit": "セイバールート三日目-16:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I need to get used to this.\nThis is the second time.\nThis is the second time I'm about to die.\nThat alone motivates me not to die so pathetically as last time. Am I not a mage, after all?\nAnd if I can't even defend myself from this, what were my eight years of training for!?",
+      "sourceUnit": "セイバールート三日目-16:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Bring it on.\"\nI'm not going to agonize over complicated things anymore.\nRight now I just need to drive away whoever's here.",
+      "sourceUnit": "セイバールート三日目-16:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I need to find a weapon.\"\nI may call myself a mage, but the only thing I can do is reinforce something that might work as a weapon.\nYou need a weapon to fight, after all.\nThere's plenty of things that might work as a weapon in the storehouse, but I'm not anywhere near there.\nIf I leave the living room and get ambushed, I'm just going to expose myself and it'll be a repeat of what happened earlier.",
+      "sourceUnit": "セイバールート三日目-16:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "It won't be easy, but I've got to find a weapon here.\nSomething long and thin would be good. My opponent's weapon of choice is a spear, so a knife would be all but useless.\nA wooden sword would be best, but I obviously don't have one just lying around.\nSomething around here that might be suitable as a weapon...",
+      "sourceUnit": "セイバールート三日目-16:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa...there's only the poster Fuji-nee left...\"\nI can't help but feel utterly dejected.\nBut the desperation makes me all the more determined.\nThe situation's so bad it can't really get any worse.\nThen all that's left for me to do is to move forward until I have no energy left.",
+      "sourceUnit": "セイバールート三日目-16:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on.\"\nI speak my incantation and I inject magical energy into the rolled-up, sixty centimeter poster.\nI try to imbue as much magical energy as I possibly can into the poster to solidify it, since it needs to work as a weapon to go up against that spear.",
+      "sourceUnit": "セイバールート三日目-16:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Composition, analyze.\"\nI focus my consciousness.\nMagical energy permeates the poster, as if I'm staining its fibers with my own blood.",
+      "sourceUnit": "セイバールート三日目-16:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Composition, reinforce.\"\nI feel that I've hit the end.\nRight before magical energy spreads throughout the poster and spills out, I say...\n\"Trace, off.\"\nI cut off my connection with the poster. I tremble with excitement.",
+      "sourceUnit": "セイバールート三日目-16:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "The poster is hard as steel.\nBut its weight remains the same as before. It's turned out great for a hastily improvised sword.",
+      "sourceUnit": "セイバールート三日目-16:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I...did it...\"\nHow long has it been since my Strengthening magecraft succeeded?\nMy magecraft hasn't worked ever since Kiritsugu died, and so for it to succeed at a time like this seems ironic.",
+      "sourceUnit": "セイバールート三日目-16:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Either way, now I can...\"\nI may be able to defend myself.\nI at least have some discipline in swordsmanship.\nI grip the poster with both hands and stand in the middle of the living room.",
+      "sourceUnit": "セイバールート三日目-16:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "If I stay here, I'm dead, but I don't think I can make it outside the mansion either.\nSo I just need to head to the shed and make a stronger weapon there.",
+      "sourceUnit": "セイバールート三日目-16:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nJust as I start trying to hype myself up...\n\"...!!!\"\nEvery hair on my body stands on end.",
+      "sourceUnit": "セイバールート三日目-16:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure when he got in.\nBut the guy drops from the ceiling, straight toward me.",
+      "sourceUnit": "セイバールート三日目-16:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...eh!?\"\nA silvery flash strikes my head from above.\nI can only assume he came through the ceiling, and he descends on me, meaning to skewer my head.\n\"Why...you!!!\"\nI roll forward in a frantic dodge.",
+      "sourceUnit": "セイバールート三日目-16:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "The man lands with inhuman grace as I clumsily roll out of the way.\nI stop myself quickly and get to my feet, makeshift sword at the ready.",
+      "sourceUnit": "セイバールート三日目-16:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe guy turns lazily, looking bored.",
+      "sourceUnit": "セイバールート三日目-16:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"You're making this whole thing kind of a pain. I was trying to be nice, thinking it'd hurt a lot more if you saw me kill you.\"\nHe shifts the spear to his other hand in a slow, fluid movement.",
+      "sourceUnit": "セイバールート三日目-16:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know why, but he doesn't seem as aggressive as he did at the school.\nWhich...might give me a chance at escaping him.",
+      "sourceUnit": "セイバールート三日目-16:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't believe I have to kill the same human twice. Guess the living world is a meat grinder, no matter the era.\"\nHe's...complaining to himself, like I'm not even here.",
+      "sourceUnit": "セイバールート三日目-16:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nI slowly retreat back out of the room.\nOnly three more meters until I reach the window.\nI'll run out, then it's only about twenty meters to the shed once I reach the yard.\nThen I should quickly...",
+      "sourceUnit": "セイバールート三日目-16:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"See ya. Don't wander around anymore, kid.\"\nHe says it almost absentmindedly,\nlike it was just an afterthought.",
+      "sourceUnit": "セイバールート三日目-16:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gah!\"\nPain shoots up my right arm.\n\"...?\"\nIt all happens in an instant.\nHe thrusts his spear forward, not even giving me time to react.",
+      "sourceUnit": "セイバールート三日目-16:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "I should've died for a second time right there.\nThe makeshift sword in my hand spared me that fate.\nHe probably thought I'd just been holding a rolled up paper.\nHe struck as if I hadn't been holding anything at all, but the reinforced paper sword deflected the attack so it only grazed my arm.",
+      "sourceUnit": "セイバールート三日目-16:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... Interesting trick you've got there, boy.\"\nHis expression goes blank.\nHis casual attitude from earlier vanishes entirely. He watches me now like a feral animal eyeing its prey.",
+      "sourceUnit": "セイバールート三日目-16:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah...\"\nCrap. I was clearly wrong, thinking things would be okay.\nThis thing before me is some kind of demon, unbound by logic.\nI keenly realize that letting my guard down even for a second was beyond ludicrous.",
+      "sourceUnit": "セイバールート三日目-16:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nDesperate as things are, I should've just made a break for the window right after whatever miracle let me dodge his strike from above.",
+      "sourceUnit": "セイバールート三日目-16:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"I thought you were just some kid, but I can sense a bit of magical energy from you. So that's how you're alive even after I stabbed you in the heart.\"\nThe end of his spear points towards me.",
+      "sourceUnit": "セイバールート三日目-16:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't block that.\nThere's no way I'll be able to block that swift attack.\nI could've at least braced myself if he had a sword, no matter how fast he might be with it.\nBut he's holding a spear.\nA sword is a whole line, but a spear is only a point.\nHow am I supposed to block a point, when I can't even see how fast it moves?",
+      "sourceUnit": "セイバールート三日目-16:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I'm going to have a little fun.\"\nThe man drops into a lower stance.\nIn a flash...\n...the spear swings in sideways.",
+      "sourceUnit": "セイバールート三日目-16:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I instinctively parry the blow aimed at my face.",
+      "sourceUnit": "セイバールート三日目-16:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...!?\"\n\"Good boy. Come on, here comes another.\"",
+      "sourceUnit": "セイバールート三日目-16:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "It's a cyclone.\nI'm not sure how he's moving his spear in this small room, but it traces a beautiful arc without even touching the walls.\n\"...Aaah!\"\nThe next swing comes from the opposite side, aiming at my torso.",
+      "sourceUnit": "セイバールート三日目-16:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Ga...agh!!!???\"\nThe force of the swing bends my makeshift sword as I try to parry.\nMonstrous...! Is that a hammer he's swinging!?\nDamn...the numbness in my arms is telling me that they might be broken!",
+      "sourceUnit": "セイバールート三日目-16:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh...why you!!!\"\n\"Hmmm?\"\nI instinctively swing my sword.\nHe must be mocking me with the way he keeps flicking his spear at my sword without drawing back at all.",
+      "sourceUnit": "セイバールート三日目-16:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...!\"\nNumbness creeps into my arms after going on the attack.\nMy makeshift sword bends even more, and the man's spear changes trajectory slightly.",
+      "sourceUnit": "セイバールート三日目-16:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"You're hopeless. I gave you an opportunity but you wasted it. Then again, I guess expecting a good fight from a mage is asking too much.\"",
+      "sourceUnit": "セイバールート三日目-16:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "He moves like this is just a game.\nSuch confidence... He'd been letting me take a swing at him after he took a couple shots at me.\nI wasted my one opportunity as nothing more than a stopgap.\nSo he sees no point in continuing this.",
+      "sourceUnit": "セイバールート三日目-16:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"What a disappointment you turned out to be. 'Kay, time to die, kid.\"\nThe man readies his spear again.\n\"Don't jump to conclusions!\"\nDuring that microscopic opening...\n\"Say what you want, dumbass!!!\"\nI don't turn back to look; I just leap backward through the window.",
+      "sourceUnit": "セイバールート三日目-16:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnn...hnn...\"\nMy back shatters the window, and I roll out into the yard.\nI roll a few times, spring upward, and...\n\"Ha...ah!\"\nI blindly make my next move...\nI twist my entire body and swing behind myself!",
+      "sourceUnit": "セイバールート三日目-16:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmn!\"\nI manage to bat the man's spear aside and he hesitates for just an instant.\nI knew it.\nIf I jumped out the window, he was going to have to chase after me.\nAnd he would catch up to me and go in for the kill before I had the chance to get up.",
+      "sourceUnit": "セイバールート三日目-16:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "So I expected his fatal blow, and swung my sword to the side with all my might.\nIt was a risky move. He'd have killed me if I'd been even a second late, and I'd have been just as dead if I was early too. But knowing the incredible gap in our skill, I figured there was no way I could've been early.",
+      "sourceUnit": "セイバールート三日目-16:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "The only thing I had to do was to get up as quickly as I could and parry the attack I knew would be coming at my back.\nThe gamble pays off and my swing deflects his spear.",
+      "sourceUnit": "セイバールート三日目-16:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah!\"\nI quickly reposition myself.\nNow I just need to run to the shed while he's still confused...\n\"Fly.\"",
+      "sourceUnit": "セイバールート三日目-16:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nHe's not holding the spear anymore now, and he's right in front of me.\nHe turns on the spot in a roundhouse kick.",
+      "sourceUnit": "セイバールート三日目-16:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...\nScenery goes flying by.\nMy chest goes numb where he kicked me. I can't breathe.\nThe biggest surprise? I'm actually flying through the air.\nI never thought a guy kicking me would send me into the air like a damn ball.",
+      "sourceUnit": "セイバールート三日目-16:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh!\"\nI fall hard onto my back.\nI slam into a wall, the impact likely breaking my back, and slide down to the ground.",
+      "sourceUnit": "セイバールート三日目-16:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...!\"\nI can't breathe.\nMy vision blurs.\nBy a stroke of luck, he's thrown me into the shed I wanted to reach. I lean against the wall, trying to rouse myself.",
+      "sourceUnit": "セイバールート三日目-16:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...haah...\"\nI try to track the man through blurry eyes.\nHe kicked me nearly twenty meters away.\nThe guy picks his spear up and rushes straight at me.",
+      "sourceUnit": "セイバールート三日目-16:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh!\"\nI'm going to die.\nThere's nothing I can do now.\nHe's going to reach me.\nIf I don't want to die, I need to get up and parry his...hit...",
+      "sourceUnit": "セイバールート三日目-16:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe tip of the spear surges.\nI can't even look back at him. My body, on the verge of collapse, practically greets the spear.",
+      "sourceUnit": "セイバールート三日目-16:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Tch! Get on your feet, if you're a man!\"\nWhat dumb luck.\nMy knees give out; I can't hold myself up.\nThe spear goes over my head and violently impales the shed's heavy door, pushing it open.",
+      "sourceUnit": "セイバールート三日目-16:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nAnd this is my last chance.\nIf only I could get inside the shed, there should be something I can use as a weapon...!",
+      "sourceUnit": "セイバールート三日目-16:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nI crawl into the shed on all fours.\nJust then...\n\"This ends now!\"\nHe launches the spear at me.",
+      "sourceUnit": "セイバールート三日目-16:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Daaaamn yooouuu!\"\nI block it.\nI open up the rolled up poster to create a single-use shield.",
+      "sourceUnit": "セイバールート三日目-16:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm!?\"\nThe impact makes a dull sound.\nThe poster, unrolled, probably isn't as strong.\nIt blocks the spear, but it tears apart, returning to a normal bit of paper.",
+      "sourceUnit": "セイバールート三日目-16:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...gngh!\"\nThe spear's impact flings me against the wall.",
+      "sourceUnit": "セイバールート三日目-16:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah...zch...!\"\nI fall on my butt, and try to get my heart beating again after it feels like it's trying to quit on me.\nThe moment I raise my head to try to grab something to use as a weapon...\n\"It's over. But that last move of yours surprised me, kid.\"\nThe man points his spear in front of my face.",
+      "sourceUnit": "セイバールート三日目-16:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't do anything else now.\nHis spear is pointed directly at my heart.\nI know this feeling.\nIt's the scent of death, assailing my nostrils, reminding me of the pain I felt a few hours ago.",
+      "sourceUnit": "セイバールート三日目-16:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly I don't get it. You're quick-witted but your magecraft's complete shit. You've got potential, but maybe you were just too young.\"",
+      "sourceUnit": "セイバールート三日目-16:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "I don't hear the man's voice.\nMy attention is focused on the weapon pointed at me.\nObviously.\nThe moment he thrusts, I'm dead.\nWhat else is there to think of at this point?",
+      "sourceUnit": "セイバールート三日目-16:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"I doubt it, but maybe you were the seventh one.\nEither way, this is the end for you.\"\nHis arm jerks.\nI wasn't able to see his movements earlier, but now I see every last one in slow motion.",
+      "sourceUnit": "セイバールート三日目-16:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "There's a bolt of silvery light.\nThe tip seems like it's being drawn towards my heart.\nBlood will gush from the wound in just a second...\nI know this feeling.\nThat sensation of iron piercing my body.\nThat taste of blood that will well up in my throat.\nThat feeling of the world around me fading.\nI experienced all of it earlier today.\nAnd now I'm going to have to experience it again? Really?\nI don't understand. Why do I have to be the one who goes through this?",
+      "sourceUnit": "セイバールート三日目-16:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "This is bullshit.\nNo. I can't die in vain in a place like this.\nI was saved. If I was saved, I can't just die like this.\nI need to live to fulfill my obligations. I won't be able to do that if I'm dead.",
+      "sourceUnit": "セイバールート三日目-16:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "The spear is still going to impale me though.\nThe tip will tear through my flesh, break my ribs, and bore into my heart.",
+      "sourceUnit": "セイバールート三日目-16:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm mad.\nIt shouldn't be so damn easy to kill people like this.\nI'm going to die, and it's bullshit.\nI'm going to die twice in a single goddamn day.\nEverything is fucking bullshit! I'm going to die and I didn't even have the opportunity to be afraid of this whole goddamn mess!",
+      "sourceUnit": "セイバールート三日目-16:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"No way in hell! I...!\"\nI'm not going to let myself...\n...die senselessly...\n...to the likes of YOU!!!!!!",
+      "sourceUnit": "セイバールート三日目-16:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\"\n\"Eh?\" is absolutely the right word for this moment.\n\"What...!?\"\nLike magic...",
+      "sourceUnit": "セイバールート三日目-16:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "A figure appears out of a bright light shining from behind me.\nI can't think.\nAll I know is that the figure is a girl.",
+      "sourceUnit": "セイバールート三日目-16:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "I hear a high-pitched sound.\nAnd the moment the figure appears, it pushes aside the spear pressed to my heart, and steps between me and the man without missing a beat.\n\"Are you effin' kidding me!? The seventh Servant!?\"\nHe tries to regain his composure after his spear is pushed aside as the girl brandishes...something in her hand.",
+      "sourceUnit": "セイバールート三日目-16:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "Sparks fly.\nHard metal clashes and sparks fly again.\nThe man stomps his foot after blocking the woman's attack.\n\"Kngh!\"\nHe must have realized he's at a disadvantage, because he leaps out of the storehouse with bestial agility.\nShe must intimidate him, but she quietly turns towards me.",
+      "sourceUnit": "セイバールート三日目-16:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "The wind is strong today.\nThe clouds slide away and the moon shines through for a brief instant.\nThe silver moonlight shines into the shed, illuminating the girl, who appears like a knight.",
+      "sourceUnit": "セイバールート三日目-16:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm speechless.\nAnd it's not because I'm confused by all the things that just happened.\nThe girl before me is so astonishingly beautiful that I'm at a loss for words.",
+      "sourceUnit": "セイバールート三日目-16:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe girl's eyes, like precious jewels, stare at me without emotion.\n\"I ask of you, are you my Master?\"\nHer voice sounds so...valiant.",
+      "sourceUnit": "セイバールート三日目-16:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...Mas...ter?\"\nI can only repeat her words back to her.\nI don't understand what she's saying, nor do I know who she is.\nAll I know is that this slender, delicate-looking girl is similar to the man outside.",
+      "sourceUnit": "セイバールート三日目-16:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe says nothing, continuing to look at me in silence.\nI don't know how to describe her...\nShe's...special. So special that I forget entirely about the man outside, even though he might attack at any moment.",
+      "sourceUnit": "セイバールート三日目-16:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "Time seems to have stopped.\nEven the fear of death I'd felt moments ago vanishes, and there is only the girl standing before me.",
+      "sourceUnit": "セイバールート三日目-16:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Servant, Saber. I have come in response to your summons.\nMaster, please give me your orders.\"\nIt's the second time she speaks.\nAnd the moment I hear the word \"Master,\" and the name \"Saber\" echoes in my ears...",
+      "sourceUnit": "セイバールート三日目-16:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh!\"\nPain shoots through my left hand.\nIt's hot, like being branded by an iron.",
+      "sourceUnit": "セイバールート三日目-16:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "I unconsciously press the back of my left hand.\nTaking that as a sign, the girl silently nods her beautiful head.",
+      "sourceUnit": "セイバールート三日目-16:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"Henceforth, my sword creates your destiny and our fates shall be intertwined.\nAnd thus, our contract is formed.\"",
+      "sourceUnit": "セイバールート三日目-16:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...contract? For what!?\"\nI'm still a mage in training, so I understand what those words mean.\nBut the girl doesn't respond to my question; she simply looks away with the same grace she'd shown when she nodded.",
+      "sourceUnit": "セイバールート三日目-16:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "She turns toward the shed's ruined door.\nOutside, the man readies his spear.",
+      "sourceUnit": "セイバールート三日目-16:page112:1"
+    },
+    "page113": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

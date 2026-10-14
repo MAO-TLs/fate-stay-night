@@ -1,0 +1,281 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0582",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A few minutes off the highway,\nI find the forest entrance, which feels familiar despite this being my first time seeing it, shrouded in mist even during daytime.\nIn the woods, the mist hanging in the air and the lack of sunlight getting through the trees make me lose my sense of time.",
+      "sourceUnit": "桜ルート十日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wow. Am I gonna be okay?\"\nI'm amazed by my recklessness, all too late.\nI didn't feel lost when I was looking through Illya's \"eyes\" last time, but this isn't something I can navigate using my memory alone.",
+      "sourceUnit": "桜ルート十日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Nah, I'll whine later. It's do or die now. No time to worry about appearances.\"\nI pump myself up.",
+      "sourceUnit": "桜ルート十日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "It's now sometime past noon.\nWhen I was seeing through Illya's \"eyes,\" it took roughly four hours to get to the castle from here.\nThe rest is up to my physical stamina, and my talent/memory and aptitude/reproduction skill as a mage.",
+      "sourceUnit": "桜ルート十日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I walk through the forest.\nThe thick scent of tree sap makes the air feel slightly stuffy.\nIt isn't as bad as walking in the mountains, but the uneven terrain saps my stamina, bit by bit.",
+      "sourceUnit": "桜ルート十日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I think I've been walking on the path Illya showed me for about two hours now.\nBut I still can't see anything up ahead, and the lack of landmarks is bothering me a little.",
+      "sourceUnit": "桜ルート十日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Thanks to my daily training, I don't have a problem with walking in the wilderness all day, but it does build up mental fatigue that isn't easy to notice.\nMy memory tells me that it's two more hours to the castle.\nIf I come across something entirely unexpected at that time, then I don't know if I'll be able to get out of the forest.\nMy physical limits are still a ways off, but the mental stress could cause me to start making small mistakes.",
+      "sourceUnit": "桜ルート十日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Mountain climbing requires one to stay hydrated, carefully monitor one's physical condition, and make constant decisions, such as whether to step left or right next, or whether the next handhold is a millimeter too shallow or deep.",
+      "sourceUnit": "桜ルート十日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "This forest trek isn't quite so demanding, but it brings risks of its own.\nI can't tell what direction I'm facing or where my current location is.\nTo say nothing of the distress that could cause, there are also direct threats from forest wildlife.",
+      "sourceUnit": "桜ルート十日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "In a forest as big as this, animals are sure to have marked their territory.\nPeople usually get attacked while hiking because they violated an animal's territory.",
+      "sourceUnit": "桜ルート十日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Walking around recklessly is like asking to get attacked, so there are times when it's better to go around a game trail that would've taken you straight to your destination.\nFortunately, there aren't any snakes in these woods.\nThere are only signs of wild dogs in the area, and they're rarely sighted.",
+      "sourceUnit": "桜ルート十日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The lack of local wildlife is probably due to Einzbern magecraft.\nStill, there are wild dogs around, and in the worst case I might run into something even worse than that.",
+      "sourceUnit": "桜ルート十日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that way's no good. I need to be careful on the way back.\"",
+      "sourceUnit": "桜ルート十日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I avoid a thicket that looks like something might be living there, and continue retracing my steps.\n...A wise man keeps away from danger.\nAn iron rule of hiking isn't to run away at the first sign of danger, but to avoid dangerous-looking places to begin with.",
+      "sourceUnit": "桜ルート十日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, though...this forest feels different from what Illya showed me.\"",
+      "sourceUnit": "桜ルート十日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...It's like the air feels different on my skin.\nWith each step I take deeper into the forest, I feel an unpleasant tingle up my spine.\nDon't go this way.\nLeave this forest right now.\nNo matter how many people you bring, none will return alive.\nEven the trees seem to whisper that as their branches sway in the wind.",
+      "sourceUnit": "桜ルート十日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Also, this smell.\"\nI thought it was the scent of tree sap, but it's not quite that.\n...It has the same sweetness, but not the vitality of the forest.\nThis is...\nI'm pretty sure...",
+      "sourceUnit": "桜ルート十日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait.\"\nI draw a wooden sword from my bag.\nI stop, concentrate, and take a few minutes to Strengthen my sword.",
+      "sourceUnit": "桜ルート十日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Something's coming...\"\nI hear footsteps from the direction of the thicket.\nStraining my ears, I can hear it mixed with the sound of someone pushing through branches, and a creaking noise.",
+      "sourceUnit": "桜ルート十日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\n...It's coming.\nSomething makes a beeline for me through the greenery...!",
+      "sourceUnit": "桜ルート十日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I raise my wooden sword.\nI tense my arms, slightly tighten my grip on the sword, raise the weapon to an overhead striking position, and—\n\"Hold it right there!\"\n\"Stop right there!\"\nWe both freeze.",
+      "sourceUnit": "桜ルート十日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\n...Now, then.\nHow should I break this deadlock?",
+      "sourceUnit": "桜ルート十日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on. Would you put that down? We're not in a haunted house.\"\nTohsaka's the first to break the ice.",
+      "sourceUnit": "桜ルート十日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, sorry.\"\nI lower the wooden sword as asked.",
+      "sourceUnit": "桜ルート十日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Fancy running into you here.\nYou aren't here for a picnic, are you?\"\n\"As if. What about you, Tohsaka? You're not the type to go for walks in the woods. What are you scheming now?\"",
+      "sourceUnit": "桜ルート十日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"That's rude. I do take walks. But I'm here for other reasons today.\"\nShe protests with a grunt.\nWhat surprises me is that she doesn't deny that she's up to something.",
+      "sourceUnit": "桜ルート十日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka. Are you here to fight Illya?\"\nI get straight to the point.",
+      "sourceUnit": "桜ルート十日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...So what if I am? You aren't a Master anymore. You don't have the right or obligation to stick your neck out into our battles.\"\n\"I don't. But if you're going to fight Illya, then I'll stop you.\"",
+      "sourceUnit": "桜ルート十日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? Are you trying to get her to team up with Sakura?\"\n\"That too. But Tohsaka, you won't get out unscathed if you fight her. You're bound to get hurt once you start. I don't want that to happen. To begin with—\"",
+      "sourceUnit": "桜ルート十日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"You want to stop the war, right? So that still hasn't changed, huh?\"\nTohsaka shifts from her barbed attitude to an exasperated shrug.",
+      "sourceUnit": "桜ルート十日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah.\"\nThis is her true face. The one that always drags me around and was close by my side until Sakura ended up in her current situation.",
+      "sourceUnit": "桜ルート十日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what? I made up my mind already, and I won't change it that easily.\"",
+      "sourceUnit": "桜ルート十日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sure you wouldn't. Honestly, I've always thought this about you...\"\nWhat's she getting at?\nTohsaka heaves an exaggerated sigh.\n\"Emiya, you're really stupid.\"\nShe gives me a grin so bright it makes me blink, even as she says that.",
+      "sourceUnit": "桜ルート十日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\n\"But that's okay. You never learn, but it wouldn't be worth competing with you if you weren't like this. You try your best, no matter how clumsy you are.\"",
+      "sourceUnit": "桜ルート十日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey, what's with the triumphant grin!? You're really good at pissing people off!\"",
+      "sourceUnit": "桜ルート十日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, settle down. From the looks of it, you've got some business with Illyasviel. I was just taking a shot in the dark earlier, but you really do intend to talk to her.\"\nI can't believe she's grinning at me like that while I get mad.",
+      "sourceUnit": "桜ルート十日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh...\"\n...Dammit.\nFor some reason, I'm weak to Tohsaka when this happens. It's like I lose no matter what I say, like the more I protest, the more I get driven into a corner.",
+      "sourceUnit": "桜ルート十日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What's wrong? You're all quiet, that isn't like you.\"\n\"...Hmph. Yeah, you're right. I'm going to go see Illya, so don't get in the way. If you follow me, I'll chase you off.\"",
+      "sourceUnit": "桜ルート十日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Does that mean you know where she is?\"\n\"Oh.\"\nOops.\nI said something else I shouldn't have.",
+      "sourceUnit": "桜ルート十日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Great! Mind showing me the way, then?\nI know her general area, but I don't really trust my old map. If you know where to go, that saves me a lot of trouble.\"\n\"You know...I did just say not to follow me.\"",
+      "sourceUnit": "桜ルート十日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, my. Should you really take your eyes off me if you're going to talk to Illyasviel? What if I get there first? That'll complicate things, won't it?\"",
+      "sourceUnit": "桜ルート十日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...! I-is that a threat!?\nI bet you're just coming with me to pick a fight with her!\"",
+      "sourceUnit": "桜ルート十日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I won't, not if she's willing to form a common front. First order of things is to eliminate Zouken, right? I just came here to give her a warning.\"\n\"A...warning?\"",
+      "sourceUnit": "桜ルート十日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I was going to say that Zouken Matou is up to something, so she shouldn't underestimate him or she'll get hurt. Given what happened to Caster, we'll be at a disadvantage if he gets his hands on Berserker, too.\nBut I'm ready for it to turn into a fight once I warn her. I can't have a dialogue with that girl.\nI'm resigned to the idea of possibly fighting her right after I warn her. It was bound to happen sooner or later, since I need to defeat her.\"",
+      "sourceUnit": "桜ルート十日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"But it sounds like you have another option. In that case, I don't need to take the risk of fighting her. Depending on how well you do, we might settle everything peacefully.\"\n...",
+      "sourceUnit": "桜ルート十日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, don't give me that look. If you can persuade her, then I'll leave peacefully.\nBut if you fail, I'll help you defeat her or escape. Not a bad deal, is it?\"",
+      "sourceUnit": "桜ルート十日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's not a matter of getting a good or bad deal. You're gonna follow me no matter what, aren't you?\"\n\"Did I ever say that? We just happen to be headed in the same direction.\"",
+      "sourceUnit": "桜ルート十日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...What a devil.\nStill, Tohsaka's doing me a favor by letting me guide her.\nIf I let her go, she might fight Illya, but if she comes with me, then she'll behave.",
+      "sourceUnit": "桜ルート十日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Fair warning—I'm not sure I'm going the right way, either.\nDon't complain if I get lost.\"\n\"No worries there. You're headed in the exact same direction the map told me to go. With my map and your guidance, we won't get lost.\"",
+      "sourceUnit": "桜ルート十日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...",
+      "sourceUnit": "桜ルート十日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, I give up. We'll go to the castle together. You won't fight Illya, then?\"\n\"Yeah, I won't interfere in your negotiations with her. She's a pain to deal with as an enemy, but if we can be allies—\"",
+      "sourceUnit": "桜ルート十日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—An earthquake!?\"\nThe trees sway.\nA noise that resembles an explosion echoes from afar.\n...No.\nThis was no earthquake. Something like a typhoon is raging nearby...",
+      "sourceUnit": "桜ルート十日目-08:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, this is...!\"\n\"Berserker. Looks like we were one step too slow.\"",
+      "sourceUnit": "桜ルート十日目-08:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Then, is that Berserker going wild!?\"\n\"Yeah. Since we're here, there's only one person he could possibly be fighting against... So what now? I'm going ahead. Are you staying?\"",
+      "sourceUnit": "桜ルート十日目-08:page53:1"
+    },
+    "page54": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

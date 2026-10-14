@@ -1,0 +1,121 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0030",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I get back to Miyama.\nUnlike Shinto, it's quiet here, as if it were already the middle of the night.",
+      "sourceUnit": "セイバールート二日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder if Sakura's doing okay.\"\nShe seemed to be feeling okay, but I feel bad, thinking I made her push herself again because she went to my place to make dinner.",
+      "sourceUnit": "セイバールート二日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe I'll go check on her.\"\nGoing to her house may not accomplish anything, but I'd rather have the reassurance than do nothing at all.",
+      "sourceUnit": "セイバールート二日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "There's nothing different about the Matou house.\nThere's no sign of the strange foreigner Sakura was talking about earlier, and the lights are only on in Sakura and Shinji's rooms, as usual.",
+      "sourceUnit": "セイバールート二日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait.\"\nHold on a minute.\nWhy was the other light on last night, then?\nWas there someone other than Sakura and Shinji in the Matou house?",
+      "sourceUnit": "セイバールート二日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me. Do you have business here at this house?\"\n\"!?\"\nI whirl around.\nIn the darkness of night...\n...I see a person standing there, almost hidden among the chirping insects.",
+      "sourceUnit": "セイバールート二日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "He's an old man, and I don't recognize him.\nHe must be really old, but his sharp eyes and intimidating presence are out of all disproportion with that tiny old body.\nThe sheer amount of time he's lived seems to lend him a certain dignity, and I find myself petrified.",
+      "sourceUnit": "セイバールート二日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it, young man? Why don't you answer? If you refuse to reply, I'll just have to come to my own conclusions about your presence here. Hm, perhaps you are in fact the suspicious person Sakura mentioned.\"\nSakura?\n...Does that mean this man is...",
+      "sourceUnit": "セイバールート二日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"My, my. I can't just let you go, even if it's what my granddaughter might want. I know we've just met, but I may have to hurt you a bit.\nWell, I'll just ask: Would you be willing to turn yourself in to the authorities?\"",
+      "sourceUnit": "セイバールート二日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The strange old man seems pleasantly cheerful despite the dark subject matter.\nTh-there's no doubt about it.\nIt may be the first time I've ever seen him, but this man is Sakura's—",
+      "sourceUnit": "セイバールート二日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...no, you have it all wrong! I'm the same year as Shinji, and I'm a friend of Sakura's. M-my name is Shirou Emiya, and I just came by to see how they're doing on my way home!\"",
+      "sourceUnit": "セイバールート二日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I see. So you're Shinji and Sakura's friend. My mistake. Well, let me call them down. Perhaps you'd like to join them for dinner?\"",
+      "sourceUnit": "セイバールート二日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no, sir. I was just stopping by, so I'll be on my back home. By the way, sir, did Sakura come home safely?\"\n\"It's Zouken Matou.\"\nThe old man murmurs something I don't quite catch.\nHe sounds irritated.",
+      "sourceUnit": "セイバールート二日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n\"I am Zouken Matou. You've introduced yourself, so it would be improper for me not to do the same.\"\nZouken Matou turns toward the house once he finishes speaking.\nHe shows that he has no interest in me.\n\"...\"\nHe's so intimidating, I can't even manage to get a word out as I watch him go.",
+      "sourceUnit": "セイバールート二日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "But then...\n\"Sakura's home.\nBy the way, Shirou Emiya. How's the Einzbern girl doing?\"",
+      "sourceUnit": "セイバールート二日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Einz...what now?\"\n\"Oh, don't play dumb. Why wouldn't the Einzbern girl visit the Emiya residence? I'm asking how the Throne has turned out this time around.\"\nHuh???\nNow I really don't understand.\nSorry, Sakura.\nYour grandpa's a little crazy.",
+      "sourceUnit": "セイバールート二日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. It appears you really don't know.\"\nZouken sighs.\nFor some reason I feel bad for him, given how disappointed he looks.",
+      "sourceUnit": "セイバールート二日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, I don't really know the details, but I apologize.\"\n\"Ah, you needn't feel bad. It was my mistake. I must apologize for alarming you for nothing.\nCome now, you needn't worry if you'd like to see my grandchildren. An old man like me is retired and long since removed from making decisions about the house, so don't hesitate to come visit.\"",
+      "sourceUnit": "セイバールート二日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I really just came by. But, uh...do you really live in this house?\"\n\"Of course I do. But as you can see, I'm a decrepit old man. I spend my days in the depths of this house, exhausted.\"",
+      "sourceUnit": "セイバールート二日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIs that so?\nI've been inside the Matou house numerous times until last year, but I never got the sense anyone else was living in that house other than Shinji and Sakura.",
+      "sourceUnit": "セイバールート二日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Then if you will excuse me, Shirou Emiya. I beg you continue to be friends with my grandchildren.\"\nDespite his apparent age, he walks briskly away.\nThe Matou house appears unchanged.\nBut the sound of chirping bugs suddenly fades.",
+      "sourceUnit": "セイバールート二日目-14:page20:1"
+    },
+    "page21": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page22": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

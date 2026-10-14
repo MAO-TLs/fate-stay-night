@@ -1,0 +1,601 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0249",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Since it's noon already and we missed breakfast, we decide to have lunch for now.\nSaber can't turn into spirit form like Archer, since unlike the other Masters, I'm not providing her the magical energy that she needs.\nIt goes without saying that I'm an inexperienced Master.",
+      "sourceUnit": "凛ルート四日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "She says she can prevent the consumption of magical energy by getting sleep, but she can't replenish it no matter how much she limits herself.\nIn that case, the only way to replenish her energy is by eating food. Since I'm in charge of the meals, I can't cut corners.",
+      "sourceUnit": "凛ルート四日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Servants are materialized using magical energy, right?\nSo then... If your magical energy isn't restored, are you going to get weaker as you fight...?\"\nAfter putting away the dishes, I ask while I fold my apron.",
+      "sourceUnit": "凛ルート四日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"It does not mean that energy is never restored.\nMagical energy is produced within my body as long as I'm active. Even if Servants do not get support from without, they can replenish their magical energy using their own Magic Circuits.\"\n\"Oh. Then isn't there no problem?\"",
+      "sourceUnit": "凛ルート四日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, how do I explain this? Let's see... Let's use this faucet as an example.\nThere is water dripping from the faucet now, correct? Think of this as the amount of magical energy produced within my body. Consider the cup receiving the dripping water as myself.\nIn this state, little by little, I can accumulate magical energy.\"",
+      "sourceUnit": "凛ルート四日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Now. The more water the cup holds, the more water can come out of the faucet.\nAs long as the cup holds water, water will continue flowing from the faucet. But once the cup's water runs out—when I use up my magical energy—the faucet will completely shut off.\"",
+      "sourceUnit": "凛ルート四日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"At which point there will be no supply of magical energy, and the cup will forever stay empty.\nThat means termination for the Servant.\nEither they receive a fatal wound, or they run out of magical energy...though the latter rarely occurs.\"",
+      "sourceUnit": "凛ルート四日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...But it's fine as long as there's at least a drop left in the cup, right? If the cup has some magical energy—water—then the faucet is still on. So if time passes, the cup will fill with water.\"",
+      "sourceUnit": "凛ルート四日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. However, the water filling the cup is constantly consumed, even as we speak.\nAdditionally, it is lost at an ever-increasing pace during battle.\n...In fact, the more powerful the action, the more water it consumes. If I were to use a Noble Phantasm, I could empty the entire cup even if it were full.\"",
+      "sourceUnit": "凛ルート四日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...This is getting complicated.\nTo sum it up, since I am figuratively Saber's faucet, she can only restore magical energy at a slow pace since I am only providing the equivalent of a drip.\nSo to fill the cup with water, she has to vanquish her enemies swiftly, followed by resting and conserving energy as efficiently as possible.",
+      "sourceUnit": "凛ルート四日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh man. So using your Noble Phantasm is a luxury we can't afford, huh?\"\n\"That is correct. However, it does not mean that I cannot use it.\nIf I suppress its power, it should be possible to use it once.\"",
+      "sourceUnit": "凛ルート四日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you saying? I can't let you do that. You're not allowed to use your Noble Phantasm, okay? If you die doing that, there's no way I could ever make it up to you.\"\nSaber sets her tea down.",
+      "sourceUnit": "凛ルート四日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm.\"\nShe frowns and reaches for the tea.",
+      "sourceUnit": "凛ルート四日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nWe're thankfully interrupted by the phone ringing.",
+      "sourceUnit": "凛ルート四日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...A phone call at this time on a Sunday...\"\nI have a good idea of who it is, and I'm terrified of what'll happen if I were to ignore the call.",
+      "sourceUnit": "凛ルート四日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hello? This is Emiya.\"\n\"Hi, this is Fujimura!\"",
+      "sourceUnit": "凛ルート四日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI feel dizzy.\nShe's so overpowering.\nThe sound of her voice is enough to pull me back to the everyday reality from before all this nonsense that has happened overnight.",
+      "sourceUnit": "凛ルート四日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...What do you want? Just so you know, I'm busy, Fuji-nee.\"\n\"What, I'm busy, too. I gave up my day off to teach my students.\"\nIt's strange.\nIt's like she's right in front of me, puffing with pride.",
+      "sourceUnit": "凛ルート四日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Well, nobody here is being robbed or dying, so you can get back to chaperoning club activities with a clear conscience and all that.\"\nI try to cut the conversation short.",
+      "sourceUnit": "凛ルート四日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey, wait! Your big sister is swallowing her pride and calling you, so it would be terrible if you hung up without listening to what I have to say!\"\n...Yeah, and I've been neck-deep in it for the past night. Not that saying so would help any.\nThough I suppose if she's desperate enough to make a call, she really is in trouble?",
+      "sourceUnit": "凛ルート四日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. So, what's up?\"\n\"Shirou, I wanna eat lunch. How about those sweet rolled omelettes you make?\"\n\"...\"\n\"That'll be it for my order. I want it delivered to the kyudo club right away. Bye.\"\n...Honestly. What's up with that teacher?",
+      "sourceUnit": "凛ルート四日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man, they say that beasts go wild when they're hungry...\"\nI put my apron back on.\n...Well, there's leftovers from lunch anyway, and rolled omelettes are easy enough to add.",
+      "sourceUnit": "凛ルート四日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I'm done... Saber, can you watch the house for a bit?\nI'll be right back, so wait here, okay?\"\nI head out to the hallway, carrying Fuji-nee's lunch.\nSaber follows.",
+      "sourceUnit": "凛ルート四日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I put on my shoes.\nWhen I look up...\nSaber is also putting on her shoes, without saying a word.",
+      "sourceUnit": "凛ルート四日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber?\"\nMy voice is annoyingly timid.\n...I can already tell what she's going to say, but I have to ask.",
+      "sourceUnit": "凛ルート四日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, well...\"\n\"I shall accompany you if you are going outside. Servants protect their Masters. It is dangerous to let you walk outside alone.\"",
+      "sourceUnit": "凛ルート四日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...I knew it.\nWell, this is something we would've run into eventually.\nThis is a good opportunity, so I should tell her now.",
+      "sourceUnit": "凛ルート四日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Masters try to avoid drawing attention, right? Then, it's safe during the day. As long as I stay away from secluded areas, they won't attack me.\"",
+      "sourceUnit": "凛ルート四日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I understand. Yet, to be sure...\nSince you are still inexperienced, I need to be by your side at all times.\"",
+      "sourceUnit": "凛ルート四日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nAt all times... Does she mean that literally...!?",
+      "sourceUnit": "凛ルート四日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"T-t-t-t-t-t-that's stupid! We can't do that!\nFirst of all, what are you going to do when it's time to sleep!?\"",
+      "sourceUnit": "凛ルート四日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you testing me, Shirou? I must be the most alert while you are asleep. Of course I shall be standing by at your side.\"\n\"Wha—!\"",
+      "sourceUnit": "凛ルート四日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I quickly look away to hide my reddening cheeks and try to take a breath to calm myself down.\n\"...\"\n...Damn, how stupid of me.\nIt finally sinks in.\nThis is what it means to fight alongside Saber.",
+      "sourceUnit": "凛ルート四日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, what is wrong? I do not think it is that surprising. I am just going to do what Rin did last night.\"\n...!\nAre you kidding me, I'm gonna go crazy before we start fighting if you do that...!",
+      "sourceUnit": "凛ルート四日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I can't let that slide! I'll prepare a room for you, so use that!\"\n\"...\"\n...Ugh.\nI won't give in even if you look at me with those eyes.",
+      "sourceUnit": "凛ルート四日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, please put an end to this foolishness. I believe I have been patient, but cannot abide by it any further. As a Master, you continue to make unreasonable choices. I cannot obey unless you explain your reasoning.\"",
+      "sourceUnit": "凛ルート四日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks up at me, frustrated.\nHer stare makes me want to curl in on myself, but I do my best to fire back.",
+      "sourceUnit": "凛ルート四日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"T-there's no reason...! I'm telling you to just do as I say. It's fine during the day, so you should go ahead and rest!\"",
+      "sourceUnit": "凛ルート四日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...I refuse. If you do not give me a clear reason, I will not back down.\"",
+      "sourceUnit": "凛ルート四日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't get it, do you...! Since you're a girl, there's no way we can sleep in the same room...!\"\nSaber freezes.",
+      "sourceUnit": "凛ルート四日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Nnn... A-anyway, I'll prepare a room once I get back, so rest until then...!\"\nI make a break for the door.",
+      "sourceUnit": "凛ルート四日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh, am I a kid or what...!\"\nMy face must be red as a tomato. I slap it as I make my way out.",
+      "sourceUnit": "凛ルート四日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...Well, anyway...\nSaber should be convinced since I told her so firmly.\nThough I should probably apologize for yelling when I get back.",
+      "sourceUnit": "凛ルート四日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I go down the hill.\nIt takes me thirty minutes to get to the school. A fair distance normally, though I'm walking pretty fast today.\nThe reason being...\n...\nShe follows behind me silently.",
+      "sourceUnit": "凛ルート四日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIf I don't do anything, she'll follow me right onto the school grounds.\nI have to tell her clearly right now.",
+      "sourceUnit": "凛ルート四日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. I said to wait at home. You're going to disobey your Master?\"\nI stop and turn around.\nSaber glares at me, and after a moment of clearly mulling over what to say...",
+      "sourceUnit": "凛ルート四日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Who knows. If a Servant does not obey their Master, they must have not heard them.\"\nShe grumpily turns away from me.",
+      "sourceUnit": "凛ルート四日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I ignore her and descend the hill.\nBehind me, ever-present...\nSaber continues to pressure me without saying a word.",
+      "sourceUnit": "凛ルート四日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Go home already. Do I have to tell you directly for you to understand that it's annoying to have you following me?\"\nI glare at the girl that stays exactly five meters behind me.",
+      "sourceUnit": "凛ルート四日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know what her problem is, but I'm met with her silent defiance.\n...Geez.\nI don't get why she's so mad, and she's just being stubborn now.",
+      "sourceUnit": "凛ルート四日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. Fine, do what you want.\"\nThis time, I actually ignore her and start walking.",
+      "sourceUnit": "凛ルート四日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "I go up the hill that leads to the school.\nMiyama has a lot of hills, but this slope is especially long.\nFrom the school building that sits on top of the hill, you can get an unobstructed view of the whole town.",
+      "sourceUnit": "凛ルート四日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "It's a bit past 1 PM.\nFortunately, I don't see any students around on the way.\nIt must be because it's a Sunday and the ones having club practices are taking a break after eating lunch.\n\"...Well, I guess I'm in luck. But it won't be like that from here.\"\nWith a sigh, I surrender.",
+      "sourceUnit": "凛ルート四日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nI turn around.\nSaber is making her way up the hill, still glaring.\nI imagine that now that I've started to ignore her, she's even more grumpy.",
+      "sourceUnit": "凛ルート四日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber.\"\n\"Yes? You said I may do as I please.\"\n\"...Mmm. You only listen to what's convenient for you, huh?\"",
+      "sourceUnit": "凛ルート四日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. I am a Servant, so I cannot let my Master remain in danger while I am present.\"",
+      "sourceUnit": "凛ルート四日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh. Fine, I give up. I'm raising the white flag, so you can come along. You'll understand that it's a safe place once you see it for yourself.\nAlso, I'm sorry for yelling at you earlier.\"",
+      "sourceUnit": "凛ルート四日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\n\"Well, let's make up a story for you. You're a relative of my father, and you came here to visit and sightsee. Is that all right?\"\nI go up the hill alongside Saber.",
+      "sourceUnit": "凛ルート四日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Yes. If that is what is convenient for you, then I do not mind.\"\n\"All right, then it's decided... Yeah, you would've met them sooner or later, so it doesn't matter if I introduce you to them now.\"",
+      "sourceUnit": "凛ルート四日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nShe is bound to meet Fuji-nee and Sakura if she's staying at my place.",
+      "sourceUnit": "凛ルート四日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah. I forgot to ask you, but where did you get those clothes?\"\n\"Rin gave these to me. She said I would need regular clothes, since I cannot turn into spirit form.\"",
+      "sourceUnit": "凛ルート四日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat is unexpected.\nI'm surprised at Tohsaka's kindness, but I'm more surprised that she has such mature tastes.",
+      "sourceUnit": "凛ルート四日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"What about your armor then? Is it back at the house?\"\n\"No. That armor is made from my magical energy. When I cut off the supply, it disappears. When it's time for battle, I can immediately protect my body with it.\"",
+      "sourceUnit": "凛ルート四日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Oh, so you can make it appear and disappear at any time?\"\n\"Yes. So there is no need to worry. If an enemy were to attack us here, I will protect you.\"",
+      "sourceUnit": "凛ルート四日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Yeah, that's comforting.\"\nMaybe it's in reaction to keeping quiet until now that my honest opinion slips out.\nSaber does not answer to my slip of the tongue and continues up the hill.",
+      "sourceUnit": "凛ルート四日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "We arrive at school.\nI can only be open about this now. I can pretend that I'm showing a new transfer student around school.",
+      "sourceUnit": "凛ルート四日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. If someone stops you to ask you something, just shake your head without saying anything. It'll be best if you pretend you don't understand Japanese.\"",
+      "sourceUnit": "凛ルート四日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Saber? What's up with that grim look on your face? Don't scare me like that.\"",
+      "sourceUnit": "凛ルート四日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Oh, I was not looking at you, Shirou. I was just surprised at how strong the traces of magical energy are here.\"",
+      "sourceUnit": "凛ルート四日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Traces of magical energy? Are you sure?\"\nSaber says so, but I don't feel anything.\n...Well, not that I can sense magical energy unless it's really concentrated.",
+      "sourceUnit": "凛ルート四日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. But it is not something you should be surprised about. Rin is in the same grade as you, correct? This is a place where a mage as strong as her has been for over a year. I am sure she has a workshop, so energy will leak out even if she attempts to hide it.\"\nThe magical energy that Saber feels seems to be from Tohsaka.",
+      "sourceUnit": "凛ルート四日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. That's pretty careless of her if you can sense her magical energy before you even go inside... Wait, is she in there right now!?\"",
+      "sourceUnit": "凛ルート四日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it seems that Rin herself is not there. If she was, I would feel it even stronger. There are no humans resembling a mage on-site as of now.\n...Something here feels off, which bothers me, but there is no danger.\"",
+      "sourceUnit": "凛ルート四日目-03:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you that I'd be fine. Come on, we're going in so stay close.\"",
+      "sourceUnit": "凛ルート四日目-03:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Emiya. Are you in charge of lunch?\"\n...\nIt comes in handy sometimes to find someone who knows you well enough.\nAyako Mitsuzuri, the captain of the kyudo club, even figured out my reason for being here at a glance.",
+      "sourceUnit": "凛ルート四日目-03:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Yeah, I'm the delivery boy as you guessed. Is Fuji-nee inside?\"",
+      "sourceUnit": "凛ルート四日目-03:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"She is. Man, you saved us. Whenever Ms. Fujimura is hungry, she's crazy. The cafeteria is closed too, so we were considering going to get food from somewhere.\"",
+      "sourceUnit": "凛ルート四日目-03:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"It was that serious? Wait, were you thinking of going down to Toyoetsu by yourself?\"\n\"Where else is there to go? We're already short on money for equipment, so I can't spend too much on emergency food.\"",
+      "sourceUnit": "凛ルート四日目-03:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "As expected from Mitsuzuri, who's notorious for being stingy.\nBy the way, Toyoetsu is the name of the supermarket in the shopping district.\nIn the kyudo club, anyone who is taking a break and resting their arm muscles is sent on a grocery run as exercise.\n...It's a contradictory custom where it's an excuse to rest your arm, but you have to carry a lot of groceries on the way back.",
+      "sourceUnit": "凛ルート四日目-03:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...That sucks. Here's her lunch. It got late, but give it to Fuji-nee, will you?\"\nI hold out the paper bag.",
+      "sourceUnit": "凛ルート四日目-03:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, that's a fancy three-layered set. Nice, I haven't seen that in a while. You sure are good at this sort of thing.\"\nI don't know what she's happy about, but she smiles.",
+      "sourceUnit": "凛ルート四日目-03:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "...Well, in comparison, she's good at mass production.\nMitsuzuri is usually the one who's in charge of dinner at our training camps, and she surprises everyone every time.\nThe world of cooking is vast, considering how her curry was good despite having basically whole potatoes in it.",
+      "sourceUnit": "凛ルート四日目-03:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "...Well, anyway...\nMitsuzuri only looks inside the bag but doesn't take it.",
+      "sourceUnit": "凛ルート四日目-03:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. No need to tease, just take the bag. Isn't it chaotic in there with Fuji-nee going wild?\"",
+      "sourceUnit": "凛ルート四日目-03:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. If you think so, you should go in already and hand it to her.\nFirst of all, you should know she'll obviously get mad if I say I turned you away here. I don't want to be chewed out. Accept your fate and go in.\"\nShe points to the dojo with her chin.",
+      "sourceUnit": "凛ルート四日目-03:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTrue enough, it would be scary later on if I don't at least go to see her.\nIt's not like I came here for practice, so I can just leave as soon as I hand her the lunch.",
+      "sourceUnit": "凛ルート四日目-03:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "I give up and head to the archery range.\n\"But hey, Mitsuzuri. You've been here long enough now, so you should at least check if Fuji-nee has her lunch in the morning. It's too creepy imagining a teacher looking around at her students' lunches.\"",
+      "sourceUnit": "凛ルート四日目-03:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I was tired this morning. I've been busy, so I don't have much time to spare. Well, I guess there's no use complaining to you...\"",
+      "sourceUnit": "凛ルート四日目-03:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "Then, she suddenly comes close and whispers in my ear.\n\"...So, Emiya. Who's that? She's so beautiful. Do you know her?\"\nShe asks me in a nervous voice.",
+      "sourceUnit": "凛ルート四日目-03:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "...\nYeah... I'm sure anyone would be surprised seeing Saber.\nEspecially since she's trying to follow me inside the archery range without saying anything.",
+      "sourceUnit": "凛ルート四日目-03:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"So? Is that an acquaintance of yours?\"\n\"It's complicated to explain, but it would be helpful if you could say that she is. Also, if you can explain to everyone so that they won't make a fuss about her when we go in, I'll be forever in your debt.\"",
+      "sourceUnit": "凛ルート四日目-03:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. I'm curious what the situation is, but I like the bargain. Don't take it back later, okay, Emiya?\"\nI open the door.\nSaber silently follows behind Mitsuzuri and me.",
+      "sourceUnit": "凛ルート四日目-03:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "We enter the dojo.\n...The archery range after lunch break is noisy like a battlefield.",
+      "sourceUnit": "凛ルート四日目-03:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura...! Misaki is saying her stomach hurts so much she's about to die...! How old were those crackers!?\"\n\"That's just a stomach ache! I also ate that and I'm fine, so just give her some tea!\"",
+      "sourceUnit": "凛ルート四日目-03:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Taiga! I'm going to practice with the target, so please let me move the stove! It's cold in the corner of the dojo.\"\n\"Okay, since you've got some nerve using that name, go run three laps around the range in shorts. We're gonna whip you into shape.\"",
+      "sourceUnit": "凛ルート四日目-03:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura! We have someone bleeding over here! Kitako cut her cheek with the bowstring!\"\n\"Hmm, you don't have to go to the nurse's office for a wound like this.\nJust rub some aloe on. It's planted on the hill in the back.\"",
+      "sourceUnit": "凛ルート四日目-03:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Ouch. Geez, why is this bow bent backwards? I can't string it like this.\"\n\"Hey! Don't string it pushing from the top. You're still young, so get someone to help you if it's hard. If it flips and comes apart, your neck will be broken.\nThat is, I'll break your neck if you damage our bows.\"",
+      "sourceUnit": "凛ルート四日目-03:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura! There's no powder! M-my hand's slipping!\"\n\"Oh, really? Can someone go to the storage room and bring the stock?\"",
+      "sourceUnit": "凛ルート四日目-03:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Sensei, we're out of stock! I think it's because you forgot to order more the other day!\"\n\"Oh... Then, the first years are to go to the baseball club and steal some rosin bags!\"\n\"God, she's nuts...!\"",
+      "sourceUnit": "凛ルート四日目-03:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMan.\nThis place doesn't change at all.",
+      "sourceUnit": "凛ルート四日目-03:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well.\"\nI can't stick around this pandemonium forever.",
+      "sourceUnit": "凛ルート四日目-03:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, great timing. Hey, Sakura...\"\nI call out to the girl in front of the bow rack.\n\"Huh, Senpai...!?\"\nSakura returns the bow she is holding and runs to me, bewildered.",
+      "sourceUnit": "凛ルート四日目-03:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai! W-why did you come here today? Um, could it be, um...\"\n\"Yeah, I brought lunch for Fuji-nee.\nI'm sorry, but can you take this to that manic teacher over there?\"",
+      "sourceUnit": "凛ルート四日目-03:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Yes, right. Come to think of it, she was making a call.\"\n\"Hm?\"\nI'm not sure where her smile goes, but it vanishes at the same time she slumps her shoulders.",
+      "sourceUnit": "凛ルート四日目-03:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that'd be the one. When she gets hungry, Fuji-nee becomes a dictator, huh? It might be too late now, but she can have what I made.\nAlso, sorry I came home late last night. Thanks for making dinner.\"",
+      "sourceUnit": "凛ルート四日目-03:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. Thank you for saying so, but...\"\nShe looks behind me.\nThere stands a golden-haired girl that is out of place in the archery range.",
+      "sourceUnit": "凛ルート四日目-03:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Senpai?\"\n\"Hm? What, am I actually too late? I made yours just in case too...\"\n\"No, that's not true. I-I'm hungry too...! ...Um, I gave half of my lunch to Ms. Fujimura.\"",
+      "sourceUnit": "凛ルート四日目-03:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that's what I thought. I made yours so that you can eat it right away, so it shouldn't take that much time.\n...Well, if that's the case for everyone, I don't think anyone would complain about resuming lunch.\"",
+      "sourceUnit": "凛ルート四日目-03:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you're right! Um, then thank you for the meal... Senpai, will you be at the dojo all day today?\"",
+      "sourceUnit": "凛ルート四日目-03:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"I think so. Since I'm here, I might as well stay until practice is over. I skipped yesterday, so I'll make dinner today. And you should come and eat with us.\"",
+      "sourceUnit": "凛ルート四日目-03:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes, I'd love to. I'll go get Ms. Fujimura. Senpai, please don't just drop off lunch and go somewhere, okay?\"",
+      "sourceUnit": "凛ルート四日目-03:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "Sakura goes to get Fuji-nee in a hurry.\nWhen I look back, I see the members buzzing in conversation over Saber, and Mitsuzuri going around explaining things.",
+      "sourceUnit": "凛ルート四日目-03:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "Well...\nFor now, I think I've accomplished my initial goal.",
+      "sourceUnit": "凛ルート四日目-03:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'm so full. The sugar's flowing to my brain, so I'm finally back to my regular self.\"",
+      "sourceUnit": "凛ルート四日目-03:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "The break room.\nFuji-nee sips tea while she eats some sweet bean jelly.\nIt must be because Fuji-nee is calm now, but the sound of bowstring twangs and arrows cutting through the air is all that echoes through the dojo.",
+      "sourceUnit": "凛ルート四日目-03:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura. I'll be taking my turn at the range, if you'll excuse me.\"\n\"Right-o! Oh, can you tell Mitsuzuri to come here? I need to talk to her.\"",
+      "sourceUnit": "凛ルート四日目-03:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Senpai, please make yourself comfortable. If you can, I would appreciate it if you coached me.\"\nSakura bows and leaves.\nBut, as she does so...\nShe stares uneasily at Saber, who is silently watching by the wall.",
+      "sourceUnit": "凛ルート四日目-03:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"So? What are you gonna do after this, Shirou? I'll finish practice by five, but do you want to stay and watch?\"",
+      "sourceUnit": "凛ルート四日目-03:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm...\"\nWhat should I do?\nJust from what I see, Saber seems to be gazing at the archery range with interest herself, so I should...",
+      "sourceUnit": "凛ルート四日目-03:page118:1"
+    }
+  }
+}

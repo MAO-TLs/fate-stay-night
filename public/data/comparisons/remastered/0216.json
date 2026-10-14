@@ -1,0 +1,526 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0216",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "For the final time...\nI see that red hill once again.",
+      "sourceUnit": "セイバールート十四日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The red memory.\nI dive deeper into her memory, and I realize I'm seeing it for the last time.",
+      "sourceUnit": "セイバールート十四日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "It's a memory of a certain knight that I have seen many times already.\nAfter becoming king and killing her will so that she could devote herself to the will of her nation, her days were now marked by the resentment of her trusted knights.",
+      "sourceUnit": "セイバールート十四日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Every time she won a battle, Altria was made to fight more battles she didn't want.\nShe continued to hide her sex, which heaped more suspicion onto her. All that awaited the isolated girl was rebellion at the hands of her own family.",
+      "sourceUnit": "セイバールート十四日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "A young knight took over the nation while the king was away on an expedition.\nThe knight's name was Mordred.\nThe knight, son of Altria's older sister, Morgan, was in fact the King of Knights' own son.",
+      "sourceUnit": "セイバールート十四日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Altria was never able to have a child as a woman.\nBut Mordred had her blood coursing through his veins.\nI'm not clear what happened to make this possible...but Altria's older sister, Morgan, loathed her for becoming king.",
+      "sourceUnit": "セイバールート十四日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Mordred was created as a clone, and served the king without knowing who his father was. Mordred sought an opportunity to take the throne for himself, ultimately going so far as to organize a revolt.",
+      "sourceUnit": "セイバールート十四日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "That revolt would end in what later became known as the Battle of Camlann.\nThe final battle, and the end of King Arthur.",
+      "sourceUnit": "セイバールート十四日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "King Arthur learned of Mordred's betrayal during her expedition and returned with her weary army to invade her own lands.\nShe defeated many of the knights who used to serve her.\nShe attacked the lands she once defended.\nThose few knights who remained loyal to her, died. The only two left standing in the end were the king and her son, Mordred.",
+      "sourceUnit": "セイバールート十四日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The combat between the two of them ended in the king's victory.\nBut the king was not unharmed.\nMordred was bound by a powerful curse, and swung his sword even after dying, inflicting a fatal wound on the king.\nAnd so that battle ended.\nIt was the end of her, the king once known as the King of Knights.",
+      "sourceUnit": "セイバールート十四日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It must have been heart-wrenching.\nNone of the battles she fought were painless.\nEvery one of the twelve battles she fought was intense, but this final one was her greatest loss.",
+      "sourceUnit": "セイバールート十四日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "She returned to her homeland, only to have to destroy her own army...\nShe was forced to punish the knights who once served her, and had to watch those knights who remained loyal to her die.\nAnd in the end, she had to kill her own son.",
+      "sourceUnit": "セイバールート十四日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I have no idea what was going through her head in that moment.\nBut I had to pray.\nI had to pray for the lone knight who tried to remain king until the very end.\nI pray that this dream of her just before her death is the kind of dream a girl named Altria would want to see.",
+      "sourceUnit": "セイバールート十四日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh.\"\nI open my eyes.\nI don't know when I got back, but I'm in my room, lying on my futon.",
+      "sourceUnit": "セイバールート十四日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, Shirou. You are awake.\"\n\"Saber. How did I...?\"\n\"You have been sleeping for some time. You are mostly healed now, so there is no cause for concern.\"",
+      "sourceUnit": "セイバールート十四日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I guess that's good.\"\nBut what about Saber?\nShe used Excalibur. She must be running low on magical energy, since she probably healed herself too.",
+      "sourceUnit": "セイバールート十四日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, were you taking care of me the whole time?\"\n\"All I did was to wipe the sweat from your brow. I cannot treat wounds like Rin.\"",
+      "sourceUnit": "セイバールート十四日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"You dummy. You didn't have to do that.\nYou're probably suffering too.\"",
+      "sourceUnit": "セイバールート十四日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not true. My wounds were insignificant compared to yours.\nHowever, on that subject... Though your wounds have healed, they were severe enough that you might have died. You must be mindful of your body and its limits right now.\"",
+      "sourceUnit": "セイバールート十四日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Saber reaches for a basin of water that sits beside her.\nShe draws a towel out of it and wrings it before wiping me off with the cool water.\n\"...Ah...\"\nHonestly, what she does mostly just embarrasses me.",
+      "sourceUnit": "セイバールート十四日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Does your wound still hurt? You fever does not seem to have gone down...\"",
+      "sourceUnit": "セイバールート十四日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I...I don't have a fever! Um...that's not what I mean. I want you to rest too.\nYou might be fine right now, but you still used Excalibur. You should be resting, or you might collapse again like last time.\"",
+      "sourceUnit": "セイバールート十四日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...well, that may be true...\"",
+      "sourceUnit": "セイバールート十四日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"But I am better off than you are right now. It is only proper that I should protect my Master until his wounds are healed.\"\n\"Uh...well, I guess that makes sense...\"",
+      "sourceUnit": "セイバールート十四日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "She's got me there.\nWhen she says it like that, I can't really do anything but agree.",
+      "sourceUnit": "セイバールート十四日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I'm going to rest, so I want you to rest too, Saber. I won't be able to sleep, knowing you aren't resting.\n\"That...is true. And I do require sleep.\"",
+      "sourceUnit": "セイバールート十四日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Saber nods in agreement, then wrings the towel and hangs it over the edge of the basin.\nI do my best to swallow my embarrassment as I watch Saber tend to me.",
+      "sourceUnit": "セイバールート十四日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I will go rest.\nPlease take care, Shirou.\"\n\"Uh...okay.\"\n\"Good night.\nI forgot to say so earlier, but thank you, Shirou.\"\nI am very glad you are okay.\"",
+      "sourceUnit": "セイバールート十四日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "There, under the moonlight, I see Saber smile.\nHer smile seems...fragile. Maybe because of the pale moonlight.\nBefore I get a good look, the door closes.",
+      "sourceUnit": "セイバールート十四日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hah.\"\nWhen Saber disappears into her room, I'm stricken by a sudden sense of relief...or maybe loneliness.\nI regret not telling her to stay here and just take my futon while I use my arm as a pillow, but that would be too much for her.\nBesides, if we did that, it'd remind me of that night.",
+      "sourceUnit": "セイバールート十四日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I shake off the image that works its way into my mind.\nToo many things have happened today. It feels like an entire week has gone by just today.\nMy date with Saber was more challenging than fun, then we got in an argument and I left, abandoning Saber.\nAnd then...",
+      "sourceUnit": "セイバールート十四日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\n...No. I shouldn't think of that until I've completely recovered.\nNot only do we have to deal with Gilgamesh, but we also need to defeat Lancer and whoever his Master is.\nWe need to rest, recover, and regroup so we can be at our best, or else we don't have a chance at winning.",
+      "sourceUnit": "セイバールート十四日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis only happened a few hours ago.\nI think Saber said something about me being her sheath.\nAt the time, I couldn't ask what she meant. I was a wreck and near to passing out.",
+      "sourceUnit": "セイバールート十四日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh...oh come on!\"\nI can't fall asleep.\nAnd Saber's dream... Her face, resolute even on the brink of death, overlaps with the sight of Saber tending to me.\nThen I hear her voice saying, \"Good night.\"\nThe image of her frail profile, of her smile is burned into my mind.",
+      "sourceUnit": "セイバールート十四日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt's not a smile I saw in any of my dreams of her life.\nShe says it makes her happier when she sees me smile.\nThat just drives me nuts.\nI'm not sad. Just...exasperated.\nI don't know why it annoys me so much I actually find myself getting angry.",
+      "sourceUnit": "セイバールート十四日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I punch my futon.\nThe desire to lash out in the face of this frustration just completely overwhelms me.\n\"Shirou? Is something the matter?\"\nA concerned voice drifts in from the other side of the closed door.\nMy breathing is heavy, so she must think I'm having trouble sleeping.",
+      "sourceUnit": "セイバールート十四日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's okay. But why are you still awake?\"\n\"Are...you truly all right? If you are still in pain, I can remain by your side.\"",
+      "sourceUnit": "セイバールート十四日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Maybe I should go over—no, that's even worse.\nAll the pent-up feelings I've been barely holding back will come rushing to the forefront if I see Saber now.",
+      "sourceUnit": "セイバールート十四日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...can I talk to you for a bit?\"\n\"Hm? Yes, if you do not mind talking like this...\"\nWe start talking through the sliding door.\nSince I can't actually see her, I think back on that smile, the last expression I saw on her face.",
+      "sourceUnit": "セイバールート十四日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "She looked so happy.\nAnd when I think of it, I find myself getting more frustrated, rather than less.\nI don't know why I'm getting so...warm.\nBut I still need to talk to Saber.\nI have to tell her that even if I don't have the right answer, she's still wrong.",
+      "sourceUnit": "セイバールート十四日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "My voice trembles. My tongue feels heavy in my mouth.\nOnce I say it, I won't be able to take it back.\nI'm fully aware of that.\n\"It's okay. Just...things are fine, so you need to smile for yourself.\"\nSome unknown force forces the words from me.",
+      "sourceUnit": "セイバールート十四日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Shi...rou? What do you... Why?\"\nThere shouldn't even be a question.\nI'll just keep repeating myself until you realize it.",
+      "sourceUnit": "セイバールート十四日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. You've done enough. You worked hard enough. You fought so hard, all on your own.\nThat's why...it wouldn't be right unless you found happiness.\nYou fulfilled your vow. That gives you the right to go back to being Altria.\"",
+      "sourceUnit": "セイバールート十四日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You still want to talk about this?\"\n\"Yeah. I'm going to keep saying it! I can't help it! I fell for you! So, you should go back to being you...no, Altria...!\"",
+      "sourceUnit": "セイバールート十四日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "I suppress the sudden surge of emotion.\nI'm on the verge of breaking down.\nIf only Saber would just say something, even a single word...\n\"...Shirou. Please, do not...\nIf you say that, I...\"\nHer answer is unchanged.\nMy heart aches from her determination.",
+      "sourceUnit": "セイバールート十四日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"You have come into me both physically and spiritually, despite knowing my past. You should know very well what answer I would have to give...\nSo why do you still concern yourself with me?\nYou must have seen all the sins I have committed.\"",
+      "sourceUnit": "セイバールート十四日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, I have.\nMany people were sacrificed in the name of the king. Many enemies killed.\nI have no intention of pretending that didn't happen.\nStill, knowing this, I want Altria to be happy.",
+      "sourceUnit": "セイバールート十四日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. So? I don't understand this feeling, but I can't just let you stay like this.\nI want you to smile, Saber. I want to be with you forever.\"",
+      "sourceUnit": "セイバールート十四日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "It's such a childish confession of love.\nI wait for her answer as the silence stretches out between us.\nWhat Saber might be doing, or how she might be reacting behind that closed door, I have no idea.\nAre my words even getting through to her?",
+      "sourceUnit": "セイバールート十四日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...My answer will never change.\nI cannot break the vow I made as king. I may not have been fit to rule, but my nation was still entrusted to me.\nAnd since I failed in my duties...I cannot...I cannot accept this freedom.\"",
+      "sourceUnit": "セイバールート十四日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Her voice is so sad, I can't stand it any longer.\nI don't want to hear the solitary oath Altria took when she became king.\nI already know it.\nAll this frustration wasn't just so I could hear her lamentations.",
+      "sourceUnit": "セイバールート十四日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "I kick at the futon covers.\nThe only thing between me and Saber is the sliding door leading to her room.",
+      "sourceUnit": "セイバールート十四日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...\"\nThe door slides softly as I open it.",
+      "sourceUnit": "セイバールート十四日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy mind goes blank.\nWhat was I so angry about? Why was I so sad?",
+      "sourceUnit": "セイバールート十四日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Before me, I see trembling eyes, on the verge of tears.\nI see a slender neck, and shoulders so thin, they seem in danger of snapping in a breeze.\nAnd I see her golden hair, splashed with moonlight, just like when we first met.",
+      "sourceUnit": "セイバールート十四日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nWithout even thinking, I'm embracing her.\nI hold her so tight I might break her.",
+      "sourceUnit": "セイバールート十四日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "It's different from that night.\nI didn't feel like this back then.\nThis may sound ridiculous.\nEven though I was aspiring to be a champion of justice...\nI never fell in love. There was never someone I couldn't let go of.",
+      "sourceUnit": "セイバールート十四日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...\"\nIt's...like she might disappear if I don't hold her tightly enough.\nI'm not sure how long I hold her, but I relax my embrace after reminding myself that no, she won't disappear.",
+      "sourceUnit": "セイバールート十四日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...what is this, all of sudden? What is the meaning of this? Even if you do that, I will not...\"",
+      "sourceUnit": "セイバールート十四日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "She moves slightly in my arms.\nHer lips tremble. She's about to say something I don't want to hear...\n\"...Ah...\"\nSo I place my lips over hers to silence her.",
+      "sourceUnit": "セイバールート十四日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "She trembles in my arms.\nI'm looking at Saber, but I'm not seeing anything.\nBut my sense of touch has grown so much more sensitive now. I can feel the softness of Saber's lips.",
+      "sourceUnit": "セイバールート十四日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Our lips part.\nSaber places a hand on my chest and pushes me away gently.",
+      "sourceUnit": "セイバールート十四日目-11:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou. That kiss...\"\nShe wants to say it was a mistake.\nSaber looks at me, on the verge of tears.",
+      "sourceUnit": "セイバールート十四日目-11:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"It wasn't a mistake. I'll say it as many times as I can. I love you, and I can't let you go.\nIf you don't want that, tell me.\nTell me that our relationship is just Master and Servant. If that's what you really want, then say so directly. Reject me.\"\n\"That is unfair. How can you ask me to do that?\"",
+      "sourceUnit": "セイバールート十四日目-11:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. If you don't tell me directly, I'm not going to hold back.\nIf you don't reject me, I'll just do what I want.\"\nEven if it could only make her forget her vow to be king for a moment.",
+      "sourceUnit": "セイバールート十四日目-11:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nNeither of us says anything for what feels like a long time.\nI keep holding Saber, feeling her soft, slender body...\nShe's still tense, unsure of herself.\nAll I can hear is our breathing and our hearts beating.",
+      "sourceUnit": "セイバールート十四日目-11:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "How many times did our hearts beat against each other?\nShe pushes a little harder on my chest.",
+      "sourceUnit": "セイバールート十四日目-11:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot reciprocate your feelings. As you cannot change, so there are things I cannot change about myself.\nIf anything... If it is allowed...it would be...\"",
+      "sourceUnit": "セイバールート十四日目-11:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "The pause makes my heart ache.\nShe bites her lip, trembling, as if confessing that what we did that night was not permitted.",
+      "sourceUnit": "セイバールート十四日目-11:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n...her body offers no resistance, and the hesitation in her eyes tells me something.\nJust one night...\nShe's telling me of a hope she feels cannot be fulfilled... She wants to stay like this until the night ends.",
+      "sourceUnit": "セイバールート十四日目-11:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, I...\"\nI lift my hand, trying to embrace her.\nSaber takes hold of it.\n\"I...since I used my Noble Phantasm...if I do not receive energy from you...I cannot continue fighting.\"\nHer hushed voice, asking for permission, falls silent.",
+      "sourceUnit": "セイバールート十四日目-11:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "...\nI have no words.\nThat line of reasoning is so, so transparent, but it's the best she could do to ask for her wish to come true.",
+      "sourceUnit": "セイバールート十四日目-11:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...right. But do you know if the connection's still working properly?\"\n\"Yes. You are supplying me with energy as we speak.\nWhich is why, to more fully recover, we should...\"",
+      "sourceUnit": "セイバールート十四日目-11:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Our bodies have to be close.\nIt's all we can do.\nThis is as close as we can be...because she is still bound by her oath. I can't break that oath.",
+      "sourceUnit": "セイバールート十四日目-11:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "Saber moves in my arms.\nI don't know what to do with the heat of her pressed against me.\nHolding Saber's slender body in my arms makes my heart beat faster.\nAnd I'm ashamed of myself for getting...agitated.\nSaber's cheeks practically glow red. She looks so embarrassed.",
+      "sourceUnit": "セイバールート十四日目-11:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"And so Shirou...if I may ask...\nPlease allow me to sleep with you tonight. When the sword and sheath are together, it is easier for them to restore their strength. And if we bring our bodies and souls close together like we did during that ritual...\"",
+      "sourceUnit": "セイバールート十四日目-11:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod silently.\nI'm much happier than I am embarrassed.\nI get to spend the night with Saber in my arms. Our bodies may not touch more than they are now, but we can be more intimate in our hearts.",
+      "sourceUnit": "セイバールート十四日目-11:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"I am glad. Then, Shirou...\nI will prepare myself for tonight, so please return to your room.\"",
+      "sourceUnit": "セイバールート十四日目-11:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "Saber stands up.\nI can't bear to let her go, but we can't stay like this forever, so I head back through the sliding door to my room.",
+      "sourceUnit": "セイバールート十四日目-11:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I turn back to look at Saber before I slide the door shut.\nIt feels like I'm doing something wrong though, so I close the door quickly.",
+      "sourceUnit": "セイバールート十四日目-11:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know why but I find myself sitting on top of my futon.\nMy mind won't slow down. It's practically doing somersaults just at the thought of sleeping with Saber. This is for her. To help her. To grant one small wish of hers.\nIf I keep on granting these small wishes for her, it'll add up, and maybe Saber will learn to smile.\nBut the war is nearing its end. I don't know how much time we have left to keep doing this.",
+      "sourceUnit": "セイバールート十四日目-11:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me, Shirou.\"\nThe sliding door opens.\nI shake away the depressing thoughts circling my head and look to Saber.\nI turn and look up at her. She's...",
+      "sourceUnit": "セイバールート十四日目-11:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "...\nI quietly gulp.",
+      "sourceUnit": "セイバールート十四日目-11:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "She is a figure of pure white in the darkness.\nSeeing her, all that restless worry I felt melts away.\nShe's just too beautiful.\nMy heart is unclouded now.",
+      "sourceUnit": "セイバールート十四日目-11:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you think it is strange for me to be in this?\"\n\"Uh...n-no, absolutely not. It's just that you're so beautiful, I don't know what to do...",
+      "sourceUnit": "セイバールート十四日目-11:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "I mutter something unintelligible...about how difficult it makes things when a girl's too pretty.\nEven if I explain it to Saber, she wouldn't understand, but my mind's practically shorted out.",
+      "sourceUnit": "セイバールート十四日目-11:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"May I go over there, Shirou?\"\n\"Oh...uh...sure.\"\nFor the first time, I realize she has beautiful, perfect toes.\nWhile Saber walks across the tatami mat floor to get close, I get off the futon and pull the blanket back for her.",
+      "sourceUnit": "セイバールート十四日目-11:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "I realize I'm one pillow short for the two of us to sleep together, but it's too late.\nSaber and I sit side by side next to the futon.",
+      "sourceUnit": "セイバールート十四日目-11:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "One room, one futon, but Saber's with me.\nI shouldn't be having any impure thoughts, but my face feels like it's on fire; I can't even look at Saber.",
+      "sourceUnit": "セイバールート十四日目-11:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Please go ahead, Shirou.\"\n\"No, you go ahead, Saber.\"",
+      "sourceUnit": "セイバールート十四日目-11:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "Well...we're not going to get anywhere like this.\nSo, I hurry into the futon and make room for Saber.\nI thought I would give her the pillow, but she gently pushes is back to me.",
+      "sourceUnit": "セイバールート十四日目-11:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"You should take this, Shirou.\nI would like to, um...use your arm as my pillow.\"\nHer words, barely a whisper, make my heart skip a beat.\nSaber is surprisingly calm as she nestles into my arms.\nIt's like she's settled in herself more than I am holding her.",
+      "sourceUnit": "セイバールート十四日目-11:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "A blade and its sheath.\nI remember Saber's words.\nSaber is about to drift off, pillowed on my arm, like a sword in its sheath.\nHer warm, soft scent so close in calms rather than excites me.",
+      "sourceUnit": "セイバールート十四日目-11:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber's hand reaches for my hand.\nI take it inside the blanket, and I entwine my fingers with hers.\nAnd we drift off to sleep in silence.\nBut before that...",
+      "sourceUnit": "セイバールート十四日目-11:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber.\"\nI call out to her as she lays beside me.\nI want to ask her at the end.\nI want to hear again why I desire her so much.",
+      "sourceUnit": "セイバールート十四日目-11:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you feel it, Shirou? My magical energy should be fully replenished by tomorrow morning if we continue as we are. By tomorrow, I will be able to fight as your Servant.\"\n\"Saber.\"",
+      "sourceUnit": "セイバールート十四日目-11:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"This is all I need, Shirou.\nMy role is to protect you and to obtain the Holy Grail. Until the war is over, I cannot think of anything else.\"\n\"That...\"\n\"Do you not agree, Shirou?\"",
+      "sourceUnit": "セイバールート十四日目-11:page96:1"
+    },
+    "page97": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nWhile the two of us lie quiet, we look out into the tranquil darkness.\nI don't know how much time passes.\nMy eyelids grow heavy. My body cries out for rest.\nBut our entwined fingers stay warm.",
+      "sourceUnit": "セイバールート十四日目-11:page99:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...?\"\n\"Yes. Let us do the thinking tomorrow, Shirou.\nWe may come up with a good idea tomorrow. And...\"\nShe just wants to sleep together like this.\nShe holds my hand gently as she says so.",
+      "sourceUnit": "セイバールート十四日目-11:page100:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I was thinking the same thing.\"\n\"Yes. Good night, Shirou. When we wake, matters will return to normal.\"\nI lean my face close to hers and close my eyes.",
+      "sourceUnit": "セイバールート十四日目-11:page101:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "The last thing I see is Saber smiling warmly.\nI don't care if that moment of vulnerability was only for tonight.\nThe hand holding mine right now is so, so warm.\nIt's more than enough for me, and I fall into a satisfied sleep.",
+      "sourceUnit": "セイバールート十四日目-11:page102:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "...The end of battle.\nOnce everything is over, I'm not sure I can keep holding this hand. And then silence settles in.",
+      "sourceUnit": "セイバールート十四日目-11:page103:1"
+    },
+    "page103": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

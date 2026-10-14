@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0501",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't do anything about the fact that I forgot. I'll ask her to let it slide.",
+      "sourceUnit": "桜ルート七日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, sorry. I ran into someone unexpected today, so I forgot. I'll be careful next time, so would you let this slide?\"\nI bow in apology.",
+      "sourceUnit": "桜ルート七日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, really? You're going to gloss over this with a few words. I thought you were different from Kiritsugu, but you're really just the same.\"\n\"Huh? Illya?\"",
+      "sourceUnit": "桜ルート七日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. It's more fun for me that way. I'll turn you into my plaything, just like I planned.\"\n\"...!?\"\nI feel a terrible chill.\nIllya's eyes give off the same animosity they had the night we first met.",
+      "sourceUnit": "桜ルート七日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye then, big brother. I'll let you off for today, but you'd better be careful the next time we meet.\"\nShe runs away without a second thought.\n\"Wai—Illya!\"",
+      "sourceUnit": "桜ルート七日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I try to folllow her, but I lose sight of her before I can catch up.",
+      "sourceUnit": "桜ルート七日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...I wonder if I made her mad.\"\nThat was a failure.\nI should've apologized to Illya, no doubt about it.",
+      "sourceUnit": "桜ルート七日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"(Sigh) I'd better think of something before I see her again.\"\nI don't want things to break down between us.\nI'll think of a way to cheer her up, and make it up to her for breaking my promise.",
+      "sourceUnit": "桜ルート七日目-09:page7:1"
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

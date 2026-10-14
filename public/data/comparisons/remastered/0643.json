@@ -1,0 +1,336 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0643",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Neither Tohsaka nor Illya are in the living room when I return.\n\"...Maybe they went back to their room.\"",
+      "sourceUnit": "桜ルート十三日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Could be.\nThey're working on trying to replicate some \"jeweled sword.\"\nMy role in the process starts once they create a replica approximating the original.\nUntil then, my responsibility is to draw out as much of Archer's magecraft experience as possible from his arm.",
+      "sourceUnit": "桜ルート十三日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"My body is made of swords (I am the bone of my sword), huh?\"\nThat's his original incantation that backflowed into me, along with the pain.\nIt oddly rolls off the tongue, and once it embedded itself in me, the success rate of my Projections dramatically increased.\nI can complete roughly half of my Projections now.\nI'm copying Archer in order to make copies of a real weapon.",
+      "sourceUnit": "桜ルート十三日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...But all I can make are fakes.\"\nHis Projections are meant to be reproductions that are treated the same as their originals.\nThe only thing that Shirou Emiya can make is a degraded delusion.\nIf I want to turn that into an illusion, I have no choice but to borrow this arm's power.",
+      "sourceUnit": "桜ルート十三日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nSelf-destruction.\nUsing this arm, even once, will do more than simply poison myself.\nIt'll light the fuse on a bomb.\nOnce I do that, my end is assured.",
+      "sourceUnit": "桜ルート十三日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I imagine a firing trigger.\nA handgun is inside my brain.\nThe muzzle points from my brain to the outside, but the trigger is contained within.\nThe ticking time bomb that Kotomine mentioned must be this mental image of a gun.",
+      "sourceUnit": "桜ルート十三日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then, if I can take the gun out of my head, I won't light the fuse even if I use it.\"\nNo, I need to get the fuse itself out of my head, too.",
+      "sourceUnit": "桜ルート十三日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's the best solution.\nOf course, I have no idea how I'm supposed to do that.",
+      "sourceUnit": "桜ルート十三日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Right, the news.\"\nI turn on the TV.\nI watch the news with a heavy body, feeling a need to know the outcome of last night's incident.",
+      "sourceUnit": "桜ルート十三日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "It's easy enough to find the right channel.\nEvery single network is talking about it.",
+      "sourceUnit": "桜ルート十三日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Disappearances with no clear cause.\nResidents missing from forty homes.\nNot a single person lucky enough to escape that plight was even aware that their neighbors disappeared,\nand not a single one of nearly sixty people will ever be coming home again.",
+      "sourceUnit": "桜ルート十三日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nOne by one, I memorize the names of the nearly sixty missing persons.\n...\nOne by one.\nI carve the strangers' names into my mind,\n...\nand one by one, I replace them with the names of people close to me.",
+      "sourceUnit": "桜ルート十三日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Burgh.\"\nCan you forgive it?\nWhen the time comes, will you be able to forgive?\nWill you truly be able to forgive\nthe one who caused this,\nand yourself for letting it happen?",
+      "sourceUnit": "桜ルート十三日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"—, ...\"\nIf not...\nIf you can't protect it from this sin,\nthen the painless way out would be to put a stop to it before any more crimes happen.",
+      "sourceUnit": "桜ルート十三日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "The TV screen goes dark.\nAs for the news report that was describing the damage in detail...\n\"Don't do anything stupid.\nWe're not righteous enough people to mourn what's already happened, are we?\"\nTohsaka shows up out of nowhere, turning off the TV.",
+      "sourceUnit": "桜ルート十三日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...\"\n\"Here, drink this tea I made. Illya said she wants to be alone, so I'm free right now.\"",
+      "sourceUnit": "桜ルート十三日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "She sets a teacup on the table.\nShe says it like it's the reason she's here, even though it isn't.\nI have no reason to follow her instructions, but...",
+      "sourceUnit": "桜ルート十三日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"You went to all that trouble. I'll drink it.\"\n\"Drink up. It's hot enough to burn your tongue, though.\"\n\"Oh. Good. Thanks, Tohsaka.\"",
+      "sourceUnit": "桜ルート十三日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. I just wanted to relax for a bit. You just happened to be here.\"\nAll I can do is gratefully accept her awkward way of being thoughtful.",
+      "sourceUnit": "桜ルート十三日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Time passes.\nTohsaka and I don't do anything. We just look at each other and drink our tea in silence.",
+      "sourceUnit": "桜ルート十三日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nStrangely, I don't feel nervous.\nRather, it feels like a weight is off my shoulders. Like I can take a mental breather.\nYou know...\nMaybe Tohsaka's actually a soothing person.",
+      "sourceUnit": "桜ルート十三日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh.\"\n\"W-what are you grinning for? If you've got something to say, say it.\"",
+      "sourceUnit": "桜ルート十三日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm, I just had a thought. I've never just sat around with you doing nothing before.\nBefore, every time we met up, it was only to talk about the Holy Grail War. It was a pretty brutal relationship, now that I think about it.\"",
+      "sourceUnit": "桜ルート十三日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well, what did you expect? That's where we started. Or what, you want to make small talk about school exams or shops we like?\"\n\"Huh? No, I think this is fine. It just feels very fitting that we have a relationship where we can't let our guard down.\"\nSo it feels odd, unbalanced even, for us to be lazing around in this way.",
+      "sourceUnit": "桜ルート十三日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right, though. That is how this all started.\nI only started talking to you once I became a Master. I bet we wouldn't even have known each other if I hadn't become a Master.\"",
+      "sourceUnit": "桜ルート十三日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "In that sense, that's one good thing that came out of being a Master.\nI get to fight alongside the girl whom I only admired from afar.",
+      "sourceUnit": "桜ルート十三日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not quite true. I don't know if it's mutual, but I've known about you for quite a while, Shirou.\"\n\"...Eh?\"\nWith a hint of bashfulness, Tohsaka murmurs something I couldn't possibly miss.",
+      "sourceUnit": "桜ルート十三日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you knew me?\"\nWhen I ask why, she nods, looking even more embarrassed.",
+      "sourceUnit": "桜ルート十三日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"No way! Did we ever speak during our first year!?\"\n\"Th-that didn't happen.\nI just mean that I knew of you.\nI guess you could say that 'Shirou Emiya' is responsible for one of my traumatic episodes.\"",
+      "sourceUnit": "桜ルート十三日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Trauma!? But why!?\"\nThat doesn't sound very nice.\nI know that you can't go through life without offending people without even realizing it, but still.\nMy mental health is bound to have a very poor outlook when it involves Rin Tohsaka, who loves getting payback threefold or even fourfold!",
+      "sourceUnit": "桜ルート十三日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I'd like to know the same thing.\n...Fine. I might as well spill it now.\nIt was around now, four years ago. I don't know why, but you remember when you stayed at school one day trying the high jump until the sun went down?\"",
+      "sourceUnit": "桜ルート十三日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI blink at the unexpected question.\nNot because the question itself was surprising, though—\nSakura mentioned the same thing before.",
+      "sourceUnit": "桜ルート十三日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But what about it?\"\n\"I was watching, right after I came out of the building. I saw some boy at the edge of campus trying over and over to jump a bar that was too high for him, like a moron.\"",
+      "sourceUnit": "桜ルート十三日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nWait.\nThat can't be true.\nSakura was the one watching me. Besides, Tohsaka...",
+      "sourceUnit": "桜ルート十三日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"It was just a coincidence, all right? We went to different schools, never mind classes. I had to come over to your school on some student council business.\"\n\"Right. I remember hearing you went to the same school as Issei.\"",
+      "sourceUnit": "桜ルート十三日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, he's a thorn I can't get rid of from that time. I was the vice-president, while he was the president. After having to deal with each other for four whole years, we both understood that we're mutual natural enemies.\"",
+      "sourceUnit": "桜ルート十三日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Now I see. You two go back a while.\"\nI can believe that.\nI've always thought that Issei's attitude towards Tohsaka was unnatural.\nMm. Feels like one mystery has been melted, only to be frozen again.",
+      "sourceUnit": "桜ルート十三日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, you were trying the high jump over and over like an idiot, and I happened to see it.\nThat's all. That's when I first knew of you, and I learned afterwards that Sakura was coming here regularly. I didn't even know your name before then, and I couldn't even remember your face for a while.\"",
+      "sourceUnit": "桜ルート十三日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Well, I understand our history now, but...\n\"Hey. How is that traumatic, though?\"",
+      "sourceUnit": "桜ルート十三日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. It was payback after four years.\nSakura joined the kyudo club a year ago, right? I would go watch the club practice when I had time, and sometimes, I saw this guy there that wasn't even part of the club.\nAnd then I remembered when I saw his face. He was that big idiot from back then.\"\n...\nI have something to say about how she found that out, but I keep it to myself.",
+      "sourceUnit": "桜ルート十三日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...It gave me a real shock that day. Even after three years, I instantly recognized some random stranger from a different school whose name I didn't even know, and who was also a huge moron on top of it all.\nAnd then, I finally realized, three years later, how much damage he did to me.\nI realized I was jealous of that guy who kept running over and over like an idiot.\"",
+      "sourceUnit": "桜ルート十三日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...But why, though? He's just some dumb person you shouldn't be jealous of.\"",
+      "sourceUnit": "桜ルート十三日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I thought that I wasn't jealous, but that I'd lost... It would have been better if he'd had even a sliver of hope of getting over the bar that day. Then I would've let it go and I would've headed straight home for the day.\"",
+      "sourceUnit": "桜ルート十三日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...But he knew that he couldn't do it.\nHe kept trying over and over, even though he knew he wouldn't make it no matter how many times he jumped. Even though he knew it was futile. It was like he believed that there was some meaning to the challenge.\"",
+      "sourceUnit": "桜ルート十三日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...To be honest, I can't push myself like that.\nI've always been this way. I'm the type of person who calculates the chances of success, and I don't bother attempting things I know I can't do. Since I've never tried to achieve something that's impossible, I've never gotten disappointed in myself or felt that I was too weak.\nI'm cold in that sense...a terrible person. Though Kirei told me I'm not immoral, but rather mechanical.\"",
+      "sourceUnit": "桜ルート十三日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka isn't saying this out of humility.\nShe's confident and proud of who she is.",
+      "sourceUnit": "桜ルート十三日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, I think about it sometimes. Life would probably be a lot simpler if I stopped measuring the odds and just threw myself at every problem.\"",
+      "sourceUnit": "桜ルート十三日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...You can imagine what a shock it must have been to see someone who was the polar opposite of me, when I was still young enough to doubt myself.\nThat's why that kid running like an idiot in the sunset is my personal trauma.\"",
+      "sourceUnit": "桜ルート十三日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't mean it in a hostile way. She's just glad he was there.\nShe looks like she's daydreaming as she murmurs it.",
+      "sourceUnit": "桜ルート十三日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that was a boring story. I must be getting nervous because my work isn't going well.\"\nTohsaka stands up and declares that break time is over.",
+      "sourceUnit": "桜ルート十三日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going back to my room. I'll be crafting the frame with Illya in the afternoon, so keep an eye on Sakura.\"\nShe puts her teacup in the sink and leaves down the hallway.",
+      "sourceUnit": "桜ルート十三日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "But before she's gone...\n\"Hey. How's Sakura?\"\nShe stops and asks me, as if she just remembered.",
+      "sourceUnit": "桜ルート十三日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"In high spirits, I think. Seemed like she still had a fever, but I'm not as worried about it as I was the last time she collapsed.\nShe's being pretty calm about it, too. Before, she would try to ignore it and do chores around the house, but today she's behaving and staying in bed.\nI think she'll recover soon.\"",
+      "sourceUnit": "桜ルート十三日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course she'll behave.\nShe can't stand up on her own anymore.\"",
+      "sourceUnit": "桜ルート十三日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\nShe can't...stand?\n\"Wait, why? She should have enough magical energy. She's also got plenty of stamina.\"",
+      "sourceUnit": "桜ルート十三日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Her magical and physical powers are above average, but her insides are a wreck.\n...I don't know what happened to her yesterday. But she's definitely died once. I can't think of any other reason that could explain why the muscles in her limbs looked like they'd been torn to shreds.\"",
+      "sourceUnit": "桜ルート十三日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...No way. I didn't see any injuries on her at all.\"\n\"...She only looks clean and connected on the outside.\nI don't know if the Crest Worms have been feeding heavily or if something else cut her. But if it's the latter, then the pain might not only destroy her body, but her mind as well.\n...I have to ask: did Sakura recognize you?\"",
+      "sourceUnit": "桜ルート十三日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop myself from reflexively saying \"of course.\"\nTohsaka looks like she's in anguish.\nMeaning...",
+      "sourceUnit": "桜ルート十三日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"...She didn't recognize you, Tohsaka?\"\n\"No, she knew who I was, and called me her sister.\nShe wasn't looking at me, though. She was seeing the 'Rin Tohsaka' she has in her mind.\nHonestly, when she started saying things like 'nice to meet you' or 'I wish we could've met sooner,' it made me want to kill her.\"\nTohsaka's voice grows cold, and she looks away.",
+      "sourceUnit": "桜ルート十三日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...She wanted to kill her?\nTohsaka wanted to kill Sakura?",
+      "sourceUnit": "桜ルート十三日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what I meant when I said I can't be like you.\nI can't keep helping Sakura until the very end, nor do I want to.\"\n\"Tohsaka...\"",
+      "sourceUnit": "桜ルート十三日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you, I don't attempt things I know I can't do.\nIf I conclude that Sakura's beyond saving, then I'll kill her because I'm Rin Tohsaka... I'm sure you don't need to be reminded that this was the deal from the beginning, but I thought I should make it clear.\"",
+      "sourceUnit": "桜ルート十三日目-10:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't need your opinion. I already know what you think, and it wouldn't change anything even if we talked.\nWe're friends while we're trying to defeat Zouken, but we'll never see eye to eye on Sakura. If you don't like that, then we have to beat Zouken as soon as possible.\nBut Shirou...if the Shadow turns out to be a completely separate being from Zouken, what will you do?\"",
+      "sourceUnit": "桜ルート十三日目-10:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "...\nI keep my mouth shut.\nTohsaka's question is so pointed it gives me vertigo.",
+      "sourceUnit": "桜ルート十三日目-10:page63:1"
+    },
+    "page64": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page65": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

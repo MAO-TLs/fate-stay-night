@@ -1,0 +1,97 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0525",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\n...No.\nI can't make any careless moves.\nI'm worried about Saber. I want to run to her right now and make sure she's okay.",
+      "sourceUnit": "桜ルート八日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "But that would mean turning my back on Zouken.\nThat would be a fatal mistake.\nDefend yourself, Shirou.\nThat's what Saber told me.\nThen, I need to hold out here until the last possible second.",
+      "sourceUnit": "桜ルート八日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh? I see, I see. You have a strong bond to her.\"\n...I won't let Zouken's words sway me.\nI get a good grip on the kyousaku stick and tense up, ready to respond to any attack.",
+      "sourceUnit": "桜ルート八日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well, let us have a contest of endurance. You can wait and see whether you made the right choice.\"\nZouken's murderous intent vanishes.\nThe old mage takes a step back, melting into the wall of insects.",
+      "sourceUnit": "桜ルート八日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nHis presence fades.\nI stare into the shadows, where he should be.\n...\n......\n.........\n............\n...............A full minute passes.",
+      "sourceUnit": "桜ルート八日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI hear wind howl from afar, and then my left hand throbs with pain.\nThe back of my hand is tingling.\nIt hurts where the Command Spells are, almost like I'm bleeding there.",
+      "sourceUnit": "桜ルート八日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...?\"\nI feel awful dread.\nI feel awful dread.\nI feel awful dread.\nThe pain in my left hand.\nThe howling wind, gone silent.\nI hear the old mage chuckle from within the mass of hostile bugs.",
+      "sourceUnit": "桜ルート八日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Looks like it's all taken care of. If you're her Master, you should be able to tell that your Servant is gone from this world!\"",
+      "sourceUnit": "桜ルート八日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind is paralyzed.\nMy vision freezes.\nWhat...is he talking about?",
+      "sourceUnit": "桜ルート八日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you so shocked for? Saber is dead. She underestimated Assassin and lost to him. Is that so hard to grasp, boy?\"\n\"That's...\"",
+      "sourceUnit": "桜ルート八日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...bullshit, right?\nMy left hand hurts.\nIt really hurts.\nBut my Command Spells are still there.\nThey're growing fainter by the second, like they're about to fade, but they aren't gone yet.\nThen Saber still has to be out there, ready to come to me right now!",
+      "sourceUnit": "桜ルート八日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"TO ME, SABER!\"\nI scream, trying to drown out the pain.\nI cram as much magical energy as I can into my left hand.\nI don't know how to use the Command Spells.\nBut if they're supposed to respond to their Master's wishes, then I'll summon Saber to me right now!",
+      "sourceUnit": "桜ルート八日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh!\"\nNothing happens.\nThe Command Spells definitely reacted, and then they stopped.",
+      "sourceUnit": "桜ルート八日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "There's nothing wrong with the Command Spells.\nThen, that must mean the Servant they called is already...",
+      "sourceUnit": "桜ルート八日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Futile. Even the mighty Command Spells cannot resurrect a lost Servant.\nEven one as unlucky as you must understand that your Saber has perished at the hands of my Servant.\"",
+      "sourceUnit": "桜ルート八日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you...\"\n\"Let's put an end to this. The Tohsaka girl still has potential, but I have no further use for you. Die in my holy land, along with your Servant!\"\n\"...BULLSHIT ME, MOTHERFUCKER!\"",
+      "sourceUnit": "桜ルート八日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I run.\nI charge at the enemy before me, trying to shake off the pain in my left hand and the horrible dread.",
+      "sourceUnit": "桜ルート八日目-06:page16:1",
+      "recoveredDelimitedTail": true
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

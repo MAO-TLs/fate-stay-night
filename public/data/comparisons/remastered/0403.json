@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0403",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...If there's a way for him to be saved.\nIf there's a way to resolve this without killing, is it so wrong to wish for it?\nI don't mind being called naïve.\nAnd I know I'm a hypocrite.",
+      "sourceUnit": "凛ルート十四日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "To a Master, defeating your opponent means killing them.\nThey're all aware of this fact before getting themselves involved thus far.\nThey chose to fight knowing they will have to kill or be killed trying.\nI know how much of a coward I am for wanting to step in and stop them from fighting.",
+      "sourceUnit": "凛ルート十四日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nIf I had already decided to fight for someone, to help someone, then I can't afford to lose a life when that life can be spared.",
+      "sourceUnit": "凛ルート十四日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Stop! The fight is over, you don't have to fight anymore!\"\nI try to stop them while enduring my headache.\nIn that moment.\nKuzuki makes his move.",
+      "sourceUnit": "凛ルート十四日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nMaybe my move gave him an opening. Kuzuki shortens the distance between him and Archer in an instant, and strikes right between his eyes.",
+      "sourceUnit": "凛ルート十四日目-01:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

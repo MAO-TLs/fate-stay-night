@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0259",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll go help Sakura out.\nShe's making breakfast for four people, so it'll take longer. I also want to ask her about last night.\nIt seems like Saber went with my story, but it's entirely possible they didn't get along and I want to make sure everything's all right.",
+      "sourceUnit": "凛ルート五日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Senpai. I've already started preparing breakfast.\"\n\"Ah, morning, Sakura. Let me help you with that.\"\nI put on an apron and make my way into the kitchen.",
+      "sourceUnit": "凛ルート五日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, then please do the grilling. Hmm, I just cooked the rice, so I'll make the miso soup and the side dish.\"",
+      "sourceUnit": "凛ルート五日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "As always, Sakura is quick and efficient.\nShe doesn't seem to be putting on a front, so it doesn't look like yesterday is particularly bothering her, but...",
+      "sourceUnit": "凛ルート五日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. Um, about yesterday...\"\n\"Yes? What do you mean, Senpai?\"",
+      "sourceUnit": "凛ルート五日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, yesterday, the three of you had to share a room, right? You seemed to be worried about having Saber stay, so I was wondering how it went.\"",
+      "sourceUnit": "凛ルート五日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know what you mean when you say it like that. Please just ask me clearly what it is you want to know or I can't answer.\"",
+      "sourceUnit": "凛ルート五日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... S-so, it'd be nice if you all got along...\"\n\"Oh. Would it make you happy if Saber and I got along?\"",
+      "sourceUnit": "凛ルート五日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, it would help me out. I decided on Saber's stay without your permission, right? It'd be reasonable for you to resent her at the very least for that.\nBut, if you can overlook that and be nice to Saber, um...\"\n\"Then I'd make you happy?\"",
+      "sourceUnit": "凛ルート五日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt's embarrassing to say it out loud, so I just nod.",
+      "sourceUnit": "凛ルート五日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nI'd be thankful if she overlooked this and got along with Saber.\nSince Sakura's like family, I don't want her upset over something that I did without her input.",
+      "sourceUnit": "凛ルート五日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, to answer your question...\nBy midnight last night we managed to work it out.\nI still find her a bit hard to deal with, but I think we can get along. She is difficult to understand, but she does have a cute side, I suppose.\"",
+      "sourceUnit": "凛ルート五日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's smile is genuine and heartfelt.\nThat makes me really happy.\nIt truly does, but...",
+      "sourceUnit": "凛ルート五日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Cute... You mean, Saber!?\"\n\"That is how I see it. Ms. Fujimura already treats her like she's known her for ages and Saber seems to have taken to it easily enough.\nWe were actually sharing a room to keep an eye on her, but starting tonight we are going to room together because we want to.\"",
+      "sourceUnit": "凛ルート五日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nT-that is an unexpected turn of events.\nBut Saber's cute side, huh... She certainly is rather beautiful, but \"cute\" doesn't seem quite right...",
+      "sourceUnit": "凛ルート五日目-02:page14:1"
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

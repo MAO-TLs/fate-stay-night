@@ -1,0 +1,581 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0410",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Dawn approaches.\nOur conversation dies off as we head deeper into the woods, and the silence weighs heavily.\nOnce I'm through the forest, I, Shirou Emiya, will settle the score with that man.\nI have no chance of victory. My defeat is certain.\nI'm well aware that I'll be slaughtered as soon as we cross swords.",
+      "sourceUnit": "凛ルート十四日目-25:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't feel fear, but not out of defiance or determination.\nI might die, but he's long dead.\nThe moment I realized this, I knew that I was no different.\nThere's no longer any point in feeling gloomy about my own death.",
+      "sourceUnit": "凛ルート十四日目-25:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I pass the castle gate.\nSaber's expression is dark. She knows what sort of fight awaits me.",
+      "sourceUnit": "凛ルート十四日目-25:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She's troubled by me, and by him.\nNo matter who lives or falls, the same man will disappear.\nShe's in anguish, unsure whether she should put a stop to this absurd duel.\nShe glances skyward. Her eyes look severe, or perhaps, angry that such a vain battle must be fought.",
+      "sourceUnit": "凛ルート十四日目-25:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "We come to a great ruined hall.\nMorning mist shrouds the ground to be our mutual resting place.\n\"You're here. You sure took your sweet time, Shirou Emiya.\"\nHis icy voice rings through the air.\nIts familiar baritone comes from the second story.\nThe man stands there atop crumbling stairs that culminate in a sunlit plateau.",
+      "sourceUnit": "凛ルート十四日目-25:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "His crimson cloak seems distant and hazy.\nBut I can see him.\nI can make out every exact detail of my enemy.\nWe share the same eagle eyes, after all.",
+      "sourceUnit": "凛ルート十四日目-25:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "He is the Servant assigned the role of Archer.\nHe's a bowman yet not a bowman, a contradictory person who possesses a vast number of Noble Phantasms and hurls them out unsparingly.\nAll of his Noble Phantasms are replicas, and his personal Noble Phantasm is the ability to create infinite swords.",
+      "sourceUnit": "凛ルート十四日目-25:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...I was the only one who failed to realize his identity.\nHeroic Spirits are summoned from all eras.\nIf the past doesn't contain an appropriate hero, then one might be born in the future.",
+      "sourceUnit": "凛ルート十四日目-25:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...I finally realized that there can't be two pendants. It's always been...\"\n\"That's right. You held on to it as a keepsake of your savior for the rest of your life. It's the one and only memento of Rin Tohsaka's late father.\"",
+      "sourceUnit": "凛ルート十四日目-25:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "It's a paradox for two of them to exist.\nIf Shirou Emiya held on to the pendant for the rest of his life, then...",
+      "sourceUnit": "凛ルート十四日目-25:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...A catalyst is needed to summon a Heroic Spirit.\nThere must be a connection between summoner and Heroic Spirit, just as there was with you and Saber.\"",
+      "sourceUnit": "凛ルート十四日目-25:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin Tohsaka did not use a catalyst to summon her Heroic Spirit.\nShe assumed that she summoned a Servant she had no relation to whatsoever.\n...But Heroic Spirits are never summoned by coincidence. There must be a material connection between summoner and spirit.\"",
+      "sourceUnit": "凛ルート十四日目-25:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nIf that's true, then there's only one explanation.\nTohsaka didn't have anything to connect herself to Archer, but...",
+      "sourceUnit": "凛ルート十四日目-25:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. This only happened because the Heroic Spirit had a catalyst connecting itself to the summoner.\"\n\"...\"",
+      "sourceUnit": "凛ルート十四日目-25:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "That tiny gem, of which there is only one in the world.\nSomeone saved my life, and I never found out who. But I kept the pendant with me, assuming it must have belonged to my savior.\n...That's the answer.\nHe has Tohsaka's pendant, which makes him...",
+      "sourceUnit": "凛ルート十四日目-25:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...the Heroic Spirit Emiya.\nMy future self.\nThe man standing before me perfected Shirou Emiya's incomplete abilities and achieved my ideals.",
+      "sourceUnit": "凛ルート十四日目-25:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "The red-clad knight looks down at me from the top of the stairs.\nThere's no sign of anyone else around.\nOnly he and I stand here in this hall.",
+      "sourceUnit": "凛ルート十四日目-25:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, where's Tohsaka?\"\n\"I left the girl somewhere in the castle. You should hurry if you're worried about her. You took so long getting here that I gave her to Shinji Matou first.\"",
+      "sourceUnit": "凛ルート十四日目-25:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You...what?\"\n\"I kept my promise to you. I haven't harmed her.\nBut it's no business of mine what anyone else tries to do to her.\"",
+      "sourceUnit": "凛ルート十四日目-25:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, I can hazard a guess. Shinji Matou feels lust and animosity towards Rin Tohsaka. One hardly needs to imagine what might happen to Rin under his watch. The little brat might be losing his temper at her provocations as we speak.\"",
+      "sourceUnit": "凛ルート十四日目-25:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nMy blood boils.\nHow can he just talk about her like that!?",
+      "sourceUnit": "凛ルート十四日目-25:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Settle down, laddie. You can leave the lass to me.\nI'll rescue her right away, don't you fret.\"\n\"Huh? Lancer?\"",
+      "sourceUnit": "凛ルート十四日目-25:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"It's an order from my Master. I'm working with you because I won't let the lass die.\n...I gotta say, this has been more comfortable than I thought. Yesterday's work wasn't bad. It's not often I have a job that I actually like.\"",
+      "sourceUnit": "凛ルート十四日目-25:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "With that flippant remark, Lancer ignores Archer and heads for the western terrace.",
+      "sourceUnit": "凛ルート十四日目-25:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Lancer.\"\n\"Don't worry about it. I'm just doing this as a hobby.\n...All my orders until now have left a bad taste in my mouth, you see. So I'll see this one all the way through. You can worry about your own mess.\"",
+      "sourceUnit": "凛ルート十四日目-25:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Take care of Tohsaka.\"\nLancer departs with an \"aye.\"\nBut then...\nhe stops and turns, as if remembering something.",
+      "sourceUnit": "凛ルート十四日目-25:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Oi. What about you, Saber? Aren't you coming with?\"\n...\nSaber looks pained.\n\"No. I will remain here, Lancer.\"\nHer response isn't what you'd expect from a Servant.",
+      "sourceUnit": "凛ルート十四日目-25:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You serious? Your current Master is that lassie.\nYou're only supposed to protect your Master.\"\n\"I know that. But I want to stay here... I must bear witness to this battle.\"\n\"Yeah? You do that, then.\"",
+      "sourceUnit": "凛ルート十四日目-25:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Lancer disappears.\nThe blue-clad spearman easily leaps up to the second-story terrace and disappears down the hallway without another glance.",
+      "sourceUnit": "凛ルート十四日目-25:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Archer doesn't make any move to stop him.\nTohsaka seems to have outlived her usefulness to him.",
+      "sourceUnit": "凛ルート十四日目-25:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI step forward through the rubble.\nI'm headed for the middle of the hall, at the bottom of the stairs.\nSaber stays where she is. She intends to watch us fight, and keeps her emotions in check.",
+      "sourceUnit": "凛ルート十四日目-25:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"You won't interfere, then? I appreciate that, Saber.\nIt would have been pointless to sever my contract with Rin only for you to get in my way later.\"",
+      "sourceUnit": "凛ルート十四日目-25:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can hear her hesitate.\nShe inhales slightly, and answers the man standing at the top of the stairs.",
+      "sourceUnit": "凛ルート十四日目-25:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Whatever happens, I will not intervene in your duel with Shirou.\"\n\"Good. Then I can kill the boy at my leisure.\"\n\"...Yes. But I want you to answer me this, Archer: why are you trying to kill Shirou?\"",
+      "sourceUnit": "凛ルート十四日目-25:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"No particular reason. I can't accept his existence, just as he can't accept mine.\"",
+      "sourceUnit": "凛ルート十四日目-25:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That can't be true! You are Shirou himself. Are you not the person who embodies Shirou Emiya's ideals and became a hero? Why would you try to kill yourself!?\"",
+      "sourceUnit": "凛ルート十四日目-25:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Why do you think that? The immature Shirou Emiya is a completely distinct entity from the hero called Emiya. Otherwise, we wouldn't be able to exist at the same time.\"",
+      "sourceUnit": "凛ルート十四日目-25:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"But that's only because you're a Servant. I've heard that once you become a Guardian separate from the time axis, you can be summoned into the era in which you lived...!\nYou are Shirou. You should be the very image of what he imagines and strives to become! So why...?\"\nWhy did you turn out so differently?\nI can hear her anguished question, even if she doesn't say the words aloud.",
+      "sourceUnit": "凛ルート十四日目-25:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHe starts down the stairs without answering.\n\"...\"\nHe can't answer.\nIf he could, then we wouldn't be here trying to settle things by force.",
+      "sourceUnit": "凛ルート十四日目-25:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer!\"\nSaber challenges him, without actually stepping forward.\n\"It's all right, Saber. You can back off.\"\nWith one hand, I gesture for her to move back to the entrance.",
+      "sourceUnit": "凛ルート十四日目-25:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou...!\"\n\"I appreciate the thought, really. But we're beyond words now. His only goal from the start has been to kill me.\"\n\"Ngh...\"",
+      "sourceUnit": "凛ルート十四日目-25:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Saber bites her lip in distress.\nShe looks at me, and then at Archer as he descends the stairs to the hall.",
+      "sourceUnit": "凛ルート十四日目-25:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why, Archer? I don't understand. I have heard that Guardians are Heroic Spirits who protect humanity after death. Why would you think of killing yourself, instead?\"",
+      "sourceUnit": "凛ルート十四日目-25:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Guardians?\"\nArcher stops and looks down at Saber emotionlessly.\nThe word seems to have struck a nerve with him.",
+      "sourceUnit": "凛ルート十四日目-25:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"You're wrong, Saber. Guardians don't protect humanity. They're just cleaners. They aren't the heroes I aspired to be at all.\"\nHis voice changes.\nHatred and scorn tinge his dispassionate tone.",
+      "sourceUnit": "凛ルート十四日目-25:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...?\"\n\"I indeed became the hero that Shirou Emiya always aspired to be.\"",
+      "sourceUnit": "凛ルート十四日目-25:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "A hero of justice.\nSomeone who always does the right thing, and doesn't let anyone get hurt.\nThe kind of person Shirou Emiya has always wanted to be, who doesn't retreat from any disaster and saves everyone equally.\nIs he saying...\n...that he achieved that ideal?",
+      "sourceUnit": "凛ルート十四日目-25:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...?\"\n\"Yeah. I've saved many people.\nI did whatever was in my power to live up to my ideals, and I even saved the world.\nA 'hero,' they called me. I finally achieved the status that I'd yearned for all my life.\"",
+      "sourceUnit": "凛ルート十四日目-25:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"If you became a hero, then Shirou's effort was rewarded, right?\nAt the very least, you are here because Shirou Emiya's ideals were realized.\nThen you shouldn't have any regrets, if that really did happen.\"",
+      "sourceUnit": "凛ルート十四日目-25:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Her verbal challenge doesn't have much force behind it.\n...She already knows.\nShe's aware that her words are merely wishful thinking.",
+      "sourceUnit": "凛ルート十四日目-25:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"You ask if I realized my ideals? I did act according to my ideals and always did what was right.\nBut at the end of that path, all I gained was regret. Only death awaited me at the end.\"",
+      "sourceUnit": "凛ルート十四日目-25:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"I killed, and killed, and killed.\nI killed people to carry out my ideals,\nscattering innocent lives like so much dust, and saving thousands of times the number of people I killed.\"",
+      "sourceUnit": "凛ルート十四日目-25:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber stares up at Archer in shock.\nAlmost as if she's looking into a mirror.",
+      "sourceUnit": "凛ルート十四日目-25:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know how many times I've repeated that, Saber.\nI fought as many times as was asked of me, and I threw myself into mortal danger as long as there was conflict to be found. I've done it too many times to count.\"",
+      "sourceUnit": "凛ルート十四日目-25:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I didn't have a choice.\nWhen you save someone, there will always be someone else who isn't saved. The end of any battle only gives rise to new conflict.\nAs long as that exists, so will heroes.\"",
+      "sourceUnit": "凛ルート十四日目-25:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "I wonder who his lecture is directed at.\nThe knight describes his past as he slowly descends the stairs.",
+      "sourceUnit": "凛ルート十四日目-25:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"That is why I killed.\nI trampled dozens of wishes to save a single person. Then, I ignored even more people to save those whom I trampled on.\nI killed the hopes of dozens of people, saved those whom I could see, and killed the wishes of even more.\nIn my pathetic hubris, I told myself each time that it would be the last time, that no one else would be sad anymore.\"",
+      "sourceUnit": "凛ルート十四日目-25:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...But there never was a last time.\nAs long as I was alive, I saw conflict no matter where I went.\nThere was no end to it. It's not that I dreamed of a world without conflict,\nbut I just didn't want anyone to cry in the world that I knew.\"",
+      "sourceUnit": "凛ルート十四日目-25:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "Without a doubt...\nThat was my very own dream.",
+      "sourceUnit": "凛ルート十四日目-25:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"When you save one person, your perspective expands.\nNext time, it's ten. After that, a hundred. And how many after that? That's when I realized that Shirou Emiya was clinging to a mere feel-good idealism.\"\n\"Why would you say that...?\"",
+      "sourceUnit": "凛ルート十四日目-25:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't ask me something you already know, Saber. You've experienced it many times yourself. It's impossible to save everyone.\nSome people must be allowed to die to save a kingdom. You encountered that reality on a daily basis, I'm sure.\"",
+      "sourceUnit": "凛ルート十四日目-25:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe red knight's words stun Saber into silence, sapping her of the will to disagree.\nThey must reflect Saber's inner darkness, too.",
+      "sourceUnit": "凛ルート十四日目-25:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. There are only so many seats at the table. You can never provide enough chairs for everyone to sit in.\nYou can't save everyone, so some must be sacrificed.\nTo do that...\nI killed those few leftover people with my own hands as quickly as possible to minimize the number of casualties.\nThat is how a hero of justice, a man who always does right by his ideals, should behave.\"",
+      "sourceUnit": "凛ルート十四日目-25:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "A wish for no one to be sad.\nAn ideal to save as many people as possible.\nIf someone holds both of these ideas, then there's only one path to take once they contradict each other.",
+      "sourceUnit": "凛ルート十四日目-25:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "A hero of justice can only save the people he's decided to save.",
+      "sourceUnit": "凛ルート十四日目-25:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "If trying to save everyone means saving nobody, then...",
+      "sourceUnit": "凛ルート十四日目-25:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...Saving as many people as you can with the minimum sacrifice is the right choice.",
+      "sourceUnit": "凛ルート十四日目-25:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"A hero saves a lot of people, isn't that right? That's why I killed. I had someone die for the greater good, all while wishing that nobody would die.\nI brought despair to people while saying that no one would be sad anymore.\"",
+      "sourceUnit": "凛ルート十四日目-25:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"In time, I got used to it. I betrayed my principles in my effort to live up to them.\nI only saved the people I chose to save while swiftly slaughtering those who opposed me. By allowing someone to be sacrificed, I stayed true to my old ideals.\"",
+      "sourceUnit": "凛ルート十四日目-25:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"That's who the hero Emiya really is.\nSo...\nDon't you think the world would be better off if such a man died sooner?\"",
+      "sourceUnit": "凛ルート十四日目-25:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "He's right.\nA superhero can only save the people he's decided to save.\nHowever...\nWho ended up betraying those words in the end?",
+      "sourceUnit": "凛ルート十四日目-25:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't believe you. Even if that was true, I think that you would only be willing to sacrifice yourself to stay true to your ideals.\"\n\"...\"\nArcher stops again.\nFor just an instant...\na pained frown clouds his face.",
+      "sourceUnit": "凛ルート十四日目-25:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"You didn't betray your ideals. You were betrayed by them and merely lost your way.\nOtherwise...you wouldn't be trying to kill yourself to atone for your sins.\"",
+      "sourceUnit": "凛ルート十四日目-25:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHis sardonic grin disappears.\nArcher fixes Saber with a cold glare, and...\n\"...Ha. Haha, hahahahahahaha!!!\"\n...breaks into uproarious laughter,\nas if she's just said something hilarious.",
+      "sourceUnit": "凛ルート十四日目-25:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Kukuh, hahahahahahaha! Now that was classic.\nYou think I'm atoning for my sins? Don't be ridiculous, Saber.\nI have no sins to be punished for, nor do I recall forcing such irresponsible matters onto anyone else.\"\nThe red knight remains deadly calm.\nOnly his low chuckle reverberates through the hall.",
+      "sourceUnit": "凛ルート十四日目-25:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, Saber. I was betrayed and deceived many times. I was even framed for the crimes of a man whom I saved. I put my life on the line to end a war, and ended up in the gallows after they accused me of masterminding the bloodshed.\nSee? If I was guilty of anything, surely I paid for it in that moment.\"",
+      "sourceUnit": "凛ルート十四日目-25:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... That can't be, Archer. Then, in the end, you...\"",
+      "sourceUnit": "凛ルート十四日目-25:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. That's about it.\nBut I didn't mind at all. I never did any of it for gratitude. I never asked to be glorified as a hero. I just wanted an outcome where everyone would be happy.\n...But it never happened.\nNot during my life, nor after my death.\"",
+      "sourceUnit": "凛ルート十四日目-25:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "His laughter is gone.\nNow, his words are tinged only with hatred.",
+      "sourceUnit": "凛ルート十四日目-25:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Guardians are a neutral power which prioritizes the survival of the ruling species.\nThat power exists in a higher place, and descends when the human world is threatened.\n...I knew it was no different than slavery.\nI agreed to a fate of nothingness, to give up my soul to the Guardians and be removed from the time axis.\"",
+      "sourceUnit": "凛ルート十四日目-25:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"As long as it meant that someone else would be saved.\nIn the past, I couldn't keep my vow as Shirou Emiya.\nSo I thought that if I became a Guardian and joined a force that prevents humanity's destruction, that would be for the best.\"",
+      "sourceUnit": "凛ルート十四日目-25:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...But the truth was different. Guardians don't save anyone.\nAll they do is mop up. They exist only to use their power to erase everything humans have committed, after the fact.\"",
+      "sourceUnit": "凛ルート十四日目-25:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"They don't save people. They erase anyone who would do harm to the world, be they good or evil.\nGuardians are mass murderers who eliminate people in despair rather than saving them, so that others enjoying their lives elsewhere may continue to live.\n...It's completely absurd. How is that any different from anything else I've done?\"",
+      "sourceUnit": "凛ルート十四日目-25:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "It's not different at all.\nIn fact, it only created more despair.\nHe couldn't make his dream come true on his own, so he devoted himself to a greater power.\nAnd he still ended up in the same place.\nHe thought that a higher power might be able to grant his wish, but it was just a larger version of what he'd already been doing.",
+      "sourceUnit": "凛ルート十四日目-25:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"...Is that what you've been carrying this whole time, Archer?\"\n\"I got used to that, too. Humans are creatures of habit. The strong take from the weak in every era, and I learned that it was the most efficient way to prosper.\"",
+      "sourceUnit": "凛ルート十四日目-25:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...I saw it so many times.\nMeaningless slaughter, pointless equality, and worthless happiness!\nI was forced to see it, even when I didn't want to. Once I became a Guardian, I lost my free will. I was summoned by the will of humans to clean up their own messes.\"",
+      "sourceUnit": "凛ルート十四日目-25:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "That's the conclusion he arrived at:\nan existence that erases the despair other humans make.\nGuardians don't save anyone. They just erase the existence of people who aren't saved.",
+      "sourceUnit": "凛ルート十四日目-25:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "Over and over.\nWhenever they see humans do something that causes their own destruction, they show up and burn it all.\nThe man became a hero, thinking he could save as many people as possible.\nBut in the end, that wish never came true.",
+      "sourceUnit": "凛ルート十四日目-25:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"It was all wrong.\nThat wasn't what I wished for.\nThat's not what I became a Guardian to do!!!\"",
+      "sourceUnit": "凛ルート十四日目-25:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "The rage in his voice is probably directed at himself.\nThe man that stands before us is a worn-down wreck.\nThe hero Emiya was perpetually shown the ugliness of the people he wanted to save.",
+      "sourceUnit": "凛ルート十四日目-25:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "In the end, he felt hatred.\nHatred at his past self, for valuing the humans who just kept taking from each other.",
+      "sourceUnit": "凛ルート十四日目-25:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm tired of cleaning up humanity's messes, but there's no way out of this cycle now that I'm a Guardian.\n...Except for one.\"",
+      "sourceUnit": "凛ルート十四日目-25:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "His cold eyes gleam with unshakable bloodlust.\nThey aren't looking at Saber.\nArcher's sole objective is to erase himself.\nHowever, ever since he died, he can't erase the original Emiya that exists in a place outside of the time axis.\nIt's impossible to erase someone who's become a Guardian.",
+      "sourceUnit": "凛ルート十四日目-25:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "Guardians are of the void. There's no point in killing someone who doesn't exist on this world's axis.\nHowever...\nIf it were possible, there would only be one way.\nIf he were to kill himself before he became a hero, then that hero would never be born.\nTherefore...",
+      "sourceUnit": "凛ルート十四日目-25:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're going to kill Shirou? With your own hands?\"",
+      "sourceUnit": "凛ルート十四日目-25:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I've been waiting for this chance. The probability of it happening was nearly zero.\nBut I still gambled on it. I couldn't live with myself if I didn't. I continued working as a Guardian, hoping for this opportunity to come.\"",
+      "sourceUnit": "凛ルート十四日目-25:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"...It won't work, Archer.\nYou already exist as a Guardian, so it's too late. Even if you were to kill Shirou Emiya now, you yourself wouldn't disappear.\"",
+      "sourceUnit": "凛ルート十四日目-25:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe you're right. But there's still a possibility it could work.\nIt may be impossible to alter the past, but if I do it myself, the paradox might become too large.\nSo large, perhaps, that the hero Emiya might simply cease to exist.\"",
+      "sourceUnit": "凛ルート十四日目-25:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, Saber, I've only carried on as a Guardian this long because I was waiting for this moment. I'm not about to have any sudden hope for a saving grace.\n...I'm just taking out my anger on the boy Shirou Emiya who acts like a clown for his pathetic ideals.\"",
+      "sourceUnit": "凛ルート十四日目-25:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "And then, the red knight steps into the same hall that I'm in.\nOnly he and I stand amid the rubble.",
+      "sourceUnit": "凛ルート十四日目-25:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "No obstacles separate us.\nOur reasons for being here are simple.\nHe wants to kill me, and I can't stand him, so I'm going to kick his ass.",
+      "sourceUnit": "凛ルート十四日目-25:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "...\nI step into the center of the hall.\nA few more steps, and there will be no going back.\nBefore that...\n\"Archer. Do you regret it?\"\nThere's one question I need to ask him.",
+      "sourceUnit": "凛ルート十四日目-25:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do. I... No, you never should have tried to be a hero of justice.\"\nHe spits the words out like venom.\nThat's the last push I need.",
+      "sourceUnit": "凛ルート十四日目-25:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then we're two different people.\"\n\"What?\"\n\"I don't regret anything. No matter what happens, I won't regret this path.\nThat's why I will never accept you.\nIf you claim to be my ideal self, then I'll strike down those flawed ideals with my own hands.\"",
+      "sourceUnit": "凛ルート十四日目-25:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "That's how I've lived.\nI've come this far believing that it was right.\nIt probably is mostly pride, like he said.\nI've lost more than I've gained.\nBut, still...\nShirou Emiya won't back down, not even for what he's lost.",
+      "sourceUnit": "凛ルート十四日目-25:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "I advance.\nA circuit in the back of my mind has already begun to sketch a blueprint.",
+      "sourceUnit": "凛ルート十四日目-25:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"...That way of thinking is the root of it all. One day, you'll catch up to me.\"\n\"Like hell I will.\"\n\"Oh? So you'll let me kill you here, then?\"",
+      "sourceUnit": "凛ルート十四日目-25:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "...\nI step towards my enemy.\nWe're close enough to cross swords now.\nNeither of us are armed.\nWe're going to go at it bare-handed.\nShirou Emiya isn't a swordsman.\nWe make swords.\nSo...",
+      "sourceUnit": "凛ルート十四日目-25:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Looks like you understand.\nA battle with me means a sword-making competition.\"\nHis hands grip a pair of swords.\nThat night...\nThat simple pair of blades that took my breath away at Ryudou Temple...\nThey were rare masterworks, forged by a famous smith at the cost of his wife's life.",
+      "sourceUnit": "凛ルート十四日目-25:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on. (Begin Projection.)\"\nI initiate my prepared blueprint and replicate the swords just by visualizing them.",
+      "sourceUnit": "凛ルート十四日目-25:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "...They're so flawed.\nMy swords, which I thought were perfect, are terribly vague compared to his.\nMy inferior imagination has produced a degraded delusion.\nMost likely,\nthey'll shatter against his swords.",
+      "sourceUnit": "凛ルート十四日目-25:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "...\nI take another step forward.\nA deliberate, firm step.\nRubble crumbles beneath my feet.\nThe sound seems to declare a start to the duel.",
+      "sourceUnit": "凛ルート十四日目-25:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you keep up with my replication?\nThe instant your precision drops, you'll die!\"",
+      "sourceUnit": "凛ルート十四日目-25:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Our swords confront each other.\nAn identical pair of weapons, four blades, overlap as if attracted by magnetic force, and clash.",
+      "sourceUnit": "凛ルート十四日目-25:page113:1"
+    },
+    "page114": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

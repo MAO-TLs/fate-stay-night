@@ -1,0 +1,361 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0040",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't go along with this.\nA gruesome battle to the death is wrong.",
+      "sourceUnit": "セイバールート三日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? Will you fight or not? You must decide and declare your intention here and now, Shirou Emiya.\"\nYeah. He doesn't need to ask anymore.\nI...\n\"I'm not going to fight. I forfeit my rights as Master.\"\nI look right into the priest's eyes as a I answer.",
+      "sourceUnit": "セイバールート三日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That is a shame. But there is nothing I can do if that is the will of the Master. As of now, Shirou Emiya has forfeited his rights as a Master, and he has withdrawn from the Holy Grail War. Any objections, Rin?\"\n\"Huh?\"\nWhy would the priest ask Tohsaka and not me?",
+      "sourceUnit": "セイバールート三日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't mind. If that's Emiya's decision, there's nothing I can say to change it.\"\n\"Mm, I suppose seeing your regret is enough for me.\nThen we shall proceed, Shirou Emiya. Your left arm, please.\"",
+      "sourceUnit": "セイバールート三日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, but what are you going to do?\"\n\"It will be over quickly. I am simply removing the Command Spells on your hand.\nThere are two factors that make a Master.\nOne is the contract formed with a Servant. The other is the Command Spell on your hand.\nBy losing both, you will be freed from the Holy Grail War.\"",
+      "sourceUnit": "セイバールート三日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The priest takes my left arm.\n\"This will hurt. Try to relax.\"\nHis fingers plunge into my arm.\nFive fingers dig mercilessly inside my arm.",
+      "sourceUnit": "セイバールート三日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh!!!!\"\nMy entire body jerks from the pain.\nI hear the sound of tearing flesh.",
+      "sourceUnit": "セイバールート三日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh...ungh...!\"\nThis was not my mind playing tricks.\nEven if it was some sort of illusion, I can feel my arm being torn apart.\nMy arm is unscathed though.\nBut somehow the priest's fingers are digging and tearing into my arm.\nIt's as if his fingers became intangible and moved through my flesh.",
+      "sourceUnit": "セイバールート三日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"It is complete. The operation is successful.\"\n\"Eh? Huh!?\"\nI look at my left arm.\nThere's not a single wound, yet I feel a bruising pain throbbing along the whole arm.\nIn exchange for that unpleasant feeling,\nthe inscription on my hand changed shape.",
+      "sourceUnit": "セイバールート三日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"It changed shape...or...there are fewer strokes.\"\n\"Yep. There are a total of three strokes in a Command Spell. Kirei took two of those strokes from you. Think of him as a spiritual doctor performing as a kind of spiritual surgery, removing a lesion without hurting your physical body.\"",
+      "sourceUnit": "セイバールート三日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"A spiritual doctor...?\"\nIf I remember correctly, they're specialized mages who can treat someone by repairing the spiritual body.\nAnd I hear they perform magecraft that uses a type of curse by removing tumors without cutting the patient up...like magic.",
+      "sourceUnit": "セイバールート三日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a surprise. Spiritual treatments are illegal and used only in uncivilized parts of the world. A man of the Church shouldn't be practicing something like that.\"\n\"That was uncalled for. I was unfit to be a priest the moment I acquired the ability to perform magecraft.\nAs such, my preferred type of magecraft hardly matters, given that having the choice at all is what made me unfit to be a priest. It matters not whether I perform expert or basic magecraft.\"",
+      "sourceUnit": "セイバールート三日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the one and only thing I am good at. I trained in many types of magecraft, but this was the only one that stuck.\nMy magecraft specializes in opening wounds, which may be interpreted as both good and bad. I do have to admit that I am inferior to my pupil over there in all other disciplines of magecraft, thanks to that.",
+      "sourceUnit": "セイバールート三日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Good or bad? Of course it's good.\nThere aren't many spiritual doctors as skilled as you in the Association, and there's only a handful who can skillfully mend spirits and handle sacraments as well as you in the Church.\"",
+      "sourceUnit": "セイバールート三日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Who knows? This may be a superior method of treatment, but the fact of the matter is that it still relies on physical contact with a body.\nIt is far from the miracle of touching the soul itself, which is proof of one's existence independent of the flesh.\nEither way, the extraction of the Command Spells is complete.\nThe rest is up to you, Shirou Emiya. You must use your final Command Spell and sever your contract with your Servant.\"",
+      "sourceUnit": "セイバールート三日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Sever my contract with my Servant?\"\n\"That's right. You need to request to dissolve your contract with Saber, who's waiting outside. Saber will likely refuse. Which is why Kirei left you a Command Spell to force her to agree.\"",
+      "sourceUnit": "セイバールート三日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"There you have it. You will use up your Command Spell and sever your Contract with the Servant, ultimately declaring to the other Masters that you are harmless.\nAnd with that, you will be free. No sensible Master would bother attacking a powerless Master at that point.\nBy relinquishing this power you never expected to gain, you will reclaim your wonderful, peaceful life.\"",
+      "sourceUnit": "セイバールート三日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nUnilaterally dissolving my contract with Saber.\nI'm basically betraying her.\nEven if it was by chance, I summoned her, and she protected me.\n\"...\"\n...Did I make a mistake?\nI can't agree to let myself be a part of something where Masters try to kill each other.\nI don't agree...but what if I can't turn a blind eye to it either?",
+      "sourceUnit": "セイバールート三日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? You need no incantation to activate the Command Spell. You simply have to focus your thoughts on the Command Spell and order your Servant.\nYou either tell Saber directly, or you can simply cut your contract right here. It is your choice.\"\n\"...\"\nNo.\nMy mind is made up.\nI can't turn back now, and the priest probably wouldn't let me.",
+      "sourceUnit": "セイバールート三日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll go and talk to Saber. I won't be a Master anymore after this, right?\"\n\"Directly to Saber? Emiya, that's...\"\n\"Yes, I guarantee it. Go and say goodbye to your Servant. Afterward, I will welcome you into the church for protection.\"",
+      "sourceUnit": "セイバールート三日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure how serious he is, but the priest says he'll welcome me.\nI have no intention of being under his care, though.\nAll I'm going to do is to forfeit my claim as a Master. I absolutely refuse to receive any help from him after that.",
+      "sourceUnit": "セイバールート三日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse. I don't want your protection. After I talk to Saber and use my last Command Spell, I'm going home.\nThat'll be it. I'll never see you again.\"",
+      "sourceUnit": "セイバールート三日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. Yes...we will certainly never see one another again.\nGoodbye, Shirou Emiya. This is the path you chose, so take pride in it.\"",
+      "sourceUnit": "セイバールート三日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe doesn't need to tell me that.\nI turn and leave the church.",
+      "sourceUnit": "セイバールート三日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I step outside the church.\nShe's there, waiting in the stone paved square, beneath the clear sky.",
+      "sourceUnit": "セイバールート三日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you finished your conversation, Master?\"\n\"Yeah. I learned what the Holy Grail War was all about.\n...And with that in mind, I made a decision. Saber, I'm going to resign as a Master.\"\n...\nSaber's expression doesn't change.\nThose green eyes regard me knowingly, as if my decision was the most natural thing in the world.",
+      "sourceUnit": "セイバールート三日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Does that mean you will be nullifying your contract with me?\"\n\"Yeah. I'm not fit to be a Master. And you'd be better off forming a contract with a more capable Master, rather than sticking around with a fledgling like me.\"",
+      "sourceUnit": "セイバールート三日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. If I seek to improve my chances, I should form a contract with another mage. Archer's Master should be able to draw out my full potential.\"\n\"Yeah. Then you agree to sever our contract?\nI'm going to use my Command Spell to dissolve the contract, and you will be free, Saber.\"",
+      "sourceUnit": "セイバールート三日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I will ask you only once.\nIs your mind made up about abandoning your role as a Master?\"\n\"Yeah. I have no intention of killing anyone.\"\nI say that as I look straight at Saber.\nAt that moment.\nSaber's raincoat sways.",
+      "sourceUnit": "セイバールート三日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nI stare, dumbfounded, directly into death itself.\nIn the brief moment I blink, Saber has closed the distance between us.\n\"Eh...?\"\nShe sweeps my legs from beneath me. I slam hard into the ground.",
+      "sourceUnit": "セイバールート三日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Augh!\"\nPain spikes through my legs after a brief delay.\nThere's no blood. My legs are still intact.",
+      "sourceUnit": "セイバールート三日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...gh!\"\nIt's a relief I still have legs.\nThankfully, she only struck my legs with a metal rod.\nMy bones are cracked and my leg hurts like it's been shattered to a thousand pieces, but it's better than having both my legs cut off.",
+      "sourceUnit": "セイバールート三日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. A mage who is no longer a Master will die at their Servant's hands. No matter how inexperienced you are, you summoned me, and you have the power to keep me in this world.\nA Servant requires a Master.\nIf you are to sever the contract, I will kill you and take your body—your Magic Circuits.\nDo you still want to relinquish your role as a Master?\"",
+      "sourceUnit": "セイバールート三日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI try to ignore the pain and focus all my concentration into looking up at Saber.\nI sense no hostility or murderous intent from Saber.\nAs natural as breathing...\nSaber will kill me, without remorse or regret, simply to remain in the world.\nEven so...",
+      "sourceUnit": "セイバールート三日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. Even if I changed my mind right now, I wouldn't do it. And it's not just because I only have one Command Spell left.\nI want nothing to do with this war. I disavow my position as a Master. Having a Master like me will only end in your defeat.\"",
+      "sourceUnit": "セイバールート三日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I was defeated.\nIf I refused to fight once, so I'll certainly do the same a second time.\nEvery time I find myself in that position, I'll regret fighting.\nMe being a Master would put not only me, but also Saber, in jeopardy.",
+      "sourceUnit": "セイバールート三日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Then you have no objection to me killing you here.\nI cannot become a spirit. As I cannot take in your spirit, yours will be a painful death. Are you willing to accept that?\"",
+      "sourceUnit": "セイバールート三日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nngh. The hell. I'm not willing to fight, but I'm even less willing to just be killed. I'm going to resist. I'm going to try to flee, no matter how futile that may be.\"\nI psych myself up and glare back at Saber, refusing to let her overwhelm me.",
+      "sourceUnit": "セイバールート三日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"Saber...?\"\n\"Very well. Use your Command Spell. It is your decision. I have no right to intervene.\"\n\"Eh?\"",
+      "sourceUnit": "セイバールート三日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not worry. I simply failed to build sufficient trust with my Master this time. If you sever our contract using your Command Spell, I will be free. This body will only last roughly two hours, but it is simply a matter of finding a new Master in that time.\"",
+      "sourceUnit": "セイバールート三日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Saber lays this all out matter-of-factly.\nInspired by her resolve...\nI concentrate my thoughts on the Command Spell on my left hand to break my contract with Saber.",
+      "sourceUnit": "セイバールート三日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Now you will be free. Our alliance was brief, but your magical energy was pleasant to me.\nI shall never see you again, but I pray you survive this battle.\"",
+      "sourceUnit": "セイバールート三日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "The silver armor moves away.\n\"...!\"\nI realize that I have the urge to call out to her, but I smother it before I embarrass myself.",
+      "sourceUnit": "セイバールート三日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I have no right to call out to her.\nShe didn't blame me for arbitrarily severing our contract, and was concerned for my safety until the very end.\nAnd, since I've pushed her hand away and stepped down from the Holy Grail War, I'm in no position to call to her.",
+      "sourceUnit": "セイバールート三日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "The moonlit night is silent.\nIt may be past midnight, but the town seems...excessively silent.\n\"...\"\nIt's eerie, honestly.\nEerie. Yes, that does seem to describe the mood.",
+      "sourceUnit": "セイバールート三日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"When did the town turn out like this?\"\nIt's obvious.\nIt's the Holy Grail War. The six mages in this town engaging in secret battles are the ones sucking the life from the town.",
+      "sourceUnit": "セイバールート三日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy chest hurts.\nMy chest, where Lancer stabbed me hours ago, aches.",
+      "sourceUnit": "セイバールート三日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I should get home. Nothing good will come of me going back to the church now.\"\nI try to fight down the pain in my chest as I walk home.\nI'll think about what I should do once I get home.\nOnce I get home, I can take a bath and clear my head. Yes, that'll help me calm down.",
+      "sourceUnit": "セイバールート三日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nI'll think about what I should do once I get home.\nThat thought in itself was a mistake.",
+      "sourceUnit": "セイバールート三日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\"\nLike a bad dream, I see that there is no path ahead.",
+      "sourceUnit": "セイバールート三日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Aw. So you're all alone now, brother.\"\nI raise my head toward the sound of a girl speaking in a hushed voice.\nThe blue moon hangs overhead.\nStanding at the top of the hill that leads back to my house,\nI see a girl and a strange figure.",
+      "sourceUnit": "セイバールート三日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...\"\nAnd then...I'm not sure.\nThere was no time to see them, no moment to exchange words, or even a chance for me to run away.",
+      "sourceUnit": "セイバールート三日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "The strange figure—a dark giant—swings his weapon. The blow creates such overpressure that it takes—\n\"AaaAAAaaahhhHHHH!\"",
+      "sourceUnit": "セイバールート三日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, aaah, ah, ah!!!\"\nIt flies. It flies off. What flies? From the base!?\nThe hill behind me is stained red, wet as if a rainstorm just passed by. But the ruined, torn part of my body remains pink. Blood slowly oozes out. Agony and terror creep over me.",
+      "sourceUnit": "セイバールート三日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Berserker. I don't feel like playing tag, so just squish him.\"\nI tumble.\nI'm kneeling forward, but my knees are bent in the wrong direction.\nThey... They're bent forward. The legs are bent at right angles where my knees used to be.",
+      "sourceUnit": "セイバールート三日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...aaahhh!?\"\nMy mind can't keep up.\nThe mind-searing agony makes it impossible to keep up with what's happening.\nBerserker.\nI'm sure I heard that.\nWhich means the monster in front of me...",
+      "sourceUnit": "セイバールート三日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Fufu. You have really good manners, brother. I know what you're doing. You're sitting in a kaishaku style...an assisted suicide position. My grandfather said Japanese people are well-behaved people who always sit up straight as they wait to be killed.\"\nMy consciousness begins to fade.\nThe girl's innocent voice seems out of place in this situation.",
+      "sourceUnit": "セイバールート三日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah...n...\"\nI look up.\nI can't breathe.\nPart of my chest is simply missing, leaving a gaping hole right through me.",
+      "sourceUnit": "セイバールート三日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "I fall backward onto the ground.\nBoth of my legs are folded like caterpillar treads. They're broken and won't move.\nI use my one working arm to grasp at the asphalt and drag myself away.",
+      "sourceUnit": "セイバールート三日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you can still move. But what a shame. You can't run away now. Even if you manage to escape, it's pointless.\nEven if you managed to get away from me, you'll be dead in a few seconds.\"",
+      "sourceUnit": "セイバールート三日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha....\"\nMy body feels light.\nI've lost over half my blood.\nIt's astonishing that I'm still conscious.\nMy brain is starved for oxygen, and it should have stopped functioning long ago.",
+      "sourceUnit": "セイバールート三日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"But don't worry. It'd be no fun if you died that easily, so I'm going to give you a little hand!\nNo matter how broken and in pain you are, you're going to stay conscious until we've crushed your head.\nThat's why you're going to keep on writhing like a little bug.\"",
+      "sourceUnit": "セイバールート三日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"GHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA!!!\"",
+      "sourceUnit": "セイバールート三日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "I feel myself being crushed.\nWhatever that weapon is, it crushes me like a hydraulic press.\nIt flattens my entire body like a sheet of paper.",
+      "sourceUnit": "セイバールート三日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...aaah...ah...\"\nI can't die.\nThe only blood I have left is in my head. My body has ceased to function and my nerves have already accepted death, waiting to be relieved from the pain. Yet somehow I cling to consciousness.",
+      "sourceUnit": "セイバールート三日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy throat whistles.\nThe sound echoes in my head.\nMy mind is a muddled mess.\nI just want to escape this pain...\n\"Argh...I...not...Master...anymore...\"\nI appeal to the girl, as if begging for help.",
+      "sourceUnit": "セイバールート三日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "A moment of hope.\nThe girl gasps as if surprised.\n\"So?\"\nShe smiles like an angel as she says that.",
+      "sourceUnit": "セイバールート三日目-04:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ha.\"\nAll rationality abandons me.\nI'm not going to get away from this.\nI feel then, down to my soul, that I'm going to die here.",
+      "sourceUnit": "セイバールート三日目-04:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, maybe you're small enough that I can pick you up now.\nThen I'll invite you to my castle.\nI have lots and lots of tools in my castle, so we can take our time and continue this there.\"",
+      "sourceUnit": "セイバールート三日目-04:page68:1"
+    },
+    "page69": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page70": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

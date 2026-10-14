@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0348",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I run in a hurry.\nI hear another set of footsteps.\nSaber is following behind me.",
+      "sourceUnit": "凛ルート十一日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"You're late. You have some nerve making a girl wait.\"\nI don't have any nerve.\nIt seems it's already been decided that we're going on a date without my consultation.",
+      "sourceUnit": "凛ルート十一日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, hold on...! Why are we going out!?\"\nBecause I feel like it. You don't mind right? It's not like we're doing anything during the day. I won't let you run away now.",
+      "sourceUnit": "凛ルート十一日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Er... Well, I don't mind, but... Yeah, what about Archer!? He must be against something like this!\"",
+      "sourceUnit": "凛ルート十一日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I left Archer. I bet he's sleeping at my house right now.\"",
+      "sourceUnit": "凛ルート十一日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I can't win.\nI can't talk down Tohsaka on my own.\nIf anyone can stop her, um...",
+      "sourceUnit": "凛ルート十一日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, Saber! What about Saber?\"\n\"Saber is fine, she can accompany us.\"\nDefeated.\nAll my cards are trumped with just one sentence.",
+      "sourceUnit": "凛ルート十一日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you accepted it now? Then let's hurry. We're going to forget our duties as Masters and have fun.\"\n\"Huh... Hey, wait I said, idiot...!\"\nThere's no time to be confused.\nTohsaka grabs my hand and runs out the door.",
+      "sourceUnit": "凛ルート十一日目-11:page7:1"
+    },
+    "page8": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

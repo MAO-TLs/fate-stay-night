@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0614",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "After lunch, I take a break and go back to my room.\nTohsaka said she had something to do, and took Illya to her room.",
+      "sourceUnit": "桜ルート十一日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya's going to help me come up with countermeasures against Zouken. It'll take time for your body to adapt to the crest, so take it easy in the afternoon.\nYou'll just be in our in way.\"",
+      "sourceUnit": "桜ルート十一日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "So she said.\nWe don't have any way to fight back against Zouken right now.\nAll there is to do is wait for Tohsaka to finish whatever she's working on.",
+      "sourceUnit": "桜ルート十一日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Sakura goes back to her own bedroom.\nShe had several dizzy spells while we were cleaning up after lunch.\nI was relieved when I saw her in good spirits this morning, but she's still suffering from a fever.\nShe took our advice to rest in her bedroom if she felt tired at all.",
+      "sourceUnit": "桜ルート十一日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd now I'm alone, looking at my left arm.\nI couldn't move it at all before, but now I can slightly bend it at the elbow.\nIt still feels completely numb, but on the bright side, it doesn't hurt much anymore.",
+      "sourceUnit": "桜ルート十一日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "If there's any pain, it's mostly from the crest that Tohsaka transplanted to me.\nMy shoulder, throat, and dantian just below my navel.\nEach spot feels like one of the Frankenstein monster's bolts are screwed into it.",
+      "sourceUnit": "桜ルート十一日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"First they put someone's left arm on me, and now they're holding my body together with bolts.\"\nI picture myself as a cyborg from a sci-fi movie.\nIt's an amusing image, but there's nothing funny about my condition.\n...I wanted to check out my arm in the mirror, but I can't even stand up in front of it.",
+      "sourceUnit": "桜ルート十一日目-00:page6:1"
+    },
+    "page7": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十一日目-00:page7:1"
+    }
+  }
+}

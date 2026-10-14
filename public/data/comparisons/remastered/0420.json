@@ -1,0 +1,811 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0420",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, promise me you won't get mad.\nBut I'm thinking that...maybe I should...\"\n\"Take on Gilgamesh, right?\n...I'm surprised, so you did notice. The only thing that could counter Gilgamesh's Noble Phantasm...is Archer's magecraft.\"",
+      "sourceUnit": "凛ルート十四日目-08:page0:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nMy jaw dropped.",
+      "sourceUnit": "凛ルート十四日目-08:page1:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean what? Don't tell me... You were thinking of something crazy like that without even realizing the most important part?\"\n\"Well...I wouldn't say that. I didn't have concrete evidence but I had a feeling that maybe I have the best chance against him...\"",
+      "sourceUnit": "凛ルート十四日目-08:page2:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmmm, I see. I'm not sure who gave you the idea, but you weren't wrong about that.\nWhat makes Gilgamesh the most powerful Servant is the number of his Noble Phantasms. But following the same line of thought, whoever possesses the same amount of Noble Phantasms could potentially go up against him.\"\n\"...Same amount of Noble Phantasms.\"\nBasically, I just need to copy every single one of his weapons as soon as he unleashes them.",
+      "sourceUnit": "凛ルート十四日目-08:page3:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right. I know he mocks you and calls you two fakers, but I'm sure that's just because he sees you two as threats. He has no choice but to admit that Heroic Spirit Emiya gets to fight him on the same ground.\"\n\"...\"\nThat's true, but...",
+      "sourceUnit": "凛ルート十四日目-08:page4:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe that's the case, but there's a limit.\nHe can tell that as soon as I Project one of Archer's swords. There's no way I can Project fast enough and I don't have enough magical energy to do so.\"\n\"That's only if your magecraft stays the same as before.\nBut you do remember what Archer's Noble Phantasm is, right?\nThat magecraft... As long as you can master that Reality Marble, you will have a chance against Gilgamesh.\"",
+      "sourceUnit": "凛ルート十四日目-08:page5:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka stares at me with high expectations.\nUnfortunately, I can't answer her expectations.",
+      "sourceUnit": "凛ルート十四日目-08:page6:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. Reality Marble is forbidden even amongst the most dangerous spells, right? Besides I don't know how to do it, and I don't even have a fraction of the magical energy needed when Archer created his world.\"",
+      "sourceUnit": "凛ルート十四日目-08:page7:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I know it'd be difficult.\nHowever, you should already know how to do it. That's because your magecraft all originates from it. Whether it's Strengthening or Projection, it's just a byproduct of your Reality Marble.\nAs long as you have enough magical energy, I'm sure even you'll be surprised at how gears just fall into places by themselves.\"",
+      "sourceUnit": "凛ルート十四日目-08:page8:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Even if that's the case, it still doesn't change the impossible. I don't have the magical energy to put up or sustain the Reality Marble.\nI'm sure Archer spent his lifetime strengthening his Magic Circuits, but I don't have what he has...\"",
+      "sourceUnit": "凛ルート十四日目-08:page9:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I understand.\nBut Gilgamesh said so too, remember? A true mage would compensate for what's lacking in themselves from elsewhere.\"",
+      "sourceUnit": "凛ルート十四日目-08:page10:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen to me, I'm not skilled enough to try to siphon magical energy from other places, and I don't know how to store my magical energy into gems like you.\n...Wait, are you asking me to use those gems?\"\nOf course, I don't think she'll agree to that seeing that I don't have any training in magecraft to be able to utilize those gems.",
+      "sourceUnit": "凛ルート十四日目-08:page11:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"If that worked, I would've given you the gems already. Besides, only I'm capable of transferring those gems into energy so no, that wouldn't work.\n...But, maybe that's our only approach.\nThere are a lot of steps we have to take in order to make someone else's magical energy your own, but I think that's the only option we're left with considering our situation...\"",
+      "sourceUnit": "凛ルート十四日目-08:page12:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Tohsaka. You mind sharing what's on your mind? I can't help if you don't tell me what's going on.\"\n\"What? Th-there's no way I can tell you about something like that!",
+      "sourceUnit": "凛ルート十四日目-08:page13:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...Hmmm.\nIt seems she's thinking about something that's hard to tell me.",
+      "sourceUnit": "凛ルート十四日目-08:page14:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I-it's nothing.\nThere are a couple of options, but I simply went through the process of elimination and got rid of the ones with a low chance of success...\"\n\"Is that so? Then does that mean you have a good plan now?\"",
+      "sourceUnit": "凛ルート十四日目-08:page15:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Well...to be honest, this is a problem between me and you.\nThere's a way to connect two mages' pools of magical energy together to make this work.\"",
+      "sourceUnit": "凛ルート十四日目-08:page16:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...So it would be like creating a path for the magical energy to pass through between us?\"\n\"Right. Even if you don't have enough magical energy for your Reality Marble, I do.\nYou will use my magical energy to fight Gilgamesh, and Saber and I will destroy the Holy Grail during that time. I have Saber with me so we should be okay on our end even if I'm short on some magical energy.\"",
+      "sourceUnit": "凛ルート十四日目-08:page17:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "If I can use my Reality Marble to hold Gilgamesh back, without any other Servants and Masters, the Holy Grail is left wide open.\nTohsaka being a mage and having Saber by her side, our chance of success is high enough.",
+      "sourceUnit": "凛ルート十四日目-08:page18:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...But that brings another issue, the hard part is the step before that. I don't know how to create a path for magical energy to pass through.\"\n\"That much I'm aware. It'll be up to me to think of a way.\"",
+      "sourceUnit": "凛ルート十四日目-08:page19:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is thinking of something.\nBut she doesn't look optimistic about it.",
+      "sourceUnit": "凛ルート十四日目-08:page20:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"About creating a path, there's only a handful of methods that are immediate and can allow magical energy to pass through.\nThe most effective one would be to transplant our Magic Circuits into each other.\"",
+      "sourceUnit": "凛ルート十四日目-08:page21:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...Transplant our Magic Circuits into each other?\nMagic Circuits are secondary pseudo-nerves that can be said to define a mage.\nUsing od to exert influence on mana, the core mechanism of a mage.\nIt's a \"living inheritance\" to make sure one's bloodline can have the foundation necessary to realize their family's great work when they've reached the pinnacle.\nYou can say it's like one's blood and bone that strengthen as time goes on.",
+      "sourceUnit": "凛ルート十四日目-08:page22:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Magic Circuits, like the ones in you and me?\"\n\"Yes. If we transplant our essences as mages to each other, it would guarantee a path.\nThere's no easier way to transfer your magical energy to someone else when you have part of their circuit as your own.\"",
+      "sourceUnit": "凛ルート十四日目-08:page23:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Her explanation is short and simple, yet contains a sense of guilt.\n...Of course it would. I can't even begin to imagine the consequences of doing something as crazy as transplanting your Magic Circuits into someone else.\nFor a person to offer their own Magic Circuits to be transplanted, it also means they're giving up their integrity as a mage.\nBut that makes this easier.",
+      "sourceUnit": "凛ルート十四日目-08:page24:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I will give you my Magic Circuits.\"\n\"...\"\n\"Wh-what, Tohsaka?\"\n\"I'm happy that you'd think that, but that's meaningless.\"",
+      "sourceUnit": "凛ルート十四日目-08:page25:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Right in my face.\nShe just ends up throwing my resolve right back in my face.",
+      "sourceUnit": "凛ルート十四日目-08:page26:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why?\"\n\"Look. The reason why we're even talking about all this is so we can use your Reality Marble, right? Then why would we want to weaken your circuit?\nUsing the Reality Marble is only possible when we fully exert all of our Magic Circuits.\"\n\"...\"",
+      "sourceUnit": "凛ルート十四日目-08:page27:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nI'm the one who will use the Reality Marble. I will only barely be able to create a fantasy big enough to corrode the world itself when I fully exert my Magic Circuits.\nIf I were to transplant some of my Magic Circuits into Tohsaka to create a path, then I wouldn't have enough circuits to perform my magecraft, which would defeat the purpose.",
+      "sourceUnit": "凛ルート十四日目-08:page28:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it?\nThat would be like spending all of this effort to just make us weaker, Shirou.\"\n\"I'm sorry, I didn't think that far ahead.\"\n\"It's ok, no need to apologize. I thought you would come up with something like that. I didn't expect you would say it so quickly though.\"",
+      "sourceUnit": "凛ルート十四日目-08:page29:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"…So, we transplant your Magic Circuits into me?\"\nBut that also means...\n\"...It's true that instead of transplanting your circuit into me, the reverse would better secure our chances.\nHowever, I'm the one performing the ritual for the transplant. Taking part of the circuit away while using it can't guarantee the stability of the ritual itself.\nMy mind would be more at ease if this was standardized like the ritual we perform to form contracts with our familiars. But creating a path of magical energy between two mages is not something that happens everyday.\"",
+      "sourceUnit": "凛ルート十四日目-08:page30:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...So this could end up bad for the both of us?\"\n\"Right. I can't take your magical circuit and unfortunately me giving you my magical cirucit is also incorrect.\nAnd that's why...\"\n\"That's why...?\"\n\"I'm going to transplant my Magic Crest into you.\"",
+      "sourceUnit": "凛ルート十四日目-08:page31:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Magic Crest.\nIt records the secrets and hidden arts of a mage's family; it's their history.\nIf Magic Circuits are the blood and bones of a mage, then one could say that the crest is their muscle.",
+      "sourceUnit": "凛ルート十四日目-08:page32:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "A Magic Crest is magecraft taking form.\nThrough the life work of the mage leading the family in that generation, what was supposed to be formless is then given form. It is the proof of a mage's existence.\nTohsaka having inherited her family's crest, she gets to enact the magecraft that this generation's family head created.",
+      "sourceUnit": "凛ルート十四日目-08:page33:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait, but that means—\"\n\"It's much easier to give a Magic Crest to someone. Unlike Magic Circuits, crests are meant to be given to others.\n...Well, while it doesn't define me as much as my Magic Circuits do, the crest is still created by the Tohsaka family, so it should suffice for our purpose.\"",
+      "sourceUnit": "凛ルート十四日目-08:page34:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are you sure?\"\n\"I'm sure. Well, the magecraft that was crystalized into the crest would probably be rendered useless, but at least I can turn that into a receiver for magical energy.\nOr are you talking about the success rate? Like is it possible to transplant the Magic Crest to someone outside my family's bloodline?\"",
+      "sourceUnit": "凛ルート十四日目-08:page35:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, that part worries me too, but...\"\n\"Don't worry, leave it to me. I will back you up, and we'll get that Holy Grail with you, me and Saber, the three of us.\nThat's right, we already made up our minds. I will overcome my biggest failure with everything I've got.\"",
+      "sourceUnit": "凛ルート十四日目-08:page36:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "She asserts confidently with a bright smile.\n\"...\"\nThere is nothing else that needs to be said.",
+      "sourceUnit": "凛ルート十四日目-08:page37:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Removing her Magic Crest.\nThat's the same as delaying her family's ultimate wish with her own hands.\n...I've seen that so many times.\nThe fact that she could overcome that truth with a simple smile and with such determination is her strength, and I've seen it so many times.",
+      "sourceUnit": "凛ルート十四日目-08:page38:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what? Why are you smiling like that?\nI-is something weird on my face?\"\n\"What? ...Ummm. Right, it's the same when we went to the church. I don't know how to put this, but it's hard to know what to like about you.\"\n\"...That's rude.\nThat reminds me, was my face weird at that time?\"",
+      "sourceUnit": "凛ルート十四日目-08:page39:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "The fated night when I summoned Saber.\nTohsaka looked seriously worried about me, someone who is just her enemy, when I got sick at the church. I'll never forget how much that expression saved me.\nI can't say too much about others, but Tohsaka was a really nice person, probably nicer than anyone I've ever met.",
+      "sourceUnit": "凛ルート十四日目-08:page40:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Well yeah, it was weird.\nAt the time I only thought of you as a goodie two-shoes at school, so I didn't think you would make a face like that.\"\n\"...Whatever. That's right, I'm just a woman who's cold as the iceberg. Sorry I couldn't make it more obvious before.\"",
+      "sourceUnit": "凛ルート十四日目-08:page41:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Yes, but I have been saved by her.\nShe's kind yet realistic, and has the heart of steel who's willing to discard her weakness at a moment's notice.\n...She hides her hesitation and troubles in her heart, and always shows the elegant side of her to everyone, treading forward on her own path with grace.",
+      "sourceUnit": "凛ルート十四日目-08:page42:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"And? It's fine what you think about me, but why are you still staring at me?\"\n\"What? Oh, I suppose I was captivated by you. I know it might be too late, but maybe I fell for you because of your charm.\"\n\"...!\"",
+      "sourceUnit": "凛ルート十四日目-08:page43:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Then I can't lose.\nShe's willing to transplant her Magical Crest to me without hesitation and regret. Then I must repay her kindness with my own trust.",
+      "sourceUnit": "凛ルート十四日目-08:page44:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what do you mean you f-fell for me? Now is not the time for that, but at least I can hear what else you want to say...\"\nTohsaka is readying herself.\nI'm glad. It seems she's prepared and has noticed my resolve.",
+      "sourceUnit": "凛ルート十四日目-08:page45:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I understand. We're short on time so we probably shouldn't waste time on small talk, right?\nC'mon, let's start the transplant. Specifically, what am I supposed to do, Tohsaka?\"\n\"Huh?\"\nHer mouth is wide open.\n...That's weird. Did I just say something funny?",
+      "sourceUnit": "凛ルート十四日目-08:page46:1"
+    },
+    "page48": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "She swings her body and turns away from me, and then she starts to take various items out of her bag.\n\"Here, take this. Just think of it as a pain killer.\"\n\"O-okay.\"\nI put the lozenge in my mouth.\nTohsaka turns off the light in the room, and starts to draw some kind of pattern on the floor.",
+      "sourceUnit": "凛ルート十四日目-08:page49:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "About five minutes have passed.\nAfter the preparation is complete, Tohsaka sits down on the bed.",
+      "sourceUnit": "凛ルート十四日目-08:page50:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, Tohsaka. What am I supposed to do now?\"\n\"...\"\nIt doesn't seem like she didn't hear my question.\nBut Tohsaka is having this strange troubled look on her face.",
+      "sourceUnit": "凛ルート十四日目-08:page51:1"
+    },
+    "page53": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Hey you there! Don't get the wrong idea! I'm just telling you to take off your clothes!\nI-I'm also going to take my clothes off so it's fair!\"\nI took my weird fantasy back after she yelled at me.",
+      "sourceUnit": "凛ルート十四日目-08:page54:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait? Are you...taking...your clothes off, too?\"\nI don't know how else to interpret what she said other than taking it as exactly what it is.",
+      "sourceUnit": "凛ルート十四日目-08:page55:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"I-I told you not to twist my words! I asked you to take off your clothes so we can sense each other's body warmth directly! Nothing else!\nListen! We must highly synchronize our senses in order to perform the Magic Crest transplant. In order for that to happen, we have to get rid of as much interference as possible.\"\n\"O-Oh, ok. That makes sense.\"",
+      "sourceUnit": "凛ルート十四日目-08:page56:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "Of course.\nI'm not sure what transplanting a Magic Crest actually looks like, but from the sound of it, it could be similar to a medical transplant. I guess you wouldn't operate on a patient when they're fully clothed.\n\"You could've told me that from the beginning... Ummm, I just need to take the top off, right?\"\n\"O-of course! I will throw the heater at you if you dare take your pants off!\"",
+      "sourceUnit": "凛ルート十四日目-08:page57:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "It's scary thinking of what she might actually do.\nTaking off my top... I have had her take care of my injuries a few times already, but it still feels a little embarrassing.\n\"...\"\nI can hear Tohsaka taking a deep breath in the dark.",
+      "sourceUnit": "凛ルート十四日目-08:page58:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ok, now for the next step. Shirou, turn around.\"\n\"Right, I forgot you have to take your clothes off, too.\"\n\"...\"\nNo answer.\nTaking her silence as affirmation, I quietly turn around.",
+      "sourceUnit": "凛ルート十四日目-08:page59:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"",
+      "sourceUnit": "凛ルート十四日目-08:page60:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAs I turn my back towards her, I take a deep breath to calm myself.\nI'm going to receive her Magic Crest, and create a path between us.\nHer magical energy will pass through it, and allow me to activate the Reality Marble in order to defeat that Servant.\nThis is simply a process in this long and dangerous fight.\nI should be able to suppress unnecessary thoughts by just reaffirming that fact to myself.",
+      "sourceUnit": "凛ルート十四日目-08:page61:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...You can turn around now, Shirou.\"\nMy heart skips a beat.\nI turn around slowly to face Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-08:page62:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ummm?\"\nI let out a sound.\nIt might seem rude, but I'm troubled by what I'm seeing.",
+      "sourceUnit": "凛ルート十四日目-08:page63:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Say Tohsaka... Why are you taking off your clothes so reluctantly?\"\nTohsaka has taken off some clothes.\nBut, from the way she removed them I don't feel any resolve in her.",
+      "sourceUnit": "凛ルート十四日目-08:page64:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what!? Do you have a problem with me!?\"\n\"...Not really a problem per se, but it's not symmetrical. Basically, I took off everything I was wearing on top but you've only taken off that much clothing. The ratio just doesn't match. It's gotta be relatively the same between us.\"\n\"...F-Fine, I'll take my leggings off as well... Geez, he's more of a maniac than I thought.\"",
+      "sourceUnit": "凛ルート十四日目-08:page65:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Well.\nI shouldn't press further on what we are talking about.",
+      "sourceUnit": "凛ルート十四日目-08:page66:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. You're the one performing the ritual, so as long as the ritual can be successful I won't complain.\"\n\"...I mean, the ritual will be more difficult when we have more clothes on... But, it's such a waste if I just show you everything now...\"\nTohsaka is murmuring to herself.\nFortunately, it's taking everything in me to keep calm, so I don't have any energy left to argue with Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-08:page67:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine then, Shirou, turn around again.\"\nShe whispers to me, and I turn around immediately.\nThis time, the sound of Tohsaka's clothes rustling lasts a little longer than before.\nOnce again, I remind myself that this is a serious ritual.\nEven if Tohsaka is in her most exposed and defenseless form, my becoming franctic will ruin this whole thing.",
+      "sourceUnit": "凛ルート十四日目-08:page68:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...H-how about now, Shirou?\"\nTohsaka's voice trembles.\nI slowly look over Tohsaka's body.",
+      "sourceUnit": "凛ルート十四日目-08:page69:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can faintly see the soft outline of her body under the dim lamp light.\nHer shoulder, neck, and collarbone form the most beautiful silhouette.",
+      "sourceUnit": "凛ルート十四日目-08:page70:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well? Are you happy now?\"\nI'm relieved that even when she looks so beautiful, she's still the same snappy Tohsaka.\nI try to relax my expression, as I feel that I may have unknowingly broken into a smile.",
+      "sourceUnit": "凛ルート十四日目-08:page71:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Very. This is actually making it a bit difficult for me.\"\nI cover my face with my hands, and take a very deep breath.\nIf I don't at least hide my face, which is probably red as an apple right now, I'll lose my composure.",
+      "sourceUnit": "凛ルート十四日目-08:page72:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. Since I get to you see like that, let's call it even.\n...Shirou, come here.\"",
+      "sourceUnit": "凛ルート十四日目-08:page73:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka makes a gesture, beckoning me to join her at the bed.\n...We sit facing each other on the bed. The bed bounces, reacting to our weight.",
+      "sourceUnit": "凛ルート十四日目-08:page74:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nWithout saying a word, we both take in a deep breath.\n...Tohsaka is going to start the Magic Crest transplant ritual.\nI force myself to calm down before this intimate encounter.\nMy consciousness is getting clearer as I focus my mind.",
+      "sourceUnit": "凛ルート十四日目-08:page75:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to start now. Shirou, hold this against your chest.\"\nShe reaches out her left hand with the Magic Crest.\n...As I began receiving magical energy, the pattern on the upper area of my exposed arm faintly started to shine.",
+      "sourceUnit": "凛ルート十四日目-08:page76:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"After we sync up, I will transplant my Magic Crest into your Magic Circuit.\nUltimately, the Magic Crest is part of someone else's body... having it transplanted into you is the same as getting a foreign object put inside you, so it's possible that your body may show signs of rejection.\"\n\"I understand. I'm used to rough stuff like that.\"",
+      "sourceUnit": "凛ルート十四日目-08:page77:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "This is no different from how I was training to use my Magic Circuit.\nActivating a foreign nerve system while learning to control it... Not sure if it will be the same experience as with a Magic Crest.",
+      "sourceUnit": "凛ルート十四日目-08:page78:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"It seems you are. I heard you have the tendency of exhausting your body.\"\nMaybe because this reminded her of my unusual training, but Tohsaka lets out a small giggle.\nHowever...",
+      "sourceUnit": "凛ルート十四日目-08:page79:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"That's that. If you do anything weird right now I'll kill you.\"\nShe glares at me with narrowed eyes.\n\"...What do you mean by weird?\"\n\"...\"\nShe ignored me.",
+      "sourceUnit": "凛ルート十四日目-08:page80:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "I shorten the distance between us to the point that our shoulders are practically bumping together.\nIt looks like I'm embracing Tohsaka's left hand.\nI can feel Tohsaka's breath on my neck.\nBut then I realize she isn't just breathing...",
+      "sourceUnit": "凛ルート十四日目-08:page81:1"
+    },
+    "page83": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "Her breath trembles as she utters the incantation.\nI can sense that magical energy is filling her body through her left hand.\nHer delicate fingers are placed on my chest. Through them I can feel her pulse together with my own heartbeat.",
+      "sourceUnit": "凛ルート十四日目-08:page83:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Ich spinne den Regenbogen in neuem\nselbst.\nHeites Wetter, Regen, Wind, Schnee,\nKrieg, Ende, ununterbrochen.\"",
+      "sourceUnit": "凛ルート十四日目-08:page84:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "I close my eyes to concentrate even further.\n...My heartbeat is syncing with the pulse of her magical energy. She's adjusting her pulse to match mine, while I maintain a steady rhythm.\n...I focus my mind and keep it in a serene state like I do during my own training. This is the only thing I can do, since I've never experienced synchronization and don't have a feel for it.",
+      "sourceUnit": "凛ルート十四日目-08:page85:1"
+    },
+    "page87": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "My eyelids are closed as if they've been sewn shut.\nMy sense of smell is weakening, and my sense of taste is fading.\nMy body's senses are getting distorted. I can't tell clearly if I'm sitting down or if I'm standing up.\nIn contrast, I can feel the warmth of Tohsaka's skin intimately. My own heartbeat and Tohsaka's pulse, I can't tell which is which anymore.",
+      "sourceUnit": "凛ルート十四日目-08:page87:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "A phantom pain as if someone was having a hold over my heart.\nA phantom experience, as if I am gripping someone's heart.\nI move around my fingers trying to identify this feeling I have in my palm.\n\"...Nngh!\"",
+      "sourceUnit": "凛ルート十四日目-08:page88:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "My hearing still works, I heard a sound just now.\nWait, my senses are mixed up. I can't tell if that was my body I touched or if that was Tohsaka's voice I heard.",
+      "sourceUnit": "凛ルート十四日目-08:page89:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ngh...phew...\"\n...the breaths that escape from her mouth are pained.\nEven while knowing that it isn't my own breath that I'm hearing, I can't help but listen to it.",
+      "sourceUnit": "凛ルート十四日目-08:page90:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, try to pull yourself together, Shirou.\"",
+      "sourceUnit": "凛ルート十四日目-08:page91:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "A voice from inside of me just yelled at me.\nI try to ask what's happening and what's going to happen.",
+      "sourceUnit": "凛ルート十四日目-08:page92:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"We're only at the first phase of synchronization. That's why our senses have swapped and are all mixed up.\nThe real challenge is coming. If you don't focus you will be pulled about by our shared senses—\"",
+      "sourceUnit": "凛ルート十四日目-08:page93:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "That was as much as I could hear before I suddenly lost myself.\nIt feels like my body has turned to paper and is rapidly being folded up.\nSlowly, the paper that is my body is being carefully tucked away. But since time has stopped for the surrounding world, from the outside it probably seems like all of this is happening at the speed of light.\nThere's no limit to this repeated process of accumulation and contraction.\nEven though there is a limit to how many times you can fold up a two-dimensional surface no matter how much area it has, my body keeps folding inward.\nMy vision turns blue, while it was red before I was folded up.",
+      "sourceUnit": "凛ルート十四日目-08:page94:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "...I'm floating.\nI'm falling yet floating at the same time, and the world is passing me by at a rapid speed.\nI try to reach out my hand to familiarize myself in this world where acceleration and termination exist at the same time.",
+      "sourceUnit": "凛ルート十四日目-08:page95:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "...Ah.\nI just realized that my arms were already folded away so there's nothing for me to reach out with.\nNow that's an issue. I already severed things that I've deemed unnecessary to this place, but I didn't think I would lose my arms and legs. If this keeps on then I will lose my sense of self.\nThat's why the first thing I need to do is not to confirm the world, but to assume my own form.",
+      "sourceUnit": "凛ルート十四日目-08:page96:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "I squeeze my hands.\nAlthough temporary, I have certainly achieved a sense of self.\nI am floating in a blue celestial sphere. There's no up or down, no sky or earth.\nIt's quiet. I'm not talking about sound, but my current finite state of serenity.",
+      "sourceUnit": "凛ルート十四日目-08:page97:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "Time is flowing on the outside.\nBlue sea fills the outside.\nThere's nothing within the celestial sphere.\nThat means, this celestial sphere is the sky to the blue sea.",
+      "sourceUnit": "凛ルート十四日目-08:page98:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "The Egg of the World.\nIs the celestial sphere being covered in shells?\nOr is the celestial sphere flipped inside out?\nDoes the void give birth to all? Or does the void seep out from all?\nThe celestial sphere continues to rotate while inverted.",
+      "sourceUnit": "凛ルート十四日目-08:page99:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Here, time is eternal.\nThe formless gains form over the course of an eternity.\nNothing shares the same form, and no lives differ from one another.\nIt is a phenomenon that is common to all things.\nCommon forms congregate, and thus give form to different laws.",
+      "sourceUnit": "凛ルート十四日目-08:page100:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "Each rare occurence,\nalso represents each great result.\n...Beautiful. Just like fish traversing through the vast sea.",
+      "sourceUnit": "凛ルート十四日目-08:page101:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "Will does not exist in this complete world.\nThis world doesn't create persistence or preservation, no symbiosis or hostility.\nThis place welcomes visitors.\nIf a foreign object falls in here for them to exploit.\nThey will, of course, respond to it.",
+      "sourceUnit": "凛ルート十四日目-08:page102:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "The tremendous flow of time is wavering.\nThe collective of Magic Crests senses the foreign object's intention.\nBut, you must be careful.",
+      "sourceUnit": "凛ルート十四日目-08:page103:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy senses are subverted.\nI'm seeing illusions.\nA hidden past not of my own passes me.",
+      "sourceUnit": "凛ルート十四日目-08:page104:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "It was an old memory.\nSomeone else's memory. A memory of parting with someone in the morning. A memory of being placed in a mansion away from Fuyuki once the battle had started.",
+      "sourceUnit": "凛ルート十四日目-08:page105:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "You must be careful.\nNo matter what kind of response to whatever intention.\nAny process conducted by them can only be perceived by humans as divine punishment.",
+      "sourceUnit": "凛ルート十四日目-08:page106:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIn a body that has no need for eyeballs and a brain, I'm getting dizzy.\nInformation is passing by me.",
+      "sourceUnit": "凛ルート十四日目-08:page107:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "I'm seeing old memories.\nParting with a certain someone in the morning.\nThe memory of a person who watched their loved one leave knowing she would never hold his hands again.",
+      "sourceUnit": "凛ルート十四日目-08:page108:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nLines from the Magic Crests are swimming around me.\nSurrounding me, while looking for bait.\n...There's nothing I can do.\nWell, there's nothing a bait can do to begin with.\nThis won't result to anything unless I observe and accept everything like this.",
+      "sourceUnit": "凛ルート十四日目-08:page109:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "Change is ever so slow.\nTime surrounds me in a spiral, passing through my body,\n\"...\"\nIt starts to corrode me, like it has been devouring the void.",
+      "sourceUnit": "凛ルート十四日目-08:page110:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "Characters: Two\nSeason: Winter\nName: Farewell",
+      "sourceUnit": "凛ルート十四日目-08:page111:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Flowers are being offered.\nA young girl standing in front of the grave.\nA priest standing, towering behind the young girl.\nThere are no words.\nThe girl is determined to bury her own sadness yet again today.",
+      "sourceUnit": "凛ルート十四日目-08:page112:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "Foreign substances are invading.\nSpiralled blades are closing in on the body.\nIt is like a malicious bulbul.\nThe crest's transplant has started.",
+      "sourceUnit": "凛ルート十四日目-08:page113:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "I observe the gruesome reality.\nFortunately, my function to feel pain is still folded away.\nI see myself being cuffed, binded, severed, dismembered, compressed, and played with...yet it feels like someone else.\nOh how easy it is to cut the flesh?\nOh how easy it is to shave the bone?\nThe only thing left felt like a soul being eternally tormented.",
+      "sourceUnit": "凛ルート十四日目-08:page114:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "One of my arms turned into that of an insect's.\nOr it seems like it.\nHow...disgusting.",
+      "sourceUnit": "凛ルート十四日目-08:page115:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "This is also her suffering.\nA type of pain that I've heard resides within the Magic Crest.\nI respect her.\nShe harbors this kind of discomfort, or rather horror, that is several times more repulsive inside her body, yet she's able to laugh like that.\nShe doesn't feel any disgust.\nWhen you think like that, what is there to be afraid of?",
+      "sourceUnit": "凛ルート十四日目-08:page116:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSuddenly, I've come in contact with a particular deep spot.\nThis is mixed in amongst memories of farewell and departure.\nIt was an encounter that seared into her heart.",
+      "sourceUnit": "凛ルート十四日目-08:page117:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "Someone was running in the school yard.\nIt's high jump.\nSomeone was running towards the bar again and again.",
+      "sourceUnit": "凛ルート十四日目-08:page118:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "She was standing there, watching the whole thing.\nIt was meaningless, yet he kept trying until sunset.\nShe thought to herself, \"What is the meaning of this?\"\nYet she kept on watching, as if she was betrayed by something, as if she just witnessed something precious.",
+      "sourceUnit": "凛ルート十四日目-08:page119:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "That was it.\nAn after-school sight that's not unusual at any school.\nBut to her, it was a sight that stirred up a revolution in her heart.\n...Faintly.\nIt was a sight familiar also to me, a sight from the bygone days.",
+      "sourceUnit": "凛ルート十四日目-08:page120:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "Time is returning to the outside.\nThe world is returning completely.\nThe strong self-awareness gained in exchange for my folded away body is evaporating.\nJust like foam disappearing on the surface of the sea.\nI was cut away from the inner world as I welcome a strange substance in my arm.",
+      "sourceUnit": "凛ルート十四日目-08:page121:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\n...My body feels heavy.\nI open my eyes while I'm still half asleep, and try to faintly grasp my surroundings.",
+      "sourceUnit": "凛ルート十四日目-08:page122:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy consciousness is coming back.\nI'm lying on the bed facing up, with the top half of my body naked.\nMy left shoulder is burning and sweating.\nWhen I try to wipe the sweat away it hurts as if it's suffering from a burn.\n...I thought I was seeing more fingers. It's obvious I'm not the same self from earlier.",
+      "sourceUnit": "凛ルート十四日目-08:page123:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way, Tohsaka, was the ritual successful?\"\nJust how many hours have passed since then?\nDon't tell me, did I end up passing out and sleeping while time just passed by?",
+      "sourceUnit": "凛ルート十四日目-08:page124:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thank goodness.\"\nTohsaka, you're still there.\nThat's a relief. I thought for sure I'd overslept and... Hmmm?",
+      "sourceUnit": "凛ルート十四日目-08:page125:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "...Am I imagining this or is she glaring at me?",
+      "sourceUnit": "凛ルート十四日目-08:page126:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ummm, Tohsaka? Was it successful?\"\n\"...Of course it was successful. It was a resounding success. It was so successful there's not even a slight trace of side effects. It was so perfectly done even Kirei would praise me with that devious face of his.\"\n\"O-Oh, okay...\"",
+      "sourceUnit": "凛ルート十四日目-08:page127:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "I-I'm sure that must be quite the achievement.\nBut somehow, Tohsaka isn't proud about it and she doesn't feel like her usual arrogant self.\nRather, she's angry.\nShe's really, really angry.\nI can sense the tension between us... She's clearly sulking about something.",
+      "sourceUnit": "凛ルート十四日目-08:page128:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...I don't know why, but it seems something has gone wrong.\nI feel like I need to read her mind immediately and calm her down, but I'm such a bad pupil, I'm not able to think of any reason as to why Tohsaka would be angry.",
+      "sourceUnit": "凛ルート十四日目-08:page129:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"...Toh...\"\nThis persistent pain in my left arm.\nA strange feeling that's like a combination of sharp pain from deep cuts and stinging pain from being burnt.",
+      "sourceUnit": "凛ルート十四日目-08:page130:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa...\"\nWithout a doubt.\nA streak of an elaborately designed seal is branded on my left arm.\nIt looks like Tohsaka's Magic Crest, and it emits a faint blue light.",
+      "sourceUnit": "凛ルート十四日目-08:page131:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, is this...?\"\n\"Yes, this is the Magic Crest I transplanted. It already became part of your circuit and any traces of its original magecraft is nowhere to be seen.\"\n\"I see... Well, this sure is something. I thought it would hurt but it doesn't really hurt at all. If anything my arm only feels a bit more heavy than before.\"",
+      "sourceUnit": "凛ルート十四日目-08:page132:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"You'll get used to it soon. Since its sole purpose is to connect our magical energies together, it shouldn't have any effect on the human body.\nThe Magic Crest...or rather, the circuit will slowly assimilate into your body, and you won't even feel a thing in about half a year.\"\n\"Is that so? Then this means...\"",
+      "sourceUnit": "凛ルート十四日目-08:page133:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"The transplant is complete. It's basically a one-way path from me to you, so it's not possible for you to send your magical energy to me. All I can do for you now is to send you my magical energy.\nIt's all up to you now. We have secured the magical energy necessary to create the Reality Marble, all that's left is—\"",
+      "sourceUnit": "凛ルート十四日目-08:page134:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "My problem.\nAll I need to do is fully activate my Magic Circuit and successfully create the Reality Marble.",
+      "sourceUnit": "凛ルート十四日目-08:page135:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're right. Thank you, Tohsaka. I'll make good use of your Magic Crest.\"\n\"You better. Also don't expect me to apologize. You don't just owe me one, you owe me a trillion and it's a lifetime worth of debt.\"\n\"Hahaha, you're right about that.\nOh. Why were you so angry just now?\"",
+      "sourceUnit": "凛ルート十四日目-08:page136:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "\"...You saw it, right?\"\n\"Eh?\"\nWhat did I see exactly?\n...D-don't tell me that when I thought I blanked out during the ritual, my body actually acted on its own and did something to Tohsaka!?",
+      "sourceUnit": "凛ルート十四日目-08:page137:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wait a minute, did I do something!?\"\n\"Don't act so innocent! You saw it, you animal!\"\n\"A-animal!?\"\nNot possible! Did I actually do something to her that was so rough that she would use that word to describe me!?\nWait, there's no way that happened. I mean, the bed is tidy, and besides, I wouldn't be alive if anything like that happened.",
+      "sourceUnit": "凛ルート十四日目-08:page138:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"N-now I remember. First and foremost, my eyes weren't functioning during the ritual so I really couldn't see anything other than what looked like the Magic Circuit and—\"",
+      "sourceUnit": "凛ルート十四日目-08:page139:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "Ah.\n...Maybe that's what Tohsaka was talking about?\nAn illusion I saw for a brief moment.\nIn the state where we were sharing our senses due to the synchronization, it's possible that we could see imagery from each other's mind.\nIt wouldn't be much different than when I saw Saber's dream or Heroic Spirit Emiya's dream.",
+      "sourceUnit": "凛ルート十四日目-08:page140:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "It all makes sense now.\nIf this is the case, then the only thing I saw that she would care about is that scene taking place at a school yard during sunset, something that I haven't seen in my other dreams.",
+      "sourceUnit": "凛ルート十四日目-08:page141:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "\"...I got it.\"\n\"It must be that. Tohsaka, you've been having a weird dream, right?\nAt some school yard somewhere, you kept looking at an idiot who wouldn't give up on high jumping until sunset. What was that abou—, whoa!\"",
+      "sourceUnit": "凛ルート十四日目-08:page142:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "I was hit by a pillow before I could finish my sentence.\nIt was a swift and powerful swing.\nA critical strike even Saber and Fuji-nee would be proud of!",
+      "sourceUnit": "凛ルート十四日目-08:page143:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...hah...\"\nThere's another problem.\nIt's the fact that a normal, soft pillow can have the impact and damage as if it was filled with water or something.",
+      "sourceUnit": "凛ルート十四日目-08:page144:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, what are you..!\"\n\"Shut up shut up SHUT UP!\"",
+      "sourceUnit": "凛ルート十四日目-08:page145:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "She keeps on hitting me with the pillow.\nStill looking like she did when she started the ritual, Tohsaka continues her assault with the pillow.",
+      "sourceUnit": "凛ルート十四日目-08:page146:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "\"Ouch, ouch! Did you fuse some magical energy into that thing!?\nWould you just quit it and tell me what is up with you!?\"\n\"Shut up you animal! How dare you peek at someone's secret and just act like nothing happened!\"\n\"Ow...ahh...w-wait a minute, that's a secret to you!?\"",
+      "sourceUnit": "凛ルート十四日目-08:page147:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "When I was surprised by her answer, she saw the opening and hit me in the face.\n\"Oh.\"\n\"Eek.\"\nThat was a swift and powerful pillow uppercut.",
+      "sourceUnit": "凛ルート十四日目-08:page148:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's also the exhaustion from the transplant, but I'm haphazardly knocked down again.\nTohsaka must still be angry because she grabs me by the back of the neck and starts dragging me across the floor.",
+      "sourceUnit": "凛ルート十四日目-08:page149:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Fine, you just remember this moment. One day, I will peek at your embarrassing memories and it will be too late to beg me for forgiveness.\"\n\"Please forgive me... Wait, what are you doing...\"",
+      "sourceUnit": "凛ルート十四日目-08:page150:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "She won't hear me out at all.\nShe grabs the back of my neck and throws me out of her room.",
+      "sourceUnit": "凛ルート十四日目-08:page151:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "\"Mr. Emiya? Just so you know, a girl has a lot to do to get ready, so would you return to your room now?\"\nWith that evil grin of hers... Tohsaka slams the door.\n...Thrown out into the hallway looking like this, I blankly look up at the door.",
+      "sourceUnit": "凛ルート十四日目-08:page152:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't be ridiculous. Guys have lots of stuff to do too.\"\nI hold my dizzy head and get up.\nI thought of saying something back to Tohsaka on the other side of the door, but I decide not to.\nI wasn't able to ask Tohsaka what that scene I saw meant to her.",
+      "sourceUnit": "凛ルート十四日目-08:page153:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well. If she's that mad about it, it must have some special meaning to her.\"\nMuttering silly stuff like that to myself, I go back to my room.",
+      "sourceUnit": "凛ルート十四日目-08:page154:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "It was probably just an excuse for Tohsaka to kick me out, but it's true that there's no time.\nThe date has already changed.\nThere's probably less than an hour left before we head to the temple.",
+      "sourceUnit": "凛ルート十四日目-08:page155:1"
+    },
+    "page157": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm... Yeah, this is...\"\nI close my eyes and feel the magical energy from Tohsaka pouring into me.\nTohsaka isn't consciously supplying me, yet it's filling my body up.",
+      "sourceUnit": "凛ルート十四日目-08:page156:1"
+    },
+    "page158": {
+      "status": "exact_japanese_text",
+      "text": "If my maximum magical energy capacity is twenty or thirty units, then she always has 500 units of magical energy.\n...I'm sure it would take years to stock up, but her maximum capacity might reach 1000 units if someone supplied her.",
+      "sourceUnit": "凛ルート十四日目-08:page157:1"
+    },
+    "page159": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm surprised. She really is amazing.\"\nThat reconfirms it. Or rather, I finally realize it now.\nWell, she's depleted now, and mages usually only keep about eighty percent of their magical energy, so Tohsaka's magical energy is about 400 units right now.",
+      "sourceUnit": "凛ルート十四日目-08:page158:1"
+    },
+    "page160": {
+      "status": "exact_japanese_text",
+      "text": "But, that's still a massive amount of magical energy.\nI use about two units of magical energy to use Strengthening magecraft once.\nTo use Projection once, I use about five units of magical energy on average.\nUsing that example, the Projection that I can use only six times at most could be used thirty or even sixty times with the help of Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-08:page159:1"
+    },
+    "page161": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, a cheap vehicle will overheat no matter how much fuel there is...\"\nBut it has still tremendously increased my power.\nI might even have a chance of winning against that King of Heroes like this.",
+      "sourceUnit": "凛ルート十四日目-08:page160:1"
+    },
+    "page162": {
+      "status": "exact_japanese_text",
+      "text": "All that's left is...\n\"...There's one more hour. I should rest my body until then.\"\nI'll rest my body and regain my mental and physical strength for the final battle at Ryudou Temple.\n...Everything is set.\nI'll face the last night with a fully prepared body for Tohsaka's sake too since she gave me her Magic Crest and opened up to me...",
+      "sourceUnit": "凛ルート十四日目-08:page161:1"
+    },
+    "page163": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

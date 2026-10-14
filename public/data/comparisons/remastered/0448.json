@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0448",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Light pours in.\nThrough my closed eyes, it announces the coming of morning.",
+      "sourceUnit": "桜ルート五日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I roll over in bed, turning away from the light.\n\"Mm...\"\nI'm still sleepy.\nJudging by how cold it feels outside, it must be around 5:30 AM.",
+      "sourceUnit": "桜ルート五日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nI went to bed late last night.\nBy the time Saber and I returned from the church and I sent her off to sleep in her guest bedroom, it was already after 3:00 AM.\n...I don't think two hours of sleep is enough.\nNot to mention, I ran myself ragged yesterday.\nIf I can at least get another thirty minutes of sleep, then—",
+      "sourceUnit": "桜ルート五日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nIn my sleepy haze, I think I just saw something.\nIt's right next to my futon.\nNext to me, in other words. Something's kneeling there, incredibly out of place.",
+      "sourceUnit": "桜ルート五日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSomehow, it reminds me of a person.\nIt's staring so intensely it makes me nervous, um, which means it's...",
+      "sourceUnit": "桜ルート五日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"SABER!?\"\n\"Yes. What is it, Shirou?\"\n\"W-what are you doing in my room!? I even gave you a guest room to sleep in last night!\"",
+      "sourceUnit": "桜ルート五日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I jolt up and start to get out of the futon, but I stop before my lower half leaves the covers.\nGuys, uh, have to deal with...stuff in the morning.",
+      "sourceUnit": "桜ルート五日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I object. You did show me to another room, but it's too far away. It would be more appropriate for me to remain nearby, to protect you.\"",
+      "sourceUnit": "桜ルート五日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"N-now hold on, just get away from me!\nI need you to back up, all right!? Please, damn it, Saber, if you won't, then I will!\"",
+      "sourceUnit": "桜ルート五日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I start rolling away from her, still wrapped up in my sheets like a spring roll.\n\"Hm?\"\nSaber watches me curiously.",
+      "sourceUnit": "桜ルート五日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Darn it, doesn't she know I'm a healthy young teenager?\nI get nervous enough when she's close to me, but having her kneel next to me first thing in the morning is certain doom for my brain cells. It's an ambush guaranteed to wipe out the brave soldiers of my frontal lobe!",
+      "sourceUnit": "桜ルート五日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, may I continue?\"\n\"Ugh... You want to stay in my room?\"",
+      "sourceUnit": "桜ルート五日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. We should rest in the same room so that I can be ready to defend you at any moment.\nThis home has an excellent Bounded Field, but it functions only as an intruder alarm. It will not protect you during an attack.\"\n\"...\"",
+      "sourceUnit": "桜ルート五日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Saber's correct, of course, but I wish she'd consider my mental fortitude.\nIf she sleeps in the same room as me, then I might lose my sanity before I lose my life to an enemy.\nBesides, I can't stay with Saber 24/7, so maybe we should draw some boundaries—",
+      "sourceUnit": "桜ルート五日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nOh, I forgot.\nI have to go to school today!",
+      "sourceUnit": "桜ルート五日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What is wrong, Shirou? You suddenly look pale. I've learned that whenever you make a face like that, you are about to suggest something inadvisable.\"",
+      "sourceUnit": "桜ルート五日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's sharp.\nSaber eyes me suspiciously, loyalty oath nowhere to be seen.",
+      "sourceUnit": "桜ルート五日目-19:page16:1"
+    },
+    "page17": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート五日目-19:page17:1"
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

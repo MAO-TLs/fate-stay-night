@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0535",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And so the day passes until lunchtime.\nWe meet up on the roof per unspoken agreement, and I tell Tohsaka what happened last night.\nAs a result...",
+      "sourceUnit": "桜ルート九日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what!?\nYou're saying that Zouken Matou is Assassin's Master, and he tried to kill you, not Saber!?\"\nTohsaka suddenly gets angry at me.",
+      "sourceUnit": "桜ルート九日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah, what's your problem?\"\n\"I'm not the one with a problem!\nThe way you told it, Zouken tried to kill you after he beat Saber! That doesn't make sense. It sounds completely backwards!\"",
+      "sourceUnit": "桜ルート九日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka leans in and glares at me, irritated.\nWe're behind the water tower, which has become our usual meeting spot. I unconsciously back up just a few centimeters, intimidated by her spirit that feels closer to hostility.",
+      "sourceUnit": "桜ルート九日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Are you listening to me? Doesn't your story sound wrong to you?\"\nTohsaka shoots me a glare full of irritation and loathing.",
+      "sourceUnit": "桜ルート九日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof.\"\nHer attitude is overwhelming enough, but her being this close is making me very uneasy.\nI don't have any more room to back up in this tight space.\nI'm like a rat—I mean, human trapped in a bag.",
+      "sourceUnit": "桜ルート九日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...what's wrong with what I said?\"\n\"The priority is all wrong. You were alone with Zouken, but he didn't try to kill you.\nWhile it's great for him that Assassin won, as long as there was a chance he would lose, Zouken should have targeted Saber's Master first.\"",
+      "sourceUnit": "桜ルート九日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...That makes sense, but are you saying that\nZouken was confident that Assassin would beat Saber?\"",
+      "sourceUnit": "桜ルート九日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. Even you know that Assassin is weaker than Saber, right? Zouken wouldn't take a risk like that.\n...So he must have had some other reason.\nI can think of two.\"",
+      "sourceUnit": "桜ルート九日目-00:page8:1"
+    },
+    "page9": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

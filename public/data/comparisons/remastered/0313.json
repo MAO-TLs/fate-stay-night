@@ -1,0 +1,87 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0313",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sound was like hitting steel.\n\"Haah... Haah... Haah... Haah...!\"\nHe arrived there still breathing heavily.\nHis footsteps are loud and their rhythm is erratic.\nStaggering forward, he leaves the door flung wide open. He can hardly stay on his feet, pulled forward only by his falling body.",
+      "sourceUnit": "凛ルート八日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "He looks around.\nThe church is empty after morning service.\nLight is only provided by the sun streaking through the windows above.\nThe silence creates a solemn air, and the still atmosphere creates a profound stillness.\nHis very presence is heresy.",
+      "sourceUnit": "凛ルート八日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Haah... Haah...!\"\nNo, that would be wrong.\nHe did not merely come to this place.\nWith ragged breath and unfocused eyes...\nWith shaking limbs that wither and sway...\nHe desperately fled for shelter.\nThat is the true answer.\nHis wretchedness is that of prey fleeing from a predatory hound.",
+      "sourceUnit": "凛ルート八日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"It has been six days since the war started. You are the first person to come here.\"\n\"Ungh...!\"\nHe forces his body upright.\nJust when did this man appear?\nWith bloodshot eyes, he peers at the priest standing at the altar and mutters incoherently.",
+      "sourceUnit": "凛ルート八日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe priest frowns.\nHe could not fully understand the boy, but assumes he is here to ask for help.\nHe wants protection.\nThe Master who lost his Servant may ask for protection under the condition that he withdraws from the war.\nThat place of refuge, the last sanctuary, is this church.\nAnd the master of this place, Kirei Kotomine, is the priest.",
+      "sourceUnit": "凛ルート八日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...So you will withdraw from the war, boy?\"\nThe boy responds to that solemn voice with a sparking flame.\n\"O-of course! Are you telling me to die...!?\nLook, I can't kill anyone without my Servant, so I don't wanna be a Master...! I-I'm a normal person. I'm a victim, right!? It's unfair for anyone to kill someone like me...!\"",
+      "sourceUnit": "凛ルート八日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe priest does not answer and only looks at the intruder.\nHe looks beyond the boy.\nAs if to peer beneath the skin, bone, and sinew to that which lies beneath.",
+      "sourceUnit": "凛ルート八日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? You got a problem?\"\n\"I do not have any opinions. You are the first person to withdraw this time, and the first user of this church since it has started. I shall welcome you in the stead of my father, as the overseer of the war.\"\n\"Huh? What, so I'm the only one to quit? Fucking hell, what a nightmare. I don't know what my grandfather will say if he hears of it.\nUgh, this is all your guys' fault...! It's so unfair I got a piece of shit like Rider!\"",
+      "sourceUnit": "凛ルート八日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "He pounds his fist into the floor in a rage.\nThe sound echoes like a bell, and the priest smiles with great interest.",
+      "sourceUnit": "凛ルート八日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"So Rider was useless, then?\"\n\"That's right! ...What the hell, she was only talk.\nShe died so easily even though I helped her that much. Any other Servant would've been way more useful!\"\n\"...\"",
+      "sourceUnit": "凛ルート八日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Even then, I still did well. I did just as my grandfather told me, and everything was set!\nBut they all got in my way...! It was two against one. There was no way I could've won against that.\n...That's right, it wasn't my fault that I lost.\nIt was just the difference in the quality of our Servants. But... they were so smug about it...!!!\"",
+      "sourceUnit": "凛ルート八日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "And then he squirms on the ground.\nHe strikes the floor bitterly, laments his misfortune, and obsesses over his obstacles.\nBut his resentful voice dissipates quickly.\nHatred of such a level cannot break the silence of this church.",
+      "sourceUnit": "凛ルート八日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...damn, damn, damn, damn...!\"\nHe repeats his cries of agony.\nIn the midst of it...\nFootsteps.\nThe priest's steps echo through the room as if they were shattering the frozen air.",
+      "sourceUnit": "凛ルート八日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "The father slowly puts his hand on the child's shoulder.\n\"...So.\nThat means you still have the will to fight?\"\nHe looks down at the loser and says so with a gentle voice.",
+      "sourceUnit": "凛ルート八日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nHe cannot understand the priest's words.\nThe clergy in black has a polite smile on his face.\n\"You are in luck. I happen to have one Servant who is available right now.\"\nThe priest offers a new salvation, barely able to restrain a rapturous joy.",
+      "sourceUnit": "凛ルート八日目-11:page14:1",
+      "recoveredDelimitedTail": true
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

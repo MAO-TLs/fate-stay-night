@@ -1,0 +1,486 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0104",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Anyway.\nNow that we've talked a bit, my body's cooled down, so we should get back to training.",
+      "sourceUnit": "セイバールート七日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, let's go again. I've had a chance to rest.\"\n\"Are you sure? You do seem to have cooled down, but you also appear to be in pain.\"",
+      "sourceUnit": "セイバールート七日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. Just bruises, so I can deal with it. Besides, I'm healing automatically now anyway.\"\n\"But if it gets worse, this training will be pointless. I believe we should wait longer and see.\"",
+      "sourceUnit": "セイバールート七日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. I want to do more before Tohsaka comes home. I wouldn't want her seeing me in this state.\"",
+      "sourceUnit": "セイバールート七日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. It would not do to have Rin, who will eventually become our enemy, learn about your abilities.\nReckless though it may be, I suppose we should pick up the pace a bit.\"",
+      "sourceUnit": "セイバールート七日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber picks her shinai up from the floor.\nBut then...\n...a really out of place sound echoes through the dojo.",
+      "sourceUnit": "セイバールート七日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...?\"\nI think her stomach is growling.\n\"It seems I am hungry. I had not noticed, engrossed in our training as I was.\"",
+      "sourceUnit": "セイバールート七日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, yeah. Now that you mention it, it's lunchtime.\"\nI can't blame her for her stomach growling.\nI'm not that hungry yet, but if Saber is, we should have lunch.\nAnd if during that time, I heal more, that's even better.",
+      "sourceUnit": "セイバールート七日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, it's lunchtime anyway. I'll go buy some groceries, so you can rest in the living room.\"\n\"Shirou. If you are going out, I will accompany you.\"",
+      "sourceUnit": "セイバールート七日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be fine. I'm just going to the shopping district nearby. No one would attack me in broad daylight, and you might just attract more attention if you did come with me.\"\n\"...Are you sure it will not be dangerous?\"\n\"I'm sure. Just wait here; I'll be right back.\"",
+      "sourceUnit": "セイバールート七日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I grab my wallet and head out.\nIt doesn't take more than ten minutes to get to the shopping district by bike.\nThe bicycle I take from the garage today is Unit Two. Unit One is still parked in front of Ryudou Temple.",
+      "sourceUnit": "セイバールート七日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I bike down the hill.\nI haven't gone to the shopping district midday on a weekday since I was a kid.",
+      "sourceUnit": "セイバールート七日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The intersection is packed with housewives returning from midday shopping.\nThey're coming from the neighborhood shopping center Sakura and I frequent.",
+      "sourceUnit": "セイバールート七日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I finish buying a bag of groceries.\nEnough food to make lunch for two and a light snack.\nI don't buy anything for dinner since Tohsaka's in charge of that tonight, but I do buy enough bread for four for tomorrow's breakfast.\nI don't know how to make strawberry jam, so I reach for the cheapest...well, no. That might get some complaints. So I go for an expensive jar instead.",
+      "sourceUnit": "セイバールート七日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn, this is really eating into my wallet. Why the hell do I have to spend a thousand yen on something so sugary?\"\nI load the groceries onto my bike as I grumble.\nBut then...\nI feel someone tugging at me from behind.",
+      "sourceUnit": "セイバールート七日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI turn around, wondering who it is.\nStanding there...\n...is a silver-haired little girl.",
+      "sourceUnit": "セイバールート七日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you're...\"\nI stumble backward, knocking over my bike.",
+      "sourceUnit": "セイバールート七日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "While I brace myself, the girl just looks up at me with a smile.",
+      "sourceUnit": "セイバールート七日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\nI can't sense so much as a hint of animosity or murderous intent from her.\nTo top it all off, the little girl says,\n\"I'm glad to see you alive, big brother.\"\nShe looks so happy.",
+      "sourceUnit": "セイバールート七日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...The hell.\"\nShe's definitely Berserker's Master.\nShe's the Master of the monster who almost tore me in half with a single blow.\nNot the sort of person I'd expect to just run into in the shopping district in the middle of the day.",
+      "sourceUnit": "セイバールート七日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"You're not...planning to fight here, are you?\"\n\"Hm? Why would you say something silly? We're not supposed to fight while it's still light out.\"\nThe little girl pouts.\nShe's certainly acting like the little girl she seems to be.",
+      "sourceUnit": "セイバールート七日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nI have no idea what she must be thinking.\nI can at least sense that she doesn't pose any threat though.",
+      "sourceUnit": "セイバールート七日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you're...\"\n\"Illyasviel von Einzbern. You can call me Illya for short. What's your name?\"",
+      "sourceUnit": "セイバールート七日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Me? I'm Shirou Emiya.\"\n\"Shiroemiya? That's a tongue twister.\"",
+      "sourceUnit": "セイバールート七日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Er, nobody's ever said it like that. If it's hard to remember, just call me Shirou. That's my first name.\"",
+      "sourceUnit": "セイバールート七日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? That's easier. Shirou, huh... Yep, it has a nice ring to it. It's simple, but also kind of haughty at the same time.\"\nIllyasviel looks at me suggestively.",
+      "sourceUnit": "セイバールート七日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nI find myself shifting my weight so I can be ready to run at an instant, purely by instinct.\nShe is Berserker's Master.\nIf she gets it in her head, she can probably just order him to crush me, along with the florist next to me.",
+      "sourceUnit": "セイバールート七日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't have to be so tense, Shirou. I left Berserker at home today. You didn't bring Saber with you either, so we're even.\"\nIllyasviel looks up at me cheerfully.",
+      "sourceUnit": "セイバールート七日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'm not sure 'even' is the right word...\"\n\"Hey, let's talk! There's so much I wanted to talk to you about!\"",
+      "sourceUnit": "セイバールート七日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe little girl tugs on my arm, as if she were taking her father's hand.",
+      "sourceUnit": "セイバールート七日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"W-w-wait, wait, wait, wait! What's the big idea? I-i-i-is this some weird new strategy you thought up!?\"\n\"What do you mean? I just want to talk. Kids make friends and talk with them all the time, right?\"",
+      "sourceUnit": "セイバールート七日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...that may be true, but that doesn't really apply to us! We're both Masters, and we've already fought each other before! We're actually enemies!\"",
+      "sourceUnit": "セイバールート七日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. I don't have any enemies. The other Masters are more like pests to me. But if you're good, I might let you go.\"",
+      "sourceUnit": "セイバールート七日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "She smiles wide as she says this.\n\"Argh! Just...stay back, okay? What's wrong with you!?\"\nI jerk my arm to throw Illyasviel's hand off.",
+      "sourceUnit": "セイバールート七日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Kya...!\"\nShe's about to fall.\nShe nearly falls flat on her back because of how hard I shook her off.",
+      "sourceUnit": "セイバールート七日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh crap, Illya...!\"\nI don't know why I did that.\nThe next thing I know, I'm reaching for Illyasviel—argh, her name is too long—Illya's waist, and try to catch her before she falls to the ground.",
+      "sourceUnit": "セイバールート七日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "I lower Illya to the ground without saying a thing.\n\"...\"\nIllya is silent.\nI don't know what to say myself, so I just stand there, looking down at Illya.",
+      "sourceUnit": "セイバールート七日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...Well, this is awkward.\nSo awkward, in fact, that I'm about to just turn around and leave, but then...",
+      "sourceUnit": "セイバールート七日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...? Do you hate me or something?\"\nShe asks with the same glow in her red eyes…\n...that she had when she spoke to me the other night, when she was with Berserker.",
+      "sourceUnit": "セイバールート七日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nA chill runs down my spine.\nI sensed no danger earlier, but she's just reminded me that she's still Berserker's Master.",
+      "sourceUnit": "セイバールート七日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "If I cross her, I'm dead.\nI'd never be able to face Saber if I died in vain here, and everyone in the shopping district would get dragged into this as well.\nYeah, that's a safe bet.\nIllya is willing to use her powers anywhere.",
+      "sourceUnit": "セイバールート七日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. You just want to talk, right? I'll do what you want then, so will that be all right, Illya?\"",
+      "sourceUnit": "セイバールート七日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep! Then let's go to the park! I passed by it earlier and there was nobody there.\"\nIllya skips off toward the park.",
+      "sourceUnit": "セイバールート七日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, hurry! If you don't, I'll leave you behind, Shirou!\"\nIllya spins around as she runs through the shopping district.",
+      "sourceUnit": "セイバールート七日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"She really did go ahead without me.\"\nI'm more moved than I am confused.\nApparently, once you promise Illya something, she treats it as the absolute truth.",
+      "sourceUnit": "セイバールート七日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "And that's why she just skipped off so happily.\nIt's also why, even though she left me behind, I don't even consider taking the opportunity to run for it.\nI'd already promised her I was going to talk with her, and she clearly trusts that.",
+      "sourceUnit": "セイバールート七日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's with her?\"\nShe sure is unstable.\nBut then again...\nI haven't yet gotten to an age where I'm so cynical as to betray a little girl's trust.",
+      "sourceUnit": "セイバールート七日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Illya and I are the only two in the park a little ways from the shopping district.\nKids are in school at this hour...or maybe the park's not as popular anymore.\nOur conversation begins in the tense, wintry air of the park.",
+      "sourceUnit": "セイバールート七日目-07:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"So, let's talk. What do you want to talk about?\nDo you want to know about Saber?\"\n\"Eh? About Saber? Why?\"",
+      "sourceUnit": "セイバールート七日目-07:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"We're Masters. Don't you want to get information about the other Servants?\"\n\"I don't want to talk about that kind of stuff. I'll get bored if we don't talk about something funner.\"",
+      "sourceUnit": "セイバールート七日目-07:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't really find anything in particular boring, but...okay, what do you think is fun?\"\n\"I don't know.\nI haven't really talked to people much, so I don't know what to talk about.\"",
+      "sourceUnit": "セイバールート七日目-07:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"So you brought me out here, not knowing what to talk about? Didn't anyone teach you to think before you act? They didn't, did they? Then from now on, you're going to be a proper, thoughtful adult.\"",
+      "sourceUnit": "セイバールート七日目-07:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. No thanks. I'll leave all that to you, Shirou.\nIsn't it a man's responsibility to escort a lady?\nSo I just have to follow you.\"",
+      "sourceUnit": "セイバールート七日目-07:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "She smiles and leans against my shoulder.\nShe doesn't seem like she's being touchy-feely. If anything, it's like a small animal huddling against something to stay warm.\nHuh.\nNow that I'm paying more attention, she does look cold.",
+      "sourceUnit": "セイバールート七日目-07:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. Are you cold?\"\n\"Eh? Yeah, I am. I don't like the cold.\"",
+      "sourceUnit": "セイバールート七日目-07:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "She breathes out a puff of white mist.\nThough she says she doesn't like the cold, she seems enchanted by her misting breath.",
+      "sourceUnit": "セイバールート七日目-07:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. It's a lot colder than usual today. You'll just have to endure the cold for now, but...where did you come from? Your name sounds kind of noble or something.\"",
+      "sourceUnit": "セイバールート七日目-07:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not 'kind of' a noble. I AM a noble.\nI was born in an old castle owned by the Einzbern family.\nIt was always cold and snowing. So I'm used to it being cold like this.\"",
+      "sourceUnit": "セイバールート七日目-07:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You were born in a cold country? Shouldn't you be used to the cold then?\"",
+      "sourceUnit": "セイバールート七日目-07:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, but I just don't like it. I like it warm much better. Don't you like it warm too, Shirou?\"\n\"Yeah, obviously. I'd rather it be warm than cold.\"",
+      "sourceUnit": "セイバールート七日目-07:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"I know! That's why I like to stay inside and keep warm when it's cold out. But I like snow. It's white, and Father said it was like my hair.\"",
+      "sourceUnit": "セイバールート七日目-07:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "...\nI clap my hands together in wonderment.\nNow that she's mentioned it, I realize something.\nI didn't know what Illya reminded me of, but if ever there was such a thing as a snow fairy, it'd probably look like her.",
+      "sourceUnit": "セイバールート七日目-07:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Your dad's pretty clever. Your hair is like snow: soft and white.\"",
+      "sourceUnit": "セイバールート七日目-07:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Ehehe. Right? I'm proud of my hair. I got it from Mother, and it's the only girly thing about me.\"",
+      "sourceUnit": "セイバールート七日目-07:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Illya giggles joyfully.\nSeeing her acting this way leaves me numb.\nIf I hadn't already seen it for myself, I'd never believe this girl could be Berserker's Master.",
+      "sourceUnit": "セイバールート七日目-07:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you, Shirou? Did you get anything from your dad? Don't say a Magic Crest, okay?\nI want to know what you got from your dad as his son, not as a Master.\"",
+      "sourceUnit": "セイバールート七日目-07:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, me? Hmmm, I guess the last thing I got from him was the house.\nBefore that was my last name. And the first thing I got was...\"\n...A chance at living again, when I was about to die.\nI was the only one Kiritsugu managed to save in that fire ten years ago.",
+      "sourceUnit": "セイバールート七日目-07:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see...I didn't get any physical features like you did from your parents, but I think I got plenty of things that were just as good.\"",
+      "sourceUnit": "セイバールート七日目-07:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Illya looks delighted, as if it was a story about her.\nWho wouldn't be happy, seeing a smile like that?",
+      "sourceUnit": "セイバールート七日目-07:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"But from what you just said, you didn't get his Magic Crest. That's weird. Does that mean you're not a Master?\"",
+      "sourceUnit": "セイバールート七日目-07:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, I'm an apprentice mage without a Magic Crest, but I'm a Master.\nNow that you mention it, you...you're a Master, which makes you a mage, right?\"",
+      "sourceUnit": "セイバールート七日目-07:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? I'm not a mage. I'm a Master.\nI was never taught magecraft.\"",
+      "sourceUnit": "セイバールート七日目-07:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh!? Then you didn't inherit your parents' Magic Crest? But I thought your family was a prominent one, since you have a castle and all.\"\n\"That's true...but don't you need a Magic Crest to be a Master? So that's why I'm a Master.\"",
+      "sourceUnit": "セイバールート七日目-07:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Illya tilts her head in confusion.\n\"...Huh?\"\nNow I'm confused too.\nIllya's words seem...off. It feels like we're each having a different conversation here.",
+      "sourceUnit": "セイバールート七日目-07:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Illya. Let me ask something: Where do you live? It sounds like you came here just for the Holy Grail War. Does that mean you're living in a hotel right now?\"",
+      "sourceUnit": "セイバールート七日目-07:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "Well, for starters, it'd be bad if she didn't have a guardian.\nLetting a child like her come to Japan on her own is just terrible parenting.",
+      "sourceUnit": "セイバールート七日目-07:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Hotel...? Like a vacation villa?\"\n\"Yeah, I guess so. Not a house, but just somewhere you stay.\"",
+      "sourceUnit": "セイバールート七日目-07:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Then yes! Do you see that big forest over there? There's a Western-style mansion my grandfather's grandfather built over there! I was told that the Einzbern family's Masters stay there for the Holy Grail War.\"",
+      "sourceUnit": "セイバールート七日目-07:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "Illya points west.\nYeah, there's a deep forest in the mountains there. The place hasn't been developed yet.",
+      "sourceUnit": "セイバールート七日目-07:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"It takes about an hour to get to that forest by car. Did you come all the way from there, alone?\"",
+      "sourceUnit": "セイバールート七日目-07:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. I snuck out today. Sella and Leysritt may be my maids, but they're sooo annoying.\nI came all the way to Japan, so I'd think I could go out and do some things. I may have always gotten what I wanted, but I've been shut in my room all this time, so this should be my reward.\"",
+      "sourceUnit": "セイバールート七日目-07:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You were locked up in your room?\"\n\"Yeah. I wasn't allowed outside when it snowed because it would be bad for my body. That's why I usually played in my room.\nBut I'm fine. It's not as cold here as the castle, so I'm fine by myself.\"",
+      "sourceUnit": "セイバールート七日目-07:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Illya beams proudly.\nShe swings her legs back and forth, seeming to be genuinely enjoying herself.",
+      "sourceUnit": "セイバールート七日目-07:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI find myself reaching into my grocery bag.\nI take out the dorayaki, a Japanese pancake sandwich filled with red bean paste, I'd bought to give Saber, and without knowing why, I hand it to Illya.",
+      "sourceUnit": "セイバールート七日目-07:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Want it? It's not the fanciest thing, but it's good.\"\n\"Eh? What's this? Food?\"\n\"Yeah. I'm not a big fan of sweets but this is the only exception. This was a favorite tea snack my old man and I shared.\"",
+      "sourceUnit": "セイバールート七日目-07:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...so...you're giving this to me?\"",
+      "sourceUnit": "セイバールート七日目-07:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It's not as good if you eat it alone, so let's eat it together.\"\nI hand her the dorayaki.\nIllya hesitates, but takes the unfamiliar snack.",
+      "sourceUnit": "セイバールート七日目-07:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Teehee. Okay, thanks!\"\nShe happily takes a bite of the dorayaki.\nShe practically devours the thing.",
+      "sourceUnit": "セイバールート七日目-07:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nibble my dorayaki and try to hold stop myself from being overwhelmed by the shocking thought I've just had.\nI don't believe myself.\nFor reasons I simply can't understand, I just found myself thinking it'd be nice to have a little sister like her.",
+      "sourceUnit": "セイバールート七日目-07:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"But...honestly...\"\nI think Illya is too innocent.\nShe might really be an innocent young girl who hasn't learned the difference between good and evil.\nHonestly, I can't even begin to imagine how a mage family raises a child.\nBut I know without a doubt that Illya wasn't raised in a normal environment.",
+      "sourceUnit": "セイバールート七日目-07:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka may act the way she does, but she is a mage at heart. She understands the gravity of the Holy Grail War and knows that the killings between Masters are murder.",
+      "sourceUnit": "セイバールート七日目-07:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "But this girl may have become a Master without really appreciating what it means to kill people.\nI haven't been talking to her long, but I don't think Illya's the sort who'd choose to kill anyone.\nIf that's the case...",
+      "sourceUnit": "セイバールート七日目-07:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. There's something serious I want to talk with you about.\"\nBut then...\nIllya suddenly raises her head, as if someone's just called for her.",
+      "sourceUnit": "セイバールート七日目-07:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya? What's wrong? Did something happen?\"\n\"Yeah. I need to go home. Berserker woke up.\"",
+      "sourceUnit": "セイバールート七日目-07:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "She jumps off the bench.\nIllya runs out of the park without so much as a goodbye. She disappears in an instant.",
+      "sourceUnit": "セイバールート七日目-07:page94:1"
+    },
+    "page95": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

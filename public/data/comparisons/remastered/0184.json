@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0184",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nI think I got what Projection magecraft is all about, but I want more detail.\nEspecially the part about taking an image and giving it shape.",
+      "sourceUnit": "セイバールート十二日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Tohsaka, sorry to interrupt you, but...\"",
+      "sourceUnit": "セイバールート十二日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it? If you are about to tell me to hurry up, I'm about to kick you.\nI'm so IRRITATED now, 'cause I can't find what I'm looking for. Argh! Why does everything I put away disappear in this house!?\"",
+      "sourceUnit": "セイバールート十二日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She complains to herself as she searches.\nClassic Tohsaka.\nEspecially the part where she stumbles in the preparation phase, even though she executes everything else flawlessly.",
+      "sourceUnit": "セイバールート十二日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, forget about it. Can you just tell me more about what we were discussing earlier?\nThe stuff about how Projections are replicas created using images.\"",
+      "sourceUnit": "セイバールート十二日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Fine. This might even be useful for you anyway.\"\nShe's definitely in a bad mood.\nShe tosses aside the duffel bag she'd been rummaging through and plops down in a chair.",
+      "sourceUnit": "セイバールート十二日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, let me explain.\nYou only use Projection when there's something you need but don't have on hand. Alternately, you can create things that don't normally exist in this world, or that have been long lost.\nIf you can imagine every detail of the real thing, you can temporarily bring it into being with magical energy.\"",
+      "sourceUnit": "セイバールート十二日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Remember I mentioned how anything you Project disappears because the magical energy disperses, right?\nNo matter how strong the magical energy is, anything you Project will gradually fade away. But that's not all...\nThe world simply won't allow such an illusion to remain.\nWhich is why anything you Project won't even last a day in the real world.\"",
+      "sourceUnit": "セイバールート十二日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What do you mean, the world won't allow it?\"\n\"Illusions can do anything precisely because they're illusions. But once an illusion takes shape though, it becomes reality.\nBut those things do not exist in reality. In order to resolve that contradiction, reality sweeps in to dispose of the illusion.\"",
+      "sourceUnit": "セイバールート十二日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. Magecraft is meant to take things that exist and make them into something else. Transformation. Equivalent exchange.\nBut that principle doesn't hold for illusions. If you, using an image of something that doesn't exist, create that thing in the real world, it becomes a contradiction.\"",
+      "sourceUnit": "セイバールート十二日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why, when you Project something like Saber's sword—which shouldn't exist in this age—the world itself will destroy that illusion.\nIt's great to create a miracle by connecting to the world, but creating a miracle that doesn't exist at all? That's forbidden.\nNormal magecraft is about bringing something real, something that does exist somewhere in the world, to you, so you can use it. But Projection magecraft creates something from an image in a person's mind.\"",
+      "sourceUnit": "セイバールート十二日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Even magecraft can't create something which doesn't exist.\nIt's an illusion that violates the laws of this world.\nIn the same way a living creature's first priority is self-preservation, the world always seeks to protect its own integrity.\nThe life of a world is all about order, which is why it will always crush any illusions which might disrupt that order, or intrude on reality itself.\"",
+      "sourceUnit": "セイバールート十二日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka explains it rapidly, all in one breath.\nI don't understand half of it.",
+      "sourceUnit": "セイバールート十二日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So what I did was way beyond my limit.\"\n\"That's what I've been saying!\nProjection magecraft can shorten your life, so don't use it, even if Saber begs you to.\"",
+      "sourceUnit": "セイバールート十二日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka resumes rummaging through her stuff.\nAs I watch her blankly, I'm reminded again that me beating Berserker really was a miracle.",
+      "sourceUnit": "セイバールート十二日目-08:page14:1"
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

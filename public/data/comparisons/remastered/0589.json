@@ -1,0 +1,161 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0589",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We run through the forest.\nI'm following Tohsaka's back.\nI can sense Assassin chasing us through the trees.",
+      "sourceUnit": "桜ルート十日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Behind you, Emiya!\"\nTohsaka should have gotten far ahead of us by now, but she slows down and turns back. She must be worried.",
+      "sourceUnit": "桜ルート十日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nI know the enemy is right behind me.\nBut I can't do anything about it.\nMy pursuer is Assassin.\nHow am I supposed to shake him off with Illya in tow?",
+      "sourceUnit": "桜ルート十日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's far enough. I don't need you.\"",
+      "sourceUnit": "桜ルート十日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nA sinister voice growls in my ear.\nI look to the side and see a face in a skull mask,\nsmirking and licking a dagger.",
+      "sourceUnit": "桜ルート十日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Rragh!\"\nThe white skull is blown away.\nAssassin was running next to us, until someone kicked him in the stomach.",
+      "sourceUnit": "桜ルート十日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. So you can't even kill a child without resorting to an ambush? You third-rate.\"\nArcher doesn't stop as he says it.",
+      "sourceUnit": "桜ルート十日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll cover the rear guard. Take Illya and run.\nHurry. If that thing catches up to you, you're finished.\"\nArcher's looking at Assassin and something else approaching from behind him.",
+      "sourceUnit": "桜ルート十日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\n...It's catching up.\nThe Shadow is corroding the ground itself as it catches up to us...!",
+      "sourceUnit": "桜ルート十日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...!?\"\n\"Save the discussion for later. Run, boy. Now that you've taken Illya's hand, protect her til the very end.\"",
+      "sourceUnit": "桜ルート十日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Archer slightly slows and falls behind us.\nFor an instant...\nJust before he leaves, he looks at Illya with a terribly sorry expression.",
+      "sourceUnit": "桜ルート十日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "We leave the melee behind and escape the forest.\nThe clash behind us continues between Assassin, our pursuer, and Archer, there to head him off.",
+      "sourceUnit": "桜ルート十日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Nngh...\"\nAssassin is forced back repeatedly, unable to go on the offensive.\nHe clashes evenly with Archer.\nEach dagger Assassin throws at me whenever he spots an opening is shot down, leaving him clearly frustrated.\nBut, that isn't because he's weak.",
+      "sourceUnit": "桜ルート十日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, sei!\"\nArcher intercepts dozens of thrown daggers.\nHe does it with vigor unlike anything he's shown thus far.\nArcher has the advantage.\nI don't know why, but right now, he's fighting with demonic frenzy.",
+      "sourceUnit": "桜ルート十日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... How can you move!?\"\nAssassin desperately parries a shot, retreating.\nArcher retorts.",
+      "sourceUnit": "桜ルート十日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"It's simple. I'm not a proper hero like the others. I'm on the same level as that mud.\nIn other words...\"\nArcher steps back, perhaps sensing an opportunity...\n\"I'm also a twisted Heroic Spirit, though not as bad as you...!\"\n...and brings a sword down on the white mask.",
+      "sourceUnit": "桜ルート十日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Geeeeeee!!!\"\nThe black robe scrambles wildly.\nAssassin flees, clutching his slashed face.",
+      "sourceUnit": "桜ルート十日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "It isn't a temporary withdrawal, but a flight for his life.\nThe black-robed Servant escapes Archer and disappears into the wooded gloom.",
+      "sourceUnit": "桜ルート十日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Nice one! Now we don't need to worry about him chasing us!\"",
+      "sourceUnit": "桜ルート十日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Good work, Archer. You must be tired, so go ahead and rest in spirit form.\"",
+      "sourceUnit": "桜ルート十日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka congratulates him with palpable relief.\n\"RIN!\"\nBehind her.\n\"Toh—\"\nIt boils up, as if it was born in the shade of the trees.",
+      "sourceUnit": "桜ルート十日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What?\"\nShe turns around.\nSimultaneously, the Shadow's black tentacles reach out...",
+      "sourceUnit": "桜ルート十日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Toh...saka...\"\nI won't make it in time.\nI can only watch as the tentacles lance forth to impale Tohsaka...",
+      "sourceUnit": "桜ルート十日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...\"\n...but skewer Archer instead, after he pushes her out of the way.",
+      "sourceUnit": "桜ルート十日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nTohsaka stares up in shock at Archer.",
+      "sourceUnit": "桜ルート十日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher's done.\nHe's still breathing, and there isn't much blood.\nHe's been impaled, but if it isn't through a vital spot, he should be able to regenerate from it.\nStill, I know that he can't fight anymore.",
+      "sourceUnit": "桜ルート十日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "That thing kills Servants.\nNo matter how powerful a Heroic Spirit is, it can't beat the Shadow because it's a summoned Servant.\nI just know that, somehow.",
+      "sourceUnit": "桜ルート十日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"No way... Archer...what are you doing?\"\nDoes Tohsaka sense it too?\nShe calls out to Archer in a trembling voice, climbing to her unsteady feet, but...\n\"Stay away! Get out of here, you fool!\"\nArcher's harsh rebuke stops her in her tracks.",
+      "sourceUnit": "桜ルート十日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The Shadow pulsates.\nThis forest will die.\nAll of the surrounding mana is being sucked into the Shadow.",
+      "sourceUnit": "桜ルート十日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nStupidly, I think that it reminds me of a water balloon.\nThe balloon is engorged and still filling.\nAn unsavory premonition of it bursting and exploding its contents all over us flashes through my mind.",
+      "sourceUnit": "桜ルート十日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...crap.\"\nWe're going to be caught in it.\nWe'll be completely swallowed by it here.\n...Archer pulls out the tentacles skewering his body, and runs at Tohsaka.\nThen, I'll...",
+      "sourceUnit": "桜ルート十日目-13:page30:1"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0608",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I dream of a box for breeding bugs.\nA ruined nest.\nBlack pupa.\nI have no memory of my birth.\nI thrive and flourish.\nMy roots have always been unknown.\nI have no memory of my death day.",
+      "sourceUnit": "桜ルート十日目-33:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I walk at a steady pace.\nMy empty head sways from side to side,\nabsent of any clear destination.\nShiver and tremble, go-go!\nMy dry hands and feet rattle like paper balloons,\ntumbling along the ground.\nI'll get to float once I grow up.\nGo-go.\nGo-go.\nGo-go.\n\"Hey, check—out—you—rate that?\"\nSomebody squeaks as they come up to me.\n\"Oh, nice broad. —barefoot? Damn—\npale—\"\nPeople swarm up to me.\n\"—right? —join us—kill some time?\"\nEmpty laughter.\nI don't remember asking them to come.\nThey're scaring me. Time to go home.\n\"Hey—where—think—going?\"\n\"Hold up—? You—bitc—!?\"\n\"Don't you—? Why else—out—walk—town—?\"\n\"Haha—ha! Yea—mean—we'd better—protect—right?\"\n\"Totally, bro! —love helping—folks—trouble!\"\n\"—ha—ha—ha—!\"\n\"Ah—ha—hahaha—!\"\n\"Ahahaha—hahaha—hahahahahahaha—\"\n\"Ahahahahahahahahahahahahahahaha!\"\nThey keep chasing me.\nTheir screeching gives me a headache,\nso my empty tummy rumbles.\n\"—!?!?!?\"\n\"Wai—hold—wha—geee—!?\"\n\"Eeek—don't run, asshole, help—eee!\"\n\"Ha, ha, ha, what the, where'd you—\nGeeeeeeeeeeegh!\"\n\"N-no, s-sorry, I'm sorrrryyYYYYAARRGH!?!?!?\"",
+      "sourceUnit": "桜ルート十日目-33:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I dream of a box for breeding bugs.",
+      "sourceUnit": "桜ルート十日目-33:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

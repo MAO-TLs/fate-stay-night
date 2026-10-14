@@ -1,0 +1,476 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0618",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, you there?\"\nI knock quietly.",
+      "sourceUnit": "桜ルート十一日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Senpai?\"\nI hear a languid voice from the other side of the door.\n\"Oh, just a minute! I'll get changed!\"\nShe sounds a little panicky. I must have caught her sleeping.\nAbout two minutes later...",
+      "sourceUnit": "桜ルート十一日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for waiting. Please come in.\"\n\"Ah... Okay, pardon me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I was nervous, standing here waiting to enter a girl's bedroom.\nI've been in this room before, but the situation is different now.\nBack then, Sakura was unconscious. Now, she's inviting me in.",
+      "sourceUnit": "桜ルート十一日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Did something happen? I was taking a nap, so I couldn't hear.\"\n\"Oh, nothing like that. I'm not here for any particular reason. I just came to see if you were getting enough rest...\"\nBut I ended up interrupting her sleep.",
+      "sourceUnit": "桜ルート十一日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Aha, well, I certainly was. I was taking a nice nap.\"\n\"Yeah, sorry for waking you. You know your own body, and I'm sure you wouldn't force yourself to move around when you have a fever... Looks like I was being overprotective.\"\nI'm disappointed in myself.\nThat makes Sakura giggle.",
+      "sourceUnit": "桜ルート十一日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um. Am I overanalyzing you?\"\n\"No, you're not. You're perceptive.\nI actually wanted to keep cleaning.\nIf you hadn't come to my room, I probably would have snuck out.\"\n\"You would have snuck out?\"",
+      "sourceUnit": "桜ルート十一日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Because I feel fine, so I don't want to stay in bed like a sick person. I was going to try and carry on as usual, even though you told me to rest.\nBut I'm sure that'll make my sister upset, too.\nShe'd probably say that I would cause even more headaches for her if I collapsed again.\"",
+      "sourceUnit": "桜ルート十一日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\n...That's true.\nAfter lunch, I stopped Sakura from cleaning the house.\nBut she wouldn't listen to me. I wasn't sure what to do until Tohsaka stepped in.",
+      "sourceUnit": "桜ルート十一日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Still, she didn't exactly ask nicely.\n\"If you faint again, we'll have to kill you.\"\nIt was an awfully aggressive way to make her back down.",
+      "sourceUnit": "桜ルート十一日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Tohsaka was mad.\"\n\"Yep, she sure got upset at me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Sakura seems happy about it.\n...I see now.\nDespite her words, she's happy that Tohsaka is worried about her.",
+      "sourceUnit": "桜ルート十一日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Then make sure you get some rest, all right?\nYour body's under a lot of strain, no matter how you think you feel. If you rest, then Tohsaka and I can rest easy when we head out.\"",
+      "sourceUnit": "桜ルート十一日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. But I feel fine, really. I'm just a little off right now, but I'll be okay tomorrow. It's like the cold I had before, so it'll get better overnight.\"",
+      "sourceUnit": "桜ルート十一日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Silly. I know I interrupted your nap, but go lie back down. You should sleep while you can.\nI'll come wake you up for dinner, so take it easy until then.\"\nI turn to leave.\nBut...",
+      "sourceUnit": "桜ルート十一日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI feel Sakura tug on my shirt sleeve.",
+      "sourceUnit": "桜ルート十一日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...?\"\n\"U-um, I'll sleep like you said to.\nBut I'd be happy if you stayed here with me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's rare for Sakura to ask to be pampered.\nShe usually tries to do everything on her own. Maybe she doesn't want to be a burden to other people.\nAnd now, she's being a little selfish.\nNo, something like this isn't selfish at all, but from her point of view, she's being very indulgent.",
+      "sourceUnit": "桜ルート十一日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "That's why she looks so timid as she asks me.\nI'm willing to do anything she asks, but something like this hardly counts as a favor at all.",
+      "sourceUnit": "桜ルート十一日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sure. I'll stay a little longer.\"\nI agree, suppressing the urge to hug her.\n\"Yay! Then I'll make some tea! I have some Chinese tea I was saving for special occasions!\"\nSakura turns to the bedroom door.",
+      "sourceUnit": "桜ルート十一日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. I'll brew the tea. You stay in bed. It would defeat the whole point of this if you went out there.\"\n\"Ah... Y-you're right. That was silly of me.\"\nSakura happily gets back into bed.\nAs I walked out, I gave her a gentle pat on the head and went to make tea.",
+      "sourceUnit": "桜ルート十一日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Still, though...\nThis is more mentally exhausting than I expected.\nSakura and I are alone.",
+      "sourceUnit": "桜ルート十一日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean it, though. I've always known that you like my sister. You look so excited whenever she's around.\"",
+      "sourceUnit": "桜ルート十一日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...Nothing she's saying is entering my brain.\nIf I look at her the wrong way, I won't be able to hold myself back.\n...I'm a guy, after all.\nWhen I think back to the other night, I immediately want to scoop her up in my arms.",
+      "sourceUnit": "桜ルート十一日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not charming at all compared to her. It seems like you're fond of Illya, too.\n...Um, do you dislike shy girls?\"",
+      "sourceUnit": "桜ルート十一日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I take a deep breath and steady myself.\nI shouldn't do anything too extreme while Sakura's in this state... Though, I suppose that would help her.\nSo it isn't a bad thing.\nIt isn't bad, but...",
+      "sourceUnit": "桜ルート十一日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"",
+      "sourceUnit": "桜ルート十一日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...Oh right, Tohsaka and Illya are right next door!\nIf we do anything here, they'll know. I'm not ready for the scornful way they'll look at me the next time we're in the living room.",
+      "sourceUnit": "桜ルート十一日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Sakura? Did I do something to make you upset?\"\nI'm pulled back to reality from my daydream when I realize that Sakura is oddly gloomy.",
+      "sourceUnit": "桜ルート十一日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. You haven't done anything. That's the problem.\"\n\"Hm?\"\n\"Well, um. I was just talking about some delicate topics, but you weren't listening.\"",
+      "sourceUnit": "桜ルート十一日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof... Sorry, I was daydreaming. Um, I think you mentioned Tohsaka...\"\n\"Yes, I did. I said that you looked happy when she decided to sleep over.\"",
+      "sourceUnit": "桜ルート十一日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\n...Right.\nI was listening to Sakura talk about our current living situation.",
+      "sourceUnit": "桜ルート十一日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"What about it, though? You like Tohsaka. Aren't you happy she's here?\"",
+      "sourceUnit": "桜ルート十一日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes, I am. But I'm just as anxious, too. Nee-san is everything I aspire to be, and she has so much that I never did. So when she's around me, it's hard to be happy and I don't want to look her in the eye.\nIt feels like no matter what she or I do, it ends up with her scolding me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\nI think I understand.\nI still have a long way to go, too. If I were suddenly faced with my ideal self, the sight would be too painful and blinding.\nBut even if I can empathize...",
+      "sourceUnit": "桜ルート十一日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura. You want to be like Tohsaka?\"\nI ask her warily.\nIt's the kind of question that would spur Tohsaka to knock me out in one punch, if she was here.",
+      "sourceUnit": "桜ルート十一日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I've always wanted to be like her. As a girl, I mean, not a mage.\nShe can do anything, and she's always so gallant. I want to be as dashing as she is.\"",
+      "sourceUnit": "桜ルート十一日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Sakura talks about Tohsaka cheerfully.\n...Hm, hm.\nI have mixed feelings about that, but I agree that Tohsaka is pretty cool.\nIn fact, I find the way she owns all of her words and actions to be very handsome.",
+      "sourceUnit": "桜ルート十一日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. But you haven't really talked to her until now because of that deal the Matous and Tohsakas have. You sure know a lot about her, despite that.\"",
+      "sourceUnit": "桜ルート十一日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I mean, how could I contain my curiosity?\nNeither of us remember much about our childhood days together.\nIt was a long time ago.\nAll I really knew was the fact that we're biological sisters.\"",
+      "sourceUnit": "桜ルート十一日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"But I fixated on it, and often watched her from afar.\nI couldn't talk to her, but I heard a lot of rumors about Tohsaka-senpai one year above me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Aha... You mean that stuff about her being a flawless honors student.\nShe's pretty famous at school, now that you mention it.\"",
+      "sourceUnit": "桜ルート十一日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. So it isn't that I couldn't meet her.\nShe calls out to me fairly often at school, and I've seen her come watch the kyudo club, too.\"",
+      "sourceUnit": "桜ルート十一日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...And every time, I would think: it's enough to know that she's watching me, and just knowing she cares makes me happy. I knew that if I had wished for anything beyond that, she'd end up hating me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...? Why would she despise you?\"\n\"My magecraft is different from my sister's. Magecraft isn't generally limited to a specific purpose, right?\nEven your magecraft creates phenomena to serve various needs. I don't think it was created for a specific, limited purpose.\"",
+      "sourceUnit": "桜ルート十一日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm... Yeah. There's only so much I can do, but I can choose how to use the things I Strengthen.\"",
+      "sourceUnit": "桜ルート十一日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...But that's now how the Matous' magecraft works. The Matou arts are only useful for taking things away from other people.\nThey don't have any other use. All they do is cause people pain without showing them how to be happy again.\"",
+      "sourceUnit": "桜ルート十一日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't answer that.\nAfter all, I don't know what kind of magecraft the Matous taught Sakura.\nSakura's ashamed because she feels that she learned magecraft for nefarious purposes.",
+      "sourceUnit": "桜ルート十一日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...So the rift between Sakura and Tohsaka stems from the magical differences between their families.\nThe more Sakura despises the magecraft she was taught, the worse her guilty conscience gets.",
+      "sourceUnit": "桜ルート十一日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you dislike your magecraft, Sakura?\"\n\"Senpai, that's like asking if a person dislikes breathing.\"",
+      "sourceUnit": "桜ルート十一日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't like or dislike it. But I can't live without it.\nIt's the entire reason I was adopted into the Matou household. If I'd failed to become their successor, they would have gotten rid of me.\"\n...",
+      "sourceUnit": "桜ルート十一日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, please don't look at me that way. My education was difficult, but it isn't as bad as you think it was.\"",
+      "sourceUnit": "桜ルート十一日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, it wasn't as hard as yours.\nI can handle getting hurt by others, but I'm afraid of hurting myself.\nI want to live, so I can't do things that go against that desire.\nI've come to terms with the fact that I'll die eventually, but the thought of dying at my own hands is terrifying.\"",
+      "sourceUnit": "桜ルート十一日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"But you do both of those things... Um, I've seen the kind of training you do at night.\nI-I only looked once, okay? I came back to get something I forgot at the house, when I heard something in the shed, so I went to look.\"",
+      "sourceUnit": "桜ルート十一日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Sakura dips her head apologetically.\nBut her apology is just making me uneasy.",
+      "sourceUnit": "桜ルート十一日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you don't have to apologize. I was careless, and I should've realized you were there. I'm a failure of a mage for not paying more attention to my surroundings.\"",
+      "sourceUnit": "桜ルート十一日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, it was...\"\n\"When did that happen, anyway? Was it right after you started coming over?\"\nI sure hope it was.\nI've made a fair bit of progress, even it was at a snail's pace.\nIf it happened recently, and I still couldn't notice her presence, then it would mean that I haven't grown at all since my early days.",
+      "sourceUnit": "桜ルート十一日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...It was around summer last year. Ms. Fujimura brought watermelons home that day.\"\n\"...Oh, good.\"\nI sigh in relief.\nIf it was half a year ago, then that's an excuse I can make.",
+      "sourceUnit": "桜ルート十一日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"So, um...what did you think when you saw it?\"\nThat's the first time someone other than Kiritsugu saw me practicing magecraft.\nI did a few examples in front of Tohsaka the other day, but that was a lot different from my training in the shed.",
+      "sourceUnit": "桜ルート十一日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "In that sense, hearing Sakura's opinion is like having a teacher give me feedback after an exam.\nShe's a Matou mage too, so maybe she'll give me a good score...",
+      "sourceUnit": "桜ルート十一日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Um. I'd like to exercise my right to silence. I'm not my sister, but if I were to assign you a test score, you wouldn't like it.\"\n\"Oof. That bad, huh?\"\n\"Ahaha. There would be red marks all over your answer sheet.\"",
+      "sourceUnit": "桜ルート十一日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Oh, man.\nSometimes you're more like your sister than you think, Sakura.",
+      "sourceUnit": "桜ルート十一日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"But Senpai? That was the only time I saw you... Which is to say, it isn't that I wanted to stop watching you, but it scared me so badly that I couldn't bear to watch again.\"\n\"Huh? You were too scared to watch?\"",
+      "sourceUnit": "桜ルート十一日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. And I wanted to stop you, so many times.\n...The way you train isn't normal. It was like you were stabbing yourself in the throat. That isn't a metaphor, it's what it actually looked like... That's how dangerous your training seemed to me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I know what Sakura's trying to say.\nEvery time I manifest my Magic Circuits, I flirt with death.\nIf my focus slips by so much as a millimeter while I'm wrapping my consciousness around my innards, I could end up blasting them out of my body.\nBut isn't that the price every mage has to pay?\nMy old man said that death would always walk at my side.",
+      "sourceUnit": "桜ルート十一日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. That's what I heard mages are supposed to do, but maybe I'm doing it in a really risky way because I'm too inexperienced.\"",
+      "sourceUnit": "桜ルート十一日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not what I meant. It isn't about your skill level or experience. To begin with, the fact that you can use magecraft at all even though it isn't in your nature is what makes you different.\nMagecraft isn't something you use, but something you teach your body. No normal mage would manifest Magic Circuits every time they want to use magecraft.\"",
+      "sourceUnit": "桜ルート十一日目-04:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\n\"I'm talking about the final outcome.\n...Every night, you've been killing yourself. Nobody is forcing you, and you aren't even doing it for your own sake. You just stubbornly stuck to that routine, all by yourself.\"",
+      "sourceUnit": "桜ルート十一日目-04:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't think even my sister could bring herself to do that.\nWhen you make up your mind, you stick to your decision until the very end, whether it's good or evil. That's why I think you're the strongest person among us.\"",
+      "sourceUnit": "桜ルート十一日目-04:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait...\"\nIt's incredibly embarrassing to hear you say that with a straight face, Sakura.",
+      "sourceUnit": "桜ルート十一日目-04:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"F-flattery will get you nowhere, stupid!\nT-Tohsaka's definitely stronger than me, and I don't know what kind of mage you are but you're still the Matou heir, and you have Rider...!\"",
+      "sourceUnit": "桜ルート十一日目-04:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you're strong, Senpai. Not because of your Magic Circuits or your magical affinity, but because you have a pure heart.\n...I've known that ever since we met.\nI know that you'll never betray anyone or anything.\"",
+      "sourceUnit": "桜ルート十一日目-04:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...um...\"\nWhen she says it that seriously, I can't protest.",
+      "sourceUnit": "桜ルート十一日目-04:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thanks. Coming from you, that means a lot, even if it's just flattery.\"\nI say what I really feel, even though I'm embarrassed.\nSakura smiles, looking right back into\nmy eyes.",
+      "sourceUnit": "桜ルート十一日目-04:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nUh oh.\nIf she looks at me that way, it's going to bring back the fantasies I had finally managed to shake off earlier.",
+      "sourceUnit": "桜ルート十一日目-04:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, I should be getting back. You're sleepy, right? And there's still tonight, so you should rest while you can.\"\nI awkwardly clear my throat.\nI try to find a place to point my eyes, and settle on the wall separating this room from Tohsaka's.",
+      "sourceUnit": "桜ルート十一日目-04:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"R-right. It's still early, and Nee-san is next door.\"\nTohsaka blushes and looks around uneasily too, as if sensing what I'm thinking.\n...I'm sure I'm making the same face.",
+      "sourceUnit": "桜ルート十一日目-04:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll go back to my room now. And I'll come get you when it's dinner time.\"\n\"Ah...um, please wait!\"\n\"Wait? For what?\"",
+      "sourceUnit": "桜ルート十一日目-04:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"U-um... I would like it if you stayed here until I fall asleep...\"\nI find myself chuckling as she stutters while trying to ask for something.\nI wish I could ask her to do the same for me.",
+      "sourceUnit": "桜ルート十一日目-04:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure. I'll stay if it doesn't bother you. I'll leave once you're asleep, all right?\"",
+      "sourceUnit": "桜ルート十一日目-04:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"O-okay! Of course! I'll do my best to stay awake!\"\nLook, Sakura.\nI'm happy to hear you say that, but then there's no point in me staying here.",
+      "sourceUnit": "桜ルート十一日目-04:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "Once Sakura lies down, she suddenly becomes quiet.\nShe must be really tired, if she's passing out as soon as she lies down.",
+      "sourceUnit": "桜ルート十一日目-04:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "But before that happens...\n\"Senpai. I should feel better after resting for a whole day, but how's your arm doing?\"\nShe starts talking to me again. I guess she doesn't intend to sleep after all.",
+      "sourceUnit": "桜ルート十一日目-04:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"My arm's fine. It doesn't hurt as long as I keep this wrap on, and I'm starting to be able to move it, little by little. Maybe I can start using it normally tomorrow.\"",
+      "sourceUnit": "桜ルート十一日目-04:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank goodness. It's been a long time since Nee-san treated your arm, right? It was just an emergency measure, so it probably isn't working anymore.\"",
+      "sourceUnit": "桜ルート十一日目-04:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"A long time?\"\n\"You know how she is. It was nice of her to use her Magic Crest, but all she did was buy you time. She knows it won't even last seven days.\"",
+      "sourceUnit": "桜ルート十一日目-04:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's tone is casual.\nBut she said...\n\"Seven...days...?\"\nThe words sound terribly out of place.",
+      "sourceUnit": "桜ルート十一日目-04:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah! It's probably about to run out, so make sure you ask her to follow up. I can't help you with the Matou magecraft, but Rider might have some good ideas...\"\nShe starts to doze off as she talks.",
+      "sourceUnit": "桜ルート十一日目-04:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't think of anything to say.\n...All I can do is convince myself that she made a mistake because she's falling asleep.",
+      "sourceUnit": "桜ルート十一日目-04:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are you still there, Senpai?\"\n\"Yeah, I'm here.\"\n\"...Good. Please stay with me.\nI have scary dreams when I'm alone, so...please...\"\nSakura's eyes slowly close.\nI hear her breathing become slow and steady once she falls into a deep sleep.",
+      "sourceUnit": "桜ルート十一日目-04:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "I turn off the lights and quietly leave the bedroom.\n\"...\"\nDark, stormy clouds fill my heart, in contrast to her tranquil expression.",
+      "sourceUnit": "桜ルート十一日目-04:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Please keep an eye on me.\"",
+      "sourceUnit": "桜ルート十一日目-04:page91:1"
+    },
+    "page92": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page93": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

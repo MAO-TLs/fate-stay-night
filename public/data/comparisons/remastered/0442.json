@@ -1,0 +1,297 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0442",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We wait for nightfall, then head out into town.\nThat's what Saber and I decided after discussing it.",
+      "sourceUnit": "桜ルート四日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Like Kotomine said, I can't sense the other Masters.\nOnly Saber can detect our enemies, and only when she's physically near the other Servants.",
+      "sourceUnit": "桜ルート四日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "So, the obvious course of action is to patrol the city on foot.\nIt just happened to seem like a good idea to me, but Saber said that it was a \"risky but certain\" choice.",
+      "sourceUnit": "桜ルート四日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "A Master shouldn't stay holed up in his hideout.\nThe Holy Grail War is a competition between Masters, so they'll all do whatever they can to come in first place.\nTo do that, Servants search for opposing Masters' hideouts, while Masters set magical traps for each other.\nAnd everyone exposes themselves to a degree while doing that.",
+      "sourceUnit": "桜ルート四日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Servant or Master, they still need magical energy to operate. Even if I can't sense other mages, I can at least sniff out traces of their spent energy.\nIf I canvass the city looking for those traces, then I might find clues leading to the other Masters.",
+      "sourceUnit": "桜ルート四日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...Of course, that requires me to offer myself up as bait.\nLike Father Kotomine said, it's the only thing I can do.",
+      "sourceUnit": "桜ルート四日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "We'll start our patrols tonight.\nSaber insisted that I stay home while she patrols the town, but I countered that we were supposed to be fighting side by side.",
+      "sourceUnit": "桜ルート四日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "After a long and fruitless argument...\n\"...Very well. But promise me that you will act with me at all times. Will you swear not to venture outside alone at night?\"\nFinally, Saber gave in.",
+      "sourceUnit": "桜ルート四日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Now, then...\nWe've decided on our plan of action, so there are two more problems left to address.",
+      "sourceUnit": "桜ルート四日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. As I explained earlier, I cannot make use of surplus magical energy. That is doubly true if we decide to head out tonight.\"",
+      "sourceUnit": "桜ルート四日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, you mentioned that you'd be sleeping whenever you can to save power.\nYou have to maintain your physical body on your own, since you're not getting any energy from me.\nYou recover eight points of magical energy a day, and it takes six to maintain your body. That leaves two in reserve.\nIn a regular fight you would spend, um, ten points at best?\"",
+      "sourceUnit": "桜ルート四日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Only as long as I avoid being wounded and my armor stays intact. But that is very unlikely if I fight a Heroic Spirit of similar strength.\nTo use your terms, I spent fifty points in my skirmish with Lancer, and two hundred fighting Berserker.\"",
+      "sourceUnit": "桜ルート四日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Lancer stabbed her in the chest, and Berserker tore her stomach open.\nRecovering from that much damage clearly took a lot of magical energy.\nOr so I thought, but...",
+      "sourceUnit": "桜ルート四日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"It doesn't take much energy to heal my physical body. In fact, it costs more to restore my damaged armor. Most of my magical energy is dedicated to my defenses.\"",
+      "sourceUnit": "桜ルート四日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...is how it is, apparently.",
+      "sourceUnit": "桜ルート四日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"So the armor's like a part of your body. It takes energy to maintain them both, and you take it off to conserve energy.\"",
+      "sourceUnit": "桜ルート四日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. But other Servants have no such requirements. Unlike Lancer or Archer who can assume spirit form outside of combat to reduce the burden on their Masters, I can only dispel my armor.\"\n\"I see, makes sense... Oh, I think that's enough ingredients.\"",
+      "sourceUnit": "桜ルート四日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I appreciate you cooking our meals, but shouldn't you be taking this more seriously?\"\n\"Huh? I am, though.\"",
+      "sourceUnit": "桜ルート四日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Okay, not entirely, but I don't exactly feel like I'm in danger at this very moment.\nI was surprised to hear Saber's condition after we came home and had our strategy meeting.\nWithout any extra magical energy from me, it takes all of Saber's power just to exist.\nThat doesn't sound like she's in any shape to fight at all, but when I brought it up...",
+      "sourceUnit": "桜ルート四日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Saber. Can I ask one more time how much magical energy you have right now?\"\n\"In your terms, about a thousand points.\"\nWell, that's just crazy.",
+      "sourceUnit": "桜ルート四日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "She still has that much in the tank, even after spending two hundred on Berserker.\nAnd that's Saber on a bad day. It terrifies me to imagine how much power she might have with a proper mage backing her up.\nClearly, it would be a number beyond imagination. It'd be stupid to even ask how many multiples of me that would be.\nI think I'm finally starting to understand why Tohsaka calls Saber the best Servant.",
+      "sourceUnit": "桜ルート四日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...That makes me feel a little better. There's only six enemies to fight, so you seem to have plenty of fuel for now.\"",
+      "sourceUnit": "桜ルート四日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"That is only if I limit myself to regular combat.\nAs I said, my Noble Phantasm requires an enormous amount of magical energy. It would be quite difficult to use it in this state. That is why I should try to conserve energy whenever possible.\"",
+      "sourceUnit": "桜ルート四日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Saber's upset.\nI'm not sure if it's because her incompetent Master is a burden to her,\nor if it's because I'm not letting her get a good night's rest.",
+      "sourceUnit": "桜ルート四日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I know you need to save energy, but meals are important, too. I still have some leftovers from lunch, so let me fix you dinner. You can go to bed after that.\"",
+      "sourceUnit": "桜ルート四日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Very well. I don't intend to use my Noble Phantasm on a whim, at any rate. We'll revisit this topic once you have a better understanding of what Servants are.\"\nLooking a little displeased, Saber politely takes a seat at the dining table, her posture perfect.",
+      "sourceUnit": "桜ルート四日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Good, good.\nI'm glad she's willing to hear me out.\nAnyway, that's enough about our magical energy problem for tonight.\nIt isn't something we have a solution for, so the next step is to get a firm grasp on our situation.\nAnd...",
+      "sourceUnit": "桜ルート四日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou...\nYou said there were two problems. What is the other one?\"\n\"Hm? Oh, it'll be here any second now. Make sure you use the cover story we talked about.\"\nI start chopping daikon radishes and throw them into the wok.",
+      "sourceUnit": "桜ルート四日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nSaber tilts her head quizzically.\nAnd then,\n\"We're back! Shirou, are you making dinner!?\"\n\"Thanks for having me over, Senpai.\"\nA pair of familiar voices ring out from the house entrance.",
+      "sourceUnit": "桜ルート四日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\n\"...\"\nThe silence is painful.\nAs I expected, Fuji-nee and Sakura take one look at Saber and then fix me with a laser-hot glare.",
+      "sourceUnit": "桜ルート四日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"This is Saber. She'll be staying over starting today. Please be nice.\"\nThat's all the explanation I give.",
+      "sourceUnit": "桜ルート四日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Nobody objects, which makes the silence feel that much more pointed.\nThey don't even drink the tea to avoid making a sipping sound, leaving the hot tea to go cold.\nBut we'll never get anywhere at this rate.\nI'll just need to screw up my courage and press on.",
+      "sourceUnit": "桜ルート四日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, she came to see my old man. I can't just send her home. She's just taking the time for a little tourism and won't be staying that long, and we can have her stay in one of the open rooms.\"",
+      "sourceUnit": "桜ルート四日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\n\"...\"",
+      "sourceUnit": "桜ルート四日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...The quiet stretches on.\nBy the way...\nI can understand Fuji-nee and Sakura's reaction, but why does Saber look so surprised?",
+      "sourceUnit": "桜ルート四日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew. Well, if she knows Kiritsugu, then we'll just have to let her stay. He did mention he had some relatives abroad. Um, Ms. Saber? Looks well-behaved, so I guess I can't say no.\"",
+      "sourceUnit": "桜ルート四日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... Ms. Fujimura? You mean...\"\n\"Sorry. I know how you feel, Sakura, but this is Kiritsugu's house. She came from abroad looking for her relative, so it would shame the reputation of Japanese hospitality if we turned her away. Plus, it's dangerous outside lately, and we can't kick out such an adorable girl.\"",
+      "sourceUnit": "桜ルート四日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's true. Do you agree, Senpai?\"\n\"Yeah, I do. I'm going to let Saber stay here for the time being. Do you have a problem with that, Sakura?\"\n\"...No, I think you should let your acquaintance stay over. But...um, Saber?\"",
+      "sourceUnit": "桜ルート四日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Oh, yeah. Her name sounds kinda strange, but I guarantee that she's good people. She might act a little weird because she isn't used to Japan yet, but I'd appreciate it if you'd help her out.\"",
+      "sourceUnit": "桜ルート四日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. If you say so, Senpai.\"\nSakura nods meekly, not meeting Saber's eyes.\nDoes she not like Saber because she's a foreigner?",
+      "sourceUnit": "桜ルート四日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Anyway, it's time for dinner.\nI put a lot of effort into dinner to make up for lunch, and because it's Saber's welcome meal.",
+      "sourceUnit": "桜ルート四日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "The meal begins with a tuna tataki salad and fried chicken with a mildly spicy scallion sauce. It's followed by a somewhat standard main course of beef and potato stew, accompanied by an assortment of deep-fried tempura featuring fluffy shrimp.",
+      "sourceUnit": "桜ルート四日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "It's definitely a splurge without any clear program to the menu, but...\nIt seems poorly received by both the guest of honor and my apprentice.",
+      "sourceUnit": "桜ルート四日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, what's up with this tempura! It isn't just soft and yummy on the inside! I think you might've just changed my whole outlook on shrimp, Shirou!\"",
+      "sourceUnit": "桜ルート四日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWell, uh...\nOn the other hand, Fuji-nee enjoys the meal enough for the four of us.",
+      "sourceUnit": "桜ルート四日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Thanks to her good humor, dinner ends without incident.\nI even got to see Fuji-nee offer Saber some of her own food, which isn't common at all.\nShe seems to have taken a shine to our taciturn houseguest, which is something I ought to have seen coming.",
+      "sourceUnit": "桜ルート四日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nFuji-nee leads Saber off to prep her bedroom in the guest house.\nSakura and I stay behind to clean up after dinner.\nWe divide up the tasks as usual.",
+      "sourceUnit": "桜ルート四日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll do the dishes. Sakura, would you mind cleaning up the table?\nOh, and don't throw the frying oil away yet. Just cover it and put it in the back. Do you need help? It's heavy.\"\n\"Huh...? Oh, I can carry it. I'm stronger than I look, you know.\"",
+      "sourceUnit": "桜ルート四日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "She picks up the pot with a small huff of exertion.\nShe can pull a bowstring, after all, so I shouldn't have worried.\n\"Though there's more to archery than pulling a bowstring...\"\nI wash the dishes to the sound of splashing water.",
+      "sourceUnit": "桜ルート四日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"Huh? Senpai, we're short a few towels. We're out of paper towels too, and some of the dishes aren't in their usual place.\"\n\"Eh? Let's see... Oh, you're right. I wonder if a thief got in.\"",
+      "sourceUnit": "桜ルート四日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm...I doubt there are any burglars who only take kitchen rags.\"\n\"Right? What kind of thief does that?\"",
+      "sourceUnit": "桜ルート四日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Dishes not in their proper place.\nAn empty paper towel roll.\nSeveral missing kitchen towels.\nFinally, the dots connect in my head.\n\"Ah, right. Tohsaka was here.\"\nI slapped my fist into my palm in realization.",
+      "sourceUnit": "桜ルート四日目-08:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka took care of me after I collapsed during the Berserker fight.\nShe must have used whatever linens were on hand to treat me.",
+      "sourceUnit": "桜ルート四日目-08:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, by Tohsaka, you mean...from school?\"\n\"Yeah. She stopped by the other day.\nUm, I was stupid and got myself hurt. Tohsaka was passing by and was kind enough to give me first aid. She really is the gracious star student of our school, huh.\"",
+      "sourceUnit": "桜ルート四日目-08:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Of course, I didn't mean the last half of that at all.\nWhatever fantasies I had of Tohsaka died last night.\nTo my deep regret, Rin Tohsaka, the star student and idol of my high school life, was wiped away yesterday. Damn it.",
+      "sourceUnit": "桜ルート四日目-08:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why?\"\n\"Hm?\"\n\"Why was she here? It's a little strange. She has nothing to do with us. Not me, or you, so why?\"",
+      "sourceUnit": "桜ルート四日目-08:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Sakura suddenly goes still, looking downcast.\n\"...\"\nIt's so sudden, I don't know what to say.\nShe's hugging herself, as if she's trying to hold in some anxiety.",
+      "sourceUnit": "桜ルート四日目-08:page56:1",
+      "recoveredDelimitedTail": true
+    },
+    "page57": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

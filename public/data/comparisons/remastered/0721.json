@@ -1,0 +1,601 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0721",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I hear a creaking sound.\nIt's the old, heavy, rusted door of the shed opening.",
+      "sourceUnit": "セイバーエピローグ:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Light pours in through the crack in the door.\n...\nIt's enough to wake me up.",
+      "sourceUnit": "セイバーエピローグ:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, are you awake?\"\nI don't even need to look to know who's approaching.\nIt must be that time already.\nI take a deep breath and open my eyes.",
+      "sourceUnit": "セイバーエピローグ:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Senpai. It's time already.\"\n\"Hn. I see that. Morning, Sakura. Thanks for waking me up.\"",
+      "sourceUnit": "セイバーエピローグ:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"It's nothing. I knew you'd wake up anyway, so I didn't need to do anything.\"",
+      "sourceUnit": "セイバーエピローグ:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. So how come you came all the way out here to wake me up?\"\n\"It's no trouble. I just wanted to wake you up this morning, so I woke up half an hour earlier than usual. Today is a special day, after all.\"",
+      "sourceUnit": "セイバーエピローグ:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nThen I remember.\nThat's right. It is a special day.",
+      "sourceUnit": "セイバーエピローグ:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. I don't think I even need to ask, but Fuji-nee's not here yet, right?\"\n\"No. Ms. Fujimura is not here yet. Oh, but Illya is already here.\"",
+      "sourceUnit": "セイバーエピローグ:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I knew it.\nIf Illya's here, then that can mean only one thing.",
+      "sourceUnit": "セイバーエピローグ:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. Sorry Sakura, but I need you to take care of breakfast this morning. I'm going to go and wake Fuji-nee up.\"\n\"Oh, okay. Good idea, Senpai.\"",
+      "sourceUnit": "セイバーエピローグ:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Luckily I was up late last night, so I'm still in my work clothes.\nI'm glad I don't need to change to head out.",
+      "sourceUnit": "セイバーエピローグ:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be back in ten minutes. You're in charge of the house until then.\"\n\"Yes, you can count on me.\"",
+      "sourceUnit": "セイバーエピローグ:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Shirou's awake.\"\n\"Yeah, I just woke up. I'm going to go wake Fuji-nee up, so go help Sakura with breakfast.\"\nI pat Illya on the shoulder and head to the front entrance.",
+      "sourceUnit": "セイバーエピローグ:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"She beat me to it! Argh! I said I was going to wake Shirou up, Sakura!!!\"\nIllya fumes at Sakura as she stomps over to the shed.\nThis sort of thing is hardly unusual anymore.",
+      "sourceUnit": "セイバーエピローグ:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Illya said she wasn't going to return to her home country, so I talked to Fuji-nee about taking her in.\nShe was vehemently opposed, and suggested that she would take in Illya at her house.\nSince then, Illya has been staying at the Fujimura house. And, of course, she's been coming over, with Fuji-nee, mornings and nights.\nIt goes without saying that they're coming for breakfast and dinner.\nThe two have been living together for two months now, and they're practically joined at the hip.",
+      "sourceUnit": "セイバーエピローグ:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "When I pass near the shed wall...\nI hear Sakura and Illya talking.",
+      "sourceUnit": "セイバーエピローグ:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Illya is pretty blunt, so I thought she wouldn't get along with Sakura, but that doesn't seem to be the case.\nThey're like an odd couple... Illya is energetic, while Sakura is more laid-back. It seems they get along, in spite of their differences.\nIn fact, Sakura has regained her usual cheer thanks to Illya.",
+      "sourceUnit": "セイバーエピローグ:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Ever since Sakura's older brother, Shinji, disappeared and was listed as missing, she'd stopped smiling.\nShe must have sensed that he had something to do with the mass coma incident at school.\nFretting over Shinji, Sakura shut herself away.",
+      "sourceUnit": "セイバーエピローグ:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "It was Illya who forced her to get over it, and Sakura is her normal, cheerful self whenever she's with Illya.\n\"Yep. Sakura's smiling again.\"\nI'm truly happy about that.\nSakura's most herself when she's smiling that gentle smile of hers.",
+      "sourceUnit": "セイバーエピローグ:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugggh. Illya's so mean. I even offered her a little extra pocket money to wake me up, no matter what.\"\nFuji-nee is in tears as she shovels breakfast into her mouth.",
+      "sourceUnit": "セイバーエピローグ:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I had no choice. If I waited for you to wake up, I would be late, and I worked enough to earn my pay. If you want me to work harder, then you should just raise my allowance rather than giving me a little extra sometimes.\"",
+      "sourceUnit": "セイバーエピローグ:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnngh. I know you get money from Grandfather too. Why is this child such a miser?\nNobody will like you if you're so stingy at such a young age.\"",
+      "sourceUnit": "セイバーエピローグ:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"That's okay. As long as the person I like doesn't think like that, I don't care what anyone else thinks. Oh, by the way, Taiga, I want the money you borrowed the other day back. It was payday five days ago, right?\"",
+      "sourceUnit": "セイバーエピローグ:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? H-how do you know that!?\"\n\"Raiga told me. I can give you the details of the conversation if you like.\"",
+      "sourceUnit": "セイバーエピローグ:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Illya grins wryly.\nUnlike her more friendly relationship with Sakura, Illya and Taiga are practically cats and dogs.\nIllya gets really mean with Fuji-nee. Even her smile reminds me of a certain someone's smirk.",
+      "sourceUnit": "セイバーエピローグ:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"You've got until tomorrow. If you can't pay me back, I'll take it out of your allowance, Taiga.\"\n\"What!? I-I can't believe Grandfather told you about that!\"",
+      "sourceUnit": "セイバーエピローグ:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. I'm with him all day. Raiga even said I'm cuter than you, Taiga.\"\n\"Whaaa...!? What have you done, Shirou!? This girl is the DEVIL! She's going to take over the whole Fujimura group!\"",
+      "sourceUnit": "セイバーエピローグ:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nUh, more importantly...\nWhy does a grown woman still get an allowance from her grandfather?",
+      "sourceUnit": "セイバーエピローグ:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"See you later, Shirou. You're coming home early today, right? Then I'll wait here, so come home quick.\"\n\"Yep. I'll try. Take care of the house, Illya.\"",
+      "sourceUnit": "セイバーエピローグ:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. She might as well just live in this house, for all I care...dummy.\"\nFuji-nee sulks as she hides behind my back.\n\"Yeah, yeah. Buck up, Taiga. Don't give Shirou such a hard time.\"",
+      "sourceUnit": "セイバーエピローグ:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Illya shrugs off Taiga's comment.\nLooks like Fuji-nee isn't really in a position to push back against Illya.",
+      "sourceUnit": "セイバーエピローグ:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'm going ahead. Don't dawdle and wind up late for school, Shirou.\"\nFuji-nee lets out an engine roar and disappears like a speeding bullet.",
+      "sourceUnit": "セイバーエピローグ:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "She got her driver's license last month.\nSince then, she's been late for school a lot less often, but now she has a new nickname: Rocket Tiger...er, Rocket Diver. She's the only one who doesn't know about it.",
+      "sourceUnit": "セイバーエピローグ:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew.\"\nI stretch and take a deep breath.\nSakura already left for school.\nShe ate a pretty big bowl of rice this morning, so she must be pretty driven today.\nToday is a big day for the kyudo club.\nNow that she's the vice captain, Sakura must be really determined and enthusiastic today.",
+      "sourceUnit": "セイバーエピローグ:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I should...\"\nGo to school too.\nToday is April seventh.\nSchools are starting the new school year, and the season has gone from the cold of winter to spring.",
+      "sourceUnit": "セイバーエピローグ:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "It's been two months.\nI feel like a lot has changed since she left, but the changes all seem minor.",
+      "sourceUnit": "セイバーエピローグ:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Winter is over and it's finally spring.\nThat's the only thing that's changed.\nI might have grown and matured, but I'm not a different person or anything.\nSo, not that much has changed.\nShirou Emiya is still clumsily stumbling along in Kiritsugu's footsteps.",
+      "sourceUnit": "セイバーエピローグ:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning, Emiya. Fancy running into you in the morning.\"\n\"Hey there. Nice weather we have today, Tohsaka.\"\nI wave in greeting.",
+      "sourceUnit": "セイバーエピローグ:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"But is this really a coincidence? We run into each other almost every day.\nWell sure, we never ran into each other that often before.\"\n\"Run into each other?\"",
+      "sourceUnit": "セイバーエピローグ:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka narrows her eyes and glares at me, unhappy about how I phrased that.\nI don't think getting angry so early in the morning is good for you.",
+      "sourceUnit": "セイバーエピローグ:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, did you start leaving your house earlier? You always arrived later. You were never early or late to school.\"",
+      "sourceUnit": "セイバーエピローグ:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. It was just a coincidence that we never saw each other.\nDid you know your house and mine are in opposite directions? So if we woke up at a normal time and walked down the hill at the same time, we would naturally meet up here.\"",
+      "sourceUnit": "セイバーエピローグ:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh.\nThat's news to me. Then I guess that's not so surprising—\"\nWait a minute.\nThat's only possible if our daily schedules are the same.\nFor Tohsaka to reach this intersection at this hour, she'd have to wake up at six in the morning.\nBut that's...",
+      "sourceUnit": "セイバーエピローグ:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. You must be exhausted.\"\nI just come right out and say it.",
+      "sourceUnit": "セイバーエピローグ:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? I'm not tired, and I'm not pushing myself either.\nWhy would you say that?\"",
+      "sourceUnit": "セイバーエピローグ:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, because you're not a morning person.\nIf you go to school while you're half asleep, your Goody Two-shoes front might collapse. You'd be a goner if you fell asleep in class.\nIf someone woke you up, you'd go berserk and they'd see your true, terrifying face.\"\nLike, \"Who dares disturb my slumber\" kind of terrifying.",
+      "sourceUnit": "セイバーエピローグ:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I would never do something like that! I would never make a mistake like that just because I woke up thirty minutes earlier!\"\n\"Oh. So you did wake up earlier than usual.\"",
+      "sourceUnit": "セイバーエピローグ:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Grrr.\nOh, come on! It doesn't matter what time I get up! If you have time for trivial questions like that, then get to school!\"\nTohsaka huffs and looks away.\nShe has a point, so I'm going to let this go and just resume our walk to school.",
+      "sourceUnit": "セイバーエピローグ:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "We walk up the hill.\nThe townscape below has bloomed into a springtime scene.\nThe breeze is pleasant, and the leaves of the cherry blossom tree planted near school dance on the wind from time to time.\nIt makes me smile.",
+      "sourceUnit": "セイバーエピローグ:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Are you mostly going to your job this week?\nNot that it matters to me since it's your time and all, but you're not overworking yourself, are you?\"\n\"Eh? No, I got a day off today.\nI heard the kyudo club was holding a welcome party for the new members, so I figured I'd bring Illya to hang out.\"",
+      "sourceUnit": "セイバーエピローグ:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa. You've got guts. You don't even bat an eye at bringing Illya to school... You're something else.\"",
+      "sourceUnit": "セイバーエピローグ:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Is that bad? Illya seemed bored, so I thought this would be a good distraction.\"\n\"It's bad. Anyway, I might swing by too. Hard to be bored with Illya around, and most of all, it's too dangerous to just ignore this.\"",
+      "sourceUnit": "セイバーエピローグ:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "I'm grateful to hear her say that.\nTohsaka understands Illya much better than Sakura or I do.\nIt's not just that she periodically checks in on Illya's health. Tohsaka and Illya are both proper mages.\nIllya still doesn't fully understand that she needs to hide the fact that she's a mage, so Tohsaka's been a great mentor for her in that regard.",
+      "sourceUnit": "セイバーエピローグ:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd so, things are starting to settle in their respective places.\nThe new priest the Church dispatched has already repaired most of the damage from the Holy Grail War, and we've more or less gone back into our ordinary lives.\nThere are things lost that we can never get back, yes.\nBut the wounds are slowly healing, and I should be glad to know that some of the regrets I felt before are slowly fading.",
+      "sourceUnit": "セイバーエピローグ:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"But that was unexpected.\"\nTohsaka mutters under her breath.\nShe looks down at the town, her tone serious.",
+      "sourceUnit": "セイバーエピローグ:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What was unexpected?\"\n\"Well, I thought you'd be depressed.\nI was worried it would take a while for you to recover from all this.\"",
+      "sourceUnit": "セイバーエピローグ:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "She's talking about...the girl who's not with me now.\nIt's been two months, and this is the first time we've brought up the golden-haired girl.",
+      "sourceUnit": "セイバーエピローグ:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I didn't think I'd be able to recover from it either. I was going out of my mind just thinking what might happen afterward.\"\n\"But when it actually happened, you acted the same as always. You didn't seem depressed. You were even acting like nothing happened the next day.\"",
+      "sourceUnit": "セイバーエピローグ:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"That's when I started to get worried about whether you were really okay or not. I can't really explain it, but it felt like you were going to die in some freak accident the next day or something.\"",
+      "sourceUnit": "セイバーエピローグ:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Freaking...what? How does me seeming fine end with me dead?\"",
+      "sourceUnit": "セイバーエピローグ:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Things like that happen. A person just accidentally achieves their lifelong goal, then keels over and dies.\nThe moment they think they don't need to live anymore, a car runs them over, or they just fall down a set of stairs.\"",
+      "sourceUnit": "セイバーエピローグ:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Huh.\nThat's...a little hard to get my head around.\nI guess she's talking about dying after living a full life, or resting in peace, maybe.",
+      "sourceUnit": "セイバーエピローグ:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why I was worried that was going to happen. You know, there are times it's more normal to get spectacularly depressed.\"\n\"What? Would you have comforted me if I got all depressed?\"",
+      "sourceUnit": "セイバーエピローグ:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. I would have kicked you in the butt and made you get over it in a day. I was just disappointed I didn't get the chance.\"\nShe turns away, displeased.\nIt's so funny, I can't help bursting into laughter.",
+      "sourceUnit": "セイバーエピローグ:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Was that funny?\"\n\"No. Your tough-as-nails line was just so you, it was a relief.\"",
+      "sourceUnit": "セイバーエピローグ:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "We continue walking, enjoying the spring sunshine.\nThe hilly road is long, and it looks as if it continues into the endless blue sky.\nThen, she brings something else up, surprisingly casually.",
+      "sourceUnit": "セイバーエピローグ:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"So you don't have any regrets? You know, about Saber being gone.\"\nHer eyes are on the sky as she speaks.",
+      "sourceUnit": "セイバーエピローグ:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...I don't have any regrets... Probably.\"\nI'm not trying to put up a front. I even surprise myself with how at peace I sound.",
+      "sourceUnit": "セイバーエピローグ:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Nothing was left unsaid, so I don't regret anything.\nEverything went into the moment we said goodbye.\nWhat I wanted to do...\nWhat she dreamed...\nMaybe we were both stubborn, and maybe I really should have grabbed her hand and made her dream come true.",
+      "sourceUnit": "セイバーエピローグ:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "But there was something we both felt was beautiful, and we both desperately tried to protect it until the very end.\nI have no regrets.\nAs she properly ended her time...\nI can't let myself be stuck in those memories forever.",
+      "sourceUnit": "セイバーエピローグ:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. So you've already settled the matter for yourself.\nSo that's why you're not depressed, and you're just going to drown in your memories.\"",
+      "sourceUnit": "セイバーエピローグ:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But I still dream about her. I'm going to remember her for the rest of my life.\nOne day, my memories of her will fade, and I'll forget her voice and her mannerisms.\nBut still...I'll never forget what happened, or that I loved her.\"",
+      "sourceUnit": "セイバーエピローグ:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka doesn't say a thing.\nBut for some reason, she looks elated. She's practically skipping now.",
+      "sourceUnit": "セイバーエピローグ:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"What's going on, Tohsaka? What's the rush? Did something happen?\"",
+      "sourceUnit": "セイバーエピローグ:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing. I just want to get to school quickly.\nSo come on! Hurry, Shirou! I'll leave you behind if you're too slow!\"\nShe turns around and starts to run up the hill.",
+      "sourceUnit": "セイバーエピローグ:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell? Why would she push herself when she's not a morning person?\"\nI grumble, then sling my bag onto my shoulder and run to catch up.\nIt's only seven-thirty in the morning.\nIt's too early for students who aren't involved in any club activities, but I guess there's nothing wrong with getting to school early.",
+      "sourceUnit": "セイバーエピローグ:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "I run up the hilly road that seems to stretch into the sky, and I reach the school earlier than usual.",
+      "sourceUnit": "セイバーエピローグ:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Today is the first day of the school year.\nIf I want to celebrate, I need to shake off old memories.\nRemnants of my memory will never go away.\nBut I still need to go on, even if the emptiness in my heart makes me cry...",
+      "sourceUnit": "セイバーエピローグ:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "The blue sky is off in the distance.\nIt feels so close...\n...but even if I reached out, I could never grasp it.",
+      "sourceUnit": "セイバーエピローグ:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I've looked to the stars before.\nThere are unreachable stars and unfulfilled wishes.\nNothing of ours remains behind.\nSo, someday, my memories of her, even the image of her face will disappear.\n...\nAnd yet...\nEven if I can't ever reach her, something will remain in our hearts.",
+      "sourceUnit": "セイバーエピローグ:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "There may be nothing physical left, but we both shared time together and looked up at the same things.\nIf I can remember that...I can believe that we're still together, even across such a great distance.\nSome things are bound to disappear, but others never will.",
+      "sourceUnit": "セイバーエピローグ:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "So I'm going to keep running.\nIf I push far enough, I might one day reach what I was aiming for.",
+      "sourceUnit": "セイバーエピローグ:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "The new beginnings of spring...after the end of a harsh winter.\nI head up the hill under the same blue sky she looked up and saw.",
+      "sourceUnit": "セイバーエピローグ:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "The battle is over.\nThis is her final battlefield...the battle that split her country in half, and ended with the king's victory.",
+      "sourceUnit": "セイバーエピローグ:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaah...ha...haaa...ha!\"\nThe knight runs to her.\nThe battle is over. The bloodred sunset has faded, and now the darkness of night covers the battlefield.\nThe hill is littered with corpses and curses. All that resentment tries to drag the survivors down with it.",
+      "sourceUnit": "セイバーエピローグ:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "Through it all, the knight runs, breathless.\nHe grips his horse's reins as the wounded white steed does its best to keep up.\nThe knight and the white horse are the only survivors.\nDraped over the horse's back is the wounded king.",
+      "sourceUnit": "セイバーエピローグ:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Your Majesty! King Arthur...this way!\"\nThe knight must be wounded himself, but he runs with all his might.\nThe king he serves is on the verge of death.\nEven after defeating the rival king in single combat, his king sustained a fatal wound.\nThe knight knows there is no hope here.\nHis king will die soon.",
+      "sourceUnit": "セイバーエピローグ:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Please stay with me! If we manage to reach that forest, you shall...!\"\nHe calls desperately to his king.\nOr perhaps the knight truly believes...\n...that his king is immortal.\nSo long as they have the guidance of the sacred sword, the king will never perish.",
+      "sourceUnit": "セイバーエピローグ:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaa...ha...ha...ha!\"\nWith labored breathing, the knight crosses the mountain of corpses and heads to a forest that has not yet been stained in blood.\nHe knows of his king's immortality.\nSo he believes that if he can only escape this cursed battlefield and lead the king somewhere pure, the king's wounds will be healed.",
+      "sourceUnit": "セイバーエピローグ:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "Or rather...he hopes.\nUnlike the other knights, he always believed in his king.\nThe king had always been isolated at court, shunned by the knights, and feared by the people.\nBut the knight was proud of the young king, who never revealed any personal feelings, no matter the situation, and always remained idealistic.",
+      "sourceUnit": "セイバーエピローグ:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "The knight did not serve his country.\nAnd that is why he entrusted his sword to his king, strove to aid his king, and rose to the position of the king's personal guard despite his young age.\nThe king whose true face can never be seen.\nThe boy tried to be fair and selfless, and did not allow his personal feelings to interfere with his duties.\nRather, he hoped that if he could someday get close enough, he could see his king's real face.",
+      "sourceUnit": "セイバーエピローグ:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "That is his greatest desire.\nHe wants so much to see his king's true face...not the stern countenance the king bore on the battlefield, but his king's true face...a smiling, laughing, human face.\nThat moment would surely come in court, when the king is relieved of all duty.\nEven the most perfect king cannot be on edge all the time.",
+      "sourceUnit": "セイバーエピローグ:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "The knight was proved wrong, though.\nWhat he learned defied his expectations.\nHe reached the rank of imperial guard and stood guard at the king's side.\nHe guarded the king more closely than any knight, and always observed the king's behavior.\nBut the moment he wished for never came.\nHis king never smiled.",
+      "sourceUnit": "セイバーエピローグ:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaa...ha...ha...ha!\"\nWhy does that make him so angry?\nThe king should radiate glory, having achieved such success.\nBut never once did the king seem at ease, even for a moment.\nHe couldn't stand it.\nHe wanted to believe this shouldn't happen.\nAnd so he wished for his king to be rewarded with light.",
+      "sourceUnit": "セイバーエピローグ:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "That has yet to be accomplished.\nThe king still remains solitary.\nAnd so the knight refuses to accept his king's death.\nIt cannot end here.\nIf it does, this great king will never be rewarded.",
+      "sourceUnit": "セイバーエピローグ:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Your Majesty, please stay here. I will summon reinforcements right away.\"\nOnce they reach the forest, the knight leans his king's body against a large tree.\nIt is a race against time.\nEven riding hard on horseback, it will take half a day to bring back the troops they left at the harbor.\nAny who see the king now would know that the king will not last until dawn.",
+      "sourceUnit": "セイバーエピローグ:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Please, hold on until then. I promise I will bring our troops back here.\"\nThe knight bows to his half-conscious king, and returns to his white steed.\n\"...Bedivere.\"\nBefore he can leave...\n...the king he thought unconscious calls out to him.",
+      "sourceUnit": "セイバーエピローグ:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Your Majesty!? Have you woken up!?\"\n\"Yes... I was having a dream.\"\nThe king's voice is faint.\nBut there is warmth in it.",
+      "sourceUnit": "セイバーエピローグ:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"A dream...sire?\"\nThe knight's voice is imploring.\nThe king's life is balanced on the tip of a blade. The darkness will surely take his king if the knight does not respond.\n\"Yes. I have not had many dreams, so it was valuable experience.\"\n\"That is wonderful. Please, have a pleasant rest. I will call for reinforcements while you do.\"",
+      "sourceUnit": "セイバーエピローグ:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nA faint gasp.\nThe knight's words must have been unexpected.",
+      "sourceUnit": "セイバーエピローグ:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Your...Majesty? Have I said something to offend...?\"\n\"No, you only surprised me. Can you still dream after you've woken? Are you saying I will return to that same dream after I close my eyes?\"\nNow it's the knight's turn to be surprised.\nFor a moment, he is at a loss for words. At length, he responds, though he knows there is no truth to what he says.",
+      "sourceUnit": "セイバーエピローグ:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. If you truly desire it, you will indeed return to the same dream. I have experienced it myself.\"\nIt's not possible.\nA dream is a fleeting thing...not something to return to.\nEven so, the knight lies to his king.\nIt is the first and last time he will do such a thing.",
+      "sourceUnit": "セイバーエピローグ:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You are quite knowledgeable, Bedivere.\"\nThe king's soft voice is admirable.\nThe king's head remains tilted down, not looking up at the knight.\nThe king breathes so softly that it can be barely audible.\n\"Bedivere. Take my sword.\"\nThe knight receives his king's final order.",
+      "sourceUnit": "セイバーエピローグ:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. Pass through the forest and travel over that bloody hill. Beyond that, you will find a lake. Throw my sword into it.\"\n\"What!? Your Majesty...that would mean...!\"\nThe knight knows what that means.\nThe sword in the lake.\nTo relinquish the sword that had protected the king and served as proof of kingship...would mean the end of his king.",
+      "sourceUnit": "セイバーエピローグ:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Go. Once you have fulfilled my order, return here and tell me what you saw.\"\nThe king does not take back orders.\nThe knight takes the sacred sword and goes over the hill...his indecision weighing heavily on him.",
+      "sourceUnit": "セイバーエピローグ:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "And so...\nThree times, the knight hesitates to follow his king's command.\nThe lake looms in front of him.\nBut he cannot throw the sword away.\nDoing so means his king will disappear.\nThe knight's unwillingness to part with his king stays his hand, and so he returns to his king.",
+      "sourceUnit": "セイバーエピローグ:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "Once again, the king orders him to throw the sword into the lake.\nWhen the knight lies and claims he's thrown the sword into the lake as ordered, his king simply replies, \"Do as I have commanded you.\"\nTo defy the king's order is a great sin for a knight.\nBut he has already done so twice.\nEach time he stands before the lake, he hesitates at the thought of losing his king.",
+      "sourceUnit": "セイバーエピローグ:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "No more.\nWhen the knight realizes he cannot alter his king's decision, on his third visit, he hurls the sword into the lake.\nThe sacred sword returns to the lake.\nA white hand emerges from the water and catches the blade, and the sacred sword vanishes from the world.",
+      "sourceUnit": "セイバーエピローグ:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd the knight finally accepts it.\nThe end of his king.\nThe responsibilities that had so long burdened the knight finally come to an end.",
+      "sourceUnit": "セイバーエピローグ:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "By the third time he crosses the hill, the first rays of morning light touch the forest.\nThe ruins of the battlefield now distant.\nThere is no trace of the bloody battle. Only a thin haze covers the hill.",
+      "sourceUnit": "セイバーエピローグ:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"I've thrown the sword into the lake. It is back in the hands of the Lady of the Lake.\"\nAt the knight's words, the king's eyes open.\n\"I see. Then you must stand proud. You have obeyed your king's command.\"",
+      "sourceUnit": "セイバーエピローグ:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "The knight gives a silent nod to that voice, knowing the speaker is on the brink of death.\nIt's all over.\nTurmoil will continue to grip the nation. The wars will not end. The day of ruin will come soon.\nBut the king's battle is over.\nBecause he...or rather, she fulfilled her role till the very end.",
+      "sourceUnit": "セイバーエピローグ:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "The light fades.\nWith everything done, the last of the strength that kept her going is spent.\n\"I must apologize, Bedivere.\nThis sleep will...be a...long one...\"\nShe closes her eyes...\nSlowly...as if going to sleep...",
+      "sourceUnit": "セイバーエピローグ:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "The morning light spills through the treetops.\nAs the king drifts to her eternal rest, a hush falls over the forest.",
+      "sourceUnit": "セイバーエピローグ:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe knight continues his vigil over the fallen king.\nThe king he wished for.\nThe solitary king, attended by only a single knight.\nAnd he finally sees the look he hoped for on his king's face:\nA peaceful sleep.\nIn her last moments, the king finally finds the peace that had so long eluded her.",
+      "sourceUnit": "セイバーエピローグ:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "The knight is overjoyed.\nThe knight thanks whoever gave his king such comfort, and watches the king with a sense of pride.",
+      "sourceUnit": "セイバーエピローグ:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "The heavens are distant, and the clear sky is blue.\nThe battle is truly over.",
+      "sourceUnit": "セイバーエピローグ:page116:1"
+    },
+    "page117": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page118": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0657",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? Did Shirou just go outside...?\"\nThe noise from the front door makes Rin Tohsaka look up in surprise.\nPeering through the window, she can indeed see someone running off in the street.",
+      "sourceUnit": "桜ルート十四日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"That moron! He didn't listen to a word I said about resting!\"\nShe stops mixing the drug and stands up in a hurry.\nIt's important to have Sakura Matou drink this, but the priority now is to stop Shirou.",
+      "sourceUnit": "桜ルート十四日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"This is even worse than talking to a wall! He has no idea how weak he is right now...!\"\nShe goes down the stairs.\nShe needs to hurry out the front door and chase after Shirou.",
+      "sourceUnit": "桜ルート十四日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, but first...\"\nShe should warn Sakura before she leaves, just in case.\nAt first she was going to take the drug with her, but she still hasn't given Sakura the water pitcher and pajamas, nor taken her temperature.\nShirou's recklessness is irritating, but she won't be in any position to scold Shirou if she neglects Sakura.",
+      "sourceUnit": "桜ルート十四日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I can tell she's sleeping from here, though.\"\nIt's only been about a minute.\nShirou's bound to run out of breath and stop halfway down the hill. He can't run a kilometer in his condition.",
+      "sourceUnit": "桜ルート十四日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...And he calls me dangerous? You're the biggest danger because you're so clueless, dummy.\"\nAnyway, she needs to catch up to him right away.\nRight now, she's the most able person in the Emiya household.\nIt's only responsible of her to spend her extra energy taking care of her exhausted friends.",
+      "sourceUnit": "桜ルート十四日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, I'm coming in.\"\nShe goes into the room without waiting for an answer.\n\"I'm stepping out for a bit. I'll be right back, so behave. I'll leave a change of clothes here—\"\nShe stops before\nshe can finish her sentence.\n\"...All right. You sure got me, Sakura.\"\nRin punches the wall so hard she might break it.",
+      "sourceUnit": "桜ルート十四日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Sakura isn't in her bedroom.\nSomeone else is lying in the bed.",
+      "sourceUnit": "桜ルート十四日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...How despicable, Rider. A Servant pretending to be her Master in bed?\"\n\"I don't like it either, but it was an order.\nThis is due to your carelessness, so I'd appreciate you not taking it out on me.\"\n\"...You've got some nerve saying that, when this is completely on her.\"\nShe audibly grinds her teeth.\nHer hostile glare slides off Rider's serene attitude.",
+      "sourceUnit": "桜ルート十四日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin Tohsaka. If there is a next time, you should set a better lookout. A kingfisher familiar cannot fool Sakura. She may not be your equal in skill, but her instincts are just as sharp.\"\n\"Right. Thanks for the warning... Though this sounds like more than just a warning, given the situation.\"",
+      "sourceUnit": "桜ルート十四日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. Sakura told me not to let you leave until she came back.\"\n...\nShe clicks her tongue in the dimness.\nThere's nothing she can do now.\nRin can't defeat or escape from Rider on her own.\nAll she can do is stay as Sakura wants.",
+      "sourceUnit": "桜ルート十四日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm so annoyed. I was trying to help him because he can't do this on his own, but he's going to end up trying anyway.\"\n\"You aren't going to resist? How gracious, if unexpected.\"\n\"I just need to not leave the house, right? I can't beat you, so I'll wait here until Sakura comes home.\"\nRin makes a show of sighing and leans against the wall.",
+      "sourceUnit": "桜ルート十四日目-02:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page13": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

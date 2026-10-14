@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0287",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I have to find out what Fuji-nee's up to.\nIn the name of a peaceful dinner, and for Saber, who is looking forward to her meal!",
+      "sourceUnit": "凛ルート六日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me... Oh, okonomiyaki? Are you hungry?\"\n\"No. Sakura left me in charge, so I'll be cooking tonight. I'll cook for all three of us, so can you go wake Saber up?\"",
+      "sourceUnit": "凛ルート六日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nWow, I'm surprised.\nI don't know about her choice of food, but Fuji-nee's acting like an adult woman, huh?",
+      "sourceUnit": "凛ルート六日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, you should be able to do that much at your age. Huh...? Why are you cooking rice, Fuji-nee? You don't need rice with okonomiyaki.\"",
+      "sourceUnit": "凛ルート六日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You do. I'm making crab egg foo young. It'll be a plain omelet if there's no rice.\"\nTo punctuate this, she cracks an egg.\nThe egg drops into the flour she's been mixing.",
+      "sourceUnit": "凛ルート六日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Wow, I'm surprised.\nIt seems like egg foo young and okonomiyaki are the same in Fuji-nee's head.",
+      "sourceUnit": "凛ルート六日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fuji-nee. I know you'll realize your mistake in a few minutes, but I'll go ahead and try to get ahead of this.\"\n\"Oof... W-what? Fine, I'll listen, please tell me.\"\nShe must've thought that something's wrong as well.\nFuji-nee puts on a strong front, but looks to me.",
+      "sourceUnit": "凛ルート六日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. That's not egg foo young. It'll become a horrifying mishmash of okonomiyaki and rice, so let's remake this.\"\nI have to do everything I can.",
+      "sourceUnit": "凛ルート六日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm... Isn't it the same whether you put okonomiyaki or omelets over rice, Head Chef?\"\n\"No. First off, knock it off with the Head Chef stuff. Anyway, we'll give Saber the wrong impression about Japanese food, so let's remake this.\"\nI take away the bowl from Fuji-nee.",
+      "sourceUnit": "凛ルート六日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What... N-no! I mixed it, so we can't waste it!\"",
+      "sourceUnit": "凛ルート六日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'll make snacks with this later, so this is going to the fridge.\nYou go crack five eggs and mix them until the egg whites are gone. Oh, the crab and bamboo shoots are ready, too? Then I'll make the sauce, so you'll cook it.\nIt's all right, if I preheat the pan, then even you can do it.\"",
+      "sourceUnit": "凛ルート六日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Well...\nNow that that's decided, I'll need potato starch, ginger, vinegar, soy sauce, sugar, chicken bones, and...",
+      "sourceUnit": "凛ルート六日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? I told you to do the eggs. Don't mix them too fast, okay? Put in salt, and then use the whole bowl to mix them with chopsticks.\"\n...\nI don't know if she's listening to me or not, but Fuji-nee looks at me as if she wants to say something.\nThen...",
+      "sourceUnit": "凛ルート六日目-01:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

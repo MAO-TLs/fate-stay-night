@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0169",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I know. It's all futile.\nThis little bow I made can't even scratch Berserker.\nHe won't bother to dodge the arrow; it can't possibly hurt him.\nProbably all I'd do is get in the way and make things even harder for Saber.",
+      "sourceUnit": "セイバールート十一日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I can't do anything.\nSaber's about to collapse right in front of me, but I can't do anything.\nIf I ran...\nIf running at Berserker and punching him would save Saber, I'd have already done it.",
+      "sourceUnit": "セイバールート十一日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "But there'd be no point.\nNo matter what I do, I can only get in Saber's way.",
+      "sourceUnit": "セイバールート十一日目-11:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

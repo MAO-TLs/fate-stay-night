@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0461",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nNo, this is important.\nIt's my decision, so I shouldn't push it onto someone else. It's only right that I be the one to tell Sakura.",
+      "sourceUnit": "桜ルート五日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Just as I make up my mind,\nthe doorbell rings with perfect timing.\n\"I'm coming in!\"\nIt's Sakura's voice.\nI'll ask Sakura right away. It's faster this way.",
+      "sourceUnit": "桜ルート五日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, Senpai. Thanks for having me over. Are you making dinner now?\"\n\"Yeah, just starting. I can handle it on my own, so make yourself at home. If you would, could you keep Fuji-nee busy while you're at it? She's being a sore loser after Saber beat her at kendo, so cheer her up with a card game or something.\"",
+      "sourceUnit": "桜ルート五日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's mean, Senpai. Ms. Fujimura had a rough day, you know.\"\n\"Ahh, she did mention that...then play shogi with her, instead.\"",
+      "sourceUnit": "桜ルート五日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shogi? Okay, she's very confident at that.\nI think it'll be just right if I give her a handicap and play without rooks.\"",
+      "sourceUnit": "桜ルート五日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's in a good mood.\nThe swelling on her face is gone, and there's no sign of the dark bruise from this morning.\nOkay, now would be a good time to bring it up.",
+      "sourceUnit": "桜ルート五日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Sakura. I know this is sudden, but you should stay over starting tonight.\"\n\"Huh? Stay over...?\"\n\"You shouldn't go back to the Matou house for the time being. As for how long...let's try to make it a week. Oh, and I already got Fuji-nee's permission.\"",
+      "sourceUnit": "桜ルート五日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura's expression stiffens.\nShe gazes back at me like she's scrutinizing my heart rather than my face.",
+      "sourceUnit": "桜ルート五日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I know I'm asking a lot. But still, I really want you to stay over. No matter how badly you might think of me, please live here for now.\"",
+      "sourceUnit": "桜ルート五日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura doesn't answer.\nShe just keeps watching me, and I notice she slightly bites her lip.\n\"...Why?\"\nFinally, she asks me in a very quiet voice.",
+      "sourceUnit": "桜ルート五日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't give her a reason.\nOn my life's honor, I can't tell her it's because Shinji is a Master, but anything else would be a lie.\nEveryone has secrets.\nI'm a guy, so there's plenty of stuff I don't say to Sakura and Fuji-nee.",
+      "sourceUnit": "桜ルート五日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...No matter how precious someone is to you, there are some things you can't tell them.\nThat's all the more reason I can't lie to her.\nIf Sakura is my precious family, then I'd rather not tell her anything that's untrue.",
+      "sourceUnit": "桜ルート五日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe atmosphere between us chills.\nSilence falls over us, and it seems to stretch on forever. Sakura awkwardly breaks eye contact.\nI desperately rack my stupid brain for a response.",
+      "sourceUnit": "桜ルート五日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Do I have to tell you why?\"\nShe doesn't answer.\nBut her eyes seem to show concern for me, rather than herself.\n\"...Is it because you're worried about me?\"\nShe states it outright.",
+      "sourceUnit": "桜ルート五日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'm worried, so it would make me feel a lot better if you'd stay over.\"\nHer long, dark hair sways.\nSakura nods at my inadequate answer,\nand answers not with words, but a smile.",
+      "sourceUnit": "桜ルート五日目-11:page14:1"
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

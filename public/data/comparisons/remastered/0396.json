@@ -1,0 +1,112 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0396",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We walk in the forest at night.\nAlthough we don't know what his intentions are, having Lancer's cooperation now means we don't have to stay at the castle.\nLancer must have taken a liking to Tohsaka, as he keeps messing with her and getting hit by her.",
+      "sourceUnit": "凛ルート十三日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. You have your own Master, right? Then you should stay quiet.\nWe're going to go back to being enemies once we defeat Caster, so it does no good to be talking, right? Anything other than the strategy meeting is unnecessary.\"",
+      "sourceUnit": "凛ルート十三日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What, we can't talk because we're going to be enemies? You have less composure than it looks, huh? It should be natural for you to sit down and have a heart-to-heart with someone you get along with, even if they're your enemy.\"",
+      "sourceUnit": "凛ルート十三日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What era are you from?\nThat kind of 'I'll kill you tomorrow, but we're friends today' stuff is out of style nowadays. You need to be thorough with it if you're going to do it, or else it's rude to the other party.\"\n\"...Wow. It sure has become a boring world.\"",
+      "sourceUnit": "凛ルート十三日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...Lancer never learns.\nI feel like they've been repeating the same kind of conversation for a while now.",
+      "sourceUnit": "凛ルート十三日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"More importantly, Lancer. You know what your role is, right?\"",
+      "sourceUnit": "凛ルート十三日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Yeah, I'll lead the way. You two are going to fight Caster and her Master, right?\nMy role is to fight Archer.\nI'll have to do something about Saber as well in the worst case, but it should be no problem if I just have to hold them down.\"",
+      "sourceUnit": "凛ルート十三日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Lancer speaks objectively.\nHe isn't even scared of fighting both Saber and Archer at the same time.",
+      "sourceUnit": "凛ルート十三日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nCome to think of it, Saber told me when we were training in the dojo.\nShe said Lancer is the best among the Servants when it comes to just surviving.",
+      "sourceUnit": "凛ルート十三日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "She praised him, saying that he had excellent agility and plentiful combat experience, and that he would be an impregnable defense if he went into defense.\n...He must have fought many battles from disadvantageous positions when he was alive.\nThe aloof man must be a Heroic Spirit who ran through the jaws of death many times and survived.",
+      "sourceUnit": "凛ルート十三日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's fine, but Archer and Saber aren't the only enemies. There's also Assassin under Caster. Then that means that you have three opponents in the worst case.\"",
+      "sourceUnit": "凛ルート十三日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that's bad. I don't like that guy. I don't want to fight that guy one-on-one if possible. It's best to finish off a guy like that from afar, but... Well, there's no need to worry.\nAssassin won't show up to the church.\"",
+      "sourceUnit": "凛ルート十三日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? How can you say so? If Caster's not going back to the Ryudou Temple, then won't she also call for Assassin as a guard?\"",
+      "sourceUnit": "凛ルート十三日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Assassin is a Servant that Caster summoned, but there are limitations because of that. He is a Heroic Spirit that was summoned to that place itself. He can't leave Ryudou Temple, and in any case, Caster won't call for him.\nThat thing is a Servant that Caster summoned without telling her Master.\nShe'll hide it as long as her Master is at the church, and she won't let go of Ryudou Temple so easily either.\"",
+      "sourceUnit": "凛ルート十三日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"She won't let go of Ryudou Temple...? So that means...\"\n\"It's because that mountain is the summoning place of the Holy Grail. Did you know? This is the fifth Holy Grail, but there are only four possible places where the Holy Grail can be summoned. Two of those places are Ryudou Temple and the church.\nBy the way, it was summoned at the church in the third war. The fourth one was summoned in some plain somewhere.\"",
+      "sourceUnit": "凛ルート十三日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. I thought you were just happy as long as you're fighting, but you're quite knowledgeable.\"\n\"My Master just happens to be a bit difficult. It's not like I am interested in your circumstances.\"",
+      "sourceUnit": "凛ルート十三日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"All right... Then this time's summoning place is the same place as the first time, huh?\"\nTohsaka mumbles while she ponders.\nLancer watches her with delight and walks on in the dark forest.",
+      "sourceUnit": "凛ルート十三日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's deep into the night, and the date has long since changed.\nDawn should be breaking by the time we get out of this forest and return to town.",
+      "sourceUnit": "凛ルート十三日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...I mentally prepare myself as I walk.\nWe will challenge Caster one more time in a few hours.\n...I won't hesitate, even if that girl has become our enemy by then.\nWe'll defeat Caster.\nI have to accept that that's the top priority right now.",
+      "sourceUnit": "凛ルート十三日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "We head to the battlefield.\nNo matter what waits for us at the church at daybreak, we can't stop now.",
+      "sourceUnit": "凛ルート十三日目-20:page19:1",
+      "recoveredDelimitedTail": true
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

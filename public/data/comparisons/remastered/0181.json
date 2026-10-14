@@ -1,0 +1,241 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0181",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. We're going to fast today.\"\nThey say that when an army runs out of provisions, they tend to find themselves backed into a corner.\nWith no time to think...I find myself just blurting that out.",
+      "sourceUnit": "セイバールート十二日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Um...what does that mean?\"",
+      "sourceUnit": "セイバールート十二日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Was it confusing?\nWhat I'm trying to say is that we're not going to have lunch today. We had a hearty breakfast of hamburg steak this morning, so I thought we could skip lunch.\"",
+      "sourceUnit": "セイバールート十二日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure what drove me to say that, but honestly? I'm not hungry right now anyway.\nI'm taking the time to spar with Saber, so I want to keep training.",
+      "sourceUnit": "セイバールート十二日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"So let's keep training. Come on, pick up your shinai, Saber.\"\nI point the tip of my shinai at Saber.",
+      "sourceUnit": "セイバールート十二日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"P-please wait, Shirou! This conversation is going nowhere!\nThere is no sense in saying we should not eat lunch just because we had a large breakfast!\"",
+      "sourceUnit": "セイバールート十二日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...What!? Wh-what are you doing, Saber!? Give the shinai back!\"\n\"I will not! There is not much time! As your Servant, I demand my Master start preparing our meal right this instant!\"",
+      "sourceUnit": "セイバールート十二日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHold on a minute.\nSaber can be a little weird, but today she's going overboard.",
+      "sourceUnit": "セイバールート十二日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. What do you mean, there's not much time? Do you have plans?\"\n\"I do not. Which is why I am saying we should have lunch.\"\n\"Yeah but, I just said we're skipping lunch...\"",
+      "sourceUnit": "セイバールート十二日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Which is ridiculous. Do you still not understand, even after me repeatedly saying so!?\nI will say it this one, last time, Shirou. Please make lunch right now!\"",
+      "sourceUnit": "セイバールート十二日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...huh!?\"\nSaber protests so intensely, I think she might jump at me right now.\nJust when I was about to agree, unused to seeing her like this as I am...",
+      "sourceUnit": "セイバールート十二日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I hear a stomach growling.\"\nSaber's stomach growls, giving the usual signal of her hunger.",
+      "sourceUnit": "セイバールート十二日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Was that Saber? Are you really that hungry?\"\n\"N-no. I am not especially hungry, but it appears my body requires nutrients.\"",
+      "sourceUnit": "セイバールート十二日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. I guess that happens when you move around a bunch, but Saber...how disgraceful. You may be a mere Servant, but if you forget your manners entirely, Shirou might end up hating you.\"",
+      "sourceUnit": "セイバールート十二日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that is untrue! I am a Servant, so the only way I could disappoint Shirou is by being defeated!\"",
+      "sourceUnit": "セイバールート十二日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...I'm not going to be disappointed because you lost, but that doesn't mean there aren't other things you can do that might seem odd, Saber.\"",
+      "sourceUnit": "セイバールート十二日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"THAT. IS. ALL! Besides, my stomach growling because I am hungry is only proof that my body is functioning properly! If that annoys you, then blame Shirou for failing to feed me!\"\nSaber glares at Illya, who then glares at me since, according to Saber, I'm the problem here.",
+      "sourceUnit": "セイバールート十二日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Also, the stomach growling is the result of a gastrointestinal response called hunger pangs.\nThe stomach is constantly expanding and contracting, and this movement becomes more intense when the stomach is empty. The contraction of the stomach compresses the air inside it, which makes the sound we're familiar with.\nOn the other hand, the stomach is also affected by the autonomic nerves as well.",
+      "sourceUnit": "セイバールート十二日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "It is constantly moving, which means the stomach doesn't only rumble when it's empty.\nThe stomach's movements...the cause of it rumbling so loudly is...\n\"I'm hungry. My stomach's about to rumble. People will know I'm hungry if they hear it. So I need to hold it in.\"\nSuch thoughts make the person tense up, which causes their stomach to contract even more.",
+      "sourceUnit": "セイバールート十二日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Hmmm...\nIn other words...",
+      "sourceUnit": "セイバールート十二日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. I get it. You were just mad because you were hungry. That's why you were all moody. Seriously, I can't believe you're still hungry even after such a big meal this morning. You glutton, you.\"\n\"Wha...!?\"",
+      "sourceUnit": "セイバールート十二日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oooh. Now that you mention it, I didn't notice because she was all quiet, but she ate twice as much as Rin. I didn't know Saber was such a glutton!\"",
+      "sourceUnit": "セイバールート十二日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not true. I am not a glutton... Rin is just a light eater! Shirou, surely you understand—\"",
+      "sourceUnit": "セイバールート十二日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, I guess you're right. I've noticed she always eats until the very end. I think if she really worked at it, she could eat just as much as Fuji-nee.\"\n\"That is absolutely not true! What have you been watching all this time, Shirou!?\"",
+      "sourceUnit": "セイバールート十二日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Well, I'm just being honest...\nBesides, your stomach always rumbles around this time. Glutton or not, I think you just get hungry fast.\"\n...\n\"I knew it! Saber, you're so immodest!\"",
+      "sourceUnit": "セイバールート十二日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Illya leaps up joyfully, excited to dress Saber down.",
+      "sourceUnit": "セイバールート十二日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Saber, on the other hand, who had been completely distraught earlier...\n...is back to her usual self, like nothing happened.",
+      "sourceUnit": "セイバールート十二日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Um...aren't you...mad?\"\n\"I am not angry. As Illyasviel mentioned, I have been consuming a great deal of food.\nI may have been pushing myself a bit in order to keep my stamin—that is, magical energy reserves high to reduce the burden on Shirou.\"",
+      "sourceUnit": "セイバールート十二日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nOh right.\nSaber can only replenish magical energy on her own.\nShe sleeps to reduce her consumption of magical energy.\nAnd she probably wanted to stockpile as much energy by eating food.",
+      "sourceUnit": "セイバールート十二日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry I wasn't exactly being considerate.\nEven though we formed a connection, that doesn't give you everything you need.\"",
+      "sourceUnit": "セイバールート十二日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "And she requires tens of times more magical energy than I can give. Maybe more.\nServants consume massive amounts of magical energy just to keep existing.\nBut the amount of magical energy Saber can generate in a day doesn't cover all she needs just to exist.",
+      "sourceUnit": "セイバールート十二日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"It is all right, as long as you understand. But more importantly, Shirou...\"\n\"Yeah, I know. I actually made lunch already. We're having bento today, so we can eat them right—\"\n\"No. We should take this time to train a bit more.\"",
+      "sourceUnit": "セイバールート十二日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Oh?\nSaber gives me back my shinai and takes a ready position to start a match.",
+      "sourceUnit": "セイバールート十二日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...? I thought we were going to eat...\"\n\"That will not be necessary. You mentioned you would rather do this, so...\"",
+      "sourceUnit": "セイバールート十二日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nA chill runs down my spine. I realize I've made a terrible mistake.",
+      "sourceUnit": "セイバールート十二日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Wait, please. Let's calm down.\n...Saber, you're... You're really mad, aren't you?\"\nI realize how timid I sound.",
+      "sourceUnit": "セイバールート十二日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. Is there something in my behavior that suggests otherwise to you?\"\n\"You're absolutely different! You even changed outfits!\"",
+      "sourceUnit": "セイバールート十二日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Her armor!?\nIs she wielding the shinai while fully armored!?\nShe is!",
+      "sourceUnit": "セイバールート十二日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"We shall continue with light training, as usual.\"\n\"A-are you serious? Don't you think this is a little immature of you!?\"",
+      "sourceUnit": "セイバールート十二日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "She isn't listening.\nI'm hit with all the force of a lightning strike.\nFreed from her position as an educator, Saber truly bares her claws.",
+      "sourceUnit": "セイバールート十二日目-06:page39:1"
+    },
+    "page40": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page41": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...!?\"\nI just had the craziest dream... Could that have been the afterlife?",
+      "sourceUnit": "セイバールート十二日目-06:page58:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you come to, Shirou? I am ashamed that, after all this practice, you cannot even dodge a single blow from me.\nSo please dodge this next one. I am using kendo techniques, so you should be able to endure this, so long as you properly brace yourself.\"",
+      "sourceUnit": "セイバールート十二日目-06:page59:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"N-n-n-n-no! You still want to keep going!?\"\n\"Of course. We still have ten minutes until noon. Let us keep going until we reach our limit, as usual.\"\nSaber's shinai strikes furiously, with a loud, cracking sound.",
+      "sourceUnit": "セイバールート十二日目-06:page60:1"
+    },
+    "page45": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート十二日目-06:page61:1"
+    },
+    "page46": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

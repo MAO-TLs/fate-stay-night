@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0706",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I don't hesitate.\nI stare into Saber's eyes, and answer her gaze by bringing my heavy arms down.",
+      "sourceUnit": "桜ルート十六日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't resist.\nI end her life with a precise strike.",
+      "sourceUnit": "桜ルート十六日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —\"\nI had memories with her.\nEven now, I felt the warmth of life from her.\nHer warmth was always right next to me, and I can never forget it.",
+      "sourceUnit": "桜ルート十六日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I kill her, along with those memories.\nI gouge out my memories and throw them into a place I can't reach.\nThey'll never come back.\nI'll never remember her again.\nI'll never be forgiven for this.",
+      "sourceUnit": "桜ルート十六日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I chose this path.\nI killed others to save Sakura.\nI killed a girl close to me, who protected me until the very end, with my own hands.\nI'm not allowed to regret or repent.\n...This is what it means to choose to be someone's ally.\nTo protect my ego, to protect the one I love, I'm going to keep robbing others of their precious things.",
+      "sourceUnit": "桜ルート十六日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Beyond that...\nI'll never find anything brilliant enough to make up for what was lost.",
+      "sourceUnit": "桜ルート十六日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"But Saber...\"\nFor the rest of my life, I'll keep searching for happiness that can make up for what was lost.\nI can already see that my debts will keep piling up until one day, I can no longer move.\nYet... pathetic, absurd, and worthless though it may be, I'll take responsibility for what I stole.",
+      "sourceUnit": "桜ルート十六日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I don't know where to find happiness.\nStill, I swear never to give up, even if there's no end to my quest.",
+      "sourceUnit": "桜ルート十六日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thank you. You saved me so many times.\"",
+      "sourceUnit": "桜ルート十六日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...My dagger stops meeting resistance.\nThe black swordsman silently stares up at me as she sinks into the black shadow.",
+      "sourceUnit": "桜ルート十六日目-06:page9:1"
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

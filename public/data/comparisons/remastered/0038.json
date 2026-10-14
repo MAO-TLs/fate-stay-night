@@ -1,0 +1,666 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0038",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We walk through town at night.\nIt's one in the morning, and there is nobody out at this hour.\nThe houses are dark, and the sleepy town is cast only in the streetlights' pale glow.",
+      "sourceUnit": "セイバールート三日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. Are you planning on walking to the next town?\"\n\"Of course. Trains and buses aren't running right now. Sometimes a nighttime stroll's kind of nice.\"\n\"Okay. But I just want to make sure: Do you know how long that walk will take?\"\n\"About an hour, right? If it gets too late, we can just grab a taxi on our way back.\"",
+      "sourceUnit": "セイバールート三日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't have that kind of money, and my point is more about whether it's safe for a girl to walk around at this hour. You know it's been dangerous recently. I don't want to be responsible if something happens to you.\"\n\"Don't worry. Nobody's going to mess with us. You might've forgotten, but Saber here is really strong.\"",
+      "sourceUnit": "セイバールート三日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nNow that she mentions it...\nIf anyone picks a fight with Saber, they're dead for sure.",
+      "sourceUnit": "セイバールート三日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. What did Shirou mean by what he said earlier? I did not quite understand.\"\n\"Eh? He, uh, really misunderstood the situation. Also he's an idiot. He was trying to say he'd swoop in to our rescue if someone assaulted us.\"",
+      "sourceUnit": "セイバールート三日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"That cannot be right. Shirou is my Master. Our roles would be reversed if he did that.\"\n\"Yeah, he's probably not thinking about anything like that. Like he doesn't care what mages and Servants are. Honestly, I'd like to see what's going on in his head.\"\n\"...\"",
+      "sourceUnit": "セイバールート三日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and Saber seem to be on good enough terms to chat now.\nSaber's been quiet ever since I stopped her from leaving the house as she was.",
+      "sourceUnit": "セイバールート三日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "She flatly refused to take off her armor, so I made her wear a raincoat, and she's been quiet ever since.\nNow she's just following me, and only speaks to Tohsaka.",
+      "sourceUnit": "セイバールート三日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Where are you going, Emiya? That's the wrong way.\"\n\"We need to go to the bridge, right? Shortcut.\"\nI feel a little...awkward walking right beside her, so I walk a little faster and took the side path.",
+      "sourceUnit": "セイバールート三日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "We enter a park along the riverside.\nAll we need to do is to cross the bridge to reach Shinto.",
+      "sourceUnit": "セイバールート三日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I didn't know there was a path here. I see. We just need to head to the park, since the bridge is accessible from the park, too.\"",
+      "sourceUnit": "セイバールート三日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's the park at night.\nTohsaka, as she stands there staring up at the bridge, looks prettier than when I see her at school. This isn't good.",
+      "sourceUnit": "セイバールート三日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's just go. We didn't come here to goof off.\"\nI remind Tohsaka to hurry, and start climbing the stairs.\nOnce we reach the road at the side of the bridge, it's just a straight shot to Shinto.",
+      "sourceUnit": "セイバールート三日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "There is nobody on the bridge.\nNot surprising, since this bridge isn't exactly busy even during the day.\nPeople tend to take the bus or train to get to the next town, so the pedestrian bridge doesn't see much use.",
+      "sourceUnit": "セイバールート三日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "It's a pretty good distance, and the bridge itself seems a little unsteady, so people might worry it could collapse at any time.\nProbably why this isn't a very popular spot for dates, even though the location and ambience are perfect.",
+      "sourceUnit": "セイバールート三日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What is in your head, Shirou? Stop thinking about such stupid crap.\"\nSaber follows silently while Rin walks beside me.\nI hurry across the bridge as fast as I can and try not to think too much about the two girls with me.",
+      "sourceUnit": "セイバールート三日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Once we cross the bridge, Tohsaka leads us to the suburbs.\nThe office buildings near the station only come to mind when I think of Shinto, but there's still a traditional townscape on the outskirts.",
+      "sourceUnit": "セイバールート三日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "The suburbs are especially prominent in that sense.\nThere are gentle slopes and a hill that overlooks the ocean.\nThe further up the hill you go, the fewer buildings there are, and there's even a foreigner's cemetery built along the hillside.",
+      "sourceUnit": "セイバールート三日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"The church is up at the top of the hill. Have you never been?\"\n\"Nope, never. Though I do know it used to be an orphanage.\"\n\"I see. If this is your first time, you might want to brace yourself. The church's priest isn't exactly the easiest man to deal with.\"",
+      "sourceUnit": "セイバールート三日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I look up and see a shadow that must be a building on top of the hill.\nA church atop a hill.\nI never imagined a circumstance like this is what would bring me to God's house.",
+      "sourceUnit": "セイバールート三日目-02:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, this is amazing.\"\nThe church is magnificent.\nThe whole hilltop seems to be church grounds, and I'm greeted by a huge open space the moment I reach the top of the hill.\nThe church at the other side of the vast, open space isn't all that big, but it seems to loom over everything, intimidating any visitors.",
+      "sourceUnit": "セイバールート三日目-02:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I will stay behind.\"\n\"Eh? Why? We came all this way. I can't just leave you here.\"",
+      "sourceUnit": "セイバールート三日目-02:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"My purpose was not to visit the church, but to protect you along the way. If your destination is the church, then you will not stray far from it. So I will wait here for you to return.\"\nSaber is frank in her response.\nI can't see her budging at this point, so I decide to respect her decision.",
+      "sourceUnit": "セイバールート三日目-02:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Then I'll be back.\"\n\"Yes. And do not let your guard down, no matter who you are dealing with, Master.\"",
+      "sourceUnit": "セイバールート三日目-02:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "The chapel is large and majestic.\nIt must see many visitors during the day, based on the number of pews in the chapel.\nThe priest must have incredible authority if he's responsible for a church as grand as this one.",
+      "sourceUnit": "セイバールート三日目-02:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. What kind of man is this priest here?\"\n\"It's kind of hard to explain. I've known him for over a decade now, but I still can't figure him out.\"\n\"Known him for over a decade? That's a long time to know someone. Are you two related or something?\"",
+      "sourceUnit": "セイバールート三日目-02:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No, but he's my guardian. On top of that, as a disciple he's my senior, and my second mentor.\"\n\"Eh...senior disciple...as a mage!?\"",
+      "sourceUnit": "セイバールート三日目-02:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Why is that such a surprise?\"\n\"He's a priest, right? Aren't priests forbidden from using magecraft!?\"\nMages and churches have never mixed well.",
+      "sourceUnit": "セイバールート三日目-02:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Mages belong to a large organization called the Mage's Association.\nBut there is also a hidden group operating in the shadow of the most widespread religion—not one normal people would ever hear about or want to get involved with—known as the Holy Church.\nThe two have nothing in common. They may have a sort of surface alliance, but they're constantly trying to kill each other given half a chance.",
+      "sourceUnit": "セイバールート三日目-02:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "The Church loathes heretics.\nThey are out to eliminate anything inhuman in the world, including users of magecraft.\nIn the Church's eyes, only saints are permitted to perform miracles. All other human miracles are heresy.",
+      "sourceUnit": "セイバールート三日目-02:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "There are no exceptions, even for those within the Church.\nThe higher the position one is in within the Church, the more they are forbidden from the impurity of magecraft.\nIt goes without saying that the more blessings someone receives from God— especially someone who is in charge of a church like this—the further the distance they should take from magecraft.",
+      "sourceUnit": "セイバールート三日目-02:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually, I didn't know the priest here was on our side.\"\n\"Yep. He's the one supervising the Holy Grail War, so he's definitely an agent. Well, whether he's ever actually received any blessings from God is...an open question.\"",
+      "sourceUnit": "セイバールート三日目-02:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's footsteps echo as she walks toward the altar.\nI'm not sure whether you're supposed to be walking around here without a priest, but it is pretty late.\nThe priest wouldn't be in the chapel at this hour. I guess he'd be in his private room out back.",
+      "sourceUnit": "セイバールート三日目-02:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. So what's the priest's name? I think you said Kotomine or something earlier.\"",
+      "sourceUnit": "セイバールート三日目-02:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"His name is Kirei Kotomine. He's my father's disciple, and unfortunately, I've known him for over ten years. If I had any choice, I'd rather not have ever met him.\"\n\"I assure you the feeling is mutual. I never wished for a pupil who refuses to respect her mentor.\"",
+      "sourceUnit": "セイバールート三日目-02:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Tap, tap. I hear footsteps.\nA man slowly emerges from the far side of the altar. He must have noticed when we entered the chapel.",
+      "sourceUnit": "セイバールート三日目-02:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I've been calling you, Rin, but you haven't answered. Now you bring me a strange guest. ...Hm, so he's the seventh, Rin?\"",
+      "sourceUnit": "セイバールート三日目-02:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. He's a mage, apparently, but he's a complete amateur. It's frustrating as hell.\nAnd the rules say to report here when someone becomes a Master, right? It's a stupid rule your group made up, but I figured I'd follow it this time.\"",
+      "sourceUnit": "セイバールート三日目-02:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"How commendable of you. Well then, I must thank this young man.\"\nThe priest slowly looks me over.",
+      "sourceUnit": "セイバールート三日目-02:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nI unconsciously step back.\nI'm not afraid...\n...and I don't sense any hostility from this priest.\nBut the way he carries himself, he just gives off this indescribable aura of intimidation.",
+      "sourceUnit": "セイバールート三日目-02:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"My name is Kirei Kotomine, and I have been entrusted to run this church.\nWhat is your name, seventh Master?\"\n\"It's Shirou Emiya. But I don't remember signing up to be a Master.\"\nI brace myself, glaring at the priest so as not to buckle under that intimidating presence.",
+      "sourceUnit": "セイバールート三日目-02:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...Emiya.\"\n\"Huh?\"\nThat intimidating aura grows chilly.\nThe priest smiles, as if pleased.\nThat smile of his...\nI can't explain it, but it makes me...",
+      "sourceUnit": "セイバールート三日目-02:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I must thank you Emiya. You have brought Rin here. If it wasn't for you, she would have never set foot in this church.\"\nThe priest makes his way to the altar.\nTohsaka, on the other hand, just looks bored as she moves away from the altar, and comes to stand next to me.",
+      "sourceUnit": "セイバールート三日目-02:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let us begin. Shirou Emiya. You are Saber's Master, correct?\"\n\"That's not entirely true. I did form a contract with Saber. But I have no idea what the hell Masters and Holy Grail Wars are.\nIf proper mages are the only ones who can be Masters, then you should pick a different Master.\"",
+      "sourceUnit": "セイバールート三日目-02:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. This is a pity. Does he really know nothing, Rin?\"\n\"I told you he's a complete novice. You'll need to teach him from the ground up. You're good at pushing people like that, aren't you?\"\nTohsaka practically pawns me off on the priest, still looking bored.",
+      "sourceUnit": "セイバールート三日目-02:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. I see. So that's your plan.\nVery well. This is the first time you have depended on me for anything.\nIt seems I cannot thank Shirou Emiya enough for bringing me this opportunity.\"\nThe more I hear them talk, the more uneasy I get.",
+      "sourceUnit": "セイバールート三日目-02:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"First, let me address some of your misconceptions.\nListen to me, Shirou Emiya. The role of a Master isn't something you can simply pass on to someone else. Nor is it something that, after you have been chosen, you can simply quit.\nOnce Command Spells are engraved on one's hand, there is no means by which they can resign from being a Master, regardless of who they might be.\"",
+      "sourceUnit": "セイバールート三日目-02:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't quit? Why not?\"\n\"Command Spells are sacred marks. They're a trial placed upon Masters. You can't simply forfeit because it's inconvenient.\nYou will not be released from its pain unless the Holy Grail is obtained.\"",
+      "sourceUnit": "セイバールート三日目-02:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"If you want to resign from being a Master, the only thing you can do is obtain the Holy Grail and have your wish granted. Do this, and everything can go back to normal for you, Shirou Emiya.\nAnything you desire...even ridding yourself of the impure mud within you is possible. Why, even starting over entirely is possible.\"",
+      "sourceUnit": "セイバールート三日目-02:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"And so, you should desire it.\nShould the time come, you will be grateful for your luck in being chosen as a Master. If you wish to be rid of those unseen burn scars you have, you simply have to accept that sacred mark.\"",
+      "sourceUnit": "セイバールート三日目-02:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nI feel faint.\nThe priest's words don't make any sense.\nThe more I listen, the more I'm confused.\n...Yet, his words permeate in my mind, staining me like blood.",
+      "sourceUnit": "セイバールート三日目-02:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Kirei, don't be so obtuse. I just asked you to explain the rules to him. I never asked you to open up old wounds.\"\nHer voice interrupts the priest's words.\n\"T-Tohsaka?\"\nMy confused mind snaps back.",
+      "sourceUnit": "セイバールート三日目-02:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. I believed nothing else would sink in for someone like him, so thought I would at least break down his morality while he was still confused.\nHmph. Well, I suppose kindness isn't always entirely for the benefit of the recipient... I must admit, I did enjoy that quite a lot.\"",
+      "sourceUnit": "セイバールート三日目-02:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Does helping him do you any good?\"",
+      "sourceUnit": "セイバールート三日目-02:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. Helping people means saving yourself in the end. I suppose there's not much sense in me lecturing you about that, though.\"",
+      "sourceUnit": "セイバールート三日目-02:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me return to the matter at hand, Shirou Emiya.\nYou find yourself involved in what is known as the Holy Grail War.\nIt is a battle waged using seven Servants, commanded by seven Masters... I hope Rin would have at least told you that.\"",
+      "sourceUnit": "セイバールート三日目-02:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, she did. She told me about the whole ridiculous thing where seven Masters participate in a battle to the death.\"\n\"Correct. But we are not indulging in such cruelty for entertainment.\nIt is a ritual to determine who is worthy of obtaining the Holy Grail.\nFor such a powerful item as that, rigorous trials must be conducted to determine who should possess it.\"",
+      "sourceUnit": "セイバールート三日目-02:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "The hell with trials.\nI bet this priest doesn't think of the Holy Grail War as a trial at all.",
+      "sourceUnit": "セイバールート三日目-02:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. You keep saying 'Holy Grail.' What even is that? You don't mean the actual Holy Grail, right?\"",
+      "sourceUnit": "セイバールート三日目-02:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail.\nA goblet said to have received the blood of a saint.\nIt is considered to be one the greatest sacred relics of all time, and it is said to perform a variety of miracles.",
+      "sourceUnit": "セイバールート三日目-02:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "One of the most widely held beliefs is that whoever holds the Holy Grail can possess the entire world.\nBut that seems kind of unlikely since the Holy Grail itself probably doesn't even exist.",
+      "sourceUnit": "セイバールート三日目-02:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Stories of a Holy Grail that can grant any wish appear in numerous myths and legends around the world.\nBut that's about it.\nA mythical power that none claim has ever actually existed or been replicated—that is the Holy Grail.",
+      "sourceUnit": "セイバールート三日目-02:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"So what is it, Kirei Kotomine? Is the Holy Grail you speak of really the Holy Grail?\"\n\"Of course it is. The Holy Grail that appears in this town is real. If you want proof, the appearance of the Servants themselves is a miracle, isn't it?\"",
+      "sourceUnit": "セイバールート三日目-02:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Summoning Heroic Spirits from the past and utilizing them... It is a miracle close enough to the resurrection of the dead that it could be considered magic.\nA Holy Grail of such power must in turn grant its owner limitless power. When considering the truth of how powerful it is, its authenticity hardly matters.\"",
+      "sourceUnit": "セイバールート三日目-02:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nSo what he's saying...\n...is that as long as the object possesses power that surpasses the real thing, it doesn't matter whether it's real or fake.",
+      "sourceUnit": "セイバールート三日目-02:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Let's assume it's really a Holy Grail. Then why would something like the Holy Grail War need to happen? If the Holy Grail exists, we shouldn't be killing each other over it. Something so amazing should be shared.\"\n\"A reasonable opinion. However, not an option we have the luxury of.\nOnly one can obtain the Holy Grail.\nWe cannot ourselves choose who. That is for the Grail to decide.\"",
+      "sourceUnit": "セイバールート三日目-02:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"The selection of the seven Masters and the summoning of seven Servants are all determined by the Holy Grail itself.\nI mentioned that this was a ritual. The Holy Grail selects those who are worthy of possessing it, and then each against the other to select the sole bearer.\nThat is what a Holy Grail War is...a sort of a necromantic ritual where those chosen by the Holy Grail fight to the death to obtain it.\"",
+      "sourceUnit": "セイバールート三日目-02:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe's so...matter-of-fact about it all.\nI have no response, so I just stare at my left hand.\nThere's an inscription on my hand, a mark these two call a Command Spell.\nAs long as I have this mark, I'm told I can't quit being a Master.",
+      "sourceUnit": "セイバールート三日目-02:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"That still doesn't make sense. Just because only one person can be selected, there's no reason for all the other Masters to die.\"\n\"Hm? Wait a minute. You don't actually have to kill them, Emiya; the ritual doesn't require you to kill the Masters.\"",
+      "sourceUnit": "セイバールート三日目-02:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? But you said it's a battle to the death. Even Kotomine said that.\"\n\"You do kill each other.\"\n\"Kirei, shush. Okay, so the Holy Grail here is in spirit form. It's not tangible as an object. It needs to be summoned in a special ritual... Kind of like a séance.\"",
+      "sourceUnit": "セイバールート三日目-02:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Summoning it can be done just by us mages, but as long as it's in spirit form, we can't touch it. Do you understand what that means?\"\n\"I do. Only spirit forms can touch other spirit forms.\nOh so that's why you need Servants!\"",
+      "sourceUnit": "セイバールート三日目-02:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. To put it in simple terms, the goal in the Holy Grail War is for you to eliminate all the Servants other than your own. There's no rule that you have to kill Masters.\"",
+      "sourceUnit": "セイバールート三日目-02:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhy didn't they tell me that earlier!?\nHonestly, Tohsaka and that priest both are pretty wicked.\n...But that's a relief.\nIt means Tohsaka won't have to die, even if I do join the Holy Grail War.",
+      "sourceUnit": "セイバールート三日目-02:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. I suppose that is one way to look about it.\nThen let me ask you, Shirou Emiya. Do you think you can beat your own Servant?\"",
+      "sourceUnit": "セイバールート三日目-02:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nDefeat Saber?\nOf course not.\nBesides, magecraft is useless against her, and she's insanely strong with her sword.",
+      "sourceUnit": "セイバールート三日目-02:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Then one more question for you, though it may be a trifling one: Do you think yourself superior to your Servant?\"\nWhat?\nWhy the hell's he asking this?\nI can't beat Saber, so there's no way I'm better than her.\nMy answer to both those questions is that I'm weaker than my Servant...",
+      "sourceUnit": "セイバールート三日目-02:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\n\"Now you get it. Servants have enough trouble defeating other Servants. So, what could you do?\nIt's simple, really. A Servant cannot exist without their Master. No matter how powerful the Servant, they will disappear once the Master is killed. Which means...\"",
+      "sourceUnit": "セイバールート三日目-02:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Now I get it.\nNobody would make things harder for themselves.\nIf someone wanted to make sure they won, killing the Master would be the much easier path.",
+      "sourceUnit": "セイバールート三日目-02:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...I get it now. It's easier to defeat the Master than the Servant.\nLet me ask you this, then. If the Servant is defeated first, is their Master no longer a Master? If Servants are the only ones who can touch the Holy Grail, then a Master who lost their Servant becomes obsolete, right?\"",
+      "sourceUnit": "セイバールート三日目-02:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"No, as long as the Command Spell remains, they still have the right to remain a Master. A Master is simply a mage who can make a contract with a Servant. As long as they have a Command Spell, they can form contracts with as many Servants as they want.\"",
+      "sourceUnit": "セイバールート三日目-02:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"A Servant who loses their Master does not disappear immediately. They can remain in this world until they run out of magical energy. Servants who lose their Masters, and Masters who lose their Servant can forge a new contract together, and return to the battle.\nWhich is why Masters seek to kill other Masters. Allowing others to live may pose a greater risk later on.\"",
+      "sourceUnit": "セイバールート三日目-02:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Then what if you use up your Command Spells? That means you can't form another contract with another Servant, and the Servant who gets freed will pair up with another Master?\"\n\"Wait, that's...\"\n\"Hm. You are correct. If you use up all your Command Spells, you will be freed from your duties as Master.\"",
+      "sourceUnit": "セイバールート三日目-02:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Although, it's hard to believe any mage would waste their Command Spells, since each can perform extremely powerful magecraft.\nAnd were there to be such a Master, they would be a fool as well as a coward.\"\nThe priest laughs, as if he can see right through me.",
+      "sourceUnit": "セイバールート三日目-02:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is starting to get to me.\nThe priest's tone is...provoking.",
+      "sourceUnit": "セイバールート三日目-02:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand now? Then here endeth the lesson.\nNow, let us return to where we began, Shirou Emiya.\nYou mentioned that you had no intention of becoming a Master. Do you still feel that way?\"",
+      "sourceUnit": "セイバールート三日目-02:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"If you want to forfeit your position as a Master, that is fine too.\nAs you have just pointed out, you can use up your Command Spells to terminate your contract with Saber. Should you do so, I will guarantee your safety until the Holy Grail War ends.\"",
+      "sourceUnit": "セイバールート三日目-02:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Hold on a minute. Why the hell would you need to guarantee my safety? I can protect myself.\"",
+      "sourceUnit": "セイバールート三日目-02:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"I honestly do not have the time to look after you, but those are the rules.\nI have been assigned to oversee this repeating Holy Grail War.\nThus, I must ensure the sacrifices made during the Holy Grail War be kept to a minimum.\nProtecting the safety of mages who are no longer Masters is one of my most important responsibilities as the overseer.\"",
+      "sourceUnit": "セイバールート三日目-02:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you say 'repeating Holy Grail War'?\"\nHold on a minute.\nIt repeats? Does that mean a battle like this happened before?",
+      "sourceUnit": "セイバールート三日目-02:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell do you mean? Are you saying this isn't the first Holy Grail War?\"",
+      "sourceUnit": "セイバールート三日目-02:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. Do you think an overseer would have been dispatched were this the first time?\nThis church is a special agency responsible for collecting relics. Our organization's original goal is to investigate and recover the True Cross, but here our duty is to assess the Holy Grail.\nOur job is to investigate the seven hundred twenty-sixth Holy Grail that was detected in the Far East, and recover it, if it is indeed real. And if it is not real, we will repudiate it.\"",
+      "sourceUnit": "セイバールート三日目-02:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Seven hundred twenty-six? Are there really that many Holy Grails?\"\n\"Who knows? At the very least, it means there are that many objects thought to be Holy Grails.\"",
+      "sourceUnit": "セイバールート三日目-02:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"And one of those is the Holy Grail observed in this town, which triggered a Holy Grail War.\nAccording to extant records, the first battle occurred about two hundred years ago.\nSince then, Masters have fought over it every fifty years or so.\nThis will be the fifth Holy Grail War. The last one happened about ten years ago, so this is the shortest cycle yet.\"",
+      "sourceUnit": "セイバールート三日目-02:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Are you all insane? You guys have done this thing four times already!?\"\n\"I quite agree. As you pointed out, this has been repeated many times.\nThat's right...\nIn the past, the repeated Holy Grail Wars have been exceedingly fierce. Masters were driven by their own desires as they killed each other indiscriminately, forgetting their disciplines as mages.\"",
+      "sourceUnit": "セイバールート三日目-02:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"You may already know this, but the biggest sin to commit as a mage is practicing magecraft within normal society. Mages must never reveal their identities to others.\nBut the Masters of the past broke that law.\nThe Mage's Association finally dispatched an overseer to crack down on Masters like them, but that system was only put in place by the time of the third Holy Grail War. And that first overseer was my father. Does that make sense now, my boy?\"",
+      "sourceUnit": "セイバールート三日目-02:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I get that an overseer is needed.\nBut based on what you just said, this Holy Grail War is fundamentally a bad thing, right?\"\n\"Oh? In what way is it fundamentally bad?\"",
+      "sourceUnit": "セイバールート三日目-02:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"The previous Masters willingly broke the laws of mages, right?\nThen let's say the Holy Grail is real. What if whoever survives and wins is selfish and uses the Holy Grail for their own selfish purposes? Wouldn't it be pretty bad if the Holy Grail went to someone who has no problem killing people?\nIf the Association's job is to supervise mages, shouldn't you be the one punishing those types of folks?\"",
+      "sourceUnit": "セイバールート三日目-02:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "I'm hoping to finally confuse him with this question.\nBut, as I figured, Kotomine just laughs condescendingly.",
+      "sourceUnit": "セイバールート三日目-02:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. All mages are motivated by their self-interests. I am only responsible for managing the rules of the Holy Grail War. I do not care what happens afterwards. The Association does not intervene, no matter what sort of person obtains the Holy Grail.\"\n\"But that's absurd! What happens if the Holy Grail is obtained by a Master who's absolutely the worst!?\"",
+      "sourceUnit": "セイバールート三日目-02:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"That would be bad. But it is out of our control. The Holy Grail is the one that chooses its owner. And we do not have the power to stop a Master who has been chosen by the Holy Grail.\nYou see, it is a chalice capable of granting any desire. Whoever obtains it will be able to do as they please, I'm sure.\nSo if that idea troubles you, then your path is clear: survive and win. Doing this yourself would be the approach most certain to work, as opposed to relying on others, correct?\"",
+      "sourceUnit": "セイバールート三日目-02:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "Kotomine is clearly trying to suppress his laughter.\nIt's like he's enjoying watching my awkward resistance to becoming a Master.",
+      "sourceUnit": "セイバールート三日目-02:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong, my boy? I thought that was a rather good idea...care to accept it?\"\n\"That's none of your business. First of all, I have no reason to fight. I'm not interested in the Holy Grail, nor do I feel like a Master even if you tell me otherwise.\"",
+      "sourceUnit": "セイバールート三日目-02:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? So do you not care what the winner of the Holy Grail does with it? Even if it may lead to a great catastrophe?\"",
+      "sourceUnit": "セイバールート三日目-02:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Well that...\"\nI can't argue.\nDamn. This guy is just so hard to deal with.\nHe doesn't care about my feelings, and he is relentless with the information he pushes on me.",
+      "sourceUnit": "セイバールート三日目-02:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"If you have no reason to fight, that is fine too. That must mean you do not care about what happened ten years ago.\"\n\"Ten...years ago...?\"",
+      "sourceUnit": "セイバールート三日目-02:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. Towards the end of the previous Holy Grail War, an unworthy Master touched the Holy Grail. I do not know what that Master desired. All we know is the disaster that followed.\"\n...",
+      "sourceUnit": "セイバールート三日目-02:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "For a second...\nThe image of that hell flashes before my eyes.",
+      "sourceUnit": "セイバールート三日目-02:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Don't tell me that...\"\n\"That's right. It is the catastrophe everyone in this town knows very well.\nFive hundred people were killed or wounded. One hundred thirty-four buildings burned to the ground. That fire, which is still unexplained to this day, was a consequence of the Holy Grail War.\"",
+      "sourceUnit": "セイバールート三日目-02:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel sick.\nMy vision blurs.\nI lose my focus and I can't concentrate.\nMy legs are about to buckle.",
+      "sourceUnit": "セイバールート三日目-02:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "Before that can happen, I plant my feet.\nI grit my teeth to maintain my composure.\nRaw, seething anger is the only thing holding my nausea at bay.",
+      "sourceUnit": "セイバールート三日目-02:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya? What's wrong? You're white as a sheet. I know that wasn't a pleasant topic to bring up, but... Come on, why don't you rest a bit?\"",
+      "sourceUnit": "セイバールート三日目-02:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "I must have really looked pale.\nI know it's rare for someone like Tohsaka to be concerned about the likes of me.",
+      "sourceUnit": "セイバールート三日目-02:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry. I feel better after seeing you looking at me so weird.\"\n\"Hey. What's that supposed to mean?\"\n\"Nothing. Exactly what I said, so don't worry about it.\"",
+      "sourceUnit": "セイバールート三日目-02:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess that's okay... Hey! That's even worse, you blockhead!\"\nThe school's honor student, Rin Tohsaka, smacks me upside the head.\nAnd just like that...\n...my nausea and anger disappear.",
+      "sourceUnit": "セイバールート三日目-02:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks. You really did me a favor, so don't beat me up too much, Tohsaka. There's still a few things I have to ask.\"\nSomething in her expression suggests she thinks she hasn't hit me enough, but she lets me continue anyway.",
+      "sourceUnit": "セイバールート三日目-02:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? You still have questions? By all means. Out with it.\"\nI'm sure he knows exactly what I want to ask, but he urges me on anyway.\"\nFine by me.\nI'm not letting him get the better of me.",
+      "sourceUnit": "セイバールート三日目-02:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me ask you this: You said that this is the fifth Holy Grail War, so has anyone ever obtained the Holy Grail?\"\n\"Of course. Not every war ends with everyone dead.\"\n\"Then...\"",
+      "sourceUnit": "セイバールート三日目-02:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't jump to conclusions. Obtaining it is the easy part. After all, this church actually manages and is in possession of the Holy Grail. If you're wondering whether someone has touched it, I'll have you know I touch it every day.\"\n\"What?\"\nTh-the Holy Grail is here in the church!?",
+      "sourceUnit": "セイバールート三日目-02:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it's just a vessel. It's quite empty. As Rin said earlier, the Holy Grail is in spirit form.\nThe church is safekeeping a well-made replica of the Holy Grail. We use it as the catalyst to draw the real Holy Grail out and create the wish-granting device it becomes. I suppose it is similar to a Master and Servant relationship. And yes, there was indeed a man who obtained the Holy Grail which temporary turned real.\"",
+      "sourceUnit": "セイバールート三日目-02:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"So the Holy Grail was real. Okay, what happened to that guy who obtained it?\"\n\"Nothing. The Holy Grail never reached its complete form because a foolish man let his sentiments get the better of him.\"",
+      "sourceUnit": "セイバールート三日目-02:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "What?\nI don't know what happened to his overbearing attitude from a moment before, but the priest suddenly looks, of all things, regretful.",
+      "sourceUnit": "セイバールート三日目-02:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean? Didn't the Holy Grail appear?\"\n\"Manifesting the Holy Grail is easy. Seven Servants appear, and then, some time later, the Holy Grail does as well. As Rin pointed out, there's no real need to kill other Masters.\nBut that's not enough to complete a Holy Grail. The Grail selects a worthy owner. For that reason, a man who had avoided the battle was unable to obtain the Holy Grail.\"",
+      "sourceUnit": "セイバールート三日目-02:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. It just means it's useless to obtain the Holy Grail without settling things with the other Masters.\nThe Master who first got their hands on the Holy Grail during the last war was just a wuss. They didn't want to fight other Masters and just ran away from the Holy Grail.\"",
+      "sourceUnit": "セイバールート三日目-02:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka almost spits the words, then goes back to averting her eyes from Kotomine.\n\"You're kidding.\"\nDoes that mean Kotomine was one of the Masters from the previous war, and even though he obtained the Holy Grail, he dropped out because he refused to fight!?",
+      "sourceUnit": "セイバールート三日目-02:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine. You didn't fight?\"\n\"I did...halfway. But I made a bad decision. Consequently, I only obtained an empty Holy Grail.\nI suppose that must have been my limit anyway. The rest of the Masters were all monstrously strong. Terrifying, even. I immediately lost my Servant, and I was taken under my father's protection.\"",
+      "sourceUnit": "セイバールート三日目-02:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"In retrospect, the son of the overseer shouldn't have become a Master in the first place.\nIt led to my father's death. After that, I assumed his role as overseer, and have been protecting the Holy Grail at this church.\"",
+      "sourceUnit": "セイバールート三日目-02:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "Kotomine turns his back to me as he speaks.\nThere is reverence in his voice, and I see the devotion in his eyes before he turns.",
+      "sourceUnit": "セイバールート三日目-02:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"We have nothing further to discuss.\nThose qualified to obtain the Holy Grail are Masters who have Servants. The moment there is only one of the seven of you left standing, the Holy Grail shall manifest before you.\nSo, tell me: Will you join this Holy Grail War?\"\nThe priest looks straight down at me, demanding my final decision.",
+      "sourceUnit": "セイバールート三日目-02:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm at a loss for words.\nEarlier, I had no reason to fight.\nNow, I have a reason and the will to fight.\nBut can I truly say as much?",
+      "sourceUnit": "セイバールート三日目-02:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you still unsure?\nListen. You do not become a Master just by saying it's what you want. Rin has been training as a mage for many years, but that never meant she was guaranteed to be a Master.\nThe only thing you can decide beforehand is whether to prepare yourself to be a Master or not.\"",
+      "sourceUnit": "セイバールート三日目-02:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"Only mages can be selected to be Masters. If you are a mage, you should have already been prepared.\nHowever, if you are still lacking resolve, there is nothing to be done.\nBut that makes both you and your mentor failures. A mage like you would only be a nuisance in battle, so you might as well get rid of your Command Spells right here, right now.\"",
+      "sourceUnit": "セイバールート三日目-02:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"!!!\"\nHe doesn't need to ask anything else.\nI...",
+      "sourceUnit": "セイバールート三日目-02:page131:1"
+    }
+  }
+}

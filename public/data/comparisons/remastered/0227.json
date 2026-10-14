@@ -1,0 +1,37 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0227",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "No one can blame her for this.",
+      "sourceUnit": "セイバールート十五日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\"\nShe blankly looks down at the thing at her feet.\nHer fingers have no sensation. She's not sure what she's touching.\nBut there is one reality she recognizes.\nThe boy who was her master...ended his own life while trying to protect her.",
+      "sourceUnit": "セイバールート十五日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...?\"\nShe only thought of it.\nFor just a brief moment, she sought the Holy Grail.\nBut that desire faded almost instantly, and she prioritized the boy's life above all else.\nThat instant was just enough time for evil to sink in.\nJust thinking about it was enough.\nHer heart...long fatigued and worn out, was defeated in a moment of weakness that lasted no longer than the blink of an eye.",
+      "sourceUnit": "セイバールート十五日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"No...this cannot be true, Shirou.\"\nShe reaches toward her master. He isn't breathing.\nThe young girl looks so much less noble, holding the boy's corpse.",
+      "sourceUnit": "セイバールート十五日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You did well, Saber. Your lamentation is surely worthy of the Grail.\"\nThe voice echoes in the darkness.\nAs if responding to the call of nirvana, she accepts the Holy Grail in a daze.",
+      "sourceUnit": "セイバールート十五日目-03:page4:1",
+      "recoveredDelimitedTail": true
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

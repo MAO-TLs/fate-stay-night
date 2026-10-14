@@ -1,0 +1,107 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0246",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "After making a full round of the house,\nSaber is nowhere to be found. I even checked the detached guest rooms, but I can't find her.",
+      "sourceUnit": "凛ルート四日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"That's weird. That armor isn't exactly camouflage...\"\nEven so, a fully armed and armored Saber still eludes me.\nSupposedly Servants can turn into spirit forms, but unfortunately she can't with me.\nNo, first of all...",
+      "sourceUnit": "凛ルート四日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Even though I'm called a Master, I don't know anything about her.\"\nI don't even know what Saber is or how Servants are able to exist.",
+      "sourceUnit": "凛ルート四日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The one thing I do know is...\nI feel I can get through this strange battle as long as I'm with this golden-haired knight.",
+      "sourceUnit": "凛ルート四日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"She's not here either...\"\nI've looked around the entire house.\nIt's the size of a traditional Japanese inn, but I played hide-and-seek with Fuji-nee when I was a kid, so I know the most efficient way to search it.\nShe must be in the dojo or the shed if she isn't in the house itself.",
+      "sourceUnit": "凛ルート四日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nSaber is in the still, silent dojo.\n...But, her appearance is different from yesterday.\nSaber is sitting upright, her legs tucked beneath herself, on the wooden floor. She's not wearing her armor.\nShe changed into rather elegant clothes that really suit her. Now she sits in wait.",
+      "sourceUnit": "凛ルート四日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Words fail me at the sight.\nSaber looks beautiful. She strikes a refined, dignified figure as she sits there, eyes closed.\nShe seems to almost merge with the silence, like nothing so much as still water.",
+      "sourceUnit": "凛ルート四日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd that rids me of any further doubt in my mind.\nServant or whatever it is, she seems sacrosanct.\nSo... From now on, I'm sure I won't go down the wrong path.",
+      "sourceUnit": "凛ルート四日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber.\"\nI call to her.\nSaber calmly opens her eyes and meets my gaze.",
+      "sourceUnit": "凛ルート四日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You are awake, Shirou.\"\nHer voice is serene.\nSomething rich and calm about her voice hangs in the air.",
+      "sourceUnit": "凛ルート四日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I just woke up. What are you doing here?\"\n\"I was resting. Since I cannot treat you, I figured that I would at least ensure that my body is in as perfect a condition as I can make it.\"",
+      "sourceUnit": "凛ルート四日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber gives a straightforward response as she scrutinizes me.\n...This is, um...\nMaking me nervous in a different way than Tohsaka did.",
+      "sourceUnit": "凛ルート四日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? What is it? Is your body still...?\"\n\"N-no, I'm totally fine...! It's something else, really, it's nothing...!\"\nI quickly take a step back and shake my head.",
+      "sourceUnit": "凛ルート四日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nLooking away from Saber—who tilts her head at me quizzically—I try to calm my rapid heartbeat.",
+      "sourceUnit": "凛ルート四日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Get a hold of yourself! Why are you getting worked up like this...!\"\nI take a deep breath.\n...But I don't think this feeling is going away anytime soon.",
+      "sourceUnit": "凛ルート四日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man, why did she have to change...?\"\nI can't help myself.\nWith Saber in that outfit, I can't help but actually think she's real now.",
+      "sourceUnit": "凛ルート四日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...Seriously, she's drop-dead gorgeous.\nI mean I saw that yesterday, but it's actually setting in now.",
+      "sourceUnit": "凛ルート四日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\nAs soon as we make eye contact, I can feel my nervousness grow.\nThen again, I wasn't looking everywhere for her just to stay silent.\nIt's uncomfortable, but I can't let it be awkward forever.",
+      "sourceUnit": "凛ルート四日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI bite the bullet.\nI should've asked her yesterday anyway.\nIf she really is my Servant...\nAnd if I...really am going to participate in this battle.",
+      "sourceUnit": "凛ルート四日目-01:page18:1",
+      "recoveredDelimitedTail": true
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

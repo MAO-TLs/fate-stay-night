@@ -1,0 +1,487 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0070",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "But then...\nI hear something heavy hit the floor by the door.\n\"What's that?\"\nI turn to face the sound.",
+      "sourceUnit": "セイバールート四日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "At the door...\nThere's Tohsaka, a duffel bag at her feet.",
+      "sourceUnit": "セイバールート四日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...?\"\nMy mind comes to a screeching halt.\nI thought Tohsaka had gone home, but here she is, at the dojo, in her ordinary clothes. And why is she carrying so much stuff?",
+      "sourceUnit": "セイバールート四日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Uhhh? What are you doing here, Tohsaka?\"\n\"What do you mean? I went home to get my stuff. Wouldn't it be the sensible thing since I'm going to live here from now on?\"",
+      "sourceUnit": "セイバールート四日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?!?!?\nL-live!? You...living HERE...in MY house!?!?!?\"",
+      "sourceUnit": "セイバールート四日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what teaming up means, right? Honestly, what did you think we were talking about earlier?\"\n\"Uh...argh.\"\nI can't even speak.\nI need something. I need to say something or else this is going to turn into a huge mess, but my brain refuses to work.",
+      "sourceUnit": "セイバールート四日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"So where's my room? If you don't have one ready, I'll just pick one.\"\nShe just pushes right by me, brashly invading my home.\n\"Uh...no, hold up. That's—\"\nWouldn't this be wrong?",
+      "sourceUnit": "セイバールート四日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I mean, Tohsaka's pretty much the school's idol. Having her in my house at all is already a big deal, but I don't know how people will react if she started staying here or living with me, and Fuji-nee would absolutely kill me...and well, maybe this is just a plot on Tohsaka's part to get rid of a Master!?",
+      "sourceUnit": "セイバールート四日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh by the way, why don't you prepare a room for her, too? Unlike my Archer, your Servant actually takes up space, so you need to set up a place for her to rest. Well, I guess it's not a huge deal if you think just one futon would be enough for the two of you.\"\nWha...!? Is she implying Saber and I sleep in the same bed or something!?",
+      "sourceUnit": "セイバールート四日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Like hell that's going to happen, idiot! You think you can just say whatever because I'm being quiet, but that isn't ever happening! Saber's a girl, you know!\"\n\"You're missing the point. But whatever. Did you hear that, Saber?\nShirou's saying he doesn't want to share a room with a girl.\"",
+      "sourceUnit": "セイバールート四日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber's staring at me.\nShe looks...really stern.",
+      "sourceUnit": "セイバールート四日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"That will not do, Shirou. A Servant must protect their Master at all times. Masters are most vulnerable when they are asleep, so I must be in the room with you to protect you.\"\n\"That's even worse! What the hell are you two thinking!? Should girls really be thinking about that kind of stuff!?\"",
+      "sourceUnit": "セイバールート四日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nWhy?\nWhy are the two of them just silently staring at me like that?",
+      "sourceUnit": "セイバールート四日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh-huh. You do know you don't really need to treat Servants like humans, right? I guess there's just no sense telling Shirou that, though.\"",
+      "sourceUnit": "セイバールート四日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm about to protest, but I shut my mouth.\nThe discomfort I felt when I was talking to Tohsaka in the living room earlier comes rushing back.\nActually.\nI've just figured out the cause of my discomfort.",
+      "sourceUnit": "セイバールート四日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, Tohsaka. When did you start calling me by my first name?\"\n\"Huh? I didn't even realize it. I thought it happened pretty quickly.\"\n\"It did happen quickly... At least that's how I felt.\"",
+      "sourceUnit": "セイバールート四日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. If you don't like it, I'll try to be more careful about it. But do you care, Shirou?\"\nTohsaka is so casual about this, not really caring how I feel.\n...You were right, Issei.\nIt's not that Rin Tohsaka might be a cruel enchantress. She is one.",
+      "sourceUnit": "セイバールート四日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine...do whatever you want. You can call me whatever you like.\"\n\"Yeah? I will, then.\"\n\"Rin. Please do not change the subject. We have not finished deciding the matter Shirou and my living arrangements.\"",
+      "sourceUnit": "セイバールート四日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh that's right. But given Shirou's reaction, it might not be realistic for you and Shirou to share a room. There's no point in treating Servants like humans, but you might as well give up since Shirou hates that idea.\"\n\"That is not true. Shirou simply expressed his discomfort, but he did not outright say no.\"\n\"You heard her. So what do you really mean, Shirou?\"",
+      "sourceUnit": "セイバールート四日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nHold on a minute.\nI don't understand how in a single day she can just casually start calling me \"Shirou\" like a cat she just picked up and named.\nUh, well that's not really the issue here. This is about Saber's living arrangement.",
+      "sourceUnit": "セイバールート四日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I will ask you once again. It is the Servant's job to guard you while you sleep. At this point, I am sure you understand your position as a Master.\"\nUgh...my decision won't change, no matter how much she stares at me like that.",
+      "sourceUnit": "セイバールート四日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'll prepare a different room for Saber. I'll make sure her room's closest to mine. That should be a good compromise.\"\n...\n\"I-intimidation won't work with me! Anyway, I'm a man, so I have to draw the line! You need to be more mindful of your position too, Saber!\"",
+      "sourceUnit": "セイバールート四日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Yes, exactly. That is why I am simply insisting as a Servant that I protect Master—\"\n\"No, not that! I'm talking about your own position...! Argh! If you don't get it, then never mind! If you're going to keep on pressing the issue, I'll make you understand if I have to use my Command Spell!\"\nI try to scare Saber off the subject.",
+      "sourceUnit": "セイバールート四日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I would not like you using a Command Spell for that reason. Our future would be bleak indeed were you to use such a thing to command me not to protect you.\"",
+      "sourceUnit": "セイバールート四日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. Shirou is the first, and definitely last Master to say something like that.\"\nDon't be stupid. I wouldn't want to use my Command Spell for something like this either.",
+      "sourceUnit": "セイバールート四日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. I will follow Master's command. But what will you do if you are ambushed? Assassins have the ability to close in on to their target by concealing their presence. If that were to happen, are you able to protect yourself until I reach you?\"",
+      "sourceUnit": "セイバールート四日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Well I...\"\nI...really can't tell her that I can take care of myself.\nYeah, I managed to survive against Lancer, but I won't have that kind of luck twice.",
+      "sourceUnit": "セイバールート四日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not possible. This mansion has a Bounded Field set up to alert the residents of any intruders. We may not be able to avoid being attacked, but we should be able to detect attempts at an ambush. If that happens, Saber should have time to rush to Shirou's defense before he's attacked. So, she can go ahead and take another room.\"",
+      "sourceUnit": "セイバールート四日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"That may be true. But...\"\n\"Then why don't you take the room next to Shirou's? You're fine as long as you two don't share rooms, right Emiya?\"\nTohsaka purposefully calls me \"Emiya\" at the end.",
+      "sourceUnit": "セイバールート四日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, that's a bit of a misconception.\"\n\"I'm saying it for your sake, so it's justified. Anyway, I wonder which room I should take.\"\nTohsaka takes her luggage and heads towards the mansion, putting an end to the conversation.\nShe seems cheerful, like a student picking her room at a school trip.",
+      "sourceUnit": "セイバールート四日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...\nHow terrifying. The way Tohsaka carries herself so self-assuredly mesmerizes the two of us, and we both watch her go in stunned dismay.",
+      "sourceUnit": "セイバールート四日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "We all leave the dojo and head back to the house.\nFor the time being, I need to give them all a tour so Saber can select her room.",
+      "sourceUnit": "セイバールート四日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the Japanese-style room. If you head towards the back, you'll find the living room, bathroom, and other communal spaces. You'll get to the guest house if you walk along the veranda corridor towards the detached side of the house. Seems like Tohsaka wants to go that way.\"",
+      "sourceUnit": "セイバールート四日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "As we walk, I explain where everything is.\nI'm not sure if she's even listening, since Saber is just following me without reacting to a single thing I say.",
+      "sourceUnit": "セイバールート四日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not need to know the layout of the house. I just need to know where your room is, Shirou.\"\n\"My room is this way. It's pretty far into the house.\"",
+      "sourceUnit": "セイバールート四日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Then please lead me there. There is something I wish to discuss with you privately.\"\n\"Privately...?\"\nThat means it's something she doesn't want Tohsaka to hear.\nI don't think Tohsaka would hear us since she's in the detached area of the house, but I can't forget that she's still a Master.\nShe could just as easily listen in. And besides, the veranda's hardly a place to talk in private.",
+      "sourceUnit": "セイバールート四日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Here. This is my room.\"\n\"What...? This is your room, Shirou?\"\n\"Hm?\"\nThe moment we step into my room, Saber's eyes widen with surprise.",
+      "sourceUnit": "セイバールート四日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? I don't think there's anything around here that should surprise you like that.\"\n\"No, it is not that there is anything that surprises me... It is more that I am more surprised there is nothing here. You are certain this is your room?\"",
+      "sourceUnit": "セイバールート四日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would I lie to you about that? I only come here to sleep, so it makes sense there's nothing here.\"\n\"I see. I just did not expect that. I imagined you to be a collector of some sort.\"",
+      "sourceUnit": "セイバールート四日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Saber steps into the Japanese-style room, running her hand along the wall and sliding paper door, feeling its texture.\nHer touch is gentle, as if contact with these things will let her learn their history...see their memories.",
+      "sourceUnit": "セイバールート四日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I am glad. Your room may seem sparse, but it feels like it has been treated with care. It looks drab, but I can feel the warmth here.\"\n\"Warmth? Well I guess that's true. Maybe it's how this mansion's been structured, but this room is cool during the summer and warm in winter. My old man also was impressed and said I chose well.\"",
+      "sourceUnit": "セイバールート四日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. A room is a reflection of its owner's personality. The state of this room left me concerned about your disposition, but now my impression of you is as it was previous to coming here.\"\nSaber sounds relieved, but I don't really understand what she's trying to say.",
+      "sourceUnit": "セイバールート四日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what'd you want to talk to me privately about?\"\n\"Two things, both of which I would like to keep between the two of us. Is that all right?\"",
+      "sourceUnit": "セイバールート四日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well if you say so, I don't mind. But at least tell me what they are, or else I won't know whether it's good or bad.\"",
+      "sourceUnit": "セイバールート四日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Both are bad. At the very least, I do not want any of the other Masters knowing this.\"\n\"Hm...\"\nFrom Saber's expression, I'm guessing this has something to do with our shortcomings.",
+      "sourceUnit": "セイバールート四日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I think I got the gist of what's on your mind. Go ahead and tell me what it is.\"\n\"The first thing is about a summoned Servant's first obligation. I am afraid I cannot fulfill that obligation, so I would like to apologize in advance.\"\n\"Huh? A Servant's first obligation?\"\n\"Revealing my identity to you. Have you not heard it from Rin?\"\n\"About who you are...oh you mean your real name.\"",
+      "sourceUnit": "セイバールート四日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Servants are Heroic Spirits.\nThey are heroes who have made a name from themselves throughout history and around the world.\nThey conceal their identities as well as their skills by using class names.\nA Servant's True Name isn't something to reveal lightly.",
+      "sourceUnit": "セイバールート四日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "But their Masters should know.\nWithout knowing their identity, Masters won't know a Servant's strengths and abilities.\nMaster and Servant are one.\nThe pair simply can't battle effectively if one has something to hide.",
+      "sourceUnit": "セイバールート四日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...At least that would be case if we're talking about a normal Master.\nKnowing Saber's True Name won't change the fact that I still can't use her with her full potential, and I wasn't all that interested in the first place.",
+      "sourceUnit": "セイバールート四日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. That's fine. But why?\"\n\"I am basing this on my own understanding of the situation. In spite of whatever intention or efforts on your part to protect my True Name, there are numerous ways with which an enemy could use magecraft to rip that knowledge from you.\nYou have little resistance to magecraft. A skilled mage could easily take advantage of this. Should you fall under an enemy's spell, you may reveal my True Name, entirely against your will.\"",
+      "sourceUnit": "セイバールート四日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh I get it. Yeah, you're right. I'd give it up the moment a spell was cast on me. Let's keep it a secret.\"",
+      "sourceUnit": "セイバールート四日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"I appreciate your understanding. Then again, I am not as renowned or distinguished as the likes of Berserker anyway. It may not make much of a difference, even were my name to be revealed.\"",
+      "sourceUnit": "セイバールート四日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Saber's tone is regretful.\nI hadn't quite expected that. She seems to have a human side to her, which she lets show in revealing how she's frustrated she may be inferior to Berserker as a hero.",
+      "sourceUnit": "セイバールート四日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"That doesn't matter. An ace up your sleeve's only value isn't that it's concealed. I can tell you're trying to be creative since you ended up with such a terrible Master.\nBesides, don't you think Berserker's kind of unfair anyway?\nThere's no reason for you to get depressed about it. And from my point of view, you weren't completely inferior to that thing. You were injured pretty bad, but you were holding your own.\"",
+      "sourceUnit": "セイバールート四日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"You may be right. I was caught off guard last night, but once my wounds are fully healed, things will go differently.\"",
+      "sourceUnit": "セイバールート四日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I bet. Okay, that's the first topic.\nWhat's the other thing you wanted to talk about?\"",
+      "sourceUnit": "セイバールート四日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, about that... I'm afraid that this is something we are unable to resolve on our own.\nServants maintain their form with the magical energy their Masters supply. That is why a Servant requires a Master—\"",
+      "sourceUnit": "セイバールート四日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...But because I'm a crap Master, I don't have enough magical energy to maintain your body?\"",
+      "sourceUnit": "セイバールート四日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not what I am saying. Even were I to receive only a small amount of magical energy from my Master, that would not be a problem. However, as of right now, I am not receiving any magical energy from you at all. The leyline connection we should have is not present.\"",
+      "sourceUnit": "セイバールート四日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nUm, that means...\nIt means that, while I'm supposed to be providing Saber with fuel for her engine, so to speak...I'm not.",
+      "sourceUnit": "セイバールート四日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, that means...\"\n\"This is not a shortcoming on your part. Something must have happened at the time of my summoning. Some sort of error must have occurred, and the connection that should have formed between us failed to do so properly.\"",
+      "sourceUnit": "セイバールート四日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...An error during your summoning?\"\nWhen Saber was called here, it wasn't any sort of summoning.\nIt was just an accident.\nIt's no wonder Saber's having these issues since she was summoned that way.",
+      "sourceUnit": "セイバールート四日目-10:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Then what's going to happen? If you can't replenish magical energy, does that mean you're going to disappear soon?\"\n\"Yes. Once I use up all the magical energy I possess, I will no longer be able to remain in this world.\"",
+      "sourceUnit": "セイバールート四日目-10:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I have already fought three battles since I was summoned.\nMy healing ability is a type of regeneration magecraft, so I will consume more magical energy whenever I am injured. By my calculations, I must have used about ten full-fledged mages' worth of magical energy last night.",
+      "sourceUnit": "セイバールート四日目-10:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nI am speechless.\nEvery time Saber fights, she loses magical energy. And there's no way for her to replace it.\nIf she's used that much magical energy already, how much longer can Saber stay here?",
+      "sourceUnit": "セイバールート四日目-10:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Now you understand, Master.\nThus, I must avoid using any more magical energy. If I am unable to supplement my magical energy, the only other method is for me to sleep to reduce the consumption of magical energy.\"\n\"Sleep... Does sleeping restore magical energy?\"",
+      "sourceUnit": "セイバールート四日目-10:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not know. But at the very least, I will not use any magical energy while asleep.\nWhich is why I would like you to permit me to sleep as much as possible. I may not be able to protect you all the time, but I hope you do understand so that we may increase our chances of victory.\"",
+      "sourceUnit": "セイバールート四日目-10:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI sigh in relief.\nThank goodness. I'll give her whatever she asks, if that's all there is to it.",
+      "sourceUnit": "セイバールート四日目-10:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course that's okay. Rest all you want if things get rough for you. I'd rather you do that if it'll allow you to stay with me longer.\"",
+      "sourceUnit": "セイバールート四日目-10:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Then from now on, I will sleep often. During that time, I ask that you do not leave the mansion. I will not be able to come to your aid if you are attacked while we are apart.\"",
+      "sourceUnit": "セイバールート四日目-10:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Matters would be different if I could travel through space and time, but that is a rare ability for Servants to have.\nIf you are to call me from a distance, you will need to use Command Spells as backup, so I would prefer you remained nearby.\"",
+      "sourceUnit": "セイバールート四日目-10:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nAs much as I would like to, I can't readily agree.\nI can't imagine life with Saber sticking by my side all the time, and I do have my own life to live too.",
+      "sourceUnit": "セイバールート四日目-10:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'll try. But is that all you need me to do?\nIf you're asleep, you'll—\"\n\"It should not be a problem. I cannot be certain, since this has never happened before, but I went into battle fewer than seven times last time. Even if I do not go out and fight, some of the other Servants will dispatch each other.\"",
+      "sourceUnit": "セイバールート四日目-10:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So it doesn't mean everyone has to battle everyone else. If all goes well, we can end this war pretty easily.\"",
+      "sourceUnit": "セイバールート四日目-10:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "The only people I need to fight are those who start doing things no person should.\nI can't imagine all seven would be like that.\nEven Tohsaka, who seems eager to fight, would still abide by the rules of mages.",
+      "sourceUnit": "セイバールート四日目-10:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "And as long as the other five Masters act humanely, I have no intention of fighting them.\nSaber even said she didn't fight seven times last time, so this time around—",
+      "sourceUnit": "セイバールート四日目-10:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nHold on a minute.\nLast time...fewer than seven...times?",
+      "sourceUnit": "セイバールート四日目-10:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, Saber. Are you telling me you were the Saber last time too? I mean...does that mean you participated in the last Holy Grail War too!?\"",
+      "sourceUnit": "セイバールート四日目-10:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the second time I have participated in this war for the Holy Grail.\nI was the Saber last time as well. There are Heroic Spirits who possess attributes suited to multiple classes, but I only fall under the Saber class.\"",
+      "sourceUnit": "セイバールート四日目-10:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "...\nI remember something Tohsaka said.\nShe said that out of the seven Servant classes, Saber is the best one.\nAnd this girl says that she has been summoned as that class twice in a row.",
+      "sourceUnit": "セイバールート四日目-10:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Does that mean last time you...stayed until the end?\"\n\"Of course. I did not have any of the constraints I do now last time, so I never fell behind the other Servants.\"",
+      "sourceUnit": "セイバールート四日目-10:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "Saber says this as if it should be obvious.\nHer statement forces me to realize something:\nThe sword in my possession now is not something I'm worthy of. I don't deserve her.",
+      "sourceUnit": "セイバールート四日目-10:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. Then you must be really unsatisfied with someone like me as your Master.\"\n\"I simply fulfill the duties that have been given to me. As long as I can obtain the Holy Grail, I have no complaints about who my Master is.\"",
+      "sourceUnit": "セイバールート四日目-10:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. That's a relief, but...\"\nShe used to be fully prepared and in capable hands, but she's been injured twice already.",
+      "sourceUnit": "セイバールート四日目-10:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "All because she can't replenish her magical energy. That means she'll constantly have to consider how much magical energy she has left as she fights.\nAnd because she needs to fight with all these restrictions, in her last battle...\n...she wound up covered in her own blood.",
+      "sourceUnit": "セイバールート四日目-10:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe image still haunts my mind.\nI still see that girl, smaller and slighter than me, being so brutally injured.",
+      "sourceUnit": "セイバールート四日目-10:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, there is no reason to regret such a thing.\"\n\"Eh...?\"\nSaber's voice snaps me back to reality.",
+      "sourceUnit": "セイバールート四日目-10:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"It is not that I have never known defeat.\nI was not victorious last time, and so now I am your Servant. I am accustomed to injury, so there is no call for you to be distressed over my wounds.\"",
+      "sourceUnit": "セイバールート四日目-10:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Used to it...even if your injuries look like they could be fatal?\"\n\"Yes. To wield a sword is to be prepared to accept the consequences of doing so. This holds true for you as well. It is unreasonable to expect me to come out of this unscathed.\"",
+      "sourceUnit": "セイバールート四日目-10:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Well yeah, but... So you're saying you don't mind getting hurt?\"\n\"As long as the injuries are not fatal. If I die, I will not be able to protect my Master.\"\n\"What the hell? So you don't care if you get injured as long as you protect your Master?\"",
+      "sourceUnit": "セイバールート四日目-10:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"That is a Servant's role.\nIn this, Rin is absolutely correct. There is no cause to treat Servants like humans. We are tools used to protect our Master, and that is something you must understand.\"",
+      "sourceUnit": "セイバールート四日目-10:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "Having said her piece, Saber walks toward the sliding door.\nThere's a room opposite of the screen door.\nMy room has always been big enough for me, so I never used the adjacent room.",
+      "sourceUnit": "セイバールート四日目-10:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"I will go to sleep now. I will wake up at dinner time, so please let me know if you are going to step out.\"\nThe sliding door opens quietly, then slides back shut.",
+      "sourceUnit": "セイバールート四日目-10:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "We are tools used to protect our Master.\nThat is something you must understand.",
+      "sourceUnit": "セイバールート四日目-10:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"The hell kind of logic is that?\"\nIt pisses me off.\nBut I can't say that aloud, so I just take in Saber's words and stand alone, perplexed.",
+      "sourceUnit": "セイバールート四日目-10:page94:1",
+      "recoveredDelimitedTail": true
+    },
+    "page95": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

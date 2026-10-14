@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0444",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"We'll patrol Miyama tonight. It's been weird around here lately, so we should make sure our home turf is secure.\"\n\"I agree. Although the naked eye cannot detect everything, we should glean some valuable information if we are thorough in our search.\"",
+      "sourceUnit": "桜ルート四日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...Let's check out the nearby neighborhoods first.\nWe head down to the intersection and patrol the European-style neighborhoods.\nIf we don't find anything, then we can just move on to Shinto and look for clues there.",
+      "sourceUnit": "桜ルート四日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "After doing a circuit of the neighborhoods, we return to the intersection.\nThere was nothing out of the ordinary in our area.\nAll that's left is to search the hill on the European side, and we can go as far as Ryudou Temple if we want to expand our search area...",
+      "sourceUnit": "桜ルート四日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nA sudden chill runs up my spine.\n\"Saber, that's...!?\"\nSaber looks in the direction of Shinto. She must have better senses than me.",
+      "sourceUnit": "桜ルート四日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...Whatever I sensed is fading.\nBut it was unmistakably a scream accompanied by a strong wave of magical energy.\n...\nI knew it.\nIt's the entire reason we're looking around outside.\nBut why won't my brain work?",
+      "sourceUnit": "桜ルート四日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI told myself I was ready to fight.\nAny hesitation disappeared the moment I risked my life.\nBut now, my body won't listen to my brain.",
+      "sourceUnit": "桜ルート四日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...It's too soon.\nI never expected that we'd hit the mark on the first day.\nSo I can't move. I may be used to being attacked, but I'm not used to going on the attack.\nI'm such an idiot.\nI kept saying I was ready to die, but I never thought about killing anyone else...",
+      "sourceUnit": "桜ルート四日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"The scream stopped. The presence we sensed is fading. I don't know what just happened, but I doubt we'll be able to help whoever was attacked.\"",
+      "sourceUnit": "桜ルート四日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nThen, it passes.\nMy frozen brain and paralyzed limbs move again.\nThe fear of watching someone die drives away\nthe fear of an imminent battle of life and death.",
+      "sourceUnit": "桜ルート四日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry, Saber...!\"\nI break into a sprint, apologizing for my own spinelessness.\nI dash towards the source of the scream, and the battle that left such ominous magical energy.\nI'm not ready.\nMy legs are shaking even as I run.\nThat's the correct response.\nIf I lack the will to fight, to want the Holy Grail for myself, then that fear will inevitably come for me.",
+      "sourceUnit": "桜ルート四日目-03:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

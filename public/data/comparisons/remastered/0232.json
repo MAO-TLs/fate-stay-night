@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0232",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you have something in mind, Tohsaka?\"\nI'm going to settle things with Kotomine.\nEven if I don't have a chance of winning, I can't run away.\nBut if Tohsaka has a plan, I'll hear her out, no matter what it is.",
+      "sourceUnit": "セイバールート十五日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Unfortunately, I don't. But I'll give you a parting gift. It's meant for self-defense, but it's better than nothing.\"\nTohsaka reaches behind her and pulls out a single dagger.",
+      "sourceUnit": "セイバールート十五日目-16:page1:1"
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

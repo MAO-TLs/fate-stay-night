@@ -1,0 +1,196 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0619",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm coming in, Sakura.\"\nHe opens the door without waiting for a reply.\nHe's never waited for his little sister to answer before opening the door.",
+      "sourceUnit": "桜ルート十一日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What, she still isn't back yet? What am I gonna do with her?\"\nHe clicks his tongue and steps into the room.\nShinji Matou paces around his sister's room like a blind dog, running his nails along the walls.",
+      "sourceUnit": "桜ルート十一日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. Are you in the basement today, too? What are you doing down there without me?\"\nNobody answers his repeated questions.\nThere's no one else in the room.\nHis sister hasn't been back home for the last few days.\nShinji keeps pacing around the room, even though he knows full well that its resident isn't here.",
+      "sourceUnit": "桜ルート十一日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You're always like that. Haha, you're seriously always like that!\"\nHe picks up a clock and throws it.\nThe sound of the glass breaking irritates him more than he expected.",
+      "sourceUnit": "桜ルート十一日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Where'd she go? Keeping secrets from her big brother...\"\nHe keeps throwing things, as if spitting out his anger.\n...That's how this always goes.\nIt's how he's compensated on a regular basis for the last few years.\nIt's the greatest act of resistance he can do to forgive himself and his sister, ever since learning the truth three years ago.",
+      "sourceUnit": "桜ルート十一日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "When he was born, the Matou bloodline had already outlived its purpose.",
+      "sourceUnit": "桜ルート十一日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Their noble line lost its power, and the Matous were reduced to ordinary people.\nTheir only special assets were their knowledge.\nA once great lineage of arcane scholars met its obscure end in the Orient.",
+      "sourceUnit": "桜ルート十一日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "He was told those facts, even as a child.\nHe was taught the Matous were special, a clan entrusted with miracles.\nWere.\nThere were no Matous left who could use magecraft, and they would have to live in society as normal people from now on.",
+      "sourceUnit": "桜ルート十一日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "But he didn't think so.\nIt's true that without Magic Circuits or whatever they were called, he couldn't perform magecraft on his own.\nHe knew that the mages died out with his father's generation, and that he wasn't qualified to inherit the Matou name.\nBut the Matous still had records of their miracles.\nOnly their bloodline was over. They still had their wealth of knowledge.",
+      "sourceUnit": "桜ルート十一日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "To the boy, that was enough to make him special.\nHe wasn't like other people.\nThe Matous were a chosen people.\nTheir worth hadn't diminished just because they lost their magical power and stopped being mages.\nHe was proud to be part of that special family, and would live an exceptional life.\nHe might be lacking as a mage, but he was born into a chosen family, that was for sure.",
+      "sourceUnit": "桜ルート十一日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...One day, a new child came into their fold.\nHis father said that the girl had no next of kin, so they would be adopting her.\nIt was more than ten years ago.\nFrom that day forward, the girl named Sakura became his little sister.",
+      "sourceUnit": "桜ルート十一日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "At first, he didn't like her.\nHe didn't want some foreign element to come into their special family.\nBut as the days passed, he began to approve of her.\nSakura was quiet, plain, and little better than a guard dog.\nTrying to be hostile towards her was a waste of time, so he began to dote on her stupidity, to an extent.",
+      "sourceUnit": "桜ルート十一日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "He buried himself in books, learned arcane arts that he couldn't perform, and thought of himself as the Matou heir.\nOnly he was allowed into the Matou library.\nHis sister was adopted, and she would never be chosen as the heir, so she had no right to look at those books.\nSurely, she would live the rest of her life as a normal person, unaware of the Matous' remaining precious knowledge.\nThat notion satisfied his arrogance.",
+      "sourceUnit": "桜ルート十一日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Each mage family only has one successor.\nHe knew that, so he never had any doubts that his sister would be cast off and raised separately.\nOnly one of them could learn magecraft.\nSo it was natural that he didn't see her around much.",
+      "sourceUnit": "桜ルート十一日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nIn fact, he pitied her.\nThey lived in the same house and had the same parents, and yet only he was considered special. He felt sorry for his sister who wasn't chosen.\nHis haughty attitude was the compassion of one who is superior, and of course, a source of his self-esteem as a reliable big brother.",
+      "sourceUnit": "桜ルート十一日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "So, the brother pitied his sister, and treated her with affection.\nHis sister never looked him in the eye.\nHe figured she felt ashamed of herself, and so he doted on his helpless little sister.\nUntil the day he learned the truth.",
+      "sourceUnit": "桜ルート十一日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nThat was the only sound he could make when he happened upon that room.",
+      "sourceUnit": "桜ルート十一日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "A room he never knew about.\nWisdom that was never imparted to him.\nAnd talents he was never born with.\nAll of that was here.\nAnd she was in the middle of the room,\nsurrounded by black, squirming things and their scary grandfather.\nHis father glanced at him with a look of scorn he'd never seen before, as if he was an intruder.",
+      "sourceUnit": "桜ルート十一日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "It was over.\nEverything he'd ever believed, that he'd constructed in his head, was turned upside-down.",
+      "sourceUnit": "桜ルート十一日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "He wasn't the special one.\nHis sister wasn't being kept away.\nShe wasn't the one to feel sorry for.\nHe wasn't the one looking down at her out of pity...",
+      "sourceUnit": "桜ルート十一日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "His life was transformed.\nNow that his father didn't need to hide it anymore, he began to interact only with the little sister.\nHis little sister still wouldn't say anything. She just kept staring at the floor, like always.\nWith that same attitude that seemed like she wanted to escape his gaze, she said,\n\"...I'm sorry, big brother.\"\nShe said it with the same sympathy that he once directed at her.",
+      "sourceUnit": "桜ルート十一日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha... Haha, ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha!!!\"",
+      "sourceUnit": "桜ルート十一日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "He laughed.\nHe guffawed like there was no tomorrow.\nIt was so hilarious he wanted to break everything.\nThe girl he'd thought of as a plaything was the real master, while he was a clown all along.\nWas he the crazy one, or her?\nProbably both.\nHis life shattered, he went back to the house, and realized something.",
+      "sourceUnit": "桜ルート十一日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "It wasn't as if the world suddenly got turned around.\nHis environment was always this way.\nThe only one who had it backwards, who misunderstood, was himself.\nHe realized how wretched he was. He had it all wrong from the beginning.",
+      "sourceUnit": "桜ルート十一日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "The next three years were nothing but pain for him.\nHis father died, and his grandfather only paid attention to his sister.\nShinji Matou was no different from the air inside the mansion.\nHe was treated like it didn't matter whether he was there or not, and in fact, that's all he was worth.",
+      "sourceUnit": "桜ルート十一日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "And she sympathized with him.\nShe said, \"sorry.\"\nShe didn't necessarily say it out loud, but she apologized every time they saw each other.\nShe apologized for taking Shinji Matou's place.",
+      "sourceUnit": "桜ルート十一日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What're you apologizing for?\"",
+      "sourceUnit": "桜ルート十一日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "She should have just ignored him.\nThen he would have lost his dignity, and he wouldn't feel any hope.\nSakura would apologize.\nThat only made him feel like there was no outlet for everything he was feeling.",
+      "sourceUnit": "桜ルート十一日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm your kind big brother.\"\n\"Your one and only brother you can count on more than anyone else.\"",
+      "sourceUnit": "桜ルート十一日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "In light of his humiliation, surely there was nothing wrong with him treating her this way.",
+      "sourceUnit": "桜ルート十一日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha... Is she still at Emiya's place?\nYou're the family heir. Our heir! The great successor to the Matou line!\"",
+      "sourceUnit": "桜ルート十一日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "The room shows no signs of being lived in.\nThat went without saying.\nTo Sakura Matou, her only \"bedroom\" was that underground nest, while this room was just for appearances.\nShe wouldn't care no matter how much he messed up the room or how many things he broke.\nIt won't change the fact that her name is the one on the door.",
+      "sourceUnit": "桜ルート十一日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Argh, and you're still gonna apologize to me! It's always 'sorry' with you! If you're really sorry, then do what I tell you! You feel guilty? I don't care. If you think of yourself as a Matou at all, then you should be a good little sister and do what your brother says!\nHe tears off the bedsheets.\nShe belonged to him.\nShe never defied him, never thought for herself. She just lived here, so why did she leave him now?",
+      "sourceUnit": "桜ルート十一日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"You...you took her from me, Emiya.\"\nThat was a miscalculation on his part.\nHe knew that she was attracted to Shirou Emiya.\nBefore they met, she never had any interests, but she started to think like a human being once she met Shirou Emiya.\nThen, she gradually recovered her personality, until she left Shinji.",
+      "sourceUnit": "桜ルート十一日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "After all the trouble he went through to act like a nice older brother, how could she go with that stranger Shirou Emiya, and not him...!?",
+      "sourceUnit": "桜ルート十一日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I told them so. I said that she shouldn't go to his house, but that geezer said some crap about keeping an eye on the Emiyas!\"\nTheir grandfather never made any effort to bring Sakura home after giving the order.\nHe just said to let her be, and even warned Shinji to restrain himself.",
+      "sourceUnit": "桜ルート十一日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Just you watch. I'll pay you back for this, Emiya. I'll rip you apart while Sakura watches...\"\n...That's right.\nIf Sakura was going to leave him, then he'd just force her back into their old relationship.\nIf she was going to leave the Matou family for him...",
+      "sourceUnit": "桜ルート十一日目-11:page36:1"
+    },
+    "page38": {
+      "status": "duplicate_reference_hold",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0386",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "My frozen body bursts out.\nMy feet lift me up, and my arms grab the railing at the same time.\nI see Tohsaka's face as I do so.\nShe is biting her lip in frustration, glaring at the tragedy happening below us.",
+      "sourceUnit": "凛ルート十三日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...I know.\nIt's obvious Tohsaka wants to stop him as well.\nBut, we'll be the ones killed if we do so. There's no way we can stop him.\nThat goes the same for me.\nI know that it's stupid of me to die trying to save the dying girl.",
+      "sourceUnit": "凛ルート十三日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I don't care about that.\nI can't leave that girl be.",
+      "sourceUnit": "凛ルート十三日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "That's what overtakes my mind.\nI jump over the railing.\nTohsaka and Shinji both look in surprise at the intruder, but that man doesn't even see me jumping down.",
+      "sourceUnit": "凛ルート十三日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The man reaches out to the girl in white.\n\"...Stop, you bastard...!!!\"\nI yell at the top of my lungs.\nI stop him with all my might.",
+      "sourceUnit": "凛ルート十三日目-15:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

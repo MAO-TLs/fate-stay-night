@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0547",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Like hell I will! I'll admit that you're the superior mage. But you make mistakes sometimes, too.\nI won't just turn a blind eye if you say something crazy. If I think you're wrong, I'll be sure to tell you. That's what it means to help each other.\"",
+      "sourceUnit": "桜ルート九日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Naturally. We can't cooperate unless you do that.\nI've been thinking that I get carried away sometimes, so I need someone to put the brakes on.\nI'd appreciate it if you'd do that for me.\"",
+      "sourceUnit": "桜ルート九日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nThat's...a little anticlimactic.\nI was ready for her to argue against me, but Tohsaka seems satisfied with my answer.",
+      "sourceUnit": "桜ルート九日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Last question.\nI'll do whatever I can to help you when there's something you can't do.\nOn the other hand, though...can you do the same for me?\"",
+      "sourceUnit": "桜ルート九日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Something I can do, that you can't?\"\nDoes anything like that even exist?\nIs Tohsaka actually bad at cooking, or something?",
+      "sourceUnit": "桜ルート九日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. This is the most important question, so answer fast. Yes or no?\"\n\"...Um, could you give me a more specific example?\"",
+      "sourceUnit": "桜ルート九日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh, come on! I'm asking if you'll let me win!\"",
+      "sourceUnit": "桜ルート九日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka blusters sulkily, her cheeks flushed.\nIt's a far cry from the image I've had of her so far, like that of a child.",
+      "sourceUnit": "桜ルート九日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n\"...Yeah.\nIf we're going to work together, then I'll let you win. I promise.\"\n...she's so sincere. I can't help but find it cute.",
+      "sourceUnit": "桜ルート九日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's meet up at the front gate after school, then.\nI'm going to have you do club activities at my house for the time being.\"\n\"Um. Club activities? At your house?\"",
+      "sourceUnit": "桜ルート九日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Since we're teaming up, I should teach you to be able to fight on your own as much as I can, right?\n...I already know you're an amateur since the other night, though, so we'll need to have you come over multiple days.\"",
+      "sourceUnit": "桜ルート九日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't mind. I'd appreciate that, actually.\nUm, are we starting today?\"",
+      "sourceUnit": "桜ルート九日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously. We need to gauge your abilities first, then figure out how to proceed from tonight.\nYou'll be getting home pretty late, but that's fine since you live alone anyway, right?\"\n\"Huh? Yeah, but how did you know that?\"",
+      "sourceUnit": "桜ルート九日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"! W-well, when I gave you first aid the other time, I just assumed because I didn't see anyone else at your house.\nA-anyway, that's the plan, so wait for me out front!\"",
+      "sourceUnit": "桜ルート九日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka leaves with a casual wave.\nToday's Friday. Classes run until sixth period, and we get out after 3:00 PM.",
+      "sourceUnit": "桜ルート九日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, man. I told Sakura I'd come home early, but I can't just cancel on Tohsaka the very first day.\"\nI'm sorry to Sakura who I'm taking care of at home, but I'll need to join Tohsaka today.",
+      "sourceUnit": "桜ルート九日目-13:page15:1"
+    },
+    "page16": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0302",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Fifth period is about to end.\nTohsaka finished explaining things to me, so I ask her about Shinji since he's also from a family of mages.",
+      "sourceUnit": "凛ルート七日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. Did you know that Shinji's family...the Matou family is a family of mages?\"",
+      "sourceUnit": "凛ルート七日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I know.\nBut my father said that they've declined over the past few decades. I heard that they don't have a bloodline of mages now.\nThat's the truth. It's also why I was surprised to hear that Shinji became a Master.\"",
+      "sourceUnit": "凛ルート七日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Oh, so she did know.\nOf course. She supervises this land, so she knows all the families with a mage history. She should know that Shinji's a Master—Wait, hold on...!!!",
+      "sourceUnit": "凛ルート七日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka! You knew that Shinji was a Master too!?\"\n\"Haha. Sorry, I found out this morning too. It looks like I underestimated him. My assumption that Shinji couldn't be involved backfired.\"\nTohsaka says as if it's nothing.",
+      "sourceUnit": "凛ルート七日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "However...\nSomething's off.\nShe was searching for the third Master at school, yet she doesn't seem to consider Shinji as a problem at all...?",
+      "sourceUnit": "凛ルート七日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Shinji is a Master, right?\"\n\"Yes. But it shouldn't be a problem. Shinji himself doesn't have any magical energy, so it's not like he can do anything outrageous.\nOur enemy is the Master hiding at school. Shinji doesn't have any presence as a Master, so he's not the one we're looking for.\"",
+      "sourceUnit": "凛ルート七日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Mm? So does that mean there are actually four Masters at our school?\n\"I would think so. Well, I don't think Shinji would interfere, since I told him not to do anything.\"",
+      "sourceUnit": "凛ルート七日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Another statement that bothers me.\nWait, first of all, how did Tohsaka find out that Shinji's a Master...?",
+      "sourceUnit": "凛ルート七日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Can you tell me more about what happened this morning?\"\n\"Mm? There's nothing to talk much about since Shinji was the one who told me.\nHe asked me if I wanted to team up with him since he became a Master as well.\"",
+      "sourceUnit": "凛ルート七日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm starting to get a bad feeling about this, but I can't stop her now.",
+      "sourceUnit": "凛ルート七日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"So what happened after that?\"\n\"Nothing happened. I declined, of course.\n...But he was so persistent about it. So I let slip that I don't need him since I have you.\"\nTohsaka laughs, recalling it.",
+      "sourceUnit": "凛ルート七日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat must the reason why Shinji was acting so strange.\nHowever...",
+      "sourceUnit": "凛ルート七日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...So what are you going to do about Shinji? Are you going to let him be? He's the one who set up the Bounded Field around school, right?\"\n\"...What?\"",
+      "sourceUnit": "凛ルート七日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka freezes.\n...I knew it. She didn't notice that Shinji was the one who set up the Bounded Field...!",
+      "sourceUnit": "凛ルート七日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"You're wrong, Tohsaka. It's true that Shinji isn't a mage. But he set up that Bounded Field. I'm sure he has a Servant that excels in magecraft like Caster.\"\nTohsaka grows pale.",
+      "sourceUnit": "凛ルート七日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. You didn't notice?\"\n\"...No. I knew that the Bounded Field was something done by a Servant, but...\"\nShe couldn't make the connection with Shinji?",
+      "sourceUnit": "凛ルート七日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...I recall how Tohsaka was acting until now.\nI bet she was so worried about last night's incident that she couldn't think about Shinji.\nThis might be the biggest mistake she's made in her life.",
+      "sourceUnit": "凛ルート七日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"This is bad. Shinji might be—\"\nTohsaka gets up instantly and glares at the exit.\nAt that instant...\nThe abnormality around this school openly reveals itself with perfect timing.",
+      "sourceUnit": "凛ルート七日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"The Bounded Field...!\"\nThe sky is tinted red.\nStagnant, red air immediately begins suffocating everything within the school grounds.\nIt won't affect mages who can cycle magical energy through their body to ward off this effect, but normal people will pass out, and if enough time goes by, they'll die—",
+      "sourceUnit": "凛ルート七日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...!\"\n\"I know! Hurry, Shirou!\"",
+      "sourceUnit": "凛ルート七日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Red surrounds everything in the school.\nThe hallway, red as blood.\nThe air, red as blood.\nThick air sticks to my skin and creates the sense that this is all just one horrible dream.",
+      "sourceUnit": "凛ルート七日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...\"\nDisgust threatens to rip itself out through my lips.\nLike coolant, I try to force reasonable, controlled thoughts through my confused and heated brain.",
+      "sourceUnit": "凛ルート七日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I break for the classroom closest to the stairs on the fourth floor.\n\"Oh...!\"\nTohsaka stops for a second, hesitant to enter this disastrous scene.",
+      "sourceUnit": "凛ルート七日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh...\"\n...I know how she feels.\nI don't like it any more than she does.",
+      "sourceUnit": "凛ルート七日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...They're still alive. It's not too late to save them.\"\nI check the nearest student for their pulse and breathing.\n...There's not a conscious person left in this classroom.\nThe students who were sitting in their seats and the teacher at the podium are all lying on the floor.",
+      "sourceUnit": "凛ルート七日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Most of the students are unconscious, limp, and their eyes are clouded over.\n...The few others...\nA small handful of students had more unusual reactions.",
+      "sourceUnit": "凛ルート七日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...Their skin is congealing.\nAs if scorched by cold flame, their skin is stripped of all vitality and shines in the eerie light like melted wax.",
+      "sourceUnit": "凛ルート七日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is breathless before this scene of disaster.\n...\nWe have no time.\nTo get to the bottom of this as fast as possible, I...",
+      "sourceUnit": "凛ルート七日目-04:page28:1"
+    }
+  }
+}

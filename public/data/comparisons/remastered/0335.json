@@ -1,0 +1,256 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0335",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm coming...!\"\nI scurry to the door.\nIt's rare for someone to visit at this hour.\nFuji-nee doesn't ring the doorbell, and she has a spare key.\nI don't have many visitors, and since there's no houses around, I don't have many neighbors.",
+      "sourceUnit": "凛ルート十日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I wonder who it could be.\"\nWell, it can't be anyone with a grudge since the alarm of my old man's Bounded Field isn't going off, so it must be one of the young people from Fuji-nee's place.",
+      "sourceUnit": "凛ルート十日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Who is it?\"\nI say, and open the door.\nSuddenly...\nMy mind goes blank.",
+      "sourceUnit": "凛ルート十日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nWe stare at each other in silence.\n...Well, Tohsaka looks angry. I'm still not sure what to make of this.",
+      "sourceUnit": "凛ルート十日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka... Why?\"\n\"You ditched our regular contact.\"",
+      "sourceUnit": "凛ルート十日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"D-ditched our regular contact? I did forget to go see you today, but did we ever agree on such a thing?\"\n\"...\"",
+      "sourceUnit": "凛ルート十日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka glares at me silently.\n...This is bad.\nI don't know why she's mad, but it must be bad.",
+      "sourceUnit": "凛ルート十日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. It's my fault for forgetting. It was my duty as an ally to contact you on a regular basis.\"",
+      "sourceUnit": "凛ルート十日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right. Our situation hasn't changed, so it's natural for us to check up on each other.\"",
+      "sourceUnit": "凛ルート十日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I sigh with relief.\nIt's surprising enough to have Tohsaka at my door, but having her show up like this guns blazing might as well be an out-of-body experience.\nI have to solve this real quick. My nerves can't take this kind of thing, especially right now.",
+      "sourceUnit": "凛ルート十日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. I'll contact you right away, so you can go home now. Sorry to make you come all the way here.\"\n...Uh.\nWhy are you making such a face, Tohsaka?",
+      "sourceUnit": "凛ルート十日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka? I got your message, so aren't we going to meet up at the park under the bridge later?\"\nI have a bad feeling...\nAnd that must've been the last straw.\nTohsaka, who's good at reading my weaknesses and fears...",
+      "sourceUnit": "凛ルート十日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"No. This is a good opportunity, so we'll hold the meeting here today.\nYou wouldn't turn away a friend who came all the way here to see you, right?\"\n...speaks the words of, and smiles like, a devil.",
+      "sourceUnit": "凛ルート十日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—Hold the meeting here... Are you saying you're going to come into my house...!?\"\n\"What? You've been to mine too. And it's not like this is the first time, so there shouldn't be anything to hide from me at this point.\"",
+      "sourceUnit": "凛ルート十日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nRight.\nIt was Tohsaka who treated me when I fainted the night that I first met Saber.",
+      "sourceUnit": "凛ルート十日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "But I was confused then since I had just become a Master, so it didn't register that Tohsaka was at my house.\nEven if we're in a truce, Tohsaka is Tohsaka. She's the school's idol and a girl of my age. It's an outrageous situation for her to come into my house... Wait, why is she in the hallway!?",
+      "sourceUnit": "凛ルート十日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, excuse me. We're going to be talking, so we can do it in the living room, right?\"\n\"H-h-hold on, n-not so fast! Are you really fine with this? It'll be terrible for you to come into my house!\"",
+      "sourceUnit": "凛ルート十日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine, it's fine. Oh, I also haven't had lunch, so I'll be counting on you.\"\nThe intruder, Rin Tohsaka, comes barging in.",
+      "sourceUnit": "凛ルート十日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, hold on...! Stop doing things without thinking!\"\nI object in a loud voice, but it has no effect on the enemy.\nThe intruder casually goes to the living room, leaving me confused in the hallway.",
+      "sourceUnit": "凛ルート十日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...Then...\nStill not completely sure what's going on, the three of us eat lunch and then talk about our future plans.",
+      "sourceUnit": "凛ルート十日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "The topic of discussion is about Caster, of course.\nWe discuss for nearly four hours about how to defeat her at the temple, but the results are not looking good.",
+      "sourceUnit": "凛ルート十日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh. So the only choice we have is to beat them straight on. If what Saber said is true, then Servants can only get in from the front entrance.\"",
+      "sourceUnit": "凛ルート十日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. There is a strong Bounded Field set up against spirits at that mountain, so the only option for me is to charge in from the front entrance. Meanwhile, Archer, whose class allows him to move around more independently, may be able to manage to get in by force.\"",
+      "sourceUnit": "凛ルート十日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"So, after he manages to get in using all his energy, Caster will be waiting for him, right? He'll just be bait.\"",
+      "sourceUnit": "凛ルート十日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's true. He can't be the target when he's the one who should be shooting. Well, if it's just Assassin, then I'm sure Saber and Archer can defeat him, but the problem is how they should corner Caster once they get inside.\nFrom what you said, there's a big pool of magical energy there. If we corner her, she might try to drag us down along with the temple.\"",
+      "sourceUnit": "凛ルート十日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"That is a possibility. Caster does not seem like the type who will graciously accept death. If she is going to die, it is possible that she will act in retribution. Ryudou Temple would be destroyed in such a case as well.\"",
+      "sourceUnit": "凛ルート十日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, don't just casually say something scary like that.\nAre you saying that Caster will self-destruct if we corner her?\"\n\"Yeah, that's what we're saying.\"\n\"She most likely will.\"",
+      "sourceUnit": "凛ルート十日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe two of them are completely in sync.\nIf I think back, Saber and Tohsaka have always had the same opinions from the start and seem to approve of each other in battle.\nIf they're both saying we shouldn't attack there, then attacking the temple must really be impossible.",
+      "sourceUnit": "凛ルート十日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. What, it's already this late?\"\nThe clock's sound echoes through the living room.\nBy the time we realize it, it's already 6 PM, and the sky is tinted red.",
+      "sourceUnit": "凛ルート十日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, I guess the meeting's over.\nI need to start preparing dinner.\"\nI stand up.\nWe're having cod pot tonight, so it shouldn't take too long to cook.\nAll I have to do is cook rice and make something that would go with hot pot, but...",
+      "sourceUnit": "凛ルート十日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"What, Emiya? Why are you looking at me?\"\n...\n...So, like...\nWhy is she making herself at home when we're about to have dinner?",
+      "sourceUnit": "凛ルート十日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Also, why are you sitting so far away from me? I don't know if that's your usual spot, but it's inconvenient if you're not closer when we're talking. Why are you all the way over there?\"",
+      "sourceUnit": "凛ルート十日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka, sitting dignified at the table, watches me carefully.\n...There's only one reason why I'm distancing myself from Tohsaka.",
+      "sourceUnit": "凛ルート十日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be ridiculous, you're the one who took my usual spot! I'm sitting here because you're there!\"\nI object with all my might.",
+      "sourceUnit": "凛ルート十日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh, I see. You didn't care about it when we're outside since we're both Masters, but you go back to being yourself when you're at home, huh?\"",
+      "sourceUnit": "凛ルート十日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I-Is that a problem, idiot!? And, you know, I'm a guy, so it's only natural!\"\nIt'd be more surprising if I weren't nervous around a girl my age. And Tohsaka, at that.",
+      "sourceUnit": "凛ルート十日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "While we've been having these strategy meetings, I have to frequently remind myself how this is happening because we're both Masters.\nI feel pathetic, but even this has been nerve-wracking. I don't know how many cups of tea I've drunk while sitting here.",
+      "sourceUnit": "凛ルート十日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Well isn't that strange, then? Saber is also a girl, and from what I hear, Ms. Fujimura and Sakura also come here, right? Then I should be no different.\"",
+      "sourceUnit": "凛ルート十日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat's different!\nSaber and Tohsaka are different, Fuji-nee and Tohsaka are different, and Sakura and Tohsaka are different.\nAnd I mean, the only reason I can be normal around Saber is because we're in this fight together.",
+      "sourceUnit": "凛ルート十日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph, just go home. We're going to have dinner. Archer is also waiting for you at home, right?\"\n\"Oh. I can't go home when we haven't come up with anything yet.\nAren't we going to decide our future plans after we eat dinner?\"",
+      "sourceUnit": "凛ルート十日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nMan, I seriously feel dizzy.",
+      "sourceUnit": "凛ルート十日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Is that matter already decided, Tohsaka?\"\n\"Is it not? It's fine if you don't want to. So you're fine with letting Caster be for a while then?\"\n\"Gah...\"\nI swallow the complaint that was stuck in my throat.",
+      "sourceUnit": "凛ルート十日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. She does have a point. There is no problem with her staying here.\"\nTo top it off, Saber even takes Tohsaka's side.",
+      "sourceUnit": "凛ルート十日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. But I won't be accountable if you don't like my food. And I'm sure Fuji-nee—Ms. Fujimura will be coming, so you'll have to convince her then.\"",
+      "sourceUnit": "凛ルート十日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I know, I know. I already know how good you are at cooking from lunch, and I know about Ms. Fujimura too. I'm aware of them both, so don't worry.\"",
+      "sourceUnit": "凛ルート十日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. I won't be accountable if you change your mind either.\"\nI look away and face the kitchen.",
+      "sourceUnit": "凛ルート十日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nI wash my hands and go to put on my apron, but find that it isn't where it always is.\n...No.\nFirst of all, I don't remember taking it off after preparing lunch while worrying about Tohsaka watching me.",
+      "sourceUnit": "凛ルート十日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI look around.",
+      "sourceUnit": "凛ルート十日目-07:page47:1"
+    },
+    "page48": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page49": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

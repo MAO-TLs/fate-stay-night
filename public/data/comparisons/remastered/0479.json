@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0479",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I should take it easy and relax after a meal.\nBrainpower gets diverted to digestion after a meal anyway, and above all, I like having tea after I eat.\nI feel bad for doing this while the other two are washing dishes, but Saber and Sakura seem to be getting along in the kitchen.",
+      "sourceUnit": "桜ルート六日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "They don't have anything in common to talk about, so working on house chores together is building trust.",
+      "sourceUnit": "桜ルート六日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Those two get along pretty well, huh?\"\nI watch them while I relax in the living room.\nI turn on the TV, which shows the typical daytime programming for housewives.\nI let the atmosphere soothe my body and mind, and simply rest without doing anything else.",
+      "sourceUnit": "桜ルート六日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "After my break, I feel much better.\nMy fever seems to have been due to fatigue, so I'm back to normal after resting for half a day.",
+      "sourceUnit": "桜ルート六日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, will you use the rest of the afternoon to train?\"\nI nod at Saber.",
+      "sourceUnit": "桜ルート六日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Even though I've just gotten over an illness, I don't want to waste time.\nI can't improve my magecraft in a few days, but I can work on my combat skills.\nHaving Saber train me until dinner should be a good use of my time.",
+      "sourceUnit": "桜ルート六日目-08:page5:1"
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

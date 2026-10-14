@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0372",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I won't help her.\nThere's certain death waiting for me if I go help her.\nIf I'm human and if I'm alive, I can't choose any other option.",
+      "sourceUnit": "凛ルート十二日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "But, still...",
+      "sourceUnit": "凛ルート十二日目-07:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

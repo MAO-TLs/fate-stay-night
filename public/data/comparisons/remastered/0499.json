@@ -1,0 +1,336 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0499",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Oh, I know.\nShe might be feeling down because I made her wait, but I still have a chance to cheer her up.",
+      "sourceUnit": "桜ルート七日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, I have a suggestion.\"\n\"What? This better be good.\"",
+      "sourceUnit": "桜ルート七日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'll apologize with my actions, not my words.\nDo you want to come over to my place? I'll make you some tea and treats.\"",
+      "sourceUnit": "桜ルート七日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Y-you mean your house!?\"\n\"Where else would it be? There shouldn't be anyone there now—oh, Saber won't attack you, don't worry.\nIt isn't the park, but it would be nice to relax over tea sometime, don't you think?\"",
+      "sourceUnit": "桜ルート七日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... That is kind of a good idea, but...I don't know if I can intrude on your home.\"",
+      "sourceUnit": "桜ルート七日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"That isn't the point. You showed me your castle, remember? Now I'm returning the favor.\"\n\"...Okay. Yeah, you did say that.\"\nIllya mutters, as if persuading herself.",
+      "sourceUnit": "桜ルート七日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Then, she looks at me again.\n\"Can I really come over to your house, though? I came here to kill you and Kiritsugu. Should you really let me into your home?\"\nShe asks me, in an emotionless voice.",
+      "sourceUnit": "桜ルート七日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't possibly know the significance of her words.\nThis Einzbern girl came here to kill my old man.\nIt's the reason she's been after my life, too.\n...I've known that for a while now.",
+      "sourceUnit": "桜ルート七日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Kiritsugu betrayed the Einzberns.\nThen, he threw everything away to live out his days in this town.\nUntil I became a Master, I had no inkling of the sacrifices he made.",
+      "sourceUnit": "桜ルート七日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I doubt Illya can forgive Kiritsugu, and she probably sincerely means to kill me.\nBut regardless—no, especially because of that, I think I should invite this girl to the Emiya house.",
+      "sourceUnit": "桜ルート七日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. This has nothing to do with being Masters. I want you to come over and enjoy yourself.\"\nI give Illya a straight answer.",
+      "sourceUnit": "桜ルート七日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe stops breathing for a second, looking shocked.\n\"...Okay! Thanks, big brother!\"\nShe gives me a buoyant smile and hugs my arm.",
+      "sourceUnit": "桜ルート七日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Hold on a second, Illya. I'm going to talk to Saber.\"\nI roll up my sleeves and stare at the front door.",
+      "sourceUnit": "桜ルート七日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Good luck, Shirou!\"\nIllya cheers me on with a wave.\nHere goes nothing.\nWith encouragement like that, I need to do whatever it takes to convince Saber to approve this visit.",
+      "sourceUnit": "桜ルート七日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I must firmly decline.\"\nAnd she shoots me down within one second.",
+      "sourceUnit": "桜ルート七日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Urgh. I get how you feel. I know exactly what you're saying.\nYou think that inviting a Master—Berserker's Master, no less—into my home base is suicide. I know. I understand that very well. But still—\"",
+      "sourceUnit": "桜ルート七日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you do not understand, Shirou! This is Illyasviel we're talking about! A Master of her caliber will be able to expose all of this house's weaknesses, and she would have no difficulty destroying the Bounded Field! And you would invite her in!? This is more than entering a lion's den—you are drinking poison of of your own will!\"\n\"Ergh...b-but I can promise that Illya won't do anything. Plus, she didn't bring Berserker\nwith her, and she says that she won't fight before the sun's down. Right now, she's just a girl,\nso I don't think you need to nitpick her like that.\"",
+      "sourceUnit": "桜ルート七日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Gender has nothing to do with it! To begin with, what have you been doing with her behind my back!? Did you forget that she tried to kill you? How can you show sympathy for her? Decency is one thing, but this is sheer idiocy!\"\n\"Oof. But you'll see she's a good kid if you talk to her.\nShe still doesn't understand morality, so we just need to teach her the difference between good and evil.\"",
+      "sourceUnit": "桜ルート七日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"How naive! You would trust the word of the Einzbern Master!? Their clan exists only to acquire the Holy Grail. She will break any promise to you in an instant!\"\n\"...! No, she won't! You're going too far, Saber! Illya is Illya.\nI don't know what the Einzberns are like, but don't lump her in with them!\"",
+      "sourceUnit": "桜ルート七日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"......Indeed. What you say is correct, Shirou.\"\n\"...! Then, Saber...—\"\n\"Though I must say, your voice was so meek, you were not persuasive in the least.\"",
+      "sourceUnit": "桜ルート七日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...um...\"\nIt's because of how angry she was. Is that so wrong of me?",
+      "sourceUnit": "桜ルート七日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Very well, I understand. At this rate, you will be forced to use a Command Spell. You trust Illyasviel, and I trust you.\"\n\"Saber...\"",
+      "sourceUnit": "桜ルート七日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"But I will not meet her. I cannot guarantee that I will keep my composure if I see her face-to-face, and my presence would only put her on her guard.\"",
+      "sourceUnit": "桜ルート七日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...all right. Then what are you going to do?\"\n\"I will stand by in the guestroom I used before. Do not worry. I will come running at the first sign of danger.\"",
+      "sourceUnit": "桜ルート七日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. Sorry, Saber. This is, um...\"\n\"I know. I'm the one who told you about Kiritsugu's connection to the Holy Grail War, so I should have been prepared for this eventuality.\"\nSaber sighs and goes off to the guestroom.",
+      "sourceUnit": "桜ルート七日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That makes sense.\nSaber was Kiritsugu's Servant last time.\nI wouldn't be surprised if she realized Illya's relationship to Kiritsugu.",
+      "sourceUnit": "桜ルート七日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Pardon the intrusion! So this is your house, Shirou.\"\nIllya enters the house timidly, despite her spirited greeting.",
+      "sourceUnit": "桜ルート七日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll make tea first. Come on, the living room is this way.\"\n\"Okay! Oh, you have a wooden-floored hall. It's really a Japanese building, just like I heard.\"\nIllya gawks in every direction while she walks.",
+      "sourceUnit": "桜ルート七日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWell, it must be a pretty unusual sight for her, since she lives in a castle.",
+      "sourceUnit": "桜ルート七日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Here's your tea. At first I was going to make you black tea, but I'm not good at it, plus it can't measure up to what you have at home anyway, so it's Japanese tea. If it's too bitter, just let me know. I can dilute it.\"",
+      "sourceUnit": "桜ルート七日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I hold out a second cup of hot water.\nI used the best green tea I have, so there shouldn't be any complaints about the flavor. It's just a matter of whether she prefers bitter or sweet tea.",
+      "sourceUnit": "桜ルート七日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm. Thanks, Shirou.\"\nIllya sits down properly and takes a nervous sip of the tea.",
+      "sourceUnit": "桜ルート七日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm...\"\nIllya freezes.\n...Figures. I went out of my way, but maybe I should have just made her milk tea or something.",
+      "sourceUnit": "桜ルート七日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, it must be bitter. Don't force yourself to drink it. I'll make you a new one.\"\n\"Huh? N-no, that's not it. Um, the tea was very well-brewed.\"",
+      "sourceUnit": "桜ルート七日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Illya bows and compliments me in the traditional manner. I wonder where she learned to do that.\nThen, little by little, she starts sipping the tea.",
+      "sourceUnit": "桜ルート七日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI won't stop her if that's what she wants.\nAlong with the tea, I present a collection of well-regarded Japanese sweets\nthat we always have with tea.",
+      "sourceUnit": "桜ルート七日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Once tea time is over, Illya wants to explore the house.",
+      "sourceUnit": "桜ルート七日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure. It isn't very interesting, though.\"\n\"That's okay. I just want to see. I knew as soon as I came in that it has no magical value, so you can just show me around.\"",
+      "sourceUnit": "桜ルート七日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "And so,\nI take Illya on a walking tour of my house, while she gives running commentary:",
+      "sourceUnit": "桜ルート七日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. It's more spacious than I expected. You've got glass windows lining one side of the hallways. Isn't that bad if someone attacks you?\"\nfor instance.",
+      "sourceUnit": "桜ルート七日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, this is your room!? I can't believe someone actually lives in here!\"\nfor instance.",
+      "sourceUnit": "桜ルート七日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the backyard? Japanese mages have it tough. You can't grow anything in a tiny garden like this.\"\nfor instance.",
+      "sourceUnit": "桜ルート七日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I know what this is! A dojo, right?\nGrandfather told me it's a place where barefoot savages swing swords at each other!\"\nfor instance.",
+      "sourceUnit": "桜ルート七日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"No! I don't want to see your shed! That's a place for servants to use!\"\nfor instance.",
+      "sourceUnit": "桜ルート七日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...She sure has a lot to say about it all.\nStill, it looks like she's having fun.",
+      "sourceUnit": "桜ルート七日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what's next!? We haven't been over there, come on!\"\nShe hurries me along.",
+      "sourceUnit": "桜ルート七日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, fine. This is the back part of the house. We haven't used it in the last few years, so don't mind the dust.\"\nIllya runs down the hallway, shouting excitedly.",
+      "sourceUnit": "桜ルート七日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew.\"\nDamn, though.\nI don't know why she's so happy to be here, but that alone makes it worth the trouble.",
+      "sourceUnit": "桜ルート七日目-07:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "But...\nIn the middle of it, Illya settles down, and she just looks through the rooms. Maybe she's tired.\nIllya goes through the rest of the house without saying a word.\nI give her the remainder of the tour, and then we're back in the living room.",
+      "sourceUnit": "桜ルート七日目-07:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all. There's a separate guesthouse, but we'll have to skip that today.\nSaber's sleeping in there.\"\nFrom behind, she looks dispirited.",
+      "sourceUnit": "桜ルート七日目-07:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. That's all, huh.\"\n\"...Illya? What's wrong? Are you tired?\"",
+      "sourceUnit": "桜ルート七日目-07:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, a little. There's no one here.\"\nWhen she turns to look at me, she looks like a little girl her age.",
+      "sourceUnit": "桜ルート七日目-07:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "She's just Illya, not a Master.\n\"I came here for revenge. But I'm sad that there's no one here to take revenge on.\"\nShe murmurs to herself. Silent tears fall down her cheeks.",
+      "sourceUnit": "桜ルート七日目-07:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? That's weird. I'm crying. There isn't anything to be sad about or scared of.\"\nIllya looks sincerely puzzled.",
+      "sourceUnit": "桜ルート七日目-07:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's a reason, of course.\nThe person she resented for years\nisn't here in this house.\nShe came here with only vengeance and murder on her mind, and missed her chance to achieve closure.\nIllyasviel von Einzbern.\nShe has her reasons for wanting to kill me and Kiritsugu.\nAnd that would be...",
+      "sourceUnit": "桜ルート七日目-07:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go, Shirou. I should go home before the sun sets.\nWe'll end up fighting unless we say goodbye before it's nighttime.\"\nIllya states that fact with a smile.\nWhat should I say to that?",
+      "sourceUnit": "桜ルート七日目-07:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I'll walk you to the park.\"\n\"Okay. You sure know how to treat a lady.\"\nHer smile is so innocent.\nIllya runs to the front door like nothing happened, her silver hair swaying.",
+      "sourceUnit": "桜ルート七日目-07:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...And that's the third time I said farewell to her.\nMy footsteps feel heavy on the way home.\nI take my time, as if walking through the familiar town and streets for the first time.",
+      "sourceUnit": "桜ルート七日目-07:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nI have a lot to think about.\nAnd I've been made to realize how important Illya is to me.",
+      "sourceUnit": "桜ルート七日目-07:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Pops. Should Illya and I...\"\n...fight each other as Masters?\nOr should I convince Illya to quit this war?",
+      "sourceUnit": "桜ルート七日目-07:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"The Makiris and Einzberns have an especially deep obsession.\nThey have sought the Grail for five hundred and one thousand years, respectively.\"",
+      "sourceUnit": "桜ルート七日目-07:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "That's what Kotomine said.\nIs there a way to pull Illya away from people who have been after the Holy Grail for such a long time?\nNo, before even that...\nRight now, I don't know how to set her free from her desire for vengeance.",
+      "sourceUnit": "桜ルート七日目-07:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "I return to the Emiya house.\nThe sunset bathes the town in twilight.",
+      "sourceUnit": "桜ルート七日目-07:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I need to get my head back on straight.\"\nI clap my cheeks to clear my mind.\nI have to deal with Illya and Shinji eventually, but the top priority now is stopping Caster from attacking any more people.",
+      "sourceUnit": "桜ルート七日目-07:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I won't let the tragedy of ten years ago repeat itself.\nThat's why I decided to be a Master and fight with Saber.",
+      "sourceUnit": "桜ルート七日目-07:page64:1"
+    },
+    "page65": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

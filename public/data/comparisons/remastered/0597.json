@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0597",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Illya, I guess?\"\nI just say the first name that comes to mind.",
+      "sourceUnit": "桜ルート十日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah! You're one lucky duck, Shirou!\"\nIllya hugs me tightly.\nAs an older brother figure, I'm more than happy about that,",
+      "sourceUnit": "桜ルート十日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "but Tohsaka doesn't look amused in the slightest. It's enough to cancel out the joy, no, put me in the negative, actually.",
+      "sourceUnit": "桜ルート十日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. You like making children happy, huh? You're pretty childish yourself, Emiya. Don't tell me you're into little girls?\"\nAaargh... To make matters worse, she's back to calling me \"Emiya.\"\nShe's giving me a wince-inducing look reserved for the utter dregs of society.",
+      "sourceUnit": "桜ルート十日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Heh, you're embarrassing yourself, Rin. It isn't very ladylike to lose your temper just because you got dumped. That's why Shirou doesn't like you.\n\"Ngh...! Y-you don't know what you're talking about, you precocious little brat!\nI'm just stating normal social values, and first of all, who are you calling dumped...!?\"",
+      "sourceUnit": "桜ルート十日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka roars like a tiger.\nIllya giggles and hugs me tighter.",
+      "sourceUnit": "桜ルート十日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"See, Shirou? Rin's so scary.\nBut don't worry. I'll protect you, no matter what she tries!\"",
+      "sourceUnit": "桜ルート十日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Illya beams.\nI'm happy to see that.\nTwice as happy as I was a moment ago, actually.\n...But now I'm getting a look so cold and judgmental I can't possibly defend myself against it, so can we move on?",
+      "sourceUnit": "桜ルート十日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"What? If you've got something to say, say it.\"\n\"Oh, it's nothing. Your tastes have nothing to do with me, Emiya. I have criticisms, but I won't voice them.\n...But seriously, why?\"\nShe asks me bluntly.\nHowever...",
+      "sourceUnit": "桜ルート十日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Um. What do you mean, why?\"\nEven I'm not really sure why I chose Illya. It's like it happened on instinct.",
+      "sourceUnit": "桜ルート十日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't believe this. Are you seriously one of those people?\"\n\"L-like hell I am, idiot! I just picked her because I felt like it. I'm basically Illya's guardian now anyway, so it only makes sense I'd choose her...!\"",
+      "sourceUnit": "桜ルート十日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Aargh. The man doth protest too much, methinks.\n\"Yeah! Shirou's my Servant now!\"\nTohsaka looks exasperated, while Illya is jumping for joy.",
+      "sourceUnit": "桜ルート十日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Looks like you've got your fighting spirit back. If you're going to insist on it that hard, I'll respect your choice, but I feel bad for Sakura.\"\n...\nI'm curious.\nI'm extremely curious what \"choice\" Tohsaka thinks I'm making.",
+      "sourceUnit": "桜ルート十日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"But don't forget. Even if you don't use it, that arm belongs to me.\n...You have an obligation to serve me in Archer's place.\nYour body doesn't belong only to you anymore.\"",
+      "sourceUnit": "桜ルート十日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's right.\nTohsaka lost Archer, and Archer's arm saved my life.\n...That means I have to help her in his stead.",
+      "sourceUnit": "桜ルート十日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I know. Setting aside the fact that you keep calling me a Servant, I'll let you decide our next steps.\nI'm out of ideas at this point, so any knowledge you can spare would give me a surer idea of what to do.\"",
+      "sourceUnit": "桜ルート十日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. I'll do the thinking, while you do the work. We're in the same boat now, so I'll be working you hard.\"",
+      "sourceUnit": "桜ルート十日目-18:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

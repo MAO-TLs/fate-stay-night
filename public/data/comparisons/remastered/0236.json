@@ -1,0 +1,37 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0236",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "This might be my last time.\nTen years ago...\nI was the lone survivor of the terrible fire, and if I'm going to succeed Kiritsugu, who destroyed the Holy Grail, I should at least report that to him.",
+      "sourceUnit": "セイバールート十五日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I'll take on your dream, old man.",
+      "sourceUnit": "セイバールート十五日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "A young boy said those words, so long ago.\nBack then, I didn't even understand the feelings the man left behind, nor did I understand what I wanted to achieve.",
+      "sourceUnit": "セイバールート十五日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "After ten years...\n...the thing I kept striving for...\n...the reason I was the only survivor...is about to reveal itself.\n\"Thanks for everything. I'm going to go now...Dad.\"",
+      "sourceUnit": "セイバールート十五日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "My fear and hesitation fade.\nWe have no chance of winning.\nBut if I'm going to call myself Shirou Emiya, I need to go into this with my head held high.",
+      "sourceUnit": "セイバールート十五日目-06:page4:1",
+      "recoveredDelimitedTail": true
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

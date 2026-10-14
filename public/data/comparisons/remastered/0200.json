@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0200",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I shouldn't be so apprehensive.\nWe have Caster cornered.\nIf we retreat, we're only giving Caster a chance to win.",
+      "sourceUnit": "セイバールート十三日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Saber's sword flashes in a blur of movement.\nShe's closed the distance, and will likely cleave Caster in half with her next strike.\nBut.\n\"Hngh!\"\nSaber suddenly stops.\nIt's nothing Caster has done. Saber's own instincts seem to be stopping her from getting closer.",
+      "sourceUnit": "セイバールート十三日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You...that is...!\"\nSaber twists away to dodge.\nToo late.\nShe falters, as if something has lifted her upward. Then...\nA strange dagger plunges into her chest.",
+      "sourceUnit": "セイバールート十三日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ca...ster... You just...!\"\n\"Yes. This is my Noble Phantasm, Saber.\nIt's a terribly weak weapon. It cannot create anything, and it certainly cannot kill a Servant, or even a human. However, it is imbued with an...indulgence from the Age of Gods, permitting it to and forgiving it for doing one very specific thing...\"\n\"Haah...Shi...rou...please run...\"",
+      "sourceUnit": "セイバールート十三日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Saber isn't injured, but she collapses to her knees anyway.\n\"Saber...!\"\nBefore I can figure out what's going on.\nThe final Command Spell disappears from my left hand.",
+      "sourceUnit": "セイバールート十三日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\n\"This is just how I planned it, boy. Now, if I can just collect the mage and that vessel inside, my victory will be assured.\"\nCaster raises her hand.\nEven without her chanting, the air wavers...and blows me off my feet.\n\"Ha...h!?\"\nI can't get up.\nMy legs are an absolute mess from that blow, and simply won't move.",
+      "sourceUnit": "セイバールート十三日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's about time.\nNow stand, Saber. Even if the gods punish you, I will forgive you.\"\nShe snickers.\nSaber stands up.\nShe walks in the same jerky manner as those bone soldiers, slowly approaching me as I lay immobile.",
+      "sourceUnit": "セイバールート十三日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Her eyes bulge like she's having a nightmare...as she swings her sword down.",
+      "sourceUnit": "セイバールート十三日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Fufu...fu...ahahahahaha!\nWonderful, Saber. Now you and I will both bear the guilt of killing our own Masters! Yes, united in our crimes, we shall curse this earth till its death!",
+      "sourceUnit": "セイバールート十三日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Caster's laughter assaults my eardrums.\nWithout even understanding what's going on, I feel my body go rigid.\nCrimson stains the night.\nSaber stares down at my blood-soaked body, her eyes filled with tears.",
+      "sourceUnit": "セイバールート十三日目-08:page9:1"
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

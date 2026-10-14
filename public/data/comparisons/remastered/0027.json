@@ -1,0 +1,301 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0027",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Maybe the morning's conversation bothered me more than I realized. The next thing I know, I'm at the kyudou club.\n\"Argh. What the hell am I thinking!?\"\nMitsuzuri said Rin Tohsaka frequently visits.\nWell that... I hadn't thought of that, but I think it'd be a problem if Shinji got violent against Tohsaka.",
+      "sourceUnit": "セイバールート二日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji's unstoppable when he gets mad.\"\nShinji lashing out at Tohsaka because she rejected him would be bad.\nWell, I don't know exactly how...but it'd just be bad.",
+      "sourceUnit": "セイバールート二日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Tohsaka's not even here.\"\nTohsaka's nowhere to be found around the dojo.\nMitsuzuri worried for nothing.",
+      "sourceUnit": "セイバールート二日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Who's not here?\"\n\"Ah!\"",
+      "sourceUnit": "セイバールート二日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm asking: who's not here?\"\nIssei, who I thought I'd parted ways with, is standing right next to me.",
+      "sourceUnit": "セイバールート二日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why're you here, Issei? Don't scare me like that.\"\n\"I saw you snooping around the dojo and couldn't help but come check it out.\nSo. Who're you saying is not here?\"\n\"Well, it's Tohsaka. I heard she had a spat with Shinji yesterday. So I wanted to make sure things were okay.\"",
+      "sourceUnit": "セイバールート二日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? Giving up more information than you have to is kind of suspicious for you. I only asked you who wasn't here.\"",
+      "sourceUnit": "セイバールート二日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what!? I-it's none of your business what I do around here.\"",
+      "sourceUnit": "セイバールート二日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmhm. But it's pointless, Emiya. Tohsaka isn't here. She cut class today.\"\n\"What?\"\nCut class? So she's absent?",
+      "sourceUnit": "セイバールート二日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Wait, Issei, why do you think she cut class? That's not the sort of thing she'd ever do.\"\n\"Of course she would. She's not the type to ever get sick. If you want to know what I think, she's bad. Don't let her looks fool you, Emiya, or she'll swallow you whole.\"",
+      "sourceUnit": "セイバールート二日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nSomehow, what Issei's saying irritates me.\nI may not know Tohsaka that well, but I don't think she's a bad person.",
+      "sourceUnit": "セイバールート二日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Watch what you say, Issei. You know Tohsaka's not like that.\"",
+      "sourceUnit": "セイバールート二日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm? Have you got a secret crush on Tohsaka too? My apologies, if so. Forget what I said.\"\n\"!!!\"\nA secret crush!? Like hell!!!",
+      "sourceUnit": "セイバールート二日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"D-don't make assumptions! I'm just worried Shinji's going to stir up some trouble—\"",
+      "sourceUnit": "セイバールート二日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"So you came here to sweep in and stop Shinji from attacking Tohsaka. You really were going to take on some dirty work for nothing. It's not my place to say this, but you got bad taste, Emiya.\"",
+      "sourceUnit": "セイバールート二日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm unscathed so far because nothing happened. But Issei, what was that crap you were saying?\"\n\"What? That having the hots for Tohsaka is in bad taste?\"",
+      "sourceUnit": "セイバールート二日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that. Tohsaka's popular. I haven't heard any bad rumors about her.\"\n\"No, you haven't. And that's what bothers me.\"",
+      "sourceUnit": "セイバールート二日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"What part bothers you?\"\n\"Everything about her. That woman's a vixen. A minx. A monster. Anyway, I instinctually dislike her. My advice to you is to not fall for her.\"",
+      "sourceUnit": "セイバールート二日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You're the one who always warns everyone not to talk about people behind their back.\"\n\"Oh, for... Come on. This hardly counts as gossip. I'm even talking loud enough for others to hear.\"",
+      "sourceUnit": "セイバールート二日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "No wonder I sense people watching us.\nWell that's a relief.\nI'm really glad Tohsaka's absent today.",
+      "sourceUnit": "セイバールート二日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei, please. Can we talk a little quieter?\"\n\"Hm, if you say so. Understood.\nBut I'll have you know my words were hardly slander. I just wanted to let you know that I'm wary of Rin Tohsaka. Everything I said is just my own personal opinion.\"",
+      "sourceUnit": "セイバールート二日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yet you used words like 'vixen' and 'minx'.\"\n...I'm pretty sure 'minx' is definitely a derogatory term.",
+      "sourceUnit": "セイバールート二日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it. It's a compliment. There are good vixens and monsters too, you know.\nI simply used those terms to describe her in a good way.\nHah!\"\nIssei laughs.",
+      "sourceUnit": "セイバールート二日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll see you later. I'm going back to the student council room, but you're going to your job, right? You really shouldn't waste your time hanging around here then.\"",
+      "sourceUnit": "セイバールート二日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Issei leaves calm and composed, perhaps because he felt satisfied having said everything he wanted to say.\nI've known him for two years now, but honestly I still don't get that guy.",
+      "sourceUnit": "セイバールート二日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I ride the bus from school for twenty minutes.\nI arrive at Shinto, the neighboring town across the bridge.",
+      "sourceUnit": "セイバールート二日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, it's not even five yet. I still have some time.\"\nThere aren't many part time jobs in the residential area of Miyama, but there are plenty in Shinto since it's a developing area.\nOur school allows students to hold part time jobs, so I take on simple jobs.",
+      "sourceUnit": "セイバールート二日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I prefer my jobs to be physical, and the tougher and shorter they are, the better.\nI get paid all while training my body, so it's like killing two birds with one stone.",
+      "sourceUnit": "セイバールート二日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Today, I'll work from five to eight o'clock for a simple loading job.\nIt may just be three hours of work, but it feels more like six hours, since they make you work without a minute's rest.",
+      "sourceUnit": "セイバールート二日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Which means I need to rest when I have the opportunity, even if it's just for ten minutes.\nWalking around aimlessly would be a waste of energy, so I decide to rest at a park until it's time.",
+      "sourceUnit": "セイバールート二日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "This park is nestled between buildings, and it's like a giant plaza full of trees and shrubbery.\nA park should typically be filled with families and couples during weekends and holidays, but this one is deserted at this hour.\nIn fairness, this place is always desolate, no matter the day or time.",
+      "sourceUnit": "セイバールート二日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"This place is the same as always.\"\nI sigh in exasperation.\nThe area is unkept, and it's really pretty ugly compared to other places that are properly landscaped and maintained.\nAs if the desolate location had set the mood, the wind itself blows cold and harsh.\nThis place is the remnant of the great catastrophe that happened ten years ago; it's the very place where I was saved from the brink of death.",
+      "sourceUnit": "セイバールート二日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Why don't they seed some grass here or something? It's a shame to keep it like this.\"\nThe area is quite large, so if they leveled it, there'd be plenty of space to work on the park.\nI sit down on a bench as I think.",
+      "sourceUnit": "セイバールート二日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nWith nothing else to do, I stare out over the burned area to pass the time.\nI don't remember anything that happened here.\nThe only thing I remember is that it was hot, and I couldn't breathe.\n...And that some people died trying to save others.",
+      "sourceUnit": "セイバールート二日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder why that happened.\"\nOne adult here died because they were trying to save a child from a burning house.\nAnother person was offered all of the available water to extinguish their raw, parched throat, while others in the same situation died.\nSomeone here tried to flee the fire as fast as they could, but the people left behind died.",
+      "sourceUnit": "セイバールート二日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "And...\nSomeone died here because they gave whatever it was that kept them alive to someone they didn't even know.",
+      "sourceUnit": "セイバールート二日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't like thinking about that.\nJust thinking about people trying to help and becoming victims for their trouble makes me angry.\nIs it too much to ask for everyone to be saved, and for them to get their happy ending afterward?\nAll I want is to see people peacefully prevail. Why can't that happen?",
+      "sourceUnit": "セイバールート二日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a tough one. What you're essentially saying is that you want to save everyone.\"",
+      "sourceUnit": "セイバールート二日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "That was Kiritsugu's response to the question when a very young me asked it.\nAs a child, I obviously refused to accept that idea.\n\"But you saved me, Kiritsugu. I knew you were a magician, and you could do anything.\nI knew you were a champion of justice who wouldn't let anyone suffer, and you did it without asking for any reward.\nThat's why I've always believed you managed to save everyone back then.\"",
+      "sourceUnit": "セイバールート二日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "In response to me shouting this at him, Kiritsugu looked more troubled than I'd ever seen him, and said something I remember to this day.",
+      "sourceUnit": "セイバールート二日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Saving one person means you don't save someone else. Listen. Being saved by a champion of justice only means you're one of the few they managed to reach. It might be obvious, but that's what a champion of justice is.\"",
+      "sourceUnit": "セイバールート二日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, I get that.\nAnd now that it's been pointed out, it seems so obvious.\nImagine if there was a burglar and some hostages, and the burglar intends to kill the hostages.\nUnder normal circumstances, a majority of the hostages would probably die.",
+      "sourceUnit": "セイバールート二日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "But if by some miracle all the hostages were saved, there's someone who didn't get saved.\nThe burglar, of course, since saving the hostages was done at the cost of his life.\nThe people the champion of justice saves are only those whom the champion of justice deems to save.\nThat's why saving everyone is impossible... Even God can't do that.",
+      "sourceUnit": "セイバールート二日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Especially if it's a natural disaster. No person is able to save everyone and everything.\"\nThe fire ten years ago was like that.\nAs someone who was miraculously saved from the incident, it wasn't my place to say anything at this point.",
+      "sourceUnit": "セイバールート二日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"But I still don't like it.\"\nI don't want anything like that.\nI don't like the idea that there's a limitation to who can be saved.\nNo matter how impossible it may be, I need to reach out to help.\nI can't stand to see people around me die, like back then.",
+      "sourceUnit": "セイバールート二日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "If the person I am now had been there ten years ago, I would've thrown myself into the fire—\n\"But then I would've died, and for nothing.\"\nThat would've happened for sure.\nGeez, I can't even fantasize in my head.",
+      "sourceUnit": "セイバールート二日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh crap. I can't believe it's already five.\"\nA bell in the distance rings, chiming five o'clock.\nI get up from the bench, and hurry to my part-time job.",
+      "sourceUnit": "セイバールート二日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "By the time I'm done working, the sun has long since set.\nIt's a little before eight o'clock.\nI finished about ten minutes earlier because I kind of overworked myself.\nMaybe it's because I stopped by that park before work. That might've motivated me to push myself harder.",
+      "sourceUnit": "セイバールート二日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "At the train station, the night is just getting started.\nThere are a bunch of people milling about, and an endless stream of cars on the road.",
+      "sourceUnit": "セイバールート二日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess there's no need for me to get something for Fuji-nee.\"\nI walk along the path as I gaze up at a lighted building.\nIt's the biggest building in Shinto, so I can't see all the way to the top.\nAs I gaze at the building, enjoying the nighttime scenery...\n\"Huh?\"\nI think I see something bizarre.",
+      "sourceUnit": "セイバールート二日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"What is that?\"\nI stop and try to look to the very top.\nI squint, trying to bring what I see into focus, but it's like staring at grains of rice.",
+      "sourceUnit": "セイバールート二日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt looks like someone I know.",
+      "sourceUnit": "セイバールート二日目-08:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "But I can't think why this girl I know would have a reason to be there.\nIt doesn't seem like she's going to do anything up there.\nBut she's just standing there, looking down at the city, as the wind ruffles her hair.",
+      "sourceUnit": "セイバールート二日目-08:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe doesn't seem to notice me down below.\nActually, there's no way she could see me.\nEven my near perfect vision, enhanced with magecraft, can barely distinguish what's up there.\nI'm able to tell she's up there because she's isolated, but there's no way she would be able to pick me out of a crowd on the ground.",
+      "sourceUnit": "セイバールート二日目-08:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "She's just looking down at the town.\nIt seems like she's looking for something; I can almost feel her sharp gaze even at this distance.\n...\nI forget how long it's been, but I continue to look up at the girl standing in the void.\nShe stands at the top of a high tower.\nShe's like a magician, looking down at the surface world with the bright moon shining bright behind her.",
+      "sourceUnit": "セイバールート二日目-08:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nAnd then...\nShe disappears, apparently done with whatever brought her up there.\nThe rooftop stands empty, and the scenery returns back to nothing more than the beautiful night sky.\n\"Was that Tohsaka up there?\"",
+      "sourceUnit": "セイバールート二日目-08:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "I can't be sure, but I'm probably right about who it was, at least.\nThere aren't many girls I know who stand out like her, and besides, I'm not so out of it I'd fail to notice a girl I secretly admire.",
+      "sourceUnit": "セイバールート二日目-08:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Er...\"\nIt's just...\nTohsaka sure has a weird way of spending her time.",
+      "sourceUnit": "セイバールート二日目-08:page57:1"
+    },
+    "page58": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,422 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0143",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Saber and I head out together, leaving Tohsaka at home.\nIt's seven thirty in the morning.\nThe hilly road is extremely quiet.\nThe road is usually packed with students going to school, but there aren't that many people around today.",
+      "sourceUnit": "セイバールート十日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I heard the school will be closed for a while.\nThere may not have been any deaths, but a majority of students are still bedbound.\"",
+      "sourceUnit": "セイバールート十日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Their symptoms are like severe malnutrition, so it should be a few days before they're up and around.\"",
+      "sourceUnit": "セイバールート十日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "But those are the lucky ones.\nThere are still some whose injuries will last a lifetime.",
+      "sourceUnit": "セイバールート十日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I hear Taiga was among those sent to the hospital. Do you need to go visit her, Shirou?\"\n\"Yeah, I hear Fuji-nee is just fatigued. I was told not to worry about her, and to just study at home.\"",
+      "sourceUnit": "セイバールート十日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Before we left, I phoned the Fujimura house and asked how Fuji-nee was doing.\nI want to go visit, but I need to hold off for now.",
+      "sourceUnit": "セイバールート十日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"So you are going to concentrate on investigating. That is fine, but do you have any leads?\nI can sense the presence of Servants, but only when they are nearby. Unless you have a lead of some kind, it will be difficult to locate them.\"",
+      "sourceUnit": "セイバールート十日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It'd be hard if Shinji were just sitting around, doing nothing. But I know him, and I don't see him just keeping quiet after what happened yesterday.\"\nShinji's not the type to just sit back and take a beating.",
+      "sourceUnit": "セイバールート十日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"So you believe Rider's Master plans to create another Bounded Field...?\"",
+      "sourceUnit": "セイバールート十日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"No doubt about it. He's like me; he can't provide his Servant with magical energy. If Shinji wants to get revenge on me, he'll need a lot of magical energy.\nWhich means it might not be so hard to find him.\"",
+      "sourceUnit": "セイバールート十日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"So rather than looking for Rider's Master, we are going to look for a Bounded Field.\"\n\"Yeah. We may not be able to detect the Master, but we should be able to detect a Bounded Field of that scale. And we'll be able to pinpoint the site too.\nWe just need to find a big building that draws a large crowd.\"",
+      "sourceUnit": "セイバールート十日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a surprise. That is brilliant, Shirou.\"\n\"I do have a brain, you know. If I wasn't confident about finding them, I wouldn't be saying this.\"",
+      "sourceUnit": "セイバールート十日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah, I'm confident.\nThe Bounded Field is one thing, but there's a point to us walking around like this too.\nShinji probably can't leave me alone any more than I can leave him alone.",
+      "sourceUnit": "セイバールート十日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I head to Shinji's house, just in case.\nI have Saber check for Rider's presence.\nShe finds nothing.\nWell, Shinji's not the sort to just roll over and hide in his house after what's happened.",
+      "sourceUnit": "セイバールート十日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. If Shinji's going to create a Bounded Field, it wouldn't be here; it'll be in Shinto. Let's check all the office buildings there.\"\nI call Saber over and turn to leave the Matou house.",
+      "sourceUnit": "セイバールート十日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, this is Sakura's house, is it not?\nSince you are here, do you not at least intend to say hello? I believe we have time enough for that.\"",
+      "sourceUnit": "セイバールート十日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nI am worried about Sakura.\nAccording to Tohsaka, Sakura was just weakened, and luckily wasn't injured beyond that.\nIf it were up to me, I'd like to see her, and take care of her the way she's always taken care of me.\nBut...",
+      "sourceUnit": "セイバールート十日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I won't do it. As long as the war is going, I shouldn't see her. I don't want to get her involved in any of this.\"",
+      "sourceUnit": "セイバールート十日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Besides...\nI can't possibly face Sakura when I'm about to head out to fight her brother.\nShould the worst happen, and I actually kill Shinji, I'll never be able to face her again.",
+      "sourceUnit": "セイバールート十日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I shouldn't leave any loose ends like that.\nIt's best for me, and I'm sure it's best for Sakura too.",
+      "sourceUnit": "セイバールート十日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "We check every building we find.\nOf course, we start with the big ones, but so far...nothing.",
+      "sourceUnit": "セイバールート十日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nI wipe the sweat from my brow and force my leaden limbs to keep moving.\nI try to calm my labored breathing by just taking a moment to rest.",
+      "sourceUnit": "セイバールート十日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Shirou, is there something the matt—\"",
+      "sourceUnit": "セイバールート十日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, this way.\"\n\"Eh? Hold it. This is the park. There's still buildings we haven't looked—\"",
+      "sourceUnit": "セイバールート十日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Please let that matter wait a moment. This is more important.\"\nSomething must have caught her attention.\nSaber's tone is stern and she pulls me towards the park.",
+      "sourceUnit": "セイバールート十日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey Saber! What's going on? Why are we here? There's nothing here. Even you know that!\"",
+      "sourceUnit": "セイバールート十日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Please, just sit on this bench. I will hear what you have to say once you have done so.\"",
+      "sourceUnit": "セイバールート十日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mh.\"\nSaber's...intense about this, so I reluctantly sit down.\nAnd then...\n...for a moment, I almost feel faint.",
+      "sourceUnit": "セイバールート十日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"H...uh?\"\nI hold my head with one hand.\nMy forehead is damp with sweat, and my breathing is labored even though I'm sitting down.\n...Hey wait a minute.\nWhy would I be sweating like this in the dead of winter?",
+      "sourceUnit": "セイバールート十日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"This is weird. I don't know why I'm so exhausted.\"\nAs soon as I say that, I realize what's going on.\nI'm not exhausted.\nMy wounds haven't completely healed, so they're tingling.",
+      "sourceUnit": "セイバールート十日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nThis is unreal. No matter how much I try, I can't get my breathing under control.\nMy body feels heavy, and my legs refuse to take my weight.",
+      "sourceUnit": "セイバールート十日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I see you have finally realized your condition, Shirou.\"\nSaber is mad.\nI don't blame her. I was the one who suggested searching for Shinji, but here I am, sitting on a bench.",
+      "sourceUnit": "セイバールート十日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I'll get up soon. Just give me a moment.\"\n\"That is not what I am trying to point out.\nNothing seems to get through to you.\"",
+      "sourceUnit": "セイバールート十日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI can see that Saber's mad.\nWhat I don't understand is why.",
+      "sourceUnit": "セイバールート十日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Saber. You need to be clearer with me, or else I won't know what you're trying to get at.\"",
+      "sourceUnit": "セイバールート十日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"If you do not know, there is no point telling you.\nPlease just sit here, Shirou.\nIf you will not rest on your own, then I shall join you.\"\nSaber sits right next to me.",
+      "sourceUnit": "セイバールート十日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nThe bench is not that big.\nSaber is sitting close enough to me that our shoulders might touch if one of us leans over even a little.",
+      "sourceUnit": "セイバールート十日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey...uh, wait, Saber!\nWe don't have time to rest. We didn't come here to play around—\"\n\"We are indeed not here simply to loiter. Even in battle, you must rest. If you have a grievance, I suggest you air it after you've caught your breath.\"",
+      "sourceUnit": "セイバールート十日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...well you tell me to catch my breath, but...\"\nSure, I'm totally worn out, and I can barely breathe, but having her so close makes my heart go absolutely crazy, and...",
+      "sourceUnit": "セイバールート十日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Are you listening to me? You have been pushing yourself this whole time. What you must do now is try to loosen up and calm down. You cannot rest properly if you continue on, distracted as you are.\"",
+      "sourceUnit": "セイバールート十日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, but...\"\nIf she wants me to be calm, it'd really help if she kept her distance...\nI don't know how Saber feels, but I can't help but see her as a girl around my own age.",
+      "sourceUnit": "セイバールート十日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Well... she may actually be younger, but she's still a girl.\n...And plus, she's...beyond beautiful.\nNo guy could stay calm this close to her, and I'm certainly no exception.",
+      "sourceUnit": "セイバールート十日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Is it my imagination, or are you even paler than before?\"\n\"I...n-no! I-I'm not flustered or anything!\"",
+      "sourceUnit": "セイバールート十日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"If you say so...but perhaps you should lie down. Is there a place to lie down around here...?\"",
+      "sourceUnit": "セイバールート十日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks around.\nOh, what the...\nWhat are the odds of there just being some random dude lying across a nearby bench using his girlfriend's lap as a pillow, in a park that's usually deserted?",
+      "sourceUnit": "セイバールート十日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd...\nSaber glances at the pair of lovebirds. She's obviously thinking.",
+      "sourceUnit": "セイバールート十日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, if you do not feel well, then you should lie—\"\n\"I'm fine! I just need to sit for a minute and I'll get better. Don't you worry about me! Nope, no worrying about me! Just leave me alone!\"",
+      "sourceUnit": "セイバールート十日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I turn away from Saber and close my eyes. Anything to keep our eyes from locking.\n...\nThink calming thoughts, Shirou.\nNow I just have to keep taking deep breaths and try not to think about Saber being right next to me.",
+      "sourceUnit": "セイバールート十日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "It took a night for the fire to die down.\nThe searing, roaring red wall eventually disappeared.\nAll that remained was a charred field, strewn with smoldering, blackened lumber.\nI remember that, while I lay there on the ground, the sound of it reminded me of sparklers.",
+      "sourceUnit": "セイバールート十日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "The sky was getting cloudy.\nIt should rain soon. That will help put out the fires.\nI could hardly even breathe as I lay there, staring dazedly at the sky.",
+      "sourceUnit": "セイバールート十日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Charred remains hemmed me in on all sides.\nBurns cover almost my entire body, and there's an especially painful sensation around my chest.\nMy chest is gouged out.\nI could probably touch my own insides.",
+      "sourceUnit": "セイバールート十日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Oh yeah, I'd forgotten about that.\nI didn't collapse because I got tired.\nIt's not that my numb body was trying to do me a favor by letting me rest.\nI collapsed because...\nI was much too hurt to keep moving. At all.",
+      "sourceUnit": "セイバールート十日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "That's why I ended up just accepting it, calmly, no panic...\nI knew I wasn't going to make it. Everyone else was already dead anyway, so I wasn't scared.\nStaring up at the cloudy sky, I felt myself just sort of fading away.\nYet...\nIn the haze of fading consciousness, I decided that as long as I was alive, I'd try calling for help. Right till the end.",
+      "sourceUnit": "セイバールート十日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...Huh. Wait, something's off...\nI shouldn't be remembering this pain in my chest...",
+      "sourceUnit": "セイバールート十日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nI jerk myself upright...\n...and tug my shirt open to check myself over.",
+      "sourceUnit": "セイバールート十日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah I figured as much. There's no wound.\"\nThere's no scar on my chest.\nThe respiratory distress that burn caused did almost kill me, but I didn't take some massive chest wound.\nIf something like that had happened, even Kiritsugu wouldn't have been able to help me.\nBut more importantly...",
+      "sourceUnit": "セイバールート十日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, it's already night!? Did I fall asleep, Saber!?\"",
+      "sourceUnit": "セイバールート十日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. You slept deeply, so I did not wish to wake you. It seems to have helped, though. You have regained some of your color.\"",
+      "sourceUnit": "セイバールート十日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not very nice. Sure, it might've been my fault for passing out, but you could've woken me up. I told you we don't have time to rest.\"",
+      "sourceUnit": "セイバールート十日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"But you must rest. And you did so only for about an hour, so it should not be a problem.\"\n\"Hm. That's just the benefit of hindsight. What would you have done if I hadn't woken up?\"",
+      "sourceUnit": "セイバールート十日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I do not believe our situation would have changed much, actually. I had been about to wake you since the sun is setting and it is growing cold.\"",
+      "sourceUnit": "セイバールート十日目-09:page60:1"
+    },
+    "page61": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I do admit, I feel a lot better.\"\nI get up from the bench, and start walking through the field.\nThere's no trace of what this field once looked like.\nNo trace of when it used to be a residential district, nor any trace of when it was cast in that hellish red light.\nBut for some reason, I'm irritated that I dreamed that scene just because I slept here.",
+      "sourceUnit": "セイバールート十日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Is something wrong?\"\n\"No. I was just thinking that if I was going to rest, it should've been somewhere else. Too many bad memories here.\"",
+      "sourceUnit": "セイバールート十日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Bad memories? Do you have some link to this place?\"",
+      "sourceUnit": "セイバールート十日目-09:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Oh, right. I never told you. I used to live around here a long time ago. Ten years ago, actually. There was a giant fire. It burned down my house, with my parents inside. That's when my old man saved me. Later, he adopted me.\"",
+      "sourceUnit": "セイバールート十日目-09:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"What? So that means you...\"\n\"Yeah, I'm not Kiritsugu's biological child. And I guess I am not without ties to the Holy Grail War, either.\nI heard that this place was the final battleground during the last war. It's kind of ironic to think that the survivor of this site turned into a Master.\"",
+      "sourceUnit": "セイバールート十日目-09:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I walk through the field.\nIt's been ten years, but it still seems like the ground hasn't recovered enough for even grass to grow.\nMaybe all the resentment of the people who died here seeped into the land itself.",
+      "sourceUnit": "セイバールート十日目-09:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Is that why you are so adamant about not allowing innocents to be harmed?\nAs a victim of the Holy Grail War yourself, you are hoping to avoid creating any other such victims?\"\n\"Eh? Uh...well...\"",
+      "sourceUnit": "セイバールート十日目-09:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "Now that she mentions it, I guess I can see people coming to that conclusion.\nSurprisingly, I've never thought about it like that.",
+      "sourceUnit": "セイバールート十日目-09:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not sure. You have a good point, but I think it's something simpler than that.\nTen years ago, I was so happy when Kiritsugu saved me. I didn't feel anything else at the time, and I think I just aspired to be like him one day too.\"",
+      "sourceUnit": "セイバールート十日目-09:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, I was just happy.\nWords can't even begin to describe what I felt when I called out for help...and actually got it.\nBut at the same time...\n...the happier I was, the more guilty I felt.",
+      "sourceUnit": "セイバールート十日目-09:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"It didn't feel right though, knowing that my wish was the only one to be granted. My old man saved me. But no one else was saved, and they couldn't do anything about it.\"",
+      "sourceUnit": "セイバールート十日目-09:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Everyone wished for salvation, but only my wish was granted.\nOnly I was saved...\n...and in exchange, everyone else died.\nAnd that's why...I have to take responsibility.",
+      "sourceUnit": "セイバールート十日目-09:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"But, I can't take back something that's already happened.\nIf I want to do something for the people who died, I should focus on preventing what's to come.\nI will not allow another catastrophe like the one ten years ago. If something like that ever happened again, I'd never be able to face the people who got sacrificed that time.\nAt least, that's how I see it.\"",
+      "sourceUnit": "セイバールート十日目-09:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "More importantly, we need to get back to looking for Shinji.\nI feel better now, and we need to hurry up and check the buildings we haven't gotten to yet.\nBesides, there should be fewer people around at night.\nIf Shinji wants to attack us, this'll be the time.\nSo if our plan is to be bait to lure him out, it's time to get to it.",
+      "sourceUnit": "セイバールート十日目-09:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go, Saber. Let's get back to the office district.\"\n\"...\"\n\"Saber? What's wrong? Did you forget something?\"",
+      "sourceUnit": "セイバールート十日目-09:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I was just recalling what happened this morning.\nI suggested you focus on healing your wounds before going out looking for Rider's Master, but you told me our priorities were mixed up.\"\n\"Hm?\"",
+      "sourceUnit": "セイバールート十日目-09:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"You mentioned the same thing yesterday. I have believed this for some time, but now I am certain.\nYou do not value your own life.\"\nIt's like...\n...she just stares at me and lays it out, like it's a sin or something.",
+      "sourceUnit": "セイバールート十日目-09:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"You put others ahead of yourself. Admirable though that may be, you will one day regret doing so.\nYou should value yourself more, Shirou.\"\nSaber cuts past me.",
+      "sourceUnit": "セイバールート十日目-09:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us go. Being here is clearly not good for you.\"\nSaber heads toward the office district.\nI try to call out to her, but I can't stop her.",
+      "sourceUnit": "セイバールート十日目-09:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\n...are you saying? That's what I want to ask her, but the words just won't come.\nThere's no way I'm not trying to help myself.\nThat can't be true, but I somehow can't think of a single thing to say to argue with her.",
+      "sourceUnit": "セイバールート十日目-09:page81:1",
+      "recoveredDelimitedTail": true
+    },
+    "page82": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

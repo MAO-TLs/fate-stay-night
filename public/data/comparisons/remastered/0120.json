@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0120",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I stop prepping for dinner, and take off my apron.\nBy the time I've washed my hands and made it to the living room, Fuji-nee's apple is gone.",
+      "sourceUnit": "セイバールート七日目-22:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee, did you eat the apple?\"\n\"Yep. It was nice and sweet. Tart too.\"\n\"Glad to hear that. Then it's your turn. I'll take whatever you got me in exchange for what you just ate.\"",
+      "sourceUnit": "セイバールート七日目-22:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What I got you? Like the tangerine?\"\n\"...I'm not going to ask how you arrived at that conclusion.\nI'm just asking you to show me what you got for me today. I hope you didn't forget what you said this morning as you were leaving.\"",
+      "sourceUnit": "セイバールート七日目-22:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"How rude. Of course I didn't forget. See? I have it right here.\"\nFuji-nee drops a suspicious-looking paper bag on the table, and its contents spill out.",
+      "sourceUnit": "セイバールート七日目-22:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell, that's...unexpected.\nI actually have trouble believing Fuji-nee managed to remember a promise she made.\n\"...What even is that? I feel like this isn't anything I would—\"\nNo matter how I look at it, it just looks like a mound of trash... Well, a mountain of stuffed toys.",
+      "sourceUnit": "セイバールート七日目-22:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"This Aztec stone mask's for you, Shirou. Your room's pretty sparse, so I thought it might liven things up a bit.\"\nShe hands me a heartwarming, but somewhat scary-looking sun mask.\nIt's about the size of a handball, and stuffed with cotton.",
+      "sourceUnit": "セイバールート七日目-22:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee...were these all from a crane game?\"\n\"Yep. I worked really hard trying to get them. I spent two hours, and in the end, a worker took them out for me.\"\nShe's laughing bashfully, but I'm scared to think how much blood was shed in the process.",
+      "sourceUnit": "セイバールート七日目-22:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm, so there's also a Chinese dragon, a bat, a crab, a cow, a rhinoceros, a snake, and a soldier...\"\nFuji-nee gleefully sorts out the pile of stuffed toys.",
+      "sourceUnit": "セイバールート七日目-22:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "A few spill off the table, and the living room quickly grows cluttered with them.\nIt's messy, but Fuji-nee seems to be enjoying herself, so I don't have the heart to stop her.",
+      "sourceUnit": "セイバールート七日目-22:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, I'll take them. I want you to clean up after you organize them.\"\n\"Yup I know!\"",
+      "sourceUnit": "セイバールート七日目-22:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I turn back to the kitchen, the stuffed toy in hand.\nAnd then...\nI see Saber at the entrance of the living room. She must have just passed by. She looks irritated.",
+      "sourceUnit": "セイバールート七日目-22:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber doesn't say a thing. She just glares into the living room.",
+      "sourceUnit": "セイバールート七日目-22:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Did you take your bath already?\"\n\"Yes. It was very nice.\"\nAfter answering my question, Saber heads into the living room, almost like a sleepwalker.",
+      "sourceUnit": "セイバールート七日目-22:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Saber walks towards the table, then stops abruptly in front of one of the stuffed toys.\n\"Taiga. Is this doll supposed to be a lion?\"\n\"Eh? Uh, yeah looks like it. That's supposed to be a baby lion.\"",
+      "sourceUnit": "セイバールート七日目-22:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber stares silently at the stuffed animal.",
+      "sourceUnit": "セイバールート七日目-22:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Is this doll yours, Taiga?\nUm, like those other dolls.\"\n\"They are. Do you want one, Saber? You can have one, if you like.\"\nFuji-nee's offer is made with a lighthearted smile.",
+      "sourceUnit": "セイバールート七日目-22:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nWhoa, what the heck's Fuji-nee thinking?\nSaber's obviously in a bad mood, so why is Fuji-nee asking something so ridiculous!?\nBesides, there's no way Saber would want something like th—",
+      "sourceUnit": "セイバールート七日目-22:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you want it? I don't really have any use for it, so you're welcome to it, Saber.\"\nFuji-nee picks up the stuffed lion, not noticing Saber's distaste.",
+      "sourceUnit": "セイバールート七日目-22:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Saber takes it and...\n\"If I may.\"\nShe hurries forward and takes it eagerly.",
+      "sourceUnit": "セイバールート七日目-22:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\nMy mind locks up.\nWhat the hell am I seeing?\nSaber takes the completely useless doll and clutches it against her chest as if it were truly precious.",
+      "sourceUnit": "セイバールート七日目-22:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I appreciate it. Thank you, Taiga.\"\n\"It's fine. It's not a tiger.\"\nUh...that's a bit of a weird thing to throw out there, Fuji-nee...",
+      "sourceUnit": "セイバールート七日目-22:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"But this is a surprise. I didn't know you liked that kind of thing, Saber.\"\n\"Yes. I have always longed for small, cute things.\nI had precious few opportunities to hold such things.\"",
+      "sourceUnit": "セイバールート七日目-22:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "As she speaks, Saber looks down at the stuffed lion in her arms.\nHow could I describe her face right now...\n\"Hm?\"\nWhat was that?\nI just had the weirdest thought.",
+      "sourceUnit": "セイバールート七日目-22:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Do you like lions, Saber? Are we rivals?\"\nSaber silently nods in affirmation, all while she continues to smile down at the stuffed animal.",
+      "sourceUnit": "セイバールート七日目-22:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"It is not that I like lions, but I do have a connection with them.\nI once took care of a lion cub, and I remember being so happy that it bonded with me.\nSince then, I have had a special place for lions in my heart.\nBy nature, I am associated with dragons...\"",
+      "sourceUnit": "セイバールート七日目-22:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"A lion cub, huh? Aren't lion cubs like cats? Doesn't that mean they bite, scratch, and jump?\"",
+      "sourceUnit": "セイバールート七日目-22:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It was certainly energetic.\nI only took care of it for one month, but I would have liked to care for it till the end.\"",
+      "sourceUnit": "セイバールート七日目-22:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I see. But it's tough. Lions get really big, so you can't take care of one in an ordinary house, so you had no choice but to let it go.\"\nFuji-nee nods her understanding.",
+      "sourceUnit": "セイバールート七日目-22:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Saber is still looking at the stuffed lion.\n...\nI'm not sure what kind of spell it cast on her.\nBut something I shouldn't know or be able to see flashes through my mind.",
+      "sourceUnit": "セイバールート七日目-22:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt has to just be some kind of dizzy spell...\n...but I can't shake the image.",
+      "sourceUnit": "セイバールート七日目-22:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "It's one of her memories.\nThis is...something that really happened.\nI see an image of Saber rubbing her cheek against a cub.\nBut I'm not sure if this is just some fleeting vision.\nThe only thing I know is that I would regret shaking off the sight of it.",
+      "sourceUnit": "セイバールート七日目-22:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe strange vision immediately disappears.\nMy heart is still racing.\nThe vision I glimpsed remains in my head like a scar that will never fade.",
+      "sourceUnit": "セイバールート七日目-22:page31:1"
+    },
+    "page32": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

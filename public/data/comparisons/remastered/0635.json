@@ -1,0 +1,231 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0635",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nA shrill noise comes from the kitchen.\nIt's the fourth time tonight I've heard that unpleasant sound.",
+      "sourceUnit": "桜ルート十二日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I'm sorry! I'm okay, don't worry...!\"\nI hear Sakura's voice from the kitchen.\n...Tohsaka just frowns. She seems tired of warning Sakura by now.",
+      "sourceUnit": "桜ルート十二日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "It's shortly before 6 o'clock.\nSakura asked us to let her make dinner to close out the day.\nShe chased me and Tohsaka out of the kitchen, so we've just been waiting around for her to finish making dinner.",
+      "sourceUnit": "桜ルート十二日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...!\"\n...Another plate or bowl breaks.\nIt's the sound of Sakura's failure that we've gotten used to hearing for the last half of today.",
+      "sourceUnit": "桜ルート十二日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...Let's rewind to noon.\nSakura couldn't make stew after Illya and I went out for groceries.\nShe was waiting for us when we got home, but she clearly wasn't feeling well.",
+      "sourceUnit": "桜ルート十二日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm okay. I feel a little feverish, but I can make lunch, at least.\"",
+      "sourceUnit": "桜ルート十二日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "And it's true, she could have cooked us lunch.\nBut we weren't going to make her push herself when she was clearly suffering from a fever.\nBy the time Tohsaka and I convinced Sakura to take a nap, it was already past two in the afternoon.",
+      "sourceUnit": "桜ルート十二日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Before she did, she insisted,\n\"But once my fever is down, you'll let me be in the kitchen, right?\"\nand went off to bed.",
+      "sourceUnit": "桜ルート十二日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Then came evening.\nI'm not sure when my training ended, but when I finished and went back to the living room, Sakura was already starting to cook dinner.",
+      "sourceUnit": "桜ルート十二日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I hope your training went well, Senpai. Just hold on, I'll have dinner ready for you soon.\"\nAnd then she cheerfully went back to her cooking.\nI could tell with a single glance that she was putting on a strong front.",
+      "sourceUnit": "桜ルート十二日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"You're tired, so go rest.\"\nI said that Tohsaka and I would make dinner, but Sakura refused to back down.",
+      "sourceUnit": "桜ルート十二日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you don't need to be so overprotective. I'm a Master, too. This is nothing compared to actually fighting.\"",
+      "sourceUnit": "桜ルート十二日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "She stubbornly refused to back down, no matter what we said.\nOn top of that, she refused to let us help, especially Tohsaka.",
+      "sourceUnit": "桜ルート十二日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka reacted with more surprise than I expected.",
+      "sourceUnit": "桜ルート十二日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean... you're training Senpai, right? I need to make myself useful, too.\nI want to help like you, Nee-san.\n...Besides, this is a role I've always had. I'd like to keep doing it as long as I can.\"",
+      "sourceUnit": "桜ルート十二日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...It sounds like this is something that Sakura just can't give up.\nI can only imagine how defeating it must feel to stop doing something she's done routinely every single day, no matter how hard it is to move her body.",
+      "sourceUnit": "桜ルート十二日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Take care of dinner, Sakura.\"\nTohsaka got irritated, and started to criticize me,\nbut that only made Sakura say,\n\"Yes! I'll do my best, Senpai!\"\nIt was hard to be negative in front of that much enthusiasm.",
+      "sourceUnit": "桜ルート十二日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for your patience!\"\nHer bright voice reaches the dining table.\nSakura confidently sets plate after plate on the table.",
+      "sourceUnit": "桜ルート十二日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, takikomi gohan. You put a lot of work into this, Sakura.\"\n\"Yes. You bought good clams and shrimp, so I used them to make tonight's dinner.\nI cooked the clams into the rice, steamed the shrimp in dumplings, did the squid in a more ethnic style, and topped it off with a Hamburg steak just for Illya!\"",
+      "sourceUnit": "桜ルート十二日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She puffs up her chest proudly.\nThe dishes she's laid out on the table do show brilliance unlike anything she's made so far, so she must have put her heart into making them.\nThe secret ingredient is effort.",
+      "sourceUnit": "桜ルート十二日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oooohhh...\"\nClap, clap, clap, clap.\nWe other three diners applaud the display.",
+      "sourceUnit": "桜ルート十二日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I was worried about you for a while there, but this looks worth the wait. I'm excited to try it.\"\n\"I'm going to eat a lot, too. Hand me that fork, Shirou.\"\n\"Here ya go. Don't mind if take some myself...\"\n\"Yes! I made enough for seconds, so be sure to eat a lot!\"",
+      "sourceUnit": "桜ルート十二日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I make a quiet bow and pick up a steamed dumpling with my chopsticks.\nAt a glance, the round, bite-sized dumplings resemble siu mai.\nThey're beautifully formed, and accompanied by an exquisite balance of spring onions, ginger, and daikon sprouts.\nI was uneasy letting Sakura cook for four people, but I can't complain now that—",
+      "sourceUnit": "桜ルート十二日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy chopsticks stop moving.\nAll three of our expressions must have frozen for an instant.",
+      "sourceUnit": "桜ルート十二日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "We pretend not to notice, and quietly keep eating.\n...We have to keep eating.\nThe colorful dishes taste inconsistent.\nThey don't taste bad, per se.\nThey just each seem to lack a subtle flavor or taste off balance.",
+      "sourceUnit": "桜ルート十二日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe silence is uncomfortable.\nWe keep quietly eating, not quite looking at each other.",
+      "sourceUnit": "桜ルート十二日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Still, it's impossible to play it off.\nSakura cooked this.\nShe'll realize it tastes wrong as soon as she eats it.\nOur silence is just a prelude to that discovery.",
+      "sourceUnit": "桜ルート十二日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nI look up at Sakura.\n...She should have realized it by now.\nYeah, she's sitting there in shock...\n...and she hasn't taken a single bite.",
+      "sourceUnit": "桜ルート十二日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI try to watch her inconspicuously so that she doesn't notice.\n...I wonder what's wrong.\nSakura is looking down at her rice bowl and chopsticks with a troubled expression.",
+      "sourceUnit": "桜ルート十二日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...She hesitates, then resolves herself to reach for her chopsticks.\nBut then, she drops them with a clatter.\nShe hastily picks them up again and tries to gloss over it by picking up her rice bowl, too.",
+      "sourceUnit": "桜ルート十二日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI...I can't directly watch her doing it.\nSakura repeats the effort several times.\nShe clumsily moves her fingers and warily picks up the food with her chopsticks,\nonly to drop it each time and try again.\n...It's more than just difficulty controlling her fingers.\nHer awkward movements look like that of someone who knew how to use chopsticks until a few seconds ago, but forgot once she picked them up.",
+      "sourceUnit": "桜ルート十二日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...ah...um...\"\n...We're not looking.\nIt's a slip-up that anyone would notice right away, but we don't see it.\nI tell myself it's just dinner as usual, even as she fails over and over.",
+      "sourceUnit": "桜ルート十二日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...She awkwardly manipulates her chopsticks onto the food, finally manages to eat one bite, forgets how to hold the chopsticks, and has to remember all over again.\nI can't bring myself to interrupt her desperation and ask her if she's all right.",
+      "sourceUnit": "桜ルート十二日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka hasn't noticed.\nShe's pretending not to notice, and quietly eating her dinner.",
+      "sourceUnit": "桜ルート十二日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\nSo am I.\nWe all pretend not to notice anything wrong with Sakura, and finish our meal in silence.",
+      "sourceUnit": "桜ルート十二日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I decided to clean up after dinner.\nSakura tried to help, but I cruelly turned her away.\nIt's obvious she can't help clean in her state, and...I don't want Sakura to have to confront another routine that she can't do anymore, as she mentioned earlier.",
+      "sourceUnit": "桜ルート十二日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Just go back to your room and get a good night's sleep. Remember how your nap helped it go away during the day? It'll work this time, too.\"\nI basically tell her that if she lies down and keeps her body from moving, she'll be able to move her fingers again.\n...\nIt doesn't make much sense, even to me.",
+      "sourceUnit": "桜ルート十二日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nSakura bites her lip in anguish, looking away.",
+      "sourceUnit": "桜ルート十二日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. This isn't going to last forever. But if you push yourself when you aren't feeling well, it'll take longer to get better.\nYou didn't do anything wrong. Just let us spoil you for a while.\"",
+      "sourceUnit": "桜ルート十二日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that's not true! I'm doing everything wrong!\nMy fever is down, and I remember what happened yesterday. I could tell from your face earlier, too! I've never done anything to make you worry before, so when I see you feeling that way, I have to...\"",
+      "sourceUnit": "桜ルート十二日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...Make it so that I don't worry? Don't be silly. I'll tell you exactly how bad you're pushing yourself.\"",
+      "sourceUnit": "桜ルート十二日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"It took you two hours to make dinner. You accidentally dropped a plate seven times. On top of that, you messed up all the seasoning.\nYou weren't careful with the salt and you added way too much pepper. It didn't even taste like your cooking. It's fine to be proud of your work, but it has the opposite effect when you don't show results.\"",
+      "sourceUnit": "桜ルート十二日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Do you understand me now? I know you want to get better, but you still have a fever. Otherwise, you wouldn't have made all those mistakes.\n...Just so you know, I'm mad. I'm not letting you back into the kitchen tomorrow. I won't let you push yourself again until you completely recover, so behave yourself and sleep.\"",
+      "sourceUnit": "桜ルート十二日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I don't wait for her to answer and lead her by the hand to her bedroom.\nHer footsteps are heavy, but I ignored them and took her to her room.",
+      "sourceUnit": "桜ルート十二日目-10:page43:1"
+    },
+    "page44": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

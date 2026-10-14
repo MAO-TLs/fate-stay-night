@@ -1,0 +1,117 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0510",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...It's morning.\nIt's after seven o'clock.\nThe weather is nice outside, and bright white sunlight pours in.",
+      "sourceUnit": "桜ルート八日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm...hup.\"\nI get up and stretch my back.\nPhysically, I feel well.\nI can move my limbs easily, and there's no trace of any headache.\nI feel great waking up today, as if the horror of last night never happened.",
+      "sourceUnit": "桜ルート八日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Must have just been heartburn.\"\nI sigh and think back on what happened.\n...Even if I was reliving what happened ten years ago, I really need to train more if I can't remember anything that happened.\nMy memories since collapsing in the park are vague. All I remember is leaning on Saber's shoulder and being put to bed.",
+      "sourceUnit": "桜ルート八日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. I need to thank Saber.\"\nI get out of bed and quickly change into my school uniform.",
+      "sourceUnit": "桜ルート八日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Saber seems like she's still asleep, so I'll go have breakfast.\nIt's already seven, so I should go see if Sakura's in the living room.",
+      "sourceUnit": "桜ルート八日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Senpai.\"\nIn the living room, I find Sakura holding her school bag.\nBreakfast is ready.\nThe table is neatly arranged and ready for us to start dining right away.",
+      "sourceUnit": "桜ルート八日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, is breakfast ready already?\"\n\"Ah, yes. I had time, so I made enough for you and Saber, too.\"",
+      "sourceUnit": "桜ルート八日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"? But what about your food?\"\n\"Um... I'll be okay. I'm going to school first, so please enjoy your breakfast.\"",
+      "sourceUnit": "桜ルート八日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\nWhat's wrong, Sakura? It's weird that you made us breakfast, yet you aren't going to have any... Did something happen yesterday?\"",
+      "sourceUnit": "桜ルート八日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Sounds like I was on the mark.\nBut I can't think of anything from yesterday's events that would apply.\nAfter dinner last night, Sakura went back to her room, and that was the last time I saw her.\nAfter that...I think something happened, but the thought gives me so much nausea that I can't remember.",
+      "sourceUnit": "桜ルート八日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, come to think of it, I remember talking with you and Saber about something.\"",
+      "sourceUnit": "桜ルート八日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...I said something terrible. When I saw you nearly unconscious, I lost my temper.\"\n\"You said something to Saber?\"",
+      "sourceUnit": "桜ルート八日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. Something that I had no right to say. It pinned all the blame on Saber.\n...So, I can't really look her in the eye right now.\"\nSo that's why she made breakfast for two and is trying to leave before she runs into Saber.",
+      "sourceUnit": "桜ルート八日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry. I realized how stupid I was being and apologized to her right away. And then Saber apologized to me, too. She said she was careless, even though it was all my fault.\"",
+      "sourceUnit": "桜ルート八日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Sakura hangs her head, looking ashamed.\n...I see.\nIf you apologize to someone and they end up apologizing back to you, that would make you feel even worse.",
+      "sourceUnit": "桜ルート八日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...You two are so silly. I'm obviously the one most responsible for getting myself hurt. You shouldn't argue over something like that.\"\n\"But Senpai, Saber didn't—\"",
+      "sourceUnit": "桜ルート八日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay. I'll just say this now, but when she knows someone else is wrong, she doesn't back down. If you make a bad case to her, she'll get really mad at you. The fact that she apologized means that she accepts what you said.\nSaber might not say it, but she likes you. She values people who try their best.\"",
+      "sourceUnit": "桜ルート八日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. That's all the more reason I'm avoiding her this morning.\nSince Saber didn't scold me, I need to be harder on myself or else it'll get to my head.\"\nSakura laughs bashfully and gives me a modest bow.\nLooks like her mind is set on leaving for school early.",
+      "sourceUnit": "桜ルート八日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...If you insist, then I won't stop you. But what are you going to do so early in the morning? Practice is cancelled.\"",
+      "sourceUnit": "桜ルート八日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay, I can just clean the dojo. After what I said to Saber, it's only right that I scrub the floors as penance.\"\nSakura bids me farewell and leaves the living room.",
+      "sourceUnit": "桜ルート八日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Cleaning the dojo? It's really hard to scrub the floors in the winter, you know.\"\n...She knows that as well as I do, though, which is probably why she said it.\nI wonder what she said to pick a fight with Saber, if she thinks she has to do such an unenviable task to make up for it.",
+      "sourceUnit": "桜ルート八日目-11:page20:1",
+      "recoveredDelimitedTail": true
+    },
+    "page21": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

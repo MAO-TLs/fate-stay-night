@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0604",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...So hot.\"\nI open my eyes. I can't sleep.\nMy pajamas are heavy with sweat. I kick off the covers.\nI wipe my forehead, finding that it's slick with enough sweat to soak a kitchen rag.",
+      "sourceUnit": "桜ルート十日目-23:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I can't think straight.\nDid the summer-like heat cook my brain?\nI think as hard as I can, but I can't tell what, when, or where this is.\n...\nI go out into the yard.\nI just want to cool off my burning body.\n...Was the room hot, or was it just me?\nThinking is a pain, so I'll sleep in the shed tonight.\nIt's cold in there.\nIt doesn't matter whether it's hot or—",
+      "sourceUnit": "桜ルート十日目-23:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Argh...!\"\nSuddenly, stabbing pain drives me to my knees.\n\"...Argh...\"\nI keel over, panting hard.",
+      "sourceUnit": "桜ルート十日目-23:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...I'm awake.\nI clutch my left arm, the source of the heat and pain.\nIt's wrapped in a holy shroud.\nThe red cloth locks the arm up tight.\nI can move it, but it's wrapped so tightly the blood is cut off.\nThen, I wonder if it's the cloth that's hurting my arm.",
+      "sourceUnit": "桜ルート十日目-23:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe it'll actually go back to normal if I take this off.\"\nIt's a terribly enticing delusion.\nI haven't even seen what's under the red cloth yet.\nIt's not that I don't believe what the priest said, but what if he's wrong?",
+      "sourceUnit": "桜ルート十日目-23:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0178",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Then it's my turn to argue.\nI'm sorry to jump in after you've convinced Saber, but I don't agree.\nLook, Shirou. She's still a Master. She may have lost her Servant, but I also told you that as long as she has Command Spells, she is still a Master.\"",
+      "sourceUnit": "セイバールート十二日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "She says that...\nTohsaka just butts in while she sips her tea.",
+      "sourceUnit": "セイバールート十二日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Hey, what is that supposed to mean, Tohsaka?\"",
+      "sourceUnit": "セイバールート十二日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm saying that as long as she has her Command Spells, she can form a contract with as many Servants as she wants.\nThere are stray Servants who don't have Masters, and as long as a Master has the capacity to take in that stray Servant, they can form contracts with as many as they want.\"",
+      "sourceUnit": "セイバールート十二日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what the heck?\nSo, if there's a capable Master around, they can form contracts with as many Servants as they want?\"",
+      "sourceUnit": "セイバールート十二日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Not exactly as many as they want. The Holy Grail can only call upon seven Heroic Spirits, so seven would be the maximum.\nThough, no matter how capable a mage is, they couldn't have enough magical energy to power multiple Servants.\"",
+      "sourceUnit": "セイバールート十二日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Even if they did, they would have to divide their own magical energy in half to supply the two Servants. That would weaken the Servants, which would make forming multiple contracts difficult and pointless.\"",
+      "sourceUnit": "セイバールート十二日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nSo if I formed a contract with Saber and Berserker, they would have to split my magical energy between them to maintain their existence, which would drastically weaken both of them.\nThat means it would make more sense to keep to one Servant and supply them with magical energy.",
+      "sourceUnit": "セイバールート十二日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Now that you mention it, didn't you say Servants could change Masters? Is this what you meant?\"",
+      "sourceUnit": "セイバールート十二日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, look at you, catching on for a change.\nAnd you're right, Shirou. That's how Servants changing Masters goes.\nA Servant who's lost their Master has some time before disappearing. So, if, in that time, they can find a Master who's seeking a Servant and form a contract, they'll be fine.\"",
+      "sourceUnit": "セイバールート十二日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. So that's why you can't let your guard down with Rin, Shirou. She's still a Master too. She might kill you and seize Saber, or she might form a new contract with another surviving Servant.\"",
+      "sourceUnit": "セイバールート十二日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. And I could say the exact same thing about you, Illya.\"\n\"Hmph. That's never going to happen.\nI don't intend on teaming up with another Servant. My Servant is and will only ever be Berserker.\"",
+      "sourceUnit": "セイバールート十二日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what kind of relationship Illya and Berserker had.\nBut I do know that Servant was special to her.",
+      "sourceUnit": "セイバールート十二日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "That is a surprise, but at the same time it makes me happy.\nI'm happy to know that despite the fact that as Master, Illya was relentless, she still cherished her partner.",
+      "sourceUnit": "セイバールート十二日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, but if Shirou loses, I'll take Saber.\nI won't let anyone other than Shirou win.\nBut if Shirou loses, I'll win on his behalf.\"\nIllya says that proudly, just as she was starting to impress Saber and Tohsaka.",
+      "sourceUnit": "セイバールート十二日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That is ridiculous. I am Shirou's Servant. I have no intention of becoming your Servant.\"",
+      "sourceUnit": "セイバールート十二日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Well, I don't care anyway.\nI just want Shirou to win. Whether I win or Saber protects Shirou, it's all the same to me.\"",
+      "sourceUnit": "セイバールート十二日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nWhat a weird thing to say.\n...Actually, if she wants me to win, why would she think like that anyway?\nAnd then...\nTohsaka must have found it strange too. She starts to think.",
+      "sourceUnit": "セイバールート十二日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I certainly mind! I will not approve, no matter what!\nRin. Please warn Shirou yourself!\"\n\"Eh? I'm sorry, I wasn't listening. Tell him what, Saber?\"\n\"About how we are against sheltering Illyasviel here!\"",
+      "sourceUnit": "セイバールート十二日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that? I guess sheltering her here wouldn't be a terrible idea.\"\n\"Huh...?\"\nSaber freezes.\nI had advocated for this, and even I'm surprised. I don't blame the opposing Saber for being frozen in shock.",
+      "sourceUnit": "セイバールート十二日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"R-Rin!? Have you lost your mind!?\"",
+      "sourceUnit": "セイバールート十二日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No. If I think about this rationally, I see the risks are all the same. It doesn't matter whether we leave Illya alone, give her shelter here, or send her off to the Church.\nIt may even work out in our favor if Masters come here looking for Illya.\"",
+      "sourceUnit": "セイバールート十二日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"With Saber as she is now, she would be hard even for multiple Servants to defeat if they attacked together. That'd be the fastest way to end this Holy Grail War, and that's what you want too, isn't it, Saber?\nBut, if you think you'd lose to other Servants, that's another story.\"",
+      "sourceUnit": "セイバールート十二日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. You understand my condition perfectly. So long as Shirou is my Master, I cannot be defeated.\"",
+      "sourceUnit": "セイバールート十二日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Right? Then us sheltering Illya isn't a problem.\"\nAnd there's something else. Shirou's decision might have actually been a really smart move.\"",
+      "sourceUnit": "セイバールート十二日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka goes quiet.\nShe must have convinced Saber, who reluctantly takes a step back from Illya.",
+      "sourceUnit": "セイバールート十二日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "We finish breakfast then move to the dojo.\nTohsaka goes back to her own room, while Saber follows me.",
+      "sourceUnit": "セイバールート十二日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "As for Illya...\n\"Hey. Are you really going to do some sword training?\"\nShe follows me to the dojo, like we're joined at the hip.",
+      "sourceUnit": "セイバールート十二日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I was looking forward to hanging out with you today, Shirou. But Saber's in the way, it's boring here, and I'm cooold.\"",
+      "sourceUnit": "セイバールート十二日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell, I'm not surprised Illya thinks this is boring.\nWatching someone train isn't what I'd call exciting.",
+      "sourceUnit": "セイバールート十二日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go back to the living room. If you want to get stronger, I'll help you.\"",
+      "sourceUnit": "セイバールート十二日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Illya takes one of my hands in both of hers and tries to tug me away from the dojo.\nBut, at least in this, I can't indulge Illya.",
+      "sourceUnit": "セイバールート十二日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I can't, Illya. I train every day, so I can't miss today. I'm not a proper mage, so I need to work hard to be ready to fight.\nBesides, if I train, I can protect you too, Illya.\nI decided to shelter you here, so I should train to help me do just that.\"",
+      "sourceUnit": "セイバールート十二日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...okay. You may be right.\nBut I really don't need you protecting me. You're my brother, so I just need you to be with me.\"",
+      "sourceUnit": "セイバールート十二日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "It seems I failed to convince her.\nIllya tugs more aggressively at my hand.",
+      "sourceUnit": "セイバールート十二日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Saber watches silently all the while.\nHer eyes burn into the pair of us.\nShe must still not approve of Illya being here, and is being more than a little cold toward her.",
+      "sourceUnit": "セイバールート十二日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "And then our eyes meet.\nGood timing. I'll ask for Saber's opinion.",
+      "sourceUnit": "セイバールート十二日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I said, I can't.\nTell her, Saber. Tell her I train with you every day.\"",
+      "sourceUnit": "セイバールート十二日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"There is nothing for me to say.\nYou are the one who has brought Illyasviel here.\nPersuading her is your duty, not mine.\"",
+      "sourceUnit": "セイバールート十二日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\nI don't know why, but I guess she's really ticked now.",
+      "sourceUnit": "セイバールート十二日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. You know your place well, Saber.\nYou don't need to train. The ones left are all weak, so you don't need to bother with this.\nCome on, Shirou. Let Saber take care of the other Masters, and we can just go play outside.\"",
+      "sourceUnit": "セイバールート十二日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa...hey, slow down.\"\nI lose my balance, and feel myself being tugged toward the dojo's exit.",
+      "sourceUnit": "セイバールート十二日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey! No. Let go, Illya! I'm not going to indulge you this time. I'm not skipping my sword training! I'm going to stick to it.\nSure, you might think it's boring, but I enjoy it. If you're going to complain, then go wait in the living room.\"",
+      "sourceUnit": "セイバールート十二日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I shake her off violently.\n\"Kya!?\"\nShe obviously didn't expect me to fling her away like that.\nIllya backs off, surprised, then looks at me nervously.",
+      "sourceUnit": "セイバールート十二日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nCrap.\nI should have been nicer about it.",
+      "sourceUnit": "セイバールート十二日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Illya. I was too rough with you. But I'm not going to give up my sword training. I'm sorry to leave you alone, but please stay in the living room.\"",
+      "sourceUnit": "セイバールート十二日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIllya sulks away toward the entrance, but stops by the wall.",
+      "sourceUnit": "セイバールート十二日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\n\"Fine. I'll watch here.\nYou won't mind that, right!?\"\nIllya suddenly roars in defiance.\nShe glares our way, pitching a small tantrum.",
+      "sourceUnit": "セイバールート十二日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...well, I don't mind. But it's cold in the dojo, and there's tea and snacks in the living room for you...\"",
+      "sourceUnit": "セイバールート十二日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I made up my mind, so it's fine! Hmph! I'm not going to leave Shirou and Saber alone here!\"\nIllya huffs and turns her nose up.",
+      "sourceUnit": "セイバールート十二日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well... You're more than welcome to go back to the living room if you get bored.\"\nAt least things have settled down.\nI take the two shinai leaning against the wall, and turn to face Saber.",
+      "sourceUnit": "セイバールート十二日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let's begin. It's been three days, so I might be a little rusty... Hey, are you okay, Saber? You look a little dazed. Do you have a fever?\"\n\"Eh? Oh...it is nothing like that...\"\nSaber turns away from Illya, furiously shaking her head.",
+      "sourceUnit": "セイバールート十二日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"So are you all right? Let's begin. Here's your shinai.\"\n\"Uh...please simply throw it to me! You mustn't approach me so haphazardly. W-we are only here to train!\"",
+      "sourceUnit": "セイバールート十二日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what I've been saying. What else would we be doing, Saber?\"\nA little confused, I toss the shinai to her.\nBesides, I've never once landed a strike on Saber.\nI've never even gotten close to being within striking range of her, so Saber telling me not to come close seems odd.",
+      "sourceUnit": "セイバールート十二日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber takes the shinai I toss her a bit awkwardly, then lets out an audible sigh.",
+      "sourceUnit": "セイバールート十二日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let us begin. Things may not be the same as before, but please try to maintain your composure, Shirou.\"\nSaber glances at Illya as she speaks.",
+      "sourceUnit": "セイバールート十二日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be fine. Once we've started, nothing will bother me.\"\nI grip my shinai and focus on Saber.\nShe stands in front of me, shinai in hand.\nNow my attention is fixed only on her.",
+      "sourceUnit": "セイバールート十二日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "We spend two hours training, then go on break, as usual.",
+      "sourceUnit": "セイバールート十二日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ha... This just reminds me how amazing you are, Saber.\"\nI nod approvingly, and gulp some water from the kettle I brought along.\nI quench my thirst and wipe the sweat from my neck with a towel, which helps me to finally relax.",
+      "sourceUnit": "セイバールート十二日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"So that was your training? It seems like it was just Shirou getting beat up.\"\n\"Ugh...\"\nIllya is so blunt about things most people would find awkward.",
+      "sourceUnit": "セイバールート十二日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true, Illya. It may have looked like I'm just getting beat up, but it was actually worse before.\nIn fact, I didn't pass out even once, so I'd say I did pretty well today.\"",
+      "sourceUnit": "セイバールート十二日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? But does that have anything to do with your skills, Shirou? From where I was sitting, it looked like Saber ignored plenty of opportunities to attack you.\"",
+      "sourceUnit": "セイバールート十二日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Illya's expression turns thoughtful.\n...She's sharp.\nI found it odd too, actually.",
+      "sourceUnit": "セイバールート十二日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Either Saber was holding back out of concern for me, or she isn't in top form.\nWhatever the case, Saber didn't go all out.\nWell, she may not always fight seriously while we're training, but she's always been merciless about exploiting openings before.",
+      "sourceUnit": "セイバールート十二日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Today, she lacks drive though.\nNormally, she just rushes in and attacks hard enough to knock me out. But there was none of that today.",
+      "sourceUnit": "セイバールート十二日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so too, Illya? Maybe Saber's given up on me.\"",
+      "sourceUnit": "セイバールート十二日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, I didn't see it that way.\nBut whenever Saber readjusted her grip on the shinai to execute a follow-up blow, she just stopped and stepped back.\nI'm not sure why she did that. It wasn't like she was unwilling to attack, but more like she was scared, or trying to hold back.\"",
+      "sourceUnit": "セイバールート十二日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Saber would never hold back.\nIf she had the compassion for that, she wouldn't have beat me so bad that first day.\"",
+      "sourceUnit": "セイバールート十二日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Yeah. Saber isn't the sort to hold back in training.\nThat's why I was able to focus so completely on her weapon.",
+      "sourceUnit": "セイバールート十二日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's gotten into Saber? This isn't training at all. It seems unbelievable, but...did she go easy on me?\"",
+      "sourceUnit": "セイバールート十二日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I did not go easy on you.\nI was simply imagining myself facing off against a swordsman somewhat more skilled than Shirou, as usual.\"\nSomething's not right.\nSaber has to see it too.",
+      "sourceUnit": "セイバールート十二日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I can't imagine you ever taking it easy on me, and I know you were being serious.\nBut I think you were holding back. If you don't come right at me, this is pointless.\"",
+      "sourceUnit": "セイバールート十二日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Right at you? But that would mean I would be getting too close to Master. Depending on what happens, our bodies might come into contact!\"",
+      "sourceUnit": "セイバールート十二日目-03:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well we're sparring, so I guess we might bump shoulders or something. Besides, you used to slam your whole body into mine to knock me down because you said I wasn't defending myself well enough. And close combat is your specialty, Saber.\"",
+      "sourceUnit": "セイバールート十二日目-03:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? D-did I do that sort of thing?\"",
+      "sourceUnit": "セイバールート十二日目-03:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"That's kind of a weird question, but yeah. Frequently.\nRemember how you just slammed me into the wall when we first sparred?\nI said you were pretty strong for a girl, and you said it was natural for a swordsman.\"",
+      "sourceUnit": "セイバールート十二日目-03:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nSaber stands there, dumbfounded.",
+      "sourceUnit": "セイバールート十二日目-03:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "What's going on?\nSaber is acting really weird today.\nI'd hate to learn she isn't feeling well. I should talk to Tohsaka later.",
+      "sourceUnit": "セイバールート十二日目-03:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "We get back to our training, but it's still different than before.\nBut after just a few strikes, Saber sets down her shinai.",
+      "sourceUnit": "セイバールート十二日目-03:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nIs this a new kind of training?\nShe might strike me straight in the head the moment I drop my guard and get close.",
+      "sourceUnit": "セイバールート十二日目-03:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...hah...ha...ah...\"\nI breathe hard, watching Saber cautiously.\nSaber narrows her eyes, showing that she is serious now, and steps forward.",
+      "sourceUnit": "セイバールート十二日目-03:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, let us have lunch.\"\nThat's...not like her.",
+      "sourceUnit": "セイバールート十二日目-03:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI lower my shinai.\n\"Lunch? Is it that time already?\"",
+      "sourceUnit": "セイバールート十二日目-03:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "According to the clock, it's a bit before noon.\nIt's lunchtime for sure, but this is the first time Saber's been the one to step up and suggest it.\nNeither Saber nor I paid much attention to the time when we trained before.\nWe'd take a break, then notice we were hungry, then we'd check the clock and see that it was about lunchtime.",
+      "sourceUnit": "セイバールート十二日目-03:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm...\"\nIt's a good idea. I could go along with it easily enough.",
+      "sourceUnit": "セイバールート十二日目-03:page84:1"
+    }
+  }
+}

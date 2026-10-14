@@ -1,0 +1,256 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0616",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Speaking of which, I haven't seen Rider all day.\nKnowing her, she's keeping watch over Sakura from the shadows nearby. I should say hi to her if she's around.",
+      "sourceUnit": "桜ルート十一日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Rider's nowhere to be found in the house.\nShe has her own bedroom, but there's no sign she's ever used it.\nI try to think of a location she likes that would also give her a vantage point of Sakura's room,",
+      "sourceUnit": "桜ルート十一日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "and decide it has to be here.\nThe only place she can hide with no one else around, while watching Sakura from a distance, is the shed.",
+      "sourceUnit": "桜ルート十一日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you in here, Rider?\"\nI call out into the empty shed.\n\"I am standing by. What do you need, Shirou?\"\nRider appears along with her aura. She must have been in spirit form.",
+      "sourceUnit": "桜ルート十一日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nNow, then.\nI just came to say hello, but now that we're face to face, I'm getting nervous.\nRider tends to keep people at a distance...and that doesn't particularly bother me, but as a healthy young man, I'm not sure where to point my eyes when I'm around her.",
+      "sourceUnit": "桜ルート十一日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I asked you if you had business with me.\"\n\"Oh, uh, I'm not really here for that. I haven't greeted you today, so I just thought I'd come say good morning.\"",
+      "sourceUnit": "桜ルート十一日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. You must be very idle.\"\nShe replies bluntly.\nBut I expected this much. It's actually easier for me that she's this way.",
+      "sourceUnit": "桜ルート十一日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I'm free. I'm just wandering around since I have nothing to do. Is this where you stand guard over Sakura?\"\n\"Yes. I am her Servant.\nI will not protect you or Rin Tohsaka unless she orders me to.\"",
+      "sourceUnit": "桜ルート十一日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? Good, that makes me feel better.\"\nI sigh in relief.\nI was worried that Sakura might be pushing herself too hard.",
+      "sourceUnit": "桜ルート十一日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks, Rider. Keep taking care of Sakura.\"\nI wave and leave the shed.\n\"...Wait. I have a question.\"\n\"Hm?\"\nI stop before I return to the yard.",
+      "sourceUnit": "桜ルート十一日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"What? There isn't a lot I can tell you.\"\n\"It is a question about you, so I'm sure you can answer.\nShirou Emiya. I do not understand your behavior.\nWhy are you relieved that I refuse to protect you?\"",
+      "sourceUnit": "桜ルート十一日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Is that all?\nSure, having you be my bodyguard would bring some peace of mind, but I think a man should protect himself.\nAs for Tohsaka...well, whatever happens, I'm sure she'll figure things out.\"\n\"...You think you can protect yourself, with that body? That just sounds like bluffing to me.\"",
+      "sourceUnit": "桜ルート十一日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"It is a bluff. I'm weak in a fight, so bluffing's all I have.\n...If I'm being honest, I'm pretty nervous. But I want you to stay the way you are. If you move, that'll exhaust Sakura, and I don't want her to use any more magical energy.\"",
+      "sourceUnit": "桜ルート十一日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. It is true that Sakura would suffer if I were to act.\nEven taking material form places a burden on her, so you don't want to increase my workload unnecessarily.\"",
+      "sourceUnit": "桜ルート十一日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. I want you to only protect Sakura.\nThough, I might ask you to look after Illya too, if I kick the bucket.\"\n\"How self-serving. You would ask me for help in your most trying time, even though you know I'm an obstacle?\"",
+      "sourceUnit": "桜ルート十一日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, yeah...is that bad?\"\n...\nRider doesn't answer.\nShe's staring straight at me through her blindfold.",
+      "sourceUnit": "桜ルート十一日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, then I'll make you a deal. If you're ever in a pinch, I promise to help you. Will you help Illya then? It's give and take.\"",
+      "sourceUnit": "桜ルート十一日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot answer that. It's likely that if I were ever in dire straits, you would already be dead. Your proposal is not very tempting.\"",
+      "sourceUnit": "桜ルート十一日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah. Yeah, I guess it wouldn't matter much if I was dead by the time you're in trouble. Sorry, that was pretty self-serving of me.\"",
+      "sourceUnit": "桜ルート十一日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...I'm in a bind, then.\nIn that case, it would be best if I took Illya to a safer location.\nShe doesn't want to go to the church, and I'd rather not leave her alone in her castle...",
+      "sourceUnit": "桜ルート十一日目-02:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Honestly, you are so unreliable.\"\n\"Huh? Did you say something, Rider?\"\n\"Yes. I will consider your offer. If you save me from a desperate situation, then I promise to honor your wishes. Is that acceptable, Shirou?\"",
+      "sourceUnit": "桜ルート十一日目-02:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... R-really!? But you said I was being selfish!\"\n\"We can serve our mutual interests. But only if you help me, first.\"",
+      "sourceUnit": "桜ルート十一日目-02:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy eyes widen.\n...I'm happy that Rider took me up on my offer, but more than that...",
+      "sourceUnit": "桜ルート十一日目-02:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider, did you just laugh?\"\n\"No. There was nothing to be happy about, so there's no reason I would have smiled.\"\n\"But I saw you laugh, good reason or not. It was a really subtle change, so I almost missed it.\"",
+      "sourceUnit": "桜ルート十一日目-02:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"That's impossible. I'm saying it didn't happen, so you must have misunderstood.\"\nRider flatly denies it.\nHmm. If she's that insistent, maybe I really was imagining it.",
+      "sourceUnit": "桜ルート十一日目-02:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nMrgh. This is an awkward silence.\nI was planning to just go back to the house, but there's something about the way Rider is looking at me that seems to pull me in.\nShe's as cool and stoic as ever, but I feel like she wants to say something else.",
+      "sourceUnit": "桜ルート十一日目-02:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nThe tension in the air feels nearly confrontational.",
+      "sourceUnit": "桜ルート十一日目-02:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Also...\nThis thought just came out of nowhere, but Rider's tall.\nHer hair is long, and her legs are slender and well-proportioned.\nI've only ever seen her face once, but she was incredibly beautiful under her mask.\nTohsaka and Sakura are beautiful too, but Rider's on a different scale entirely.",
+      "sourceUnit": "桜ルート十一日目-02:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you have a question, Shirou?\"\n\"Huh? It's no big deal, but can I ask you something?\"\n\"I do not mind. What is it?\"\n\"Okay. You're pretty tall, Rider. How tall, exactly?\"\nI ask her frankly.",
+      "sourceUnit": "桜ルート十一日目-02:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...Wait.\nWhy is she backing away from me?",
+      "sourceUnit": "桜ルート十一日目-02:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider?\"\n\"N-no, there's no reason for this. Think nothing of it.\"\n\"...Okay. So how tall are you? If you're taller than me, you have to be more than 170 centimeters.\"\n\"I...I cannot answer your question. Please ask me something else.\"",
+      "sourceUnit": "桜ルート十一日目-02:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"You can't answer...? You don't know how tall you are?\"\n\"That's not what I meant... Ask me something else, Shirou. If you repeat that again, it will upset me.\"",
+      "sourceUnit": "桜ルート十一日目-02:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nI'm clearly making her uncomfortable.\nIf she's this anxious, then maybe...",
+      "sourceUnit": "桜ルート十一日目-02:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider, are you insecure about your height?\"\n...\nRider stiffens.\nI appear to have hit the nail on the head.",
+      "sourceUnit": "桜ルート十一日目-02:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nWe both fall silent again.\nThen, when it becomes too much for Rider to bear...",
+      "sourceUnit": "桜ルート十一日目-02:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I-is that so strange of me?\"\n\"Huh? It isn't strange. I just wasn't sure why you froze up. Why do you care so much about your height?\"",
+      "sourceUnit": "桜ルート十一日目-02:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...I think the reason is evident enough. Surely, you must feel the same way. A tall woman like me is ugly and not lovely at—\"\n\"Why not? I think you look cool, Rider.\"\nTalk about a trivial insecurity.\nI sure wish I could be that tall.",
+      "sourceUnit": "桜ルート十一日目-02:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nAnother silence.\nI'm starting to wonder if I'm interfering with Rider's guard duty.",
+      "sourceUnit": "桜ルート十一日目-02:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Um. Am I bothering you, Rider?\"\n\"Well, I was hiding to be on guard against any attack by Zouken. If you come speak to me, then it defeats the purpose of concealing myself.\"\n\"Right. I should be getting back. Sorry for bothering you.\"\n\"Ah... W-wait, Shirou.\"",
+      "sourceUnit": "桜ルート十一日目-02:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "For the second time, I stop and turn around.\nRider hesitates and bites her lip.",
+      "sourceUnit": "桜ルート十一日目-02:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...If you are free at the moment, then please look in on Sakura. Her mood changes greatly when you're not around.\"\n\"Oh...okay, I'll go right now. She does tend to push herself as soon as I take my eyes off her. I'll make sure she's resting.\"",
+      "sourceUnit": "桜ルート十一日目-02:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Rider's right.\nThe guesthouse is just over there, so I should go look after Sakura.",
+      "sourceUnit": "桜ルート十一日目-02:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. I forgot the reason I came out here to begin with.\"\nI turn back to Rider for the third time.",
+      "sourceUnit": "桜ルート十一日目-02:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what, Shirou?\"\n\"Good morning, Rider. I hadn't actually said it yet.\"\nGood, good.\nI'm so dumb for forgetting what I came here to say.",
+      "sourceUnit": "桜ルート十一日目-02:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"...Good morning, Shirou. Allow me to make a remark as well.\"\nRider goes back to her usual attitude, watching me.",
+      "sourceUnit": "桜ルート十一日目-02:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What?\"\n\"You waste time on trivial matters. It is too late to say 'good morning.' We are in the afternoon now.\"",
+      "sourceUnit": "桜ルート十一日目-02:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof, that's embarrassing. To be honest, I forgot about you until just earlier.\"\n\"It seems so. Take greater care in the future.\nAlso, please disregard what I said earlier.\"\n\"Huh? What do you mean?\"\n\"About how you must think me a nuisance. Allow me to amend that statement.\"",
+      "sourceUnit": "桜ルート十一日目-02:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't think you're a nuisance at all, Rider.\"\n\"Yes, I know that now. After all, you came here solely to greet me, and for no other purpose.\"",
+      "sourceUnit": "桜ルート十一日目-02:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Turns out I didn't imagine it.\nNow that I'm face to face with Rider, I can see that she's wearing a happy smile.",
+      "sourceUnit": "桜ルート十一日目-02:page48:1"
+    },
+    "page49": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

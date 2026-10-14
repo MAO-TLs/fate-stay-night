@@ -1,0 +1,76 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0275",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "So...\nThis is the Tohsaka household's living room, where Rin Tohsaka spends her daily life.",
+      "sourceUnit": "凛ルート五日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Show me your arm.\"\nShe gets straight to the point.\n\"...Thanks.\"\nI sit on the chair and put my right arm out.",
+      "sourceUnit": "凛ルート五日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "She takes off the towel that was wrapped around it.\n...It feels like she's even closer now than before.\nWith Tohsaka tending to my arm right in front of me, I can't help but notice how beautiful her black hair is, and it makes my heart beat faster.",
+      "sourceUnit": "凛ルート五日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? That's weird, the wound is smaller than earlier. Did you put some self-healing spell on yourself?\"\n\"Huh? No, I-I definitely didn't!\"\n\"Really? But take a look at it, your wound is already pretty much healed.\"\n\"I didn't say anything about it being pretty— wait, what did you just say?\"",
+      "sourceUnit": "凛ルート五日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I said your wound is pretty much healed. All I did was stop the bleeding, so it shouldn't be like this at all.\"",
+      "sourceUnit": "凛ルート五日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm... But I don't know anything about this.\"\n\"...You sure? There was something like this before, but you really don't have a clue?\"",
+      "sourceUnit": "凛ルート五日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, I'm even more confused. Something like this happened before? When?\"",
+      "sourceUnit": "凛ルート五日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"It was the other day.\nWhen Berserker attacked, a piece of glass pierced your back, right?\nAfter that, your wound healed without me having to do anything.\n...Well, I thought it might be your own magecraft, but you're not that skilled.\"",
+      "sourceUnit": "凛ルート五日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, yeah, sorry I'm not up to your standards... But what does this mean? I've never had such a thing happen to me before.\"",
+      "sourceUnit": "凛ルート五日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm. The only thing I can think of is the contract you made with Saber. I don't know what kind of contract you formed, but there's some Servants that make their contractor immortal.\nSaber's healing powers might be flowing inside of you, too.\"",
+      "sourceUnit": "凛ルート五日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Then, as long as I'm in a contract with Saber, then even if I get hurt, I would be fine?\"",
+      "sourceUnit": "凛ルート五日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, that's what it would mean, but... You shouldn't rely on it. Saber is the one healing your wounds, so that would mean you're consuming her magical energy.\nAnd more to the point, it's a power to heal wounds. It doesn't bring you back to life. If you die, you don't get another chance, so don't do such a reckless thing again.\"",
+      "sourceUnit": "凛ルート五日目-15:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page13": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0122",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nShe might actually force me to make an apple pie.\nDinner is pretty much ready, so I'll step away for a bit.",
+      "sourceUnit": "セイバールート七日目-24:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Shirou, where are you going with your apron on?\"\n\"I'm just going to head out front. Tohsaka isn't home yet, so I figured I'd go out and check.\"",
+      "sourceUnit": "セイバールート七日目-24:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, how thoughtful of you, Shirou. Yeah, Tohsaka is a girl, and she'll probably be happy to have you greeting her.\"\nI don't know what she's so happy about, but she sees me off cheerfully.",
+      "sourceUnit": "セイバールート七日目-24:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nDarn.\nNow I really have to go outside, or it'll be awkward.",
+      "sourceUnit": "セイバールート七日目-24:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I guess I'll take a quick look.\"\nI take off my apron and head toward the front entrance.\n...But then.\nI hear a door creak, and the door to the bathroom swings open.",
+      "sourceUnit": "セイバールート七日目-24:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Are you not preparing dinner?\"\n\"...\n...\"\nThere's a brief silence.\nI know who I'm looking at, but I can't seem to find my tongue to speak.",
+      "sourceUnit": "セイバールート七日目-24:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Why do you look so astonished? I hope nothing has gone amiss with the preparations for dinner?\"\n\"...N-no.\"\nI somehow manage to get a reply out, but I know I sound completely stunned.",
+      "sourceUnit": "セイバールート七日目-24:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nShe tilts her head in confusion.\nHer hair waves about her shoulders.\nThat golden mane is wet, so it looks different than usual.\nAnd her hair isn't the only thing that's different.\nSaber certainly looks her age right now, and anyone can see how cute and frail she is.",
+      "sourceUnit": "セイバールート七日目-24:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So you were taking a bath, Saber.\"\n\"You were the one who suggested I do so.\"\n\"Oh right. Do you...like to take baths, Saber?\"\n\"Yes. I discovered this when I became a Servant. In life, I was prevented from taking baths by the prying eyes all around me.\"",
+      "sourceUnit": "セイバールート七日目-24:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Saber has an almost girlish expression on her face.\nIt must be because her hair isn't done up in braids.\nHer gallant, boyish form is nowhere to be found.",
+      "sourceUnit": "セイバールート七日目-24:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"If you are going to wash yourself, please go ahead. It is going to be cold tonight, so the warm water will feel very good.\"\nSaber and I part ways, and she heads to the living room.",
+      "sourceUnit": "セイバールート七日目-24:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm at a loss for words.\nI knew Saber was a girl, of course.\nBut still...she looks good wielding her sword, and I've accepted that.",
+      "sourceUnit": "セイバールート七日目-24:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "That much, I'd accepted. But what I just saw isn't fair to my faint heart.\nYesterday, I accidentally saw Saber bathing.\nI didn't think it was real, since I was so surprised at the time. But today is different...",
+      "sourceUnit": "セイバールート七日目-24:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...She really is a girl.\"\nI bang the back of my head against the wall.\nI don't know what to do, so I just end up staring at the ceiling.",
+      "sourceUnit": "セイバールート七日目-24:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"This isn't good. This is really bad.\"\nMuttering to myself, I lean back against the wall.\nThe cold hallway clears my mind and I find myself gradually returning to normal.",
+      "sourceUnit": "セイバールート七日目-24:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Afterward...\nI still don't know what was wrong and what was bad... I'm completely lost.",
+      "sourceUnit": "セイバールート七日目-24:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

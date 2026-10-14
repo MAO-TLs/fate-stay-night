@@ -1,0 +1,52 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0176",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Kiritsugu always told me to protect girls, and I don't like seeing kids suffer.",
+      "sourceUnit": "セイバールート十二日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... Well, I think Illya should stay here.\nThe Holy Grail War isn't over. I want to shelter Illya until the last of the Masters are taken care of.\"",
+      "sourceUnit": "セイバールート十二日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep! If Shirou says so, I'll stay here!\"\n\"Hey! Illya, you're choking me! I can't breathe!\"",
+      "sourceUnit": "セイバールート十二日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I intend to pry off Illya from me, but before I get a chance, Saber steps over and does it for me.",
+      "sourceUnit": "セイバールート十二日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What's with you? You've been getting in my way this whole time. Do you have some sort of problem with me?\"",
+      "sourceUnit": "セイバールート十二日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do! I will never forget what you did to Shirou! And you, Shirou! Do you still not understand that nothing good will come of sheltering Illyasviel!?\"",
+      "sourceUnit": "セイバールート十二日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmh. What about it? Illya doesn't have a Servant anymore, so she's not dangerous. She's no longer a Master.\nBesides, how would you feel if she got attacked after we abandoned her? Illya's life would be in danger, and the other Masters might gain power from her.\"",
+      "sourceUnit": "セイバールート十二日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...yes, that might be true, but...\"\nSaber hesitates.\nNo matter what she says, Saber understands that another Master might attack Illya if we leave her alone.",
+      "sourceUnit": "セイバールート十二日目-01:page7:1",
+      "recoveredDelimitedTail": true
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

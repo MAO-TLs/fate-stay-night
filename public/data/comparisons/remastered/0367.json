@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0367",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"It's useless. With so little power, you cannot get away from me no matter what you do.\"\nCaster's voice echoes.\nWhere am I...? Wait, what happened to my vision...!?",
+      "sourceUnit": "凛ルート十二日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, Caster...!\"\nI swing around my bamboo sword in a world without any direction.\nI don't feel it hitting anything, and I don't hear the sound of it cutting the air. I just use up my energy and worsen my wound.",
+      "sourceUnit": "凛ルート十二日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not worry, I won't kill you. You are valuable since you are rare. I shall prune you suitably and use you as a wand for Projection.\"\n\"Agh... Gah...\"\nMy internal organs writhe.\nMy body doesn't move one bit, but my insides rotate like the inside of a dryer.\n\"...I am surprised. Your body has not given up even though I got ahold of your mind... Hehe, I like you even better now, boy. Saber will soon be mine, so I shall treat you importantly like I did her.\"\n\"Khh, hrrk...\"\nI was able to stop the rotation that made me want to throw up all my organs.\nThe purple mage reaches out with her finger, stained with someone else's blood.\n\"I let that man go, but I won't let you go.\nNow... I will let you see your beloved princess soon.\"\nMy vision is cut off.\nI don't feel my limbs, and the only certain thing is the pain in my shoulder.\nBut that ends quickly as well.",
+      "sourceUnit": "凛ルート十二日目-11:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

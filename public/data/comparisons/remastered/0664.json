@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0664",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"ZOUKEN!!!\"\nI'll settle this once and for all.\nZouken should be somewhere in this house. I'll find him and kill him...!",
+      "sourceUnit": "桜ルート十四日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shit! Where are you, old bastard!?\"\nHe's nowhere to be found in the house.\nHis presence slips away with each passing minute.\n\"Ho ho. Your blood is running so high that you can't even make a sound decision.\nI thought you a more clever sort.\"\nHis laugh fades away.",
+      "sourceUnit": "桜ルート十四日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... hah, hah, haah...!\"\n...Zouken isn't here.\nHe was never in the building to begin with.\nHe's an insect-user, so there's nothing here except for his bug familiars...!",
+      "sourceUnit": "桜ルート十四日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you satisfied? Now go home, Shirou Emiya.\nSoon, Sakura will consume Illyasviel. You'd better hurry back, or you won't get to witness the birth of the monster you reared.\"\n\"You old fucker!!!\"",
+      "sourceUnit": "桜ルート十四日目-05:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

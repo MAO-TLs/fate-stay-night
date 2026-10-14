@@ -1,0 +1,532 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0723",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The morning is near.\nMy eyes are still closed and I'm still only half awake, but I sense that the night has ended.",
+      "sourceUnit": "凛エピローグ:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The only thing left is this comfortable listlessness.\nMy hands are so tired that they can't grip a sword, and my body doesn't have an ounce of magical energy left.\nTo be honest, I am burned out.",
+      "sourceUnit": "凛エピローグ:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh.\"\nBut, it's not a regretful end.\nI have a feeling of accomplishment, as I have done everything that I can do.\nI'm only burned out now.\nMy rested body is starting to return to its regular pulse and is ready to welcome another morning.",
+      "sourceUnit": "凛エピローグ:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy mind starts to become clear.\nMy once-gray mind sways drowsily. I should wake up in a moment.\nRight before that...\nI recall him for the last time.",
+      "sourceUnit": "凛エピローグ:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "His fluttering cloak is no more.\nThat man left, along with that ever-burning sky.\nHe did not turn back nor explain anything.\nHe just leaves behind his back that he is not ashamed of.",
+      "sourceUnit": "凛エピローグ:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I follow that path with my eyes.\nOne end.\nI reach my hand out to the man that went after the same ideal and path.\nAs I have beaten him, I will not run away.\nI grip my empty fist tightly, as if to tell him that I'll reach him some day...",
+      "sourceUnit": "凛エピローグ:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... Mm.\"\nI wake up with the morning sunlight.\nMy body feels slightly heavy and is covered in wounds.",
+      "sourceUnit": "凛エピローグ:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? This is my room.\"\nI look around the room blankly and look at the clock.\nIt's 10 AM, and the date is February 16th.\n\"Whoa. It's been a whole day.\"\nI'm surprised, but my mind is objectively calm.",
+      "sourceUnit": "凛エピローグ:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "After the battle at Ryudou Temple…\nI must've been carried here after I passed out and slept the whole day.",
+      "sourceUnit": "凛エピローグ:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...But it's too quiet. Tohsaka... must have gone home already.\nHey, Saber. Are you awa—\"\nI stop before I finish.\n\"...\"\nThere's no way she's awake.\nNo, first of all, there's no way she's here.",
+      "sourceUnit": "凛エピローグ:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail doesn't exist anymore.\nThe thing that can keep Servants in this world is now gone.\nTherefore... That blonde girl is no longer in this world anymore.",
+      "sourceUnit": "凛エピローグ:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... That's right.\"\nI cover both of my eyes with my hands and look up at the ceiling, as if to endure something.\nThe room is dead silent.\nThe winter morning is cold, and the air that I breathe in tightens my lungs.\n...The time seemed both long and short.\nThe events that happened within these two weeks, and the traces she left in this room pass by me.",
+      "sourceUnit": "凛エピローグ:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...We shall talk afterwards.\"",
+      "sourceUnit": "凛エピローグ:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Her saying that and running off was the last I saw of her.\nHer retreating figure.\nWe knew that we would not meet again,\ntouch each other again,\nor return with the three of us again.\nKnowing there was nothing that could be done, we didn't exchange words of farewell.",
+      "sourceUnit": "凛エピローグ:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... I'm hungry.\"\nI stand up.\nThe joints of my body hurt when I move, and I realize that fight wasn't a dream.",
+      "sourceUnit": "凛エピローグ:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof, it's cold.\"\nThe hallway is freezing.\nThe hallway creaks as I quickly make my way towards the living room.",
+      "sourceUnit": "凛エピローグ:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well...\"\nI get to the kitchen and put my apron on.\nI put the frying pan over fire, cut two slices of bread, and take out some eggs that are about to expire.\n\"Hup.\"\nI toast the bread and crack open the eggs on the pan.\nI hear the sweet sound of oil popping, as I prepare some plates and make two nice sunny-side up eggs.",
+      "sourceUnit": "凛エピローグ:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, perfect.\"\nI put the eggs on some white plates and put the toast in the basket.\nI turn to the living room from the kitchen and...\n\"...Oh.\"\nI realize that there's no one else in the living room.",
+      "sourceUnit": "凛エピローグ:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI take a deep sigh.\nThe girl that was waiting for breakfast in the living room every morning isn't here anymore.\nReality finally hits me.\n...The war has ended.\nThe battle over the Holy Grail has come to an end.\nHow dumb of me to finally realize that now... by experiencing a morning without her.",
+      "sourceUnit": "凛エピローグ:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...I made too much.\"\nI put the frying pan down.\nMy appetite is gone, even though I was hungry.\nI take my apron off and go past the living room.\nIt's nice outside.\nI felt like seeing the dojo where I first talked to her, so I leave behind the breakfast that I made too much of.",
+      "sourceUnit": "凛エピローグ:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I step inside the empty dojo.\nThe faint sunlight illuminates the wooden floor.\nThere...",
+      "sourceUnit": "凛エピローグ:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "An unmistakable figure sits there in a dignified manner.",
+      "sourceUnit": "凛エピローグ:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nMy eyes widen.\nDid I time travel back to two weeks ago or something...!?\n\"...Shirou? Are you awake?\"",
+      "sourceUnit": "凛エピローグ:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"It seems like you are fine now.\nI thought that you would wake up soon since your wounds were small.\"",
+      "sourceUnit": "凛エピローグ:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? What is wrong? Your mouth has been open for a while.\n...Do you have a wound that is not apparent?\"",
+      "sourceUnit": "凛エピローグ:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... Oh, no, that's not it, but...\"\nMy confusion is dealing more damage than a fatal wound, and it's taking me a lot of time to recover.",
+      "sourceUnit": "凛エピローグ:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Saber.\"\n\"Yes. What is it, Shirou?\"\n\"Oh... Yeah. You're Saber right, Saber?\"",
+      "sourceUnit": "凛エピローグ:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"It's as you can see...Or do I look like Archer or Lancer to you?\"\n\"...Of course not. You don't look like anyone else at all.\"\nI shake my head.\n\"Yes, of course. You are covered with wounds, but you are Shirou like always.\"",
+      "sourceUnit": "凛エピローグ:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat finally calms my panicked mind down.\nWell, it's more like my train of thought stopped as I was admiring Saber.",
+      "sourceUnit": "凛エピローグ:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. You're really Saber?\"\n\"That is what I am telling you. Hm... Is there something wrong with your eyes, Shirou?\"",
+      "sourceUnit": "凛エピローグ:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nSaber reaches out to me.\nShe feels for my eyelids, and she definitely seems real.\nHer pale fingers gently touch my eyelids, then pull away.",
+      "sourceUnit": "凛エピローグ:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThere is no doubt about it now.\nSaber is Saber.\nShe's still here as always even though the Holy Grail is gone.",
+      "sourceUnit": "凛エピローグ:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI sigh.\nI let out the air in my chest, and...\n\"...Morning, Saber. I'm glad to be able to see you again.\"\nI tell her the first thing that pops into my head.",
+      "sourceUnit": "凛エピローグ:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Shirou. I am also glad to be able to greet you again.\"\nShe smiles radiantly.\nShe shows no worry that she will disappear soon.",
+      "sourceUnit": "凛エピローグ:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But Saber, how are you still here? Um, the Holy Grail doesn't exist anymore, right?\"\nThen...\nI stop myself from saying that Servants can't stay in this world.",
+      "sourceUnit": "凛エピローグ:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...?\"\n\"Shirou. Please ask Rin about this matter. She has been waiting for you to notice her.\"\n\"Huh?\"\nHearing this, I turn around.",
+      "sourceUnit": "凛エピローグ:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\n\"What a response. You're all kind to Saber, but all I get is 'oh'?\"",
+      "sourceUnit": "凛エピローグ:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka. You were here?\"\n\"I was! I was taking position here since you didn't wake up after that!\"\nShe glares at me, as if to ask, \"Is there a problem!?\"",
+      "sourceUnit": "凛エピローグ:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... You mean you were staying at my place!?\"",
+      "sourceUnit": "凛エピローグ:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I had to treat your wounds, and I had to explain to Ms. Fujimura and Sakura. I can't leave you and go home by myself.\"\n\"Oh... I see, that's true... Sorry, Tohsaka. I caused you trouble again.\"",
+      "sourceUnit": "凛エピローグ:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...You don't have to thank me. You're not causing me trouble, and besides, you were the biggest contributor to our victory. Just accept it as a reward. We'll cut you some slack today.\"",
+      "sourceUnit": "凛エピローグ:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "She says, looking away.\nThat was so like her that it makes me relieved.\nJust like Saber and I were safe, Tohsaka also got through the war safe.",
+      "sourceUnit": "凛エピローグ:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Thank you for everything, Tohsaka.\nA lot happened, but we made it back.\"\nI extend my hand to express my gratitude and accomplishment.",
+      "sourceUnit": "凛エピローグ:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, you're right. We didn't lose anyone, so it was a complete victory. I guess 'congratulations' is the appropriate word to close things off.\"\nShe shakes my hand, smiling.",
+      "sourceUnit": "凛エピローグ:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka's hand that I held is soft, and it troubles me as it reminds me of that night.\nBut even while blushing, we still confirm each other's existence in each other's hands.",
+      "sourceUnit": "凛エピローグ:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...So. That's fine, but Tohsaka. What did you do to Saber?\"",
+      "sourceUnit": "凛エピローグ:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? I didn't do anything to her. We just continued our contract, so she's still my familiar. Saber is the strongest familiar, so I can't let her go that easily.\"\nTohsaka casually replies.\nBut, it's not that simple.",
+      "sourceUnit": "凛エピローグ:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Saber became a Servant in exchange for the Holy Grail. She should be free now that her reward's gone.\"",
+      "sourceUnit": "凛エピローグ:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Did you hear that, Saber? Shirou is saying you should go back already.\"\n\"Mrgh.\"",
+      "sourceUnit": "凛エピローグ:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—N-no...! Of course not!\nWhat I'm trying to say is that there's no use in keeping Saber as a familiar—\"",
+      "sourceUnit": "凛エピローグ:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"There is. Saber can't stay in this world unless she has a contract with a mage now that the Holy Grail is gone. So having her become my familiar is the best way, right?\"",
+      "sourceUnit": "凛エピローグ:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"First of all, I'm giving Saber most of my magical energy, so she has to at least do that much in return. The fundamental rule of magecraft is an equivalent exchange.\nMm, or what? Are you not happy that Saber stayed?\"",
+      "sourceUnit": "凛エピローグ:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Idio—Of course I'm happy...!\nBut, isn't it wrong that Saber is still a Servant?\nBesides... Are you able to keep Saber in this world even without the Holy Grail?\"",
+      "sourceUnit": "凛エピローグ:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...Yes, that's the biggest problem.\nIt's beyond human capabilities to make a Heroic Spirit into a familiar.\nEven if Tohsaka is a genius mage, it's not possible to support Saber.",
+      "sourceUnit": "凛エピローグ:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...So there's only one way.\nFamiliars that cannot be supported with magical energy from their contractor have to get magical energy from elsewhere.\nShe'd have to become a vengeful spirit like Rider and survive by eating the souls of the people in town...",
+      "sourceUnit": "凛エピローグ:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. I don't know what you're thinking with that gloomy face, but hear me out.\nLook, it is difficult to maintain Saber just by myself. But, we have one more mage here. If the two of us cooperate, we should be able to keep Saber in this world.\"",
+      "sourceUnit": "凛エピローグ:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... You mean me!?\"\n\"Of course. Who else is there?\"",
+      "sourceUnit": "凛エピローグ:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Well... I'm glad you're counting on me, but that's troubling. I don't know how to make a contract with a familiar, and I can't do anything that skillful.\"",
+      "sourceUnit": "凛エピローグ:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I already took that into consideration.\nI'll supply magical energy to Saber by myself, so you just have to support me. It won't be as much as Saber, but I'll be at an inconvenience as well.\"",
+      "sourceUnit": "凛エピローグ:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what she's angry about, but Tohsaka explains while turning away from me.\nPutting her attitude aside...\n\"...Hm? What do you mean by 'support'?\"\nI address the biggest question I have.",
+      "sourceUnit": "凛エピローグ:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, a lot of things. It's not like I have to say each one out loud, right?\"\n\"Huh? I'm sorry, Tohsaka, but I don't get it just by 'a lot of things.' Don't be lazy and explain it to me properly.\"",
+      "sourceUnit": "凛エピローグ:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"I-it's just stuff, okay!? Come on, you should know what I mean, idiot!!!\"",
+      "sourceUnit": "凛エピローグ:page61:1"
+    },
+    "page62": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Humph. Anyways, I can keep Saber in this world as my familiar.\nYou want Saber to stay here, right?\nThen, you shouldn't have any complaints.\"",
+      "sourceUnit": "凛エピローグ:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nWell, if Saber can stay, then that's more than I can ask for.\nBut, that's only if Saber consents to it.\nIt's wrong to keep Saber in this world if she has no business here anymore.",
+      "sourceUnit": "凛エピローグ:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Do you have something against me staying here?\"\nSaber must've sensed my doubt, as she quietly asks.",
+      "sourceUnit": "凛エピローグ:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...I have no objections.\nI don't want to object, but this is something I have to ask.",
+      "sourceUnit": "凛エピローグ:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. There is no Holy Grail in this town anymore. Your wish won't be granted even if you stay here.\n...Are you fine with that...?\"",
+      "sourceUnit": "凛エピローグ:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I am staying in this age out of my own will.\n...I would like to watch over you until the very end.\nHe said that I am wrong for that... Please tell me the answer to that someday.\"",
+      "sourceUnit": "凛エピローグ:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "Her voice is calm, but I feel a strong will from it.\nIt's the same as that night.\nIt's the same pure voice that told me of our contract when I first met her.",
+      "sourceUnit": "凛エピローグ:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\n\"Yes. It may be troubling for you, but please forgive me.\nAs compensation, I shall help you just as I have up to now.\"",
+      "sourceUnit": "凛エピローグ:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "I stare back at her.\n...I don't know if I can meet her expectations.\nBut I'm sure I won't stray from my path if she watches over me, no matter what awaits me in the future...",
+      "sourceUnit": "凛エピローグ:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, all right!\nIt's fine to stare at each other, but we're not getting anywhere like that!\"",
+      "sourceUnit": "凛エピローグ:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka...!? W-w-why the loud voice? You scared me.\"",
+      "sourceUnit": "凛エピローグ:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"...Humph. It's because you two are flirting.\nListen up. Let's get back on topic.\nSaber will form a contract with me, and Shirou will cooperate. It's an ex post facto approval, but are you two all right with that?\"",
+      "sourceUnit": "凛エピローグ:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I have no complaints if Saber consents to it.\nBut what do you mean by cooperate? I still don't know what I'm supposed to do, so I'm a bit reluctant to agree.\"\nI ask, hoping that Saber would agree.",
+      "sourceUnit": "凛エピローグ:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It would be difficult for Shirou to make a promise he does not know much about.\nRin, what do you mean by having Shirou support you?\"",
+      "sourceUnit": "凛エピローグ:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Saber questions, and Rin retreats, as if defeated.\nGood, good.\nEven Tohsaka would have to give up if a third party gives an objective opinion.",
+      "sourceUnit": "凛エピローグ:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on. Saber's saying so too, so give me a clear explanation.\"\nI pursue her, as my chance of victory.\nHowever...",
+      "sourceUnit": "凛エピローグ:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Geez, just be quiet!\nSaber is mine, and you're mine too, so no arguing back to me!\nFamiliars should listen to their Master without talking back!!!\"",
+      "sourceUnit": "凛エピローグ:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is displaying her outrageous dictatorship.",
+      "sourceUnit": "凛エピローグ:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, hold on. I'm not yours.\"",
+      "sourceUnit": "凛エピローグ:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"What, Shirou, you made a contract with me!\nYou're like a familiar from the moment you pulled magical energy from me, so I'm allowed to say this much...!\"",
+      "sourceUnit": "凛エピローグ:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Oof.\"\nI recall that night, being pressured with a threatening attitude, and freeze up.\n...And I can tell that Tohsaka herself...\n\"Crap, I'm saying such a ridiculous thing...!\"\n...is also regretting it, and I strangely kind of feel bad.\n\"...Well, I did manage to survive using your magical energy, and it's true that I made a contract with you, so I guess that's one way to put it...\"",
+      "sourceUnit": "凛エピローグ:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh. It is true!\nAnyway, that's it. Our cooperation is still ongoing.\"",
+      "sourceUnit": "凛エピローグ:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...By the way, I don't want an amateur as an ally, so I'm going to have you become a proper mage.\nI'll teach you magecraft, and Saber's going to teach you how to fight. We're going to be hard on you, so brace yourself.\"",
+      "sourceUnit": "凛エピローグ:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm taken aback from the sudden proposal.\nThat's dependable, but that means, um...",
+      "sourceUnit": "凛エピローグ:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, are you going to become my magecraft mentor...?\"",
+      "sourceUnit": "凛エピローグ:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"It can't be helped, right? There's no other suitable person.\nA-and you're mine, so I can't let someone else do it.\"",
+      "sourceUnit": "凛エピローグ:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nThat's unfair.\nShe's going to make me blush if she says that with a flushed face.",
+      "sourceUnit": "凛エピローグ:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nWe're both blushing and become stiff, unsure what to say.",
+      "sourceUnit": "凛エピローグ:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\n...I need more training.\nI can't speak because I'm too conscious of her.",
+      "sourceUnit": "凛エピローグ:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "And right before Tohsaka is about to go on a rampage from too much tension.",
+      "sourceUnit": "凛エピローグ:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. If we are done talking, why don't we have breakfast?\"\nSaber comes to the rescue.",
+      "sourceUnit": "凛エピローグ:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you're right. I'm getting hungry too. You haven't eaten breakfast yet, right, Shirou?\"\nTohsaka is acting awkward.",
+      "sourceUnit": "凛エピローグ:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no. I prepared breakfast as soon as I woke up, but I came here before eating, so I haven't eaten yet.\"\nI also answer awkwardly.",
+      "sourceUnit": "凛エピローグ:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What, so you have breakfast ready?\"\n\"Yeah. There are two servings of toast.\"\n\"Really? Well, that's thoughtful of you, Shirou.\nLet's hurry and go to the living room, Saber.\"",
+      "sourceUnit": "凛エピローグ:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nI don't know where that previous awkwardness went, as Tohsaka pulls Saber's hand and leaves the dojo.",
+      "sourceUnit": "凛エピローグ:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "I watch them leave for ten seconds, dumbfounded.",
+      "sourceUnit": "凛エピローグ:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what are you standing there for, Shirou!?\nWe can't start eating until we're all there!\"",
+      "sourceUnit": "凛エピローグ:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "She calls back to me, still pulling Saber's hand.\nTohsaka, who fled from the dojo, is stopping in the yard and waving to me.\n\"...Well. She really doesn't waste any time.\"\nI've been pulled around plenty already, but I'm sure that will continue from now on.\nAs long as I'm with her, this is just an everyday thing.\nYou can't keep up with Tohsaka unless you're prepared enough.\nBut well, to put it her way, it can't be helped.\nShe was able to make it this far since she's like that, and that's exactly the girl I fell in love with.\n\"Come on, hurry! We're going to start eating without you!\"\nEven while saying so, she's standing there and waiting for me.\nShe's always grumpy and cool-headed, but she's really good-natured deep down.\n\"Yeah, I'm coming...! Hold on!\"\nI leave the dojo and follow after the two.\nTohsaka's there and Saber's there.\nTohsaka's not one to stay put, and Saber has a competitive spirit, so I'm sure they will go anywhere.\nIt's obvious that these hectic days, which would even tire my old man, will continue as long as the three of us are together.",
+      "sourceUnit": "凛エピローグ:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "There was a determined future, and a future that I'm walking towards.\nEven if the day comes where I'm able to reach the place where he stood...\nIt's possible that there's a different future that awaits me if there will be bright days like this.",
+      "sourceUnit": "凛エピローグ:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "The sun has risen already.\nFor the things I can't change by myself, if it's the two of us I think we can change them a little bit.",
+      "sourceUnit": "凛エピローグ:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "I have just started walking down the path.\nAt my own pace, I'll walk on with my reliable partner...",
+      "sourceUnit": "凛エピローグ:page103:1",
+      "recoveredDelimitedTail": true
+    },
+    "page104": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

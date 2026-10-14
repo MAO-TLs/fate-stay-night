@@ -1,0 +1,276 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0500",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I broke my promise to her, so anything I say is just an excuse.\nI need to do whatever I can to make it up to Illya, but I don't know what would make her happy.\nThen...why don't you act like a Master and use your Command Spells to make your wish come true?",
+      "sourceUnit": "桜ルート七日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you all quiet? That face won't fool me. If you're not going to apologize, then I won't either. If you don't like me, then I'll—\"",
+      "sourceUnit": "桜ルート七日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Illya, I'm your Servant. To make it up to you for breaking our promise, why don't I be your Servant just this once?\"\n\"...turn you into a puppet—wait, my Servant!?\"",
+      "sourceUnit": "桜ルート七日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. It's too late to hang out today. So, I'll do whatever you ask, just once. That should make you feel a little better, right?\"",
+      "sourceUnit": "桜ルート七日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\".........\nNo, you're lying! You didn't come to the park. Anyone can break a verbal promise, so I don't believe you!\"",
+      "sourceUnit": "桜ルート七日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. So I'll treat it like a Command Spell to prove it to you. I'll make a promise I can't break, just this once. Will you trust me then?\"",
+      "sourceUnit": "桜ルート七日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"T-trust you... But I don't have any Command Spells that work on you...\"",
+      "sourceUnit": "桜ルート七日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But I swear I'll keep my word. It isn't a real contract and the Command Spell will not actually be used, but I'll act like you cast one on me.\nYou and I are both Masters. I can swear on my own crest that I won't break a promise we treat as a Command Spell.\"",
+      "sourceUnit": "桜ルート七日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I stand up straight and swear an oath to Illya.\nThe silver-haired girl takes a quiet breath.\n\"...You'll really do anything I say?\"\nShe looks at me uneasily.",
+      "sourceUnit": "桜ルート七日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. It's a Command Spell, you know. I'll do whatever's within my power to obey.\"\nI return her anxious gaze with a heartfelt smile.",
+      "sourceUnit": "桜ルート七日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nA long silence passes between us.\nIllya looks away and clutches her hands together.",
+      "sourceUnit": "桜ルート七日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Then...take me...\"\n\"Huh?\"\nDid I hear her correctly?\nI was expecting an order worthy of a Command Spell, but it's a much smaller wish than that.",
+      "sourceUnit": "桜ルート七日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...? Wait, I said a Command Spell. I'll do absolutely anything you say. Are you sure that's what you want?\"",
+      "sourceUnit": "桜ルート七日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"You could ask for something else. That's way too easy. C'mon, don't hold back on my account. Ask me to—\"\n\"I'm not holding back! You lied! You said you would do anything!\"",
+      "sourceUnit": "桜ルート七日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, yeah, I will! But are you sure, Illya? I mean, that's too...\"\nSomething I'd do for you anytime you asked, no Command Spell needed.",
+      "sourceUnit": "桜ルート七日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, it isn't. It's something I've always wanted. And it's what I want most from you right now.\"\nBlushing furiously, Illya trembles as if anticipating rejection.",
+      "sourceUnit": "桜ルート七日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Illya.\"\nI shouldn't keep doubting her courage.\nIt's her number one wish, even if it sounds simple.\nRight now, I just need to serve Illya the best I can, as her knight.",
+      "sourceUnit": "桜ルート七日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Sorry for the stupid question.\nLet's go, Illya. The shopping district isn't big, but it'll be fun to walk around.\"",
+      "sourceUnit": "桜ルート七日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I feel my face get hot at the way I phrased it.\nI know I'm blushing red.\nWithout hiding it, I give Illya my hand.",
+      "sourceUnit": "桜ルート七日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Her wish is a trivial one:\n\"Take me shopping.\"\nNothing special at all.\nIllya wants to do something completely normal, that I could help her with as many times as she wants.",
+      "sourceUnit": "桜ルート七日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...I can't imagine what it must mean to her.\nI just do as she asks and walk around the shopping district with her. Not as enemies or allies, not as Masters, but as brother and sister.\nShe stares with wonder at shops I know well and sights I'm sick of seeing.",
+      "sourceUnit": "桜ルート七日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Her excitement is so infectious that I have fun just watching her.\nShe walks through the street with a sunny, carefree smile.\nI wish I could make this moment last forever for her.",
+      "sourceUnit": "桜ルート七日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "But sadly, I start to understand.\nHer smile doesn't crack for a second. She dances through the street.\nThis isn't happiness.\nShe's smiling desperately, because she's sad. Because she doesn't want to wake up from this dream.",
+      "sourceUnit": "桜ルート七日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Over here, Shirou! Your coffee's going to get cold!\"\nIllya runs toward the park with the two drinks she bought. Maybe she hasn't seen hot canned beverages before.",
+      "sourceUnit": "桜ルート七日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I wish this day could go on. I want to tell her she doesn't have to keep doing this. But, everything must come to an end.\nMiyama's shopping district is small.\nNo matter how slowly we go, we can see it all in an hour.",
+      "sourceUnit": "桜ルート七日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"And here we are! This is our last stop, Shirou.\nYou can rest now. Thanks for working so hard today.\"",
+      "sourceUnit": "桜ルート七日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "In front of the bench, Illya twirls to face me.\nShe beckons me to sit and rest, so I do.",
+      "sourceUnit": "桜ルート七日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nIllya doesn't sit, even though she invited me to.",
+      "sourceUnit": "桜ルート七日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya? Aren't you going to sit down?\"\n\"Mm-hm. Here's your drink, Shirou. Yours is coffee, and mine is shiruko.\"",
+      "sourceUnit": "桜ルート七日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Illya takes only one can out of her pocket and hands it to me.\nShe keeps the other can in her coat pocket. It's the only thing she badgered me into buying today.",
+      "sourceUnit": "桜ルート七日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm surprised you know what shiruko is, Illya. I bet they don't have red bean drinks overseas.\"\n\"Yeah. It's my first time seeing it. A long time ago, someone told me it's really sweet, so I shouldn't drink it.\"",
+      "sourceUnit": "桜ルート七日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Illya grins at me and does a little step and twirl.\nShe makes her way to the center of the park, practically dancing as she goes.",
+      "sourceUnit": "桜ルート七日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...?\"\n\"The Command Spell is over now. It wasn't a long time, but thanks, Shirou.\"\nThere isn't a hint of gloom in her voice.\nShe gives me a smile free of any regrets, declaring an abrupt end to the dream.",
+      "sourceUnit": "桜ルート七日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—what are you thanking me for? It hasn't even been an hour. If you're tired of this place, we can go see the city. There's a lot more—\"",
+      "sourceUnit": "桜ルート七日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay. This is our last stop. It's been fun, but shopping is over. Once the sun sets soon, we'll be back to our old relationship.\nWe'll both be Masters; I'll try to kill you, while you defend yourself. I've understood that since before we met.\"",
+      "sourceUnit": "桜ルート七日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "What am I supposed to say to that determined smile?\nIllya wants a normal life more than I ever would, and yet she casts it aside more easily than I ever could.",
+      "sourceUnit": "桜ルート七日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So once we leave this park...\"\n\"We'll be enemies again. The next time we meet at night, we'll continue what we started last time.\nSo if you don't want me to kill you, then you'll have to kill me first, Shirou.\"",
+      "sourceUnit": "桜ルート七日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "My breath catches in my throat, and I look up at the sky.\nThe sky is an overcast gray.\nHeavy clouds cover the town, bringing an end to the happy times.\nI wish they could last forever, but I knew this moment would come once I realized that would only be harder on Illya.",
+      "sourceUnit": "桜ルート七日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "She said that this is our last stop.\nThe end of the line.\nHere, where there's nowhere else to go and no way back, Illya keeps smiling innocently.",
+      "sourceUnit": "桜ルート七日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow! Look Shirou, snow!\"\nHer cheerful voice captures my attention.\nWhen I look back at the park, I'm greeted by a distant scene.",
+      "sourceUnit": "桜ルート七日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "For a second, I think I'm seeing things.\nIt's not the falling snow that surprises me, but the unreal sight of Illya dancing.",
+      "sourceUnit": "桜ルート七日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe snow is only temporary.\nI can tell it's just a bit of powder snow that will stop soon.",
+      "sourceUnit": "桜ルート七日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "But under it, in this uncertain winter, the area around Illya is so white.\nThe silver-haired girl frolics in the fleeting frost, as if loved by winter itself.",
+      "sourceUnit": "桜ルート七日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Aha! The snow here is so warm. This is my first time seeing such normal snowfall.\"\nIllya twirls and twirls, overjoyed.",
+      "sourceUnit": "桜ルート七日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"You're awfully upbeat. Do you like snow, Illya?\"\n\"Yeah. I don't like the cold, but I like snow itself. It's gentle and reminds me of my mother. Also, she told me my white hair was pretty.\"",
+      "sourceUnit": "桜ルート七日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Her smile is so merry.\nIntuitively, I know who said that to her.",
+      "sourceUnit": "桜ルート七日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"The snow here is so pretty. So it snows properly in the land where Kiritsugu lived, huh?\"",
+      "sourceUnit": "桜ルート七日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "That carefree smile isn't for me.\n...Illyasviel von Einzbern.\nThe pale girl who came here to kill my father.\nShe came here looking for Kiritsugu, and she's trying to kill me.\n...I've long since realized the true reason why.",
+      "sourceUnit": "桜ルート七日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "He betrayed the Einzberns.\nThen, he threw away his entire life to come live here.\nFrom the perspective of Kiritsugu's son, she's a child who's been chasing after a man who has nothing to do with her.\nUntil I became a Master, I had no idea what he gave up.",
+      "sourceUnit": "桜ルート七日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "The snow seems to hide Illya as she dances.\nThe girl from a faraway country bids me farewell with a smile.",
+      "sourceUnit": "桜ルート七日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye, Shirou. If I see you walking around alone again, I'll play with you!\"",
+      "sourceUnit": "桜ルート七日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Smiling innocently, the pale girl disappears from the park.",
+      "sourceUnit": "桜ルート七日目-08:page51:1"
+    },
+    "page52": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page53": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

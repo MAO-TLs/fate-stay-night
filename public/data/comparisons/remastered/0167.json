@@ -1,0 +1,306 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0167",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We reach a clearing in the forest.\nThe sun is rising and a white layer of morning mist blankets the forest.\nCompared to the much denser forest around us, this is a good vantage point.",
+      "sourceUnit": "セイバールート十一日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. This place doesn't seem bad.\"\n\"Yes. It meets most of our conditions, but it might actually be too open. I should be able to escape, but it might be tough for you and Saber.\"",
+      "sourceUnit": "セイバールート十一日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...\"\nTohsaka is such a perfectionist if she's even considering escape routes.",
+      "sourceUnit": "セイバールート十一日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's try somewhere else. We still have some time.\"\nTohsaka returns to the forest.\n\"...\"\nBut Saber stands motionless, staring off into the distance.",
+      "sourceUnit": "セイバールート十一日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? What are you doing? We need to hurry or else Illyasviel's going to—\"",
+      "sourceUnit": "セイバールート十一日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "A chill runs up my spine.\nI could never forget this feeling.\nI can't see him or feel his presence.\nBut the sudden weight of the air pressing down around me is definitely coming from HIM.",
+      "sourceUnit": "セイバールート十一日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Fufu... I found you.",
+      "sourceUnit": "セイバールート十一日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Illya's voice echoes from somewhere in the forest.\nBeyond the mist...\n...from deeper in the forest, a dark figure approaches.",
+      "sourceUnit": "セイバールート十一日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Wait right there. I'm coming to kill you.",
+      "sourceUnit": "セイバールート十一日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's because we're in a clearing with an open view of the sky...\n...but it feels like Illya is peeking down at us from up in the clouds.",
+      "sourceUnit": "セイバールート十一日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. Did she find Shirou already!?\nThis isn't good. This place is too wide open! And how fast is she!? We have less than two minutes until she...!\"",
+      "sourceUnit": "セイバールート十一日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey! What are you two waiting for!?\nI keep telling you this is a bad spot. We need to get somewhere else, fast!\"\nTohsaka grabs our hands.\nBut it's too late.",
+      "sourceUnit": "セイバールート十一日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"No. This is fine, Tohsaka.\nWe're lucky enough that the three of us are able to fight together. We can't ask for anything more.\"",
+      "sourceUnit": "セイバールート十一日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You dummy! That's exactly the problem! It's way too open here! Saber can't handle Berserker alone, and you can't get out of his range to support her here!\"",
+      "sourceUnit": "セイバールート十一日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I know you're concerned for me, but we're all in danger here. Besides, we can't escape now anyway.\"\n\"Ugh.. That's...true, but...\"",
+      "sourceUnit": "セイバールート十一日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you ready, Saber? We're fighting Berserker here.\"\nSaber nods quietly.\n\"Oh come on! Fine! I'll be really ticked if you two get thrashed!\"",
+      "sourceUnit": "セイバールート十一日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka, apparently convinced, disappears into the mist.\nOnce she goes into action, she acts quickly.\nShe darts into the forest and then scrambles up a tree.",
+      "sourceUnit": "セイバールート十一日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"They're coming, Saber. Are you ready?\"\n\"I should ask you the same. Once the battle begins, please do not move past this point. I will not let Berserker near this spot.\"",
+      "sourceUnit": "セイバールート十一日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The mist wavers.\nOut of the morning fog...\n...a dark shadow spreads across the clearing. A mad warrior, led by a pale girl, steps into view.",
+      "sourceUnit": "セイバールート十一日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a surprise. I thought you were going to flee until the end. Or have you given up, brother?\"\nIllya's about forty meters from me.\nWe face each other from opposite ends of the clearing.",
+      "sourceUnit": "セイバールート十一日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So Saber got better. That must be why you stopped running.\nWhat a shame. It's cute that you think it'll be enough to beat me though.\nSorry...you're going to die here.\"",
+      "sourceUnit": "セイバールート十一日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Her giggles echo in the forest.\nApparently that ticks her off.\nSaber, still standing beside me, is practically vibrating with animosity. She might launch herself forward at any moment.",
+      "sourceUnit": "セイバールート十一日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you're all quiet now. You're so boring. Are you scared of dying? What a waste. If you beg for your life, maybe I'll consider sparing you.\"",
+      "sourceUnit": "セイバールート十一日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's probably in position.\nShe'll probably want to be as close to the center of the clearing as she can.\nThere's a spot where the tree branches overlap. It should be sturdy enough to support her weight.",
+      "sourceUnit": "セイバールート十一日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So that's how it's going to be. Enough chatter then. I'll kill you and Ri—\nWait. Where's Rin, Shirou?\"",
+      "sourceUnit": "セイバールート十一日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I have to give it to Berserker's Master.\nShe knows better than to overlook any details.",
+      "sourceUnit": "セイバールート十一日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka's gone. We stopped working together a while ago.\"",
+      "sourceUnit": "セイバールート十一日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"So you two split up? That figures. You and Saber could only drag her down. She should be able to do pretty well on her own.\"",
+      "sourceUnit": "セイバールート十一日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, there you go. She's probably out of the forest by now. I doubt you'll catch up to her even if you go after her right now.\"",
+      "sourceUnit": "セイバールート十一日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you think so? This forest is an Einzbern Bounded Field.\nI always know the instant someone enters or leaves. Nobody's left, so Rin's still in the forest. I have plenty of time to deal with her once I've taken care of you.\"",
+      "sourceUnit": "セイバールート十一日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's a relief.\nIf Illya only detects who's going in and out of the forest, then she doesn't know where Tohsaka is now.\nThat, and she believed my story pretty easily.\nIllya is a truly merciless Master.\nBut...is she too merciless to have a chance to start over?",
+      "sourceUnit": "セイバールート十一日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, before we fight, there's something I want to ask you.\nWould you consider quitting being a Master, and ending this battle?\"",
+      "sourceUnit": "セイバールート十一日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't. This is Grandfather's command.\nAs long as Berserker's around, I'm a Master of the Einzberns. I need to kill other Masters and bring home the Holy Grail.\"",
+      "sourceUnit": "セイバールート十一日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"But I'm the one who should be asking you a question.\nI'm the head of the Einzbern household, so I'm not going to repeat what I said earlier. But I might reconsider if you're willing to change your answer.\"",
+      "sourceUnit": "セイバールート十一日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...She sounds almost hopeful.\nBut as long as I have Saber with me, I can't agree to what she's asking.",
+      "sourceUnit": "セイバールート十一日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"My answer is unchanged. I'm Saber's Master.\nIf you're not going to quit being a Master, I'll defeat Berserker and make you quit.\"\nI look at both Illya and Berserker and say that.\nIn that instant...\nThe air in the clearing tenses with a sharp, snapping sound.",
+      "sourceUnit": "セイバールート十一日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I'm going to kill you now.\nI'm going to annihilate you...right down to that conceited head of yours...!\"",
+      "sourceUnit": "セイバールート十一日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!\"\nWhat the heck's that?\nThere's some sort of inscription appearing on Illya's face.\nNo, it's not just her face.\nIt's a huge Command Spell covering her entire body, and I can even see it at this distance... It's so much more massive than the ones we have.",
+      "sourceUnit": "セイバールート十一日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Playtime is over. Trample them, Heracles.\"\nIllya's voice is completely lifeless.\nAnd in response, the giant behind her howls.",
+      "sourceUnit": "セイバールート十一日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "His roar shakes the earth.\nHe screams and thrashes like he's lost his mind. His abilities grow even more powerful, like his body is swelling with deformed masses.",
+      "sourceUnit": "セイバールート十一日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"That is impossible. Was she only depriving him of reason rather than letting him go berserk!?\"\nI'm not surprised Saber is shuddering.\nEven I, who can't gauge the warrior's strength, can tell I shouldn't be getting anywhere near that monster.",
+      "sourceUnit": "セイバールート十一日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Go! Kill everything you see, Berserker!\"\n!!!\nThe air explodes.\nThe giant bellows a roar so different from its anguished wail...and leaps.",
+      "sourceUnit": "セイバールート十一日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber!!!\"\nA streak of silver surges forward in answer.\nBerserker lands in the middle of the clearing.",
+      "sourceUnit": "セイバールート十一日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "The earth shakes.\nSaber intercepts Berserker as if stopping a falling meteor.",
+      "sourceUnit": "セイバールート十一日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "It's like watching a mythical battle unfolding in front of me.",
+      "sourceUnit": "セイバールート十一日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "In a forest shrouded by morning mist, two shadows clash relentlessly.\nBerserker is simply overwhelming.",
+      "sourceUnit": "セイバールート十一日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Berserker's swipes are like whirlwinds, his downward strikes like waterfalls. Even Saber wouldn't survive a direct hit.",
+      "sourceUnit": "セイバールート十一日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "But Saber deflects his every attack without faltering or hesitating.\nShe swipes aside the barrage of strikes raining on her like a raging storm.",
+      "sourceUnit": "セイバールート十一日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "To fail would mean being cut down on the spot.\nTo Saber, each of the rapid blows seemed to strike with her opponent's full might.",
+      "sourceUnit": "セイバールート十一日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "The clash of swords echoes around the clearing.\nBerserker has greater reach.\nBerserker is faster.\nBerserker has more stamina.",
+      "sourceUnit": "セイバールート十一日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "All Saber can do is parry the titanic surges of wind from Berserker's swings to mitigate the sheer strength, all just to avoid being cut in half.",
+      "sourceUnit": "セイバールート十一日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Berserker is like a broken jackhammer.\nHis blade spins in all directions, annihilating everything in its path.\nJust getting in reach could only be fatal.\nThere would be no hope of escape. They'd get caught in that whirling blade and ground to dust.",
+      "sourceUnit": "セイバールート十一日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "No normal human would have a chance against that.\nAnd if getting close can only mean death, then the only option is fleeing.\nBut Saber steps into the whirlwind and doesn't retreat.",
+      "sourceUnit": "セイバールート十一日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "She'll be shredded to pieces.\nThe sword sparks off of her, slowly chipping her armor away.\nStanding in the middle of that vortex, she could be dead in a heartbeat.",
+      "sourceUnit": "セイバールート十一日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can only hold my breath.\nIn ancient times...\n...heroes who fought dragons and Demonic Beasts...must have all been like this. Like her.",
+      "sourceUnit": "セイバールート十一日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "They know perfectly well how vast the gap in strength between them is.\nBut they bet everything on a one-in-a-million shot.",
+      "sourceUnit": "セイバールート十一日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "A seething mass of violence beyond anything humans are capable of...\nThey just defended until a single opportunity presented itself... Many warriors died without ever seeing the miracle they were waiting for.\nThat's exactly what this battle is.\nIt is a glamorous, eye-catching battle. But...\n...it only ends one way: with Saber's defeat. Each blow chips away a little more at her.",
+      "sourceUnit": "セイバールート十一日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "Berserker's roar shakes the ground.\nThe sheer whirlwind of his frenzy churns up the atmosphere and sends Saber flying as she tries to defend.\nEvery time Berserker's attacks chip away a bit of Saber's armor, she's thrown to the ground. But instead of remaining down or on her knees, Saber charges right back at Berserker every time.",
+      "sourceUnit": "セイバールート十一日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...But she's at her limit.\nSaber's breathing is labored, and her movements are visibly slowing.\nThere won't be any opening.\nIn a few moments, Berserker's titanic weapon will shatter Saber's sword.",
+      "sourceUnit": "セイバールート十一日目-09:page58:1"
+    },
+    "page59": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

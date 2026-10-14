@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0394",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\n...We have to accept his offer.\nEven if he is an enemy, his argument is correct.\nTohsaka and I alone can't beat Caster.\nBut there should be some hope if we have Lancer's help.\nHowever...",
+      "sourceUnit": "凛ルート十三日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. I'll believe your argument.\nBut under one condition. I'll accept your help in defeating Caster, and we'll trust you.\nBut...\"",
+      "sourceUnit": "凛ルート十三日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"But what? You want me to tell you who my Master is?\"\n\"No. Even if we're cooperating, stay away from Tohsaka.\"",
+      "sourceUnit": "凛ルート十三日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The air freezes.\nLancer becomes speechless as if he was completely caught off guard.",
+      "sourceUnit": "凛ルート十三日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, I see, I see! Of course, that's way more important than my Master right, kid!?\"\nHe starts laughing as if it's the funniest thing he's heard.",
+      "sourceUnit": "凛ルート十三日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What, is that bad? Just letting you know, but I won't let you have Tohsaka.\"\n\"Of course not. It's not bad. In fact, I see you in a whole new light.\nWow, that's great, young lady. This kid is head over heels over you!\"",
+      "sourceUnit": "凛ルート十三日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh! W-W-W-What are you saying, we're not like that! Um... Yes, we're just cooperating...!\"\n\"Are you sure about that?\"",
+      "sourceUnit": "凛ルート十三日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...! You get on my nerves. What's with that know-it-all face...!?\nCome on, say something, Shirou. Tell him we're just cooperating!\"",
+      "sourceUnit": "凛ルート十三日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\n...",
+      "sourceUnit": "凛ルート十三日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, say something, idiot...!\nT-This is as if we, um, actually like each other...\"",
+      "sourceUnit": "凛ルート十三日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, it's not 'as if.' You guys are already in love with each other. It's obvious even to me, though you're both covering it up. Man, she'll be quite a handful, boy.\"\nLancer makes a sympathetic gesture.",
+      "sourceUnit": "凛ルート十三日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well. I already know that Tohsaka is a handful.\"\nI reply with a sour look to let him know that there's no problem.",
+      "sourceUnit": "凛ルート十三日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n\"Oh, how dependable. Then I shall be mindful when I interact with her.\nBut well, she's fun to tease, so I'll have fun on the way. You don't mind this much, right?\"",
+      "sourceUnit": "凛ルート十三日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Let's go with that. We'll get your help until we defeat Caster.\"\n\"Then it's decided. Well, let's shake hands.\"",
+      "sourceUnit": "凛ルート十三日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Lancer comes up to me unarmed and shakes my right hand that I awkwardly put out.\nThere are worrying factors, but we were able to obtain a reliable ally.\nAll that's left is...",
+      "sourceUnit": "凛ルート十三日目-08:page14:1"
+    },
+    "page15": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十三日目-08:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

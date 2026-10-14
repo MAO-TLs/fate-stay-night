@@ -1,0 +1,242 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0628",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll get right to the point. How does your arm feel, Shirou?\"\nTohsaka launches straight to business as soon as we enter the dojo.",
+      "sourceUnit": "桜ルート十二日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me see...I can move it like a normal arm now. But that isn't what you're asking, is it?\"\n\"Yeah. I only want to know whether you comprehend it as Archer's arm yet.\"\nIllya watches us both, saying nothing.",
+      "sourceUnit": "桜ルート十二日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I can claim, without a doubt, that Tohsaka has no idea what this arm really is.\nShe doesn't know the terror it made me feel last night.\nShe doesn't know that taking off the cloth will be the end of me.\nShe doesn't know that merely exposing its skin, never mind using Archer's power, will destroy Shirou Emiya's body.",
+      "sourceUnit": "桜ルート十二日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I remember the sensation.\nInescapable death.\nThe claustrophobic feeling of being buried alive.\nHaving my world/emptiness painted over by something alien to me, and watching that world shrink as I meet a silent, absolute end.",
+      "sourceUnit": "桜ルート十二日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The mere taste of that memory makes the thought replay in my shuddering head.\nI can't use this arm.\nIf I do, I'll die.\nMy death will be all but certain without a miracle to save me.",
+      "sourceUnit": "桜ルート十二日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"It's been a day since I implanted my Magic Crest in you. How does it feel? It should be working a little now.\nCome on, let's hear it. Do you know what you can do with Archer's arm yet?\"",
+      "sourceUnit": "桜ルート十二日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\n...Hold on.\nTohsaka's asking something completely different from what I'm thinking.\nDoes she think I can use Archer's arm already...?",
+      "sourceUnit": "桜ルート十二日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... You're not asking whether I can control Archer's arm, but what his Noble Phantasm is?\"",
+      "sourceUnit": "桜ルート十二日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"O-obviously! I know how bad it would be for you to use his arm, so I wouldn't ask you to do that! Or are you saying you want to now!?\"\nAh.\nTohsaka's genuinely angry at me.",
+      "sourceUnit": "桜ルート十二日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof... No, that's not what I meant. I just thought that's where you were going...\"\n\"Where do you think I was going, exactly!?\"",
+      "sourceUnit": "桜ルート十二日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh. Listen. No matter what happens, I won't make you use Archer's arm.\nDon't even think about using it without my permission.\nYou're...Archer's replacement, so I can't have you suddenly dying on me.\"",
+      "sourceUnit": "桜ルート十二日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I take it all back.\nTohsaka does know.\nAfter all, she's a far more skilled mage than I am.\nShe knows better than I do what will happen to me if I start trying to use this arm.",
+      "sourceUnit": "桜ルート十二日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"So? Do you understand what his Noble Phantasm is yet?\"\nI don't know what Tohsaka expects me to say, but...\n\"Just tell her already, Shirou. You've known ever since his arm was grafted onto you.\"",
+      "sourceUnit": "桜ルート十二日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, really, Shirou?\"\n\"Urgh... I think so. Archer's Noble Phantasm is his Projection magecraft that he uses to replicate weapons, right?\"",
+      "sourceUnit": "桜ルート十二日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I'm not confident in my answer, since it was just a hunch I had without any proof.",
+      "sourceUnit": "桜ルート十二日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...I was worried for nothing. That means you're already connected to him.\nI'm glad to hear it, but why didn't you say anything, Illya? If Shirou knows Archer's Projection, we need to thoroughly check that out.\"",
+      "sourceUnit": "桜ルート十二日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Because you never asked. If you want Shirou to use Projection, then it's your job to ask him. That's not something I can stick my nose in.\"",
+      "sourceUnit": "桜ルート十二日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me? Don't tell me you want to stop after all our preparation?\"",
+      "sourceUnit": "桜ルート十二日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That's up to you and Shirou.\nIt's true that you'll win if you can replicate the Jeweled Sword. That's why I've been helping you. But I'm only doing it out of obligation. I don't agree with your direction at all.\"",
+      "sourceUnit": "桜ルート十二日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nUm...\nBased on what they're saying, it sounds like Tohsaka wants me to Project something.",
+      "sourceUnit": "桜ルート十二日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Can I ask something? You want me to replicate something, Tohsaka?\"",
+      "sourceUnit": "桜ルート十二日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'll show you what it is.\nWe can't win against Saber or the Shadow. That's why, in place of the Servants we don't have, we need to create a Conceptual Weapon to use magecraft that can defeat Servants, who are made of spiritual bodies.",
+      "sourceUnit": "桜ルート十二日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"A Conceptual Weapon? You mean those fixed magical items designed to enact a fixed effect?\"\n\"Yeah. They don't defeat targets with physical force, but by crushing the very soul. That's why they're also called 'outbreakers' or 'soul crushers.' I'm going to have you Project a particularly unique one. A dagger that's been passed down through the Tohsaka line.\"",
+      "sourceUnit": "桜ルート十二日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Our goal is to make something that's strong enough to fight back against Saber's Noble Phantasm.\nYou saw her use it to defeat Berserker, right?\nIn terms of sheer firepower, she has no equal.\nI bet even the Shadow would get wiped out if it took a hit from her Noble Phantasm, so we can't expect to block or dodge it.\nConversely, if we can make a sword that's stronger than Saber's Noble Phantasm, the rest of the battle will be down to our tactics, even if it's a rush job that breaks after one use.\"",
+      "sourceUnit": "桜ルート十二日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...It's a rational plan.\nIf their biggest edge is Saber's Noble Phantasm, then we just need to have something stronger than it.\nMaking a better weapon than our enemies'—\nthat's one of the surest and most simple paths to victory.\nHowever...",
+      "sourceUnit": "桜ルート十二日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't know about that. I can't Project a Noble Phantasm on that level. In fact, I've never even succeeded at Projection even once—\"",
+      "sourceUnit": "桜ルート十二日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. I bet you've never made a success by the standard of what we mages consider Projection.\nBut your problem is more basic than that. Until now, you've been incorrectly making Projections using wrong methods, because you didn't even know how.\nBut now that you have Archer's knowledge, you just need to follow his steps. His whole instruction manual is in your head, so you're certain to succeed.\"",
+      "sourceUnit": "桜ルート十二日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka says it with confidence.\nI'm afraid that I don't quite share it.",
+      "sourceUnit": "桜ルート十二日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, I told you before that you specialize at Projection, not Strengthening.\nSo if you follow the magecraft theory of Archer, who is a more advanced user, you should be able to make something with the power of the original... Okay, not quite, but it should be close.\"",
+      "sourceUnit": "桜ルート十二日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Our job is to support you.\nIllya and I have been gathering as many ingredients as we can for the weapon that we want you to Project.\nIllya's analyzing the blueprints that you'll use during your Projection, and I'll provide the materials that were used to make the real thing.\"",
+      "sourceUnit": "桜ルート十二日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...It'll still be a while before we're ready, but once we are, the rest is up to you. If you can replicate the Grandmaster's path/talisman, even only in shape, it'll give us the chance we need to crush Zouken head-on.\"",
+      "sourceUnit": "桜ルート十二日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nUm...\nBasically, they're going to supply me with a blueprint and materials that I'll use to build something.\nNo complaints here, if we can use it to beat Zouken.\nI'm happy to go along with Tohsaka's plan, except...",
+      "sourceUnit": "桜ルート十二日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's assume I'm able to Project the weapon.\nThen what do we need materials for? If you just show me the original, I can copy it.\nWe could try it right now.\"",
+      "sourceUnit": "桜ルート十二日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"If that was possible, we would have tried it two days ago, stupid.\nRight now, the best you can manage is a single Projection. And it's bound to be a mental image that's full of open seams.\nThere's no point in doing that. It would be a waste of time if we made a fake that resembled the shape but was hollow on the inside, like the failed products in your shed.\"\n\"...Hm. But I only know how to make fakes.\"",
+      "sourceUnit": "桜ルート十二日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why I said we'll back you up.\nWe're going to create conditions as close to the original as possible to give you the power and knowledge you need for your Projection. Then, you'll overlay your mental image to fixate it.\nIt's simple addition. We'll supplement your mental Projection with our materials to achieve a greater result.\"",
+      "sourceUnit": "桜ルート十二日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...If you used Archer's arm to do the Projection, you wouldn't need any blueprints, but that's out of the question, right?\nThis is the only way to make a battle-ready weapon without relying on his arm.\"",
+      "sourceUnit": "桜ルート十二日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"So we're going to 'strengthen' a Projection of something that already exists.\nIn that case, it does sound...\"\nA little more realistic, like an outcome I could manage with practice.",
+      "sourceUnit": "桜ルート十二日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"But we still don't know if it'll work.\nI couldn't reliably Strengthen anything before I became a Master. I don't think I can pull off this stunt if you're going to put me on the spot with no practice.\"\n\"Oh, no worries there.\nWe're going to put you through a training gauntlet to have you practice your Projection and draw out Archer's knowledge.\"",
+      "sourceUnit": "桜ルート十二日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. I'm fine with that, but you seem awfully happy about this, Tohsaka.\"\n\"Heaven forbid. I've just been playing building blocks with Illya for so long that it might be a nice change of pace to have a nice talk with a naughty student.\"",
+      "sourceUnit": "桜ルート十二日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Oof. I shudder, remembering the bizarre sensations I felt yesterday.\nIt was an ordeal where Tohsaka stripped me down, closed in on me, and jammed her finger inside in me.",
+      "sourceUnit": "桜ルート十二日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "That ended without incident, but if it's going to happen again today...\n\"...Urgh.\"\nI might get a good scolding from Sakura, who's resting in her room.",
+      "sourceUnit": "桜ルート十二日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Jokes aside, do you understand now?\nIf you do, I want to confirm with you one last time.\"\n\"Hm? Confirm what?\"",
+      "sourceUnit": "桜ルート十二日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"That you're okay with this plan.\nIn the end, we're going to rely on your Projection.\nWe won't make you use Archer's arm, but you'll still be imitating his magecraft, which means that the Servant's poison will enter your body. Will you still stick to the plan, Shirou?\"",
+      "sourceUnit": "桜ルート十二日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean, it's the only way to defeat Zouken. I feel better knowing that you're going to train me.\"",
+      "sourceUnit": "桜ルート十二日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'll be clear. Copying Archer's magecraft means undoing the restraints on his arm.\nMeaning that whenever you practice Projection, you'll have to take off the shroud.\"",
+      "sourceUnit": "桜ルート十二日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy thoughts freeze in place.\nTake off the holy shroud?\nJust barely loosening it last night struck me with sheer terror, and I wound up shaking and sobbing. She wants me to unleash this poison again?",
+      "sourceUnit": "桜ルート十二日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "My answer goes without saying.\nI...",
+      "sourceUnit": "桜ルート十二日目-00:page46:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

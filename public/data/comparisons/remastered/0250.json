@@ -1,0 +1,176 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0250",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nIt would probably cause some trouble if I were to take Saber to walk around school.\nI should stay in this familiar room and chill until the evening.",
+      "sourceUnit": "凛ルート四日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'll stay and watch if it's not going to be a bother, Fuji-nee.\"\n\"Alrighty. I'll go coach then, so you can just space out here. Oh, if you feel like shooting, go right on ahead. You're my student, and you're better than most people.",
+      "sourceUnit": "凛ルート四日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nI suppose. I am better than the others on the shooting front.",
+      "sourceUnit": "凛ルート四日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Even though I've been away from it, I'm sure I can get the same results as when I was active.\nBut, that's not because of archery skills.\nI can hit the target like I do mentally while I'm working on magecraft.",
+      "sourceUnit": "凛ルート四日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true, Fuji-nee. I'm no good with the 'persistence' part of the sport.\"",
+      "sourceUnit": "凛ルート四日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What? The 'shoot 200 arrows a day and the rest is just releasing the bow' thing? You focus on some of the boring parts, Shirou.\"",
+      "sourceUnit": "凛ルート四日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, anyone who does kyudo should know this.\nAnyway, I'm not gonna shoot half-heartedly. I'm not in the swing of it anymore, so I don't know if I'll even hit the target.\"",
+      "sourceUnit": "凛ルート四日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. But Shirou, shooting arrows everyday isn't the only way to train.\nEven if you're not shooting, if you're training yourself, that's enough for the persistence part. It's good to draw a clear line, but having respect towards the sport covers commitment. Anyway, don't sweat the small stuff and just go with the flow, my guy.\"",
+      "sourceUnit": "凛ルート四日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee heads to the range.\nAs if tagging in, Mitsuzuri enters.",
+      "sourceUnit": "凛ルート四日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"'Scuse me... Oh, why the long face, Emiya?\nGot the whole spiel from Ms. Fujimura, eh?\"\n\"I guess. She told me not to worry so much. Though she is probably right.\"",
+      "sourceUnit": "凛ルート四日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I see. I totally thought you lost interest. I didn't realize you still had the itch. That's a bit unexpected.\"",
+      "sourceUnit": "凛ルート四日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It's unexpected? What, did it look like I got bored with kyudo to you?\"",
+      "sourceUnit": "凛ルート四日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I mean, you only missed the target once. From day one when I joined, all I thought was that you had crazy skills. Your form was beautiful, and you seemed like you didn't know how to miss.\nAnd then I thought, man, you must not even be happy anymore when you're this good. Even without a bow, you can get into the headspace, and it's annoying that it looked like the bow was even maybe in the way.\"",
+      "sourceUnit": "凛ルート四日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Was I right? I bet. Kyudo is to shoot one's mind. The arrow isn't shot at the target, but at the mind of the shooter.\nThose who can't face themselves, or those who can't shoot oneself, won't understand the mental space they need to find.\"",
+      "sourceUnit": "凛ルート四日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "In other words, kyudo is a way to kill oneself.\nTo make yourself transparent and aim to be one with nature.\nThe eight stages of shooting are for that... Ashibumi, the footing. Dozukuri, correct posture. Yugamae, readying the bow. Uchiokoshi, the action of raising the bow. Hikiwake, drawing the bow. Kai, the full draw. Hanare, the release. And zanshin, the follow-through of the shot.",
+      "sourceUnit": "凛ルート四日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Specifically with kai, the unity of the target and oneself.\nWith the release of the arrow that has become oneself, that snapshot in time is called hanare.\nThe self that becomes further away with a hit, as well as the action and result becoming one, it all converges to make the past and future into a singular point. That is zanshin.",
+      "sourceUnit": "凛ルート四日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "It's a ritual. Practice to build oneself.\nThat's right.\nBasically, kyudo's process resembles meditation in magecraft.",
+      "sourceUnit": "凛ルート四日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I suppose I'm preaching to the choir here. Hitting the target is a bonus. Kyudo is mental framework. It's a path rather than skills.\nPut another way, kyudo is a sport where you cannot reach that state of mind if you don't have a bow.\"",
+      "sourceUnit": "凛ルート四日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...I thought that was the boring part for you. The rest of us shoot an arrow and when it hits the target, we get the illusion of feeling it. Even though we know that shooting is only a means to do so, we don't know if we were able to purify ourselves until the arrow hits the target.\"",
+      "sourceUnit": "凛ルート四日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"But Emiya, you're the type that doesn't care where the arrow goes.\n...Anyone can hit the target in kyudo. If you disregard the eight stages and just focus on the technique of hitting the target, anyone can do it.\nBut that's only making an arrow hit the target with their skills. Real shooters hit the target, no matter how bad skill-wise the shooter may be.\"",
+      "sourceUnit": "凛ルート四日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's not true, though. I go to the range so that I can hit the target, too.\"",
+      "sourceUnit": "凛ルート四日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what I'm talking about. Do you actually need to come all the way to the range to practice? Even the bow part seems to be irrelevant in the first place for you.\nYou've missed the target once, right? I wanted to see if you'd flip out, but it was still nothing to you.\"",
+      "sourceUnit": "凛ルート四日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"When I asked why, you said, 'I deliberately pictured a miss.'\nYou didn't miss because you screwed up, you missed because you wanted to.\nThat's when I realized you always picture hitting the target before you even fire. Everything else is still just follow-through.\"",
+      "sourceUnit": "凛ルート四日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...? What are you talking about? That's just basics, right? Don't you also imagine the arrow hitting the target and follow accordingly?\"",
+      "sourceUnit": "凛ルート四日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. People try all sorts of things and hope for the best. But that's only in our imagination. We can't envision it like you can, Emiya.\"\nYou're already 'one with nature' and all. You've reached the state of nothingness, to put it in martial arts terms.\"",
+      "sourceUnit": "凛ルート四日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nI don't know if I can actually envision it like that, but I can agree to the nothingness part.\nBeing able to erase oneself to make a circuit is the sign of a strong mage.\nTo make the self transparent and rid oneself of any attachments and desires to reach a goal, simply chasing after the result.\nWhen it comes to making oneself into nothingness, the training for kyudo and magecraft are similar.",
+      "sourceUnit": "凛ルート四日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"This is getting complicated... What are you getting at, Mitsuzuri?\"",
+      "sourceUnit": "凛ルート四日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"What I'm saying is since you're unselfish, that transparency is easy for you. You should be more greedy and selfish. It's boring if you become a master at such a young age, you know? I won't tell you to be like Shinji, but why don't you have some fun once in a while?\"",
+      "sourceUnit": "凛ルート四日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm at a loss for words.\nOn one hand, I don't really see it, but on the other, I can't think of anything that I consider fun.",
+      "sourceUnit": "凛ルート四日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you. That's why Sakura has such a hard time with you. If you don't know how to let loose now, you won't know how to once you get older.\nThat's what society calls good-for-nothings.\"\nShe gives me a pointed \"do you understand?\" sort of look, sort of surprising from her.",
+      "sourceUnit": "凛ルート四日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man, am I really that helpless that you're concerned about my future? Why are you so worried about me?\"\n\"Because you don't laugh, Emiya.\"\n\"Huh...?\"",
+      "sourceUnit": "凛ルート四日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm talking about training camp. Everyone had a blast, but you never really let yourself truly laugh even at my best jokes.\"\n\"...Hm. So, that means...\"",
+      "sourceUnit": "凛ルート四日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'm still mad about that, and I keep receipts.\"\nMitsuzuri says this...\nsmiling in challenge at me, her chosen opponent.",
+      "sourceUnit": "凛ルート四日目-04:page32:1"
+    },
+    "page33": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

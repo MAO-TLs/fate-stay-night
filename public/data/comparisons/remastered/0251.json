@@ -1,0 +1,281 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0251",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...While Saber's not looking, I'll sneak out for a bit.\nIf I go to the student council room, Issei may be there, and it might not be bad to start planning strategies for next month's finals.",
+      "sourceUnit": "凛ルート四日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'm going to go to the student council room. Fuji-nee, do you know if Issei is here?\"\n\"Ryudou? Hmm, I'm not sure. At the very least, I haven't seen him.\"",
+      "sourceUnit": "凛ルート四日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then, I'll come back if he's not there. Tell Sakura I said hi.\"\n\"Right-o. You prefer the girls over your pals? You're still such a boy, aren't you?\"",
+      "sourceUnit": "凛ルート四日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh.\"\n...I want to object, but if I do, Saber will take notice.\nI'll let Fuji-nee win this time and sneak out of here.",
+      "sourceUnit": "凛ルート四日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Where are you going, Shirou? And why is your gait suddenly so different?\"\n\"Gah.\"",
+      "sourceUnit": "凛ルート四日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "So much for trying to sneak out.\nI tried to leave without Saber noticing, but whatever trick she used, she beat me to it.",
+      "sourceUnit": "凛ルート四日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Saber. Well, this is—you know. I just remembered something I had to do...\"\n\"Just now, hmm? I believe that your only business here was to deliver lunch.\"",
+      "sourceUnit": "凛ルート四日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, um... Well, it's minor business. I didn't think it was something worth telling you.\"\n\"I see. If it is minor business, then there is certainly no need to let me know. You do have your own life after all.\"",
+      "sourceUnit": "凛ルート四日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Man, I'm glad she's so understanding.\n...I'm glad, but is it because of my guilty conscience that she looks angry somehow?",
+      "sourceUnit": "凛ルート四日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um. So, can you wait here, Saber?\nI'll be back in an hour—\"",
+      "sourceUnit": "凛ルート四日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"But, that was your life until yesterday.\nYou must act as a Master starting today. No matter what kind of business it is, it is my duty to accompany you until I determine that it is safe.\nSo then...do you have any objections to my opinions, Shirou?\"",
+      "sourceUnit": "凛ルート四日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Oh I do, most definitely, but I can't think of anything that would convince Saber.",
+      "sourceUnit": "凛ルート四日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. Have it your way. Let's go, Saber. I'll just show you around school or whatever.\"\nI drop my shoulders, give in, and extend the invitation.\n\"Yes. It would be helpful if you did so.\"\nSo, the blonde foreigner follows me without a question.",
+      "sourceUnit": "凛ルート四日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\nNow...\nHow should I explain this to Issei...?",
+      "sourceUnit": "凛ルート四日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Gaaah.\"\n...This sucks.\nThe student council room is unlocked today, of all days.",
+      "sourceUnit": "凛ルート四日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"The noises you make are certainly telling. You must really want to hide things from me, Shirou.\"\n...And of course she sees right through me.\nIt must be her insight as a swordsman, but it seems like no amount of acting will cut it.",
+      "sourceUnit": "凛ルート四日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not trying to hide anything, I just don't want a commotion... Well, Issei being here must be some kind of fate, so I'll introduce you to him.\"\nAlso, if it's the student council room, no one will see us, and we can kill time until the kyudo club finishes practice.",
+      "sourceUnit": "凛ルート四日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei...? Is that a friend of yours?\"\n\"Yeah. He's this school's...uh, he's something like the leader of its security force, a paragon that strives for organizational harmony.\"",
+      "sourceUnit": "凛ルート四日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"A security leader? I see, perhaps I could learn something interesting from him.\"\n\"Maybe. He's a clever guy, so he might get along with you.\"",
+      "sourceUnit": "凛ルート四日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, we're coming in, Issei...!\"\nI open the door with force.\n...Then...\nThere is an unexpected person in the student council room.",
+      "sourceUnit": "凛ルート四日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I gulp.\nThe one in the student council room was not Issei, but Mr. Kuzuki, the teacher in charge of the student council.",
+      "sourceUnit": "凛ルート四日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me. Mr. Kuzuki, is Issei here?\"\n\"No, I have not seen him today. Do you have some business with the student council, Emiya?\"\n\"No, not so much the student council, but Issei specifically. I wanted to start preparing for the finals.\"",
+      "sourceUnit": "凛ルート四日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then, you should try waiting here for a while. It is possible that he has or will flee his home out of boredom, I suppose.\"\n\"It's okay for me to stay in the student council room?\"\n\"It should be fine. If it were an issue for you to be here, we would have had problems much earlier.\"",
+      "sourceUnit": "凛ルート四日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I will leave it up to you to lock up. Leave the key on my desk.\"\nMr. Kuzuki leaves his instructions and exits the room.",
+      "sourceUnit": "凛ルート四日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...I wonder if he was being considerate.\nAccording to Issei, Mr. Kuzuki is actually far more sensitive than he appears.\nWhile waiting for Issei in the student council room, he must've thought that I'd be able to relax more by myself instead of with a teacher.",
+      "sourceUnit": "凛ルート四日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm?\"\n...\nThen...\nAs Mr. Kuzuki goes out to the hallway, he bumps into Saber, who has been waiting behind me.",
+      "sourceUnit": "凛ルート四日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"M-Mr. Kuzuki! She's an acquaintance of mine, and um, she might come here next year so she came to visit the school...!\"",
+      "sourceUnit": "凛ルート四日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I panic and make up an excuse.\nBut it's gotta be the flimsiest thing ever.\nEven if they're a prospective student, we are not allowed to bring outsiders into the school without permission.\nIf it was Fuji-nee, I could somehow get by, but there's no way I can convince the teacher in charge of the student council with an excuse like this...",
+      "sourceUnit": "凛ルート四日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. We have never had a new student from a foreign country before. An unexpected development, but not unwelcome.\"\n\"...Huh?\"",
+      "sourceUnit": "凛ルート四日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...At least that's what I thought.\nMr. Kuzuki gazes at Saber in admiration as I come to the conclusion that he's actually really okay.",
+      "sourceUnit": "凛ルート四日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"If she comes to our school, she will not go unnoticed.\nEmiya, look out for her. Next year, you will be a third year. It is your duty to look out for your juniors.\"",
+      "sourceUnit": "凛ルート四日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... Yes. Thank you, Mr. Kuzuki.\"\n\"Sure. The curfew on weekends is five. Go home before the gates close.\"",
+      "sourceUnit": "凛ルート四日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "He leaves for the teachers' office.\nSaber watched him until he could not be seen anymore.",
+      "sourceUnit": "凛ルート四日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Is there something wrong with Mr. Kuzuki?\"\n\"...No, not in particular. At first, I thought that he was no ordinary person, but the more that I look at him, he is. I can assure you that he is not a Master.\"",
+      "sourceUnit": "凛ルート四日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm a bit tired.\nSaber determines whether someone is a Master or not every time she meets someone.",
+      "sourceUnit": "凛ルート四日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That's good. If Mr. Kuzuki was a mage, then I would be surprised too... But, what do you mean by that? Did you feel something special from him?\"",
+      "sourceUnit": "凛ルート四日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I did not feel anything special in particular. It is just that his breathing was too natural and controlled.\n...To be honest, I was amazed. There were no unnecessary movements in his steps, and I have never seen someone as skilled as he is.\"",
+      "sourceUnit": "凛ルート四日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Saber seems to seriously be amazed.\nBut, if Saber's that amazed, then isn't he already super suspicious at that point...!?",
+      "sourceUnit": "凛ルート四日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, Saber. So if Mr. Kuzuki were to fight, then doesn't that mean he would be super strong!?\"\n\"Hmm? Your teacher? Yes, I would say so.\nIf we're speaking of physical prowess alone, then he would be roughly your level. In battle, I would not think he is any more significant than a normal person.\"",
+      "sourceUnit": "凛ルート四日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "She looks at me in wonder.\nBut, I'm the one wondering.\nHe's someone so good that Saber was amazed, so what does it mean that he's just a normal person...?",
+      "sourceUnit": "凛ルート四日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"As I said, I was amazed at his breathing.\nIt was ideal for his body. What was impressive was that singular thing.\"",
+      "sourceUnit": "凛ルート四日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nWhile sipping on the tea from the student council's storage, Saber explains things that I don't quite understand.",
+      "sourceUnit": "凛ルート四日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"You're just talking about breathing, right? If that's ideal, so what?\"\n\"It will not only heavily affect your physical capabilities, but how you interact with nature. Western mages don't emphasize this, but in Eastern paradigms, breathing and walking form is a high level concept that cannot be learned by instruction alone.\"",
+      "sourceUnit": "凛ルート四日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"To take in outside air, you think of a clear image of connecting the outer and inner world within your body. To my understanding, to breathe in is to take in god, and to breathe out is to release god.\nThis 'correct method of breathing' is a secret technique at any given school, and perhaps only one person per generation would be expected to master it.\"",
+      "sourceUnit": "凛ルート四日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"To put it another way, those who cast spells using magecraft are merely mages.\nBut if one's breathing, walking, build, and their existence itself can fulfill a divine will, then that person is themself a Magic Circuit that far surpasses any mage.\"",
+      "sourceUnit": "凛ルート四日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... I think there is a Shinto belief about that.\nSomething like they repel the evil with just their footsteps or by clapping their hands.\"",
+      "sourceUnit": "凛ルート四日目-05:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Those embodiments are something that you spend a lifetime to acquire.\nHowever, there are rare cases where some are born with the correct way of breathing or walking. As stated, their bodies themselves are Magic Circuits.\"",
+      "sourceUnit": "凛ルート四日目-05:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"As they are abnormal, from when they are young, they will be famed as prodigies or children of god. Normally they would be claimed by mages, but some may go unnoticed.\nSuch people hold Mystics that surpass a mage, without even knowing the existence of magecraft. But...\"",
+      "sourceUnit": "凛ルート四日目-05:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"But? Is Mr. Kuzuki one of those natural-born geniuses?\"\n\"No. I do not feel such power from him.\n...Well, this contradicts what I was saying, but I believe his breathing and walking techniques were acquired through training after birth.\"",
+      "sourceUnit": "凛ルート四日目-05:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...I cannot believe this either, but he is not a mage, nor does he carry the scent of blood on him.\nBut, err, it seems as though his daily exercise may just be that perfect for him.\"",
+      "sourceUnit": "凛ルート四日目-05:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...???\"\nWhat does that mean?\nMr. Kuzuki has been living purely and honestly both mentally and physically?",
+      "sourceUnit": "凛ルート四日目-05:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. So, Mr. Kuzuki is...\"\n\"It means that he is an ideal person to have as a teacher. As a person, he is not extraordinary.\nHowever, it just means that he is an object of envy for someone like me who cannot breathe correctly even with training.\"",
+      "sourceUnit": "凛ルート四日目-05:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "...Surprisingly, this shocks me more.\nEven Saber, who can do anything, envies other people...",
+      "sourceUnit": "凛ルート四日目-05:page52:1"
+    },
+    "page53": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page54": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

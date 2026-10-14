@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0438",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis isn't something I should be agonizing over.\nI'm an amateur, while Tohsaka is a first-rate mage and Master.\nGiven what happened last night, teaming up with her is clearly the wiser choice.",
+      "sourceUnit": "桜ルート四日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...My hand goes to where I was slashed across the abdomen.\nIt's been secured with bandages, but even the slightest touch sends waves of pain and nausea through me.",
+      "sourceUnit": "桜ルート四日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...Makes sense.\nI wasn't just eviscerated; my body was almost cut in half.\nI'm only alive thanks to Tohsaka and Saber. As long as Berserker is after me, I'm as sure as dead the next time we meet.",
+      "sourceUnit": "桜ルート四日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSomething still bothers me, though,",
+      "sourceUnit": "桜ルート四日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "about that slate-skinned giant Berserker.\nThat pale little girl commands the strongest Servant.\nIllyasviel von Einzbern.\nI'm pretty sure I heard Shinji's grandpa say that name.",
+      "sourceUnit": "桜ルート四日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya. I want to hear your answer.\"\n\"Huh? Oh, sorry. I was thinking about that Illya girl.\nIf I team up with you, that means we'll fight her.\"",
+      "sourceUnit": "桜ルート四日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. If she comes after us, then we'll respond in kind.\nWe have to defeat all the other Masters, sooner or later. If that's how Illyasviel wants to play, then we'll shoot to kill as well.\"",
+      "sourceUnit": "桜ルート四日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka's determination is firm.\nTo her, that little girl is simply an enemy to be defeated.\nBut...\nI don't want to fight her, even though I know that makes me sound like an idiot.",
+      "sourceUnit": "桜ルート四日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya? I hope you aren't fooled by Illyasviel's appearance.\"\nTohsaka fixes me with a glare.",
+      "sourceUnit": "桜ルート四日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe sure is sharp.\nIt's not like I'm doing it on purpose, but maybe what she looks like is getting to me.",
+      "sourceUnit": "桜ルート四日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...She's Berserker's Master.\nShe'd need to be a next-level mage to command such a strong Servant. That means her apparent physical age might be misleading.\nIt might be, and yet...",
+      "sourceUnit": "桜ルート四日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry, Tohsaka.\nI appreciate your concern, but I can't give you the answer you want. As heavy as this whole thing is, I don't think I should just jump to a decision here.\"\nI meet her glare and dig my proverbial heels in.\nTohsaka slightly narrows her eyes, then gives an emotionless nod.",
+      "sourceUnit": "桜ルート四日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I guess that's it. Though you're right about one thing. If you really want to win, you can't trust anyone.\"\n\"That isn't true. I trust you, Tohsaka. I just don't think I can make this decision on my own. If I'm Saber's Master, then I shouldn't make commitments without looping her in.\"",
+      "sourceUnit": "桜ルート四日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You're right. You are a Master now.\"",
+      "sourceUnit": "桜ルート四日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka nods again in acceptance and quickly turns away.\nHer long hair sways as she walks away.",
+      "sourceUnit": "桜ルート四日目-00:page14:1"
+    },
+    "page15": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート四日目-00:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

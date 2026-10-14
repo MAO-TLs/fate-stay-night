@@ -1,0 +1,116 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0297",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I get to school over an hour late.\nThe hallway is crowded with students between classes.\nIt seems like 2-C also finished class just now, as many familiar faces file out.",
+      "sourceUnit": "凛ルート七日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yo. I don't know why, but Taiga was pissed. You should brace yourself for fourth period.\"\n\"...Oh yeah. I have English today.\"",
+      "sourceUnit": "凛ルート七日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "My classmates tell me the very thing I don't want to hear.\nThe moment I sluggishly put my hand on the door...\n\"Mm?\"\nThe history teacher comes out.",
+      "sourceUnit": "凛ルート七日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Mr. Kuzuki.\"\n\"You were late, Emiya? We went over what's going to be covered in the exam. Make sure to get it from a friend later.\"\n\"Y-yes. I'm sorry for being late.\"",
+      "sourceUnit": "凛ルート七日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Kuzuki nods and leaves.\nSouichirou Kuzuki is the ironclad teacher that teaches world history and ethics. He's also in charge of the student council.\nThough he's a terse talker like that, he's kind of a rarity in this school where his popularity grows as people come to know him.",
+      "sourceUnit": "凛ルート七日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning.\"\nI make my way to my desk and greet people as I go.\nIt's a little embarrassing to show up late like this.",
+      "sourceUnit": "凛ルート七日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. You're here rather late.\"\n\"Hm?\"\nSomeone greets me, so I turn around.\nThere...\nIt's Shinji, strangely all smiles.",
+      "sourceUnit": "凛ルート七日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shinji? What's wrong? You're acting weird.\nDid you not get enough sleep last night?\"\nI tell him my honest opinion.\n...\nFor a moment he scowls, then his smile returns.\nShinji was strange yesterday, but that doesn't even compare with this morning.",
+      "sourceUnit": "凛ルート七日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji? Were you attacked? You idiot, I thought I told you. Stay home if you want to protect yourself.\"\n\"...Shut up. What's with the high and mighty tone?\"\n\"...Shinji?\"",
+      "sourceUnit": "凛ルート七日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What, full of yourself because you're friends with Tohsaka? Don't get ahead of yourself. Just because you're working with her doesn't make you hot shit. I know you're happy you have a strong Servant, but isn't it embarrassing to be so pleased with yourself?\"",
+      "sourceUnit": "凛ルート七日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Shinji glares back at me.\nNow it seems like he's lost all composure, which is really unlike him.\n\"Whatever, I'm glad you came. It'd be boring if you didn't have front row seats, you know?\"\nThat must be all he wanted to say, as he goes back to his seat, chuckling.",
+      "sourceUnit": "凛ルート七日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It's lunch break and the classroom gets louder.\n\"...Huh? Issei's already gone.\"\nHe must've gone to the student council room again to go nap.\nI made lunch again, so I would like to avoid eating in the classroom...",
+      "sourceUnit": "凛ルート七日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nThe guys in the class are making a commotion.",
+      "sourceUnit": "凛ルート七日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what's going on?\"\nI call out to them.\nThe boys are huddled in a secret meeting and look at me suspiciously.",
+      "sourceUnit": "凛ルート七日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"This is not the time, that it is not. Look outside the classroom. But do so secretly.\"\nGotou must've been watching some kind of period drama last night, the way he's talking. Still, I do as he suggests.",
+      "sourceUnit": "凛ルート七日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wha—\"\nThere...\nOutside the classroom in the hallway, someone's acting even more suspiciously than Gotou.",
+      "sourceUnit": "凛ルート七日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"That's Tohsaka from 2-A, right? D-does she have some business with our class?\"\n\"There's no mistaking it. I've been watching carefully, that I have. She continually peers into our classroom. This is the seventh pass she's made. Now, eight.\"",
+      "sourceUnit": "凛ルート七日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, this ain't a coincidence anymore. Come to think of it, doesn't she have a real nasty look right now? Usually she's all composed, right?\"\n\"You thinking what I'm thinking? Because it looks to me like each time she passes by she looks even more pissed. I don't want any of that.\nShe's super angry. What do you think has her panties in a twist?\"",
+      "sourceUnit": "凛ルート七日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"It's as if the one she awaits has yet to appear, and has not even noticed she waits. Like she has hidden away a birthday present, but now fumes over that person not noticing for an entire year.\"\n\"Your metaphors are crazy, Gotou. Yet strangely on point.\nWere you some strategist or military advisor in a past life?\"",
+      "sourceUnit": "凛ルート七日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...The guys are saying whatever they want.\n\"...\"\nI timidly look out to the hallway again.",
+      "sourceUnit": "凛ルート七日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "She's pissed.\nI don't know what she's pissed at, but I feel like Gotou's guess is right.",
+      "sourceUnit": "凛ルート七日目-00:page20:1"
+    },
+    "page21": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート七日目-00:page21:1"
+    }
+  }
+}

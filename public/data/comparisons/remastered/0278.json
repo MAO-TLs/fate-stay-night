@@ -1,0 +1,166 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0278",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home.\"\nEven though I don't really feel it, I try to carry on with the normal routine.",
+      "sourceUnit": "凛ルート五日目-24:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It feels like a lot is going on in the living room.\nI bet Fuji-nee is watching TV, and Sakura is preparing dinner.\nSaber... Is she in the living room?",
+      "sourceUnit": "凛ルート五日目-24:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nI shake my head when Archer's words flash through my mind.",
+      "sourceUnit": "凛ルート五日目-24:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what he wanted to say nor do I want to know.\nBut it's stuck in my head, and I can't ignore it.\nA familiar called a Servant.\nHis honest opinion, scorning Heroic Spirits like they're merely a cleanup crew.",
+      "sourceUnit": "凛ルート五日目-24:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Welcome home, Senpai.\"\n\"Thanks. I'm sorry I'm late. How much of dinner's done?\"",
+      "sourceUnit": "凛ルート五日目-24:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I just started. But I don't think I need your help. We're having stew tonight as per Ms. Fujimura's request.\"",
+      "sourceUnit": "凛ルート五日目-24:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Yeah, I can't help with that.\"\nI see that all the ingredients are cut up already.\nSakura is efficient, so surely all that's left is to simmer them.",
+      "sourceUnit": "凛ルート五日目-24:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Where's Saber? I don't see her in the living room.\"\n\"She is taking a nap in the other room. She said to wake her up when you came home, but...\"\n\"...Hm. Was she mad?\"",
+      "sourceUnit": "凛ルート五日目-24:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... I don't think so? Though Saber always looks a little on edge.\"",
+      "sourceUnit": "凛ルート五日目-24:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...If Sakura is hesitant to say it, it must mean that Saber was really mad.\nIt's only natural though, since I broke our promise of coming home before dark.",
+      "sourceUnit": "凛ルート五日目-24:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, welcome home, Shirou. Saber was really mad. She said she wanted to talk to you in the dojo once you're home.\"\nFuji-nee makes a frightening statement while munching on a mandarin.",
+      "sourceUnit": "凛ルート五日目-24:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fuji-nee. You didn't drill anything weird into Saber's head, right? ...Um, like a person who breaks a promise should be punished by getting beaten with a shinai or something.\"",
+      "sourceUnit": "凛ルート五日目-24:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I did. We're athletes, so I told her that she doesn't need to hold back.\"\n...\nI see.\nThe other Masters aren't my only problem. An enemy force has already infiltrated my home.",
+      "sourceUnit": "凛ルート五日目-24:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"This is off topic, but did you take Saber to the dojo? Did you tell her to use a shinai if she wanted to practice?\"",
+      "sourceUnit": "凛ルート五日目-24:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I fought with her a bit, but she's amazing. She doesn't even know kendo, but she seems even more like a Japanese fencer than I do. She do Western fencing where she's from?\"",
+      "sourceUnit": "凛ルート五日目-24:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I don't think so. I think she's actually a lot like you.\"\n...Like how she swings around a huge sword that doesn't suit her frame, or how she attacks enemies like a wild animal.",
+      "sourceUnit": "凛ルート五日目-24:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well, I'll accept my punishment since it's my fault.\nBy the way, about Mitsuzuri. Do you know if she's home or not?\"",
+      "sourceUnit": "凛ルート五日目-24:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Why do you know about that? You shouldn't have been informed yet.\"\n\"Yeah, I heard about it in the student council room... So, how about it? Did anyone find Mitsuzuri?\"",
+      "sourceUnit": "凛ルート五日目-24:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I stare at Fuji-nee.\n...Fuji-nee is still a teacher, even if she may not seem like one.\nShe keeps quiet about things she shouldn't talk about, and I'm sure she'd lie to keep students calm.\nSo I have to make sure I don't overlook anything she says or does when it comes to this.",
+      "sourceUnit": "凛ルート五日目-24:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Fuji-nee. Has nothing changed?\"\n\"...I guess I can't keep it from you. You look like you'll go run out if I keep quiet, and it's not like this is a secret.\nBut this is special treatment, okay? I'm telling you since you're her friend.\"",
+      "sourceUnit": "凛ルート五日目-24:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. I'll owe you one, so tell me already.\"\n\"Well, to start at the end, they found her and she ought to be home by now. I'd assume the examination is over by now.\nShe's kind of confused, but she's uninjured and her life isn't in danger. I can't tell you anything else, though. You're friends so you should ask her about it yourself.\"",
+      "sourceUnit": "凛ルート五日目-24:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see.\nSo it wasn't serious, huh?\"",
+      "sourceUnit": "凛ルート五日目-24:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...I'm glad.\nI still don't know what Mitsuzuri got into, but I can tell that it has something to do with the strange incidents happening in town.\nThere's a high possibility that the culprit is the Master hiding at my school.\nI don't know what I would've done if something happened to Mitsuzuri.",
+      "sourceUnit": "凛ルート五日目-24:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh yeah. Sakura, can I talk to you for a bit?\"\n\"...Yes? What is it, Senpai?\"\n\"Well, it's nothing much. I was just wondering if you knew what Shinji is up to.\"",
+      "sourceUnit": "凛ルート五日目-24:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... I'm sorry, Senpai. I spent the night here last night and went to school, so I haven't been home. I heard that he skipped school today, but um...\"",
+      "sourceUnit": "凛ルート五日目-24:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"So you don't know the situation, huh? ...Yeah, there's no way that you would know. Sorry, dumb question.\"",
+      "sourceUnit": "凛ルート五日目-24:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's okay! I know my brother more than anyone else, so I should know why he skipped, right?\"\n\"No, that's not your responsibility. Besides, it really helps to have you here.\"",
+      "sourceUnit": "凛ルート五日目-24:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...The incident in the woods.\nIf the one that was there was actually Shinji, then he has to have some kind of connection to the Servant in black.\nWorst case scenario, there's a possibility that he's the Master.\nIf that's the case, wouldn't it be dangerous to let Sakura go back to the Matou household?",
+      "sourceUnit": "凛ルート五日目-24:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, what does that mean...\"\n\"...Sakura, spend the night here tonight. You can use Fuji-nee's clothes if you don't have spares.\"\n\"Huh... S-Senpai, is that, um...\"",
+      "sourceUnit": "凛ルート五日目-24:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I'd feel better about it if you can stay here for a while if you can.\nWell, you can go home if it's really that much of a pain.\"\n...Oh.\nRight, this is really coming out of nowhere for her. It really puts her on the spot, too.",
+      "sourceUnit": "凛ルート五日目-24:page29:1"
+    },
+    "page30": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート五日目-24:page30:1"
+    },
+    "page31": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

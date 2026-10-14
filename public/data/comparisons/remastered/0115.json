@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0115",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The next thing I know, it's noon.\n\"It would seem to be lunchtime, Shirou.\"\n\"Yeah, it is.\"\nBoth our stomachs growl in agreement.",
+      "sourceUnit": "セイバールート七日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's eat. Is there anything you'd like to eat, Saber?\"\n\"Not in particular. I have been satisfied with each meal you have prepared thus far.\"",
+      "sourceUnit": "セイバールート七日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Saber puts it kind of oddly.\n...Well, at least she's not picky like Tohsaka.",
+      "sourceUnit": "セイバールート七日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll go do a bit of shopping. I'll probably come back the same time as yesterday, so rest in the living room until then.\"\n\"Yes. I will be waiting, Shirou.\"",
+      "sourceUnit": "セイバールート七日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I decide to try making shrimp balls for lunch; I've always wanted to try making them at home.\nThey'll be piping hot balls of ground shrimp, a bit bigger than takoyaki.",
+      "sourceUnit": "セイバールート七日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I bought some mustard and I'm all set with the snacks for our three o'clock snack time.\"\nI load my purchases onto my bike.\nThat reminds me.\nI met Illya here yesterday.",
+      "sourceUnit": "セイバールート七日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"She's not here today.\"\nWell, she probably shouldn't be coming here every day. Somehow, not seeing her is disappointing though.\nI haven't told Saber or Tohsaka about meeting Illya yesterday.\nShe didn't confront me as an enemy...and I'm hesitant to tell them about her in the first place.",
+      "sourceUnit": "セイバールート七日目-18:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

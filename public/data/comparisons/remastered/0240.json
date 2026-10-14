@@ -1,0 +1,831 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0240",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The moon hangs high in the sky.\nThe clouds have finally cleared and the black of night is giving way to indigo.\nIt will be dawn soon.\nThe long night is about to end.",
+      "sourceUnit": "セイバールート十五日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It will be the last one.\nDuring the night, Saber and I traveled to our final destination.",
+      "sourceUnit": "セイバールート十五日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...this...\"\nI hear the tension in Saber's voice.\nShe's not the only one.\nAs I quietly nod, I feel a cold sweat trickling down my neck.",
+      "sourceUnit": "セイバールート十五日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The mountain feels like a living thing.\nChills run down my spine. Stifling pressure assails me with every step I take.\nThe air is thick and damp.",
+      "sourceUnit": "セイバールート十五日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"The mana is dense. It feels exactly the same as ten years ago. I expect that, at the very top...\"\nThe summoning of the Holy Grail has begun. Maybe it's even over by now.\nEither way, Gilgamesh has probably defeated Lancer.",
+      "sourceUnit": "セイバールート十五日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go over it one more time, Saber.\nOnce we reach the top, the only thing left will be the fight. You take care of Gilgamesh, and I'll take care of the Master...Kotomine.\nNeither of us will get involved in the other's fight. If one of us defeats their opponent, that'll be the end of it.\"",
+      "sourceUnit": "セイバールート十五日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. This time, I will concentrate on my own fight. Kotomine is an enemy you must defeat yourself.\"\n\"Right. Yeah, leave him to me. And Saber...don't let him beat you.\"",
+      "sourceUnit": "セイバールート十五日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. On my honor, I will not lose to him. Not as a Servant, but as a Heroic Spirit, I shall not submit to that king...\"",
+      "sourceUnit": "セイバールート十五日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "There is no longer hesitation or worry in her voice.\nI don't need to say anything else to her.\nWe will head to battle and determine the final Master in this war.\nBut if, in the process…\n...if one of us dies, the survivor just has to kill their opponent.",
+      "sourceUnit": "セイバールート十五日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Even if I'm defeated, as long as Saber defeats Gilgamesh, Kotomine won't get his hands on the Holy Grail.\nAt the same time, if Saber is defeated but I defeat Kotomine, Gilgamesh can't stay manifested.\nSo we don't have to cover for each other.\nThis battle is now each of ours alone.",
+      "sourceUnit": "セイバールート十五日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "And so we climb the stone steps.\nThe closer we get to the temple gate, the denser the air gets.\nSweat trickles down my back.\nAn ominous premonition creeps over me.\nAt the top of this stone staircase, our greatest enemies await us.",
+      "sourceUnit": "セイバールート十五日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "But...\nI don't really care about that.\nWe go up the stairs.\nCloser and closer to the temple gate...\nEverything will be over.\nNo matter who wins this battle, Saber will disappear.",
+      "sourceUnit": "セイバールート十五日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The endless, but fleeting days of fighting will finally be over, and Saber will disappear from the world.\nShe'll return to her time, where she belongs.",
+      "sourceUnit": "セイバールート十五日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "And...\nI can't say I don't have any regrets.\nI'm going to lose Saber.\nI'm going to lose the person I vowed to protect...the person I most want to be happy.\nEven now, I don't know just how painful that will be.\nFor now, we're still walking together, and I can feel her presence.\nI'm not prepared to lose her.",
+      "sourceUnit": "セイバールート十五日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Even if I knew a few days before...\nEven if, from the moment we met, I knew we would eventually part ways...",
+      "sourceUnit": "セイバールート十五日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nThinking back, we made so many memories.\nWe walked together some nights, fought together some nights...\nAt first, I did everything I could to prevent Saber, a girl, from fighting. She also kicked my ass in the dojo.\nI also slept in the shed because I was too embarrassed to sleep in a room right next to hers. We ate lunch together.",
+      "sourceUnit": "セイバールート十五日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Saber liked baths, she liked my cooking, liked the clothes Tohsaka brought her, and she had incoherent conversations with Fuji-nee.\nShe pushed herself, shouldered all the burdens herself, and finally collapsed...and then we explored the depths of our hearts in the ruins.",
+      "sourceUnit": "セイバールート十五日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Things took a turn after that.\nI couldn't stop thinking about Saber, my purpose for fighting changed, and I realized I loved her.\nHow can I lose someone like that?",
+      "sourceUnit": "セイバールート十五日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber doesn't say anything.\nI can't think of anything to say either.\nOnce we've climbed the stairs...\n...and reached the top, there'll be nothing for us to talk about.",
+      "sourceUnit": "セイバールート十五日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "A little while later, I'll lose Saber and have to say goodbye.\nBut...\nThis is the only time we have to say goodbye.",
+      "sourceUnit": "セイバールート十五日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nWe climb the stairs...\nIf I want to avoid saying goodbye, I just have to chatter about insignificant stuff like before.\nFor example...\nLet's go to town when we go home.\nWhat should we eat for breakfast tomorrow?\nInsignificant stuff.",
+      "sourceUnit": "セイバールート十五日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't even seem to do that, though.\nBecause whatever I say, those could end up being our last words.\nA clear end.\nNeither Saber nor I could say a clear goodbye.",
+      "sourceUnit": "セイバールート十五日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...And now we're at the temple gate.\nThis is my last chance.\nIf we proceed, it'll all be over.\nBut if we go back...maybe I can think of something that would stop me from losing her.",
+      "sourceUnit": "セイバールート十五日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\nI stop and turn to Saber.\nShe is the same as ever.\nHer face is composed, but her eyes seem tense, like she's trying to hold something in.",
+      "sourceUnit": "セイバールート十五日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "The moment I see those eyes, I am assailed by temptation on all sides.\nTemptation to run away.\nTemptation to turn back so I don't lose her.\nTemptation to tell her what I really want, assuring me she'll accept.",
+      "sourceUnit": "セイバールート十五日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy resolve wavers.\nThe temptations are begging, itching to be voiced.\nI bite my tongue.\n\"Let's go. This will be our final battle.\"\nI tell her, just like usual, as her Master.",
+      "sourceUnit": "セイバールート十五日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Saber nods silently.\nI see the strength in her eyes, full of resolve as they always are.\n...\nI won't make any requests.\nThe same way she believes in me...\nI'm going to believe I made the right choice.",
+      "sourceUnit": "セイバールート十五日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I cross the threshold of the temple gate.\nThere's no turning back now.",
+      "sourceUnit": "セイバールート十五日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "I can't say anything. Not that I could say what I really wanted, anyway.\nBut I want to at least believe that this frustrated silence managed to convey my feelings.",
+      "sourceUnit": "セイバールート十五日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "We've finished climbing the long stone stairs.",
+      "sourceUnit": "セイバールート十五日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "This is our final memory of our time together here on this earth.",
+      "sourceUnit": "セイバールート十五日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "The summit is bathed in a crimson glow.\nWind whips at my face, seeming to come from that red light somewhere at the rear of the temple grounds.",
+      "sourceUnit": "セイバールート十五日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The air is heavy with death.\nIt reminds me...\n...of that fire ten years ago.",
+      "sourceUnit": "セイバールート十五日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut it's different.\nBound up in the red light, I spy something that looks like it's going to ooze out over the temple itself.",
+      "sourceUnit": "セイバールート十五日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "It's out, past the building.\nA glistening blackness, like mucus, spreads over the vivid red.\nThe...mud spreads like oil over the clear ground.",
+      "sourceUnit": "セイバールート十五日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "It oozes over the ground, contaminating it, killing everything it touches.\nIt's like a visible curse.\nEven a mage like me, still in training as I am...\n...understands that stuff only acts on the human psyche, and will only swallow human bodies.",
+      "sourceUnit": "セイバールート十五日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"You're finally here. I've been waiting, Saber.\"\nGilgamesh stands there, haloed by the vivid red glow.\nHe pays no mind to the bloodred glow or the death-shrouded blackness.\nThe Servant armored in gold waits in the middle of the temple grounds for Saber and Saber alone.",
+      "sourceUnit": "セイバールート十五日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"You've come at a good time. The Holy Grail has finally decided to show itself, and it's starting to open up.\nThis curse is what the Holy Grail holds within it. It's the Third Element that keeps us Servants in this world.\nIt's what spilled onto me ten years ago.\"",
+      "sourceUnit": "セイバールート十五日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Gilgamesh has eyes only for Saber.\nSaber is similarly focused on him.\nShe steps forward and points her sword at the knight in front of her.",
+      "sourceUnit": "セイバールート十五日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh. What are your intentions?\nThat curse...what do you plan on doing with the thing that falsely presents itself as the Holy Grail?\"",
+      "sourceUnit": "セイバールート十五日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I've already told you that I have no wish. I don't care what Kotomine does with the Grail.\nRight now, my only interest is in you.\"",
+      "sourceUnit": "セイバールート十五日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "As if to answer, the golden knight raises one arm.\nAt the same time, a shimmering haze forms behind him.\nThe king's treasure...hundreds of Noble Phantasms...are readied in that haze, like bullets loaded into a gun.",
+      "sourceUnit": "セイバールート十五日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...the time has finally come. I've been thinking of this moment for so long, Saber.\nI've been thinking of how to pin you down as you struggle, and make you swallow that mud.\nI'm going to stomp on your sobbing face and make you drink the mud until it's dyed your entire body. I've imagined you, writhing beneath me as the agony of death drives you mad, while your pathetic, filthy figure clings to my feet!\"",
+      "sourceUnit": "セイバールート十五日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Well said. You will, I am sure, not object to meeting the same fate then, King of Heroes.\"\nShe takes another step.\nSaber walks right into range of all those Noble Phantasms.\nThis isn't a battle I can help with.\nNo ordinary human could step into this battle between Saber and Gilgamesh.",
+      "sourceUnit": "セイバールート十五日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh. Precisely what I expect of you, Saber.\nYou know you can't possibly win, but you are still defiant, showing your fighting spirit. You are truly a fitting finale for this festival.\"",
+      "sourceUnit": "セイバールート十五日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"I will not permit any outsiders to interfere. You, mongrel. If you plan to fight Kotomine, begone. He awaits you at the altar.\"",
+      "sourceUnit": "セイバールート十五日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nKotomine's waiting?",
+      "sourceUnit": "セイバールート十五日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I glance at Saber.\nShe gives a slight nod, her eyes still on Gilgamesh.\nAs I leave...\n...I feel her wishing me luck.",
+      "sourceUnit": "セイバールート十五日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I turn around.\nMy opponent is elsewhere.\nBehind me...\nAs I run, I hear the sound of Saber's deadly battle beginning.",
+      "sourceUnit": "セイバールート十五日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Deep in the grounds...\nBehind Ryudou Temple's main building is a large lake.\nIt's been untouched for a long time, making it seem sacred, like it's inhabited by a dragon god.\nThe lake's clear, blue water is so pure and clean, with not a trace of cloudiness.",
+      "sourceUnit": "セイバールート十五日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "At least, that was true until yesterday.\nThe lake is far from pure now.\nRed phosphorescence spreads out before me.\nIt is a sea of dark, murky tar.\nAnd...",
+      "sourceUnit": "セイバールート十五日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "A hollow chasm yawns in midair, the body of a young girl floating near, in offering.",
+      "sourceUnit": "セイバールート十五日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Koto...mine...!!!\"\nI've been trying to remain calm all this time, but that sight drives me over the edge.\nI stop and glare at the enemy.",
+      "sourceUnit": "セイバールート十五日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome, Shirou Emiya, the final surviving Master.\"\nThe ends of his lips curl up in a smile, and he spreads his arms in greeting.\nOur final battle will be fought here.\nThis will be the summoning altar in this Holy Grail War.",
+      "sourceUnit": "セイバールート十五日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Put down Illya. I'll thrash you after that.\"\nWe're about ten meters apart.\nAs soon as I take another step, the battle will begin.\nI don't know what kind of mage Kotomine is, but he likely uses projectile weapons like Tohsaka.",
+      "sourceUnit": "セイバールート十五日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "On the other hand, my only option is to get close and punch him in the face.\nEven with Tohsaka's dagger concealed behind me, I still need to get close.\nOnce the battle starts, my only option is to rush him and stab him in the chest.\nBut before that, I need to do something about Illya...",
+      "sourceUnit": "セイバールート十五日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Did you hear me? I told you to put Illya down. What kind of scum are you, taking pleasure in tormenting a child like her?\"",
+      "sourceUnit": "セイバールート十五日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I heard you, but I cannot do as you ask. The Holy Grail has appeared, but its hollow is still unstable.\nAs the point of contact with the Holy Grail, I need her to endure for as long as her life lasts, or else my wish will not be granted.\"\nAs long as her life lasts...? Then Illya's still alive!",
+      "sourceUnit": "セイバールート十五日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"If you have no intention of bringing her down, I'll have to make you.\nI'm going to stop your wish...this dark mud, right here, right now!\"",
+      "sourceUnit": "セイバールート十五日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, I see. Do you believe this is my wish? I have to hand it to Kiritsugu, his son has such a keen sense of things.\nWhat a shock. Two generations of Emiyas, completely mistaken.\"\n\"Wh...at!?\"",
+      "sourceUnit": "セイバールート十五日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"I did not create this mud.\nThis is the power flowing from the Holy Grail itself, though it should normally be colorless. It should be omnipotent.\nNo mere human could dye it black.\nThis Holy Grail has always been like this. The moment it is opened up, it will pour from the Grail without end, causing an unimaginable catastrophe.\"",
+      "sourceUnit": "セイバールート十五日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the Holy Grail's true form.\nIt is filled with all manner of malignancy...with things that curse the world and mankind indiscriminately.\nNo one can control such a thing.\"",
+      "sourceUnit": "セイバールート十五日目-11:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhat...is he talking about?\nIf that's true, he didn't become a Master because he had a wish to fulfill...but instead just so he could open this thing!?",
+      "sourceUnit": "セイバールート十五日目-11:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kotomine. What is your wish?\"\nI grind my teeth and glare at him.\nHe smiles wider.\n\"For fun, I suppose.\"\nIt's such a simple answer.",
+      "sourceUnit": "セイバールート十五日目-11:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"WHAT!?\"\n\"Is that not clear? All right, let's take, for instance, music. Why do you feel pleasure from music, Shirou Emiya?\"\n\"Eh...wh-what the hell...?\"\n\"How about books? Why do you think stories draw people in?\"\nWhy? I've never...thought about that sort of thing before.",
+      "sourceUnit": "セイバールート十五日目-11:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Indeed, there is little call to consider such things. Various forms of entertainment...things that please humans. They are all enjoyable because they were created by humans.",
+      "sourceUnit": "セイバールート十五日目-11:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. All creation springs from humans, from their own capabilities. That means the most enjoyable, pleasurable things are humans themselves. Humans, particularly in extremis, are the greatest source of entertainment.\"",
+      "sourceUnit": "セイバールート十五日目-11:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"By comparison, entertainment humans create is but a pale shadow.\nOh, yes. Music and stories...love, hate, trust, betrayal...morality, immorality, illusion, and truth...! These are no more than impurities!\nSuch things are second-rate as entertainment goes...hardly worthy of consideration.\nI want humans themselves to be my entertainment. None of the rest interests me.\"",
+      "sourceUnit": "セイバールート十五日目-11:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"And thus, such excess and extravagance must be trimmed away.\nYou are familiar with the notion of one's life flashing before one's eyes, yes? It is precisely that. The only moment a human has any value is when they are on the very brink of death. All their lives are spent building up momentum until they finally jump...and reach for the skies. In that moment, they are dazzling, and it is that moment I desire most.\"",
+      "sourceUnit": "セイバールート十五日目-11:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"That is what you have always sought.\nAs you all feed on peace...\n...I live by consuming this star's light.\"",
+      "sourceUnit": "セイバールート十五日目-11:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...\nSeeing the priest give such a sermon, his arms spread wide, is...strange to say the least.\nA chill runs down my back, but not from what he said.\nSeeing him like that, talking about human beings and seeming somehow sacred is what's giving me chills.",
+      "sourceUnit": "セイバールート十五日目-11:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"So, you're saying...\"",
+      "sourceUnit": "セイバールート十五日目-11:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. The fire, ten years ago? Not bad. A little small in scale, but it still gave me a rush of exhilaration I've never before experienced.\n...And so, that is all I seek.\nThe kind of hell that causes souls to burst...allowing humans to shine their brightest. Do you not want to bear witness to such a glorious sight, Shirou Emiya?\nWhat do you think? Do you not agree that the dying, agonized shrieks of humans wallowing in their regret fill your breast with the most indescribable pleasure?\"",
+      "sourceUnit": "セイバールート十五日目-11:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"You...\"\nBull...shit.\nThat day...\nHow could he ever describe the hell of that day like that?",
+      "sourceUnit": "セイバールート十五日目-11:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"So you finally understand. Warped though it may be, there is no one in this world who loves humans more than I. And so, there is no one more worthy of the Holy Grail than I.\"\nThe priest smiles, pleased with himself.\nIs he saying...\n...that he thinks all those people dying helplessly was a wonderful, beautiful thing!?",
+      "sourceUnit": "セイバールート十五日目-11:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I understand, all right...\"\nI focus on my feet.\nEvery muscle in my legs tenses, ready to break into a sprint.\n\"I understand THAT YOU DESERVE TO DIE!!!\"",
+      "sourceUnit": "セイバールート十五日目-11:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "I surge forward as fast as I can.\nHe's a little less than ten meters away. If I just head straight at him, I can—\n...\nI throw myself sideways.\nI want to just kill him...\nBut my instincts kick in, saving me from death.",
+      "sourceUnit": "セイバールート十五日目-11:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnnghhh!\"\nI go tumbling across the ground, scrambling to look up.",
+      "sourceUnit": "セイバールート十五日目-11:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"That was...!\"\nI glance back at where I'd just been running.\nThe ground is on fire.\nThe dark mud spreading over the lake is steaming.\nIt's like a dark carpet.\nThe mud coils and lunges at me, snapping like a whip. It leaves a searing welt on the ground.",
+      "sourceUnit": "セイバールート十五日目-11:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"I should have mentioned that you are already well within my reach. Moreover, this stuff is extraordinarily responsive to the presence of living things.\nDart around all you like, but if you are not careful as you do so, you will die.\"",
+      "sourceUnit": "セイバールート十五日目-11:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI leap out of the way of the black mud as it strikes at me once again.\nTo hell with darting around blindly...this bastard's intent on killing me.",
+      "sourceUnit": "セイバールート十五日目-11:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...you damn fake priest!\"\nI reposition myself, keeping an eye on the lake.\nI'm no closer to Kotomine.\nLooks like he's gonna keep me ten meters away.\nThat muddy tentacle seems to be able to stretch endlessly.\nIt follows no matter how far I retreat, and it's not the only one.",
+      "sourceUnit": "セイバールート十五日目-11:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Are you ready to face me? Good. I'm pleased.\nHad you just walked away, I would have had no way to kill you. But if you desire to fight, I have no issue.\nI am, after all, a humble servant of God, and could never kill one seeking salvation or aid.\"",
+      "sourceUnit": "セイバールート十五日目-11:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you even hear yourself? I don't think that quite fits for a guy who has no problem attacking someone while their back's turned.\"\nHe's probably remembering what happened with Lancer when I say that.\nKotomine laughs, as if impressed.",
+      "sourceUnit": "セイバールート十五日目-11:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, yes. I got rather fed up with you at that point.\nWe needn't put this off any longer.'",
+      "sourceUnit": "セイバールート十五日目-11:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"To be honest, Shirou Emiya, I had hopes for you. On the night Rin brought you to the church, I even felt the hand of fate at work. You have no idea the joy I felt when I learned you were Kiritsugu's son...and so like him as well.\nTen years ago, I didn't get my wish... I never expected a chance to get my revenge on Kiritsugu like this.\"",
+      "sourceUnit": "セイバールート十五日目-11:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "The tentacle twists toward me.\nIt looms over the lake, its sickle-shaped head like a dark serpent.",
+      "sourceUnit": "セイバールート十五日目-11:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "...\nI bite my lip.\nI'm in about the worst possible situation here.\nMore and more tentacles emerge from the lake.\nI'm not sure how much longer I can even survive, to say nothing of getting near Kotomine.",
+      "sourceUnit": "セイバールート十五日目-11:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"You obviously have no chance of winning.\nThe gap in our experience is considerable. Unless you have some major factor which can multiply your experience, that difference will not be easily overcome.\"",
+      "sourceUnit": "セイバールート十五日目-11:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "The priest raises his hands.\nHe stares at the heavens like a conductor leading an orchestra.",
+      "sourceUnit": "セイバールート十五日目-11:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Put your life on the line.\nMaybe then you will be able to reach me!\"",
+      "sourceUnit": "セイバールート十五日目-11:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "The serpents surge forward.",
+      "sourceUnit": "セイバールート十五日目-11:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "Sparks fly in all directions.\nThe golden knight steps back, evading a series of savage attacks executed with astonishing skill.\nShe must have seen it as an opening.\nSaber twists away from a short sword fired at her and takes a step toward her enemy.",
+      "sourceUnit": "セイバールート十五日目-11:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Yaaaaaah!!!\"\nHer shout tears through space. Her sword strikes like a comet.\nShe presses the attack on the golden knight. He stumbles backward, overwhelmed by her skill and ferocity.\nHer sword dances.\nSo titanic is the strength behind her every blow, each could shatter boulders, smash down the walls of even the most impregnable fortress. And yet...\n\"Tch...!\"\nThe myriad deadly weapons appearing from behind her enemy turn aside every strike.",
+      "sourceUnit": "セイバールート十五日目-11:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"So annoying!\"\nGilgamesh slips back from the onslaught, another sword in his hand.\n\"Hngh!\"\nIt's easy enough for her to repel his strikes.\nBut she can't meet his attacks directly.\nEach of the enemy's weapons has abilities she simply does not know.\nBeing struck by a weapon and not knowing what it might do is suicide.",
+      "sourceUnit": "セイバールート十五日目-11:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaah...ha...\"\nSaber steps away from her cornered enemy to compose herself.\nGilgamesh, on the other hand, is not at all troubled, and picks himself up.",
+      "sourceUnit": "セイバールート十五日目-11:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"You are nothing if not persistent, woman. Can you not see how futile this all is?\"\nGilgamesh shows no sign of fatigue.\nTo him, this battle is merely a bit of entertainment.\nHe can't very well feel nervous or tired when he knows with perfect certainty that he will win.",
+      "sourceUnit": "セイバールート十五日目-11:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ha...ha..\"\nIt is another matter entirely for Saber.\nShe knows that her only shot at victory is now.\n...Before her enemy starts taking this seriously.\nShe needs to defeat Gilgamesh before he can use Ea, or she will lose.",
+      "sourceUnit": "セイバールート十五日目-11:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "And so, even knowing that it may be impossible, she does not relent in her onslaught, giving no thought to her own stamina.\nThis isn't the first time she's cornered her enemy. Or the second.\nBut she's never been able to break through his wall of Noble Phantasms.",
+      "sourceUnit": "セイバールート十五日目-11:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you intend to keep going? It is all fine and good to be loyal to your lord, but surely even that has its limits. Kotomine must have killed the mongrel by now. You have no reason to keep fighting.\"\n\"My Master is still alive. Shirou will not fall to a Master like that man.\"",
+      "sourceUnit": "セイバールート十五日目-11:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"It's only a matter of time. You do not know the true nature of the Holy Grail. Even I have trouble handling that thing. The boy won't last a minute against it.\"\n...\n\"You have no hope of besting me, just as the child has no hope of besting Kotomine.\nYou have mistaken your roles. Were it you facing the Holy Grail now, the battle would have been yours.\"",
+      "sourceUnit": "セイバールート十五日目-11:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "There is no amusement in the golden knight's eyes.\nHe's serious.\nBut that's wrong.\nTo Saber, the choice itself was a mistake.",
+      "sourceUnit": "セイバールート十五日目-11:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Nonsense. This was the correct choice. You will no more defeat me than that corpse of a man will defeat Shirou.\nHow the mighty King of Heroes has fallen, hoping for what has yet to take place.\"\n\"Oh? So you still have strength enough for such impudence, do you?\"\nThe air around Gilgamesh twists and distorts.\nMore and more Noble Phantasms appear behind him.",
+      "sourceUnit": "セイバールート十五日目-11:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Here he comes...\"\nShe adjusts her grip on her sacred sword.\nIn truth, there is a way.\nThere's only one way to defeat that golden knight.\n\"But in order to do so...\"\nFor her plan to succeed, certain conditions must be met.",
+      "sourceUnit": "セイバールート十五日目-11:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "Even if she takes out Ea, he will still be able to defend against her attack if he has any energy left. She would also have to take Ea's attack head-on again to be sure whether it's even possible to defeat.\n\"Take another strike from Ea? That is preposterous. Even with my sheath returned, I could not possibly survive that attack.\"\nBut there is no other way to win.\nIt is just a matter of how to spin that thin thread of hope into real victory.",
+      "sourceUnit": "セイバールート十五日目-11:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "Normally, her intuition would show her the best route, and she would act in accordance with what she sees.\nBut that intuition is no help now.\nPerhaps her chances for victory are so slim that her intuition cannot show her the path.",
+      "sourceUnit": "セイバールート十五日目-11:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nBut she still has to fight.\nShe has to keep fighting, for Shirou, who surrendered his own defense by returning the sheath to her. She cannot let this man defeat her.",
+      "sourceUnit": "セイバールート十五日目-11:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. It appears that, to convince you, I must confront you with absolute defeat.\"\nEven more weapons appear behind Gilgamesh.\nEvery single one aims toward Saber, moving without Gilgamesh even touching them.\nBefore, only the hilts were visible, but now the blades emerge, awaiting their master's command.",
+      "sourceUnit": "セイバールート十五日目-11:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "This is the way knights should fight.\nGilgamesh was never a swordsman.\nHis many Noble Phantasms are deployed within time and space, and become bullets under their master's command.\nThis is why he is an Archer.\nHe is the strongest in that regard.",
+      "sourceUnit": "セイバールート十五日目-11:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Dodge these, if you can.\nIf you're lucky, they'll only impale your limbs!\"\n\"Agh!\"\nWith a single command, a rain of swords descends on her with godlike speed.\nEach of them possesses its own special, fatal power.\n\"Hngh!\"\nShe evades every single one as if gracefully slipping between falling leaves.",
+      "sourceUnit": "セイバールート十五日目-11:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "A sword from the front.\nA spear from the left.\nPolearms from above and below.\nA three-pronged sword sweeping at her in an arc.\nA hammer larger even than her streaks toward her like a meteor!\nShe blocks, parries, dodges, then twists away from the final attack!",
+      "sourceUnit": "セイバールート十五日目-11:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah!\"\nSaber's breathing is labored, and she struggles to regain her ground after being put on the back foot.\nAt that moment...\nShe sees something behind her enemy.\nBehind Gilgamesh...\n...forty-seven Noble Phantasms are already deployed, all at the ready.",
+      "sourceUnit": "セイバールート十五日目-11:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...haaah!\"\nShe leaps with all her might.\nAs if to prevent her from escaping, a flurry of Noble Phantasms races toward her, tearing up the earth.",
+      "sourceUnit": "セイバールート十五日目-11:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "A torrent of Noble Phantasms slams into the ground one after another.\nHer armor is shattered, her gauntlet is split open, and even her greaves are impaled.\nSaber manages to avoid sustaining any fatal wounds, but in that moment, she sees something even worse.",
+      "sourceUnit": "セイバールート十五日目-11:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "Beyond the rain of Noble Phantasms...\n...as if to finish off his exhausted prey, the King of Heroes draws his favorite sword.\n\"Ea...!\"\nSaber lets gravity carry her back to the ground.\nShe lands hard and immediately pours magical energy into her sword.",
+      "sourceUnit": "セイバールート十五日目-11:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "But she isn't sure she can make it in time.\nThe wind howls. The blade of light emerges and she raises her sword without waiting for the wind to finish unraveling.",
+      "sourceUnit": "セイバールート十五日目-11:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"EX...\"\nShe doesn't bother deflecting the rain of Noble Phantasms; she simply swings her sacred sword with all her might and all the swiftness she can muster.\n\"Enuma...Elish!\"\nShe's too late.\nGilgamesh sweeps his other Noble Phantasms aside and swings Ea.",
+      "sourceUnit": "セイバールート十五日目-11:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...!\"\nI try to kick away the mud clinging to my ankles.\nMy clothes are burnt, and my skin is exposed.",
+      "sourceUnit": "セイバールート十五日目-11:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...ghhh!\"\nI jump away from the lunging tentacle.\nI can't feel my mud-coated right ankle, and I wasn't entirely sure I even still had my right leg until I used it to leap away.",
+      "sourceUnit": "セイバールート十五日目-11:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"Tah! Ha...haaah...haa...ah!\"\nI check my body while I roll.\nAnkle...okay, yeah it's still there. I just can't feel it. If it's more or less intact, I can still probably run.",
+      "sourceUnit": "セイバールート十五日目-11:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...haaa...ha...ah!\"\nI jump in another direction to avoid the mud's relentless attacks.",
+      "sourceUnit": "セイバールート十五日目-11:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "Beside me, I hear a splash.\nThe scent of burning earth wakes my dizzy head, and I push myself back up to my feet.",
+      "sourceUnit": "セイバールート十五日目-11:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnnnnnnnnh!!!\"\nA burning sensation sears its way down my back.\n\"Ha...the...hell...?\"\nI shake it off and jump to the closest clear ground.\nThe mud's pursuit relents.\nI can no longer see any of the black mud that surrounded me.",
+      "sourceUnit": "セイバールート十五日目-11:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah...ah.\"\nI bite my lip.\nI dodged and ran all over the place. But in the end..\nI'm right back here.",
+      "sourceUnit": "セイバールート十五日目-11:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaah...ha...\"\nI calm my breathing, and look up at him to at least show he hasn't broken my spirit.\nKotomine has not moved at all. He's just watched me running around.",
+      "sourceUnit": "セイバールート十五日目-11:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ha...haaa...ha...haaa.\"\nNo matter how many deep breaths I take, my heart won't stop pounding.\nIt's warning me that it's at its limit. It needs rest. My heart is ready to burst if I don't rest. That's how rapidly it's thumping in my chest. It's all but jumping out of my mouth at this point.",
+      "sourceUnit": "セイバールート十五日目-11:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"Ku...ha...haaa...a...aaah.\"\nI can't do anything.\nI can't get near Kotomine and I can't stop that black mud.\nThere's not enough time for me to hold back about using Projection; it's my only hope.",
+      "sourceUnit": "セイバールート十五日目-11:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "If there's no way forward, I just have to Project Saber's sword again.\nIt should be able to cut through that black mud and give me a chance to rush Kotomine.",
+      "sourceUnit": "セイバールート十五日目-11:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Is that all? If you've given up, say so.\"\nThe moment he speaks...\n\"Ha...ah..ha!?\"\nA tidal wave of mud crashes over me.",
+      "sourceUnit": "セイバールート十五日目-11:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh!\"\nI look up just in time to dodge.\nThe mud itself isn't bad.\nIt's slow compared to Saber's strikes when we sparred, and it doesn't change direction so it's easy to dodge.",
+      "sourceUnit": "セイバールート十五日目-11:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "But that only applies when there's just one tentacle.\nI can't handle multiple attacks at once, or those that strike from behind as soon as I've dodged another.\nAs a result, I can only move around, and still, mud slowly covers me.",
+      "sourceUnit": "セイバールート十五日目-11:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...get away!\"\nThere's no time to rest.\nI'm not going to be able to use my Projection.\nProjection requires me to form an image of a weapon from the very beginning, so I need at least a full minute of concentration.\nBut if I give Kotomine an opening like that, the only thing left of me will be smoking bones.",
+      "sourceUnit": "セイバールート十五日目-11:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ha...ha...ha...ha...ah...!\"\nEverywhere the mud touches me, I go numb.\nAt least it's not painful, but if that mud covers my entire body, I might not even know whether I'm dead or alive.\nIf that happens, I'm a goner. I'd melt away...bones and all.",
+      "sourceUnit": "セイバールート十五日目-11:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaa...ha...ha...ha!\"\nI can only run.\nI know it's only a matter of time until I run out of steam, but I have to keep running for now.\nI have no chance of reaching Kotomine while all I'm doing is avoiding the mud.\nThe mud pours like a waterfall behind him, so trying that way isn't an option either.",
+      "sourceUnit": "セイバールート十五日目-11:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "If I'm going to have any chance of getting near him, I have to do something about this mud...\n\"Ow...tsh...ah!?\"",
+      "sourceUnit": "セイバールート十五日目-11:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI-I can't believe it! I pick now, of all times, to trip!?",
+      "sourceUnit": "セイバールート十五日目-11:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "...\nKotomine stares down at me as if I were a piece of trash.\nHe points a finger at me, and several snake heads rear up from the lake.",
+      "sourceUnit": "セイバールート十五日目-11:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...!?\"\nGet up.\nI try to get up, but fall again.\n\"...Eh?\"",
+      "sourceUnit": "セイバールート十五日目-11:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "I fall.\nI fall.\nThe snakes pursue me.",
+      "sourceUnit": "セイバールート十五日目-11:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "But I still fall.\nWhy?\nWhy?\nWhy?\nBlack mud splashes over the back of my neck.\nWhy?\nNow that I look closer...\n...my right leg is entirely black.",
+      "sourceUnit": "セイバールート十五日目-11:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"This ends here.\nI expected this to be more entertaining, but you are Kiritsugu's son. What a disappointment you turned out to be.\"\n\"Wha...!?\"",
+      "sourceUnit": "セイバールート十五日目-11:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "I look up.\nI'm still conscious.\nMy wrists and neck are bound in chains of mud, but I can still feel my body.",
+      "sourceUnit": "セイバールート十五日目-11:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...don't you finish me off?\"\n\"Soon. But that would be in poor taste. You are Kiritsugu's shadow, so the debt he owes me from ten years ago will be repaid with your death.\"",
+      "sourceUnit": "セイバールート十五日目-11:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy skin burns where the mud touches it.\nIt feels like acid is seeping from my pores.\nI grit my teeth, trying to endure the pain, and check my right leg.",
+      "sourceUnit": "セイバールート十五日目-11:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "It's completely black.\nI can't feel it and it won't move. I need to either get this mud out of me, or pour magical energy through the affected areas to push out the coagulated blood.\nEither way, the moment I try to move my right leg, I'll probably tear off every muscle in it.",
+      "sourceUnit": "セイバールート十五日目-11:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I don't care. But why do you hate Kiritsugu so much? Did him destroying the Holy Grail get to you that much?\"",
+      "sourceUnit": "セイバールート十五日目-11:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, it's nothing serious. My hatred stems from our kinship. Everything he did struck a nerve. It's not unlike your feelings of disgust for me.\"",
+      "sourceUnit": "セイバールート十五日目-11:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...cut the crap! Don't you dare say that Kiritsugu and you are similar!\"",
+      "sourceUnit": "セイバールート十五日目-11:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I suppose saying that would enrage you, yes.\nHe was such a virtuous man, letting someone like me go.\nEven after I caused that great fire, he only bothered to defeat me, not kill me.\nAnd now you know what a mistake that was.\nIf only Kiritsugu had killed me, those orphans would be living peaceful lives as we speak.\"",
+      "sourceUnit": "セイバールート十五日目-11:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "\"You...!\"\n\"You know there's no retort to that. I find it unpalatable as well, though.\nAs ruthless a mage as him showing compassion and helping his enemy? I find it offensive.\"",
+      "sourceUnit": "セイバールート十五日目-11:page149:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "That story again.\nSaber told me before that Kiritsugu was a first-class mage, and he would do anything to accomplish his goals.\nBut then...",
+      "sourceUnit": "セイバールート十五日目-11:page150:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"But that was not his mistake.\nHis mistake was thinking that the war would end with the destruction of the Holy Grail.\nHe never told you anything because, in his foolish optimism, he believed the Holy Grail War had ended, and his life came to an end as the curse ate away at him.\"",
+      "sourceUnit": "セイバールート十五日目-11:page151:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "\"What a fool he was. He cursed himself and let me go, then died only a few years later.\nHe believed he accomplished something. He believed he ended the Holy Grail War. Deluded fool.\"",
+      "sourceUnit": "セイバールート十五日目-11:page152:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...you...!\"\nHold on.\nDoes that mean...\nKiritsugu died because of Kotomine?\nWhat did the peaceful face he had on the night of his death mean?",
+      "sourceUnit": "セイバールート十五日目-11:page153:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, yes. Let me ask you one last thing.\nTell me of Kiritsugu's final moments. Did he pass on something to you, his son? Did he croak satisfactorily?\nHeh. The utter cretin.\nHe accomplished nothing at all, and simply put all the responsibility on you. I bet his death was absolutely comical!\"",
+      "sourceUnit": "セイバールート十五日目-11:page154:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "\"Shut the fuck up!\"\nI kick at the ground.\nI force my leg to move, flooding it with magical energy.\n\"Gngh!!!\"\nMuscles tear, but I ignore it as I lunge forward on all fours like a wild animal.",
+      "sourceUnit": "セイバールート十五日目-11:page155:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "\"Good.\nThere's the ferocity I expected!\"\nKotomine holds his hand over the waterfall behind him.",
+      "sourceUnit": "セイバールート十五日目-11:page156:1"
+    },
+    "page157": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know what he's thinking.\nThat cascade of mud is a curse so dense it can be seen.\nIt would be fair to call it a mass of magical energy meant only to destroy people.\nThere's no room to modify it, to change its shape.",
+      "sourceUnit": "セイバールート十五日目-11:page157:1"
+    },
+    "page158": {
+      "status": "exact_japanese_text",
+      "text": "Anyone who touches that mud will be contaminated by its potent curse, and then dissolve, as if the stuff were digesting them.\nWhich means...\nThe pain and fear felt in those dying moments lingers as magical energy...becoming the next curse to seek out the living.",
+      "sourceUnit": "セイバールート十五日目-11:page158:1"
+    },
+    "page159": {
+      "status": "exact_japanese_text",
+      "text": "Whoever touches that stuff will die.\nAny who touch it will die unless they can get the mud out of themselves.\nEven so, the priest sticks his hand into the waterfall, smiling.",
+      "sourceUnit": "セイバールート十五日目-11:page159:1"
+    },
+    "page160": {
+      "status": "exact_japanese_text",
+      "text": "\"It's time for your reward. You shall die in the same manner as Kiritsugu.\"\nHe fills his hand with darkness.\nI know, instinctively, that this will be different than before.",
+      "sourceUnit": "セイバールート十五日目-11:page160:1"
+    },
+    "page161": {
+      "status": "exact_japanese_text",
+      "text": "A flash of light illuminates the world.\nThe moment I realize it's the light of Saber's Noble Phantasm...",
+      "sourceUnit": "セイバールート十五日目-11:page161:1"
+    },
+    "page162": {
+      "status": "exact_japanese_text",
+      "text": "\"Aŋra Mainiiu.\"",
+      "sourceUnit": "セイバールート十五日目-11:page162:1"
+    },
+    "page163": {
+      "status": "exact_japanese_text",
+      "text": "The priest's words plunge the world into darkness.",
+      "sourceUnit": "セイバールート十五日目-11:page163:1"
+    },
+    "page164": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

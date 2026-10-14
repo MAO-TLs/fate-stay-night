@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0360",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI open my eyes.\nMy eyes are not the only thing that wake up, as my sleeping mind wakes up as well.",
+      "sourceUnit": "凛ルート十二日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"The wound is... Not a problem.\"\nI check the wound on my left shoulder.\nIt still hurts, but there's no intense pain like last night.\nThe heat in my body has gone down as well.\nIt shouldn't be a problem for me to move around.",
+      "sourceUnit": "凛ルート十二日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I eat breakfast and fill my empty stomach.\nFood comes before anything. My body won't move how I want it to unless it gets the nutrition it needs.",
+      "sourceUnit": "凛ルート十二日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right.\"\nI reapply the bandage on my left shoulder.\nMy exposed skin and wound have turned dark blue.\nMy wound hasn't healed up, and I can see dark red skin peeking through.",
+      "sourceUnit": "凛ルート十二日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course. Saber's not here right now.\"\nI disinfect for my peace of mind, put gauze over it, and wrap bandages around it.\nWrapping bandages and constricting the wound is the most primitive first-aid treatment, but I have to do this or my wound would expand just by moving my left arm.\n\"All done. I just need a weapon now.\"",
+      "sourceUnit": "凛ルート十二日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The sky is cloudy.\nIt must be really cold today, as there's still frost left in the yard.",
+      "sourceUnit": "凛ルート十二日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut, this has nothing to do with me.\nI don't feel any cold.\nMy body is so hot I want to pour ice water over my head.\nEven then, my body is in much better condition compared to yesterday.",
+      "sourceUnit": "凛ルート十二日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "These bamboo swords are the only things that I could use as weapons after all.\nI choose the one that seems like it could pass magical energy through it the best and wrap it in my bag.",
+      "sourceUnit": "凛ルート十二日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Then, I slap my cheeks.\nI don't know if it was to psyche myself up again or if I was preparing to never come back here.\nI don't know why I did it myself.",
+      "sourceUnit": "凛ルート十二日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I sling the bag over my right shoulder and head outside.\nThe place where I've spent many years.\nI didn't even look back at the shed that could be considered my own room.",
+      "sourceUnit": "凛ルート十二日目-00:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

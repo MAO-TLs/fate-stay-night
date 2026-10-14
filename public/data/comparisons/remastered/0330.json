@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0330",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn it. Now there's no way Kuzuki will come out from the temple.\"\nAfter Caster and Kuzuki disappear...\nWithout concern over her wounded chest, Tohsaka grits her teeth in regret.",
+      "sourceUnit": "凛ルート九日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...I understand how Tohsaka feels.\nAt this point, Kuzuki won't come out of the temple.\nIf we are to defeat Caster, we're going to have to take the fight to them this time and make an attack on their territory.",
+      "sourceUnit": "凛ルート九日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "But Assassin is the gatekeeper at the temple, and Kuzuki and Caster are not opponents that can be defeated easily. We'll be defeated again if we just attack recklessly.\nYet we have no other choice but to go to the temple if we want to defeat Caster.",
+      "sourceUnit": "凛ルート九日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, I must warn you. That temple is a dangerous place for us Servants.\nThe chance at victory is slim even if we have Archer join us and push our way through.\"\n\"...Hmph. I know how strange that mountain is. I won't chase after them no matter how frustrating it is, and I won't involve your Master in attack strategies that are overly aggressive.\"",
+      "sourceUnit": "凛ルート九日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then, are you giving up on attacking Caster?\"\n\"You're kidding. I can't stand being beaten, and most of all, I can't let Caster be. I think your Master has the same opinion, isn't that right?\"\nShe turns her gaze towards me.",
+      "sourceUnit": "凛ルート九日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber follows Tohsaka's lead and looks to me as if there's any question.",
+      "sourceUnit": "凛ルート九日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. I can't let those two be.\nCaster's not going to stop collecting magical energy, and her Master, Kuzuki, said he won't stop her either. So it's up to us to stop them.\nAssassin is still at the temple, but everything will be settled if we defeat Caster's Master, Kuzuki.\"",
+      "sourceUnit": "凛ルート九日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I don't think Mr. Kuzuki will let us take away his Command Spells that easily, but we should be able to manage if we get ahold of him.\"\n...We'll also have to plan strategies for the time being...\"\nThen...\nI don't know why, but Tohsaka suddenly...",
+      "sourceUnit": "凛ルート九日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"More than that, what was that earlier, Emiya? Wasn't Strengthening your only magecraft?\"\nShe asks with a serious expression, as if watching an enemy.",
+      "sourceUnit": "凛ルート九日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I'm at a loss.\nThe magecraft from earlier... Is she asking about reproducing Archer's swords?\nWell, I'm also surprised that I can do that, but it's not something that ought to earn me that look.",
+      "sourceUnit": "凛ルート九日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be quiet and answer me. You said before that the only magecraft that you can use is Strengthening, right?\"",
+      "sourceUnit": "凛ルート九日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, yeah. The first magecraft I was able to use was Projection, but I was taught to use Strengthening instead since Projection is inefficient... Wait, did I not tell you about this?\"",
+      "sourceUnit": "凛ルート九日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...You didn't. It pisses me off that you didn't tell me.\"\nHer glare intensifies.\nI really don't get why she's so angry with me.",
+      "sourceUnit": "凛ルート九日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let me ask you. This isn't your first time using Projection magecraft?\"",
+      "sourceUnit": "凛ルート九日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...well, I guess not. Whenever I fail at Strengthening, I'll often use Projection to clear my head. But it's not like I was able to conjure anything useful like earlier.\nI can get them to look similar on the outside, but everything would be empty on the inside.\"",
+      "sourceUnit": "凛ルート九日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Empty on the inside? What, do you mean you can only reproduce the appearance?\"",
+      "sourceUnit": "凛ルート九日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"No, well, I'd try for the inside too, but it never went well. That's why I'm surprised myself.\nWhat I imagined isn't close to the real thing, but those swords earlier were pretty close.\"",
+      "sourceUnit": "凛ルート九日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Then does it mean you acquired Projection before Strengthening?\"\n\"It's more like that was the only thing I could do.\nBut my old man said that was useless and I should change my focus to Strengthening.\"",
+      "sourceUnit": "凛ルート九日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I would've had you do the same thing.\n...But that's strange. You reproduced Archer's swords for such a long time, but you can't reproduce normal things.\n...Maybe you have a narrow alignment.\nThere are mages who aren't versatile, but are skilled in only one matter...\"",
+      "sourceUnit": "凛ルート九日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She starts thinking out loud.\nTohsaka doesn't try to look at me.\n\"...Let's go home for today.\nSaber seems to have used magical energy to heal herself, so we have to let her rest.\"\nAnd she goes home by herself just like that.",
+      "sourceUnit": "凛ルート九日目-13:page19:1"
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

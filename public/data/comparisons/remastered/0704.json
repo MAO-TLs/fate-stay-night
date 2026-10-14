@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0704",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ah.\"\nMy faded mind feels terribly clear.",
+      "sourceUnit": "桜ルート十六日目-05:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

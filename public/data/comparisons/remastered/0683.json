@@ -1,0 +1,841 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0683",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We reach the forest's exit sooner than I imagined.\nIt's probably because Illya showed me the way. She owns these woods.\nWhen we go out to the highway, the car I arrived in is gone.\nWe start walking in the direction of the town, and decide to flag down a passing vehicle to take us the rest of the way.",
+      "sourceUnit": "桜ルート十五日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Wounded and covered in mud, Illya and I must look suspicious.\nWe run in front of a passing car to get it to stop, and then Illya hypnotizes the surprised driver into taking us home.\nWow.\nI never thought in my life that I'd hitchhike like a car hijacker.",
+      "sourceUnit": "桜ルート十五日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, we're home. Let's go.\"\n\"...Huh?\"\nWe got home before I knew it.\nThe sun is going down.\nAt some point during the several hours it took to return from the forest, I must have dozed off.",
+      "sourceUnit": "桜ルート十五日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The sun has set by the time I'm back in the living room.\nThe clock reads past 7:00 PM.",
+      "sourceUnit": "桜ルート十五日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSomething's wrong.\nTime is passing too quickly.\nIt was barely sunset when I got into the house, but the moment I enter the living room, night has fallen. That's impossible.",
+      "sourceUnit": "桜ルート十五日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. Isn't time passing too quickly?\"\nI talk to Illya next to me.",
+      "sourceUnit": "桜ルート十五日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut Illya isn't next to me.\nIllya is...\n\"Hm? Dinner was delicious, Shirou.\"\nShe's already in the living room, saying something odd.",
+      "sourceUnit": "桜ルート十五日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Dinner?\"\n\"Yeah. I was surprised when you said that we need nutrition first, but it was a good idea. You worked hard in the kitchen.\"",
+      "sourceUnit": "桜ルート十五日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere are remains of a meal on the dining table.\nEnough used dishes for two.\nI calmly think it through and realize that I feel full.\nIt seems like I really did cook dinner.",
+      "sourceUnit": "桜ルート十五日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's odd. Did I buy groceries ahead of time?\"\n\"No, you didn't. That's why you went down to the store and brought a lot back, remember?\"",
+      "sourceUnit": "桜ルート十五日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nHm. I search my memory.\n...\n......\n.........\n............Oh, well.\nMaybe that did happen.",
+      "sourceUnit": "桜ルート十五日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. Not sure why I said that. Anyway, dinner's over.\"\n\"Yeah. You just need to rest now, Shirou.\"",
+      "sourceUnit": "桜ルート十五日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm. Yeah, I should get some rest. I'm going to go change in my room. I want to talk to you about something, so wait here a little longer. I'll be right back.\"\nIllya nods.\nI apologize and leave the living room.",
+      "sourceUnit": "桜ルート十五日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I find myself in my bedroom.\nThe second I left the living room, I collapsed in my room.",
+      "sourceUnit": "桜ルート十五日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Zzhh...grrgh...!\"\nI'm awoken by stabbing pain.\nA sword is stabbing the left side of my chest.\nThat's the only way I can describe it. My chest is hot, and numb. It feels like my life force is gushing out instead of blood.",
+      "sourceUnit": "桜ルート十五日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...\"\nOf course, I'm not literally being stabbed.\nThat's just a hallucination.\nThe part of my body that's closest to my left arm is rejecting the sense of wrongness coming from it.\nAnd that's when I realize it.\nThe way time seems to pass too quickly...\nThe disjointed images. They're all...",
+      "sourceUnit": "桜ルート十五日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. It's not my sense of time that's weird.\"\nThere's just something wrong with my memory.\nI'm not missing memories of my past, but I'm not making new records of my experiences.",
+      "sourceUnit": "桜ルート十五日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Bit by bit, when I let time pass without focusing, I don't remember anything that happens during that time.\nNo wonder I can't remember anything that happened since leaving the forest.\nIf not for this pain, I'd have lost my mind by now.",
+      "sourceUnit": "桜ルート十五日目-12:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That's...bad.\"\nI grab hold of my consciousness that seems to cut off whenever I relax.\nUnless I stay aware of myself and keep my mind in tight focus, Shirou Emiya will disappear.\nMy memories and my self won't hold together unless I keep my focus as keen as the pain stabbing me in the chest.\nIn other words, I need to maintain the same level of concentration that I did when I tried to insert Magic Circuits into my spine, at all times?",
+      "sourceUnit": "桜ルート十五日目-12:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Uh oh.\nI can't keep that up, and even if I could, I don't know how long it will keep working.",
+      "sourceUnit": "桜ルート十五日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait. How am I supposed to sleep, then?\"\nI'll never wake up if I sleep.\nIf I fall asleep, I won't go back to being Shirou Emiya.\nMy mind will be torn to pieces without a single wound on my physical body.",
+      "sourceUnit": "桜ルート十五日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI rise.\nI rummage through my desk. I need some kind of small blade. Something I can hide in my right hand and squeeze hard to cut myself.\nI can't constantly maintain a state of concentration like when I'm training.\nWhen it feels like the images are about to cut out, I'll make a fist and use the pain to ground myself.",
+      "sourceUnit": "桜ルート十五日目-12:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. I don't have a blade, but this...\"\nI find the crystal I got a while ago in my desk.\nThe night I became a Master, I found this pendant lying next to me after Lancer killed me.\nI don't know how much magical energy it used to contain, but it doesn't have enough left to use my Strengthening even once.",
+      "sourceUnit": "桜ルート十五日目-12:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah. I could try and figure out who saved my life that night. They must be the owner of his pendant.\nWe were the only ones on campus that night. I don't know why they saved me, but it was someone who didn't need a reason to help a dying person.",
+      "sourceUnit": "桜ルート十五日目-12:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nMy consciousness is cutting out.\nI'll figure this out later.\nIf I think of fun or happy things, I'll relax and pass out.",
+      "sourceUnit": "桜ルート十五日目-12:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I confirm my fighting strength.\nI've broken the seal on my left arm.\nThe holy shroud is still wrapped around it, but all it does is take the edge off now.\nKotomine told me that using Archer's arm would flip a switch.\nIt's too late to do anything about it now.",
+      "sourceUnit": "桜ルート十五日目-12:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy body is still functional.\nThe problem is with my brain. I can keep going as long as I don't sleep.\nAs for Projection... I can probably use Archer's \"Blade Works\" no more than three times.",
+      "sourceUnit": "桜ルート十五日目-12:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "If it's just once, I can deal with it.\nTwice scares me a little, to be honest.\nAnd the third Projection will be decisive. My mind might remain, but I have a feeling my body will self-destruct.",
+      "sourceUnit": "桜ルート十五日目-12:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI close my eyes and focus on my ears.\n...I hear a hard, grinding noise next to my heartbeat.",
+      "sourceUnit": "桜ルート十五日目-12:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...Something is invading my body from Archer's left arm.\nEach time I use Blade Works, I lose control of his Reality Marble and create Unlimited Blade Works inside my body, instead of outside of it.\n...I don't want to think about the consequences of that.\nI'm going to get stabbed from the inside by a thousand swords and die.",
+      "sourceUnit": "桜ルート十五日目-12:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Just kidding. I'm not going kill myself.\"\nThe situation is desperate.\nI've more or less accepted that.\nI just need to break out of these straits.\nI won't die, and I won't kill myself.\nSleeping and never waking up? That's just a cowardly delusion.",
+      "sourceUnit": "桜ルート十五日目-12:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I'll be saved.\nOnce I do what I need to do and end all of this, I'll be saved.\nThere's no point to it otherwise.\nI said that I'd protect Sakura, no matter what.\nSo I can't go dying on my own.",
+      "sourceUnit": "桜ルート十五日目-12:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I should contact Tohsaka first.\"\nThere's no time.\nI've gotta hurry over to Tohsaka's house.\nI wonder if Kotomine's safe, but now that I've rescued Illya, he'll probably go back to his usual stance.\nI don't want his help, but I promised—",
+      "sourceUnit": "桜ルート十五日目-12:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "It's past nine o'clock.\nI meant to be right back, but it's been two hours.",
+      "sourceUnit": "桜ルート十五日目-12:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry for making you wait, Illya. I want to go to Tohsaka's house. Let's go together.\"\n\"Rin's house? Mm, I don't mind, but why?\"",
+      "sourceUnit": "桜ルート十五日目-12:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, we need to regroup with her. I want to know how she's doing, too.\nKotomine said that she'd recover by tonight, but I can't trust what he says. If she's in trouble, we need to help her.\"",
+      "sourceUnit": "桜ルート十五日目-12:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. That's fine, but Shirou...\"\nIllya points at the wall.\nOh.",
+      "sourceUnit": "桜ルート十五日目-12:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm happy you care. I'm fine, as you can see.\nBut if you were that worried about me, I wish you would've stopped by my house after you left the forest.\"",
+      "sourceUnit": "桜ルート十五日目-12:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka...!? When did you get here...?\"",
+      "sourceUnit": "桜ルート十五日目-12:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Just an hour ago. Illya told me what happened in the forest.\"",
+      "sourceUnit": "桜ルート十五日目-12:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's in a bad mood...no, she's positively furious.\nShe must be upset that we went to the forest without her.",
+      "sourceUnit": "桜ルート十五日目-12:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I didn't have much choice. I thought it was a race against time, and Illya was in actual danger.\nRight, Illya?\"",
+      "sourceUnit": "桜ルート十五日目-12:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I wasn't locked up, but they might have taken me to the Greater Grail and ripped out my heart if you'd come a few minutes later.\nIf Zouken manages to take over Sakura, he'll use me to open the gate. If you and Kotomine had come a little later, I'd be dead already.\"",
+      "sourceUnit": "桜ルート十五日目-12:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"See? I wouldn't have made it in time if I waited for you.\"\n\"Oh, really? Those excuses all depend on Sakura. How about the truth, Illya?\"",
+      "sourceUnit": "桜ルート十五日目-12:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, could you tell?\nYeah, I think I still had a bit more time. Sakura is strong-willed, so she won't break that easily. I would have given it one more day until she lost her mind and became Zouken's puppet.\"",
+      "sourceUnit": "桜ルート十五日目-12:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"I knew it. Illya, you shouldn't spoil Shirou so much, you know. You just need to be twice as strict on him as you are to other people.\"\n\"Yeah. I'm glad that you're here to do that for him.\"",
+      "sourceUnit": "桜ルート十五日目-12:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "I watch them rake me over the coals.\nBut even if there was an extra day's worth of time left, I'm still not sure I could have made it in time with Tohsaka, even if we went right now.\nI was faced with a tough choice in the forest, but thanks to that, all three of us are here again.",
+      "sourceUnit": "桜ルート十五日目-12:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh.\"\n...I tightly squeeze my wandering mind.\nTohsaka and Illya's banter threatened to relax my tension.",
+      "sourceUnit": "桜ルート十五日目-12:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm? Hold on, Illya.\nIf you weren't sure whether Sakura would hold on for another day, then you would have had...\"",
+      "sourceUnit": "桜ルート十五日目-12:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Half a day or so... No. No matter how hard Sakura tries, she's about to give birth to Avenger. She'll completely change once she conceives it. Nobody will be able to save Sakura then, and nobody will be saved, either.\"",
+      "sourceUnit": "桜ルート十五日目-12:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Avenger?\"\nTohsaka and I frown at the unfamiliar word.",
+      "sourceUnit": "桜ルート十五日目-12:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, a literal avenger.\nIt's the eighth class of the Holy Grail War that the Einzberns summoned when they broke the rules.\nIts curse is what contaminated the inside of the Holy Grail.\nIt can't get out on its own, so it merged with Sakura to project that Shadow.\nAnd, it's an impossible existence that's still eating people to try and gain a definite form.\"",
+      "sourceUnit": "桜ルート十五日目-12:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"That's Avenger—an Anti-Hero who must never be summoned, and who was called forth by the Einzbern Master during the third ritual.\"",
+      "sourceUnit": "桜ルート十五日目-12:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"You knew, Illya!? You knew what the Shadow was, and what was trying to possess Sakura!?\"\n\"Yes. I understood what was happening when I extracted necessary information from Sakura.\nWhat I need to do, and what you and Shirou call your enemy.\"",
+      "sourceUnit": "桜ルート十五日目-12:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Illya closes her eyes once.\n...In resignation, I think.\nShe sighs, and seems to make up her mind about something.",
+      "sourceUnit": "桜ルート十五日目-12:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to talk about the issues at our core. They aren't relevant anymore, and they aren't a burden you two need to bear.\nAs the final Masters in this Holy Grail War, I'll let you hear the facts.\"",
+      "sourceUnit": "桜ルート十五日目-12:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya?\"\nTohsaka looks at her in amazement.\nSo do I.\nRight now, Illya's displaying a hollow calm that makes her seem like a different person.",
+      "sourceUnit": "桜ルート十五日目-12:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"It all began two hundred years ago.\nNo, their journey in search of the Holy Grail had been going on for some time before that, but the ritual was established in this land two hundred years ago.\"",
+      "sourceUnit": "桜ルート十五日目-12:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"That's where our story begins.\nThe Holy Grail is a device that can grant any wish. To complete it, the Einzberns, Makiris, and Tohsakas cooperated in a ritual to summon the Holy Grail.\nThat was the start of the Holy Grail War. A deathmatch to determine ownership of the Holy Grail, wherein seven Heroic Spirits are summoned.\nThe Masters chosen by the Holy Grail become hosts for Heroic Spirits and kill each other until only one survives.\nThat's the pretext for what you two know as the Holy Grail War.\"",
+      "sourceUnit": "桜ルート十五日目-12:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't look surprised, Rin. Did you start to suspect something?\"",
+      "sourceUnit": "桜ルート十五日目-12:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...More or less. I realized right away that someone was taking advantage of it, but I didn't give it too much thought.\nWe use a system that someone else created and reap the benefits. It's only fair that's using us as much as we use it.\nI'm not dumb enough to split hairs over every single flaw, though.\"",
+      "sourceUnit": "桜ルート十五日目-12:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I don't need to explain that the reality is the other way around, right? What about you, Shirou? Did you notice that the entire premise of having Servants fight each other is unnecessary?\"",
+      "sourceUnit": "桜ルート十五日目-12:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I guess I did, now that I think about it.",
+      "sourceUnit": "桜ルート十五日目-12:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Servants are summoned by the Holy Grail.\nHeroic Spirits are summoned as tools to test the worthiness of those chosen by the Holy Grail.\nTo obtain the Holy Grail, the summoned Heroic Spirits make contracts with hosts—Masters who will anchor them to the mortal world, and fight to defeat all of the other grail-seekers.",
+      "sourceUnit": "桜ルート十五日目-12:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...If that's all it was, then I might have looked past it.\nBut when I learned that defeated Heroic Spirits are absorbed into the Holy Grail instead of disappearing, I started to have questions.\nHeroic Spirits—Servants—are components used to select the worthiest Master for the Holy Grail.\nSo why are they stored in the Holy Grail once they've served their purpose?",
+      "sourceUnit": "桜ルート十五日目-12:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're saying that the Holy Grail War only needs the Heroic Spirits, and that the Masters are tools to summon them...?\"",
+      "sourceUnit": "桜ルート十五日目-12:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. In the Holy Grail War ritual, Masters are nothing but receptors for the Servants. As long as they can summon the Servants, it doesn't matter if they all die afterward.\nOnly the Heroic Spirits are needed to complete the Holy Grail.\nThey are pure souls which exist outside the time axis, separate from the world's laws, yet have power from outside the world which allows them to interfere with our world. That is the true essence of Heroic Spirits.\"",
+      "sourceUnit": "桜ルート十五日目-12:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"The founders needed that power.\nThey tried to use it to go outside the world.\nAnd that's the true objective of the Holy Grail built on this land.\nThe Holy Grail Wars that have been taking place here are meant to achieve a miracle beyond human power, to attain an inhuman phenomenon.\"",
+      "sourceUnit": "桜ルート十五日目-12:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"It's a Mystic believed lost to us Einzberns. A grand ritual to achieve true immortality.\nA godly feat that can materialize the souls that depart when the body dies, not as Heroic or Divine Spirits, but as humble humans.\"",
+      "sourceUnit": "桜ルート十五日目-12:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"We call this miracle Heaven's Feel—the Cup of Heaven.\nIt is the golden chalice that occupies the Third of the five current Magics.\"",
+      "sourceUnit": "桜ルート十五日目-12:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"M-Magic? You mean, True Magic!?\"\n...\nWe're stunned.\nIllya said that the Holy Grail is a ritual to operate Magic.",
+      "sourceUnit": "桜ルート十五日目-12:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Magic.\nMystics that magecraft can't achieve. Phenomena that current humans can't realize through any means.\nIt's said to be the final objective of mages, and they call those who master it Magicians, with envy and awe.",
+      "sourceUnit": "桜ルート十五日目-12:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "Currently, the Mage's Association recognizes five Magics.\nAn outsider like me—on the edges of the edge, no, who isn't even affiliated with the Association—couldn't possibly know what the details are, but I've heard that there are five rituals that are recognized as Magic, and that there are only four people who can use them.",
+      "sourceUnit": "桜ルート十五日目-12:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hold on! The Third Magic is the materialization of the soul!? But Servants are already materialized souls...!\"",
+      "sourceUnit": "桜ルート十五日目-12:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"They aren't. It's true that the foundation of Heroic Spirit summoning uses a portion of the Third Magic, but Heroic Spirits are ultimately evocations.\nServants don't live in this land, this time period. They're incomplete manifestations of the Third Magic, and Heroic Spirits can use hosts to materialize without using the Third Magic.\"",
+      "sourceUnit": "桜ルート十五日目-12:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"The Heaven's Feel isn't intended to read and replicate souls from the past.\nIt creates higher-dimensional beings which can exist independently and interact with the material world, while still being cognitive bodies.\nI'm talking about turning souls themselves into living beings and advancing them to the next stage of life.\"",
+      "sourceUnit": "桜ルート十五日目-12:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"T-the next stage? That does sound...incredible, but...\nIllya, even if they all do different things, the Magics are supposed to be a path to the Root, aren't they!? What does this have to do with the Holy Grail?\"",
+      "sourceUnit": "桜ルート十五日目-12:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"To begin with, there's only one territory in Japan that can activate Magic.\nFuyuki boasts first-rate leylines, but it lacks any quirks that would let it connect to the Root.\"",
+      "sourceUnit": "桜ルート十五日目-12:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. This place isn't distorted enough to reach it. So a hole is opened instead. If there's no road connecting to the Root, then you just need to break the walls down, right?\"",
+      "sourceUnit": "桜ルート十五日目-12:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"And the Holy Grail War is the act of breaking that wall.\nCollecting enough magical energy to grant any wish is part of that process, but the Einzberns only view it as a secondary benefit. In fact, it's just advertising to lure in Masters to serve as sacrifices for the ritual.\"",
+      "sourceUnit": "桜ルート十五日目-12:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"All the Einzberns needed was a giant magic circle that could store a large amount of magical energy away from the prying eyes of the Mage's Association.\nThe Tohsaka patriarch at the time helped them.\nThis has always been a land where the Association's reach is limited, and there aren't many places comparable to the Aozakis' land.\nTo the Einzberns, Fuyuki was a nearly perfect testing ground with all the conditions they needed.\"",
+      "sourceUnit": "桜ルート十五日目-12:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"You know the rest.\nThere are two Holy Grails.\nThe Holy Grail sleeping in the earth, and the Holy Grail which the Einzberns prepare.\nThe former is a magic circle that uses the Tohsakas' land.\nWe call it the Greater Grail,\nwhile the key that the Einzberns supply each time is the Lesser Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"The Greater Grail manages the Holy Grail War system, while the Lesser Grail collects the souls of defeated Heroic Spirits and serves as a core to power the Greater Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Once enough souls are saved up to activate the Greater Grail, it uses the souls of the visitors from the outside, Heroic Spirits, to open the hole.\nOnce their role is complete and they return to the Throne they came from, the small opening is stabilized by the Greater Grail's power, and a path to the Root, which can't be reached by humans, opens.\"",
+      "sourceUnit": "桜ルート十五日目-12:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, that's just the first step. They can't obtain what they want just because they made an opening. The path to the Root is too long.\"",
+      "sourceUnit": "桜ルート十五日目-12:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, those who obtain the Holy Grail gain access to an unlimited source of magical energy.\nNobody's used it yet, because this land is still suffused in an incomparable amount of mana. To a normal mage, that reward is more than enough to call a miracle.\"",
+      "sourceUnit": "桜ルート十五日目-12:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. So there's a big magic circle called the Greater Grail, and the Lesser Grail is its activation key.\nThe reason the Holy Grail War takes place every fifty years is to save up enough mana to summon Heroic Spirits.\"",
+      "sourceUnit": "桜ルート十五日目-12:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"An individual doesn't have enough magical energy to pull off a summoning like that.\nThe Greater Grail takes fifty years to collect this land's mana without sucking it dry, and once it has enough...\"",
+      "sourceUnit": "桜ルート十五日目-12:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"It summons Heroic Spirits and molds them into Servants.\nBut the summoning comes at a price. They wouldn't respond to the call unless they had something to gain.\nSo, the Lesser Grail was created as an offering to them.\"",
+      "sourceUnit": "桜ルート十五日目-12:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course, it was always a lie.\nThe Einzberns have only ever wanted the Heroic Spirits' souls.\nThey didn't care about the spiritual cores. They just wanted massive souls.\nSo, they came up with the Holy Grail War scheme to trick Servants and Masters into killing each other. It is a scheme that continues to this day.\"",
+      "sourceUnit": "桜ルート十五日目-12:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"...That only started from the second war, though.\nI was taught that during the first war, they wantonly summoned Heroic Spirits, and Tohsaka, Makiri, and Einzbern all fought over control of them, until it all ended in sudden failure.\"",
+      "sourceUnit": "桜ルート十五日目-12:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why they came up with the current rules, which were applied starting from the second war.\nThey invited mages from afar, and they all killed each other for the Holy Grail.\nAs long as they had their own Servants, the other Masters were just obstacles, and it was efficient to have them die in battle.\nFrom the perspective of the founding families, it was a legal and convenient way to eliminate the other collaborators.\"",
+      "sourceUnit": "桜ルート十五日目-12:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"My god. So, what, the rule about Masters fighting each other was invented because they couldn't peacefully negotiate ownership rights and tried to seize it by force?\"",
+      "sourceUnit": "桜ルート十五日目-12:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. But the deathmatch turned out to be an effective way to select the winners.\nIt's like you, Rin. Some Servants and Masters might have realized they were being lied to, but they still didn't care. After all, they would still obtain the Holy Grail if they won.\"",
+      "sourceUnit": "桜ルート十五日目-12:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka seems to accept that.\n\"...\"\n...In other words, the Holy Grail War ritual wasn't meant to obtain the Holy Grail, but to use it to go outside of the world.",
+      "sourceUnit": "桜ルート十五日目-12:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "It was an attempt to go outside.\nAccording to studies of the arcane, a power said to be the pinnacle of dimensional theory is located outside of this world.\nIt's called the \"Swirl of the Root,\" and its coordinates are believed to be the origin of all things.\nIt's said to be the seat of the gods—the alpha and omega of creation, where everything in the world is recorded, and everything in the world can be made.",
+      "sourceUnit": "桜ルート十五日目-12:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut who cares about all of that, honestly?\nMy old man might have understood how important it was, but it has absolutely nothing to do with me.\nWhat's important is how it concerns the identity of the thing possessing Sakura.",
+      "sourceUnit": "桜ルート十五日目-12:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. I don't care about the true goal of the Holy Grail War. You said yourself that it isn't relevant to us.\nMore importantly, tell us about the thing you mentioned earlier.\"",
+      "sourceUnit": "桜ルート十五日目-12:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"I-irrelevant!? This is Magic we're talking about! The Third Magic, no less! It's a taboo of taboos which the Association has kept under wraps forever!\nYou're a mage, too, so you can't just ignore the Third—\"",
+      "sourceUnit": "桜ルート十五日目-12:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I can... Come on, Tohsaka, what are you thinking?\nThis isn't the time to talk about some ritual that won't work, anyway.\"\n\"O-oh yeah? Where's your proof that it won't work?\"",
+      "sourceUnit": "桜ルート十五日目-12:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, I don't know why, but nobody's ever won the Holy Grail War, right? So something must be wrong with the way the ritual works.\n...Besides, how else would you explain Sakura? If the Holy Grail is a path to Magic, are you saying that what's happening to Sakura is Magic, too?\"\nTohsaka goes quiet. I seem to have struck a nerve.",
+      "sourceUnit": "桜ルート十五日目-12:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, why did the Holy Grail War turn into this?\nKotomine mentioned that there's something inside the Holy Grail.\nIt's gotta be that Avenger thing you mentioned. Is it inside the Holy Grail? Not inside you or Sakura, but the Greater Grail?\"",
+      "sourceUnit": "桜ルート十五日目-12:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so Kotomine knew.\nHe's a mage who was tainted by Avenger, like Sakura. He's probably known all along what was inside the Holy Grail.\"\n\"Huh...? Kirei is like Sakura?\"",
+      "sourceUnit": "桜ルート十五日目-12:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. The rest of this concerns both of you.\nIt's what Zouken is trying to acquire, and what changed Sakura. I'll tell you about the thing lurking in the Holy Grail, which contaminated the souls of the Heroic Spirits, which are comprised of neutral power.\nIts class name is Avenger.\nIt's a Heroic Spirit that's on its way to becoming a successful case of the Third Magic, using the power of the Grail to acquire a shape as a living creature.\"",
+      "sourceUnit": "桜ルート十五日目-12:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? Hang on, then how could anyone say Magic is irrelevant? You just said Magic.\"",
+      "sourceUnit": "桜ルート十五日目-12:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Avenger's materialization doesn't use the Magic of the Holy Grail. It's a Heroic Spirit who's always innately had those attributes.\nIt can materialize inside the Holy Grail because it's Avenger.\nThe Greater Grail only summoned Avenger, who is capable of using the Third Magic; the grail itself isn't capable of using the Third Magic.\"",
+      "sourceUnit": "桜ルート十五日目-12:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"...? Um, so you're saying that it's a monster that could always materialize itself?\nIt can just do the Third Magic on its own, even if the Greater Grail doesn't manage to activate Magic?\"",
+      "sourceUnit": "桜ルート十五日目-12:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes... It started in the third war.\nAfter failing in the first war and being eliminated early in the second, the Einzberns got desperate and summoned a Heroic Spirit specialized at killing.\"",
+      "sourceUnit": "桜ルート十五日目-12:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"They obtained an old scripture and used the traditions of another country as a catalyst to summon their most evil demon.\nThey summoned something forbidden in order to kill all the other Masters, force the Greater Grail to activate, and monopolize the spoils.\n...Its name is Aŋra Mainiiu—\nan Anti-Hero of slaughter said to embody all of the curses in the world.\"",
+      "sourceUnit": "桜ルート十五日目-12:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Aŋra...Mainiiu?\"\n...Hang on.\nIf I recall, Aŋra Mainiiu is the name of an ancient Persian demon.\nIt's the greatest devil of Zoroastrianism—an advocate of evil that has been battling for nine thousand years against the light god safeguarding humanity's goodness.\nZoroastrianism contains stories revolving around the conflict between two gods of good and evil. It's one of the first religions to feature the duality of angels and demons.",
+      "sourceUnit": "桜ルート十五日目-12:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "But there's no hero named Aŋra Mainiiu.\nHow could someone bearing the name of a devil king become a Heroic Spirit?",
+      "sourceUnit": "桜ルート十五日目-12:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"That can't be true, Illya. The Holy Grail only summons Heroic Spirits, and if they were able to recreate Divine Spirit-level phenomena, then they wouldn't need the Holy Grail.\nPlus, I don't think there's even a hero named Aŋra Mainiiu. If there was, he would be a nameless evil spirit who didn't leave a mark on history. He wouldn't have a soul worthy to be summoned by the Holy Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"...Illya, what exactly did the Einzbern Master summon?\"",
+      "sourceUnit": "桜ルート十五日目-12:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"Like I said, Aŋra Mainiiu. Absolute evil.\n...It's true he was nameless and not a literal devil. But a hero bearing the title of Aŋra Mainiiu definitely existed.\"",
+      "sourceUnit": "桜ルート十五日目-12:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. It happened an unimaginably long time ago, in a tiny part of the world.\nHe was a nameless hero who appeared in a village.\"",
+      "sourceUnit": "桜ルート十五日目-12:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"They didn't know how twisted their creed was.\nThey didn't know why they chose to do what they did.\nThey just lived simple, righteous lives according to their own teachings.\nThey taught people to revere the good, protect the light, and live justly.\nFrom the outside, they seemed poor and wretched. But to them, prayers were absolute. That was the single bit of human-like pride they could enjoy, when they were treated as less than human.\"",
+      "sourceUnit": "桜ルート十五日目-12:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"You see...\nThe people of that village genuinely wished for world peace.\nThey prayed for all of humanity to be free from evil, so that they could live pure and righteous lives.\nThey prided themselves on being creatures worthy of God's blessings, who rejected the many functions humans were born with, such as hunger, slaughter, and extreme love and hate.\"",
+      "sourceUnit": "桜ルート十五日目-12:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"But it was impossible.\nHumans aren't free from evil simply because they live pure and righteous lives.\nEvil has always existed. They needed a way to sever themselves from it.\nSo...they took measures.\"",
+      "sourceUnit": "桜ルート十五日目-12:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"They imagined a way to save not just their tiny world, but all of humanity.\nIt would be too hard to make all the people in the world do good.\nSo, they would prove the goodness of all humanity.\n...Except for one.\nIf one man were to bear the burden of all the evil in the world, then the remaining people could not possibly do evil.\nThey sincerely believed that simple, childish idea.\"",
+      "sourceUnit": "桜ルート十五日目-12:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"They chose a young man to be the sacrifice.\nThey captured him and carved all manner of curses into his body. They charged him with every crime known to man, and blamed him for all evil deeds.\nThat was the end.\nIn their tiny but complete world, the ultimate evil was born.\"",
+      "sourceUnit": "桜ルート十五日目-12:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "\"They cursed, scorned, and feared him, all while revering him.\nThey thought, 'we are pure and just. If all the evil in the world is there, then we can only be good, no matter what we do.'\nGenuinely believing that it was for the good of all humanity, they created a devil.\nTo prove the goodness of all the people in the world, they killed a young man until he broke. No, they refused to put him out of his misery until his life ran out.\"",
+      "sourceUnit": "桜ルート十五日目-12:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"...They gave him the name of a devil who corrupts humans.\nHe was given the name Aŋra Mainiiu, and was unreasonably hated and killed as the enemy of humanity.\"",
+      "sourceUnit": "桜ルート十五日目-12:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know if their process turned him into an actual demon.\nBut everyone in that village believed it, so they treated him that way. They hated and feared him, all while revering him as their proof of salvation, who proved the goodness of all humans.\"",
+      "sourceUnit": "桜ルート十五日目-12:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"He saved everyone while being despised and cursed.\nHis existence alone was a justification for other people to be forgiven, no matter what evils they committed.\nYeah. The methods might be wrong, but he did save everyone.\nTo the villagers, there could be no greater hero.\"",
+      "sourceUnit": "桜ルート十五日目-12:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"That's how a hero was born.\nHe was hated and hated until he lost himself and truly became what they thought he was. A pitiful sacrifice who professed his evil in place of people throughout the world.\"",
+      "sourceUnit": "桜ルート十五日目-12:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"That is the Anti-Hero, Aŋra Mainiiu.\nHe was just a regular person whom they labeled 'all the evil in the world,' without gaining anything from it.\nIn Zoroastrianism, Aŋra Mainiiu is the king of devils who approves of six billion evils. The young man was buried as an embodiment of that evil, created to be a curse, a 'wish' given form by people with primitive beliefs.\"",
+      "sourceUnit": "桜ルート十五日目-12:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "Illya cooly describes an ancient event, with neither irony nor disdain.\n...An Anti-Hero.\nKotomine told me what it meant shortly after this war began.",
+      "sourceUnit": "桜ルート十五日目-12:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut...\nIf what Illya is saying is true, the guy who became Aŋra Mainiiu would still bear the evil of humanity.\nIt would be the reason he exists, if that's why he was treated as a hero.",
+      "sourceUnit": "桜ルート十五日目-12:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "A Heroic Spirit blamed for the sins of six billion people.\n...If someone like that was summoned, only slaughter would follow.\nHe would hate humanity, and the people around him decided that he was evil anyway.",
+      "sourceUnit": "桜ルート十五日目-12:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "...Aŋra Mainiiu.\nSomeone crowned with the name of a devil taking revenge on the people who turned him evil... No, is he using Sakura to carry out the duty that people wanted from him...?",
+      "sourceUnit": "桜ルート十五日目-12:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"Avenger... I understand what Aŋra Mainiiu is now.\nBut why is it inside the Holy Grail? I mean, isn't he just a human? Even if people label and treat him as a devil, his powers would be no different from a regular person.\nThere's no way someone like that could turn into a monster who eats entire towns.\"",
+      "sourceUnit": "桜ルート十五日目-12:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Aŋra Mainiiu is human. But the version of him that people forced into becoming a Heroic Spirit is him, too. Nothing should have gone wrong, actually.\"",
+      "sourceUnit": "桜ルート十五日目-12:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"...The Einzberns summoned Aŋra Mainiiu in the third war.\nBut the Heroic Spirit they got was incredibly weak.\nThe Anti-Hero was beaten early on, and he was the first to be absorbed into the Holy Grail. The Einzbern Master lamented that. They wondered how some person no different from a normal human could be a world-destroying devil.\"",
+      "sourceUnit": "桜ルート十五日目-12:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"...In fact, that Heroic Spirit was just a human.\nHe was a human who simply resented the world.\nHe was a human whom the world wanted to be evil.\n...He never had any power of his own. He was an impossibility created by the feelings of those around him.\nWhen the Holy Grail absorbed that, everything got flipped on its head.\"",
+      "sourceUnit": "桜ルート十五日目-12:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail grants people's wishes, too.\nAfter Servants are defeated, they return to the Grail as unfocused power and wait to be released. They lose their personalities as Heroic Spirits and serve only to be the omnipotent power of the Holy Grail.\nBut Aŋra Mainiiu was different. He didn't become a hero on his own, but was made into one by the wishes of people around him. He was an existence which people wished to be evil, regardless of his own personality.\"",
+      "sourceUnit": "桜ルート十五日目-12:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Don't tell me, he...\"\n\"Yes. The Holy Grail is a chalice which grants wishes.\nHe was just a human. Not even human—it was always the wishes of the people, without any gender or personality.\nAnd that's why, the moment the Holy Grail absorbed Aŋra Mainiiu, it accepted a wish.\"",
+      "sourceUnit": "桜ルート十五日目-12:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "\"He's a being which wouldn't have existed otherwise.\nThat Heroic Spirit fabricated from a selfish wish was finally born as the figure that people wished for, in the Holy Grail that grants people's wishes.\n...The five centuries of the Makiris and the thousand years of the Einzberns are child's play,\nnext to humanity's ideals which they've wished upon for over two thousand years, since the Age of Gods.\"",
+      "sourceUnit": "桜ルート十五日目-12:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the true identity of the Shadow. It's something that's trying to finally take form as a Heroic Spirit.\nAŋra Mainiiu fed on the Servants' colorless power to manifest its shell, All the Evil in the World.\n'Be evil.'\nHe has gradually developed as a Servant who would curse six billion people, who possesses the ability to curse six billion people.\"",
+      "sourceUnit": "桜ルート十五日目-12:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're saying that he's already taken control of everything in the Holy Grail—no, that any wish it grants is predetermined, and that what happened in the fourth war was a way to fuel his wish to have a shape...?\"",
+      "sourceUnit": "桜ルート十五日目-12:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I don't know how much Kiritsugu knew about the Servant Aŋra Mainiiu.\nBut Kiritsugu saw the Shadow attempting to escape the Holy Grail as a threat, and destroyed the Lesser Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"He made the right choice.\nNo matter who Aŋra Mainiiu was in the past, the Aŋra Mainiiu incarnated by the Holy Grail is very real. As All the Evil in the World, he will be a demon king who kills people as long as he lives.\"",
+      "sourceUnit": "桜ルート十五日目-12:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, Kiritsugu's decision prevented Aŋra Mainiiu's birth and left it inside the Greater Grail.\nKotomine and Sakura each received some of it.\nZouken has probably realized that an almost-incarnated Servant is inside the Holy Grail.\nThat's why he planted a piece of its body in Sakura to link her to the Servant inside the Holy Grail.\nHe made Sakura a Master so that she could control it if it ever emerged from the Holy Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "\"Whatever Aŋra Mainiiu is, it's still a Servant. A Servant can't defy its Master, no matter how strong it is.\nThat is Zouken's goal. He is going to use Sakura as bait to reel in Aŋra Mainiiu.\"",
+      "sourceUnit": "桜ルート十五日目-12:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "...Wait.\nDoes that mean Sakura is contracted with Aŋra Mainiiu...?",
+      "sourceUnit": "桜ルート十五日目-12:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "\"That's insane. Once she takes control of Aŋra Mainiiu, Sakura won't be able to endure her Shadow's—Aŋra Mainiiu's magical contamination.\nAŋra Mainiiu has changed so much while it's inside the Holy Grail that Sakura's personality will be erased the moment it comes out. If that happens, she won't even be a Master.\"",
+      "sourceUnit": "桜ルート十五日目-12:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the point. Zouken doesn't care about Sakura's personality. He values her body which is connected to Aŋra Mainiiu.\"",
+      "sourceUnit": "桜ルート十五日目-12:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"He plans to take over her body once her personality is gone.\n...You probably don't know that the core worm containing Zouken's soul can turn any human body into his own. That's how he's lived this long.\nTo Zouken, Sakura's always been an eventual host for him to take over.\"",
+      "sourceUnit": "桜ルート十五日目-12:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "What will happen then?\nThe thing that's possessing Sakura.\nIf Sakura is changing because of her contract with a Servant, then...",
+      "sourceUnit": "桜ルート十五日目-12:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "\"Zouken abducted me because he has no intention of making Sakura open the gate.\nHe plans to make me fulfill the function of the Lesser Grail, while he takes over Sakura who's become Aŋra Mainiiu's Master.\"",
+      "sourceUnit": "桜ルート十五日目-12:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, he probably plans to take over the imaginary monster Aŋra Mainiiu once it succeeds in the Third Magic and materializes its soul. It's like a human's greed degrading a perfect god into an imperfect one.\"",
+      "sourceUnit": "桜ルート十五日目-12:page149:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "\"By definition, a god is born when...it's created by the wishes of humans, while not influenced by human will.\nWell, I can guess that any god would become a devil once Zouken rubs off on them... Maybe that's why Kirei was so hostile to Zouken.\"",
+      "sourceUnit": "桜ルート十五日目-12:page150:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"I get it now. Is that a good enough explanation for you, Shirou?\"\n\"...Huh?\"\nTohsaka's voice brings me to my senses.",
+      "sourceUnit": "桜ルート十五日目-12:page151:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't 'huh' me. We know our opponent's identity, and we know Zouken's endgame. There's no need to talk it out with them now.\"",
+      "sourceUnit": "桜ルート十五日目-12:page152:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "...\n...No need to talk it out, huh?\nShe's right.\nThe thing inside the Holy Grail.\nIf it comes out, it'll cause the same tragedy as ten years ago.",
+      "sourceUnit": "桜ルート十五日目-12:page153:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "...No, it won't end there.\nIf we let this happen, countless people will be killed.\nYeah.\nThe thing Sakura gave birth to will take many, many lives on her behalf.",
+      "sourceUnit": "桜ルート十五日目-12:page154:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat can't be allowed.\nWe just need to stop it.\nNo matter the cost, I won't let Sakura shoulder the burden of any more lives.\nWe'll stop Aŋra Mainiiu.\nWe'll end this war before it can emerge from the Holy Grail.",
+      "sourceUnit": "桜ルート十五日目-12:page155:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "\"Looks like you agree. We have to fight and win.\nAnd there are two ways:\nBefore Aŋra Mainiiu comes out of the Holy Grail, we can either kill its Master or destroy the Greater Grail.\"",
+      "sourceUnit": "桜ルート十五日目-12:page156:1"
+    },
+    "page157": {
+      "status": "exact_japanese_text",
+      "text": "\"...The first way is a surer bet.\nWe can count on Sakura and Zouken trying to stop us from destroying the Greater Grail. We won't be able to avoid them if we go that route.\nIn the end, it would be easier to defeat Sakura, the Master.\"",
+      "sourceUnit": "桜ルート十五日目-12:page157:1"
+    },
+    "page158": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. We'll fight Sakura and separate her from Aŋra Mainiiu. That's the fastest and simplest way.\"\n\"Wow, Shirou. I thought you'd be against targeting Sakura.\"",
+      "sourceUnit": "桜ルート十五日目-12:page158:1"
+    },
+    "page159": {
+      "status": "exact_japanese_text",
+      "text": "\"...We don't have a choice right now. If Aŋra Mainiiu is what Illya says it is, then there's nothing humans can do about it. Once it gets out, we've lost.\nSo we need to try the quickest and surest way.\nAlso, we can fight, but do you know where Sakura is?\"",
+      "sourceUnit": "桜ルート十五日目-12:page159:1"
+    },
+    "page160": {
+      "status": "exact_japanese_text",
+      "text": "\"No problem here. Based on what Illya said, the Greater Grail can only be in one place. Isn't that right?\"",
+      "sourceUnit": "桜ルート十五日目-12:page160:1"
+    },
+    "page161": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes, Rin.\nZouken has returned to the Greater Grail to prepare for Aŋra Mainiiu's birth.\nThe sunken ley lines. Two hundred years ago, the three families chose the cavern beneath Ryudou Temple to begin their work. That's where Aŋra Mainiiu is being conceived.\"",
+      "sourceUnit": "桜ルート十五日目-12:page161:1"
+    },
+    "page162": {
+      "status": "exact_japanese_text",
+      "text": "\"Beneath Ryudou Temple...\"\n...That's the world where Sakura is.\nIt's the final destination of the Holy Grail War, where we're headed.",
+      "sourceUnit": "桜ルート十五日目-12:page162:1"
+    },
+    "page163": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI sigh quietly, and slightly relax my focused mind.\nThe cold touch of the pendant in my right hand helps me collect my thoughts.",
+      "sourceUnit": "桜ルート十五日目-12:page163:1"
+    },
+    "page164": {
+      "status": "exact_japanese_text",
+      "text": "...\nWe're going to fight Sakura.\nI meant what I said to Tohsaka.\nBut our ways of fighting are different.\nTohsaka probably means to finish this by killing Sakura.\nBut I'm going to find a way to end this war and let her live—",
+      "sourceUnit": "桜ルート十五日目-12:page164:1"
+    },
+    "page165": {
+      "status": "exact_japanese_text",
+      "text": "\"...!?\"\nI jolt out of my reverie.\nA heavy pressure that makes it feel as though the air has turned to water covers the building.\nIt's...\n\"Sakura!\"\nThe instant we feel the Shadow's menacing aura, we run out into the yard.",
+      "sourceUnit": "桜ルート十五日目-12:page165:1"
+    },
+    "page166": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

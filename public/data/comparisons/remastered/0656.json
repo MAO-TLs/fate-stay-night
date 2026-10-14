@@ -1,0 +1,236 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0656",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I wake up at the usual time.\nIt isn't six o'clock yet.\nThe dim sky is on the cusp of dawn, and covered in a gray blanket of clouds today.",
+      "sourceUnit": "桜ルート十四日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "My left arm doesn't hurt.",
+      "sourceUnit": "桜ルート十四日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "There's nobody in the living room.\nI should make breakfast before Tohsaka wakes up.",
+      "sourceUnit": "桜ルート十四日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The news is on TV.\nIt's become our habit to check the TV every morning.",
+      "sourceUnit": "桜ルート十四日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing particularly conspicuous happened. It must not have come out last night.\"\nShe means the black Shadow.\n\"Uh-huh. I guess even that thing needs a day off.\"\nI answer glibly to hide my relief.",
+      "sourceUnit": "桜ルート十四日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It probably can't keep causing hundreds of victims for more than a couple of days in a row.\"",
+      "sourceUnit": "桜ルート十四日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It's past seven o'clock.\nTohsaka and I are the only ones in the living room.\nSakura and Illya are both still asleep.\nI wanted to go wake up Illya, but Tohsaka said to let her rest.",
+      "sourceUnit": "桜ルート十四日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...You should rest to be ready for tonight.\"\nTohsaka suddenly says that.\n\"Why?\"",
+      "sourceUnit": "桜ルート十四日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Because you're going to make our secret weapon. We'll spend the entire day making the frame, and then Project it tonight.\nIt's going to decide whether we win against Zouken. I'm not going to let any more innocent people get hurt. I have no idea what the Shadow is, but the Holy Grail War will end once we take out Zouken. That should cause the Shadow to disappear too.\"",
+      "sourceUnit": "桜ルート十四日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You think the Shadow will disappear once the Holy Grail War is over?\"",
+      "sourceUnit": "桜ルート十四日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Whatever's behind that thing, it's clearly after the Holy Grail.\nI don't know whether it wants the Holy Grail or if the Holy Grail summoned it. But if it was caused by the Holy Grail regardless, then it should disappear if the Grail is gone.\nIt'll disappear once time runs out on the war, once there's only one Master left, or once the person meant to become the Holy Grail's vessel dies.\"",
+      "sourceUnit": "桜ルート十四日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, you...\"\n...Damn.\nShe's known all along who the Shadow is, hasn't she.",
+      "sourceUnit": "桜ルート十四日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm just speculating right now.\nMaybe it won't disappear even if we defeat Zouken.\nMaybe it won't disappear even if the Holy Grail War ends.\nBut I'm going to take the surest method I know. We can't depend on a Holy Grail that we're not even sure we'll obtain. We have to do everything within our own power to defeat Zouken and the Shadow.\"",
+      "sourceUnit": "桜ルート十四日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "With that, Tohsaka stands up.\nShe takes the water pitcher and pajamas that I'd prepared for Sakura.",
+      "sourceUnit": "桜ルート十四日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. What are you trying to do with those?\"\n\"I'm going to keep an eye on Sakura. Her room's next to mine, so I'm the best person to look after her.\"\n\"Mrgh. No, I should be the one to—\"",
+      "sourceUnit": "桜ルート十四日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be stupid, Shirou. You haven't been sleeping at all. It's going to be a problem for all of us if you stay in that condition.\"\n...?\nWhat does she mean, I haven't slept?",
+      "sourceUnit": "桜ルート十四日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"You're the one who sounds stupid. I got a full night's sleep yesterday.\"\n\"Wow. I can't believe you still aren't aware of it.\n...If you think I'm lying, go take a look in the mirror. You're deathly pale and got rings around your eyes like a raccoon. I'm doing you a favor by taking care of Sakura.\"\n\"Wha... Wait, really?\"",
+      "sourceUnit": "桜ルート十四日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would I lie to you about that? Just go rest in your room, man. I'll come get you once the sun goes down.\nAh, if you can't sleep, I can give you a hand.\nIf you're okay with me copying what Rider did, I'll do you a favor that you'll regret the next day.\"",
+      "sourceUnit": "桜ルート十四日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She must be talking about Rider's Mystic Eyes, but as far as I know, Tohsaka doesn't have Mystic Eyes of her own.\nSo, she's saying...",
+      "sourceUnit": "桜ルート十四日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"You mean you'll experiment on me?\"\n\"That's right. I wasn't really interested in them before, but Mystic Eyes don't seem so bad. I can't get on her level, obviously, but I might be able to improvise and hypnotize you to sleep.\"",
+      "sourceUnit": "桜ルート十四日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Liar. I don't believe that for a second.\nYou just wanna practice on me until you're satisfied!\"",
+      "sourceUnit": "桜ルート十四日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what's wrong with that!? So how about it, Shirou?\nYes or no?\"\n\"Hell no! I won't play along with your scary experiments, plus if I pass out in the middle of the day, I won't wake up until tomorrow.\"",
+      "sourceUnit": "桜ルート十四日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. If it goes too well, I might paralyze you instead of just putting you to sleep. You haven't got much of a resistance after all.\"\nTohsaka nods at her own logic.\nI want to argue, but I won't because she'll probably just ask \"so you wanna?\"",
+      "sourceUnit": "桜ルート十四日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not that high-strung, anyway. I can sleep if I feel like it, so don't worry about me.\"\n\"Okay. So you'll take a nap while I go watch Sakura?\"\nTohsaka does a 180 from her joking tone\nand fixes me with a serious gaze.",
+      "sourceUnit": "桜ルート十四日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I want to be at Sakura's side.\nI'd like to stay with her as much as I can, but there are things that need doing, and I shouldn't go see Sakura if I look as bad as Tohsaka says I do.\nI can trust Tohsaka to take good care of Sakura, so I'll accept her goodwill.",
+      "sourceUnit": "桜ルート十四日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I'll be in my room for a little while.\nI'll bring lunch and dinner to her, but can I ask you to take care of her in the meantime?\"\n\"Sure, leave it to me. If she tries to move around at all, I'll scold her and make her go back to sleep.\nCan you really sleep on your own, though? Are you sure you don't want me to try something?\"",
+      "sourceUnit": "桜ルート十四日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"You just don't give up. I refuse to go along with your sketchy plan.\nStill, thanks, Tohsaka. Sorry I made you worry.\"\n\"I-it's not like I'm worried or anything! I'm going over now, so make sure you sleep, Shirou!\"",
+      "sourceUnit": "桜ルート十四日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Honestly...\nSometimes I can't tell if she's perceptive or oblivious, if she's nice or cold.\nI've heard that naturally gifted people tend to leave others in the dust, and maybe that applies to her, too.\nSakura has it rough. If Tohsaka was my big sister, I'd never feel at ease with myself.",
+      "sourceUnit": "桜ルート十四日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...I bet they would have a lot of fun every day, though.\"\n...Yeah.\nThat's why I want them to return to being sisters as much as possible.",
+      "sourceUnit": "桜ルート十四日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Once this war ends and the arrangement between the Tohsakas and Matous goes away, Sakura and Tohsaka can go back to being sisters.\nIt won't be easy to overcome 11 years of separation, but I hope they can slowly close the distance and get along well enough to smile together without forcing themselves to.",
+      "sourceUnit": "桜ルート十四日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I'll do anything I can to help.\nI've thought this for a while, but I think this is the greatest gift we can give Sakura.",
+      "sourceUnit": "桜ルート十四日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that goes for Tohsaka, too. I think Sakura's the only one who can make her worry the way she does now.\"\nWhoops.\nI catch myself imagining Tohsaka's happy, smiling face.\nSorry, Sakura... this counts as cheating, doesn't it?",
+      "sourceUnit": "桜ルート十四日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, never mind that.\"\nI can't keep wasting time.\nTohsaka's going to challenge Zouken tonight.\n...That's not good.\nIf Zouken goes down, the war will end.\nIf the war ends, the Holy Grail will appear.\nTo be more precise, it will open.",
+      "sourceUnit": "桜ルート十四日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Zouken said the Holy Grail is some kind of gate.\nThe thing that grants wishes isn't the Holy Grail itself, but whatever it contains.\n...IF that's true, then what will happen to Sakura, who's a Holy Grail?\nAccording to Illya,\nthe closer the Holy Grail comes to completion, the more Sakura will cease to function as a human.",
+      "sourceUnit": "桜ルート十四日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nIn the end, there's only one way to save her.\nI have to protect Sakura until the Holy Grail War is over.\nI don't know how exactly the Grail will manifest.\nIt might show up once only one Master is left, or it might need the last Master to summon it.",
+      "sourceUnit": "桜ルート十四日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...If it's the latter, that won't be a problem.\nWe can just defeat Zouken and remove the threat to Sakura, then wait out the time limit on the war.",
+      "sourceUnit": "桜ルート十四日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka said that she'd challenge Zouken tonight.\nWhich means that he can be beaten.\nShe wouldn't say that unless we had a strong chance of victory.",
+      "sourceUnit": "桜ルート十四日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"That just leaves one question...\"\nThat black Shadow.\nIt won't disappear just because Zouken's gone.\nIt'll keep showing up as long as the Holy Grail, Sakura, is around.\nMany people will die each time it appears.\nWaiting the war out would mean allowing the Shadow to keep killing.",
+      "sourceUnit": "桜ルート十四日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I...have to fight it. I'll beat the Shadow myself.\"\n...It's the only way.\nBut can I beat it?\nIf it's something that spilled out of the Holy Grail, then the Shadow itself probably has no concept of death.\nEven if I could erase it somehow, would that mean erasing the person projecting it—Sakura—or erasing whoever's providing power to the projector?",
+      "sourceUnit": "桜ルート十四日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"The person projecting it...\"\n...I hope nobody like that exists.\nBut I can't think of any other solutions.",
+      "sourceUnit": "桜ルート十四日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail's contents.\nZouken said that he planted broken pieces of the Holy Grail in Sakura after the war ten years ago. I wonder if that stuff existed back then, too...\"\nOh.\nHold on.\nZouken said that the Crest Worms were created from the fragments of the Grail...",
+      "sourceUnit": "桜ルート十四日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Did Kotomine not notice...!?\"\nThere's no way...!\nHe extracted the Crest Worms from Sakura.\nHe only managed to take out a few of them, but he did surgery to treat Sakura's body.",
+      "sourceUnit": "桜ルート十四日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "There's no way he wouldn't have known at that point.\nEven if only in name, he's the Holy Grail War's overseer, and a Master who survived the previous war.\nThen he definitely would have noticed what was wrong with Sakura...!",
+      "sourceUnit": "桜ルート十四日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaah!\"\nI run out the front door.\nThe sudden revelation takes hold of my body, and all I can think of is the priest's face.",
+      "sourceUnit": "桜ルート十四日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Dammit! Why didn't I realize it sooner!?\"\nI would have come to this conclusion if I'd just thought about it.\nOf course he would know what the Shadow that Sakura is unconsciously projecting is,\nand what exactly is inside the Holy Grail!",
+      "sourceUnit": "桜ルート十四日目-00:page44:1"
+    },
+    "page45": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

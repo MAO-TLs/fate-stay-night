@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0171",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The golden sword appears in Saber's hands.\nBerserker's grip on Tohsaka tightens.\nI'm powerless... I'm going to let all three of us die.",
+      "sourceUnit": "セイバールート十一日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kngh!\"\nIs that really our only option?\nIs our only chance at victory using up the last of Saber's magical energy for her Noble Phantasm and so endangering her existence?",
+      "sourceUnit": "セイバールート十一日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"EX...\"\nThe giant releases Tohsaka and charges at Saber.\n\"CALIBUR!!!!!!\"\nHe meets the sacred sword as it sweeps the earth ahead of it.",
+      "sourceUnit": "セイバールート十一日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah!\"\nThe silver armor collapses.\nSaber falls to her knees, having converted the last of her magical energy into light.\nIn front of her, Berserker remains intact.",
+      "sourceUnit": "セイバールート十一日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the end for you, Saber. Even the mighty sacred sword isn't strong enough with such a pathetic amount of magical energy.\"",
+      "sourceUnit": "セイバールート十一日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber's starting to fade.\nShe must not even have the strength to stand. Unable to rise, she looks up at Berserker.",
+      "sourceUnit": "セイバールート十一日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Fufu. You must be disappointed too, Berserker.\nIf only Saber had been at full power, you might've had a chance to die!\"",
+      "sourceUnit": "セイバールート十一日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The giant sword swings down.\nBerserker doesn't wait for Saber to disappear. He crushes her.",
+      "sourceUnit": "セイバールート十一日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber...\"\nSaber disappears.\nI knew this would happen.\nIf Saber used her sacred sword, she would disappear no matter the outcome of the battle.\nI knew, but I didn't stop her...",
+      "sourceUnit": "セイバールート十一日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"It's all over. So what will you do now, brother? Will you try to run away, or will you just let me kill you?\nOh, I know! If you say you'll let me kill you, I'll let Rin go.\"",
+      "sourceUnit": "セイバールート十一日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't even think.\nSaber's corpse is right in front of me. It's already become one with the earth.\nI can't escape.\nIf I can't escape no matter what I do, at least...",
+      "sourceUnit": "セイバールート十一日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Teehee. Good boy, Shirou.\nBring him to me, Berserker. Make sure he can't run away.\"",
+      "sourceUnit": "セイバールート十一日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "A rush of wind obliterates everything below my waist.\nMy senses are utterly overwhelmed with pain and despair.\nI'm fading.\nIn the middle of the clearing, Tohsaka's body is sprawled on the ground, long since having gone motionless.",
+      "sourceUnit": "セイバールート十一日目-13:page12:1"
+    }
+  }
+}

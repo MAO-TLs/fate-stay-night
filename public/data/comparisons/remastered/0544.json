@@ -1,0 +1,11 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0544",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Number two. Can you trust me as much as I trust you? You won't betray me no matter how bad things get?\"",
+      "sourceUnit": "桜ルート九日目-09:page0:1"
+    }
+  }
+}

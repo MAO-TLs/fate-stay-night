@@ -1,0 +1,236 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0549",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nI wait for Tohsaka by the school gate.\nThe sky is all gray, and it looks like it's about to rain.\nNot to mention this chilly wind. It's going to be a cold night if there's wind.",
+      "sourceUnit": "桜ルート九日目-27:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What're you thinking about?\"\nI return to reality.\nTohsaka's here.\nHer shoulders are slightly heaving, like she ran here.",
+      "sourceUnit": "桜ルート九日目-27:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I was just thinking it's gonna rain.\"\n\"Yeah. Looks like it'll just be a drizzle. We need to patrol tonight, so I hope it doesn't come down too hard.\"",
+      "sourceUnit": "桜ルート九日目-27:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nFrom the sound of that, Tohsaka expects us to go on patrol tonight.\nI'd like that too, but I should check in on Sakura at home before that.",
+      "sourceUnit": "桜ルート九日目-27:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"About that, Tohsaka—\"\n\"I know. We're allies now, so I'm going to pound some skills into you. We'll make a proper mage out of you yet.\"",
+      "sourceUnit": "桜ルート九日目-27:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "With a bold declaration, Tohsaka starts down the path home.\n...Uh oh.\nIf you smile at me like that, how am I supposed to say I need to go home early today...?",
+      "sourceUnit": "桜ルート九日目-27:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "We take the long path up the hill, south of the intersection.\nWe're coming up on the neighborhood with European houses.\nTohsaka's house is situated at the top of the hill, much higher than Sakura's.",
+      "sourceUnit": "桜ルート九日目-27:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow...\"\nSo this is the Tohsaka mansion.\nHow do I put it... Sakura's house is big, but this one really grabs the eye with its European feel.",
+      "sourceUnit": "桜ルート九日目-27:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...It also feels cold and heartless, somehow.\nThe air around the entire top of the hill feels like it rejects visitors.",
+      "sourceUnit": "桜ルート九日目-27:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you stopping for? This is my house.\"\n\"Uh... Yeah, I know. I'm just a little overwhelmed.\"",
+      "sourceUnit": "桜ルート九日目-27:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. It's different from your place. I'm sure even you, with your dull magical senses, can feel how cold it is.\"\nTohsaka continues walking with a bored tone.",
+      "sourceUnit": "桜ルート九日目-27:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, hurry up. I didn't set any traps, so you don't need to hesitate.\"\nTohsaka beckons me in from her front door.",
+      "sourceUnit": "桜ルート九日目-27:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...'Hesitating' isn't quite what this place makes me want to do.\"\nGrumbling, I steel myself and step through the threshold.",
+      "sourceUnit": "桜ルート九日目-27:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...It does feel cold, but my mind is elsewhere.\nShe has no idea what a big deal it is for a guy to get invited over to Rin Tohsaka's house.\n...She wouldn't understand even if I explained. At best, she would just laugh at me.",
+      "sourceUnit": "桜ルート九日目-27:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "On top of that...",
+      "sourceUnit": "桜ルート九日目-27:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"W-why are we doing this in your bedroom instead of the parlor!?\"",
+      "sourceUnit": "桜ルート九日目-27:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "After showing me the parlor, Tohsaka took me up to her room like it was the most natural thing.",
+      "sourceUnit": "桜ルート九日目-27:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Because all my tools are here, obviously.\nThe parlor is for drinking tea, and that's not why you're here.\"\n\"Ah...oof. Well, yeah, but...\"\nI wish she'd remember that I'm a same-age member of the opposite sex.",
+      "sourceUnit": "桜ルート九日目-27:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"? Anyway, just sit wherever. I'm going to consecrate you with sage and cards, so tell me now if you can't handle either of those.\"",
+      "sourceUnit": "桜ルート九日目-27:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka opens a box next to her bed.\nIt's filled with treasures straight out of an adventure movie.",
+      "sourceUnit": "桜ルート九日目-27:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... Guess I'll have to use Grandmaster Kischur's agate... Oh, I'm out of sage. Go downstairs and grab me two or three sprigs, Archer.\"\n\"Scarlet sage, right? ...I don't think you need to go to such lengths to identify him.\"",
+      "sourceUnit": "桜ルート九日目-27:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"That's my decision. Go rest downstairs after you bring it. We have an alliance now, so you don't need to guard my every step.\"\n\"You're right. He doesn't have the guts to lay a hand on you. I'll prepare for tonight.\"",
+      "sourceUnit": "桜ルート九日目-27:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "That must have been Archer.\nI couldn't sense his enormous magical energy at all. Maybe it's reduced while he's in spirit form.",
+      "sourceUnit": "桜ルート九日目-27:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. I didn't even notice he was in the same room.\"\n\"That's how it is when he's in spirit form. Even if he takes physical form, his energy won't leak out as long as he's in the mansion. Isolating your magical energy from the outside is one of the most basic steps of building an atelier.\"",
+      "sourceUnit": "桜ルート九日目-27:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Does that go for the Makiri—I mean, the Matous, too?\"\n\"Yeah, though they don't need to hide it, so if there's anything they'd need to hide, it isn't the magical energy of the atelier, but of the mage itself.\"",
+      "sourceUnit": "桜ルート九日目-27:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"One way or another, I hide his magical energy. I was going to bring Archer to school, but he isn't in top condition right now so I leave him at home during the day.\"",
+      "sourceUnit": "桜ルート九日目-27:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka rummages around in her treasure chest while making a troubled expression.\n...It looks like she can't find what she's looking for. Is she actually really disorganized?",
+      "sourceUnit": "桜ルート九日目-27:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Honestly, he should be able to heal his injuries easily, so why won't the wound Saber gave him heal? All I can think of is that they must have some connection... Hey, why can't I find anything in here besides the Grandmaster's jewels? Normally, these wouldn't appear at all, dang it!\"",
+      "sourceUnit": "桜ルート九日目-27:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "She literally throws herself into her search.\n...The chest looks small, but it's apparently deep enough to swallow Tohsaka whole.",
+      "sourceUnit": "桜ルート九日目-27:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...\"\nAnyway, there's nothing to grit my teeth for at the moment.\nAt most, I can pray that Tohsaka finds whatever she's looking for. I absently look around the room.",
+      "sourceUnit": "桜ルート九日目-27:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nAnd I see...\n...something incredible.",
+      "sourceUnit": "桜ルート九日目-27:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "It's a photograph.\nI find it on a bookshelf no higher than my waist, in the corner of the room.\nThe photo is on top, like it was forgotten there.\nDust comes off when I touch it, indicating that it's been here for a while.",
+      "sourceUnit": "桜ルート九日目-27:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"She doesn't clean...? No, of course not. She just doesn't touch this photo.\"\nMaybe Tohsaka doesn't like looking at pictures from her childhood.\n...But then she wouldn't leave this out here. It's something important that she doesn't want to touch, I guess.",
+      "sourceUnit": "桜ルート九日目-27:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Still, though.\"\nPeople sure do change.\nIn the picture, Tohsaka is five or six years old, and she's, well, totally adorable.",
+      "sourceUnit": "桜ルート九日目-27:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...So her hair's always been long. Wait, huh?\"\nIn the photo, Tohsaka's wearing the same style she does now.\nBut one difference catches my eye.",
+      "sourceUnit": "桜ルート九日目-27:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for waiting, I'm ready. This is gonna hurt a little, but don't worry—what's wrong, Emiya?\"",
+      "sourceUnit": "桜ルート九日目-27:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Tohsaka, this...\"\nI hold out the photo I found.",
+      "sourceUnit": "桜ルート九日目-27:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, this is an old picture. I left it in the corner. What about it?\"\n\"Um, well...it's nothing, really, but...\"",
+      "sourceUnit": "桜ルート九日目-27:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "I hesitate to bring it up, since it doesn't matter.\nI really don't need to ask her this, but something about it stands out to me.",
+      "sourceUnit": "桜ルート九日目-27:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that. You noticed my ribbons are different.\"\n...\nI nod.",
+      "sourceUnit": "桜ルート九日目-27:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, of course they are. We girls have lots of accessories to keep our hair up. Do you think I wouldn't change my favorite ribbon after ten years?\"",
+      "sourceUnit": "桜ルート九日目-27:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Oh.\nThat does make sense, now that she mentions it.\nWhat am I getting so hung up on some ribbon for?",
+      "sourceUnit": "桜ルート九日目-27:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Just kidding. I wish I could say that, but hair ties are special. Hair is a final trump card for female mages. Bindings are suitable as tools of magecraft, and there aren't a lot of things that can replace them.\"\n\"Huh. So is your ribbon some kind of magical item?\"",
+      "sourceUnit": "桜ルート九日目-27:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Tying one's hair also means bottling up one's magical energy. The Tohsakas don't have Mystic Eyes, but we can at least store spare magical energy in our hair.\nSo, since I control my body, it's best if I make my own hair ties.\"",
+      "sourceUnit": "桜ルート九日目-27:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"That right there is the first ribbon I ever made. It was my favorite, but I had reasons to part with it.\n...Anyway, that's enough small talk. I'm going to start the consecration, so have a seat in this chair.\"",
+      "sourceUnit": "桜ルート九日目-27:page44:1"
+    },
+    "page45": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

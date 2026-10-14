@@ -1,0 +1,331 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0267",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Three... What's your reply, Emiya?\"\n\"AHHH!\"\nWe stare at each other.\nDid I just hear a scream coming from below...!?",
+      "sourceUnit": "凛ルート五日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, that was...\"\n\"...A scream, right?\"\nI immediately stand up and start running.\n\"Hey, do you know where it came from, Emiya...!?\"\n\"How would I know! I could only tell it came from below!\"\n\"Hold on, I'll lift the Bounded Field...!\"",
+      "sourceUnit": "凛ルート五日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I run down the stairs.\n\"I said hold on! It's dangerous to go by yourself!\"\n\"This isn't the time to be worrying! That scream sounded bad!\"",
+      "sourceUnit": "凛ルート五日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that! That's why I'm saying it's dangerous, stupid!\"\nI go down to the first floor.\nAt first glance, the hall looks empty.\nBut then I spot a female student laying on the floor at the far end.",
+      "sourceUnit": "凛ルート五日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "No!\nThe student is in a heap in front of the emergency exit.",
+      "sourceUnit": "凛ルート五日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Good. She only passed out.\"\nI run to the student to check if she's okay.\nIs she a first year?\nShe's unconscious, but I don't see any bleeding or wounds, so she seems all right.",
+      "sourceUnit": "凛ルート五日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's more than that! She's so pale. Can't you tell that she's empty inside!?\"\n\"Huh...? Empty inside...?\"",
+      "sourceUnit": "凛ルート五日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"She's had her magical energy...her life force drained. It's as bad as—no, worse than those attacked by Caster.\nThis girl is going to die if we leave her like this.\"\n\"Wha... Die without a single wound...!?\"",
+      "sourceUnit": "凛ルート五日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Even if there's no external wounds, it follows that she'd die if her life force is gone. She doesn't have enough bloodflow... Hold on, in this state, I might be able to do something with the stone I have...\"",
+      "sourceUnit": "凛ルート五日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "She rifles through her pockets.\n...Thank god.\nIt seems serious, but Tohsaka seems to know how to cure her.",
+      "sourceUnit": "凛ルート五日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "She kneels over and treats the collapsed student.\n...\nFrom her profile, she looks incredibly serious.\nShe tends to the student, as sweat forms on her forehead.",
+      "sourceUnit": "凛ルート五日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\n...What is it...\nIt's...her expression is so laser-focused it pains me just to look at it.\nI feel like...it isn't the first time I've seen—",
+      "sourceUnit": "凛ルート五日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, that's so annoying...! Emiya, can you close that door? My hair keeps flying into my face.\"\n\"Huh... Oh, that emergency exit?\"\nI look at the open door.",
+      "sourceUnit": "凛ルート五日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nOpen...?\nCome to think of it, we haven't even discovered why the girl collapsed in the first place.\nIt's not like she did this on her own. Someone obviously attacked her.\nIt didn't even take us a minute to get here, so if the culprit fled, it had to be out this door.",
+      "sourceUnit": "凛ルート五日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nIs it because I was looking in that direction?\nI can just make out something dark flying in our direction—\n\"Watch out, Tohsaka!\"\nI shield Tohsaka with my right arm.",
+      "sourceUnit": "凛ルート五日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... W-what is that...! Emiya, y-your arm...!\"\n\"Hrrk...!\"\nA shadowy dagger has pierced right through my arm.",
+      "sourceUnit": "凛ルート五日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Protruding from between my elbow and wrist is something that resembles a nail.\nNo, it's far too large to be just a nail.\nAnd whatever it is, it has completely skewered my forearm.",
+      "sourceUnit": "凛ルート五日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Why did you... I mean, y-you're bleeding so much, but it d-doesn't hurt...?\"\n\"...It hurts. It hurts like crazy.\"\nBut it hurts so much that I can't panic.\nMore importantly...\nIt looks like this thing was aimed at Tohsaka's head.",
+      "sourceUnit": "凛ルート五日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka, take care of her.\"\nI get ready to run.\nThere's no time to wait for her response.\nWith my left hand, I adjust the grip on the metal pipe I'd Strengthened earlier and fly out the emergency exit.",
+      "sourceUnit": "凛ルート五日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...haah haah haah...\"\nMy right arm dangles as I run.\nEverything below the elbow is red from blood.\n...Is it just bad luck with limbs for me today?\nTohsaka tells me to hand over one hand with the Command Spells on it, and now my other hand is partially severed from the rest of me.",
+      "sourceUnit": "凛ルート五日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... It has to be around here.\"\nI look around.\nThough I don't know who or what did this, I can feel them drawing me out.\nWhoever attacked that female student...\nWhatever attacked Tohsaka with that dagger is nearby.\nI haven't lost them yet.\nIf I close my eyes, I can feel the dark magical energy moving.",
+      "sourceUnit": "凛ルート五日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Behind the archery range... In the woods...!\"\nI jump over the fence and run across mossy ground.\nThen...\nBetween the trees...\nConcealed amongst the thicket, a familiar face takes one look at me and laughs.",
+      "sourceUnit": "凛ルート五日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji...?\"\nI stop without thinking.\nJust what is he doing here?\nHe's supposed to be missing. Wait, no...\nMitsuzuri is the one that's missing, Shinji's the last one who saw her, and...",
+      "sourceUnit": "凛ルート五日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hrrk!!!!!\"\nMy injured arm throbs.\nThe moment I'm about to fall forward...\nA nail-like dagger is thrust at my throat.",
+      "sourceUnit": "凛ルート五日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnng...!\"\nI manage to dodge.\nInstead of going backwards or sideways, I follow my tumbling body and roll forward to avoid the blow.",
+      "sourceUnit": "凛ルート五日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnng... Guh...!!!\"\nMy throat.\nIt scraped my throat. My skin's cut.\nEven then, I'm lucky.\nIf I had been any slower, it would've cut through bone and sinew.",
+      "sourceUnit": "凛ルート五日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"You...!\"\nI scramble up.\nIn front of me...\nStands a smiling woman clothed in black.",
+      "sourceUnit": "凛ルート五日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"A Servant...!\"\nI don't even have to check.\nA concentration of magical energy far beyond that of a human. Not even Tohsaka compares.\nI don't know what class she is, but her spiritual presence is greater than a human, without a doubt—",
+      "sourceUnit": "凛ルート五日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"She disappeared...!?\"\nThe shadow vanishes from my vision.\nInstinctively, I can feel death's swift approach.\nI desperately swing my weapon above my head.",
+      "sourceUnit": "凛ルート五日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nThe rod is able to repel the nail coming at my head from above.\nI don't know if she's somehow related to a spider or something, but she's leaping and clinging to the trees like one.",
+      "sourceUnit": "凛ルート五日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI run.\nIt must've been chance that I was able to block that.\nThere's no way I'll be able to dodge another, and fleeing is out of the question.",
+      "sourceUnit": "凛ルート五日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh, haah...!\"\nI make it to a nearby tree and put it to my back.\nThat's one direction that I should be safe from. Or so I have to believe if I have any chance at this.",
+      "sourceUnit": "凛ルート五日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it... Even though she's wearing something that stands out that much, why can't I...\"\nI don't see the Servant in black anywhere.\nShe might be jumping from branch to branch, since she hasn't come down to the ground at all.",
+      "sourceUnit": "凛ルート五日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nSweat rolls down my forehead.\nI can hear the sound of jangling chains. It's like the rattle of a snake ready to strike.",
+      "sourceUnit": "凛ルート五日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha... Haha...\"\nUnder the tree, I try my best to suppress mirthless laughter.\nThe sound of chains echo through the woods.\nIn this life-and-death situation where the next attack is sure to kill me, my mind is blank.\nI have no sense of time. The guillotine just hangs in the air.",
+      "sourceUnit": "凛ルート五日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha... Ha ha.\"\nThat's what's strange.\nThe battle should be over by now.",
+      "sourceUnit": "凛ルート五日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "But I'm still alive.\nHow strange... Maybe that last attack killed me and my mind is now blank from wanting to believe that my fear of a surprise attack is actually a posthumous dream.",
+      "sourceUnit": "凛ルート五日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\n...I can't compete against a Servant by myself.\nThen I'll have to rely on her.\nCommand Spells. If I use a Command Spell and call Saber, I should be able to get out of this predicament.",
+      "sourceUnit": "凛ルート五日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "But...can I?\nI'm the one who got myself into this death trap. Then, I should be the one to handle it. And most of all...",
+      "sourceUnit": "凛ルート五日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...I haven't exhausted all of my options.\"\nThat's right.\nI have a weapon in my hand, even if it's a shoddy one.\nAnd I can still move.\nIf the location is bad, I can just move.\nI can call for Saber after that—",
+      "sourceUnit": "凛ルート五日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm surprised. You're not using your Command Spell?\"\n\"...!\"\nThe voice echoes.\nAbove... So she was hiding up in the tree.",
+      "sourceUnit": "凛ルート五日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. Unfortunately, I don't have that many left. If I use one over something like this, I don't know what I'd do moving forward.\"\nAnd well, to be honest, I don't really know how to use it either.",
+      "sourceUnit": "凛ルート五日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. You must be brave, unlike my Master.\"\nI search for her exact location.\nWhere is her voice coming from...?",
+      "sourceUnit": "凛ルート五日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, I shall also change my strategy. I cannot go all out against a Master without a Servant... I shall gently kill you.\"\n...The voice goes silent.\nOnly the sound of chains echoes through the woods.",
+      "sourceUnit": "凛ルート五日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\n...She's coming.\nWhat I have to do is get out of these woods.\nBut to do so, I would have to block this Servant's nail weapon multiple times.",
+      "sourceUnit": "凛ルート五日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe fact that I only have the leg of a chair that I Strengthened to defend myself is so pathetic that it's funny.\nIf at least...\nIf only this thing was impressive like his blades, then I could not only block but even counterattack...",
+      "sourceUnit": "凛ルート五日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\n...\nLet's go.\"\n...I don't have the time to be thinking about what-ifs.\nIt's about thirty meters to get out of the woods.\nThis isn't much compared to the chase I had with Tohsaka...!",
+      "sourceUnit": "凛ルート五日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I run.\nI ignore the harsh sound of chains and run frantically towards the exit...!",
+      "sourceUnit": "凛ルート五日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Hup...!\"\nI repel the attack from above.\nThen I block the roundhouse kick from the Servant that landed on the ground to my left.\nShe's in front of me now.\nI think she's getting irritated from having her blows blocked, but I manage to deflect another onslaught...!",
+      "sourceUnit": "凛ルート五日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... This just isn't...!?\"\nThe Servant in black retreats.",
+      "sourceUnit": "凛ルート五日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's just chance.\nJust like the first attack, blocking everything else has been because of fortunate happenstance.\nI can't even see the enemy.\nFor someone like that to be able to survive, it is nothing but pure luck.",
+      "sourceUnit": "凛ルート五日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "But...\nIs it really that common?\nNo, what if my assumptions were wrong in the first place?\nThe first attack.\nA surprise attack to my head.\nSuch attacks that would be impossible for Shirou Emiya to dodge...\nThere's no way that coincidence is lining up this much...",
+      "sourceUnit": "凛ルート五日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...You...\"\nThe Servant in black mutters to herself.\nA surprisingly beautiful, sensual voice, despite the irritation evident in it.",
+      "sourceUnit": "凛ルート五日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, you suck. You lack power compared to the other Servants...!\"\nI swing at the Servant standing in my way.\n\"Khh...!\"\nThe Servant in black blocks my blow and jumps back, her hair flowing in her wake.",
+      "sourceUnit": "凛ルート五日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I can do it...!\"\nThere's nothing in my way now.\nThe Servant in black retreated.\nIf I just keep going just a few more meters like this...",
+      "sourceUnit": "凛ルート五日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is the end.\nFrom the very beginning, you've been dancing to my tune.\"",
+      "sourceUnit": "凛ルート五日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nMy body falls.\nRather, I'm being pulled backwards.\nMy right arm hurts.\nSome unknown force is dragging my skewered arm back...!?",
+      "sourceUnit": "凛ルート五日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you still not understand? The object stabbing your arm is my nail.\"\n\"Your nail...!?\"",
+      "sourceUnit": "凛ルート五日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "That makes me realize.\nExtending from her weapon...\nThe grating sound of metal against metal...\nThe sound of chains...\nI've been hearing them ever since leaving that doorway and—",
+      "sourceUnit": "凛ルート五日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Shi—!\"\nI reach out for my right arm with my left hand, but it's too late.\nDragged by some invisible force, my arm flies up and out of reach.",
+      "sourceUnit": "凛ルート五日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!!! Agh...!\"\nWith no mercy to my agony, it lifts me into the air...\nThe nail piercing my arm is attached to a chain.\nThe chain extends up into the canopy, using a branch as a fulcrum, and leaving me strung up by it.",
+      "sourceUnit": "凛ルート五日目-09:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Guh...!\"\n\"...Well then. You said something interesting earlier.\"\n...The Servant in black approaches.\nI can't run away or fight now that I'm suspended in the air.",
+      "sourceUnit": "凛ルート五日目-09:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"You said that I am inferior to other Servants.\nThis is most troubling. I must correct this mistaken perception before I can slay you.\"\n...I'm like a sacrifice.\nIt's like I've been sent to the gallows in a Western.",
+      "sourceUnit": "凛ルート五日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "The nail-like dagger is raised.\nThe Servant in black licks the tip of it.\n\"Let me see. First, I shall take those mistaken eyes.\nThen your remaining limbs afterwards.\"\nShe makes a nimble jump and appears right before me, suspended three meters in the air.",
+      "sourceUnit": "凛ルート五日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe nail is swung downwards.\nMy body can still move.\nI...",
+      "sourceUnit": "凛ルート五日目-09:page64:1"
+    }
+  }
+}

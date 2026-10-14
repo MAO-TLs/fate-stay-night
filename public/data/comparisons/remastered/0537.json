@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0537",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're saying he didn't want to kill me?\"",
+      "sourceUnit": "桜ルート九日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"That would be the most obvious reason.\nIt can only mean that Zouken didn't want to eliminate Saber. The only downside of you dying is that it would cause Saber to disappear.\"\n\"Makes sense. He did treat me that way.\"",
+      "sourceUnit": "桜ルート九日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what are you pouting for? We're just talking about how Zouken sees it, so don't ignore me.\"\n\"I'm not pouting. It's the truth. But why are you so mad?\"",
+      "sourceUnit": "桜ルート九日目-02:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

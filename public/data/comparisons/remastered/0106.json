@@ -1,0 +1,411 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0106",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We finish dinner.\nIt was probably a typical dinner...except it didn't feel that way.\nI've lost my appetite since the incident in the bathroom.",
+      "sourceUnit": "セイバールート七日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...So cold.\"\nI had opened a window from the veranda to let the outside wind cool my head, but I need to stop.\nI'm going to catch a cold if I keep this up.",
+      "sourceUnit": "セイバールート七日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, there you are.\"\n\"S-Saber!? D-did you have something?\"\n\"No, but I thought you did. I thought Rin promised to teach you magecraft tonight.\"",
+      "sourceUnit": "セイバールート七日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nI smack my forehead.\n\"I completely forgot. Thanks. I'll head over there right away!\"",
+      "sourceUnit": "セイバールート七日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I rush to the outbuilding and head upstairs.\nI knock on the door to the guestroom that Tohsaka has taken up occupancy in.\n\"Shirou? I have my hands full, so just come on in, it's fine.\"\nTohsaka's voice sounds from inside the room, but she sounds a little unnerved.",
+      "sourceUnit": "セイバールート七日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I walk in to see Tohsaka holding a jewel in one hand, a syringe in the other, and a handkerchief in her mouth.",
+      "sourceUnit": "セイバールート七日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I...have questions, Tohsaka.\"\n\"Hoh on. I'mh holmoss hone wih hohah's koha...\"",
+      "sourceUnit": "セイバールート七日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "She sticks a needle in her arm as she speaks, her mouth full.\n...She draws blood into the syringe.\nTohsaka slowly drips blood from the syringe onto the jewel, then grips it tightly.",
+      "sourceUnit": "セイバールート七日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "A wave of vertigo washes over me.\nI can tell it's a ripple of magical energy.",
+      "sourceUnit": "セイバールート七日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Even after all that, it's only at thirty percent. I guess I'll have to make do with just the nine I have.\"\nTohsaka slumps her shoulders in disappointment, and puts the stone back into a jewelry box.",
+      "sourceUnit": "セイバールート七日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I came here to learn from you, as promised.\"\nBut before we get to that, I'm curious about what I just saw.",
+      "sourceUnit": "セイバールート七日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I was waiting for you. You fortified your body with Saber during the day, right? Then we need to train your mind at night.\"",
+      "sourceUnit": "セイバールート七日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka seems happy, ready to teach.\nHm. Saber said she wasn't good at teaching, but I'm guessing this will be the total opposite.\nAnyway...",
+      "sourceUnit": "セイバールート七日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"So...what should we start with? You mentioned that you can only use Strengthening magecraft...\"\n\"Uh, actually before we start, I need to know, or else it's going to bother me.\nWhat the hell were you just doing? Sticking yourself with a needle is dangerous.\"",
+      "sourceUnit": "セイバールート七日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh, huh? I was just making magic bullets. My family's style of magecraft uses the flow and conversion of power. Whenever I have the time, I transfer my magical energy to other objects.\"",
+      "sourceUnit": "セイバールート七日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What are magic bullets, and what's the point of transferring magical energy?\"",
+      "sourceUnit": "セイバールート七日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Magic bullets are exactly what they sound like: bullets filled with magical energy.\nHave you ever heard stories where jewels contain human emotions and thoughts? Jewels in general can easily store magical energy, and it seems like my family has always been really well-suited to the practice.\"",
+      "sourceUnit": "セイバールート七日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"If you don't do anything for, say, a day, you wind up with an excess of magical energy. So, I put that extra energy into jewels.\nI repeat this for days, months, and even years, and that turns the jewels themselves into magecraft.\"",
+      "sourceUnit": "セイバールート七日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"The jewels obviously have limited capacity, and I can't control magical energy outside myself.\nThe magical energy inside the jewels works like an ignition source to instantly activate a large-scale magecraft.\"",
+      "sourceUnit": "セイバールート七日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? So you're saying you fill these jewels with your own magical energy as a backup?\"\n\"Backup...like combat support? Mmm...that's close, but not quite right. It's more like stuffing something into a disposable pack.\"",
+      "sourceUnit": "セイバールート七日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"So, it's like you're temporarily expanding a computer hard disk. That's amazing. You'd be able to use as much magecraft as you want with that kind of skill.\"",
+      "sourceUnit": "セイバールート七日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hard...disk? No idea what that is, but it's also not as great as you think. The moment I infuse the jewel with magical energy, the magical energy is bound by the jewel's attributes, which limits how I can use it.\"",
+      "sourceUnit": "セイバールート七日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? But magical energy never ceases to surprise me. I didn't know you could store it like that.\nWhy don't other mages do something so useful?\"",
+      "sourceUnit": "セイバールート七日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"The ability to store magical energy in something outside yourself is unique.\nEven your Strengthening magecraft involves infusing your magical energy into another object too, right? Things that pass magical energy typically change, using up that magical energy. The effects of magecraft are instantaneous and never permanent.\"",
+      "sourceUnit": "セイバールート七日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"What my family does is make it so the magical energy flows into jewels, where they become permanent objects...but other mages can do something similar to their own bodies.\nThat's what Magic Crests are... A kind of backup magecraft mages possess.\"",
+      "sourceUnit": "セイバールート七日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Magic Crests...oh yeah, secrets that parents pass down to their children. I don't have anything like that so I'm kind of clueless about them.\"",
+      "sourceUnit": "セイバールート七日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What did you just say?\"\n\"Huh? Well, I just said I don't have a Magic Crest. My old man had one, but I didn't inherit it.\"\n...",
+      "sourceUnit": "セイバールート七日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka catches her breath, but then the next minute, she seems to understand.",
+      "sourceUnit": "セイバールート七日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"No wonder you're such an amateur. So you really started from zero. Then I guess there's no helping it.\"",
+      "sourceUnit": "セイバールート七日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka... Haven't you known I don't have a Magic Crest for a long time now?\"",
+      "sourceUnit": "セイバールート七日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. If I knew, I would have never let you go out and do stuff on your own. Sure, I knew you weren't fully trained, but if you don't have a Magic Crest, you aren't even a mage.\"",
+      "sourceUnit": "セイバールート七日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She huffs and looks at me, seeming to be complaining.\nBut...what is this?\nHer voice sounds almost warm... Like she is a little bit relieved... Like she's jealous I'm not a mage.",
+      "sourceUnit": "セイバールート七日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, whatever. This just means I have to teach you everything from scratch. But since you know what Magic Crests are, you know what a mage is.\nOkay. Sit over there, Shirou. I need you to really pay attention because this is important stuff.\"",
+      "sourceUnit": "セイバールート七日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Right here? Okay, go ahead.\"\nI brace myself and look straight at Tohsaka.\nTohsaka nods approvingly, satisfied by my show of seriousness.",
+      "sourceUnit": "セイバールート七日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll start with something simple.\nYou already know that you need magical energy to use magecraft. You can actually refer to anything that can activate magecraft as magical energy.\nThere are endless varieties of magical energy.\nSome may use magecraft via their own means, while some may do it by paying a price of some sort.\nYou at least know that, right?\"",
+      "sourceUnit": "セイバールート七日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. You're talking about mana and od. Mana is magical energy that's found throughout the world, while od is magical energy an individual can create themselves.\"\n\"Yep, yep. Good job. Let me start by explaining the types of magecraft that use mana.\"",
+      "sourceUnit": "セイバールート七日目-01:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. Mages who don't have so much history, like you, employ something that already has taken form to use magical energy.\nIt's a method based on a long established system of rituals using offerings to make contact with Mystics.\"",
+      "sourceUnit": "セイバールート七日目-01:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"It's called Formal Craft...a negotiation technique where a mage prepares a compensation of sorts to make a deal because their own power is insufficient.\nThis way, even a caster with weak magical energy can use magecraft. They don't need to use their own magical energy because they're borrowing it from elsewhere—from mana—so the caster only has to perform a ritual.\"",
+      "sourceUnit": "セイバールート七日目-01:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"But you need knowledge to pull something like this off. You're not at the right level to do something like this. Besides, something reeking of blood probably wouldn't be your style anyway.\"",
+      "sourceUnit": "セイバールート七日目-01:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I wouldn't want to do stuff like sacrifice chickens or pray for a whole night inside a magic circle.\"",
+      "sourceUnit": "セイバールート七日目-01:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Right?\nThen let's move on and talk about od...magecraft that uses the mage's own power.\nThis probably doesn't bear mentioning, but it is the basic method for using the magecraft you and I practice.\nYour Strengthening magecraft only uses your own Magic Circuits without using anybody else's power, right?\"",
+      "sourceUnit": "セイバールート七日目-01:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "I nod.\nIt seems she's getting into the nitty-gritty stuff now.",
+      "sourceUnit": "セイバールート七日目-01:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. The Magic Circuits that function to create your own magical energy are a hereditary trait passed down through generations.\nMagic Circuits are forged over many generations, and get more powerful as they're passed down to the next generation and so on.\nThe child of a mage family is already fit to use magical energy because of this. It may not be fair, but you and I had different starting points.\"",
+      "sourceUnit": "セイバールート七日目-01:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that. It doesn't bother me. Keep going.\"\n\"I wasn't too worried about that either...\nBut whatever. Anyway, other than Magic Circuits, mage families also have secret magecrafts that they cultivate over generations.\"",
+      "sourceUnit": "セイバールート七日目-01:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"It's similar to my jewels you saw earlier. Once a certain magecraft is mastered, a mage can physically 'hold' that magecraft.\nDo you know that feeling of getting ahold of magecraft, even though it's typically shapeless and simply devised?\"",
+      "sourceUnit": "セイバールート七日目-01:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't, but I'm guessing it's like it becomes a part of your body.\"",
+      "sourceUnit": "セイバールート七日目-01:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Bingo.\nMagecraft that goes beyond the realm of principle and becomes a part of you then becomes tangible.\nIt's a feat that can authenticate an otherwise unstable magecraft, and at the same time, it becomes the testimony of that mage's existence.\"",
+      "sourceUnit": "セイバールート七日目-01:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"And when a mage is on the brink of death, they pass down their great accomplishments to their successor in the form of a crest. It's their way of telling their successor to go further, to places they were unable to reach, and that their crest may be of some use to them.\nThough to be honest, both the one handing down the crest and the one receiving it know it's of no help.\"",
+      "sourceUnit": "セイバールート七日目-01:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What? Are you saying that something so awesome is useless?\"",
+      "sourceUnit": "セイバールート七日目-01:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"It IS useful! An ordinary mage would consider a single crest to be like a security blanket. It's THAT helpful!\nBut then again, it's like getting a car. No matter how fast it is on the road, it's never going to take you to the moon.\"\nHuh?",
+      "sourceUnit": "セイバールート七日目-01:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Just forget that part. Let's move on.\nYou might know this already, but this crest is what's called a Magic Crest.\"",
+      "sourceUnit": "セイバールート七日目-01:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"The head of the mage family spends their entire life completing their magecraft and makes it into a crest to pass it down to their descendants, and the descendant completes another magecraft and adds it to the crest, which gets passed down to the next descendant.\nThe Magic Crest gets more complex as it passes from generation to generation, but it's also a constraint mages can't escape.\"",
+      "sourceUnit": "セイバールート七日目-01:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"So what you're saying is that the entire history of a mage family is recorded in these Magic Crests?\"",
+      "sourceUnit": "セイバールート七日目-01:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that's not it. Family records are recorded in books. Magic Crests only contain magecraft.\nIt can cast spells on its own, or it can let you use magecraft you haven't mastered yet.\nIn simpler terms, it's like having magic circles engraved on your body.\"",
+      "sourceUnit": "セイバールート七日目-01:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Then doesn't that mean you can engrave the crests onto anyone. If magic circles are all you need, then you can draw as many as you want as long as you know the shape.\"",
+      "sourceUnit": "セイバールート七日目-01:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not how it works.\nMagic Crests are like living things. It's more like transplanting an organ.\nThere's only one organ, so you can't split it amongst other people or copy it. There's no point in splitting a heart in half, because it'd just stop working, right?\"",
+      "sourceUnit": "セイバールート七日目-01:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...yeah, you have a point. Does that mean you also have a crest implanted in you too?\"",
+      "sourceUnit": "セイバールート七日目-01:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"'Implanted' is a pretty backwards way to put it, if I do say so myself.\nIn my case it's on my left arm. It covers my entire arm from my shoulders to my hand. It doesn't show up as long as I'm not using it, so I don't have to hide it like with Command Spells.\"",
+      "sourceUnit": "セイバールート七日目-01:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"So that's why a mage family only has a single heir.\nIf a family has multiple siblings, typically any not chosen to be the successor would not be taught magecraft and would instead live an ordinary life. The Magic Crest can't be passed down to them, so there's no point in them being a mage.\"",
+      "sourceUnit": "セイバールート七日目-01:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, Shinji said that too. I get it. So that's why Sakura wasn't taught any magecraft.\"",
+      "sourceUnit": "セイバールート七日目-01:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. But the crest inheritance stopped a few generations ago in the Matou family, so I assume Shinji only learned about magecraft.\nHonestly, those are the most annoying sorts out there. They can't really feel what magecraft is, but they still try to use it.\"\nTohsaka sighs a deep breath, swearing quietly.",
+      "sourceUnit": "セイバールート七日目-01:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I was supposed to teach you magecraft, but we got a little sidetracked. I'll need to come up with a different approach now that I know you don't have a Magic Crest.\nLet's call it a night for now. I'll prepare some things for you tomorrow, so we'll do more then.\"",
+      "sourceUnit": "セイバールート七日目-01:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? I'll just have to trust you then...and what do you mean, you're going to prepare things?\"",
+      "sourceUnit": "セイバールート七日目-01:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean a lot of things. Since you have no crest, you don't have a switch. I'm going to go in and tamper with your body, so we'll need medicine and other tools.\"",
+      "sourceUnit": "セイバールート七日目-01:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nA chill runs down my spine.",
+      "sourceUnit": "セイバールート七日目-01:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"What? I'll stop if you don't want to do it. But if so, there won't be much I can teach you.\"\n\"Uh...well I don't want to, but I'm still going to ask you. Whatever you say is probably the right way to go.\"",
+      "sourceUnit": "セイバールート七日目-01:page65:1"
+    },
+    "page66": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Then that's what we'll do tomorrow.\nOh, right... Are you planning on training with Saber tomorrow too?\"",
+      "sourceUnit": "セイバールート七日目-01:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, yeah. I'm concerned about the Bounded Field over the school, but there's still some time before it activates. I want to at least be able to fight by then.\"",
+      "sourceUnit": "セイバールート七日目-01:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Well, not that it's important to me, but it seems like you and Saber aren't getting along.\"\n\"Ugh...well, that...\"",
+      "sourceUnit": "セイバールート七日目-01:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"You managed to talk normally before dinner, but you got all quiet at dinner.\nI just want to check: Are you two getting along? If you two end up bickering during battle, I'm going to suffer the consequences too, you know?\"",
+      "sourceUnit": "セイバールート七日目-01:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Ugh...\nIt's just that something happened right before dinner, and now things are awkward.\nThat's all...but I'm not sure if Saber and I are really getting along.\nWhen I spent all day dueling her, I think I got a sense of what Saber is like.",
+      "sourceUnit": "セイバールート七日目-01:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "I trust Saber as an ally.\nNo question about that.\nBut if someone asked me how I feel about Saber in other senses, I wouldn't know how to answer.\nBecause I...\n...lost all sense in that very moment.",
+      "sourceUnit": "セイバールート七日目-01:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"It's hard to say. But what about you, Tohsaka? Do you like Saber?\"",
+      "sourceUnit": "セイバールート七日目-01:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"I do. There's nothing about her I don't like really.\nShe's strong, polite, and pretty. A huge difference from my Mister Cynic.\"\n\"Huh. I see. So you like Saber.\"",
+      "sourceUnit": "セイバールート七日目-01:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? All I said was I like more about her than I don't! Quit being so blunt, or you'll make enemies!\"",
+      "sourceUnit": "セイバールート七日目-01:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse. I've never been good with words anyway.\"",
+      "sourceUnit": "セイバールート七日目-01:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured as much. You're never sarcastic or cynical. I bet you think of me as loud and annoying.\"",
+      "sourceUnit": "セイバールート七日目-01:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would I think that? I like the way you say things. Otherwise it wouldn't feel like it's really coming from you.\"\n\"WHAT!?\"\nCrap.\nI might have struck a nerve. Tohsaka turns away, pouting.",
+      "sourceUnit": "セイバールート七日目-01:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut I have to admit, I feel a little better—even happy—knowing that Tohsaka likes Saber.",
+      "sourceUnit": "セイバールート七日目-01:page79:1"
+    },
+    "page80": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

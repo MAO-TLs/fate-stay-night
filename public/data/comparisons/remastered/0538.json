@@ -1,0 +1,22 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0538",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Zouken was confident. Arrogant, like he could've killed me whenever he wanted.\"",
+      "sourceUnit": "桜ルート九日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I'm sure he had other reasons, but he let you live because he was confident.\nIt could indicate a weakness we could exploit...\"",
+      "sourceUnit": "桜ルート九日目-03:page1:1",
+      "recoveredDelimitedTail": true
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

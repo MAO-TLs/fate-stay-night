@@ -1,0 +1,746 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0724",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew, I'm tired.\"\nThump.\nI set my travel bag overstuffed with gifts on the ground, and stretch for a few seconds.\nThe sky today is crystal clear, and the spring sunshine feels great, no question.",
+      "sourceUnit": "桜エピローグ:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Eh, it's bright for my eyes that got used to the interior of the plane, but it's a small price to pay, considering I just got back from a long trip.",
+      "sourceUnit": "桜エピローグ:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Verde's gone. They put a theater there instead... This place changed while I was gone.\"\nI look out at the town while loosening my shoulders.\nThe trip from London to this provincial Japanese city took twenty-five hours.\nI feel cramped after being stuffed into an airplane seat for that long. My butt hurts, and I even bumped my head on the ceiling when we landed.\"",
+      "sourceUnit": "桜エピローグ:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Can't even call that economy class. I should've stuck with a reputable airline, at least.\"\nMoral of the story: don't cheap out on long-haul travel.",
+      "sourceUnit": "桜エピローグ:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Even if I'm strapped for cash and my rival for class leader, Luviagelita, goes:",
+      "sourceUnit": "桜エピローグ:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh dear, Miss Tohsaka. If you find yourself indigent, I can offer you a position as my personal maid. Why, I'll even guarantee you a monthly wage equivalent to the yearly pay of a waitress from that cheap, seedy cafe down on Fourth Street, ohoho! Ah, I'm quite serious. Do submit your application first thing tomorrow morning,\"",
+      "sourceUnit": "桜エピローグ:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "it wouldn't do to be a cheapskate when returning to my home country.",
+      "sourceUnit": "桜エピローグ:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, I'll make sure to do that next time.\nI have a round-trip ticket, so I'll put up with that run-down jet one last time on the way back.",
+      "sourceUnit": "桜エピローグ:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, the bus is...twenty minutes away, huh.\n...Eh, I'll go for a walk. Beats waiting.\"\nI heave my backpack with both hands and start walking.\nIt's an hour's walk to the house.\nIt'll take a while, but I still have plenty of time until we're supposed to meet, so this is perfect.",
+      "sourceUnit": "桜エピローグ:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm. This sea breeze sure takes me back.\"\nI narrow my eyes against the wind, listening to cars go by.",
+      "sourceUnit": "桜エピローグ:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Yeah. I'm home.\nIn the year I've been gone, my hometown looks kinda different, but it hasn't changed at all.",
+      "sourceUnit": "桜エピローグ:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I react to the mundane, formerly familiar scenery of my town with alternating boredom and surprise while I walk the path home.\nThis is my first annual visit home since I left to study in London.\nJust walking through the town after a year makes me happy, and it feels fun for no reason.\nThough the mood is slightly spoiled by my stupidly heavy bag.",
+      "sourceUnit": "桜エピローグ:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Alright. That should be okay, I think.\"\nI take a shower and check myself in the mirror to make sure nothing's wrong.\n...I'm not really doing it for anyone's benefit, but it just feels right to pay a little attention to my looks after being gone for a whole year.\nAhh, okay, maybe there's one person who would side-eye me if I didn't, but I'll ignore it for today.",
+      "sourceUnit": "桜エピローグ:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "The house is prettier than I remember, and I can't spot a single speck of dust.\nSakura might still be cleaning it from time to time.\nI appreciate that, I do, but...",
+      "sourceUnit": "桜エピローグ:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...I hope she didn't use this place for anything weird... I didn't recognize that bottle of shampoo.\"\nShampoo belongs in the bath. Not in the library, not in the kitchen, not at the front door, and not in the garden.\nWell...\nIt's nothing to worry about, really, but it's still pretty suggestive.",
+      "sourceUnit": "桜エピローグ:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait, it's already three! Ah, crud, what have I been doing for the last two hours!?\"\nI dash to the front door, try on my pumps for a change, decide it's tacky, and run out the door in my normal shoes.",
+      "sourceUnit": "桜エピローグ:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "We're supposed to meet at four o'clock.\nI was hoping to get there early and scout out the enemy, but now I'm at a disadvantage with my messed-up hair.\nIt's regrettable, but I'll just have to challenge them head-on.",
+      "sourceUnit": "桜エピローグ:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, then...\"\nIt's a sentimental moment in a lot of ways, but now that I'm here, I rid myself of distracting thoughts and want to head inside as soon as possible.",
+      "sourceUnit": "桜エピローグ:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I go through the front gate and walk up to the house door.\nThen I ring the doorbell.\nIt makes a silly ding-dong, and the door rattles open.",
+      "sourceUnit": "桜エピローグ:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nWow.\nWhat's the surprise, you ask? Rider just answered the door in regular clothes.",
+      "sourceUnit": "桜エピローグ:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm back. I'm a little early, but I'm here.\nIs Sakura here, Rider?\"\n\"...Yes. Sakura is in her room, and Taiga is waiting in the living room.\"",
+      "sourceUnit": "桜エピローグ:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Ms. Fujimura's here, too... Right, she'd be on spring break now. Guess I'll make myself at home. Should I go to the living room for now?\"\n\"Yes. I will call Sakura.\"\nI go into the hallway.\nOn the way to the living room, I steal a glance at Rider.",
+      "sourceUnit": "桜エピローグ:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...Should I call this a well-laid ambush?\nI know she was a beauty cursed by the gods, but it really stands out when she's dressed in normal clothes.",
+      "sourceUnit": "桜エピローグ:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "To be frank, she's supermodel-tier.\nWhen a woman thinks another woman is beautiful, she really means it.\nI met a lot of pretty women overseas, but I haven't come across anyone on Rider's level yet.",
+      "sourceUnit": "桜エピローグ:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "She's more than human though, so it makes sense, I guess.\nAnyway, she's a legitimate Servant.\nIf a Eulyphis mage saw her, they'd have to take three days off from work, and if you told them she's a familiar, they'd lock themselves in their atelier for a whole month.",
+      "sourceUnit": "桜エピローグ:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin? Did you want to speak to me?\"\n\"Mm, yeah. How's he doing? Is he getting used to the situation at all?\"",
+      "sourceUnit": "桜エピローグ:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes, he's more stable than he was two years ago.\nHe's been unstable since you left, but improved about a month ago. Sakura must have figured something out.\"",
+      "sourceUnit": "桜エピローグ:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Cool. I wasn't really worried because you and Sakura have good chemistry. ...Um, you haven't been taking any blood without letting her know, have you?\"\nI'm not really scolding her. She can drink if she wants to, but I worry about whether she's following up properly.",
+      "sourceUnit": "桜エピローグ:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need to worry. I would never be as careless as to let her know.\"\n\"...\"",
+      "sourceUnit": "桜エピローグ:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "That's a weird way to answer it, but I'll let it slide if she isn't causing any trouble.\nIt's just my bad habit as a mage.\nA familiar like Rider is way too valuable, so I pretend to overlook some mischief.",
+      "sourceUnit": "桜エピローグ:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I will see you soon. I want to consult you about something, as well. Could you make some time for me tonight?\"\n\"Huh. If it's private, we should talk at my house, not here. I'm staying over tonight, so can we do it tomorrow?\"\nRider nods quietly and leaves for Sakura's room.",
+      "sourceUnit": "桜エピローグ:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...But then, she pauses.\n\"Welcome home, Rin.\"\n\"Thanks. I appreciate you taking care of things while I was gone, Rider.\"",
+      "sourceUnit": "桜エピローグ:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "She smiles back at me and goes off to the tatami room.\n...Wow.\nShe really is beautiful.",
+      "sourceUnit": "桜エピローグ:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh! Welcome, Miss Tohsaka. Glad to see you doing well.\"\n\"Pardon the intrusion. I'm relieved to see you haven't changed either, Ms. Fujimura. Are you taking a break from morning practice today?\"",
+      "sourceUnit": "桜エピローグ:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I took the whole day off when I heard you were coming. The captain this year is dependable, and today's a recruitment meeting, so it should be fine.\"\n\"Recruitment meeting? Has the kyudo club been losing members?\"",
+      "sourceUnit": "桜エピローグ:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm, it's been growing, actually. Sakura became the captain last year, remember? So there are more boys now, but girls aren't staying on long-term.\n...Oh, you graduated, so you won't know.\nThis year's captain is a cool boy, so we should pick up a lot more if he does his job well.\"",
+      "sourceUnit": "桜エピローグ:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Which boy?\"\n\"Miss Mitsuzuri's little brother. He's a timid kid, the polar opposite of his sister. I'm sure he's going to freeze up on stage when he gives the club introduction.\"",
+      "sourceUnit": "桜エピローグ:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nDoesn't that mean you picked the wrong person to lead?\nWell, kyudo has a pretty strict image, so girls might go for something with a softer appeal... But still, Ayako's brother, huh? I never even knew she had a brother.",
+      "sourceUnit": "桜エピローグ:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"How's life on the other side? Is anyone bullying you for being Japanese? You know, arts college students actually form friendships through their rivalries.\"",
+      "sourceUnit": "桜エピローグ:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura, that's a stereotype. People who devote their lives to art aren't that narrow-minded.\"\n\"Ah. Tee-hee. I made you mad.\"",
+      "sourceUnit": "桜エピローグ:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...I can't bring myself to tell her that they only care about themselves.\nOn top of that, my department would crank her anxiety up to 100%, so I won't bring it up.",
+      "sourceUnit": "桜エピローグ:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...Then,\nI see Ms. Fujimura giving me a meaningful grin.",
+      "sourceUnit": "桜エピローグ:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it, Ms. Fujimura?\"\n\"Hm? I was just thinking how pretty you are now, Miss Tohsaka. It's like you've shed your skin, or you've grown up. Did you meet anyone nice over there?\"",
+      "sourceUnit": "桜エピローグ:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Anyone \"nice\"? Why do girls always end up talking about this stuff? And she's weirdly perceptive.",
+      "sourceUnit": "桜エピローグ:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. Sounds like I was right. How's London? It's a city of flowers, right? Y'know, you might have a chance encounter, get chased by a mysterious organization while holding hands, and with only ten minutes left, share a farewell kiss under the burning bridge, you know?\"",
+      "sourceUnit": "桜エピローグ:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Nothing like that.\"\n\"Mrgh. Nothing to share at all, then?\"\n\"......Not exactly.\nI mean, maybe there is someone, and maybe there isn't.\"",
+      "sourceUnit": "桜エピローグ:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...I can't help but give a half-hearted answer.\nI've accepted some invitations of that kind, and I would like to have a research partner soon.",
+      "sourceUnit": "桜エピローグ:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "...But I just can't get serious about any of them.\nWhen I try dating a guy, my thoughts always go to some other idiot and I can't concentrate.\nEvery day, I've been wracking my brain about it. I hate to admit it, but I might actually be head over heels for him.\n...No.\nNo way. Can't be. Nuh-uh—",
+      "sourceUnit": "桜エピローグ:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Sakura.\"\n\"...!?\"\nI jolt upright in my seat.\nSakura looks confused.\n...Wow. She hasn't changed at all.",
+      "sourceUnit": "桜エピローグ:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hi. Everything good, Sakura?\"\nSakura nods.\nHer face lights up...\n\"Welcome home, Nee-san. I'm happy you look well.\"\n...and she celebrates my return with a radiant smile.",
+      "sourceUnit": "桜エピローグ:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "We spend an hour together.\nWe trade stories about things that happened in the year I've been gone and happily chitchat about silly things.",
+      "sourceUnit": "桜エピローグ:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. You already graduated, Sakura. What's next? I can get you in on my recommendation if you want to come over.\"",
+      "sourceUnit": "桜エピローグ:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I appreciate it, but I think I'll decline.\nI have something to do here, and there's someone I can study under, too.\"",
+      "sourceUnit": "桜エピローグ:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm. Kirei's replacement you wrote about, right? ...Well, he seems like a nice old man, and it's probably better than going to London.\nYou should still get out and adventure sometime.\nI know you like to sit around at home, so you need a lively teacher.\"",
+      "sourceUnit": "桜エピローグ:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'm fine on that front. Rider's incredibly strict.\nIf I slack off at all, she makes a super scary face.\"\n\"Ahh... Yeah, that does sound scary.\"\nShe's got Mystic Eyes of Petrification, after all.\nIf she got seriously angry and used her power, it wouldn't stop at just her clothes.",
+      "sourceUnit": "桜エピローグ:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...Wait.\nMs. Fujimura looks a little down.",
+      "sourceUnit": "桜エピローグ:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura?\"\n\"Huh? Uh, what? Sorry, I wasn't listening.\"",
+      "sourceUnit": "桜エピローグ:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's not that, but... you suddenly went quiet, so we were curious.\"\n\"Oh, yeah...\nWhen I watch you two, I'm reminded of Shirou. He'd be incredibly lucky if he were here right now, but that kid always screws up when it counts.\"",
+      "sourceUnit": "桜エピローグ:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Aw, man. He sure is late today. I wonder when he'll be back.\"\nMs. Fujimura holds her cup of tea, staring out the window.\nHer eyes look distant.\nShe gazes out at the pleasantly cloudless, blue sky.",
+      "sourceUnit": "桜エピローグ:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Oh, I just made things awkward.\n...Um, I guess that's my fault.\"\n\"You didn't do anything wrong. I'm happy to hear you talk about Senpai.\"",
+      "sourceUnit": "桜エピローグ:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahaha, come on, Sakura. He isn't your upperclassman anymore.\n...Anyway, I suddenly wanna move my body, so I'm going to go do some drills in the dojo.\"\nMs. Fujimura excuses herself. Maybe she's trying to be polite.",
+      "sourceUnit": "桜エピローグ:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Now, then...\nI'm happy she's being considerate, but it's going to be hard to make small talk now.",
+      "sourceUnit": "桜エピローグ:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, fine. She doesn't need to worry about us, though.\nI might as well ask what I need to.\nSo, Sakura—how are you? It's been two years. Are you getting along all right?\"",
+      "sourceUnit": "桜エピローグ:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. It's taken some time, but I'm coming to terms with a lot of things. I know that letting my guilt crush me is the same as running away from it.\nI'm going to do what I can and try my best, bit by bit.\"",
+      "sourceUnit": "桜エピローグ:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I looked around earlier, and the town looks completely back to normal. The scars from two years ago are gone, and strange events don't happen anymore.\n...I pushed my responsibilities on you and left for the Association, but maybe it was for the best.\"",
+      "sourceUnit": "桜エピローグ:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It's been difficult filling in for you. But I think it's made me a lot stronger this past year.\"\nShe must mean mentally, not magically.\nYeah, it's better for people to act than to sit on their worries.",
+      "sourceUnit": "桜エピローグ:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you, Nee-san? It sounds like you've been having some trouble.\"\n\"Me? Uh... Yeah, I guess I am, when you put it that way.\"",
+      "sourceUnit": "桜エピローグ:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...Where do I even begin?\nLooking back, it all started two years ago.",
+      "sourceUnit": "桜エピローグ:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail War.\nTwo years have passed since he, Sakura, and I got involved in the war.\nThe Greater Grail collapsed and the foundation of the Holy Grail War disappeared.\nThe quest for the Holy Grail in this land was sealed off, and Fuyuki finally returned to peace.",
+      "sourceUnit": "桜エピローグ:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "It did, but not for me.\nThe string of incidents happened on mage territory.\nThe land of Fuyuki belongs to the Tohsakas, but that's only with the approval of the Association, so it doesn't completely belong to us.\nIt's a cardinal rule of the Mage's Association to keep all Mystics hidden, and we shattered it.",
+      "sourceUnit": "桜エピローグ:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "First, the collateral damage of the Holy Grail War was enormous.\nSecond, the Master sent by the Association was assassinated.\nAnd to top it off, the Association detected a Swirl of the Root.\n...Well, the first two were Kirei's responsibility, and he was the overseer sent by the Association, so we had that excuse.",
+      "sourceUnit": "桜エピローグ:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "But we couldn't do anything about the third problem.\nThe Holy Grail caused a gate to appear. Rituals concerning the Root are under the purview of the Mage's Association.",
+      "sourceUnit": "桜エピローグ:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "From their point of view, we basically committed a war crime.\nOne day, something resembling a Swirl of the Root was suddenly detected in the Far East, and while they were being happy and surprised, it vanished just as suddenly.\nThe people in charge were plenty pissed that a gate was opened, but they really wanted to tear us a new one for letting it close after it succeeded.",
+      "sourceUnit": "桜エピローグ:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "And so, while I was struggling with the mop-up, they brought me to the heart of the Association in London, England.",
+      "sourceUnit": "桜エピローグ:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "That's how I stood trial in a meeting room housing about three hundred people.\nThey told me how the Lords of each department would come, how stray mages would come to pick up the pieces of the Tohsaka after my sentencing, and so on. Bit of a dog-and-pony show, if you ask me.",
+      "sourceUnit": "桜エピローグ:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess that's it for me. At this rate, my only options are to be a fugitive in the Middle East where they're hostile to the Association, or fight to the bitter end in Japan.\"",
+      "sourceUnit": "桜エピローグ:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "That's what I was ready to do, and when I was readying my escape, I learned that God giveth, just as He taketh away.\nAt Rin Tohsaka's indictment hearing...",
+      "sourceUnit": "桜エピローグ:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. I bear responsibility for my disciple's misconduct as well.\"",
+      "sourceUnit": "桜エピローグ:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "An old man just a little more senior than the people in charge showed up for the first time in centuries and cleared me of all charges.",
+      "sourceUnit": "桜エピローグ:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "Of course, he didn't take any punishment on my behalf.\nThe world of mages operates on equivalent exchange. Give and take.\nAnd the old man said, of all things...",
+      "sourceUnit": "桜エピローグ:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. Then I will take apprentices. I can teach up to three students. All departments are to present their candidates after this conference.\"\nHe dropped an utter bombshell.",
+      "sourceUnit": "桜エピローグ:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "I mean, a missing Magician appeared and said he would take apprentices!\nThe conference was in chaos.\nThey stopped caring about an insignificant bug like me and went scrambling for days and nights to select candidates. It was a huge commotion.",
+      "sourceUnit": "桜エピローグ:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Then, the old man turned to me while I was standing there awestruck, and...\n\"I believe 'a kite has given birth to a hawk' is an expression from your country. Tohsaka was my least talented student, but to think you would reach it in a mere six generations...\"\n...graced me with that remark.",
+      "sourceUnit": "桜エピローグ:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what do you mean, Grandmaster?\"\nI asked, timidly.\nAfter all, I thought he would kill me if he noticed me.\nMagicians don't leak their Magic to other people.\nMy instincts told me that they would ruthlessly eliminate those who approach their miracles.",
+      "sourceUnit": "桜エピローグ:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "But you should never underestimate your enemy.\nThe Gemstone Grandpa patted me on the head and complimented me.",
+      "sourceUnit": "桜エピローグ:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Take advantage of them. This place is stiff and constrained, but it is well-equipped.\"\nAs expected of the Grandmaster.\nBeing someone who travels to all kinds of parallel worlds, he's open-minded.",
+      "sourceUnit": "桜エピローグ:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nTo tell the truth, I can recreate the Jeweled Sword.\nI understood the blueprints and the theory during that battle, so if I have enough time and resources, I can make an imitation of Magic.\nStill, I'd need serious funds to pull it off. It's more than I could gather in a year or two—no, a decade or two.",
+      "sourceUnit": "桜エピローグ:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "...And that's how I got off scot-free.\nI even got a free ride to the Clock Tower to top it off. After I graduated high school, I made Sakura the administrator of Fuyuki and promptly left for London.",
+      "sourceUnit": "桜エピローグ:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "It's been a year since then.\nLife at the Clock Tower has been an ordeal, but like Sakura, I'm very slowly expanding my own territory.",
+      "sourceUnit": "桜エピローグ:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So, Nee-san. The Emiya house—the matter with Senpai is...\"",
+      "sourceUnit": "桜エピローグ:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"...It won't be a problem.\nI haven't reported it, and Kirei only marked him down as a regular civilian casualty. For better or worse, we're the only ones who know about him.\"",
+      "sourceUnit": "桜エピローグ:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\".........\"",
+      "sourceUnit": "桜エピローグ:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "The mood's a little heavy.\nAfter the battle...\nI survived, thanks to Rider carrying me and Sakura to the surface.",
+      "sourceUnit": "桜エピローグ:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "Rider took me back to the Tohsaka house, where I replenished my magical energy.\nAs long as I have magical energy, the Tohsaka Magic Crest will keep me alive whether I like it or not.\nI couldn't eat for a while, but I recovered quickly.",
+      "sourceUnit": "桜エピローグ:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "Sakura had to deal with after-effects of being connected to Aŋra Mainiiu. And, well, she was hopeless for a while once he was gone.\nShe didn't panic, nor did she brood.\nShe kept pretending everything was fine, like he would come home someday.\nTo be honest, it would have been easier for me to treat her if she'd snapped instead.",
+      "sourceUnit": "桜エピローグ:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "...But it's all in the past now.\nLife has slowly changed over the days and months.\nSakura graduated and said she'd stay in Fuyuki for a while.\nI'm going to use up all of my vacation time here. I'll have to go back to London in a week.",
+      "sourceUnit": "桜エピローグ:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "...\n...What did I expect when I came back to this house?",
+      "sourceUnit": "桜エピローグ:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "For a year...\nNo, for two years, so much has happened here.\nMy memory goes back a year, but I actually spent a lot of time here before I graduated.\nIs that why?\nDid I think that if I turned to look at the kitchen, he'd be standing there holding a kitchen knife with a bored expression?",
+      "sourceUnit": "桜エピローグ:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "...The rookie mage who got caught up in the Holy Grail War.\nHe fought to the very end and won. And for his trouble...",
+      "sourceUnit": "桜エピローグ:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home! Sorry, everyone. Issei asked me to drop some offerings off at a worshipper's house, so I got sidetracked.\"",
+      "sourceUnit": "桜エピローグ:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "...he ended up looking totally fine.",
+      "sourceUnit": "桜エピローグ:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Shirou comes into the living room carrying a veritable mountain of shopping bags.\nOf course...\n...our eyes meet.",
+      "sourceUnit": "桜エピローグ:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey. Y-you're looking pretty swell.\"\nOh no. I'm gonna laugh.\nIt's obvious that he took a deep breath in the hallway and is trying his best to play it cool.",
+      "sourceUnit": "桜エピローグ:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"L-long time no see. And you're looking pretty out of it, as always.\"\nWait, why am I saying the same thing back to him!?\nNow Sakura's giggling at both of us!",
+      "sourceUnit": "桜エピローグ:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, you'll just make Nee-san laugh more if you force yourself to act tough. But she's being just as stubborn, so it's only fair.\"\nNow she's saying something scary.",
+      "sourceUnit": "桜エピローグ:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not forcing anything. Tohsaka's family, so it's perfectly normal for her to be here. It's nothing special.\"",
+      "sourceUnit": "桜エピローグ:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "Still, he came in holding a massive amount of groceries.\nGood grief.\nWhy'd you buy so much? We can't finish it all, dummy.",
+      "sourceUnit": "桜エピローグ:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I don't know what I was nervous for. This guy hasn't changed one bit.\"\n\"Yes. Senpai hasn't changed at all.\"",
+      "sourceUnit": "桜エピローグ:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nOh. He's making that face that says he's got something to say, but decides not to bother.",
+      "sourceUnit": "桜エピローグ:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Sure, whatever... Tohsaka, you're staying over for dinner tonight, right?\"\n\"Yeah. I'm sleeping over, actually.\"",
+      "sourceUnit": "桜エピローグ:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then take it easy. You must be tired from your flight. I'll clean up after dinner, so just enjoy tea with Sakura.\nI bet you have a lot to catch up on.\"",
+      "sourceUnit": "桜エピローグ:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "He goes to the kitchen and puts on an apron.\nIt's the place he's always been for the last year—no, half year, to be exact. A sight burned into my memory.",
+      "sourceUnit": "桜エピローグ:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks. I'll take you up on that.\"\n\"Good, good.\n...Oh, and welcome home, Tohsaka. I wasn't worried one bit about you, but I'm glad you haven't changed.\"\n\"It's good to be home, Emiya. I'm happy to see you're the same, too.\"",
+      "sourceUnit": "桜エピローグ:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Then, the master of the house briskly prepares dinner for a freeloader.\n...Well, then.\nI guess I'll look forward to seeing how much he's recovered in the last year.",
+      "sourceUnit": "桜エピローグ:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. He looks like he's doing well. For a while, I wasn't sure what would happen, but nobody would be any wiser now. Did everything go okay at school?\"\n\"Yes. We graduated together, thanks to you.\"",
+      "sourceUnit": "桜エピローグ:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "All right.\nThen I probably don't need to step in anymore.\n...Sakura never needed my help to begin with, but hopefully I was helpful in filing a leave of absence with school and smoothing things over with Ms. Fujimura.",
+      "sourceUnit": "桜エピローグ:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "And...\nIf you want to know why he's alive, it was only possible through Magic.",
+      "sourceUnit": "桜エピローグ:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "Shirou Emiya's body was completely destroyed.\nHis Magic Circuits were thoroughly wrecked by Archer's arm invading his body, and Projecting past his limits.\nIt was a death beyond even the power of the Holy Grail to heal.\nThe reason he's so hale and hearty now is because the Shirou standing there is a copy.",
+      "sourceUnit": "桜エピローグ:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "Ah, no, that's not accurate, either.\nShirou's body died.\nThat Holy Grail couldn't have resurrected his dead body.\nAll the Lesser Grail—all Illya could do was a Mystic called the Third Magic.\nShe used that to revive his soul, somehow.\nShe brought him back and gave him an undamaged vessel.",
+      "sourceUnit": "桜エピローグ:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "You might think that sounds crazy, but that's the Third Magic for you.\nI'm not talking about transferring a spiritual body or a mind alone into someone else's brain and controlling it.\nWhen a soul materialized by the Third Magic gains a body with human functions, it can completely remake it in the soul's image.\nNot the DNA of the flesh, but of the soul, apparently.\nIllya resurrected Shirou Emiya by reviving his soul and placing it in a raw body that hadn't become anything yet.",
+      "sourceUnit": "桜エピローグ:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "...But it was an incomplete body, so Illya's Third Magic wasn't on the same level as the original, I think.\nA few days after the cavern collapsed, Rider found Shirou looking a liiiittle bit different than he used to.\n...Okay, she didn't find him so much as she plucked or maybe pinched him from the rubble.",
+      "sourceUnit": "桜エピローグ:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "It was a shock at first, to be sure, and it left me wondering how it was even possible.\nBut when I think about it, when Shirou's cooking in the kitchen, he's being remote-controlled by his living soul, allowing him to interact with our world.",
+      "sourceUnit": "桜エピローグ:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "Things like memories, the brain, and Magic Circuits actually aren't located in the body, but the soul.\nMeaning that the vessel is no more than a motor function terminal, while the control system sits safely untouchable on the other side.",
+      "sourceUnit": "桜エピローグ:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "...Still, the first six months were repeated trial and error.\nHe isn't a plant that'll grow if you water it, nor are there any blueprints for him like a homunculus would have.\nIn the end, we sold the entire Matou library to the Association and bought a body that a renowned puppet master had left behind, getting him to where he is now.",
+      "sourceUnit": "桜エピローグ:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "...I hope this doesn't give you the wrong idea. Shirou's just as human as we are.\nHe can get surgery at the hospital, medication works on him, and he'll die if he's killed.\nWhen a body is imbued with a soul, it enters a fixed state in exchange for recreating that soul.",
+      "sourceUnit": "桜エピローグ:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "In other words, he's like a Servant that can operate without a Master.\nThe only difference is that he's living in this era.\nHe'll grow, he'll go to Heaven when he dies, and he'll make us delicious food. he's the same Shirou Emiya I've always known.",
+      "sourceUnit": "桜エピローグ:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, it was used goods. I hit up some other skilled puppeteers, but none of them had any bodies as good as this one.\nI wanted to commission the creator directly, but she's on the run from the Association after getting a Seal Designation. It'll be a pain to track her down.\"",
+      "sourceUnit": "桜エピローグ:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? Senpai says he's fine as he is, though. His magical energy circulation isn't good, but everything else is better than before.\n...Um, I think so, too.\"",
+      "sourceUnit": "桜エピローグ:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "Mm-hm...\nNo matter how good the body is, it'll be overwritten by its soul, so there might be parts that don't work as well. I don't think it would exceed the original's performance, though...\n\"Hey, wait.\"\nWhat's Sakura blushing for?",
+      "sourceUnit": "桜エピローグ:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura?\"\n\"U-um...you see... I thought that maybe I was overdoing it, but my body is still, um...\"\n\"Oh...\"",
+      "sourceUnit": "桜エピローグ:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "...That's what she meant.\nI heard that Sakura's body is still feeling the after-effects of Aŋra Mainiiu.\nShe may have severed her contract with Aŋra Mainiiu, but she's still a Holy Grail.\nIn fact, she's still connected to the other side.\nThat enormous magical energy floods Sakura's body, so she needs to vent it every once in a while to maintain her body.",
+      "sourceUnit": "桜エピローグ:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "Without the Greater Grail, Rider can remain in the world thanks to Sakura's magical energy.\nBut that still isn't enough to use it up, so she must be giving the excess to Shirou.\nShirou's current body has few Magic Circuits. It's true that without Sakura's help, it might start to revert.",
+      "sourceUnit": "桜エピローグ:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haaah. You two are really going at it, huh?\"\n\"Yes. It's been challenging.\"\nAlthough I'm sure it poses a lot of problems to living a normal life, Sakura's constitution gives her a huge advantage as a mage.",
+      "sourceUnit": "桜エピローグ:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait. If you think about it, we're a pretty impressive party.\"\nShirou is a successful case of the Third Magic who will be able to master his Reality Marble with the proper training.\nSakura can use a portion of the Holy Grail's powers.\nRider's just plain cheating.\nAnd I can more or less imitate the Second Magic.",
+      "sourceUnit": "桜エピローグ:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"............\"\nTo be blunt, we're invincible.\nI want someone to start a Mage's Association Tournament.\nDo you think there would be prize money if we swooped in and took first place? An easy five hundred thousand. Pounds, of course. I'm Japanese, so no tax, please.",
+      "sourceUnit": "桜エピローグ:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nCrap. I'm actually considering it.\nThen I'll be truly free and all of my dreams will come true.\nI'll use the funds to reforge the Jeweled Sword, say goodbye to that dreary place, and come back to this town.\nThen, I'll be able to do this again...",
+      "sourceUnit": "桜エピローグ:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "\"...Guess not. It's best to earn an honest living.\"\nI give up on the idea completely.\nIt sounds too easy, to be honest.\nI like my current life, and I'm looking forward to seeing how it changes.\nBesides, I can't stay away forever.\nI couldn't possibly live a peaceful life in this small, peaceful town with all these potential troublemakers around.",
+      "sourceUnit": "桜エピローグ:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"Nee-san? You're making a rather wicked smile...\"\n\"Oh, am I? You've got sharp senses, Sakura.\"",
+      "sourceUnit": "桜エピローグ:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "I stand up from my seat cushion.\nThis is no time to laze around.\nI'm only here for seven days. I'm not going to waste an important meal.",
+      "sourceUnit": "桜エピローグ:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I'm going to help, so let me use the stove. I'll show you the skills I picked up in England.\"\nI shoot down his objections.\nI start to grin, fantasizing about stealing the show entirely, and put on the apron they keep ready for me.",
+      "sourceUnit": "桜エピローグ:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see...\"\nI roll my sleeves and go to the kitchen.\nBut before that...\nI remember what I wanted to confirm the most when I came back home.",
+      "sourceUnit": "桜エピローグ:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "It's been two years.\nI turn to my gentle, grown-up sister.\n\"Are you happy, Sakura?\"\n\"...Yes.\"\nHer full-faced smile is perfect in every way.\nThat alone makes coming home worth it.",
+      "sourceUnit": "桜エピローグ:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "And so, I share in some of her happiness and look up at the blue sky.",
+      "sourceUnit": "桜エピローグ:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "One day, winter ended, and spring came.\nI notice that cherry blossoms cover everything outside, leaving no vestiges of those cold days.\nWe've gained enough to balance out what we lost, and settled our accounts.",
+      "sourceUnit": "桜エピローグ:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "So...\nOur story in this town is over, but our story is just beginning.\nThe credits will roll in the far, far future.\nFor now, tomorrow's weather looks good, and my break has just begun.\nLet's embrace a new day, and a new future.",
+      "sourceUnit": "桜エピローグ:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "In my mind, I see a vision of ourselves leisurely walking down the hill.",
+      "sourceUnit": "桜エピローグ:page145:1"
+    },
+    "page146": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page147": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0711",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I hear a sound.\nSlight tremors shake the cave.\nI can only barely hear the light and sound from afar, but the cave is creaking and shaking.",
+      "sourceUnit": "桜ルート十六日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Is that thunder in the distance?\nI wonder about it absently, but I can't remember a time I ever heard distant thunder.",
+      "sourceUnit": "桜ルート十六日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...The dagger in my hand began to crumble as soon as Saber disappeared back into the shadows.\nIt's probably the cost of killing a powerful familiar like a Servant.\nThe Azoth Blade that Tohsaka put her life savings into has crumbled to dust.",
+      "sourceUnit": "桜ルート十六日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI tightly fasten the bindings on my left arm.\nI've used up most of my magical energy.\nThere's some left in Archer's arm, and some left in me.\nI think I can manage with that combined power, but I'm limited to one last Projection. I won't be able to control Archer's arm anymore, no matter what I do afterwards.",
+      "sourceUnit": "桜ルート十六日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ri...der...\"\nOh, right. I wonder what happened to her.\nI stand up.",
+      "sourceUnit": "桜ルート十六日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "My body feels hard.\nIt feels like my joints have turned into steel.\nI bet bullets would bounce off me now.",
+      "sourceUnit": "桜ルート十六日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider, are you all right?\"\nI can't walk very well.\nI walk.",
+      "sourceUnit": "桜ルート十六日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I'm bleeding.\nI pretend not to see it.\nThe pain feels like someone drove iron stakes into my legs, but luckily, I can grit my teeth and walk through it.",
+      "sourceUnit": "桜ルート十六日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Something is making a sound, far away.\nIt sounds like something I heard a long time ago, when I was a kid.\nThe fact I can remember things I heard that long ago must mean I'm still a kid at heart.\nI had a lot of interests when I was a kid.",
+      "sourceUnit": "桜ルート十六日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider.\"\nI walk up to the wall she got smashed into.\nRider's still alive.\nBut she's beat up all over, and most of her magical energy is spent.\nShe probably can't move right away.\n...She should take a break.",
+      "sourceUnit": "桜ルート十六日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going on ahead. Catch up later once you can run.\"\nI mutter at the fallen Rider, and turn to go deeper into the cave.",
+      "sourceUnit": "桜ルート十六日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...urgh. You're more of a slave driver than I expected.\"\nLooks like she's conscious.\nRider can't stand up right away, and she looks up like something's very bright.",
+      "sourceUnit": "桜ルート十六日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I know I'm leaning a lot on you. Take some time to recover and then catch up.\"\n\"...Yes. I'll be right there. Don't worry.\"",
+      "sourceUnit": "桜ルート十六日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Rider won't push herself too hard.\nShe knows that she should take time to properly recover instead of forcing herself to get up.\nShe isn't reckless like me. It's so reassuring.",
+      "sourceUnit": "桜ルート十六日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...The tremors are happening more often.\nI can't waste time here.\nI go after Tohsaka, though I can't move my body very well.",
+      "sourceUnit": "桜ルート十六日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... Hah, haah.\"\nI'm getting breathless.\nI use the wall to support myself as I move forward.\nMy pace isn't bad.\nMy body just feels stiff, but it shouldn't get in the way once I get used to it.",
+      "sourceUnit": "桜ルート十六日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Burgh...ngh, hah, gugh, guh.\"\nSomething comes out of my mouth.\nI pretend not to notice it and wipe my lips.",
+      "sourceUnit": "桜ルート十六日目-19:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Zzrgh, agh...\"\nMy thigh muscles go snap and feel numb. I nearly trip over.\nI'm pretty sure I heard a snap.\nMy clothes are torn from the inside, and I can see gaping wounds.\nI do my best not to look at them and keep walking.",
+      "sourceUnit": "桜ルート十六日目-19:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I'm close.\nA lukewarm wind brushes against my body.\n\"...Here goes.\"\nI clap my cheeks and start running.",
+      "sourceUnit": "桜ルート十六日目-19:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I leave the darkness.\nA wasteland I've seen before spreads out before me, filling my vision.\nNo, not quite.\nI haven't seen this sight before.\nThat didn't exist in the wasteland I saw in Illya's record.",
+      "sourceUnit": "桜ルート十六日目-19:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"That's...\"\nThe root cause of this absurd war.\nThe thing that took Sakura from me.",
+      "sourceUnit": "桜ルート十六日目-19:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"It's almost incarnated...\"\nI'm assailed by a sense of menace and revulsion.\nIts excessively vital breathing declares that it's on the cusp of its birth.",
+      "sourceUnit": "桜ルート十六日目-19:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Flashes of light and tremors.\nThe light lashes out from the top of the cliff, haphazardly blasting the cavern.\n...I don't know what's happening up there, but given how flashy it is, it can only be Tohsaka.",
+      "sourceUnit": "桜ルート十六日目-19:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Which means...I see.\n\"You're panicking.\"\nI look around.\nThe eyeless, twisted fetus is looking at me.",
+      "sourceUnit": "桜ルート十六日目-19:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...No doubt about it.\nIt must not like Tohsaka's rampage very much, because it really wants to come out.\nBut its body isn't ready yet.\nIts placenta is inside that dark pillar.\nIt can't come out unless its body is fully formed.",
+      "sourceUnit": "桜ルート十六日目-19:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "That's why it's worried that Tohsaka will destroy its placenta, and it's rushing to finish its body.\nIt wants to be born in this world as a Servant with a flesh-and-blood body.",
+      "sourceUnit": "桜ルート十六日目-19:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Not on my watch.\"\nI run.\nI see a desperate clash of light and darkness.",
+      "sourceUnit": "桜ルート十六日目-19:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...?\"\nOnce I get close enough to make out Sakura and Tohsaka fighting...\nTime stops in the cavern.\nAn enormous source of light blinds me enough to feel that way, and...",
+      "sourceUnit": "桜ルート十六日目-19:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Nee-san.\"\nI hear a child-like wail, and the world begins to shake violently.",
+      "sourceUnit": "桜ルート十六日目-19:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "The light didn't destroy the chamber walls.\nThis is destruction on a more fundamental level. It's the frenzied squirming of that giant shadow attempting to come out.",
+      "sourceUnit": "桜ルート十六日目-19:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"That was...\"\nA horrible chill runs down my spine.\nI have an ominous feeling.\nSakura's wailing voice prophesies the worst thing I could see.",
+      "sourceUnit": "桜ルート十六日目-19:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...Tohsaka, Tohsaka!\"\nI run.\nBreathing wildly, I scramble up the cliff using —-afflicted limbs.",
+      "sourceUnit": "桜ルート十六日目-19:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The tremors won't stop.\nBoom.\nSomewhere in the wasteland, I hear a large boulder fall.",
+      "sourceUnit": "桜ルート十六日目-19:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Haah, haah, haah, hah...!\"\nI don't care what's going on behind me.\nCovered in dirt, I single-mindedly climb the cliff,\nand a scene that I was too late to stop is burned into my eyes.",
+      "sourceUnit": "桜ルート十六日目-19:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"......Tohsaka.\"\n...The ground is shaking.\nTohsaka's sprawled face down, and I can't see her face.\nShe resembles a large flower fallen from its stem.",
+      "sourceUnit": "桜ルート十六日目-19:page34:1"
+    },
+    "page35": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十六日目-19:page35:1"
+    },
+    "page36": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

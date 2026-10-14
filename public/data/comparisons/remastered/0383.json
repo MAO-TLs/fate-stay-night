@@ -1,0 +1,176 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0383",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I saw many corpses.\nI died at that time and was reborn.",
+      "sourceUnit": "凛ルート十三日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I don't have repentances about the path I took.\nMy eyes lost their hatred,\nmy hands lost their anger,\nmy feet lost their hope,\nand I lost myself there.",
+      "sourceUnit": "凛ルート十三日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I lost everything.\nIt is not because I gave up that I accepted that nothing would be saved.\nI just found out that it's natural.\nIt's just that dying people will die and survivors will survive.\nI laid down on the mountain of rubble and gazed at the spreading ruins.\nI understood everything then.\nI thought I understood everything.",
+      "sourceUnit": "凛ルート十三日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "But, I still thought about it.\nIf I can save everything here...\nHow wonderful that would be.",
+      "sourceUnit": "凛ルート十三日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "That is what I admired.\nI just thought that it would be nice if no one had to suffer.\nI tried to become a hero of justice for that sake.\nIt was easy to understand, and it seemed like an ideal way to live.",
+      "sourceUnit": "凛ルート十三日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "That's why I aimed for it.\nI can see where I had to be, and there are many ways to get there.\nI just kept on running, wanting to get as close to it as possible, even though I didn't know what was right or wrong.",
+      "sourceUnit": "凛ルート十三日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Many paths that I took were crooked, and my destination was only getting farther away.\nI'm taking the long way.\nI have been repeating this for ten years since I got saved by Kiritsugu.",
+      "sourceUnit": "凛ルート十三日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "But I won't regret it.\nI'm not skilled like Tohsaka.\nI will take the wrong path and lose many things at times.\nBut I can't disregard them as meaningless.\nI have to show meaning for why I survived for the sake of things I have trampled over and things that won't come back.",
+      "sourceUnit": "凛ルート十三日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I won't lose for that sake.\nIt can't be helped if I lose against others.\nBut I can win against myself. I can always resist against my mind that says to give up.\nThat's all I swore upon.\nThere's only one thing that I believed in and wanted to believe in.",
+      "sourceUnit": "凛ルート十三日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Yes.\nEven if I'm walking down the wrong path...\nI will not regret believing in it.",
+      "sourceUnit": "凛ルート十三日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI'm awakened by the light pouring in from outside.\nIt's before 6 AM.\nThe sky outside the window is cloudy, as if sprinkled with ashes.",
+      "sourceUnit": "凛ルート十三日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I get ready and leave my room.\nMy body is in good condition, and there is not much pain in my wound anymore.\nI shouldn't be a burden to Tohsaka like this even if we were to engage in battle.",
+      "sourceUnit": "凛ルート十三日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're here. Are you ready, Shirou?\"\n...\n...I'm ready, but...\nUm, Tohsaka has transformed.",
+      "sourceUnit": "凛ルート十三日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm? What, you look like a newbie soldier who stepped on a mine and can't move. Are you not ready yet?\"\n\"...No, that's not it. Don't you look different, Tohsaka?\"\n\"Huh...?\nOh, these? I put them on when I do detailed work, so don't worry about it.\"",
+      "sourceUnit": "凛ルート十三日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWell.\nI guess that's fine if she says so.\n...I wonder what kind of magecraft this is that makes it look so wrong, yet so right.",
+      "sourceUnit": "凛ルート十三日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. We're heading to the forest in the outskirts.\nIt's a huge sea of trees that is unkempt and far from the city.\nIt has rejected human intervention for a long time, so the forest is big and wide. You know that every year a few people go in there without proper preparation and get lost, right?\"",
+      "sourceUnit": "凛ルート十三日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod silently.\nOur destination is the Einzbern villa that is said to be somewhere in that forest.\nThat girl... Our fate is decided the moment our negotiation with Illyasviel breaks down and we end up fighting.\nWe can't call for help, and it will be difficult to run away.\nWe can't escape from the forest alive if we don't defeat that giant... Berserker.",
+      "sourceUnit": "凛ルート十三日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, let's get going.\nI stayed up all night estimating where it might be, so we should be able to find it in half a day if all goes well.\nWe'll take a taxi to the highway, so get some money ready.\"",
+      "sourceUnit": "凛ルート十三日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She picks up a Boston bag full of things and starts walking.",
+      "sourceUnit": "凛ルート十三日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI go after her with my bamboo sword bag in one hand.\n...But, Tohsaka.\nMoney for the taxi is fine, but does that mean we'll be walking on the way back home?",
+      "sourceUnit": "凛ルート十三日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "We ride the taxi for an hour from town.\nWe ride on the endless highway, passing several mountains, and reach the entrance of the forest.\nOf course, there are no paved roads in the forest.\nWe walk about one kilometer from the highway and finally reach the entrance to the forest.",
+      "sourceUnit": "凛ルート十三日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nI knew it wasn't going to be easy, but I can't help but get nervous once I actually face it.\nThe forest is dark even though it's daytime.\nThe tall branches that cover the sky shut out the sunlight, and it's hard to see more than ten meters ahead, let alone the end of the forest.",
+      "sourceUnit": "凛ルート十三日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Shirou. Sorry, but can you walk ahead a bit?\"\n\"Mm? That's fine, but you're the one who knows where that girl is, right? I don't think anything good will come from having me go ahead.\"\nI complain as I enter the forest.\nThen...",
+      "sourceUnit": "凛ルート十三日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... What the, I just felt a shock...!?\"\nI pull back my foot reflexively.\nI only felt numb for an instant.\nThe numbness itself is subtle, and it hurts way more to stub your toe on a dresser.\n...Well, it's basically like a static shock.",
+      "sourceUnit": "凛ルート十三日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I knew it. I'm sure it's only for identification, but it seems like she has the whole forest under her surveillance.\"\n\"Wait... Hold on. Isn't that bad?\nThat means we set off the burglar alarm, right?\nThen...\"",
+      "sourceUnit": "凛ルート十三日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't think that's a problem. We didn't come here to surprise attack. We came to talk, so it would be in our favor to let them know we're coming.\"",
+      "sourceUnit": "凛ルート十三日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Be careful, you'll feel a bit of a shock.\"\n\"I know, I know. I saw it happen to you so I know—\"\nTohsaka waves her hand and steps into the forest.\nAt that moment...",
+      "sourceUnit": "凛ルート十三日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"WAHHHH!\"\nTohsaka lets out a funny scream and jumps back.",
+      "sourceUnit": "凛ルート十三日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow...\"\nI hear crackling electricity.\nI want to believe that it's my imagination that the leaves piled up under Tohsaka's feet are scorched.",
+      "sourceUnit": "凛ルート十三日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...It seems like the alarm reacts differently depending on the person who steps in. It was like a greeting to me.\"\nI calmly explain the situation.\n\"Khh... Ungh, hnng...\"\nBut, it doesn't seem like Tohsaka is listening to me.",
+      "sourceUnit": "凛ルート十三日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"That kid has some nerve...! I heard you laugh just now...!\"",
+      "sourceUnit": "凛ルート十三日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka yells at the empty space where there isn't anyone.\nI don't know where that line went, as her threatening attitude seems like she might go fight instead of talk.",
+      "sourceUnit": "凛ルート十三日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...Well, anyways...\nIt seems like talking bad about Tohsaka is fatal no matter how far away you are from her, so I should be careful.",
+      "sourceUnit": "凛ルート十三日目-14:page32:1"
+    },
+    "page33": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

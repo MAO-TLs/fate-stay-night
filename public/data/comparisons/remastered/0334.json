@@ -1,0 +1,281 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0334",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's morning.\"\nI slowly open my eyes.\nThe night that I thought would last forever ended before I realized it.",
+      "sourceUnit": "凛ルート十日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's good. The pain is gone.\"\nI must've not been able to bear it anymore, or it stopped hurting before I knew it.\nEither way, I don't feel any further pain, nor do I feel sleepy or sluggish.\nI was able to sleep for about three hours, and my mind is pretty clear.",
+      "sourceUnit": "凛ルート十日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll go make breakfast.\"\nMy bed is wet from sweating.\nI force myself up.\nAnd as soon as I try to stand, my left foot slips.",
+      "sourceUnit": "凛ルート十日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI try touching my left foot.\nThere's nothing wrong.\nThere is no pain or bleeding, but...there's also no sensation at all.",
+      "sourceUnit": "凛ルート十日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nIt's not just my left leg, either. I don't feel anything in my left arm.\nI try pinching the left side of my chest and feel nothing there as well.",
+      "sourceUnit": "凛ルート十日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHas my body still not healed completely?\nThe whole left side is numb, and I'm feeling a strange disconnect, like it's someone else's body. Uhh, I have had similar experiences before...",
+      "sourceUnit": "凛ルート十日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Like when I sleep in the shed. If I use my arm as a pillow, it'll often feel like this.\"\nYeah, of course.\nThis is similar to the numbing that one gets when the blood circulation in their limbs temporarily gets cut off.",
+      "sourceUnit": "凛ルート十日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Well, I can move it, so I guess it'll go back to normal eventually.\nThough my limbs react frustratingly slowly, like I'm moving them by pulling a lever, it hopefully won't affect my daily activity if I'm careful.",
+      "sourceUnit": "凛ルート十日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I refrain from using a knife this morning and make a simple meal with some bread.\nMy dominant hand, the right hand, is safe, so I can use a frying pan.\nI cook bacon and eggs, prepare instant clam chowder for the three of us, and somehow manage to set up the table.",
+      "sourceUnit": "凛ルート十日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for the meal.\"\n\"Dig in.\"\nWe both bite into the golden bread.",
+      "sourceUnit": "凛ルート十日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Saber nods in approval at the toast and salad.\n...Yeah.\nIt's interesting seeing Saber holding a rice bowl and chopsticks, but Western food seems more appropriate.",
+      "sourceUnit": "凛ルート十日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber is quiet.\nThough she isn't unfriendly, she does consider silence as a virtue.\nShe's like this especially during meals.\nIt's more comfortable for me when it's quiet during meals, so a breakfast like this is ideal.",
+      "sourceUnit": "凛ルート十日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI finally realize then why it's so quiet this morning.",
+      "sourceUnit": "凛ルート十日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "That would be because...",
+      "sourceUnit": "凛ルート十日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, good morning! ...Wait, huh? Are we having French food this morning?\"\nFuji-nee wasn't staying over.",
+      "sourceUnit": "凛ルート十日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. I tried my hand at something Café Marly-esque. So please sit and eat.\"\nI hand Fuji-nee her mug.",
+      "sourceUnit": "凛ルート十日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? But you know, it smells like instant food, Shirou.\"\n\"It's your imagination. Your nose isn't working since you just woke up.\"",
+      "sourceUnit": "凛ルート十日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You might be right. Oh, good morning, Saber. Sorry I couldn't come by last night.\"\nFuji-nee gulps down hot clam chowder like a sports drink.\nShe must have some kind of special coating along her esophagus.",
+      "sourceUnit": "凛ルート十日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Taiga. I did not see you yesterday, but did something happen?\"\n\"Hm? Yeah, I had to work... Well, no. I was just going around visiting those in the hospital. But that ended yesterday, so I can relax again today.\"",
+      "sourceUnit": "凛ルート十日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She puts margarine on her toast.\nThough it doesn't really matter, Fuji-nee doesn't use butter for some reason.\nI'd try asking why, but I feel like I'd get some sort of stupid response. I'll table that for another day.",
+      "sourceUnit": "凛ルート十日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey Fuji-nee, how many of the ones hospitalized are in a serious condition?\"\n\"No one's in a serious condition. They're all just staying at the hospital to be safe, and they said that everyone can go back to school next week.\nSo it's okay, Shirou. Don't worry about this accident. You can go to school without worry.\"",
+      "sourceUnit": "凛ルート十日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee bites into her toast with gusto.\nI feel reassured just by watching her. She really looks unconcerned.",
+      "sourceUnit": "凛ルート十日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. That's good.\"\n\"Yes, all's right with the world. I'll be looking forward to dinner tonight.\"",
+      "sourceUnit": "凛ルート十日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "That peaceful smile.\n...Yeah. At times like this, I'm reminded that Fuji-nee is still Fuji-nee.",
+      "sourceUnit": "凛ルート十日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll get going now. Please take care of the house as usual, Saber.\"\n\"Yes, that is fine, but... Shirou, I did not see anything made in the kitchen, so am I to go without lunch today...?\"",
+      "sourceUnit": "凛ルート十日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm? Oh, sorry. We have half days on Saturday. I'll be a bit late, but I'll come back by lunchtime, so I'll make lunch.\"",
+      "sourceUnit": "凛ルート十日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Shirou, you must tell me these things beforehand. You do not seem to be on top of things this morning. You have been reacting slowly as well. Is something the matter?\"",
+      "sourceUnit": "凛ルート十日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? No, not really. My body is still heavy from yesterday, but it should go back to normal soon.\"\nSensation hasn't returned to the left side of my body yet, but there should be no problem as I can still move it.\nI don't need to make Saber worry over something like this.",
+      "sourceUnit": "凛ルート十日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, you're right that I should tell you. Meals are your only hobby. I'll make a big lunch to make up for it, so let's call it even.\"\nI wave goodbye and go to the door.",
+      "sourceUnit": "凛ルート十日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I cannot agree with what you just said. It is only that I would not have energy in the case of an emergency if I skip meals—\"\n\"Okay, okay. See you later, Saber!\"",
+      "sourceUnit": "凛ルート十日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "I leave Saber's complaints behind me.\n\"Woah... This is more tiring than I thought.\"",
+      "sourceUnit": "凛ルート十日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I touch my numb left foot.\nIt was fine back home, but now that I'm walking this is starting to make me feel ill.\nEven if it doesn't affect my movements, it seems to affect me mentally to walk dragging a body with no senses.",
+      "sourceUnit": "凛ルート十日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, I can't complain about something like this. The others had it way worse.\"\nEven though she healed, Saber got her throat crushed and was smashed against a wall.\nTohsaka was coughing from receiving that blow from Kuzuki.\nCompared to those two, it's nothing since I didn't actually get wounded.",
+      "sourceUnit": "凛ルート十日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well...\"\nI force my leg to move and start down the hill.\n...I feel slightly nauseous.\nWith uncertain steps, I make it down the usual path to school, weaving around like a ghost.",
+      "sourceUnit": "凛ルート十日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "And so...\nSchool's over before I knew it.",
+      "sourceUnit": "凛ルート十日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "It might be because my body still doesn't feel right, but my sense of time is all over the place.\nI don't remember any of the material from class, and I'm not too sure of what I did either.",
+      "sourceUnit": "凛ルート十日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Could this really be serious?\"\nThe left side of my body doesn't change.\nIt makes me depressed feeling so numb for this long.",
+      "sourceUnit": "凛ルート十日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"And the sensation is getting stronger, like everything is heavier.\"\n...My nausea isn't going away. And of course, Kuzuki wasn't at school.",
+      "sourceUnit": "凛ルート十日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...I should go home. Saber should be hungry too.\"\nI grab my bag and stand from my seat.\nAmidst all this, I feel like I'm forgetting something. Though I figure I'll remember once I get home.",
+      "sourceUnit": "凛ルート十日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nOnce I finish walking up the hill with my numb left foot, I remember what I forgot.",
+      "sourceUnit": "凛ルート十日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I forgot to talk to Tohsaka.\"\nSo preoccupied was I that it completely slipped my mind. My spacey, hazy mind.\nWell, I'm sure nothing important happened since she didn't immediately come find me.\nConsidering my condition, I can just contact her once I get better.",
+      "sourceUnit": "凛ルート十日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home.\"\nI call out in a loud voice so Saber can hear from her room and go straight to the kitchen.",
+      "sourceUnit": "凛ルート十日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "I put the ingredients that I bought in the refrigerator, wash my hands, and put on my apron.\nThe plan is to make cod for dinner, so for lunch it'll be some kind of meat or poultry.\nA meal of chicken teriyaki for the main course sounds good, so I get to work on that.",
+      "sourceUnit": "凛ルート十日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you home, Shirou?\"\nSaber must've heard the noise, as she comes in from the porch.",
+      "sourceUnit": "凛ルート十日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, sorry I'm late. I'll make lunch right away, so you can rest. You must be hungry—\"\n...Crap.\nI got distracted by Saber and dropped the plate in my hand.",
+      "sourceUnit": "凛ルート十日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, the plate is broken.\"\n\"Yeah. It's my first time breaking a plate.\"\nI'm surprised myself. Surprised enough to say something stupid, too.",
+      "sourceUnit": "凛ルート十日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I'll clean it up right away, so you can go sit down.\"\nI pick up a piece.\n\"...Huh?\"\nI fumble and drop it too.",
+      "sourceUnit": "凛ルート十日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...You seem tired, Shirou.\nNo, I will clean it up. Please focus on cooking.\"",
+      "sourceUnit": "凛ルート十日目-06:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I guess trying to pick it up with my left hand was a mistake.\n...Well, it was a good lesson.\nMy left hand still hasn't regained feeling. I'll need to be incredibly careful with a knife.",
+      "sourceUnit": "凛ルート十日目-06:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Please do not push yourself. Make something simple. I am happy that you are putting in the effort, but I'd rather not have blood mixed into the meal.\"\nWell, I don't want that either.\nThat is a failure for someone in charge of the kitchen.",
+      "sourceUnit": "凛ルート十日目-06:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll put effort into dinner and make lunch simple. I'll still make the main dish, but I won't be using any pumpkin or radish. Is that okay?\"\nI put two hundred grams of chicken on the cutting board and carefully ready my fork.\nI have to at least make the main dish without cutting any corners because of what I told Saber this morning.",
+      "sourceUnit": "凛ルート十日目-06:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I am looking forward to it, Shirou.\"\nIt's like she can sense my enthusiasm.",
+      "sourceUnit": "凛ルート十日目-06:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat has me even more motivated.\nI'll poke some holes first with the fork to prepare, and...",
+      "sourceUnit": "凛ルート十日目-06:page52:1"
+    },
+    "page53": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page54": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

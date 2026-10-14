@@ -1,0 +1,92 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0254",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's bedtime.\nI don't know what happened to Saber, but the lights have gone out in that room. The sound of activity from it has gone silent.\nI've heard it gets noisy when there's three girls together, and it seems that is true even when they're quiet like Saber and Sakura are.",
+      "sourceUnit": "凛ルート四日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait, never mind. It was mainly Fuji-nee's laughter.\"\nThough it was still pretty noisy.\nIt isn't good for my mental health to have girls the same age as me being rowdy under the same roof.",
+      "sourceUnit": "凛ルート四日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn it. My sleepiness went away thinking about them.\"\nLike Saber's troubled expression,\nif Sakura and Saber are getting along,\nor what Fuji-nee is even thinking.",
+      "sourceUnit": "凛ルート四日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The more that I think, the more my head starts hurting. If it's like this, it might've been better if Saber slept in the room next to mine.",
+      "sourceUnit": "凛ルート四日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's 11 PM.\nThe lights are out in the house, and there's not a single sound outside.\nMy hand goes to the door to slide it open and tiptoe by so Fuji-nee doesn't hear anything.",
+      "sourceUnit": "凛ルート四日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I go out to the garden.\nThe moon is shining bright, while the cutting breeze is cold.\nIn the winter night, the world was silent, as if frozen.",
+      "sourceUnit": "凛ルート四日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The shed has gone still.\nThe place where I got cornered by Lancer yesterday,\nand the place where Saber appeared.\nThe entrance is still open, and the darkness inside feels uninviting.",
+      "sourceUnit": "凛ルート四日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I go inside.\nClosing the door behind me to shut out the cold air, I turn on an old stove heater.",
+      "sourceUnit": "凛ルート四日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shoot over 200 arrows, huh?\"\nThe teaching of archery focuses on accuracy, piercing strength, and persistence.\nAccuracy is how well one can hit the target.\nPiercing strength is the power to pierce the target.\nAnd lastly, persistence is how long one can maintain the accuracy and piercing strength.",
+      "sourceUnit": "凛ルート四日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...I think I read it somewhere in an archery manual.\nOnce one aims to be a shooter, after they learn the true meaning of kyudo, they continue that forever.\nSo they say to shoot over 200 arrows... Or something.",
+      "sourceUnit": "凛ルート四日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I don't know what I should do as a Master, so I should at least train my magecraft.\"\nI sit down inside the shed and take a deep breath.",
+      "sourceUnit": "凛ルート四日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Haah...\"\n...I control my breathing and begin my regular training.\nMy mind imagines the same thing that it always does.\nAn image of a sword that comes to mind.",
+      "sourceUnit": "凛ルート四日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI ignore that and clear my mind even more.\nOnce I've let magical energy flow throughout my entire body, I practice Strengthening like usual.\nWhen I was attacked by Lancer last night, I succeeded in Strengthening for the first time in a few years.\nI need to repeat it so that I don't forget the sensation, or else it would be a waste.",
+      "sourceUnit": "凛ルート四日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Trace, on.\"\nI narrow my eyes and breathe out deeply.",
+      "sourceUnit": "凛ルート四日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "That's all for now.\nI forget all about the Holy Grail War, Saber, and Tohsaka once I immerse myself into the process.\nClear all thoughts and hesitation from my mind.",
+      "sourceUnit": "凛ルート四日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "But, during the process...\nthe thought that Tohsaka, who's a mage like me, might be doing the same kind of training never leaves my head.",
+      "sourceUnit": "凛ルート四日目-09:page15:1",
+      "recoveredDelimitedTail": true
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

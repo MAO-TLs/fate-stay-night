@@ -1,0 +1,321 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0026",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm worried about Sakura.\nNothing will come from me worrying about her, but I should at least check to see if she's perked up.",
+      "sourceUnit": "セイバールート二日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I walk through the first year's hall, which is on the fourth floor.\nThere aren't any students walking down the hall, and there's only a handful of students hanging around the classroom.\nThey're either at their clubs or headed home.",
+      "sourceUnit": "セイバールート二日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. Sakura's probably at her club too.\"\nWell, I've come this far.\nI might as well check Sakura's classroom, and after I see that nobody's there, I'll head to work.",
+      "sourceUnit": "セイバールート二日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see.\"\nI peek into class 1-B.\nThe classroom is tinted red from the light of the setting sun pouring in through the windows. It's silent, giving the impression nobody is inside.",
+      "sourceUnit": "セイバールート二日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "There doesn't seem to be anybody in the classroom.\nAll the students have gone to their respective destinations.\n...\nExcept for one lone shadow that remained inside the red-soaked classroom.",
+      "sourceUnit": "セイバールート二日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\nI step into the crimson-tinted world and say her name.",
+      "sourceUnit": "セイバールート二日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Senpai?\"\nHer long hair is covering her face, but she looks even more weary than this morning.",
+      "sourceUnit": "セイバールート二日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Is something wrong? Do you need anything from our classroom?\"\n\"No, I didn't come to check on your classroom. I was just worried about you, since you seemed down this morning.\"",
+      "sourceUnit": "セイバールート二日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura's face grows, if possible, even more downcast.\nShe's obviously not well.",
+      "sourceUnit": "セイバールート二日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, you should go home if you don't feel well. I can at least walk you to the intersection, so let's go home.\"",
+      "sourceUnit": "セイバールート二日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, it's fine. I'm not sick.\nI'm going to my club like always, then I'll have dinner with you after my club.\n...There is nothing wrong. So please don't worry.\"\nShe grabs her bag and starts walking so quickly it's almost as if she's trying to run away.",
+      "sourceUnit": "セイバールート二日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Dummy. You don't look well enough to say that. Just don't go to your club today. Besides, you won't be able to draw your bow properly, the way you are right now.\"\nI grab Sakura's hand as she tries to pass me.",
+      "sourceUnit": "セイバールート二日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nA loud \"thud\" echoes through the classroom.\nSakura almost falls, even though I only tried grabbing her hand.\n\"Hey...!\"\nI quickly pull Sakura's arm.\nAs I tug Sakura so firmly, I learn she is surprisingly light.",
+      "sourceUnit": "セイバールート二日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you gave me a scare there. Are you sure you're all right?\nYou didn't put any weight into your step.\"\n\"...\"\nSakura averts her eyes apologetically.\nHonestly, what's gotten into her today?",
+      "sourceUnit": "セイバールート二日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You're not going to your club today. I won't go to work either, so let's just go home.\"\n\"...\"\nSakura doesn't respond, keeping quiet.\nShe doesn't shake off my hand, nor does it look like she's going to listen to me.",
+      "sourceUnit": "セイバールート二日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What's going on, Sakura? You know you're in no shape to go to your club today.\"\n\"...Y-you're right. But my brother is waiting.\"\n\"Which is why I need to go,\" she adds almost inaudibly.",
+      "sourceUnit": "セイバールート二日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nDamn.\nI never have any reply to that look.\nI hear the Matou family's circumstances are...complicated, and I can't really put myself in the middle of Shinji and Sakura.",
+      "sourceUnit": "セイバールート二日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "No matter how much I consider Sakura my family, the people in the Matou household are her real family.\nAs an outsider, my words will fall on deaf ears. Anything I said would just seem like unnecessary meddling.",
+      "sourceUnit": "セイバールート二日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're still going to stop by the club, Sakura?\"\n\"Eh? Oh, yes. I do realize I'm in no state to draw a bow.\"",
+      "sourceUnit": "セイバールート二日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. So you're just going there to save face for Shinji.\"\nI pull out a chair and sit on it.\nThen I pull another chair from the neighboring desk.",
+      "sourceUnit": "セイバールート二日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...Senpai?\"\n\"Just sit down. I'm not going to stop you from going to the club anymore, but just take a minute to rest, okay? You can tell Shinji you're late because I held you back.\"",
+      "sourceUnit": "セイバールート二日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I can't say that! If I do, my brother might do something to you...again...\"",
+      "sourceUnit": "セイバールート二日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji giving me a hard time is nothing new.\nDon't worry about it. I bet it makes his life easier if he has something new to bring up.\nBesides, telling him that I held you back wouldn't be a flat-out lie. It's absolutely true. There's nothing to feel guilty about.\"\nI gesture for Sakura to sit down.",
+      "sourceUnit": "セイバールート二日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura reluctantly sits on the chair.",
+      "sourceUnit": "セイバールート二日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Good. Now hold on a minute. I'm going to steal some tea from the student council room. You stay right there until I get back.\"",
+      "sourceUnit": "セイバールート二日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Steal some tea? Won't you get in trouble for that?\"",
+      "sourceUnit": "セイバールート二日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Only if a teacher catches me. I'm used to things like this. It won't be an issue as long as I don't run into a teacher, so just sit back and relax.\"\n\"I-I can't do that! Especially knowing you're going to do something risky. Senpai, please don't worry about getting tea for me!\"",
+      "sourceUnit": "セイバールート二日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"And I keep saying it's not risky. Just sit there, okay? Drinking tea in the classroom is good for you once in a while.\"\n\"Oh.\"",
+      "sourceUnit": "セイバールート二日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "I jump out into the hallway.\nThe student council room isn't that far.\nI'll go get a whole tea set real quick to surprise Sakura.",
+      "sourceUnit": "セイバールート二日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...Time passes.\nSakura and I both drink tea in the classroom, which seems ludicrous, but we look out the window as we have nothing better to do.\nThe last rays of the sunset filter in through the window, stinging my eyes a bit.",
+      "sourceUnit": "セイバールート二日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura looks toward the sunset, her expression vacant.\nI don't have much to say, so I follow Sakura and keep my mouth shut.",
+      "sourceUnit": "セイバールート二日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Since there's no conversation, time passes slowly.\nSakura's not generally all that talkative, and it's not unusual for her to just stare blankly ahead.\nShe seems to be more at ease when she's alone.\nCome to think of it, Sakura prefers to be alone.\nIt's not that she wants to be away from the hustle and bustle, so much as her seeming to want to be isolated from the people around her, and she often chooses to look outside rather than keeping her attention inside.",
+      "sourceUnit": "セイバールート二日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...Which is probably why she stayed alone in the classroom today.\nSakura doesn't go out of her way to interact with people.\nFuji-nee and I are the exceptions.\nAnd if I weren't acquaintances with Shinji, Sakura wouldn't have had to interact with me at all really.",
+      "sourceUnit": "セイバールート二日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nI sneak a glace at Sakura.\nFour years ago, when Shinji introduced me to her, Sakura seemed more like a little girl.\nBefore I knew it, she was my underclassman, and even started coming to my house to help with housework, and her childish appearance started to fade.",
+      "sourceUnit": "セイバールート二日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Sakura has become beautiful.\nWell, she was pretty to begin with, but I guess I'd say she's grown...too pretty.\nOn top of that, she's sensible, and so gentle.\nWith all those great qualities, it's no wonder so many people say she's a beauty on par with Rin Tohsaka.",
+      "sourceUnit": "セイバールート二日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut there's something I just don't get.\nSakura is often alone.\nShe doesn't seem to have any friends from the kyudou club, and given that she was alone in the classroom after school, she may not have any friends in her class either.",
+      "sourceUnit": "セイバールート二日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Now that I think about it, I only know the Sakura from the kyudou club and the Sakura at my house.\nI don't know what Sakura does or how she acts when she's at school, or the Matou family home.",
+      "sourceUnit": "セイバールート二日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nJust when I realize that, and as I continued to stare blankly at the reddened sky...\n\"Senpai, do you remember?\"\nSakura asks, without taking her gaze from the window.",
+      "sourceUnit": "セイバールート二日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Remember what?\"\n\"From long ago. When I didn't know you yet.\"\n\"So before you and I met?\"",
+      "sourceUnit": "セイバールート二日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Four years ago, when I'd just started school.\nI had yet to get accustomed to school, and as I was aimlessly walking down the hall, I saw something very strange.\"",
+      "sourceUnit": "セイバールート二日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I really don't know how things unfolded back then, honestly...\nBut it was after school, and members of the track team had left already. Yet there was one person still out there running. And as I continued to watch, he started doing high jumps.\"",
+      "sourceUnit": "セイバールート二日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "She giggles.\nIt must be an endearing memory to Sakura, if that blissful smile is anything to go by.",
+      "sourceUnit": "セイバールート二日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"The entire school was painted red by the sunset, and it was beautiful but it also made me feel lonesome.\nAnd all that time, this person continued to practice alone. They would run, jump, drop their pole, and repeat that step. There was nobody around, and they clearly couldn't actually manage the height they were attempting. But they kept trying nonetheless.\"",
+      "sourceUnit": "セイバールート二日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"It wasn't a matter of trying, because that pole was much taller than this person.\nEven I could tell it was impossible, and that person must have known it too.\"",
+      "sourceUnit": "セイバールート二日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\nI understand the story, but I'm not sure what she's getting at.\nI don't think grueling solo practice after school is all that strange.",
+      "sourceUnit": "セイバールート二日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"I was a bad girl at that moment. Something was bothering me, and I wanted to vent my anger on someone. So I was watching this person, and the entire time I was wishing for them to fail, to give up...and I wanted to see the moment their determination failed.\nBut it didn't happen.\nI watched this person attempt to do the impossible many times, to the point their tenacity grew frightening. They never once complained.\"",
+      "sourceUnit": "セイバールート二日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. They must've been desperate. Maybe there were tryouts the next day, and they needed to be able to reach that height to make the cut.\"",
+      "sourceUnit": "セイバールート二日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that wasn't it. See, they weren't even a member of the track and field club.\"\nHuh.\nBut why is Sakura laughing?",
+      "sourceUnit": "セイバールート二日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"And then, I realized something as I was watching. It didn't matter what this person was doing. They just happened to find something they couldn't do today, and they were stubborn enough not to give up.\nAnd so after the sun set, this person put all the equipment away alone and went home. They must have been exhausted, but they left calmly, like nothing had happened.\"",
+      "sourceUnit": "セイバールート二日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't get it. If they left, they must have succeeded, right? How tall was that pole anyway?\"",
+      "sourceUnit": "セイバールート二日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehe. Well, the thing is, they didn't actually manage it after all. They finally concluded that they couldn't jump it after three hours of trying.\"\n\"Whoa, not exactly a happy ending.\"",
+      "sourceUnit": "セイバールート二日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. This person was so earnest that I even worried about them.\nAnd I figured they had to be dependable.\nBut that also made me feel uneasy and lonely.\"\nSakura sounds so lonely as she says that, and I'm afraid she could be entirely swallowed up in the red classroom.",
+      "sourceUnit": "セイバールート二日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Well, now that you've told me the whole story...what's it about, Sakura?\"\n\"No, it's fine if you don't understand. I was just telling you how I felt when I saw it. But I have a feeling that was just a typical day for that person.\"\nSakura smiles warmly, seeming to have come out of her dark mood from earlier.",
+      "sourceUnit": "セイバールート二日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nJust then...\nI may be dense, but I realize who she's talking about.\nI actually don't remember it happening, but if it's a story from four years ago, it must've been a little after my old man died.\nI did some pretty reckless stuff every day, so I guess Sakura's story is just one instance of that.",
+      "sourceUnit": "セイバールート二日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...Sakura. Don't tell me that person's...\"\n\"Yes. The story's about an upperclassman. In fact, he's in the room with me right now.\nYou were a little smaller back then, so I thought you were in the same grade as me.\"\nUgh.\nI really wish she wouldn't bring up my height when I was younger.\nSure, I'm not that tall even now, but I still had a growth spurt.",
+      "sourceUnit": "セイバールート二日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what I mean. I knew you, even back then.\"\n\"I-I see. That's news to me.\"\nI look away, embarrassed that she saw me in such an awkward moment.",
+      "sourceUnit": "セイバールート二日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"Well, we both saw the same thing back then.\"\nSakura gestures like she's praying, and I'm not sure I understand what she's getting at.",
+      "sourceUnit": "セイバールート二日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI ask, feeling concerned.\nBut at that moment, the familiar school bell sounds, as if to deny my curiosity.",
+      "sourceUnit": "セイバールート二日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, the bell rang.\"\nIt's been thirty minutes since I had her stay in the classroom with me. The time is half past four.\n\"I guess holding you back longer wouldn't do. I'll clean up so you can go ahead. You feel better, right?\"",
+      "sourceUnit": "セイバールート二日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I feel much better thanks to you. Please look forward to dinner tonight.\"\nSakura gets up.\nShe doesn't seem like she's forcing it; she really does look better.",
+      "sourceUnit": "セイバールート二日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh sorry, Sakura. I actually need to work tonight. I'm going to be late, so you don't have to worry about taking the time to go to my house tonight.\"\n\"Understood. Then I'll just make dinner and leave it for you.\"\nSakura quickly bows and leaves.",
+      "sourceUnit": "セイバールート二日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well.\"\nFuji-nee should be at my place, so she should be able to walk Sakura home when it's time.\nMy livelihood's at stake too, so I better head over to work quickly.",
+      "sourceUnit": "セイバールート二日目-10:page61:1"
+    },
+    "page62": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0339",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'll rest a bit before we resume our strategy meeting.\nWhat is it about cats, kotatsu, and mandarins?\nIt's been snowing outside, so I guess there isn't anything wrong with relaxing in the living room.\nNot that there's a kotatsu—a heated table—in the living room right now.",
+      "sourceUnit": "凛ルート十日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? You're going to eat mandarins, Shirou?\"\n\"I am. There's still a lot left, so we need to finish them up before they rot.\nThere being three boxes was unexpected. But since you went through the trouble of buying them, it'd be a waste not to eat them all.\"\nI sit down and pour some tea.",
+      "sourceUnit": "凛ルート十日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehe. Okay, then I'll give you three.\"\n\"That's stupid, I just ate. I can't finish that many.\"\nI take two mandarins from her hand and start peeling the skin off.",
+      "sourceUnit": "凛ルート十日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka went off to who knows where, but she should be back soon.\nFor now, I just want to relax until I finish eating the mandarins.",
+      "sourceUnit": "凛ルート十日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Shirou. It seems like Saber went to the dojo. You don't need to bring this tea to her?\"\n\"Hm, I guess I should. Hold on, I'll go bring her some after I finish eating one.\"",
+      "sourceUnit": "凛ルート十日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I can take them to Saber. You just stay and relax.\nThough, don't you have to keep Tohsaka company? After going through all that trouble to invite her, she'll hate you if you left her alone.\"",
+      "sourceUnit": "凛ルート十日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof, guh...!\"\nI swallow the mandarin that I popped in my mouth without chewing.\nH-how did she arrive at that conclusion!?",
+      "sourceUnit": "凛ルート十日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"T-that's a misunderstanding, idiot...! I-I didn't invite her today, and I don't care whether Tohsaka likes me or not...!\"",
+      "sourceUnit": "凛ルート十日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, really? You seemed like you were conscious about Tohsaka the whole time.\"\n\"Your eyes were just playing tricks on you!!! First of all, I don't know if she's in the restroom or what, but we're going to finish our work once she gets back, and I'm going to send her home right away!\"",
+      "sourceUnit": "凛ルート十日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I see. So it was just my misunderstanding.\nThen I'm going to bring some mandarins and tea to Saber.\"",
+      "sourceUnit": "凛ルート十日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee puts them on a tray and leaves the living room.\nYeah, go away. Leave me in peace.",
+      "sourceUnit": "凛ルート十日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I eat my mandarins in silence after Fuji-nee leaves.\nTohsaka isn't back and I have nothing else to do, so I keep on eating.\nAs I finish the last mandarin and lay down...",
+      "sourceUnit": "凛ルート十日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou, you like Tohsaka more than Saber, right?\"\n\"Yeah.\"\nI let my guard down and reply automatically.",
+      "sourceUnit": "凛ルート十日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"F-F-Fuji-nee...!\"\n\"See, I knew it. You're full of openings!\"\nFuji-nee runs away in a flash, like an escaping rabbit.\nI don't even try running after her.",
+      "sourceUnit": "凛ルート十日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... Well I've known Tohsaka for a longer time, she's pushy, a real red something, and...\"\nI repeat excuses that I don't even get myself with a flushed face.",
+      "sourceUnit": "凛ルート十日目-03:page14:1"
+    },
+    "page15": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十日目-03:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

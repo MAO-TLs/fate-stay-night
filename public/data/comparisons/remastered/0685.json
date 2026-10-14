@@ -1,0 +1,476 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0685",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's 10:00 PM.\nTohsaka said that she was going to prep until midnight, and then head to Ryudou Temple.",
+      "sourceUnit": "桜ルート十五日目-25:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, I'm going to have you Project the Jeweled Sword. How are you feeling? Can you Project it while keeping Archer's arm under control?\"\n\"Ah...\"\n...Oh, right.\nIllya hasn't told Tohsaka that I took off the holy shroud.\n\"Um... I think I'll manage.\"",
+      "sourceUnit": "桜ルート十五日目-25:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ooh, that's reassuring. The rest is up to you and Illya.\nI did my best to find you an Azoth Blade similar to the Jeweled Sword, and Illya will be supporting your Projection. If this goes well, we won't be able to replicate the original, but we should get something with about half of its power.\"\nTohsaka hands me a dagger.",
+      "sourceUnit": "桜ルート十五日目-25:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is a knife for use in rituals.\nIt looks well-used. I wonder if Tohsaka favors it.\nBut not just that—even I can tell that it's charged with a massive amount of magical energy.",
+      "sourceUnit": "桜ルート十五日目-25:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...It might just be a small handful compared to the Shadow cloaking Sakura, but it's hundreds of times my own capacity.",
+      "sourceUnit": "桜ルート十五日目-25:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...This thing is amazing. Were you hiding a secret weapon like this the whole time?\"\n\"Of course it's amazing. I transferred all the jewels I have left into it, so it has ten years' worth of my magical energy.\"",
+      "sourceUnit": "桜ルート十五日目-25:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka pouts, like she can't bear to let it go.\n...Knowing Tohsaka's personality, she might be someone who's really strict with money.\nSetting that aside...",
+      "sourceUnit": "桜ルート十五日目-25:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Are you sure, Tohsaka? That means you won't have any reserves left. I know you aren't in top condition, so can you still fight?\"",
+      "sourceUnit": "桜ルート十五日目-25:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I can still jump and run around, so I'll manage. I still haven't recovered enough power to use magecraft, though.\"\n\"Wait... Then, you shouldn't—\"",
+      "sourceUnit": "桜ルート十五日目-25:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about me. It won't be a problem if you can pull this Projection off. That sword has extraordinary power. It even stopped the Moonfall.\"",
+      "sourceUnit": "桜ルート十五日目-25:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"???\"\nI'm not sure what she's talking about, but Tohsaka seems confident.\n...I guess I don't need to worry, then.",
+      "sourceUnit": "桜ルート十五日目-25:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's get started, Shirou. It'll take time to Project that sword, even for you. It'll be midnight if we don't start soon.\"",
+      "sourceUnit": "桜ルート十五日目-25:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Let's go back to my room, then. You need a quiet place for the best chance of success.\"\nTohsaka beckons us to follow her to the living room.",
+      "sourceUnit": "桜ルート十五日目-25:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, hold on. I'll Project it in the shed.\nI want to be alone with Illya while I do the Projection, so go wait in your room, Tohsaka.\"\n\"Why? If something goes wrong, shouldn't I be there to back you up?\"",
+      "sourceUnit": "桜ルート十五日目-25:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"That won't be necessary. You'll actually just get in the way, Rin.\nShirou's easily distracted, and the biggest distraction would be if you tripped in front of him.\"",
+      "sourceUnit": "桜ルート十五日目-25:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh. That's rude, Illya.\"\nTohsaka groans grumpily.\nBut she doesn't deny that she's the person most likely to make careless mistakes.",
+      "sourceUnit": "桜ルート十五日目-25:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. I'll wait outside the shed. That's fine, right?\"\n\"...I guess it has to be, if that's the most you can compromise.\"",
+      "sourceUnit": "桜ルート十五日目-25:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, if you want the replicate the Jeweled Sword, then don't come in until I tell you to. I'll call you if it seems like an accident's about to happen, but unless that happens, stay outside, no matter what.\"",
+      "sourceUnit": "桜ルート十五日目-25:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Persistent, aren't you? I said I get it. I won't go in even if Shirou screams.\"\n\"...\"\nThe two of them casually bring up some very concerning examples.",
+      "sourceUnit": "桜ルート十五日目-25:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, Shirou.\"\nIllya enters the shed.\nI follow her, when something hits me.",
+      "sourceUnit": "桜ルート十五日目-25:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, can I have this sword?\"\n\"Huh? I mean, you're about to use it for the Projection. The Azoth Blade will be gone once you make the Jeweled Sword.\"",
+      "sourceUnit": "桜ルート十五日目-25:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. The Jeweled Sword belongs to you, so can I have this instead?\nIt might break if I fail, and I can't concentrate when I think of you getting mad at me for breaking something you own.\"",
+      "sourceUnit": "桜ルート十五日目-25:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. Fine. If it makes you feel better, then you can keep the Azoth Blade.\"\n\"Thanks. It'll pep me up.\"",
+      "sourceUnit": "桜ルート十五日目-25:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...I close the door.\nI can't let Tohsaka see what's next.\nShe probably wouldn't stop me, but she would definitely feel responsible.\nThe only way to alleviate that is to get her ex post facto approval with a \"sorry, I actually used it,\" once the Holy Grail War is over.",
+      "sourceUnit": "桜ルート十五日目-25:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ready, Shirou? I shouldn't need to explain the process to you, since you've released Archer's arm.\"\nI gulp and nod.\nIllya tells me to sit on the floor, and I follow her instructions.",
+      "sourceUnit": "桜ルート十五日目-25:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"But Illya, from what I've seen, Archer only Projects specific weapons. I don't have any information about the Jeweled Sword. Even if I have blueprints and a similar example, I can't replicate it.\"",
+      "sourceUnit": "桜ルート十五日目-25:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. I'm going to have you search the records inside me. I haven't personally seen it, but there's a record of the Jeweled Sword inside my mind.\nWe met the Tohsakas' grandmaster when we created the Greater grail.\nI'm sure she saw the Wizard Marshall's sword back then.\"",
+      "sourceUnit": "桜ルート十五日目-25:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, you mean...\"\n\"Just close your eyes. Stay still. I'm going to send your consciousness somewhere else. I did it before, remember? I'll send your sight inside me, where you can analyze the Jeweled Sword.\n...Once you're inside, I'll unbind your left arm. Your arm is going to invade you at the same time while you travel two hundred years into history. Keep a firm grip on yourself and try to finish the Projection as quickly as you can.\"",
+      "sourceUnit": "桜ルート十五日目-25:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...\nIllya's voice is shaking.\n...I can feel her arms trembling as she hugs me from the front, too.",
+      "sourceUnit": "桜ルート十五日目-25:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'll take you until we find the Jeweled Sword so you just need to still your breathing. Don't get distracted. Don't look at anything you don't have to. You just need to draw out the Zelretch.\"",
+      "sourceUnit": "桜ルート十五日目-25:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Space shatters.\nIs it because all five of my senses plunge into Illya's internal records,\nor because she undid the binding on my left arm?",
+      "sourceUnit": "桜ルート十五日目-25:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "There's no pain. My pain perception plunges into layers of spinning pain, but it's eroded by damage to my body which doesn't correspond to the pain.",
+      "sourceUnit": "桜ルート十五日目-25:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I don't know where I am.",
+      "sourceUnit": "桜ルート十五日目-25:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I don't know who I am.",
+      "sourceUnit": "桜ルート十五日目-25:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what this means.",
+      "sourceUnit": "桜ルート十五日目-25:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "It's a giant circuit.\nDozens of layers of crests adorn a stone mortar over fifty meters in radius.\nIt's like I'm looking out across the landscape of Arizona through a huge telescope.",
+      "sourceUnit": "桜ルート十五日目-25:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "The circuits stretch out in multiple layers.\nThey circle around in geometric patterns.\nA pale girl stands in the middle of that beautiful spiderweb.",
+      "sourceUnit": "桜ルート十五日目-25:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Her name is Justeaze.\nJusteaze Lizrich von Einzbern.\nShe is the mage who established the Holy Grail War on this land,\nthe archmage revered as the Winter Saint, accompanied by Zouken Makiri and Nagato Tohsaka.",
+      "sourceUnit": "桜ルート十五日目-25:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "The Greater Grail is active.\nJusteaze acts as the key, attempting to recreate an ancient Magic.\nWithout her, the Holy Grail would only be a Holy Grail.\nHeaven's Feel requires her will.\nThe old man is well aware that in Makiri's or Tohsaka's hands, it would be nothing but a wish-granter.",
+      "sourceUnit": "桜ルート十五日目-25:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "My field of vision shrinks.\nThe world zooms in.\nI cut my consciousness off from the excess. Because I cut my mind, my body becomes half its size.",
+      "sourceUnit": "桜ルート十五日目-25:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "From the lower perspective of my shrunken body, the world is far too big.\nEventually, I won't be able to see anything.\nHow the two hundred-year-old ritual was created doesn't matter to me.\nI'm only here to see one thing.\nI contract my awareness again, focusing on the sword an old man is holding as he watches over the Greater Grail and its affairs.",
+      "sourceUnit": "桜ルート十五日目-25:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...That's the original.\nA ritual dagger with a jewel for a blade.\nIt glitters like a kaleidoscope, searing my brain and my eyeballs.",
+      "sourceUnit": "桜ルート十五日目-25:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —\"",
+      "sourceUnit": "桜ルート十五日目-25:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I comprehend it in a single glance.\nI understand that I cannot understand it.\nAll I can do is imitate the shape.\nI can only analyze its structure and Project it.",
+      "sourceUnit": "桜ルート十五日目-25:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "What magical theories are woven into it?\nI use Archer's arm and mobilize the entirety of the Heroic Spirit Emiya's knowledge, but the old man's dagger is an unexplored law of the world.\nIt is from an alien planet—no, an alien solar system.\nThe old man embodies common wisdom from the far future, which our young species has yet to reach...",
+      "sourceUnit": "桜ルート十五日目-25:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Nnn...!\"",
+      "sourceUnit": "桜ルート十五日目-25:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "I'm repelled.\nI can't let myself be repelled.\nI can't reach it.\nI must reach it.",
+      "sourceUnit": "桜ルート十五日目-25:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I reach out.\nI reach out.\nI reach out.\nWith scorched eyeballs and cerebral nerves,\nI reach out dozens of meters. I reach, reach, reach...",
+      "sourceUnit": "桜ルート十五日目-25:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"That's enough! Come back, Shirou!\"",
+      "sourceUnit": "桜ルート十五日目-25:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Illya's voice echoes.\nNot yet.\nI haven't even touched it with my fingertips.\nHow... How am I supposed to leave like this?\nHow can I leave after witnessing a miracle, a singularity...!?",
+      "sourceUnit": "桜ルート十五日目-25:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Give up! Do you want to fade away, Shirou!?\"",
+      "sourceUnit": "桜ルート十五日目-25:page50:1"
+    },
+    "page51": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page52": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page53": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Reach it—\n—\n—",
+      "sourceUnit": "桜ルート十五日目-25:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, aaahh...!!!\"\n\"Shirou!\"\nI jump up, or something pushes me up.\nI float in the air and hit the ground.",
+      "sourceUnit": "桜ルート十五日目-25:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Gah, argh...!\"\nMy left arm—in—pain—.\nMy tongue—fingers stiff—the shaking keeps—.\n\"Ahh... Waaaah, ah, ahh...!\"\n—.\n—, —.",
+      "sourceUnit": "桜ルート十五日目-25:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Calm—! I'll—the shroud back—!\"\n\"Hah, guargh, aaahh...!\"\nA huge kitchen knife stabs me in the side.\nIt pisses me off, so I push away whoever was holding the knife.",
+      "sourceUnit": "桜ルート十五日目-25:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Ouch...\"\nI realize that I just punched Illya.\n\"...! Sorry, Illya! I, I...\"\nI brush off the dust and stand up.\n...Thank goodness. Luckily, I didn't injure her.",
+      "sourceUnit": "桜ルート十五日目-25:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"You idiot! I told you not to look at anything unnecessary!\n...Good grief. I'll forgive you because it went well, but you'd better listen to what I say next time!\"",
+      "sourceUnit": "桜ルート十五日目-25:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Illya scolds me, jabbing an accusing finger at my nose.\n...Oh.\nI realize what she's talking about, and look down at the hard sensation in my left hand.",
+      "sourceUnit": "桜ルート十五日目-25:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "...\nI...Projected it.\nI pulled it off, but it looks somewhat different than what I saw in the record.\nIn fact, I can't feel a speck of magical energy from this sword.\nTohsaka's Azoth Blade would have been dozens of times better than this. The blade doesn't even look capable of cutting anything.",
+      "sourceUnit": "桜ルート十五日目-25:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I have a lot to scold you about, but good work, Shirou. That was a perfect Projection. A flawless display of sword creation.\"\n\"Urgh... It still doesn't quite feel real, but what is this thing? I'm not sure I trust it.\"",
+      "sourceUnit": "桜ルート十五日目-25:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"It's good enough. Only the Schweinorg lineage can use that sword. It's a magical sword unlike any other.\nI guess you could call it fate. Sakura is blessed by the Third, while Rin's going to operate the Second at a young age. If the Association knew about this, they'd do more than just investigate. It would turn into a court battle against every single department.\"\nIllya chuckles.",
+      "sourceUnit": "桜ルート十五日目-25:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. This dagger's that amazing, huh?\"\n\"Yeah. To be exact, it's the Multi-Dimensional Phenomenon: Jeweled Sword Kischur Zelretch Schweinorg.\nIt was the favorite weapon of the Wizard Marshall, called the Jeweled Sword Zelretch. It's been passed down to the Tohsakas as an heirloom.",
+      "sourceUnit": "桜ルート十五日目-25:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, the Tohsakas only inherited the blueprints, not the Jeweled Sword itself.\nAnd it's a homework assignment from a Magician that the Tohsaka mages still haven't managed to finish after generations.\"",
+      "sourceUnit": "桜ルート十五日目-25:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Homework from a Magician... Wait, that grandmaster Tohsaka mentioned is a Magician!?\"",
+      "sourceUnit": "桜ルート十五日目-25:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But Zelretch is an eccentric who interacts with the everyday world especially often for a Magician, so he has other disciples.\nI think Zelretch isn't in this world at the moment, but he might pop in for a visit once he hears that Rin managed to make the Jeweled Sword herself.\"",
+      "sourceUnit": "桜ルート十五日目-25:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Huh?\"\nNot in this world? Pop in for a visit? She makes him sound like some kind of wanderer who travels around for fun.",
+      "sourceUnit": "桜ルート十五日目-25:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "...\n...But...\nI got...careless.\nMy vision gets hazy when I relax.\nI clench my right hand and let the pendant dig into my torn skin. It keeps me awake.",
+      "sourceUnit": "桜ルート十五日目-25:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI try to steady my breathing without letting Illya notice.\nMy limbs... I can still feel my limbs.",
+      "sourceUnit": "桜ルート十五日目-25:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Thank goodness.\nI was afraid I'd lose something after even one Projection, but I'm not missing any part of my body.\nMy brain still works.\nThe fact I still know who I am is the strongest evidence of that.\nI should be able to manage one more Projection.",
+      "sourceUnit": "桜ルート十五日目-25:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "Not that I should try.\nI'm going to save Sakura using a different way than Tohsaka.\nNow that I have Archer's arm, for the first time I can",
+      "sourceUnit": "桜ルート十五日目-25:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"—like—that. Basically, the Grandmaster's Magic—the—parallel worlds. So people gave him nicknames like—or Jewel Grandpa, or Kaleidoscope, or\n—\"\n\"...Tohsaka?\"\n—? —, —?\"",
+      "sourceUnit": "桜ルート十五日目-25:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't make out what she's saying.\nIt's not that I can't hear her, but Tohsaka's saying words I don't understand.\nShe's using strange words, and holding something scary in her left hand.",
+      "sourceUnit": "桜ルート十五日目-25:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...Tohsaka's holding a sword I've never seen.\nNever seen?\nThat can't be right.\nI just Projected that (I think), and my left hand is empty, which means I must've given it to her.",
+      "sourceUnit": "桜ルート十五日目-25:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? —, you've been—.\nAre you sure—the Projection—?\"\n...",
+      "sourceUnit": "桜ルート十五日目-25:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "I feel a terrible chill.\nMy memory is going away.\nI can't remember.\nMy understanding doesn't match the details.",
+      "sourceUnit": "桜ルート十五日目-25:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...ngh...!\"\nI clench my right hand, hard.\nBlood drips, but I finally manage to focus my eyes.",
+      "sourceUnit": "桜ルート十五日目-25:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Tohsaka...\"\nI stand up.\nMy limbs feel light compared to my disconnected head.\nThey're so light that I suspect my insides are empty.",
+      "sourceUnit": "桜ルート十五日目-25:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that. Illya and I are going to try something, so settle down and—hey, what's happened to your hand!?\"",
+      "sourceUnit": "桜ルート十五日目-25:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka rushes over to me.\nShe moves shockingly slowly.\n\"Huh...? Why are you holding this?\"\nI disconnect my mind and realize that she's holding my bloody right hand.",
+      "sourceUnit": "桜ルート十五日目-25:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks astonished. She's looking at the pendant in my hand.\nI don't know why she's so surprised.\nI'm holding this...because...",
+      "sourceUnit": "桜ルート十五日目-25:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Why do you have this? And why are you gripping it so hard? Are you crazy?\"\n\"Why? It's just a lucky charm. This is, um...\"",
+      "sourceUnit": "桜ルート十五日目-25:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "I found it.\nWhere?\nIt's something so easy and hard to forget, but I can't recall it no matter how hard I try.\nYet, someone who isn't me, my left arm, it knows it, better than I do.",
+      "sourceUnit": "桜ルート十五日目-25:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"It's...precious...to me. I need to...keep it close...until the very end...\"",
+      "sourceUnit": "桜ルート十五日目-25:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Words that aren't mine spill from my lips.\n\"...\nShirou. I have that pendant, too.\"",
+      "sourceUnit": "桜ルート十五日目-25:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nTohsaka takes a pendant out of her pocket.\nIt's exactly the same.\nTo a jewel-user like Tohsaka, this is probably an everyday sight. But she's so pretty, I bet an accessory like this would really liven her up.",
+      "sourceUnit": "桜ルート十五日目-25:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. They're exactly alike.\"\nI nod.",
+      "sourceUnit": "桜ルート十五日目-25:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"No, they're not. Mine's empty, but yours still has a little left in it. It isn't enough to use for anything, but... It has meaning because it was used.\"\n\"Hm?\"",
+      "sourceUnit": "桜ルート十五日目-25:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Keep it. It might come in handy.\"\nTohsaka puts her pendant away, then takes Illya's hand and starts walking.",
+      "sourceUnit": "桜ルート十五日目-25:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. Where are you going?\"\n\"I need to speak with Illya. I'll give you an hour to rest, so go stay in your room.\nAlso, get some first aid on that right hand, or I'll get really mad.\"",
+      "sourceUnit": "桜ルート十五日目-25:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "...\nHer bad temper is very nearly murderous.\nShe goes off with Illya, who also doesn't say a word.",
+      "sourceUnit": "桜ルート十五日目-25:page92:1"
+    },
+    "page93": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

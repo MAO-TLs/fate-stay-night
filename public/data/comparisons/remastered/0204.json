@@ -1,0 +1,566 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0204",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I wake up alone.\nEven if she's recovered, Saber still needs to sleep on occasion.\nThe moment we return to our rooms, Saber immediately falls asleep. I went to bed as well, if only to make her feel better.",
+      "sourceUnit": "セイバールート十三日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "That was about an hour ago.\nIt's past midnight. I should be able to get out of the house without Saber or Tohsaka noticing at this hour.",
+      "sourceUnit": "セイバールート十三日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I sneak outside, trying not to make a sound.\nI thought of using the bike, but I'd just run the risk of waking them up.\nSo, I walk.",
+      "sourceUnit": "セイバールート十三日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "There's not a single person outside.\nIt's late, but the silence is still eerie.\nThe air is frozen, and there doesn't seem to be any sign of life in the buildings.",
+      "sourceUnit": "セイバールート十三日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "On the other hand, it feels like something dark and sinister is swirling at my feet.\nDid something happen to the town while Illya had me prisoner?\nIt's like a bad omen hangs over the entire place.",
+      "sourceUnit": "セイバールート十三日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"This isn't my imagination...\"\nI look up towards the mountain in the distance.\nRyudou Temple, which stands a distance away from town, only looks like a black lump from here.\nBut that...\nIt looks like it's swaying in the night air, rumbling and throbbing.",
+      "sourceUnit": "セイバールート十三日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I cross the dark river and walk into Shinto.\n\"Huh. So it's been ten days.\"\nOn that day...\nThe night I met Saber for the first time, and then walked across this bridge with Tohsaka, seems so long ago.",
+      "sourceUnit": "セイバールート十三日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I see the church.\n\"I've never been here before.\"\nI may have said as much to Tohsaka, but I did have a connection with that church.\nIf things had gone differently, I would have ended up under the care of the church, and then been adopted by some family later on.",
+      "sourceUnit": "セイバールート十三日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"It would've been either the Emiya family, or that church... One hell of a fork in the road.\"",
+      "sourceUnit": "セイバールート十三日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Ten years ago...\nAll the kids in that hospital were orphans. The church took them all in, at least temporarily.\nI was the only one in that group of orphans to be adopted from the hospital.",
+      "sourceUnit": "セイバールート十三日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "That's probably why...\nI've been unconsciously avoiding the church out of guilt.\nIt's also why, eleven days ago, I told Tohsaka it was my first time going to the church.",
+      "sourceUnit": "セイバールート十三日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The lights inside the church are on.\nI don't really like that priest, but there are things I need to ask him.\n\"Okay, let's go.\"\nI take a deep breath and put my hand on the heavy church doors.",
+      "sourceUnit": "セイバールート十三日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Father Kotomine, are you here?\"\nI step inside as I call out for him.\nThere is nobody in the chapel.\nThe lights are on, but this vast space is so quiet, I find myself more nervous than if it were dark.",
+      "sourceUnit": "セイバールート十三日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Is anyone here?\"\nThere's no reply.\nI can't keep going in further, so I might have to give up tonight...",
+      "sourceUnit": "セイバールート十三日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nI whirl around when I hear a sound from behind me.\n\"Shirou Emiya? What brings you here at this hour?\"",
+      "sourceUnit": "セイバールート十三日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe suddenness of his appearance leaves me speechless.",
+      "sourceUnit": "セイバールート十三日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"It is the dead of the night. I had hoped to go to sleep...but the look on your face tells me you want to pretend to perform some sort of penance, Shirou Emiya.\"\nKotomine sounds bored, and turns back to the door he came through.",
+      "sourceUnit": "セイバールート十三日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Uh...hold on. Um...I came here to ask you something.\"\n\"I know that. I do not intend to turn anyone away...no matter how odd an hour they choose to arrive.\"\nAs Kotomine says so, he opens a door to the back of the church.",
+      "sourceUnit": "セイバールート十三日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Follow me. I'm sure you are here to talk about the Holy Grail War. I cannot allow such bloody talk here.\"\nKotomine doesn't bother asking my opinion. He just disappears into the back of the church.",
+      "sourceUnit": "セイバールート十三日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nI've come this far. I can't go home empty-handed.\nI steel myself, determined not to let Kotomine intimidate me this time, and head toward the back of the church.",
+      "sourceUnit": "セイバールート十三日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa...the outside's impressive, but the inside is pretty intricate too.\"\nThis must be a courtyard.\nThe garden and the passageways are too magnificent for Kotomine to live here alone.",
+      "sourceUnit": "セイバールート十三日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? If you want to talk, come with me.\"\nThe priest disappears around yet another corner.",
+      "sourceUnit": "セイバールート十三日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. He's not waiting for me.\"\nI complain to myself as I chase after Kotomine.\nThe church is a small labyrinth, so I don't have any choice but to follow Kotomine.",
+      "sourceUnit": "セイバールート十三日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nWe enter a modest stone chamber.\nThis simple room, far from the elegance of that chapel and courtyard, must be Father Kotomine's private room.",
+      "sourceUnit": "セイバールート十三日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Please forgive my inability to offer you anything in the way of hospitality.\"\nThe priest makes his apology as he plops down onto a sofa.",
+      "sourceUnit": "セイバールート十三日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI smell the faint aroma of what might be wine.\nFor the smell to linger in this room, he must really like wine.",
+      "sourceUnit": "セイバールート十三日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What is wrong? I thought you came here to talk. If you're going to just stand there like a fool, I'm going to be very annoyed.\"\n\"N-nobody's standing around like a fool! I was just looking around because this room seemed weird! I'm going to go home as soon as I finish my business here!\"",
+      "sourceUnit": "セイバールート十三日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"That is a relief. I have no time to chat with children.\nI ask that you be brief.\"\n\"...Gngh...\"\nThis priest really gets on my nerves.\nI feel like he's reading my mind, and whenever I try to deal with him directly, I just get intimidated.",
+      "sourceUnit": "セイバールート十三日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"So. What is it that you want to talk about, Shirou Emiya? I thought I already told you everything I could.\"",
+      "sourceUnit": "セイバールート十三日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't lie. You knew all along.\nYou knew my old man was Saber's Master, and that the Holy Grail was destroyed. You're the overseer, here to manage the Holy Grail, so you can't not know!\"",
+      "sourceUnit": "セイバールート十三日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Did Saber tell you herself?\"\n\"Uh...yeah. I heard that's how the last Holy Grail War ended.\"\n...\nThe priest falls silent, contemplating something.",
+      "sourceUnit": "セイバールート十三日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"It is unusual for a Servant to retain memories from previous summons. Either Saber is defective, or there is something unusual about her.\nEither way, I cannot say she is a normal Servant.\"",
+      "sourceUnit": "セイバールート十三日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Heroic Spirits do not retain their memories.\nAs they are summoned in the past, present, and future, their retaining memories of these summonings would create contradictions.\nThey instead have memories only from their lives. Any memories made after their death, once they've become Heroic Spirits, should not remain with them.\"",
+      "sourceUnit": "セイバールート十三日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "He ponders this, as if he still isn't convinced.\nI get it.\nKotomine doesn't know Saber hasn't fully become a Heroic Spirit, so he can't truly understand the situation.",
+      "sourceUnit": "セイバールート十三日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not what's going on. Saber's circumstances are...different from other Servants.\"\n\"Different circumstances? I see...so this must be why you visited me. Very well. Tell me.\"",
+      "sourceUnit": "セイバールート十三日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...\nHis haughty attitude pisses me off, but I don't have time to deal with that too.\nI don't like it, but this man might be able to give me a clear explanation.",
+      "sourceUnit": "セイバールート十三日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"It seems Saber isn't dead yet.\nHer contract to become a Heroic Spirit isn't complete. It appears she wished for the Holy Grail just as she was dying, and she agreed to become a Heroic Spirit as the price of obtaining it.\nSo, see, she's not completely dead. She won't die until she obtains the Holy Grail, and that's when she'll become a Servant in the normal sense.\"",
+      "sourceUnit": "セイバールート十三日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Not...dead... Then Saber must still be in the cycle of reincarnation. Are you saying she is not removed from the flow of time like other Heroic Spirits?\"",
+      "sourceUnit": "セイバールート十三日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I think that's what it means. Tohsaka said Saber's basically been carved out of time.\"\n\"I see. So rather than disappearing after her role is finished like typical Heroic Spirits, she will be summoned as a Heroic Spirit again and again until she obtains the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"But since she has yet to obtain the Holy Grail, whenever her attempt to gain one fails, she is sent back to the moment of her death. And now, she has been summoned for this war, and retains her memories from the last.\nHmph. I really can't say I understand heroes who go out of their way to seek the Holy Grail only to die.\nBut once she obtains it, the only fate awaiting her is being used by others as a Servant.\"",
+      "sourceUnit": "セイバールート十三日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. Even if she gets the Holy Grail and has her wish granted, she'll just become another Servant.\nI don't like that. Besides, what are Servants? You say you use Heroic Spirits like familiars, but are there contradictory Heroic Spirits like Saber?\"",
+      "sourceUnit": "セイバールート十三日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Who knows? I don't know a great deal about how that part of the system works.\nThe permanence of the soul...the Servant system was created to imitate that secret method. Only those who established this system would know more.\"",
+      "sourceUnit": "セイバールート十三日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"The permanence...of the soul...?\"\n\"Well...I'm only speaking of how it was in the past.\nIt really doesn't matter anymore. Forget it.\"",
+      "sourceUnit": "セイバールート十三日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"So...Shirou Emiya.\nBottom line, you do not want your Saber to be a Servant any longer, correct?\"",
+      "sourceUnit": "セイバールート十三日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nIs that...what I want?\nI do think Saber's situation is messed up.\nAiming for the Holy Grail is all well and good.\nBut afterwards, the only thing waiting for her is her disappearance.",
+      "sourceUnit": "セイバールート十三日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Even if someone other than King Arthur is chosen as king, and when King Arthur ceases to exist in our history...\n...the hero King Arthur will continue to be used by who knows how many others...and that seems wrong to me.\nSo...if she can stop being a Servant and just live a normal life...",
+      "sourceUnit": "セイバールート十三日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"That is impossible.\nThe dead cannot come back to life. It does not matter if she is frozen in time. To us, Saber has already died.\nThe power of the Holy Grail is what summoned her here. It is what keeps her here. And this is possible because she agreed to the conditions of becoming a Heroic Spirit.\nIf she does not seek the Holy Grail, she will not be summoned as a Servant. But as long as she continues to seek it, no matter how long it takes, she will eventually become a complete Servant.\"",
+      "sourceUnit": "セイバールート十三日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Even if she fails this time, she will have infinite other chances.\nSaber is frozen in time, so she cannot attempt two Holy Grail Wars simultaneously, and she cannot reattempt a trial once failed.\nIf she failed a trial once, she will fail again no matter how many times she tries. She has already experienced it, and so the result cannot be changed.\"",
+      "sourceUnit": "セイバールート十三日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"It's likely only a matter of time before she obtains the Holy Grail. This Holy Grail War is not the only chance she has at doing so.\nThere are trials to obtain the Holy Grail in every era.\nIf she fights in every war, she will eventually obtain the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"After all, she is being summoned as a Heroic Spirit because she's under the belief that she will obtain the Holy Grail.\nFrom the moment she came before you as a Servant, the option of making her stop being a Servant was nonexistent.\"",
+      "sourceUnit": "セイバールート十三日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nI knew it.\nAs long as Saber seeks the Holy Grail, there's no way she can avoid becoming a Servant.\nShe will stay like this forever, unless she decides to use the Holy Grail for herself.",
+      "sourceUnit": "セイバールート十三日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Even if this Holy Grail War ends and there's no need to fight anymore...\nIf she doesn't obtain the Holy Grail, she just has to try again next time.\nThe moment she obtains it, she turns into this so-called Heroic Spirit and is sent all across time.",
+      "sourceUnit": "セイバールート十三日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"So whether she obtains the Holy Grail or not, she'll remain a Servant forever?\"\n\"Well, not necessarily. If the Holy Grail is truly omnipotent, it may be able to save Saber.\"",
+      "sourceUnit": "セイバールート十三日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\nBut you just said that was impossible...\"",
+      "sourceUnit": "セイバールート十三日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. There is no way to stop Saber from becoming a Servant.\nBut what you desire is for her to remain in this world, yes?\nThat is not so difficult.\nA Servant can remain here, human, once the Holy Grail War ends. Though once she dies, she will return to where she was just before she died.\"",
+      "sourceUnit": "セイバールート十三日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"How do I do that!?\"\n\"Heroic Spirits and Servants are similar, but there are differences.\nNormally, Heroic Spirits are not summoned with a will of their own.\nThey are simply summoned as a tool to fulfill specific goals, after which they disappear.\"",
+      "sourceUnit": "セイバールート十三日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"But Servants are different.\nThey are the original body that was summoned by the Holy Grail.\nAs such, they can live human lives just by remaining in this world.\"",
+      "sourceUnit": "セイバールート十三日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you do something like that?\nSaber said that the Holy Grail disappeared the moment it was destroyed last time. Without the Holy Grail, I thought Servants can't stay?\"",
+      "sourceUnit": "セイバールート十三日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course they cannot. The Holy Grail is what summons Servants, and it's the Master's role to maintain them following the summoning.\nThat, however, is also only possible because the Holy Grail is aiding the Master. Typically, a single mage cannot produce enough magical energy to maintain a Servant. Without an incredible source of magical energy like the Holy Grail, Servants will disappear.\"",
+      "sourceUnit": "セイバールート十三日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured. Then...\"\n\"Well, if there is a shortfall, one need only compensate for it.\nThat is all supplying magical energy to Servants is. Their natural tendency is to consume souls. If their existence starts to fade, they simply can replenish themselves with more souls.\"",
+      "sourceUnit": "セイバールート十三日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nIs he telling me to attack random people like Shinji did?",
+      "sourceUnit": "セイバールート十三日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"The hell! I can't let her do that!\nAnyway, Saber wouldn't want to remain here if that's what she had to do to do it!\"",
+      "sourceUnit": "セイバールート十三日目-11:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? Then you would have to use the contents of the Holy Grail. It's quite simple. If you truly want Saber to live as a human, have her drink from the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "He must have anticipated my resistance.\nThe look on his face tells me that this is the conclusion he wanted me to reach this whole time.",
+      "sourceUnit": "セイバールート十三日目-11:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you telling me to grant my wish using the Holy Grail?\"",
+      "sourceUnit": "セイバールート十三日目-11:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"No. This has nothing to do with your wish. I'm talking about the contents of the Holy Grail.\nDid Rin not tell you? Servants are able to start a second life in this world by drinking the water of the Holy Grail.\nThough this method only establishes their position as a familiar in this age. Their physical body remains that of a Servant, and they would remain in this world only for so long as their Master lives.\"",
+      "sourceUnit": "セイバールート十三日目-11:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"But that means...\"\nThat's no solution.\nEven if she were able to stay in this world, it would be pointless if she's still a Servant.\nShe wouldn't be able to exist without magical energy from her Master, and even if she managed to live in this world for a long time, she'd just go back to that hill after her death.",
+      "sourceUnit": "セイバールート十三日目-11:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "Saber would never agree to such a thing.\nShe doesn't care about a second life; she insists she's going to use the Holy Grail for something else.\nBut then again...does the Holy Grail—the key to all of this—even still exist in this world?",
+      "sourceUnit": "セイバールート十三日目-11:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"I've heard enough. Basically, you're telling me to get the Holy Grail. But does the Holy Grail even exist? If my old man destroyed it, wouldn't it...\"\n\"Wouldn't it what?\"",
+      "sourceUnit": "セイバールート十三日目-11:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"If the Holy Grail doesn't exist, then there's no reason to fight. This ridiculous fight to the death is pointless.\"\n\"There is no reason to fight, you say? Why bring that up now?\nYou never had a reason to fight in the first place.\"\nHe says that...\n...and time seems to just stop.",
+      "sourceUnit": "セイバールート十三日目-11:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "There's no reason to fight.\nHe told me that before.\nI'd just become a Master, and I didn't have much of a reason to fight.\nSo, at the time, what he said didn't sink in. I just ignored him, thinking he was being sarcastic.",
+      "sourceUnit": "セイバールート十三日目-11:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "But what about now?\nThere's a reason for me to fight. If there's a Holy Grail, I want to end this war and...if it's possible, I want to give the Grail to Saber.",
+      "sourceUnit": "セイバールート十三日目-11:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "There is a reason for me to fight.\nAnd a perfectly good one at that.\nBut...why? Why do those simple words make me shake so much I feel like I'm about to vomit up everything I've held in for so, so long?",
+      "sourceUnit": "セイバールート十三日目-11:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's leave that aside for now. This is not the time to open old wounds.\"\nA voice shatters the stillness that had locked up my thoughts.\nIt's the voice of a man I don't want to hear.\nBut that voice at least settles the wave of nausea I feel creeping up on me.",
+      "sourceUnit": "セイバールート十三日目-11:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail is here. The Holy Grail is only a receptacle anyway.\nOnce it is gone, someone else will prepare another Holy Grail.\"\n\"Huh? Someone will prepare another one? Is a Holy Grail easy to make?\"",
+      "sourceUnit": "セイバールート十三日目-11:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Speaking only of the vessel, yes.\nOf course, it requires a certain amount of skill, but without that skill, the Holy Grail War would not be possible in the first place.\"",
+      "sourceUnit": "セイバールート十三日目-11:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail is not a cup that received the blood of God. It is based on a magical pot passed down from ancient times.\nIf you are a mage, you should know about it.\nUtopia. The word is Greek, and refers to a place that cannot be found or reached. It was said that an omnipotent pot that would grant any wish existed in such a place.\nAnd there were mages who tried to reproduce this omnipotent pot, which became the foundation for most mythology.\"",
+      "sourceUnit": "セイバールート十三日目-11:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"There were three families: Einzbern, Makiri, and Tohsaka.\nThey spent many generations researching the ritual to reproduce the omnipotent pot. Two hundred years ago, they managed to complete it.\nThat was the first Holy Grail War...the ritual that attempted to open up a path by calling forth the omnipotent pot that was nothing more than an artificial Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Einzbern...? Is that Illya's family?\"",
+      "sourceUnit": "セイバールート十三日目-11:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. The Einzberns were able to use the Rheingold. Their ability to replicate the Holy Grail was unparalleled.\nBut that alone cannot summon the Holy Grail.\nIt also requires suitable land and a powerful spell.\nThese, the Tohsakas and Makiris provided.\"",
+      "sourceUnit": "セイバールート十三日目-11:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"At the time, the Church and the Mage's Association were in the middle of a war. As such, a land in the Far East, where the Church held no sway, seemed ideal for the ritual.\nThe Einzberns must have anticipated something like this might happen, and invited the Tohsaka clan to join forces. The Tohsaka clan was the owner of the spiritual land in this area, and their master was a skilled necromancer.\nWithout the Tohsakas, summoning the Holy Grail would likely have been impossible for the Einzberns.\"",
+      "sourceUnit": "セイバールート十三日目-11:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, the two families betrayed each other.\nThinking the situation should be a system of checks and balances, the Tohsakas brought in the Makiri family.\nThe Makiris are a family with substantial history.\nThey were exceptionally skilled with handling familiars. The Makiris were the ones who came up with the idea of Command Spells to bind the Servants.\"",
+      "sourceUnit": "セイバールート十三日目-11:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"And thus the three worked together to summon the Holy Grail. But, the moment they succeeded, a fight to the death broke out.\nThe first summoning of the Holy Grail ended while the families were busy fighting each other.\nAs time went on, they set down rules and called it a Holy Grail War, and eventually returned to working together...on the surface, anyway.\"",
+      "sourceUnit": "セイバールート十三日目-11:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"The Tohsakas provided the land and the system to model the Servants, and the Makiris provided the Command Spells to bind the Servants.\nAnd then the Einzberns provided the vessel for the Holy Grail to inhabit.\nThat was the nature of their cooperation.\"",
+      "sourceUnit": "セイバールート十三日目-11:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure what's so amusing about this, but the priest seems to enjoy telling me about it.\nBut I see...they say the Holy Grail War is a ritual, but I didn't know Illya and Tohsaka's families were the ones who created the whole thing.",
+      "sourceUnit": "セイバールート十三日目-11:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"The Einzberns prepare the Holy Grail.\nAs Kiritsugu betrayed them last time, they have put their greatest trump card into play...which is to say, the Einzbern girl probably holds the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nIllya holds the Holy Grail?\nThat's weird. I don't think I saw anything among her belongings that looked like the Holy Grail...",
+      "sourceUnit": "セイバールート十三日目-11:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you satisfied? I do not know what you are agonizing over.\nThe Holy Grail is your only solution. Now that you understand that, go home.\nThe battle is not over. For you to walk about without Saber at your side is simply insane.\"",
+      "sourceUnit": "セイバールート十三日目-11:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"That's none of your business. I'm aware Lancer's Master is still around—\"\nHold on.\nThere's one more thing I need to ask.",
+      "sourceUnit": "セイバールート十三日目-11:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine. Servants disappear once the Holy Grail disappears.\nThat's what you said, right?\"\n\"I did. Do you take issue with that?\"\n\"Yeah. Big time. I don't know who it was, but there was an eighth Servant. According to Saber, he's been in this world since the previous war.\"",
+      "sourceUnit": "セイバールート十三日目-11:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh...at?\"\nI can see he's shocked.\nKotomine's eyes go wide.",
+      "sourceUnit": "セイバールート十三日目-11:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"What's going on, Kotomine? I came here thinking you might know something about this.\"",
+      "sourceUnit": "セイバールート十三日目-11:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"...There's a Servant who didn't disappear, you say?\nIt's not so strange. The previous war ended with Saber destroying the Holy Grail.\nSo there is one Servant who remained apart from Saber.\"",
+      "sourceUnit": "セイバールート十三日目-11:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber disappeared on her own, but if this Servant desired to remain in the world, the answer is simple.\nThey must have supplemented magical energy by feeding on souls to stay alive these past ten years.\"",
+      "sourceUnit": "セイバールート十三日目-11:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"That's impossible. That Servant was...frighteningly powerful.\nIf someone like that hung around for ten years, someone like you or my old man would have detected them.\"",
+      "sourceUnit": "セイバールート十三日目-11:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm well aware. Someone was likely hiding them. Either their Master, or...\"\n\"Or, what?\"",
+      "sourceUnit": "セイバールート十三日目-11:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"A mage who knew about the Holy Grail War but did not become a Master.\nI know of one person, but it is...not possible. Old man Makiri has long since retired.\"\nKotomine must be satisfied, as he gets up from the sofa.",
+      "sourceUnit": "セイバールート十三日目-11:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the end of our conversation. After learning what I just have, I cannot simply dismiss this matter, given my role as overseer.\nI shall investigate this Servant. You should concentrate on your battle against the remaining Lancer.\"\nKotomine heads to the exit, indicating there is nothing else to discuss.",
+      "sourceUnit": "セイバールート十三日目-11:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's definitely nothing more to be gained by staying here.\nI follow Kotomine out of the dark stone room. From there, he leads me to the entrance in silence.",
+      "sourceUnit": "セイバールート十三日目-11:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "I leave the church.\nAnd behind me...\n\"Saber will die once she obtains the Holy Grail. I do hope you understand what that means, Shirou Emiya.\"\nThe priest puts that to me, maybe to make certain I remember.",
+      "sourceUnit": "セイバールート十三日目-11:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe watches me from the door with a condescending twist to his lips.",
+      "sourceUnit": "セイバールート十三日目-11:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Saber will die if she obtains the Holy Grail.\nI don't need anyone to remind me of that.\nSaber's goal is to obtain the Holy Grail only, but she doesn't want its power for herself.\nAnd as long as she obtains the Holy Grail, nothing will bind Saber anymore.\nShe will be freed from going back to the point right before her death, and she will truly die.",
+      "sourceUnit": "セイバールート十三日目-11:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Why the sudden change of heart? You're not one to give warnings like that.\"",
+      "sourceUnit": "セイバールート十三日目-11:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I am just happy to see you supporting Saber. Think of this as a kindness.\nThe moment Saber obtains the Holy Grail, she will disappear.\nMy advice to you is, if you wish to be with her, you should give up the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"That doesn't make sense. I can't keep Saber here without the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-11:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"You do not need to rely on the Holy Grail. It is the same for that other Servant we spoke of earlier. If you want Saber to stay, then all you need to do is feed her souls... Am I wrong?\"",
+      "sourceUnit": "セイバールート十三日目-11:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Screw you. I won't allow that.\"\nI glare at the priest.\n\"I see. That is a shame.\"\nMy glare has no effect on him. He just laughs in amusement.",
+      "sourceUnit": "セイバールート十三日目-11:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Then you'll just have to place your hopes on what is inside the Holy Grail.\nEven if your Servant does not desire it, you just need to keep one Command Spell. That way, your wish will be granted.\"",
+      "sourceUnit": "セイバールート十三日目-11:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "He's saying...\nIt doesn't matter if Saber doesn't want it.\nIf I'm her Master, I just need to force her to drink from the Holy Grail using the power of the Command Spell.",
+      "sourceUnit": "セイバールート十三日目-11:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Oh? Should I not have said that? Now, don't glare at me like that. I was only warning you.\nYou are certainly free to respect Saber's wishes. It's her life; neither you nor I have any right to interfere.\"",
+      "sourceUnit": "セイバールート十三日目-11:page109:1"
+    },
+    "page110": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page111": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0237",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I should return the sheath to its rightful owner.\nI don't know if it'll work, but I have to try.\nBut Saber did manage to put her hand into my body to check whether the sheath was there.\nSo it's probably not impossible to extract.",
+      "sourceUnit": "セイバールート十五日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Do you know what you are saying, Shirou?\"\n\"I do. The sheath was yours to begin with, so returning it to you just makes sense. Plus, with that, you might have a better chance of beating him.\"",
+      "sourceUnit": "セイバールート十五日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"That may be true. Once the sheath is returned to me, the magical energy at my disposal will increase.\nBut that does not guarantee I will win against Gilgamesh. And once it is extracted, what will you do, Shirou?\nWithout the sheath, you will no longer...\"",
+      "sourceUnit": "セイバールート十五日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I'll no longer heal so rapidly from whatever injury I might sustain.\nBut that's normal.\nI've relied on this regeneration too much.\nNobody should be immortal.\nI shouldn't keep it anymore.",
+      "sourceUnit": "セイバールート十五日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Take the sheath, Saber. This is absolutely what we need to win.\"\n...",
+      "sourceUnit": "セイバールート十五日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber bites her lip, not answering.\nI'm not sure how long this moment stretches out between us.\nThe clouds in the sky drift by, and as the moonlight starts to shine through the window...\n\"Understood, Master. I must enter your heart for a moment, then.\"\nSaber nods...her hesitation gone.",
+      "sourceUnit": "セイバールート十五日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I shall begin. Are you ready, Shirou?\"\n\"Yeah. Don't hesitate. Just go ahead.\"\nSaber begins.\nHer hand presses against my chest...\n\"Hnnngh.\"\n...and sinks in.",
+      "sourceUnit": "セイバールート十五日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "My job here is simple.\nThe process of extracting the sheath is similar to Projection.\nThe sacred sword's sheath has integrated itself throughout my body.\nI just have to collect all the dispersed bits of it and reform them into the sheath.",
+      "sourceUnit": "セイバールート十五日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "This is all just my impression of what's going on though.\nI may say I'm reforming it into the sheath, but I'm just gathering the waves of magical energy.",
+      "sourceUnit": "セイバールート十五日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Saber is the one who will give it shape.\nShe, the original owner, forms the shapeless bundle of magical energy into the sheath itself.\nI'm just helping her.\nIt's like...making something from nothing.\nThe scattered pieces of the sacred sword's sheath are reproduced with precision and painstaking care...without a single error.",
+      "sourceUnit": "セイバールート十五日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hngh!\"\nMy body grows hot.\nProjection is way beyond my means.\nIt eats away at my body every time I use it.\nIt destroys my nerves, burns my skin, and even has the power to cripple my brain.\nBut it's the only weapon I have, and it could be the one thing that might help Saber.",
+      "sourceUnit": "セイバールート十五日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I imagine...\nI think back to when I saw her in my dreams.",
+      "sourceUnit": "セイバールート十五日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The golden sheath, fit for the King of Knights to carry into battle.\nThe legendary sheath that protected its owner and led her to so many victories...I reproduce it vividly, without deviation, and as beautiful as it ever was.",
+      "sourceUnit": "セイバールート十五日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "And...\nNo matter the end awaiting us, I won't ever forget this. I will engrave the image in my mind.",
+      "sourceUnit": "セイバールート十五日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hngh!\"\nI hear Saber's voice.\nI feel something that was within me for the longest time escape from my body.",
+      "sourceUnit": "セイバールート十五日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"This is amazing...this is truly incredible, Shirou! Nobody but you would have been able to reproduce this so perfectly!\"\nIt must have come out great, as Saber is so elated it surprises me.",
+      "sourceUnit": "セイバールート十五日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy body is still so searing hot that I just topple face-first onto the ground.",
+      "sourceUnit": "セイバールート十五日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, Shirou! You are drenched! I will bring you something to wipe you off right away!\"\nSaber hurries back toward the house.\nAs I listen to her footsteps, I take a deep breath.\nI think that turned out great.\nIt was perfect.\nI don't think anything else I Project will ever turn out so perfect.",
+      "sourceUnit": "セイバールート十五日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"See ya. Thanks for everything.\"\nI bid farewell to the thing that had been a part of me for so long.\nThe golden sheath that protected her...\nI will never, ever forget it.\nThough it's left my body, its form has been forever engraved into my heart.",
+      "sourceUnit": "セイバールート十五日目-10:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

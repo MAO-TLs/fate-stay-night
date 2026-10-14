@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0460",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll try asking Fuji-nee for help.\nShe's older, and she might have an easier time convincing Sakura.",
+      "sourceUnit": "桜ルート五日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee, about Sakura staying over, could you ask her for me?\"\n\"Why? I don't wanna get kicked by a horse.\nYou should be the one to break it to her, Shirou.\"",
+      "sourceUnit": "桜ルート五日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Stu—of course I want to, but she'll say no if it's me.\nWe might know each other pretty well, but I'm a guy. Sakura will be uncomfortable if I ask her to stay over.\n...If the stakes were lower then it'd be easier, but I can't afford to have her say no this time.\"",
+      "sourceUnit": "桜ルート五日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. I forget how thick you are sometimes.\nFine. I just need to let her know, right? Does a week sound about right?\"\n\"Yeah. I think everyone will feel better about that.\"",
+      "sourceUnit": "桜ルート五日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Just then,\nthe doorbell rings with perfect timing.",
+      "sourceUnit": "桜ルート五日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm coming in!\"\nSakura's voice comes from the front door.\n\"I'll tell her now. You focus on making dinner.\"\nFuji-nee unenthusiastically gets up to greet Sakura.\n...Hm.\nDid I ask the wrong person...?",
+      "sourceUnit": "桜ルート五日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura says okay. I just showed her to the guest room, so she'll be here soon.\"\nWith that nonchalant report, Fuji-nee takes her seat back at the table.",
+      "sourceUnit": "桜ルート五日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? She said yes, just like that?\"\n\"Of course she did, you dummy.\"\nFuji-nee replies in a bored tone, while peeling a mandarin.",
+      "sourceUnit": "桜ルート五日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nHm.\nI don't know how that conversation went, but I was right to ask Fuji-nee.",
+      "sourceUnit": "桜ルート五日目-10:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

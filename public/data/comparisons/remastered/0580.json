@@ -1,0 +1,216 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0580",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's get back on topic. Going forward, I think we shouldn't let Sakura go outside. It's too dangerous if she runs into Zouken. I'll deal with the old man.\"",
+      "sourceUnit": "桜ルート十日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Your thinking is correct. However, how will you defeat the mage? Do you have any ideas?\"\n...\n...I'm not sure what to say to that.\nI'm sure there are ways to beat him, but I haven't given much thought to picking one.",
+      "sourceUnit": "桜ルート十日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well...\"\n...My fate depends on my next choice.\nI have multiple options.\nOut of them, the most viable one would be...",
+      "sourceUnit": "桜ルート十日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I think we should cooperate with another Master.\nI'm not saying we can get them to sympathize with us, but there might be someone willing to help us defeat Zouken.\"",
+      "sourceUnit": "桜ルート十日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Another Master... You mean Tohsaka-senpai?\"\n\"Huh? No, not her. I'm acquainted with Berserker's Master. Her name is Illya, and she'll listen to what I have to say.\"",
+      "sourceUnit": "桜ルート十日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...To be honest, I can't leave Illya be, either.\nTohsaka aside, I have no idea what Zouken will do next.\nHe was willing to force Sakura to fight by planting worms in her.\nIllya and Berserker are much stronger in direct combat, but Zouken is a schemer. He knows he can't win in a duel, so he'll use other methods.\nSo, Illya can't get careless, even if she has Berserker.",
+      "sourceUnit": "桜ルート十日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Berserker... You want us to ally with that mad warrior?\"\n\"We don't necessarily need to be allies, but we could convince them not to attack us. And even if we can't work together, I want to warn them.\"",
+      "sourceUnit": "桜ルート十日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "That girl came to this town all alone.\nIllya was raised to be a Master and given the name Einzbern. She's more than just a stranger to me.",
+      "sourceUnit": "桜ルート十日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I...see. Do you know where this Illya is?\"\n\"Yeah, she showed me before. I still remember the way there. It was a really big forest, so I'm sure it won't be easy to get there, but it should take about half a day.\"",
+      "sourceUnit": "桜ルート十日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Half a day... So are you leaving now?\"\n\"Yeah. It's better to strike while the iron's hot, and if I go now, I can be back by nightfall.\"",
+      "sourceUnit": "桜ルート十日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It's a rushed decision, but a timely one.\nI've been wanting to thank Illya for her help yesterday.",
+      "sourceUnit": "桜ルート十日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Moreover...\nI have a feeling that everything will change once I bring up Zouken's schemes and that unknown Shadow.",
+      "sourceUnit": "桜ルート十日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm leaving. I'll be back as soon as I can, so try to get some rest in your room.\"\n\"All right, Senpai. But at least take Rider with you. She'll protect you if anything happens.\"",
+      "sourceUnit": "桜ルート十日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. That would be safer.\"\n...But I can't do that.\nIt's just as dangerous to leave Sakura at home by herself.\nNo, much more dangerous, since she can't defend herself against Zouken.",
+      "sourceUnit": "桜ルート十日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No—Rider, you stay home with Sakura.\nIf Zouken shows up, avoid fighting since that will use magical energy. Take Sakura and run. He won't be able to keep up with you.\"\n...\nRider solmenly nods, as if she had the same idea.",
+      "sourceUnit": "桜ルート十日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"See? Rider agrees with me. You need to stay home today, Sakura.\"\n\"...But you're in danger, too. That forest is...\"\n\"Don't worry. If it looks dangerous, I'll run away immediately. Illya doesn't have any interest in people who aren't Masters, anyway. I won't be in any danger.\"",
+      "sourceUnit": "桜ルート十日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I give Sakura a reassuring clap on the shoulder and leave the living room.\nNow, then.\nFirst, I'll go to the shed and prep something I can use as a weapon.",
+      "sourceUnit": "桜ルート十日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Sakura sees me off as I leave the Emiya house.\nI'm carrying two wooden swords in a tubular shinai bag, and something light to eat later.\nI don't have a map or a compass.\nI still have the sense of direction I got from the magecraft Illya cast on me. All I can do is rely on the memory of what I saw, and my own intuition.",
+      "sourceUnit": "桜ルート十日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...It isn't ten o'clock yet. One hour by taxi, and then four more hours walking through the forest...\"\nI hope it only takes that long.",
+      "sourceUnit": "桜ルート十日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Anyway, I'll have the taxi drive slowly while I look for the entrance to the forest that I saw the other day.\nOnce I find it, I'll leave the car and walk the rest of the way.\nIf all goes well, I should make it to Illya's castle before sundown.\nI'll think about what to do next once I meet Illya.",
+      "sourceUnit": "桜ルート十日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"Huh?\"\n...\nI hear something nostalgic from my house behind me.\nThat businesslike and cool way of addressing me.\nThe way she said my name politely and awkwardly, yet as kindly as she could.",
+      "sourceUnit": "桜ルート十日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa—\"\nI say a name that can't possibly be here.\n\"Wait. I have something to say before you leave.\"",
+      "sourceUnit": "桜ルート十日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Ri...der.\"\nAs I turn around, I accept reality.\nThis is Rider.\nThe girl who said my name in that way isn't here anymore.",
+      "sourceUnit": "桜ルート十日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure. But make it quick, since I'm on the clock.\"\n\"I just have one question. You said that you would protect Sakura. You have yet to tell me why, Shirou Emiya.\"",
+      "sourceUnit": "桜ルート十日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"So you don't trust me?\"\n\"Yes. I do not know you as well as Sakura does.\"\n\"...\"",
+      "sourceUnit": "桜ルート十日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "That makes sense.\nRider wants to protect Sakura, not me.\nSo she probably wants to know what I'm thinking, at least.",
+      "sourceUnit": "桜ルート十日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew. I'm only going to say this once, so don't ask again. I'm not being vain, I just don't like saying it in front of others.\"\n\"...\"",
+      "sourceUnit": "桜ルート十日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I love Sakura. But that's not all.\nLast night, I gave Sakura my...\"\n\"...It appears so. Her magical energy was stable this morning. Without an external supply of energy, she would have suffered from another fever.\nBut what of it?\"",
+      "sourceUnit": "桜ルート十日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all. I love Sakura. That's all the reason I need to protect her. I think it's perfectly natural for a man to protect the woman he loves.\"\n...",
+      "sourceUnit": "桜ルート十日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...And will you fight for her sake? You say that your goal is to heal her body. Will you give her the Holy Grail and not use it for your own benefit?\"",
+      "sourceUnit": "桜ルート十日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'll use it. I don't know what the Holy Grail is, but I'll use it as much as it takes to make her happy.\"\n\"You'll make Sakura happy?\"\n\"Yeah. She's suffered alone all this time. So I'll do whatever it takes to make her just as happy.\"",
+      "sourceUnit": "桜ルート十日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Rider says nothing. She just stands there.\n...Maybe now she knows why I'm embarrassed to say this out loud.",
+      "sourceUnit": "桜ルート十日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I answered your question, so now it's my turn to ask. It's a request, too. Will you hear me out?\"\n\"Y-yes. If it's within my power, I will hear you out.\"",
+      "sourceUnit": "桜ルート十日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"It's simple. Could you pronounce my name with a different accent than the one you used earlier?\"",
+      "sourceUnit": "桜ルート十日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Very well... ShiROU, then?\"\n\"Uh, no. That's how you say 'grave wax.' Be more, I dunno...\"\n\"Um, Sh-Shirou. Shi-ro. Shiroh. Shero. Shee-rou. Shi-row, no, Shirou, Shirou.\"",
+      "sourceUnit": "桜ルート十日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Rider grapples with the pronunciation.\n...Guess not, then. I just caused her trouble by making her try multiple times.\nRider's blindfold and dark clothes give her a thorny image, but she's actually quite sociable.\nSomehow, I get the impression that she would be a little clumsy in private life.",
+      "sourceUnit": "桜ルート十日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. You can just say it the old way.\"\n\"Shirou. Hmm, is this pronunciation correct, Shirou?\"\n\"Yeah, no complaints. Sorry for being so selfish.\"",
+      "sourceUnit": "桜ルート十日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Selfish? You didn't like it when I said it the other way, right? I think it's only right of me to correct my pronunciation.\"\n\"Not at all, actually. I liked it.\"",
+      "sourceUnit": "桜ルート十日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nIt's because I liked it that I don't want anyone else to say it that way.\nI know it's a silly thing to get hung up on, but I want her to be the only one to say my name that way.",
+      "sourceUnit": "桜ルート十日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I really am just being selfish. You didn't do anything wrong.\"\n\"...Very well. Then I won't ask why.\"\n\"Yeah. Anyway, I'm leaving. Take care of Sakura, Rider!\"",
+      "sourceUnit": "桜ルート十日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I wave at Rider and start running.\nFirst I need to go to the intersection and hail a taxi.\nI'll take it to the outskirts of town and find the entrance to the forest that I've only seen once.",
+      "sourceUnit": "桜ルート十日目-07:page40:1"
+    },
+    "page41": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

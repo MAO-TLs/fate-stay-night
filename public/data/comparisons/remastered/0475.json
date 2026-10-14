@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0475",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for the meal.\"\n\"Thanks for the meal.\"\nWe mutually thank our cook.\n\"I'm glad you both enjoyed it. You really ate everything down to the last speck.\"",
+      "sourceUnit": "桜ルート六日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Sakura starts cleaning up.\nOn the dining table are a clay pot, three bowls, and all the garnishes you would need for udon.",
+      "sourceUnit": "桜ルート六日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, let me clean up. My fever's better, so it's the least I can do.\"\n\"Really? Then I'll ask you to help a little to see how much you've recovered. I can wash the dishes, so please bring the dirty dishes over and clean up around the table.\"",
+      "sourceUnit": "桜ルート六日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Sakura puts on her apron and moves to the kitchen.\nI'll bring the clay pot and bowls over, then.",
+      "sourceUnit": "桜ルート六日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, are you feeling all right? You said your fever has improved, but you still don't look well.\"\n\"Huh? Am I still pale?\"",
+      "sourceUnit": "桜ルート六日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Not quite pale, but unwell.\nYour magical energy, which could be said to be your lifeline as a Master—as a mage—is still lacking. I don't recall the battle last night placing an undue burden on you, but the enemy might have placed some contrivance to drain your energy in the temple grounds.\"",
+      "sourceUnit": "桜ルート六日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm...\"\nNow that she mentions it, Ryudou Temple did feel off, somehow.\nAll the people inside were weakened, so maybe Caster set up a Bounded Field to drain life energy from humans inside.",
+      "sourceUnit": "桜ルート六日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm feeling better now, so it's no problem. My magical energy will come back if I get nutrition. My energy capacity isn't much to sneeze at anyway, so I'm sure it'll fill back up once I eat dinner.\"",
+      "sourceUnit": "桜ルート六日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"You know yourself best, so I won't press the issue if you say so. Sakura is right, though. You do take your own condition too lightly.\"\nSaber stacks the three bowls while saying that.",
+      "sourceUnit": "桜ルート六日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I just need to give these to Sakura, yes? I'll also carry the pot, so please clean the table, Shirou.\"\nShe heads to the kitchen without waiting for my reply.",
+      "sourceUnit": "桜ルート六日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, should I put the bowls here?\"\n\"Oh, Saber? Yes, you can set the dirty dishes down there.\"\n\"I see. Also, lunch was delicious. I must thank you again.\"\n\"Ahaha, I still have a lot to learn. Senpai's the one who's really good at making porridge and udon noodles.\"",
+      "sourceUnit": "桜ルート六日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI hear a cheerful conversation from the kitchen.\n\"Hey, those two get along pretty well after all.\"\nMaybe they hit it off when they were cleaning up after breakfast.\nAnyway, it's good to see them get along.",
+      "sourceUnit": "桜ルート六日目-05:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

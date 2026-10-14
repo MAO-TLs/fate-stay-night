@@ -1,0 +1,47 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0238",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Let's prepare something we didn't have before: a new weapon.\nI'm sure Saber would benefit from a weapon other than Excalibur, and the more weapons I have, the better.",
+      "sourceUnit": "セイバールート十五日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? What is it that you have in mind?\"\n\"Well, I was thinking of getting more weapons. This place was originally my old man's storehouse. We might be able to find something useful if we look around.\"",
+      "sourceUnit": "セイバールート十五日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Something...useful?\nYes, if we find any magecraft objects Kiritsugu used to use, they would certainly benefit you. His Mystic Code of choice was a gun, so you should be able to use that easily.\"",
+      "sourceUnit": "セイバールート十五日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "A Mystic Code is a tool or armament mages use to empower or support their spellcasting.\nAccording to Saber, my old man's was a pistol.",
+      "sourceUnit": "セイバールート十五日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. That seems like a pretty dangerous thing to use, but I guess it's an effective weapon.\"\n\"Yes. I will check here. You should look in the attic.\nIf it is here, there should be a seal that suppresses its magical energy. Rather than detecting its magical energy, just search the entire area with a fine-tooth comb.\"",
+      "sourceUnit": "セイバールート十五日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't find anything, Saber.\"\n\"Me either. I cannot find a gun...or even a note that might indicate where it is stored.\"\n\"I guess I'm not surprised. If the old man had left anything like that, I would've found it long ago.\"",
+      "sourceUnit": "セイバールート十五日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I feel defeated.\nWell, it didn't hurt to try. Now we just have to do our best with what we have, like we planned from the start.",
+      "sourceUnit": "セイバールート十五日目-08:page6:1",
+      "recoveredDelimitedTail": true
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

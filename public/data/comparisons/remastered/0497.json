@@ -1,0 +1,92 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0497",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBy the time I leave the Chinese restaurant, it's nearly 4:00 PM.\nI don't have any shopping to do, so I can just go home.",
+      "sourceUnit": "桜ルート七日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —!\"",
+      "sourceUnit": "桜ルート七日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...Still, I can't ignore what Kotomine said.\nCaster is still alive.\nAccordingly, people are still falling into comas.\nAnd on top of that...",
+      "sourceUnit": "桜ルート七日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...! —, —!\"",
+      "sourceUnit": "桜ルート七日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I'm surprised how well I took the news that Kotomine was a Master all along.\n...Now that I think about it, we've been at odds with each other from the moment we met.\nMaybe somewhere in my mind—no, on an even more primal level, I sensed that we would clash with each other.",
+      "sourceUnit": "桜ルート七日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey—!\"",
+      "sourceUnit": "桜ルート七日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Anyway, even Kotomine lost his Servant, and I know he wouldn't be careless.\nThere are three Masters left:\nThe Master of Assassin, who was lurking at Ryudou Temple; Archer's Master, Tohsaka;\nand...",
+      "sourceUnit": "桜ルート七日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"HEEEEYYYY!\nWhat are you spacing out for, Shirou!?\"",
+      "sourceUnit": "桜ルート七日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa!?\"\nB-Berserker's Master, the little girl in front of me!",
+      "sourceUnit": "桜ルート七日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I-Illya!? W-w-where the heck did you pop out from!? You scared me!\"\n\"I didn't 'pop out'! I've been calling your name this entire time, but you didn't notice me!\"",
+      "sourceUnit": "桜ルート七日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\n...Oh.\nI did notice something ringing in my ears for a while.",
+      "sourceUnit": "桜ルート七日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wow. You mean all the way back since the shops?\"\n\"Yeah. You were walking and looking really conflicted.\nI didn't want to interrupt you so I called you from behind, but you just ignored me and kept going.\"",
+      "sourceUnit": "桜ルート七日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, uh, I was deep in thought. I didn't mean to ignore you...\"\n\"And you didn't come to the park. I waited for you a long time.\"",
+      "sourceUnit": "桜ルート七日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Ah...right.\nWe had an unsaid agreement to meet again at the park this afternoon.\nI can't believe I forgot, even if Kotomine needed to talk to me!",
+      "sourceUnit": "桜ルート七日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. I forgot. I'm really sorry, Illya.\"\n\"Hmph! I won't forgive you that easily. I'm really mad, you know.\"",
+      "sourceUnit": "桜ルート七日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Illya glares at me grumpily.\n...Urgh. What should I do?\nI missed our appointment and made her wait. Of course she'd be upset.",
+      "sourceUnit": "桜ルート七日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "She won't forgive me unless I show her how sincerely sorry I am. So, I'll...",
+      "sourceUnit": "桜ルート七日目-06:page16:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

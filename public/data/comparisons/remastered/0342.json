@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0342",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "What did I wish for, and why?",
+      "sourceUnit": "凛ルート十一日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "There were people I couldn't save,\nand there was me, who could not save them.\nThat must be the reason.\nWhat happened after that, and what did I want to become?",
+      "sourceUnit": "凛ルート十一日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...I remember the gray sky.\nA dark sky on the verge of crying.\nThen, my will to live almost fades away.\nOne only dies when their will is gone.\nI walk, leaving behind many people, and survive a few minutes longer than everyone else.",
+      "sourceUnit": "凛ルート十一日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "During that process, many things died.\nThat's why I was almost empty.\nIf the will to live breaks, then there is nothing.\nIf there is nothing, the only thing left is to die.",
+      "sourceUnit": "凛ルート十一日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "And I died.\nEven thinking became difficult, so I closed my eyes... Right before everything turned completely black, my hand that was extended to the sky was grabbed.",
+      "sourceUnit": "凛ルート十一日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "That was everything.\nI have nothing left.\nSince I didn't have anything, that's all I had.\nI couldn't do it myself, so I admired it severely.",
+      "sourceUnit": "凛ルート十一日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nI wanted to be of help to many people in place of those I could not save.\nYet...\nHe said that it was all false.",
+      "sourceUnit": "凛ルート十一日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "A borrowed ideal.\nA salvation passed around like a gold coin.\nAn ending without reward.",
+      "sourceUnit": "凛ルート十一日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...",
+      "sourceUnit": "凛ルート十一日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "What did I want to become, and for what?",
+      "sourceUnit": "凛ルート十一日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I wanted to become a hero of justice.\"",
+      "sourceUnit": "凛ルート十一日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It's not me that said that, but...",
+      "sourceUnit": "凛ルート十一日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh.\"\nI wake up.\nThe sunlight is bright, telling me that it's a sunny day, unlike yesterday.",
+      "sourceUnit": "凛ルート十一日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn it. But I still have a headache.\"\nI don't know if it's because of what happened last night, but I didn't wake up feeling good.\nI must've had a bad nightmare, as my temple is throbbing.\n\"Ugh... I'm gonna go wash my face.\"",
+      "sourceUnit": "凛ルート十一日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, it's really sunny.\"\nIt's only 6:30 AM, but the sky is enchantingly blue.\nIt's also warm for a winter morning, and the snow in the yard is all gone.",
+      "sourceUnit": "凛ルート十一日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "My sleepiness goes away once I wash my face and brush my teeth.\n\"Oh yeah. It's Sunday, so I don't have to go wake Fuji-nee up.\"\nI can prepare breakfast later than usual and we can take our time to eat.",
+      "sourceUnit": "凛ルート十一日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "There's no one in the living room.\n\"...So I'm the first one up, huh? I can understand Fuji-nee and Saber, but I'm surprised Tohsaka is still sleeping.\"",
+      "sourceUnit": "凛ルート十一日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Well anyway, I need to prepare breakfast.\nEven though it's the weekend, there are four people this morning.\nI should start the groundwork...",
+      "sourceUnit": "凛ルート十一日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? There's no bread.\"\nI bought a loaf yesterday, but the whole bag is missing.",
+      "sourceUnit": "凛ルート十一日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Should I take it as sincerity that there are three one-hundred yen coins in its place?\"\n...I've never encountered such a crime.\nThe first suspect, Fuji-nee, wouldn't do such an elaborate thing.\nThen there's only one culprit...",
+      "sourceUnit": "凛ルート十一日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Well, what should I do?\nI don't really care about the bread, but we have an extra mouth named Tohsaka to feed this morning.\n\"...It's before 7 AM. I bet the tofu shop is open.\"",
+      "sourceUnit": "凛ルート十一日目-00:page20:1"
+    }
+  }
+}

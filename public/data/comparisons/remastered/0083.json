@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0083",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"So about the other Servants...\"\n\"Please wait, Shirou. Someone has entered the gate of this property.\"",
+      "sourceUnit": "セイバールート五日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You can sense something like that...?\nOh crap, it's already so late! This is bad. Sakura must be back!\"",
+      "sourceUnit": "セイバールート五日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The doorbell rings, and from the front entrance...\nI hear Sakura's voice.\n\"I'm coming in.\"",
+      "sourceUnit": "セイバールート五日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, sorry but...\"\n\"Yes, I know. I will retire to my room, so please do not mind me.\"\nSaber goes back to her room.",
+      "sourceUnit": "セイバールート五日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Almost as if switching with Saber...\n\"I'm home. Good, good. You came home early like I asked you to.\"\nTohsaka walks in, laden with shopping bags.\n\"Thank you for having me again, Senpai. It's rare for you to be home so early.\"\nSakura walks in, smiling happily.",
+      "sourceUnit": "セイバールート五日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Everything is ready. I'm going to get started.\"\nTohsaka psychs herself up and heads to the kitchen.\n\"Senpai...? Um, about dinner tonight...\"",
+      "sourceUnit": "セイバールート五日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't have to worry about it since it's Tohsaka's turn today. You prepared breakfast for us, so leave dinner to us. She and I will handle dinner while Tohsaka's staying here.\"\n\"Oh...v-very well. If you say so, then I will have to oblige.\"\nSakura quietly sits down.\nI hear a fiery, boisterous sound coming from the kitchen, but I see nothing of Tohsaka.",
+      "sourceUnit": "セイバールート五日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess I can trust her...\"\nI should stay in my room until dinner's ready, considering Saber's waiting there.",
+      "sourceUnit": "セイバールート五日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to rest in my room. If Fuji-nee comes, tell her she should prepare the bath herself for a change.\"\n\"Oh...okay. Please go relax, Senpai. I will come and get you once dinner is ready.\"",
+      "sourceUnit": "セイバールート五日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Oh by the way, don't forget to knock when you come into my room.\"\nIt's a little before six o'clock. I figure dinner will be ready around seven o'clock.",
+      "sourceUnit": "セイバールート五日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I return to my room and find Saber sleeping in the room next door.",
+      "sourceUnit": "セイバールート五日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Bummer. I thought I could talk to her a little more.\"\nI click my tongue with disappointment and sit down.\n\"Wait a minute. What am I thinking? There's nothing else I can talk to her about apart from the Holy Grail War.\"\nBesides, I don't know how to act around Saber.",
+      "sourceUnit": "セイバールート五日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well. If she's asleep, I'll just let her rest.\"\nI mutter to myself and stare at the hands of the clock.\nLast night Saber, Tohsaka, and I ate dinner.\nBut today, Sakura and Fuji-nee are in the mix as well, making it five people.",
+      "sourceUnit": "セイバールート五日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...actually...Saber can't join.\"\nAs long as Fuji-nee and Sakura are around, I can't have Saber come out of her room.\n\"...I wonder if Saber ate breakfast.\"\nLast night, Saber was nodding while eating her dinner.\nBased on her behavior, it's not like she doesn't need food.",
+      "sourceUnit": "セイバールート五日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I didn't prepare lunch for her, so she must be hungry.\"\nOnce Fuji-nee and Sakura go home, I should warm some dinner up for Saber.\nShe'll have to eat alone, but there's nothing we can do about that.",
+      "sourceUnit": "セイバールート五日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt's just...\nImagining Saber eating by herself is making me mad.",
+      "sourceUnit": "セイバールート五日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, are you awake?\"\nTohsaka knocks on my door and peeks her head in.",
+      "sourceUnit": "セイバールート五日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? What's going on?\"\n\"Nothing. Dinner's ready, so come on out.\"\nIt's already that time?\nI pick myself up, glance toward Saber's room, and head into the hallway.",
+      "sourceUnit": "セイバールート五日目-12:page17:1"
+    },
+    "page18": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Four big plates decorate the table: crab meat with egg omelet, shredded beef with green peppers, a vegetable stir-fry with some fancy meat I've never seen before, and for some reason, a plate full of steamed shu-mai.",
+      "sourceUnit": "セイバールート五日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Salad has been served on individual plates for everyone, and the setup seems to have been well thought out.\nIt's pretty extravagant. Fuji-nee loves it.",
+      "sourceUnit": "セイバールート五日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a surprise. I thought you would make something Western.\"\n\"Oh, she did consider making Western dishes, but when I mentioned that no one in this household makes Chinese dishes, she volunteered to make some.\"",
+      "sourceUnit": "セイバールート五日目-12:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would she set out to do something no one else does? Hm? Hey, Sakura, you and Tohsaka came home at the same time. Did you two go shopping together or something?\"\n\"Yes. Miss Tohsaka waited for me until the kyudou club's practice ended and we decided to shop for groceries on our way home.\"",
+      "sourceUnit": "セイバールート五日目-12:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I had no idea. Looks like you two are closer than I thought.\"\n\"That may be true. Miss Tohsaka speaks to me often at school too. I don't know what made her take a liking to me, but she has been very kind to me ever since I came to this school.\"\nHuh.\nSo Tohsaka really is a nice upperclassmen.",
+      "sourceUnit": "セイバールート五日目-12:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Enough yapping! Let's eat. I'm so hungry.\"\nFuji-nee sits down excitedly.\n\"You heard her. You two should sit down. Chinese food gets criminally bad when it's cold.\"\nTohsaka sits down after she tells us to do the same.",
+      "sourceUnit": "セイバールート五日目-12:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI sit down without a word.\nEveryone bows and thanks Tohsaka for cooking, then starts eating.",
+      "sourceUnit": "セイバールート五日目-12:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whoa!\"\nI hate to admit it, but it's good.\nI've never cooked Chinese food because I've always thought it all tastes the same. But Tohsaka's dishes make me realize it had all just been bias on my part, and I find myself regretting that.",
+      "sourceUnit": "セイバールート五日目-12:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, this is amazing! It's been a while since I've had a dish that goes so well with rice! Yep, I'm giving you full marks for this one!\"\n\"Thank you very much. I'm delighted to get such an honest opinion from someone like you.\"",
+      "sourceUnit": "セイバールート五日目-12:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I also see Chinese food in a new light. I don't usually like eating spicy dishes, but this is delicious!\"\nSakura looks pleased, seeming to enjoy the food too.",
+      "sourceUnit": "セイバールート五日目-12:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "After seeing everyone's happy faces, Tohsaka...\n\"Heh.\"\nShe turns to face me, her face triumphant.",
+      "sourceUnit": "セイバールート五日目-12:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You look like you have something to say.\"\n\"Nothing! I'm just glad everyone liked it. Well, there's one person not being honest about his feelings, but it's amusing me so I'll let it slide. I understand how bad it must feel to be beaten at something you're good at.\"",
+      "sourceUnit": "セイバールート五日目-12:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh! I get it. You made me cook dinner last night because you wanted to assess my cooking!\"\n\"Fufufufu. Okay. Today's lesson: never let anyone see your plans or potential!\"\nTohsaka returns to her food, looking exceedingly pleased with herself.",
+      "sourceUnit": "セイバールート五日目-12:page31:1"
+    },
+    "page32": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

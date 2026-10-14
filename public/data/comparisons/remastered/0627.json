@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0627",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Here's your breakfast!\"\nIllya thrusts a plate at me as soon as I enter the living room.\nArranged on it are a black piece of toast, soft-looking sunny-side up eggs, and a neatly cut tomato.",
+      "sourceUnit": "桜ルート十二日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm. Thanks.\"\nI accept it, still feeling dizzy, take my usual place at the dining table, and bite into the crunchy toast.\nThe toast aside, she did a good job on the eggs. I wonder if she learned by watching, or if Sakura or Tohsaka taught her.\nAnyway, I'd better give her full marks for this first attempt.",
+      "sourceUnit": "桜ルート十二日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"It's good.\"\nI keep chewing on the toast.\nIllya watches me eat, looking neither proud or ecstatic, just satisfied.",
+      "sourceUnit": "桜ルート十二日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I avoid saying that the toast has the texture of charcoal. Wouldn't want to ruin the mood.\nBecause it actually does taste good.\nEveryone has their own preferences. Some people happen to like their toast black and hard.",
+      "sourceUnit": "桜ルート十二日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, come on. Eating burned food like that is bad for you.\"\n\"You fool. Whether it's rice or bread, it's always nice to have a dark crust.\"\n\"...Hey Emiya, did you hit your head?\"\n\"It's good, really. It's okay to be a bit rough with cooking.\"\n\"You really must be still half-asleep... This is no time to be so carefree, you know.\"",
+      "sourceUnit": "桜ルート十二日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks at the TV.\nIt's on and playing the news.",
+      "sourceUnit": "桜ルート十二日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Am I having deja vu?\nThe story they're talking about should have happened a long time ago—Suddenly, my sluggish mind kicks back into gear.",
+      "sourceUnit": "桜ルート十二日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I read the captions on the screen:\nComas in Shinto, last night in the early dawn.\nPeople lost consciousness and didn't wake up.\nIt's believed to have the same cause as the mass poisonings that happened recently, but something is different about them.\nThey were affected in an area 50 meters wide.\nIt had only happened within a single building or so before, but the radius of this latest incident was dramatically wider.",
+      "sourceUnit": "桜ルート十二日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...But that isn't the problem.\nAt the end of the news report, the number of victims is listed.\nThree digits' worth of people in the hospital...and people missing, too.",
+      "sourceUnit": "桜ルート十二日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, this is...\"\n\"Yeah. Fourteen missing people. I'm sure that number will go up the more they investigate, but it looks like about a tenth of the total victims were completely consumed.\"",
+      "sourceUnit": "桜ルート十二日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind freezes.\nUnconsciously...",
+      "sourceUnit": "桜ルート十二日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Get it? I don't know if Zouken or the Shadow is behind this, but either way, the number of victims is on a whole new level.\nAt this rate, they might eat a whole city block in a few days.\"",
+      "sourceUnit": "桜ルート十二日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...I squeeze my wrapped left arm tightly.",
+      "sourceUnit": "桜ルート十二日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Are the people who are missing...\"\nDead? I confirm with her.\nWithout saying anything, she looks away and nods.",
+      "sourceUnit": "桜ルート十二日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Conversation's over. I know how you feel, but you can feel guilty later.\nThey're starting to do whatever they want in the city because they can't come directly after us. They're getting sloppy because they don't see us as a threat.\nSo, there's only one thing to do while they're underestimating us.\"",
+      "sourceUnit": "桜ルート十二日目-06:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

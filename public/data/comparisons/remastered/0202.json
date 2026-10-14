@@ -1,0 +1,621 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0202",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I set a futon out in the living room and lay the unconscious Illya on it.\nShe may have fainted, but her face is peaceful at least.",
+      "sourceUnit": "セイバールート十三日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, don't look away! The bandage will slide off!\"\nI feel a hand slap my back.",
+      "sourceUnit": "セイバールート十三日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ouch! Tohsaka, is that any way to treat the injured!?\"\n\"Shut up! I'm treating your wounds, so hold still!\"\nCome on, raise your right hand. I doubt you need it, but let me put some ointment on it.\"",
+      "sourceUnit": "セイバールート十三日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah! Cold!\"\n\"If you can feel it, you're fine. Come on, let me wrap it.\"\nShe wraps the bandage around my right shoulder with surprising skill.",
+      "sourceUnit": "セイバールート十三日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "It's past ten.\nAfter our battle with Caster, Tohsaka began treating my wounds as soon as we got back to the living room.\nWell, she started, but most of my wounds had already healed, so now she's just fussing over me.",
+      "sourceUnit": "セイバールート十三日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"And we're done. Your body is nuts. Only vampires heal like you do.\nAre you sure you're human?\"\nI think she's said something similar before.",
+      "sourceUnit": "セイバールート十三日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. I'm just an ordinary human being.\nEven I don't know what's going on with my body, so don't bother asking.\"",
+      "sourceUnit": "セイバールート十三日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't mess with me. Who in the world could possibly be walking normally after getting their spinal cord severed!?\nLook, it's useful, so I won't question it too much. But it's also getting creepy. Don't tell me you can't die unless your head is chopped off!?\"",
+      "sourceUnit": "セイバールート十三日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe scary thing here is that Tohsaka is serious.\nOne of these days, she might actually try for my neck with an axe.",
+      "sourceUnit": "セイバールート十三日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so too, right, Saber?\nI think you're the cause, but still...he's damn near immortal.\"",
+      "sourceUnit": "セイバールート十三日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Are you saying Shirou's healing power is not his own?\"",
+      "sourceUnit": "セイバールート十三日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. Do you think someone who only knows Strengthening magecraft could do something like that!?\nThis ridiculousness can only be a result of his connection with you. Your own healing power must be flowing into him.\"",
+      "sourceUnit": "セイバールート十三日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you think so? I never felt that kind of connection with him before. If you are correct, my magical energy should be flowing into Shirou as we speak. More importantly, my healing power is not as strong as Shirou—\"",
+      "sourceUnit": "セイバールート十三日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? What's wrong? You just went pale.\"\n...\nSaber stares off into space, apparently not even hearing Tohsaka.",
+      "sourceUnit": "セイバールート十三日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it can't be...\"\nSaber shakes her head and looks down.",
+      "sourceUnit": "セイバールート十三日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\n\"Hm?\"\nTohsaka and I exchange looks.\nSaber's acting...weird.\nActually, I know why.\nEver since that golden knight appeared, Saber's been pretty down.",
+      "sourceUnit": "セイバールート十三日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, let's put Shirou's issue on hold for now.\nSaber, did you know that gold guy we met earlier? Goldy said something about you being his or something.\"",
+      "sourceUnit": "セイバールート十三日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber doesn't answer.\nShe obviously doesn't want to talk about it.\nBut I still want to know.\nTohsaka's asking the questions I want answers to.",
+      "sourceUnit": "セイバールート十三日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. If you know, then tell us. Who was the guy? You called him Archer.\"",
+      "sourceUnit": "セイバールート十三日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I hate to admit it, but I know that man. It should be impossible, though. There should only be seven Servants, so it shouldn't be possible for him to have been summoned as well.\"\n\"A Servant...so he really is a Servant.\"",
+      "sourceUnit": "セイバールート十三日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "That's pretty obvious.\nThat could be a real problem for us.",
+      "sourceUnit": "セイバールート十三日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"His class is Archer. He is of course a completely different Heroic Spirit than the Archer who formed a contract with Rin. His abilities and temperament are different as well.\"",
+      "sourceUnit": "セイバールート十三日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I can tell.\nI only saw him briefly, but it was more than enough to get a sense of what a monster he is.",
+      "sourceUnit": "セイバールート十三日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on a minute. That doesn't make sense.\nIf he's an Archer and a Servant, that makes eight.\nBut only seven Servants can be summoned at a time. One disappearing doesn't mean another pops up to take their place. Besides, even the Holy Grail doesn't have the magical energy to summon more than seven.\"",
+      "sourceUnit": "セイバールート十三日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"There are only seven Servants because that's how many can be summoned at once. So how can they summon an eighth... Wait...\nSaber, did you meet him in the previous war?\"",
+      "sourceUnit": "セイバールート十三日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, Rin. On the final day in the previous Holy Grail War...I fought him in the sea of fire.\"\n...\nFor a moment, my entire body tenses.\nSaber fought in a sea of fire...?",
+      "sourceUnit": "セイバールート十三日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "This is nothing new.\nI already heard from Kotomine that the fire was caused by the Holy Grail War.\nSo it shouldn't be a surprise.\nI've been trying not to think about it all this time.",
+      "sourceUnit": "セイバールート十三日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"So what happened? Did you manage to beat him?\"\n\"I did not defeat him... That is, I could not defeat him. Because I...\"\n\"You were beaten instead.\nUnlike your messed up summoning through Shirou, you couldn't beat this guy even when you were summoned properly.\"",
+      "sourceUnit": "セイバールート十三日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Saber hangs her head, but doesn't answer.\nAnd that's answer enough.",
+      "sourceUnit": "セイバールート十三日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...couldn't win?\"\nNot this imperfect Saber hobbled by my weakness, but Saber with nothing holding her back?\n...Is that even possible?\nIf you consider her expressly in terms of her strength as a swordsman, Saber isn't invincible.\nShe was weaker than Berserker.\nBut Saber has her Noble Phantasm.",
+      "sourceUnit": "セイバールート十三日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "The other Servants' Noble Phantasms are powerful, but Saber's exceeds them all.\nIt's hard to believe there could be a hero in this world that her sacred sword can't defeat...",
+      "sourceUnit": "セイバールート十三日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Then there's only one explanation.\nHe wasn't summoned for this war; he must be a Servant who remained from the previous war.\nNothing else makes sense.\"",
+      "sourceUnit": "セイバールート十三日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nMy mind stops working.\nIt's not that I agree with Tohsaka's assessment.\nBut she's just described what I've been hoping could be possible since yesterday.",
+      "sourceUnit": "セイバールート十三日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"But that is...\"\n\"There are not buts. It's the only possible explanation. Only seven Servants can be summoned for each Holy Grail War. If there are any other Servants here, wouldn't that mean they're the winners who survived the previous war?\"",
+      "sourceUnit": "セイバールート十三日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "There's a heavy silence.\nYet.\nWhy does Tohsaka look so pleased?",
+      "sourceUnit": "セイバールート十三日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Why do you look so happy?\"",
+      "sourceUnit": "セイバールート十三日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Isn't it obvious? There's precedent.\nI don't know who that guy is, but he's the Servant who won the last Holy Grail War, right?\nThen he must have obtained the Holy Grail. And he's staying in this world with its power.\"\n...",
+      "sourceUnit": "セイバールート十三日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"That means he's proof that as long you obtain the Holy Grail, a Servant can remain in this world. I'd like to capture him and question him for more information.'",
+      "sourceUnit": "セイバールート十三日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, you're absolutely right, Tohsaka.\nI don't who the heck that guy is, but he's a Servant, and he's remained in this world since the previous war.\n...Which means there's a way for Saber to do the same.",
+      "sourceUnit": "セイバールート十三日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I don't know who he is or what his motives are, but it doesn't change the fact that he's an enemy we need to defeat.\nSaber. So what's his true identity?\"",
+      "sourceUnit": "セイバールート十三日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not know. Even during the previous war, I could not determine his identity.\nHe did not have a Noble Phantasm specific to him.\"",
+      "sourceUnit": "セイバールート十三日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"He didn't have a Noble Phantasm that made clear who he was? That's ridiculous. A Servant who doesn't have a Noble Phantasm wouldn't be a Servant, right?\nBesides, he just...\"",
+      "sourceUnit": "セイバールート十三日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. He had plenty of them. It shouldn't be too hard to figure out his identity since he used so many. We just need to figure out which hero would match the shapes and sizes of the Noble Phantasms he used.\"",
+      "sourceUnit": "セイバールート十三日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I shall ask you this: Do you remember any of the Noble Phantasms he used?\"\n\"Of course I do. Um...\"",
+      "sourceUnit": "セイバールート十三日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka thinks hard for a moment.\nShe folds her arms over her chest, frowning.\n...And then just tilts her head in confusion.",
+      "sourceUnit": "セイバールート十三日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. That's...impossible...\"\n\"Huh? What's going on, Tohsaka? What's impossible?\"",
+      "sourceUnit": "セイバールート十三日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't believe it. The one covered in blood was Dáinsleif, and that sickle-looking thing was Harpē...\nThere was one that looked Chinese too, and I think there was one that looked like it was used by Acala...\"",
+      "sourceUnit": "セイバールート十三日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks almost crazed as she mutters to herself.\nShe looks a bit like she's tumbling down a rabbit hole.",
+      "sourceUnit": "セイバールート十三日目-07:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, so that one was similar to Saber's sword, but it should be different. The simple design looked like it must have come from Northern Europe, and I heard most originals of magical swords tend to take their cues from Nordic sources...\"\nShe's even starting to grind her teeth.",
+      "sourceUnit": "セイバールート十三日目-07:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka.\"\nLeaving her to her own devices will do more harm than good.\nIf I don't stop her right now, we'll wind up paying the price later.\nEspecially me.",
+      "sourceUnit": "セイバールート十三日目-07:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, Tohsaka! Come back to us.\"\n\"Argh, shut it, Shirou! You butting in is just confusing me!\"",
+      "sourceUnit": "セイバールート十三日目-07:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...I'm not trying to butt in. You're talking about that guy's Noble Phantasm, right?\nJudging just from their shapes, there was Dáinsleif, Harpē, Durendal, Vajra, Caladbolg...oh, and Gáe Bolg.\nI don't know the Chinese one, but I think I covered all the famous ones.\"",
+      "sourceUnit": "セイバールート十三日目-07:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...yeah, you're right on all counts...\"\nI don't love the face she's making... It leaves me feeling even worse.\nI don't know much, but I just blurted out what leaped into my head.",
+      "sourceUnit": "セイバールート十三日目-07:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"But what does that mean!?\nThere's no hero who has such an insane number of Noble Phantasms. And more importantly, the weapons are from all over the place, so I have no idea what the hell's going on.\"",
+      "sourceUnit": "セイバールート十三日目-07:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. That is why even I could not discern his identity.\nHe employed a wide variety of Noble Phantasms, each of which should have been a sign of a specific hero. Archer had so many, I could not narrow down his identity.\"",
+      "sourceUnit": "セイバールート十三日目-07:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "The two look perplexed.\nWell, with so many Noble Phantasms, we have no hope of determining who he is.\nIt's like hiding a leaf in a forest.",
+      "sourceUnit": "セイバールート十三日目-07:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Don't you have any suggestions?\"\nTohsaka, obviously annoyed, glares at me, expecting...I'm not sure what. She's just taking her frustration out on me, I guess.",
+      "sourceUnit": "セイバールート十三日目-07:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Like what?\"\n\"Like, anything you noticed, or deduced...any flash of inspiration.\nWe need some real outside-the-box thinking here. Our only chance at solving this predicament is through sheer luck.\"\nHm. She may be right.",
+      "sourceUnit": "セイバールート十三日目-07:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Hahaha. I get it. You're making fun of me.\"\n\"Rude. I just think you're no help in the first place. So...what do you think?\"\n\"I've got nothing.\"\nI raise my hands up in surrender.\nTohsaka groans.",
+      "sourceUnit": "セイバールート十三日目-07:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"That leaves us with only one conclusion. Saber, do you think all his Noble Phantasms are fakes? There's no other explanation.\"\n\"I agree. However...\"",
+      "sourceUnit": "セイバールート十三日目-07:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? They weren't fakes.\"\nHow did I figure that out?\nBesides, fake Noble Phantasms wouldn't have harmed Caster.",
+      "sourceUnit": "セイバールート十三日目-07:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. How do you figure, Emiya?\"\n\"I'm just saying, they were real. Actually, everything else seemed fake.\"\n\"Huh!?\"",
+      "sourceUnit": "セイバールート十三日目-07:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"It's...intuition. I can't explain it, but those were all real...\nLancer's Gáe Bolg is real, of course, but the spear the other guy used is also the real Gáe Bolg.\"",
+      "sourceUnit": "セイバールート十三日目-07:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "What?\nHer making that face isn't making explaining this any easier.\nIt doesn't help that I have no idea how I know this.\nI just know all his Noble Phantasms are real.\nI can feel it.",
+      "sourceUnit": "セイバールート十三日目-07:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's because I used Projection during our battle against Berserker.\nAfter seeing all those Noble Phantasms, I can tell they're all real.\nA great weapon is imbued with specific concepts, while imitations lack something.\nI learned that much when I replicated Saber's sword.\nIn that regard, I think all the Noble Phantasms that Servant had were perfect.",
+      "sourceUnit": "セイバールート十三日目-07:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's just set what Shirou said aside.\nSince we don't know that guy's true identity, we should think of our next moves.\"\nTohsaka sneaks a glance at Saber.",
+      "sourceUnit": "セイバールート十三日目-07:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Assuming he's after the Holy Grail, there's one more thing bothering me.\nSaber, can I be blunt?\"\nWhy does she always have that mischievous look when it comes to topics like this?",
+      "sourceUnit": "セイバールート十三日目-07:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, Rin?\nIf there is something you would like to know, you need not hold back.\"",
+      "sourceUnit": "セイバールート十三日目-07:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sure? Okay then. What do you think of him, Saber? From the way he was talking about you, he seems to have the hots for you.\"\n\"...\"",
+      "sourceUnit": "セイバールート十三日目-07:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I'm not following Tohsaka's lead, but I also sneak a glance towards Saber.\nI don't think Tohsaka has it wrong. He seemed obsessed with Saber.\nActually, it's beyond being obsessed.\nFrom the very beginning, he only saw Saber as his possession.",
+      "sourceUnit": "セイバールート十三日目-07:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not care what he thinks. I do, however, recall him proposing marriage in the previous war. Of course, I banished that idea with my sword.\"\nP-propose!? You mean THAT kind of proposal!?\n\"Wha...!?\"\nWhat the heck is that Servant thinking!?",
+      "sourceUnit": "セイバールート十三日目-07:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, I don't know that I should celebrate that, but I get the sense you don't feel too bad about it either.\nIt's flattering for a woman, being proposed to, even after you've become a Servant.\"",
+      "sourceUnit": "セイバールート十三日目-07:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not true. And I do not have that kind of freedom. My only goal is to obtain the Holy Grail.\nHonestly, that kind of nonsense irritates me.\"",
+      "sourceUnit": "セイバールート十三日目-07:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? You might feel that way, but he seemed really into you. Guys like that? They don't get discouraged, even when you reject them.\nYou're stubborn too, so maybe you two are a good match.\"",
+      "sourceUnit": "セイバールート十三日目-07:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's being irresponsible, so I'm not sure why she looks so amused.\nTohsaka look like she's happy to have a conversation like this with Saber, even though Saber seems disinterested...\n\"I keep telling you that I have no interest in such things. He is certainly a skilled Heroic Spirit, but he and I are of vastly different minds.\"\nSaber's responses are at least sincere.",
+      "sourceUnit": "セイバールート十三日目-07:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Did you hear that, Shirou? Saber has no interest in men. Relieved?\"\n\"Rin. Shirou has nothing to do with this conversation.\nThere is no logic in what you've just said.\"",
+      "sourceUnit": "セイバールート十三日目-07:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured. My bad. But if you're not sure why I'm so amused, I have to say this whole thing is just funny.\"\nTohsaka laughs menacingly.\nHer eyes make it clear she's laughing at me as much as at Saber.",
+      "sourceUnit": "セイバールート十三日目-07:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know what's pissing me off, but I get up without a word.\n\"Huh? Hey, where are you going, Shirou?\"\n\"Tea. I'm getting thirsty, and I figured I'd prepare tea for everyone.\"",
+      "sourceUnit": "セイバールート十三日目-07:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "I huff and head towards the kitchen.\nI don't know why, but I'm just irritated, so I decide to make super bitter tea for Tohsaka.",
+      "sourceUnit": "セイバールート十三日目-07:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'm going back to my room for now. Let's talk more tomorrow, when Illya wakes up.\"\nAfter teasing Saber for a good while, Tohsaka gulps down her bitter tea and gets up.",
+      "sourceUnit": "セイバールート十三日目-07:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, go to sleep. Don't come back here.\"\n\"Fine, fine. I'm leaving the rest to you here.\"\nI don't know why she's so amused, but Tohsaka's mood seems good even as she turns back to the outbuilding.",
+      "sourceUnit": "セイバールート十三日目-07:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"What will you be doing, Shirou?\nYour wounds may have healed, but you should not push yourself. You should also rest for the night.\"",
+      "sourceUnit": "セイバールート十三日目-07:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I intend to. But I'm going to watch Illya a little more.\nIf she seems all right, I'll take her to the spare room and then I'll go to bed too.\"\n\"I see. Then I will stay as well.\"",
+      "sourceUnit": "セイバールート十三日目-07:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "And that's where our conversation ends.\nTohsaka was the one making all the noise, so it's gotten awkward now that it's quiet.\nWell, it's not that it's awkward.\nI'm anxious because there's so many questions rattling around in my head...and so many things I want to say.\nCome to think of it, I haven't really been able to talk to Saber...",
+      "sourceUnit": "セイバールート十三日目-07:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "...about the Holy Grail...\n...about her not being dead...\n...about how even if she obtains the Holy Grail, there is no salvation for her.\nThere's no need to explain why\nShe still doesn't have a wish for herself.",
+      "sourceUnit": "セイバールート十三日目-07:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. About our conversation earlier...\"\nOur eyes meet.\nHers tell me that she knows what I want to say.",
+      "sourceUnit": "セイバールート十三日目-07:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, what is it, Shirou?\"\nShe tries to divert what I have to say with her quiet tone.\nBut I have to talk to her.",
+      "sourceUnit": "セイバールート十三日目-07:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"I said, about our earlier conversation...\nTohsaka said Servants can stay in this world if they obtain the Holy Grail. So...\"",
+      "sourceUnit": "セイバールート十三日目-07:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I have no intention of remaining here. The moment I obtain the Holy Grail, I will return to my original time.\"\n\"So you're going to redo the selection of the king? Rather than saving yourself from the brink of death...you want to start over from the very beginning?\"",
+      "sourceUnit": "セイバールート十三日目-07:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It is the king's duty to protect their nation. I was inadequate, so I must at least select an appropriate king in my stead.\"\nShe says this like she's talking about a stranger.\n...\nFor some reason, I get...real mad.",
+      "sourceUnit": "セイバールート十三日目-07:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you idiot! Wake up!\nTo hell with a king's duty! What matters is that you're here, so you should do what you want to do!\"\n...",
+      "sourceUnit": "セイバールート十三日目-07:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"You're strong, right!? Then finish off this war right now, get your Holy Grail, and quit being a Servant!\nIf you have a wish, don't use it to go back in time and redo everything! If you want to change, don't change your past self, but find a way to change now, then return to the past from here!\"",
+      "sourceUnit": "セイバールート十三日目-07:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "Saber doesn't answer.\nShe sighs.\n\"You are very persistent, Shirou. Please let this matter rest.\"\nShe rejects what I said outright.",
+      "sourceUnit": "セイバールート十三日目-07:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Obtaining the Holy Grail does not mean I can remain in this age.\nArcher...that Servant does not remain in this age because he obtained the Holy Grail. It was not possible to obtain the Holy Grail in the previous war.\"",
+      "sourceUnit": "セイバールート十三日目-07:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What do you mean...?\"\n\"One cannot obtain what does not exist. On that night, when the town was ablaze, the Holy Grail was destroyed.\nDestroyed by my Master, who betrayed me: Kiritsugu Emiya.\"",
+      "sourceUnit": "セイバールート十三日目-07:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "What!?\nThe edges of my vision go dark.\nI nearly fall backward, but catch myself with both hands.",
+      "sourceUnit": "セイバールート十三日目-07:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Kiritsugu...Emiya...?\"",
+      "sourceUnit": "セイバールート十三日目-07:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Ten years ago, he was my Master in the previous Holy Grail War. Kiritsugu and I survived until the very end, and the Holy Grail was in Kiritsugu's hands.\nArcher and his Master were still left, and we had only to defeat them to bring an end to the Holy Grail War.\"",
+      "sourceUnit": "セイバールート十三日目-07:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"But Kiritsugu abandoned the Holy Grail.\nAs a result, the town was consumed in flames.\nHe ordered me to destroy the Holy Grail, as Servants are the only ones capable of touching it.\nKiritsugu used his final Command Spell to force me to destroy the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-07:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"With the Holy Grail gone, Servants could not remain in this world.\nKiritsugu did not try to keep me here.\nThat is my last memory. I could not conclude my battle with that golden knight Archer, nor ask Kiritsugu why he betrayed me.\"",
+      "sourceUnit": "セイバールート十三日目-07:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's not like I never thought about it.\nMy old man was a mage. If he lived in this town, he could have been involved in a Holy Grail War.\nBut still...",
+      "sourceUnit": "セイバールート十三日目-07:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Why didn't you tell me, Saber? Why didn't you tell me my old man was a Master?\"",
+      "sourceUnit": "セイバールート十三日目-07:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"A Servant typically does not retain their memories from previous summonings, and the same Heroic Spirit is not typically summoned as a Servant consecutively.\nI am an exception to this rule. That is why I determined it would be best not to mention that to you.\nAnd I was...not eager to speak with you about what sort of Master Kiritsugu was.\"",
+      "sourceUnit": "セイバールート十三日目-07:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Why didn't you want to tell me?\"\n\"Shirou, in much the same way you have witnessed my past in my dreams, I have seen your past as well.\nI was surprised by your past, and could not believe how much Kiritsugu had changed.\nThe Kiritsugu Emiya of your memories was a wonderful person. But he is nothing like the man I remember.\"",
+      "sourceUnit": "セイバールート十三日目-07:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"In brief, he was a typical mage. He acted purely out of self-interest, and he destroyed anything in his way. I saw not a hint of human emotion from him.\nIn the course of the entire war, he spoke to me only three times.\nI do not think I need to explain those three occasions to you.\"",
+      "sourceUnit": "セイバールート十三日目-07:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "...",
+      "sourceUnit": "セイバールート十三日目-07:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"He was not brutal, or some gleeful murderer.\nHe was wholly without emotion.\nKiritsugu treated me as nothing more than a tool, and saw himself in much the same way.\"",
+      "sourceUnit": "セイバールート十三日目-07:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Kiritsugu killed every single one of his own emotions, just as he killed each of his enemies.\nI never learned what drove him, or what he believed in. But in the moment I stood before the Holy Grail, he commanded me to destroy it.\nTo be honest...\nNever have I more bitterly cursed the Command Spells, or a betrayer, than in that moment.\"",
+      "sourceUnit": "セイバールート十三日目-07:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "There's truth in Saber's words.\nNo, they must all be true.",
+      "sourceUnit": "セイバールート十三日目-07:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "I realize I knew nothing about what Kiritsugu was like before I met him.\nThere was no way for me to find out what kind of person he'd been before that...and there was no need.\nEven if Kiritsugu Emiya was coldhearted, it wouldn't change a thing.\nThe man who adopted Shirou Emiya as his son was so much warmer.\nThat's the only truth about him to me.",
+      "sourceUnit": "セイバールート十三日目-07:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "But what nags at me is...\n...if Kiritsugu truly was so ruthless, then his final moments were just too empty and futile...",
+      "sourceUnit": "セイバールート十三日目-07:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then maybe I was able to summon you because I'm Kiritsugu's son.\"",
+      "sourceUnit": "セイバールート十三日目-07:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not know. Kiritsugu summoned me after taking the proper steps. He had the aptitude to be a Master, and so was hired by a mage family with a long history to join the Holy Grail War.\nI hear that house provided everything he needed to be a Master.\"",
+      "sourceUnit": "セイバールート十三日目-07:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"They excavated a relic of King Arthur from Cornwall and gave it to Kiritsugu to use for the Holy Grail War. Kiritsugu used it as a catalyst to summon me, King Arthur.\nAnd so Kiritsugu did not possess a connection to me, nor did he possess any attributes in common with me. There must be some other factor which enabled you to summon me.\"",
+      "sourceUnit": "セイバールート十三日目-07:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "I got it.\nI'm not that surprised my old man was a Master.\nWhat does surprise me is that his Servant is the same King Arthur with me now.",
+      "sourceUnit": "セイバールート十三日目-07:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "And one more thing...\nSaber said that the Holy Grail was destroyed.\nThen...maybe this war is meaningless to begin with.",
+      "sourceUnit": "セイバールート十三日目-07:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't get it. You already knew there's no Holy Grail, right? So why did you decide to join this ridiculous war?\"",
+      "sourceUnit": "セイバールート十三日目-07:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot say for certain whether the Holy Grail is truly here or not. But, so long as I have been summoned, there must be a Holy Grail.\nHave you forgotten, Shirou? I have become a Servant expressly to obtain the Holy Grail. Put another way, I would not be summoned to a place if there was no Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-07:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...yeah, but...\nThen does that mean a Holy Grail can fix itself after it's destroyed?\"\n\"No. The Holy Grail is not something that can be easily replaced.\nA Holy Grail, once destroyed, cannot be restored.\"",
+      "sourceUnit": "セイバールート十三日目-07:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"But then...\"\n\"But it should exist. Servants are drawn to the Holy Grail and manifest. Without a Holy Grail, Servants will not appear.\nThe priest mentioned that already.\"",
+      "sourceUnit": "セイバールート十三日目-07:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "\"The priest...oh yeah, that guy.\"\nThe guy living in the church...the overseer of the Holy Grail War.\nThe man who's managing the Holy Grail should be able to answer all my questions.",
+      "sourceUnit": "セイバールート十三日目-07:page120:1"
+    },
+    "page121": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page122": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0161",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We hurry through the long hallway, and out through the gate.\nHard as it is to believe, we were really in a castle.\nAnd an old one at that, hidden deep in a forest.\nThe whole place is surrounded by trees as far as one can see. I can't see any buildings, or even the sky in the distance.",
+      "sourceUnit": "セイバールート十一日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"This way. We should be able to reach the main road in about three hours. We'd better run.\"",
+      "sourceUnit": "セイバールート十一日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nThree hours. Honestly, I'm not sure I'll last that long.\nI'm not tired, but the pain gets worse with every step.\nIf I could at least rest, my fever might break, but we don't have time for that.",
+      "sourceUnit": "セイバールート十一日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, hurry.\"\nTohsaka sounds every bit as hurried.\nShe'd given Archer his orders.\nAs composed as she looks, I can see the regret weighing on her.",
+      "sourceUnit": "セイバールート十一日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. They're going to catch up. Saber, let's hurry.\"\n\"...Oh, yes. Let us hurry, Shirou.\"\nSaber's eyes are downcast, but she breaks into a run with us.",
+      "sourceUnit": "セイバールート十一日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "We follow Tohsaka as she slips between the trees.\nSaber's breath rattles loudly in her chest as she runs beside me.\nIt's too dark for me to see clearly, but I can tell she's struggling.\nI can't ignore it any longer.",
+      "sourceUnit": "セイバールート十一日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah.\"\nSaber loses her balance.\nI sweep in from the side and take hold of her before she hits the ground.",
+      "sourceUnit": "セイバールート十一日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"That's it. You can't go on anymore, Saber.\"\n\"Wha... What are you saying, Shirou?\nI have been in situations like this many times. I can still run.\"",
+      "sourceUnit": "セイバールート十一日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? Experienced or not, you're still in pain now. Come on, you need to admit you're struggling.\"\nI pull her arm.\nSaber hardly weighs anything anyway.\nI gather her effortlessly into my arms.",
+      "sourceUnit": "セイバールート十一日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Wh-what are you doing, Shirou!?\"\n\"No questions. Just rest for a while. I'll be the first to fall if I have to keep watching you struggle like that.\"",
+      "sourceUnit": "セイバールート十一日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...No! Insolence! Unhand me! Do you truly believe this is enough to make me collapse!?\"",
+      "sourceUnit": "セイバールート十一日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Saber struggles in my arms.\nBut her resistance is weak.\nHer thin arms have no real strength in them as she pushes at my chest.\n...It pains me to see that's how weak she's gotten.\nI never imagined Saber could be too weak to push away from someone picking her up.",
+      "sourceUnit": "セイバールート十一日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you thinking, Shirou!? I will not permit such behavior, even from my Master!\"\nSaber struggles against me, her face beet red.\nI can't really blame her.\nThis must be a terribly embarrassing position for a knight to be in, but now isn't the time to worry about that.",
+      "sourceUnit": "セイバールート十一日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Lies. You're too weak to even push me away. This is an order from your Master.\nIf you won't listen, I'll have to use a Command Spell.\"",
+      "sourceUnit": "セイバールート十一日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Th-that is cruel! I will not tolerate such absurd nonsense as using a Command Spell for something like this!\"\n\"Then keep quiet. If we don't hurry, Tohsaka's going to leave us behind.\"",
+      "sourceUnit": "セイバールート十一日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber must have given up, as she reluctantly falls silent.\nThat's good enough for now.\nAs long as she's not struggling, I can carry her and run at the same time.",
+      "sourceUnit": "セイバールート十一日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Spots burst across my vision.\nAs I run, my blood pumps faster.\nI try to fight down the nausea burning at the back of my throat, gritting my teeth with every step.",
+      "sourceUnit": "セイバールート十一日目-19:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ha...haaaah!\"\nMy breathing is erratic, but I do all that I can to hold the pain at bay.\nThere's a reason for that.",
+      "sourceUnit": "セイバールート十一日目-19:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Please put me down.\nI will run on my own.\"\nThe moment she sees me struggling, Saber looks up at me, concerned.\nI can't stop now.",
+      "sourceUnit": "セイバールート十一日目-19:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh. Don't underestimate me. Carrying you is nothing.\nCompared to a broken stove, a girl's light as a feather.\"\n\"But...\"",
+      "sourceUnit": "セイバールート十一日目-19:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Just shut your mouth. Is give-and-take just not in your vocabulary? You've saved me plenty, so it wouldn't be fair for me not to do this.\nI need to pay you back for everything you've done, or else I can't have you protecting me tomorrow.\"",
+      "sourceUnit": "セイバールート十一日目-19:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is not true...and you doing this is most certainly unfair.\"\n\"Fine by me. Just means I'll only have to do something like this once.\nBesides, I'm starting to get motivated now.\"",
+      "sourceUnit": "セイバールート十一日目-19:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I take a breath and pick up the pace.\nTohsaka knows very well that I have Saber in my arms, but she keeps taking us through narrower and narrower paths.\nIt's a good thing Saber's so light, but following Tohsaka is a trial all on its own.",
+      "sourceUnit": "セイバールート十一日目-19:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"If you keep talking, you might bite your tongue, so I'd appreciate it if you stopped.\"\n\"...Yes. Then I will do as my Master says.\"",
+      "sourceUnit": "セイバールート十一日目-19:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Saber relaxes in my arms.\nShe was tense earlier, which made carrying her harder. Now it's a bit easier.\nThe problem now is whether Saber and I will make it to our destination.",
+      "sourceUnit": "セイバールート十一日目-19:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I don't know how long we've been running.\nMaybe thirty minutes, maybe an hour...\n\"Ha...ha...haa.\"\nRunning doesn't take a lot out of me.\nI've been training hard, and Saber is so light.",
+      "sourceUnit": "セイバールート十一日目-19:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "But right now...\n...there's something wrong inside me.\nThe more I move, the dizzier I get. I feel like I'm about to throw up.\nI would've understood it if I'd been bitten by a snake, and the poison was doing a number on me, since we're in a forest, but...",
+      "sourceUnit": "セイバールート十一日目-19:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...this is nothing...\"\nThis pain won't bring me to my knees.\nIt's just a heaviness in my chest, and a need to throw something up.\nAnd it's nothing compared to the heat I'm feeling in my arms right now.",
+      "sourceUnit": "セイバールート十一日目-19:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...Saber's closed her eyes, as if she were sleeping.\nShe's not resisting; she's relaxed.\nHer body is growing hotter by the moment.\nHer clothes are damp with sweat, even though it's the middle of winter, and she's tucked her head down to hide her labored breathing from me.",
+      "sourceUnit": "セイバールート十一日目-19:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"This is bad. At this rate...\"\nIt'll be a repeat of that one night...\n...The night Saber collapsed from exhaustion after using her Noble Phantasm against Rider.\nSaber's condition hasn't changed since that night.\nWas she able to talk until now because she was just in the brief window before she disappeared?",
+      "sourceUnit": "セイバールート十一日目-19:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...hah...ha, ha, haaah!\"\nI run in an attempt to prevent that from coming true.\nI don't care what happens to my body.\nI move my feet as fast as I can, hoping that we can do something as long as we make it home—",
+      "sourceUnit": "セイバールート十一日目-19:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I very nearly trip, and skid to a stop, leaning my back against a tree.",
+      "sourceUnit": "セイバールート十一日目-19:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nI taste blood.\nSo that's where the nausea's coming from.\nNone got on Saber, since it was just a little bit, but the source of my nausea churns in my chest.",
+      "sourceUnit": "セイバールート十一日目-19:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, depending on how you look at it, this is actually better.\"\nSaber would be pretty upset about the waste of food if I threw up.\nActually, knowing Saber, she might well cut me in half for it.",
+      "sourceUnit": "セイバールート十一日目-19:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...\"\n...Yep, that's funny.\nThe bit of levity lends me just a little more energy.\nOkay. Break's over.",
+      "sourceUnit": "セイバールート十一日目-19:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you are done pushing yourself, Shirou.\"\n\"Saber...?\"\nShe wasn't asleep.\nSaber speaks up from where she lays in my arms.",
+      "sourceUnit": "セイバールート十一日目-19:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"What? What do you mean, I'm done?\"\n\"You should escape on your own, Shirou. You cannot continue to carry me in your state.\"\n\"Wha...!? The hell I can't! I just tripped. This is nothing—\"",
+      "sourceUnit": "セイバールート十一日目-19:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Says the boy so pale, he looks like a corpse.\"\n...Hey.\nTohsaka's come back for some reason.",
+      "sourceUnit": "セイバールート十一日目-19:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. If you want to put on a brave front, go ahead. Yeah, the forest is pretty dark, but you should still wipe the blood from your mouth. No wonder Saber's so worried.\"",
+      "sourceUnit": "セイバールート十一日目-19:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a relief. With Rin present, I need not explain myself.\"",
+      "sourceUnit": "セイバールート十一日目-19:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Figured so. I just know what you're trying to say, Saber. We don't have much time, so go ahead and say what you want to say, so even a big dummy like him will get it.\"\nSaber nods.",
+      "sourceUnit": "セイバールート十一日目-19:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Rin, please leave me here.\nYou will not make it out with me. And more importantly, I cannot last any longer.\"",
+      "sourceUnit": "セイバールート十一日目-19:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't really insist she's being ridiculous.\nNeither of them needs to remind me how much worse Saber's getting.",
+      "sourceUnit": "セイバールート十一日目-19:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Saber won't last long.\nI have the sense she won't make it until morning, the way things are going.",
+      "sourceUnit": "セイバールート十一日目-19:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So what do you think, Shirou? Are you going to die with Saber out here?\"\n\"Of course not. I've got no plans to die, or to let Saber disappear. If she's going to disappear, I'll use my Command Spells or whatever—\"",
+      "sourceUnit": "セイバールート十一日目-19:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. That's good enough for me. Let's take care of both problems, then.\nWe'll save Saber, and the three of us will escape this forest. That'll be the plan.\"",
+      "sourceUnit": "セイバールート十一日目-19:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nMy brain feels like mushy tofu.\nTohsaka says the damnedest things, and always so casually.",
+      "sourceUnit": "セイバールート十一日目-19:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on a minute! Y-yeah, I'd really like to do that, but we can't—\"",
+      "sourceUnit": "セイバールート十一日目-19:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Just follow me. I have no intention of letting Saber die either, I'll have you know.\nI'm not going to let this opportunity slip away. I'm gonna make sure you fulfill your duty. Shirou said it was okay, so you don't mind, right, Saber?\"",
+      "sourceUnit": "セイバールート十一日目-19:page48:1"
+    },
+    "page49": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page50": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

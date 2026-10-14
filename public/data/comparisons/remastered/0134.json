@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0134",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I have no chance of winning against a Servant.\nIf I fight, I'm dead.\nThe only thing I can do is beat Shinji to force Rider to retreat.",
+      "sourceUnit": "セイバールート九日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...!\"\nI kick off the hallway floor, refusing to let Rider intimidate me.\nSix more meters to Shinji.\nIf I can just slip by Rider, I can get to Shinji...",
+      "sourceUnit": "セイバールート九日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The Servant in black blocks my way.\nI focus my concentration and brace to meet her every strike.\nI aim to the left.\nHer left fist twitches the slightest bit, letting me avoid the first blow. I try slipping through the opening between Rider and the wall so I can charge at Shinji.",
+      "sourceUnit": "セイバールート九日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Rider vanishes.",
+      "sourceUnit": "セイバールート九日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\nMy plan goes up in smoke.\nThe path is wide open before me, and Rider is nowhere to be seen.",
+      "sourceUnit": "セイバールート九日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "This is bad.\nI have to stop.\nI screwed up. Saber kept warning me about this, but I just didn't get it.\nI shouldn't go forward.\nI shouldn't confront Rider.\nEven if it's just a single blow, I shouldn't have even thought of dodging it...!",
+      "sourceUnit": "セイバールート九日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I feel something behind me.\nRider hangs from the ceiling behind me. She slices through the back of my neck in a smooth, crescent arc.",
+      "sourceUnit": "セイバールート九日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hyu...fgh...!\"\nAir hisses from my neck.\nRider's skills are truly beautiful.\nThe move was so graceful, like caressing a daffodil.\nA touch from her fingers, so delicate it would not make a single ripple in still water, plucks my life from me.\n\"Hmph. Too easy.\nHe's like a bug on display, the way you skewered him from behind.\"\n\"I held back. He will survive, with treatment.\"\n\"Who put you in charge? Nobody told you to go easy on him. Sheesh, you're just a Servant. It's not your place to tell your master what you think.\"\nBlood flows from the wound.\nNo matter how I try, I can't breathe. My throat just rattles and wheezes.",
+      "sourceUnit": "セイバールート九日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Then you have no intention of saving this young man?\"\n\"Nope. Besides, I don't know any healing magecraft. Guy's good as dead. Just put him out of his misery, Rider.\"\n\"Understood. My Bounded Field will not have him, then. He will quench my thirst himself.\"",
+      "sourceUnit": "セイバールート九日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I hear the heavy sound of chains approaching.\nSomething lifts me up.\n\"...Ah...\"\nShe gazes toward my bloody neck.\nThe dark Servant slowly parts her lips...\n...and sinks her teeth into my neck, as if kissing it.",
+      "sourceUnit": "セイバールート九日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "My blood... She's sucking my blood...\nRider is drinking all the blood I have left...down to the very last drop.",
+      "sourceUnit": "セイバールート九日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nI begin to lose consciousness.\nBloodsucking is almost like euthanasia.\nI feel no pain, and as if slowly dissolving in the spider's venom, I...",
+      "sourceUnit": "セイバールート九日目-07:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

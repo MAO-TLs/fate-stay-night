@@ -1,0 +1,156 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0441",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I leave the church.\nSaber appears as soon as I exit, as if she'd been waiting in the shadows.",
+      "sourceUnit": "桜ルート四日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you finished your inquiry, Shirou?\"\n\"Yeah. I heard what kind of Master my old man was and about his connection to the Einzberns. The priest also warned me about what I should do next. He's a lot more chatty than he looks.\nI feel like I owe him now.\"",
+      "sourceUnit": "桜ルート四日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... The priest was...cooperative?\"\nSaber blinks a few times in bewilderment.",
+      "sourceUnit": "桜ルート四日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Sh-Shirou? Are you all right? Did he exact some price from you? Why didn't you call for help if you were in danger, like I said to!?\"",
+      "sourceUnit": "桜ルート四日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I must have been making an odd expression, because Saber gets in my face and starts examining me.",
+      "sourceUnit": "桜ルート四日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"What did he do to you, Shirou!? Your wounds aren't fully healed yet. You know what will happen if you're reckless enough to repeat what happened last night!\"\nSaber gets even closer.",
+      "sourceUnit": "桜ルート四日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Show me your injuries, Shirou. It's partly my fault you were hurt. I cannot let you die without repaying that debt. I still haven't helped you even once as a Servant. I refuse to let our contract end this way!\"",
+      "sourceUnit": "桜ルート四日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Saber reaches for my shirt, as if to tear it off.\nBut rather than coming off as frightening, she's...",
+      "sourceUnit": "桜ルート四日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Pft.\"\nOops. I couldn't hold the laughter in.\n\"...Shirou?\"\nSaber's hand stops.\nHer look of worry becomes a glare, as she realizes what I'm thinking.",
+      "sourceUnit": "桜ルート四日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. It's poor taste to laugh at someone else's discomfort.\"\n\"...Heh.\"\nEven her indignation is amusing, and my cheeks start burning.",
+      "sourceUnit": "桜ルート四日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou!\"\n\"Aha...ah, sorry. You looked so anxious it surprised me. It's just a happy accident. A dumb mistake of mine.\"",
+      "sourceUnit": "桜ルート四日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...A happy accident? I expect you to explain.\"",
+      "sourceUnit": "桜ルート四日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks increasingly offended.\nShe'd be right at home on the disciplinary committee at school.\nI know she's sincerely giving me the what for, but it was so sincere that I got a glimpse beneath her usual veneer.",
+      "sourceUnit": "桜ルート四日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you grinning...!? Do you find my misunderstanding that amusing!?\"",
+      "sourceUnit": "桜ルート四日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I'm happy to hear it, honest. You seem more upbeat than usual.\"\n\"I believe my condition is entirely normal, though. What of it?\"",
+      "sourceUnit": "桜ルート四日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not what I meant. It's like...I saw who you really are for the first time. I'm glad you're an actual girl.\"\n\"Wha...\"\nSaber flinches and takes a step back.",
+      "sourceUnit": "桜ルート四日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what are you talking about? A Servant's gender is immaterial. We exist only to defeat enemies. It is troubling that you would be pleased by such a fact.\"\nI'm not sure if Saber is angry or exasperated, but she's giving me a withering look.",
+      "sourceUnit": "桜ルート四日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nStrangely, it doesn't bother me, and I just keep grinning.",
+      "sourceUnit": "桜ルート四日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Though she's a Servant, beneath it all, she's still also human.\nI don't know what the others are like, but she's the one I'm contracted with. She isn't just a familiar for fighting my battles.",
+      "sourceUnit": "桜ルート四日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She just said that she hasn't helped me yet.\nI recall how she saved me from Lancer, and how she tried to buy me time to get away from Berserker.\nShe's saved my life twice over, and she still thinks she hasn't helped me.",
+      "sourceUnit": "桜ルート四日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't tell if you're a busybody or a perfectionist.\"\n\"W-why are you looking at me like that? You may be my Master, but I won't tolerate mockery. Take care what you say next.\"",
+      "sourceUnit": "桜ルート四日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, fine. Don't be mad. I'm just saying that I'm glad you're the Servant I made a contract with.\"",
+      "sourceUnit": "桜ルート四日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what do you mean? I merely answered your summons.\nI did not make a contract with you by choice. Are you not the one who chose me?\"",
+      "sourceUnit": "桜ルート四日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Only by coincidence. It's too bad. I wish I could've reached out to you like I meant it.\"",
+      "sourceUnit": "桜ルート四日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I extend my right hand to her.\nIt's something I still haven't done yet.\nI have to make her a promise that I should have done from the beginning.",
+      "sourceUnit": "桜ルート四日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...?\"\n\"I know it's overdue, but this is the only way I know how to do it.\"\nSaber wordlessly walks over to me and grasps my hand without hesitation.\nHer fingers are thin.\nI feel the firm touch of someone other than myself.",
+      "sourceUnit": "桜ルート四日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Will you fight with me? I need your help, Saber.\"\n\"My oath has not changed. I was summoned to be your sword.\"",
+      "sourceUnit": "桜ルート四日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...And I will require your aid, as well.\nI will borrow your power to obtain the Holy Grail. If you trust me, then I will show you power worthy of that faith.\"",
+      "sourceUnit": "桜ルート四日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Through her handshake, I feel her warmth.\n...\nWhatever unease I've harbored is erased without a trace.\nIt's been half a day since the night when this all started.\nFor the first time, I finally feel like I have a true ally at my side.",
+      "sourceUnit": "桜ルート四日目-07:page28:1"
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

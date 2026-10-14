@@ -1,0 +1,187 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0459",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home... Wait, huh? Is Fuji-nee already back?\"\nI take off my shoes and enter the hallway.\nIt's not even 6:00 PM yet, so why is the kyudo club advisor back so early?",
+      "sourceUnit": "桜ルート五日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome home, Shirou.\"\n\"...Mrgh. There you are, you little nincompoop.\"\nSaber greets me while seated in a polite seiza posture, while Fuji-nee is very improperly resting her face on the coffee table.",
+      "sourceUnit": "桜ルート五日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's a shadow of defeat in my adoptive guardian's eyes.\nI'm curious as to why, but experience tells me it's probably no big deal.",
+      "sourceUnit": "桜ルート五日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry I'm late. Did anything weird happen while I was out, Saber?\"\n\"Nothing in particular. What about you, Shirou? Was there anything of note at school?\"",
+      "sourceUnit": "桜ルート五日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing on my end, either. Shinji didn't show up and school was business as usual. I think we can cross him off our list of people to watch for now...\"\nUsing roundabout language, I report to Saber that there are no other Masters at school.",
+      "sourceUnit": "桜ルート五日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. Something reeks. This bittersweet post-rainshower aroma, like a 10,000-yen bill you hid on payday but can't remember where you put it, is, without a doubt, the stench of secrets!\"\nShe sniffs the air like a dog off its leash.",
+      "sourceUnit": "桜ルート五日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I smell rusty shackles on you, Shirou. How very shady.\nAre you hiding something from your big sister?\"\n\"Oh, wow.\"\nI don't believe it.\nHow is she this hammered so early in the day?",
+      "sourceUnit": "桜ルート五日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber. What happened to Fuji-nee? The tiger doesn't get this drunk unless something really crazy happens.\"\n\"Er...I'm not sure. I thought Taiga might be feeling out of sorts because she's hungry.\"\nSaber says something terribly cutting, and with such ease.",
+      "sourceUnit": "桜ルート五日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a load of crap! Saber, you said you wanted to see my skills and then you beat me to a pulp!\"\nFuji-nee pounds the table.",
+      "sourceUnit": "桜ルート五日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Whether out of frustration or fear, she scurries behind me and loudly boos Saber in protest.\nAlso, she sure is acting all buddy-buddy with Saber real fast.",
+      "sourceUnit": "桜ルート五日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...did you spar with Fuji-nee?\"\n\"Ah...well, I suggested that Taiga get some exercise if she had free time. It was a mock duel with bamboo swords for safety, and she consented, so—\"",
+      "sourceUnit": "桜ルート五日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't believe her lies, Shirou. Saber came after me with murder in her eyes. I can tell. I know guys with guns.\nShe meant to kill me. I'm absolutely, positively sure! She pounded me flat as soon as I let my guard down...\"",
+      "sourceUnit": "桜ルート五日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee trembles.\n\"Saber. Did you...\"\nDid you fight Fuji-nee like you really meant it...?",
+      "sourceUnit": "桜ルート五日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Well, I may have been a little enthusiastic.\nI was tired of waiting for you to come home, and Taiga's skills were greater than expected, so perhaps I just acted on instinct...\"\nWow. That sounds terrifying.\nFuji-nee reached an impressive 5-dan in kendo at her age, but Saber's on a completely different level.",
+      "sourceUnit": "桜ルート五日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, don’t go sneaking into Saber’s room at night or in the morning if you value your life!\nHell will be unleashed upon this world if you make a move on her! You will be wiped off the face of the Earth and won't even have a corpse left to collect!\"\n\"...Hmm.\"",
+      "sourceUnit": "桜ルート五日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "She's right.\nI still have another problem to deal with.\nWhat do I do with Saber, who insists on sleeping in the same room as me?\nI'm a growing young man, and I have...issues with a girl like Saber sleeping in the same room.",
+      "sourceUnit": "桜ルート五日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"You needn't concern yourself with that, Taiga. I serve at Shirou's command. I would never raise a hand against him.\"",
+      "sourceUnit": "桜ルート五日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Hmm? You serve... What was that, Saber?\"\n\"Think nothing of it. More importantly, to avoid any misunderstandings, I would inform you that I will be retiring to Shirou's chambers tonight.\"\n...\nFuji-nee freezes in her tracks.",
+      "sourceUnit": "桜ルート五日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nOh no...\nGiven how we're positioned and the power balance between us, she's definitely gonna do it...",
+      "sourceUnit": "桜ルート五日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee. Actually, I've been hiding something from you since yesterday.\"\nI hear Fuji-nee from behind me.\n\"Hup.\"\nWow. She's totally ignoring me, and I just heard a sound like a phone book being slammed on a table.",
+      "sourceUnit": "桜ルート五日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen to me.\nSaber doesn't understand Japanese.\"\n\"Ready, and...\"\nAh, there it is:\nthe sensation of being put in a sleeper choke hold from behind.\nFuji-nee doesn't know how to hold back her own strength, so when she has me by the neck, I'm in serious danger—",
+      "sourceUnit": "桜ルート五日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, this is not the time for that! Hey! F-Fuji-nee, you win! I give up, so—ow, I'm really gonna fall!\"\nCrack. Crack.\nFuji-nee's answer is to grapple me harder in a magnificent grinding of bone and flesh.",
+      "sourceUnit": "桜ルート五日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Uwagh, I give, I give! Stop it! And don't throw me next!\"\nIn my fading consciousness, I manage to tap Fuji-nee's arm.\nHowever...",
+      "sourceUnit": "桜ルート五日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Aw, shaddup! Eat dirt, you lazy son! That's not how I raised you! Waaahhh!!!\"\nAh, I'm going down.\nDamn, just...one problem after another...",
+      "sourceUnit": "桜ルート五日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Jeez, that was awful.\"\nMy neck makes cracking noises.\nBent nearly at a right angle, I managed to get off with only bruises thanks to my daily training.",
+      "sourceUnit": "桜ルート五日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, how disappointing... I thought I could twist and let you go down into a roll, but you're heavier than I thought. It took everything I had just to throw you.\"",
+      "sourceUnit": "桜ルート五日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously. I'm not a little kid anymore, you know. Stop trying to suplex me with those skinny arms. You could've hurt yourself.\"\n\"...I've learned my lesson.\"",
+      "sourceUnit": "桜ルート五日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You too, Saber. We're sleeping in adjacent rooms, not the same room.\"\n\"Mmm... But it's to protect you, Shirou.\"",
+      "sourceUnit": "桜ルート五日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You're protecting me plenty already. I wouldn't know what to do with myself if we stayed in the same bedroom. I'm sorry, but this is the best I can do. It's a hill I have to die on.\"\n\"Mmrgh... You're asking a lot.\"",
+      "sourceUnit": "桜ルート五日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"As long as both of you understand...All right, time to get ready for dinner.\"\nI stand up, stretching my neck.",
+      "sourceUnit": "桜ルート五日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right, Fuji-nee.\nI'm thinking of having Sakura stay over starting today. Is that okay? I'll put her in the guesthouse that we gave Saber before.\"\n\"Sakura's staying over? That's fine with me, but why the sudden change of heart? You're acting kind of weird lately.\"",
+      "sourceUnit": "桜ルート五日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, Sakura doesn't look like she's feeling well lately. It's probably because Shinji's never home. She should have someone around to look after her.\"",
+      "sourceUnit": "桜ルート五日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmhmm... Okay. And have you told Sakura yet? At club today, she looked no worse for wear.\"",
+      "sourceUnit": "桜ルート五日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"But she's going to—I mean, what about you and club? Why are you back so early today?\"\n\"Hm? Oh, someone got hurt. I let Mitsuzuri take care of it, and then I came straight here after sending the students home.\"",
+      "sourceUnit": "桜ルート五日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...Something like that happened, huh?\nIt's a little concerning to hear that someone got injured at club, but Fuji-nee wouldn't be here if it was serious.\nSomeone probably just jammed their finger or got anemic.",
+      "sourceUnit": "桜ルート五日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnyway, this is my chance.\nSakura's like family to both me and Fuji-nee.\nThen, I should...",
+      "sourceUnit": "桜ルート五日目-09:page35:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

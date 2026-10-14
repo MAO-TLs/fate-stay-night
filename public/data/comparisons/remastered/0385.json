@@ -1,0 +1,351 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0385",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I run down the stairs.\nThe fierce sword fight is happening close by.",
+      "sourceUnit": "凛ルート十三日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. This place connects to the hall's atrium.\"\nTohsaka checks the end of the passage.\nThe hallway splits at a T-junction and both seem to lead to the terrace at either side of the hall.",
+      "sourceUnit": "凛ルート十三日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's split up here. I'll go from this side, so you go from that side.\"",
+      "sourceUnit": "凛ルート十三日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "It's better to split up than to stay together in one place.\n...With the way we are now, we don't have any way to escape if we are found.\nWe don't stand a chance either way.\nSo we'll split up.\nIf we split up, even if one was found, there's hope that the other can manage to escape somehow.",
+      "sourceUnit": "凛ルート十三日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka goes down the hallway facing east.\n...\nI nod, and go down the other hallway... The other hallway on the other side facing west.",
+      "sourceUnit": "凛ルート十三日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou.\"\nShe suddenly stops me.",
+      "sourceUnit": "凛ルート十三日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...You know, right? Whatever happens, don't do anything. We don't have the option to fight right now.\nRun away as soon as you think it's dangerous, okay? Run away even if one of us gets caught... Saving others comes after you save yourself.\"",
+      "sourceUnit": "凛ルート十三日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Her voice is suppressing her emotions.\nThat sounded more like a plea than a warning.",
+      "sourceUnit": "凛ルート十三日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I go around and come out onto the terrace of the lobby.\nI see Tohsaka emerge from the opposite side on the terrace far away.",
+      "sourceUnit": "凛ルート十三日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "She immediately takes cover and peeks out to see what's going on while hiding.\nThe instant we looked down at the hall, we both suppress our voices.",
+      "sourceUnit": "凛ルート十三日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Shinji...!? Why is he here...!?\"",
+      "sourceUnit": "凛ルート十三日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Shinji stands atop the rubble in the corner of the lobby, observing the spectacle with joy.",
+      "sourceUnit": "凛ルート十三日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "No, that's not it.\nThat's not the surprising thing.\nRight now, the truth that I have to accept right now is the battle that Shinji is observing.",
+      "sourceUnit": "凛ルート十三日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nThe black giant lets out a roar.\nThe swinging axe-sword stirs up a cloud of dust and crushes the rubble into powder.\nBerserker is no different than before.\nNo, his bloodcurdling roar doesn't compare to what it sounded like before.",
+      "sourceUnit": "凛ルート十三日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Behind the giant is the pale white girl.\nBerserker's Master, Illyasviel.\nThat girl that was always smiling innocently and unfit for a kill fest...\nThat girl...\n...is now shivering and staring at her own Servant about to cry out.",
+      "sourceUnit": "凛ルート十三日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Her pale face is desperately trying to deny the despair in front of her.\n\"Someone help me.\"\nThat's what the trembling lips of the snow white girl seem to say.",
+      "sourceUnit": "凛ルート十三日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...No...\"",
+      "sourceUnit": "凛ルート十三日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "A whirlwind blows violently.\nBerserker's axe-sword is repelled each time.\nIn the center of the hall...\nBy the Noble Phantasm of one Servant reigning the throne of rubble.",
+      "sourceUnit": "凛ルート十三日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The countless numbers of swords dance.\nEach one of the weapons appearing behind the man is undeniably a fatal weapon.",
+      "sourceUnit": "凛ルート十三日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThey pierce through.\nLike hot water.\nThe bottomless Noble Phantasm destroys Berserker's body, as if repelling his axe-sword wasn't already enough.",
+      "sourceUnit": "凛ルート十三日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "His limbs fly off.\nThe swords cut through his body, penetrate his head, and pierce his heart.",
+      "sourceUnit": "凛ルート十三日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "But, he still does not die.\nThe giant revives after each instantaneous death that he suffers and resolutely advances towards his enemy.\nEight times already.\nBerserker moves forward, while being killed mercilessly that many times.\nThat enemy welcomes him with a smile.",
+      "sourceUnit": "凛ルート十三日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "The repeated tragedy.\nBerserker is killed many times, unable to get close to his enemy.",
+      "sourceUnit": "凛ルート十三日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...No... Way...\"",
+      "sourceUnit": "凛ルート十三日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "It's not because Berserker is being defeated without being able to do anything.\nThat man... That Servant is beyond belief.",
+      "sourceUnit": "凛ルート十三日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "All the Noble Phantasms that are repeated infinitely are real.\nI can tell since I have Projected Archer's swords.\nThose are the original versions of every Noble Phantasm, the ones from before they became legends.\nWho could he be, being a Heroic Spirit who's able to retain so many weapons?\nNo, first of all, there should be seven Servants.\nThen he's the eighth one... Is he the one who shouldn't exist...?",
+      "sourceUnit": "凛ルート十三日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't breathe.\nBerserker is nothing less than astounding.\nA body made out of steel and that superhuman strength. On top of that, he can regenerate on the spot even if he dies. He's not an opponent that can be matched.\nThe eighth Servant doesn't retreat from such a monstrous opponent and overwhelms Berserker with the repeated magic swords and holy swords.",
+      "sourceUnit": "凛ルート十三日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhen I look up, Tohsaka's face on the other side was also pale.\nIt's only natural.\nThe space below us is a land of death.\nWe'll die instantly if we enter it.\nNo, more than that...",
+      "sourceUnit": "凛ルート十三日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...He is a demon.\nA different atrocity than Berserker... This man lacks order and wishes for battles only for the objective of killing.",
+      "sourceUnit": "凛ルート十三日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "But...\nEven with such an unusual enemy in front of him, the black giant is still the strongest.\nHis steps don't cease, even if his whole body is pierced or cut up.\nHe receives the rain of Noble Phantasms, regenerates each time, and surely closes in on his enemy.",
+      "sourceUnit": "凛ルート十三日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "It is an advance devoid of tactics.\nHe is not thinking of any ways of countering his enemy's attacks.\nHe moves forward as long as he is alive. It is a savage battle about just killing the enemy.",
+      "sourceUnit": "凛ルート十三日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\n...He will not reach the enemy.\nBerserker's brute courage will prove futile, and his life will end just as a mere target.\nThat enemy understands that.\nThat's why he stopped on purpose and is just provoking the giant that foolishly moves forward.",
+      "sourceUnit": "凛ルート十三日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nThere is no chance of victory for the black giant with this method.\nIt's something that the man confronting him and I, looking as an outsider, can tell.\nAnd, most likely...\nEven Berserker himself, who is being used for target practice, must have realized the same thing a while back.",
+      "sourceUnit": "凛ルート十三日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nYet, the giant keeps stupidly moving forward.\nHe knows no retreat and doesn't try to avoid the attacks.\nThat man welcomes the figure with a smile.",
+      "sourceUnit": "凛ルート十三日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. All you can do is attack. Guess it shouldn't surprise me since you're Berserker. Still, I had hopes for you as a fellow demigod, but I didn't expect you to be such a fool!\"\nThe Noble Phantasms appear.\nRoaring with laughter, the man commands the Noble Phantasms behind him.",
+      "sourceUnit": "凛ルート十三日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, I shall finish you off. It would be unpleasant for you to come any closer.\"\nAt his signal, the numerous Noble Phantasms attack the giant.\nThe giant repels a majority of them, and at the same time, a majority of them take his life.",
+      "sourceUnit": "凛ルート十三日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nThe black giant shakes.\nThe body of rock starts to fall.\nBut...\nThe giant holds out and shakes off the Noble Phantasms clinging all over his body.",
+      "sourceUnit": "凛ルート十三日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"What... The...?\"\nThe astonishment comes from that man.\nThe black giant gets rid of the swarm of Noble Phantasms and closes in on his enemy.\n...His body is already a corpse.\nThe black giant advances with what should be a hopelessly fatal wound.",
+      "sourceUnit": "凛ルート十三日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That is the result of a strong will.\nIt is not the madness due to being Berserker.\nThe giant is facing this hopeless battle with a strong will.",
+      "sourceUnit": "凛ルート十三日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... That stupid target that's only got its size going for it is still intact...!?\"\nThe magic bullets are fired mercilessly.\n\"\"\nRepelling them with his axe-sword, the giant closes in on the man with his body slashed and his legs pierced.",
+      "sourceUnit": "凛ルート十三日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe most likely won't reach the man.\nYet for him to still challenge himself while understanding that, he must have something that he cannot give up.",
+      "sourceUnit": "凛ルート十三日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "What is he moving forward for?\nThe Servant fights for his Master, to protect her life.\nThat is why that giant did not retreat.\nHe could only move forward as a shield to protect his Master behind him, the frightened girl, from the rain of Noble Phantasms.\nThe giant resumes his foolish advancement.\nIt is because he knew that he could only defeat that enemy while protecting Illyasviel by taking all the attacks himself.",
+      "sourceUnit": "凛ルート十三日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "And... If he is able to reach his enemy, then that is when he wins.\nIt was this kind of battle from the start.\nThe man has to kill the black giant before he reaches him,\nand the giant has to approach the man before his life ends.\nThis is a battle where whoever accomplishes their own goal first survives.",
+      "sourceUnit": "凛ルート十三日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "The giant is aware of that.\n...Even if that is...\nA battle that he had no chance of winning from the start.",
+      "sourceUnit": "凛ルート十三日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nHe lets out a roar.\nComing out of his tenth death, the black giant runs.\nHe charges towards the man, stirring up rubble, like a bull challenging a matador.",
+      "sourceUnit": "凛ルート十三日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"You servant...!\"\nNumerous arrows are released.\nDid he get used to it from the repeated deaths or was it his final charge?\nThe giant repels all the arrows,\nand closes in on the owner of the Noble Phantasms...!",
+      "sourceUnit": "凛ルート十三日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "The axe-sword is swung.\nThe strong sword that had not been swung at the man at all zips through the air with a flash...\n\"...Chain of the Heavens...!\"\nThe black bull is captured by the numerous chains that appear.",
+      "sourceUnit": "凛ルート十三日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "What kind of Noble Phantasm is it?\nThe chains that suddenly appeared in midair lock up Berserker as if binding space itself.",
+      "sourceUnit": "凛ルート十三日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nThe chains tighten Berserker's arms and twist them in every direction.\nAs the chains wrap around his whole body, they continuously get tighter and even try to squeeze his rock-like neck off with tension.",
+      "sourceUnit": "凛ルート十三日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...Geez, you still won't die?\nThese chains once bound the Bull of Heaven, but even they do not seem to be enough to finish you off.\"",
+      "sourceUnit": "凛ルート十三日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "The man's voice.\nThe hall is filled with the creaking sounds of the chains.\nIt must be Berserker's strength.\nThe giant tries to cut off the chains that control space itself.\nEven if it initially sounds impossible, there's no doubt that giant can accomplish it.\nAnd of course, the man understood that as well.",
+      "sourceUnit": "凛ルート十三日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Come back, Berserker...!\"\nThe girl screams.\nIllyasviel uses a Command Spell to command Berserker to retreat by force.\nBut, the giant is still captured by the chains and unable to move an inch.",
+      "sourceUnit": "凛ルート十三日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...? I told you to come back inside me, so why...?\"\n\"It's useless, you puppet. Not even the gods can escape these chains. No, the higher the divinity, the more they become prey. This was originally made just to discipline the gods. I will not allow teleportation through a Command Spell.\"",
+      "sourceUnit": "凛ルート十三日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nThe man points to the giant, as if to signal the end.\n\"Oh...\"\nAn astonished girl's voice.",
+      "sourceUnit": "凛ルート十三日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...It's over.\nThis time, it really ends.",
+      "sourceUnit": "凛ルート十三日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "Bounded by chains and therefore unable to defend himself, he gets annihilated by the Noble Phantasm twenty-two times.\nThe black giant goes silent as he is forced to assume the shape of what can only be described as a strange statue.",
+      "sourceUnit": "凛ルート十三日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...There's no need to even check whether he's breathing or not.\nEven if he is a great hero that overcame ten deaths, he should not be able to get back up after experiencing over twenty deaths.\n...Yes.\nEven if he is alive, the giant should not have enough strength to even breathe.",
+      "sourceUnit": "凛ルート十三日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "And the battle ends.\nIt was known from the start who was going to win.\n...Berserker could not win against that Servant.",
+      "sourceUnit": "凛ルート十三日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "No Servant can be a match for that man as long as they are a Heroic Spirit. Heroic Spirits each have their own weaknesses, which have been preserved from their time as living beings.\nBy extension, each Servant's origin story is their weakest point.\nThen... What would be the result of having a Heroic Spirit face off against someone who possesses all the Noble Phantasms, including the one that ended their life as a human?",
+      "sourceUnit": "凛ルート十三日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "This is the result.\nEven if he may have been stronger as a hero, he cannot win against that man as long as he's a Heroic Spirit...",
+      "sourceUnit": "凛ルート十三日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"No... No, Berserker...!\"\nThe ghostly white girl runs to the black giant that became a corpse.\nAnd...\nThe man mercilessly slashes the girl with the sword in his hand.",
+      "sourceUnit": "凛ルート十三日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe screams.\nThe man takes takes away the girl's vision with a single horizontal strike.",
+      "sourceUnit": "凛ルート十三日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nFor the next attack, the aim is to stab her heart.\nBut that misses.\nNo, he missed on purpose.\nThe girl is pierced in the lung, and she coughs up blood.",
+      "sourceUnit": "凛ルート十三日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "The chains are broken.\n\"...!!!!\"\nThe black giant breaks the chains and launches an attack on the man.\nThe man stabs the slow-witted target.",
+      "sourceUnit": "凛ルート十三日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "The spear pierces his heart.\nHe finishes off the giant with a spear similar to Lancer's Noble Phantasm, Gáe Bolg.\nThen it ends.\nThe black giant dies for sure this time.",
+      "sourceUnit": "凛ルート十三日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe sword is pulled out from the collapsed girl.\nLeaving traces of red behind, the girl crawls to the giant that is no longer moving.",
+      "sourceUnit": "凛ルート十三日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWatching in delight, the man walks forward.\nHe threw away his sword.\nHe will use his bare hands...\n...To finish off the dying girl.",
+      "sourceUnit": "凛ルート十三日目-04:page66:1"
+    },
+    "page67": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page68": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

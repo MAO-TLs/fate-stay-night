@@ -1,0 +1,72 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0645",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...\"\nMy body still feels heavy.\nI need to make lunch for Sakura, but right now I want to lie down for a little while and give my mind a break.",
+      "sourceUnit": "桜ルート十三日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI flop onto the futon and bury my head in the pillow.",
+      "sourceUnit": "桜ルート十三日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...I know.\nEver since that day, we've run out of time to stall any longer.\nI can't keep putting off the question.\nSakura.\nI need to decide what I'm going to do, right here, right no—",
+      "sourceUnit": "桜ルート十三日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou Emiya, I take it?\"",
+      "sourceUnit": "桜ルート十三日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Who's there!?\"\nI jump out of bed.\nA voice. I'm sure I heard a voice.\nIt came from within this room, very close by.",
+      "sourceUnit": "桜ルート十三日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh.\"\nA chill runs down my spine.\n...The scary thing is, I know the owner of the voice is in here, and I still have no idea where it is.",
+      "sourceUnit": "桜ルート十三日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Your caution is unwarranted. I am not here to kill you.\"\nSomeone whispers in my ear.\nThis voice.\nThe flowing yet robotic way of talking belongs to that skull-masked Servant.",
+      "sourceUnit": "桜ルート十三日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Assassin.\"\n...What a disaster.\nEven if he specializes at stealth, how'd he manage to slip through the house's Bounded Field and get this far without anyone noticing!?",
+      "sourceUnit": "桜ルート十三日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...You aren't here to kill me? Is this a social call, then?\"",
+      "sourceUnit": "桜ルート十三日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I search for the presence I felt behind me while judging the distance to the door.\nIt'll take three seconds to leap across the room to the hallway and dive into the yard.\nAssassin could kill me four times in that span of time.\n...Meaning that the only way to survive this is to entertain him.",
+      "sourceUnit": "桜ルート十三日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Not by me. My Lord Mage desires a meeting.\"\n\"Lord Mage? You mean Zouken?\"\n\"Yes. He is waiting for you at the Matou home. He has no desire to fight you. If you go alone, then I believe he will welcome you as a guest.\"",
+      "sourceUnit": "桜ルート十三日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Assassin's words are believable.\nIf his goal was to kill me, I would've been dead as soon as he entered the room.",
+      "sourceUnit": "桜ルート十三日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The fact that it hasn't happened yet means that Zouken wants to talk.\nWhat he wants to talk about and whether it's a trap are separate issues.",
+      "sourceUnit": "桜ルート十三日目-00:page12:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

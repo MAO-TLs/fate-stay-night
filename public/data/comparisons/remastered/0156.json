@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0156",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Victory goes to the one who makes the first move. I need to fight.\nI can't hide, and I don't have time for that anyway!\nI need to get back out there just as fast as I can and get back to Saber!",
+      "sourceUnit": "セイバールート十一日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The door opens.\nI push myself up against the wall, right behind the door.",
+      "sourceUnit": "セイバールート十一日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nThe scout opens the door, but doesn't enter the room.\n...Hold on.\nThe chair is visible from the entrance, even without coming in.\nWhoever is peeking in will know what's going on just from seeing the empty chair where I'm supposed to be sitting!",
+      "sourceUnit": "セイバールート十一日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah!\"\nCrap.\nIf they call for backup right now, escaping will get a lot harder.\nI'm just going to have to hurry out and take on whoever's on patrol!",
+      "sourceUnit": "セイバールート十一日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I push off from the wall and rush toward the door.\nAnd then...\nThey must have figured I was hiding, because they step into the room as soon as I jump out.",
+      "sourceUnit": "セイバールート十一日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...take that!\"\nNo chance of stopping now.\nWhoever I'm up against, I just need to knock them out and escape.\n\"Halt! If you comply, I may spare your...eh, Shirou!?\"",
+      "sourceUnit": "セイバールート十一日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI freeze.\nMy mind goes blank.\nThe very person I have to go save...is standing right in front of me.",
+      "sourceUnit": "セイバールート十一日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Saber!? How? Why are you here!?\"",
+      "sourceUnit": "セイバールート十一日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why? I should hardly need to tell you. Servants need not explain their need to protect their Masters. It is my duty to come to your aid, knowing you have been captured.\"",
+      "sourceUnit": "セイバールート十一日目-03:page8:1"
+    },
+    "page9": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート十一日目-03:page9:1"
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0466",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A high-pitched noise fills the air.\nA white blade clatters to the ground, scattering motes of light all around as it reflects the brilliant moonlight.\n\"...Hh...\"\nSticky blood coats his lips.\nA man falls to his knees on the stone steps, bidding farewell to his long sword as it sinks into the darkness.",
+      "sourceUnit": "桜ルート五日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "He will never pick up that sword again.\nHis coat is stained in blood, its newly dyed threads making it resemble a gallant, crimson flower.",
+      "sourceUnit": "桜ルート五日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"To think...that I'd meet my end...at the hands of some detestable fiend...\"\nThe man's lips seem like white bone in contrast to the fresh blood spilling from his belly.\nThe vital tremble of life has already left his throat.\nSasaki Kojirou's innards are already functioning as something else.",
+      "sourceUnit": "桜ルート五日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The mountain gate is quiet.\nNeither the Servant guarding it\nnor the newly appeared shadow\nmake a move.\nThe battle is already over.\nWhatever just swiftly ascended the stone steps defeated Assassin.\nThere was no time to cross blades or even acknowledge the enemy.\nWhatever it was, it was in a different dimension altogether.",
+      "sourceUnit": "桜ルート五日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The gatekeeper's body tears.\nHis torso is ripped apart. Without a weapon, Assassin cannot even end his own life.\nIt walks. Steadily, surely.\nThe shadow lovingly, or perhaps disdainfully, strokes the cheek of the Servant called Assassin.",
+      "sourceUnit": "桜ルート五日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "A spidery, ghoulish arm erupts from his shredded torso.\nBones entangle.\nMeat tears.\nHe feels the organs and entrails that once belonged to him morph into something else.",
+      "sourceUnit": "桜ルート五日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Zss!\"\nHe fights the surge of blood that threatens to burst forth.\nThe swordsman swallows it down, a genial grin playing across his lips.",
+      "sourceUnit": "桜ルート五日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Very well. Do as you wish. Whatever is born from my belly can surely be nothing good.\"\nEaten from within and deprived of a merciful death, he smiles.\nIt is a valiant gesture.\nHis lurid grin is even more fearsome than the birth of the abomination within him.",
+      "sourceUnit": "桜ルート五日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "And so, it is summoned.\nThe thing born from the blood and entrails of a false Servant is, unmistakably, an Assassin.\n\"Kii... Kikikikikikiii...!\"\nIts birthing cries resemble the chitter of insects.\nThe insect that emerges from the swordsman's body greedily devours its womb.",
+      "sourceUnit": "桜ルート五日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "It cackles as it carves,\nchortles as it chews.\nWith each bite of flesh, the dark insect becomes increasingly man-shaped, its unformed brain gaining human knowledge.\nThe feast continues for half an hour.\nThe new Assassin studiously slurps up every last drop of blood, celebrating its birth on now spotless stone steps.",
+      "sourceUnit": "桜ルート五日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Its only witnesses are the chorally chittering swarms of insects in the brush and the bright, voluminous moon.\nThe shrill birthing cries fade.",
+      "sourceUnit": "桜ルート五日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "—It is an ill moon.\nThe white skull sneers at the scorched-black night.",
+      "sourceUnit": "桜ルート五日目-12:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

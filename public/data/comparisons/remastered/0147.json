@@ -1,0 +1,392 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0147",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The moment she reaches the rooftop...\nSaber confronts her opponent's true form.",
+      "sourceUnit": "セイバールート十日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaa...haaa...ha...ah!!!\"\nSaber leans on her sword, exhausted, and looks up.\nThe white light rushes toward her.\nSaber unleashes the wind that shrouds her sword, using it to create an invisible barrier.\nShe goes flying backward.\nHer attempt to block the onrushing Pegasus fails to even slow it down.",
+      "sourceUnit": "セイバールート十日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...!\"\nThe force of the impact knocks Saber back, slamming her brutally into the ground.\nThere's no time to be lying down.\nPegasus turns midair and resumes its glide without so much as pausing.",
+      "sourceUnit": "セイバールート十日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Fu...!\"\nShe can't possibly brace herself.\nHer only option is to try to evade.\nEven if she manages that, the aftereffects of its passage will chip away at her defenses.\nIf this keeps up, it will hit her eventually.",
+      "sourceUnit": "セイバールート十日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The white light streaks down toward her.\nPegasus sails far over head and knocks Saber backward before sweeping back into the skies.\nSaber can't possibly reach it.\nThere are no walls she can kick off of, not up here. Even if she could, there's no way she could actually reach Pegasus.",
+      "sourceUnit": "セイバールート十日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaa...hah...ha...\"\nDespite her disadvantage, Saber waits for an opportunity to fight back.\nPegasus it may be, but it's a living creature, so she should still be able to kill it if she can just get a chance.\nHer only opportunity for victory is if Rider makes a mistake at the reins.",
+      "sourceUnit": "セイバールート十日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a surprise. You are tougher than I expected.\"\nRider's voice comes from high above.\nSaber grips her sword tightly as she looks up.",
+      "sourceUnit": "セイバールート十日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"But is there any point to any of this? You have no chance of winning. If you're to disappear, I suggest you at least do it gracefully.\"\nRider's voice is calm.\nEven so, I hear just the slightest bit of joy in it.",
+      "sourceUnit": "セイバールート十日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. I expected you to have a Phantasmal species, but I didn't expect you to have this, Rider.\"",
+      "sourceUnit": "セイバールート十日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "A Phantasmal species.\nAs the name suggests, it refers to creatures which exist within an illusion.\nHumanoids, like faeries and giants...\nDemonic creatures, like oni and dragons.\nIf they are considered Mystics, that alone makes them superior to magecraft.",
+      "sourceUnit": "セイバールート十日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It's the law of nature for Mystics to be destroyed by other, stronger Mystics.\nIn the same way magecraft grows in power with knowledge,\nPhantasmal species accumulate power from their longevity.\nEven if a human masters magecraft, the most they can accumulate is about five hundred years' worth of it.\nTake a species that's lived since ancient times. There's just no contest between that and a Mystic that's only five hundred years old.",
+      "sourceUnit": "セイバールート十日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "But it's been a long, long time since humans and Phantasmals existed in the same world.\nThe longer the Phantasmal has lived, the further it's distanced itself from this world.\nThe only Phantasmal species in the modern world are a scant few hundred years old.\nSo, Saber expected the Phantasmal Rider has as her mount to be only a few hundred years old.",
+      "sourceUnit": "セイバールート十日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...You must be truly wicked if you thought to bring something from the Age of Gods here, Rider.\"\n\"Yes. I am different from you all. That is, I was merely an enemy for you, and so now I control only the poor things you people cast out in the distant past.\"",
+      "sourceUnit": "セイバールート十日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I knew there was something twisted about you. So you are a demonic spirit rather than a Heroic Spirit.\"\n\"Hmph. Curse me all you want. It doesn't matter. You won't be able to lay so much as a finger on my darling here.\"\nThe Pegasus rests its wings in the air.\nIt's a giant arrow, aimed at Saber's heart, ready to fire at a moment's notice.",
+      "sourceUnit": "セイバールート十日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe glares at the creature and thinks:\nPegasus itself is not a powerful Phantasmal species.\nA typical Pegasus is just a Phantasmal that can only match a Demonic Beast in power.\nWere that the case, it would be easy to defeat with Saber's Invisible Air alone.",
+      "sourceUnit": "セイバールート十日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "But it isn't the case.\nThat Pegasus has existed since the Age of Gods, and has long since reached the level of a Phantasmal.\nThe horse is nearing the level of the dragon race, considered to be the strongest of all Phantasmals.",
+      "sourceUnit": "セイバールート十日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "At the very least, its defenses are probably already at the level of a dragon race...\n...since Pegasus possesses divine protection that exceeds even Saber's, whose magic resistance is unparalleled.\nThe way it glides through the air, trailing massive amounts of magical energy, is like a castle wall bearing down on Saber.\nIt can't be possible to avoid or repel something like that.",
+      "sourceUnit": "セイバールート十日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "But something else is odd here.\nRider simply summoned Pegasus, and it has no True Name of its own.\nTo Rider, Pegasus is little more than, say, a favorite dagger.\nAnd that means she has yet to use her Noble Phantasm.",
+      "sourceUnit": "セイバールート十日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nEven in her dire predicament, the possibility of defeat never enters Saber's mind.\nInstead, she thinks her chance will come when Rider really starts to get serious.\nWhatever Rider's Noble Phantasm may be, it'll have no trouble destroying a building like this.\nShe just needs to focus on defending herself, on staying alive. Then all she'll have to do is cut Rider down as soon as an opportunity presents itself.",
+      "sourceUnit": "セイバールート十日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Yes...\nIf only her Master hadn't shown up...",
+      "sourceUnit": "セイバールート十日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nI look up towards the sky.\nFlapping wings. I hear flapping wings.\nSomething, a paler and more blinding white than the light of the moon, hovers over me.\nIt is...\nA legendary Mystic I've only heard about in myth.",
+      "sourceUnit": "セイバールート十日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"A...Pegasus...?\"\nThe identity of Rider's Noble Phantasm.\nCould that be what scorched the rooftop and forced Saber to her knees?\nI see that Rider is, as her class name suggests, riding a horse, tearing across the sky.",
+      "sourceUnit": "セイバールート十日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...!?\"\nI shift my focus from Rider.\nI thought I heard something...\n\"Shinji!? I know you're here. Come on out!\"",
+      "sourceUnit": "セイバールート十日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I can't tell how strong Rider is while she's on Pegasus.\nAll I can tell is that white fiend has more magical energy in it than a few hundred mages could muster.",
+      "sourceUnit": "セイバールート十日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "No wonder the roof is a charred mess.\nThat monster can destroy damn near anything around it just by running across it.\nIf that thing charges from up in the sky, even Saber won't be able to avoid it.",
+      "sourceUnit": "セイバールート十日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Quit hiding! I came here, like you asked. So show yourself!\"\nIt's a race against time.\nI need to defeat Shinji. If I defeat the Master, Rider will disappear!",
+      "sourceUnit": "セイバールート十日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. Haha...ahahaha...ahahahahahahaha!\"\nI hear laughter.\nShinji must be hiding somewhere.",
+      "sourceUnit": "セイバールート十日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji!!!\"\n\"Did you see that, Emiya? This is the difference between my power and yours!\"\nOnly his voice echoes.",
+      "sourceUnit": "セイバールート十日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...!\"\nI fight down my impatience and try to focus on the sound of his laughter.\n...Damn, the wind's so strong!\nI can't tell where the laughter's coming from!",
+      "sourceUnit": "セイバールート十日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Sucks for you! This is what you get when you try to be all cool and act like it's all under control, dumbass! Now do you understand that you have to go for the kill when you have the chance!?\"",
+      "sourceUnit": "セイバールート十日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji...!\"\nDon't rush.\nLet him talk. Let him talk all he wants. The more he talks, the better chance I have of finding him.",
+      "sourceUnit": "セイバールート十日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"But I'm not like that. You and your Servant are done for, here and now. But, it's not like we're total strangers, y'know?\nI still owe you one from yesterday, so I'll be merciful, and kill you quickly!\"",
+      "sourceUnit": "セイバールート十日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh!\"\nThis is bad.\nPegasus, still high up in the sky, tips its head toward Saber.\nThe vortex of magical energy whirls faster, as if it knows no limit.\nIf that thing comes at us at full speed, it'll blow the entire roof apart!",
+      "sourceUnit": "セイバールート十日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry, Emiya. You were a bit of a speed bump along the way, but I'll make sure those morons at school join you soon. And if you're still lonely after all that, I'll send Sakura to join you, too!\"",
+      "sourceUnit": "セイバールート十日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Why you... Shinji!\"\n\"Go, Rider!\nTake the woman first. Don't leave a trace!\"",
+      "sourceUnit": "セイバールート十日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Gn...Saber!!!\"\nA white comet streaks toward us.\nAnd at that moment...\n...a storm rages around me.",
+      "sourceUnit": "セイバールート十日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber!!!\"\n\"What...!?\"\nFor the first time, she forgets her enemy in battle.\nShe is furious with her Master for walking into this death trap.\nBut she's also angry with herself for failing to anticipate him doing so.",
+      "sourceUnit": "セイバールート十日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "All those thoughts are cast aside now.\nWhat else can she do?\nEven now, even in the midst of danger, she can see only concern for her well-being in his eyes.",
+      "sourceUnit": "セイバールート十日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...\"\nHe's always been like this, actually...\nHe may have understood that she was an exceptional knight...\n...but that's never how he saw her.",
+      "sourceUnit": "セイバールート十日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"It appears playtime is over, Saber.\"\nRider's giggling voice reaches her even now.\nRider touches Pegasus's neck with both her hands, and the beast's wings beat harder.",
+      "sourceUnit": "セイバールート十日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"My Noble Phantasm is powerful, but it is not suitable to be used on the ground. If I use it, it will draw attention. With other Masters still around, I could not do so readily.\nBut up here, there is no cause for worry.\nDid you understand that I bought you up here because it suited me?\"",
+      "sourceUnit": "セイバールート十日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Something begins to form in Rider's hands.\nIt seems insignificant, really: a glittering, golden rope.",
+      "sourceUnit": "セイバールート十日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that your Noble Phantasm, Rider?\"\n\"Yes. Distasteful though it is...\nMy darling here is too kind, not fit for battle. And so I need something like this to get them in the mood.\"\nPegasus lowers its head.\nThis feral nature is not inborn within the creature itself, but coaxed from it by Rider's touch.",
+      "sourceUnit": "セイバールート十日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Begone, Saber.\nEven if you survive, your Master has no chance. So long as your Master dies, you will follow him. No?\"",
+      "sourceUnit": "セイバールート十日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "It is the inarguable truth.\nRider's Noble Phantasm will utterly destroy the roof.\nIf she hurried, she might be able to carry Shirou away and escape, but Rider won't stop at just destroying the rooftop.\nHer Master is not strong enough to survive a collapsing building.\nMeaning, to protect her Master...\n...she will have to destroy her enemy, Pegasus and all.",
+      "sourceUnit": "セイバールート十日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe doesn't have time to think about whether this is the right thing to do.\nSaber glances one final time at her Master, still some distance from her.\nHe is doing his best to fill his role simply by gritting his teeth and keeping back.",
+      "sourceUnit": "セイバールート十日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"O wind...\"\nThe last of her hesitation fades.\nWhat is ahead no longer matters.\nAll that matters is this moment. And in it, she must be her Master's blade, and defeat the enemy they now face.",
+      "sourceUnit": "セイバールート十日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Go, Rider! Get that woman first. Don't leave any trace of her!\"\nI hear the jarring, grating shout.\nIn that moment, Pegasus ascends higher...\n...and vanishes from sight.\nPegasus flies up into the air; it's already lost its form.\nIt rises up as if to shoot through the moon, and then continues its arc by flapping its wings, powering itself down toward the ground.\nThe blazing white comet streaks downward.\nIt becomes an arrow of searing white light, but Rider continues urging it on.\nThere's only one target.\nIt intends to annihilate its enemy entirely...and the isolated garden in the sky along with it!",
+      "sourceUnit": "セイバールート十日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Bellero...\"\nShe speaks his name.\nIf a Noble Phantasm is the miracle that is released by speaking its True Name...\n\"...phon!!!\"\nIt is divine lightning.",
+      "sourceUnit": "セイバールート十日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "A thunderous flash.\nThere is no emotion in her eyes as she looks on.\n\"You said nobody would see from this vantage, didn't you, Rider!?\"\nThe wind unfurls from her blade...\n...and becomes a storm.\n\"I agree. There's no need to worry about destroying the ground from so high up!\"",
+      "sourceUnit": "セイバールート十日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "The seal is broken.\nLayers of wind unfold from her blade.\nHer sword is finally visible.",
+      "sourceUnit": "セイバールート十日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "A storm rages before my eyes.\nThe white light descends upon the rooftop.\nSaber, though she is the sole focus of that light, doesn't move.",
+      "sourceUnit": "セイバールート十日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber!?\"\nThe raging wind... She's the source.\nNo, not Saber herself. Her sword!",
+      "sourceUnit": "セイバールート十日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\nI can't believe what I'm seeing.\nThe blade should be invisible, but there it is.\nLike unwrapping bandages, the wind slowly coils away from her blade.",
+      "sourceUnit": "セイバールート十日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"A golden...sword!?\"",
+      "sourceUnit": "セイバールート十日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "The wind rages on.\nThe multiple layers of seals peel away.\nThe bands of wind dissolve into the air.\nShe readies her now-visible sword and turns back towards Pegasus as it dives towards her.",
+      "sourceUnit": "セイバールート十日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Rider approaches as a brilliant flare of light.\nBellerophon is now large enough to engulf the entire rooftop, and is only picking up speed to destroy us, building and all.",
+      "sourceUnit": "セイバールート十日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "The Bridle of Chivalry lights up the rooftop.\n...\nTime stops.\nIn the face of inescapable destruction, my mind goes blank.\nBut the light...\n...is not coming from the Bridle of Chivalry.",
+      "sourceUnit": "セイバールート十日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "The light churns and builds upon itself.\nThe light of Rider's mount is brilliant, but it can't hold a candle to the purity I see in this one…\nSaber is holding...\n...the ultimate sacred sword that has collected the lights of the stars.",
+      "sourceUnit": "セイバールート十日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"EX...\n...CALIBUR!!!\"",
+      "sourceUnit": "セイバールート十日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "A single line of brilliant light.",
+      "sourceUnit": "セイバールート十日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "It's...a blade of light, shearing through everything it touches.\nThe beam of light destroys Rider utterly as it cleaves through the clouds and disappears into the night sky.\nMost likely...\n...if that sword had been used on the ground, it would have carved a trail of devastation through the city.",
+      "sourceUnit": "セイバールート十日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Her sword is not \"unseeable.\"\nIt simply does not reveal itself.\nIt is the golden sword that captivates all who behold it, with a True Name of surpassing fame.",
+      "sourceUnit": "セイバールート十日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Excalibur...the Sword of Promised Victory.\nA sword that is said to have existed in England; a sword wielded by the king who has become the very symbol of knighthood.\nThe strongest of the Servants' Noble Phantasms, sealed by several Bounded Fields.\nThat is Saber's proof of her place as a hero.",
+      "sourceUnit": "セイバールート十日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Silence falls over the rooftop.\nThe wind has died down, and not so much as a breeze whispers across the rooftop.",
+      "sourceUnit": "セイバールート十日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stand, dazed, in place. I can't approach Saber.\nI'm still too confused to act...or maybe I'm just captivated by her sword.\nMy mind is racing, and I can't seem to think of much that makes sense.",
+      "sourceUnit": "セイバールート十日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "Why does she have that sword?\nThat golden sword belongs to a famous, knightly king. Everyone knows who...\nAs I try to figure out how she came to have something like that, I realize my mind is doing everything it can to deny the simplest of the possible answers.",
+      "sourceUnit": "セイバールート十日目-04:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...I don't need to be making all these assumptions.\nThat sword's always been hers.\nAnd that's why her True Name is so easy to figure out.\nThe owner of that sacred sword can have only one name.",
+      "sourceUnit": "セイバールート十日目-04:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber remains motionless where she stands.\nI should approach her, but my body won't listen.",
+      "sourceUnit": "セイバールート十日目-04:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I've been told so many times that Saber is a Heroic Spirit.\nBut now that I've seen for myself that she is indeed a great hero of the past, I hesitate to even get closer to her.",
+      "sourceUnit": "セイバールート十日目-04:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Aaagh!\"\nI hear a shriek.\nSomething is burning in the shadows.",
+      "sourceUnit": "セイバールート十日目-04:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "I turn to look.\nI see a burning book, slowly dissolving into a pile of ash, and...",
+      "sourceUnit": "セイバールート十日目-04:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ah...aaaahhh!!! It's burning! My Command Spells are burning...!\"\nI see Shinji cringing as he watches the book burn.",
+      "sourceUnit": "セイバールート十日目-04:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shinji.\"\n\"Aaagh! Ha...ah...\"\nHe must have realized how much trouble he's in now that Rider has been defeated.\nShinji turns and sprints toward the exit from the rooftop.",
+      "sourceUnit": "セイバールート十日目-04:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey!\"\nHe leaps through the door to the stairway.\n\"Wait, Shinji!\"",
+      "sourceUnit": "セイバールート十日目-04:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "I can't let him get away again.\nThe moment I turn to pursue Shinji...\n...just out of the corner of my eye...\n...I see Saber collapse.",
+      "sourceUnit": "セイバールート十日目-04:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind stops.\nShinji is fleeing, and Saber has fallen to the ground.\nI should...",
+      "sourceUnit": "セイバールート十日目-04:page76:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

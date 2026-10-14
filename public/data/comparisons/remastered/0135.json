@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0135",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Please come.\"",
+      "sourceUnit": "セイバールート九日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I murmur those words like a prayer.\nMy life doesn't matter anymore.\nBut to put a stop to this savage brutality...\n\"No...COME...SABER!!!\"\nI muster up all my strength and call for my blade.\nOne of my Command Spell strokes disappears.\nAt that very moment, the space around me begins to waver.",
+      "sourceUnit": "セイバールート九日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "So this is magic.\nSaber, clad in her silver armor, bursts through the ripples in space and time to appear before me.",
+      "sourceUnit": "セイバールート九日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah...ha...!\"\nMy back slams into the ground.",
+      "sourceUnit": "セイバールート九日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ha...aaahhhh...!\"\nI stop breathing.\nThe force of impact jars every bone and organ in my body.\nSeveral ribs crack, or probably break outright.",
+      "sourceUnit": "セイバールート九日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...hh...ggh!\"\nAnd yet...\n...my body is intact. My bloody arms are still attached.",
+      "sourceUnit": "セイバールート九日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou!\"\nSaber runs to me.\nForcing my numb limbs to move, I push to my feet to show her that I'm all right.",
+      "sourceUnit": "セイバールート九日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"There's no time to explain. You understand what's happening, right, Saber?\"\n\"Please wait, Shirou. I do understand, but first, your body must—\"\n\"Take care of Rider. Only you can beat her.\"",
+      "sourceUnit": "セイバールート九日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot. Treating you is my first priority. You will not survive these wounds.\"\n\"No. There's something else that needs doing first.\"\nWe need to beat Shinji and Rider. As quickly as possible.\nNothing is more important.",
+      "sourceUnit": "セイバールート九日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"But if I do that...\"\nSaber is focused only on me.\nI'd be lying if I said I wasn't happy about that.\nBut there's no time to argue.\nIf Saber doesn't want to listen, I just need to use my second Command Spell.",
+      "sourceUnit": "セイバールート九日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hn.\"\nShe must have understood my resolve.\nSaber reluctantly accepts my decision.",
+      "sourceUnit": "セイバールート九日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. Master, your orders.\"\n\"Defeat Rider. I'll handle Shinji.\"\nSaber does not hesitate.\nShe nods and, without another word, turns toward the school building like a whirlwind.",
+      "sourceUnit": "セイバールート九日目-09:page11:1"
+    }
+  }
+}

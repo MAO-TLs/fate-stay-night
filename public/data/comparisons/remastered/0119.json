@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0119",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sun is setting, so today's training ends.\nI'm practically at my limit, and I still have magecraft lessons from Tohsaka tonight.\nI failed to land a blow on Saber like I'd hoped, but I should save at least some energy for tonight.",
+      "sourceUnit": "セイバールート七日目-21:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's also my turn to prepare dinner tonight.\nSaber went to wash up after me, so she won't be back for a while.",
+      "sourceUnit": "セイバールート七日目-21:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home! Oh, I see you're making dinner, Shirou.\nGood, good. Admirable.\"",
+      "sourceUnit": "セイバールート七日目-21:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee bursts into the living room, practically a bundle of energy, and immediately dives onto a cushion on the floor.\nUnlike Saber, who needs to sleep over half the day, Fuji-nee is like this all day, every day.\nI bet it's no different when she's asleep.",
+      "sourceUnit": "セイバールート七日目-21:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Shirou! Can I have this apple?\"\nShe's holding one of the many apples on the table.",
+      "sourceUnit": "セイバールート七日目-21:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure. There are a bunch, as you can see. Everyone should eat three a day.\"\n\"Really? Then let's make an apple pie. And by 'we' I mean you.\"",
+      "sourceUnit": "セイバールート七日目-21:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee takes a casual bite of the apple as she makes her suggestion.\nI had put some apples I'd already washed out on the table, but I guess she's not the sort to care.",
+      "sourceUnit": "セイバールート七日目-21:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...What a waste of the get-well gift...\"\nMisunderstanding or no, shouldn't she be a little more considerate about the gift my friend gave me out of concern?\nFor once, I should give her a piece of my mind.",
+      "sourceUnit": "セイバールート七日目-21:page7:1"
+    }
+  }
+}

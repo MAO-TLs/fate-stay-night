@@ -1,0 +1,126 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0347",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I shop at the tofu shop first thing in the morning under the clear blue sky.\nI buy three blocks of silken tofu with the three hundred yen that was on the table.\n\"Oh, how commendable of you to come on a Sunday, Shirou!\"\nI go home drinking the soy milk that the second-generation tofu shop owner had given me for free.",
+      "sourceUnit": "凛ルート十一日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I'm content.\"\nThis is perfect.\nIt is a morning that feels good with nothing to complain about situation-wise.",
+      "sourceUnit": "凛ルート十一日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...But, I feel like I got ripped off...\"\nI tilt my head in wonder and look up at the sky.\nA big serving of tofu and a sixty yen soy milk.\nI don't think you can easily find things that can compare to this happiness.",
+      "sourceUnit": "凛ルート十一日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I take my time to walk back home and ponder how to use the tofu for twenty minutes.\nBefore I realized it, it was 8:30 AM.",
+      "sourceUnit": "凛ルート十一日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Shirou. You are at ease this morning.\"",
+      "sourceUnit": "凛ルート十一日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? Oh, morning, Saber. I can relax since it's Sunday and there's no school today. My body feels good too, so let's go to the dojo after breakfast.\"\n\"Yes, that would be great. So your numbness has healed?\"",
+      "sourceUnit": "凛ルート十一日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, come to think of it, yeah.\nI was able to walk comfortably from the shopping district, so it seems mostly healed... Well, it's still slightly heavy, but it should be fully healed by tomorrow.\"",
+      "sourceUnit": "凛ルート十一日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"That is good. I have no place if my Master is still wounded. It makes me relieved to see you standing in the kitchen as usual.\"",
+      "sourceUnit": "凛ルート十一日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber takes a seat at her usual position beside the table.\nI have to say that Fuji-nee and Tohsaka are sleepyheads for not waking up yet, but it's a weekend, so I should let them sleep until breakfast is ready.",
+      "sourceUnit": "凛ルート十一日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Rin. It seems you were able to sleep well last night.\"\n...Oh.\nIt looks like Tohsaka woke up while we were talking.",
+      "sourceUnit": "凛ルート十一日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Morning. Not really. The sunlight was bright, and there were some people moving about even past midnight.\"\nTohsaka replies to Saber while entering the living room.",
+      "sourceUnit": "凛ルート十一日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Well.\nI don't want to complain first thing in the morning, but I need to at least find out why she took all the bread.",
+      "sourceUnit": "凛ルート十一日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning, Tohsaka. This is straight to the point, but about this morning...\"\nMy breath stops.\nTohsaka's wearing unfamiliar clothes again first thing in the morning.",
+      "sourceUnit": "凛ルート十一日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof...\"\nMy heartbeat rapidly increases.\n...It's because of those bright red clothes.\nIt hurts my eyes so much that I completely forgot what I wanted to say.",
+      "sourceUnit": "凛ルート十一日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm making breakfast. Have some tea while you're waiting.\"\nI keep my calm and place two teacups on the table.\nHowever...",
+      "sourceUnit": "凛ルート十一日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you taking your time? We're going out today, so hurry up and get ready.\"\nTohsaka glares at me, as if to say that breakfast can come later.",
+      "sourceUnit": "凛ルート十一日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Um, where are we going?\"\n\"To the neighboring town. Actually, I want to go further, but we don't have the leisure, right? So it's a compromise.\"",
+      "sourceUnit": "凛ルート十一日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nIs this some sort of pre-emptive strike?\nI can't seem to grasp Tohsaka's intentions.",
+      "sourceUnit": "凛ルート十一日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I get that it's a compromise, but for what?\"\n\"We're going to go have fun, of course. It's a date.\"",
+      "sourceUnit": "凛ルート十一日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"A date... Who and who?\"\n\"You and I.\"\nShe says clearly.\n\"...?\"\nAfter I tilt my head in wonder...",
+      "sourceUnit": "凛ルート十一日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"D-DATE... ME AND TOHSAKAAAAAAA!?\"\n\"Who else is there? I told you last night.\"\n...\nHold on.\nWhat? This is so sudden. My mind can't process everything that's happening!",
+      "sourceUnit": "凛ルート十一日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, let's go. I figured this would happen, so I made lunch. Here, hold this and follow me.\"\nTohsaka pushes the green tote bag onto me and leaves the living room.",
+      "sourceUnit": "凛ルート十一日目-10:page21:1"
+    },
+    "page22": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page23": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

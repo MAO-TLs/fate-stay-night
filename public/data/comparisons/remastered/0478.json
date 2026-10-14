@@ -1,0 +1,156 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0478",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right, I...\"\nI bought some dorayaki the other day on impulse. They're little pancakes filled with red bean jam.\nI hid them so that Fuji-nee wouldn't eat them right away, but nearly forgot about them, too.",
+      "sourceUnit": "桜ルート六日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? What are you looking for in the refrigerator?\"\n\"Just a little something as a reward for your work.\"",
+      "sourceUnit": "桜ルート六日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I dig through the lowest part of the refrigerator, beneath all the vegetables.\nIt's a hiding place I've used for years, burying the treats deep enough that Fuji-nee won't find them, but not so deep that they won't be discovered before their expiration date.",
+      "sourceUnit": "桜ルート六日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Senpai, why is there a Edomaeya bag in the vegetable cabinet?\"\nSakura stares at the paper bag with a mixture of surprise and anticipation.",
+      "sourceUnit": "桜ルート六日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "By the way, Edomaeya is a bakery in the shopping district. They're famed for their taiyaki buns, dorayaki pancakes, and takoyaki octopus bites.\nThe prices are low enough that even kids can afford to eat there, and it's incredibly popular with the students at school thanks to their customer service and generous portions of red bean jam.\nOn top of that, I know Sakura is very fond of their taiyaki.",
+      "sourceUnit": "桜ルート六日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-there's a lot. I assumed you just put extra potatoes in that bag.\"",
+      "sourceUnit": "桜ルート六日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the idea. I camouflaged them so well that even I forgot about them, but I set them up so that we'd find them once we used up the carrots.\"\nI take out the ticking time bombs (as far as Fuji-nee is concerned).",
+      "sourceUnit": "桜ルート六日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"On that note, let's have Edomaeya's dorayaki with tea after lunch. Or should I wait until afternoon tea at 3 o'clock?\nWe just ate, so maybe you don't have an appetite yet?\"\nIn any case, I put the bag of dorayaki on a tray, so that we don't forget about it.",
+      "sourceUnit": "桜ルート六日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... A-are you full, Senpai?\"\n\"I'm stuffed. Lunch was so good I had seconds. I don't think I'll be hungry for a while.\"",
+      "sourceUnit": "桜ルート六日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"R-right. That's what I thought, too!\nThen, um, I guess we'll have to save them for later—\"\n\"We're not eating them now? I still have plenty of room.\"",
+      "sourceUnit": "桜ルート六日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Well, looks like someone's still hungry. You ate as much as Sakura did, so I'm impressed.\"\n\"I'm simply curious, rather than hungry. Sugar is an obvious source of energy, and I have never heard of this local confection you call 'dorayaki.'\"",
+      "sourceUnit": "桜ルート六日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...Now I get it.\nSaber's a European, so desserts such as dorayaki and youkan must be curiosities.",
+      "sourceUnit": "桜ルート六日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then I'll brew the tea. There's too much for Saber to eat by herself, so we can set the extra dorayaki aside for 3 o'clock.\"\n\"Ah—Senpai, I don't mean to be rude, but how many dorayaki did you buy...?\"",
+      "sourceUnit": "桜ルート六日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Five, I think. I was thinking we could each have one, and then split the rest into halves that anyone can help themselves too.\"",
+      "sourceUnit": "桜ルート六日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That would allow one to eat three whole pieces at most.\"\n\"Yeah. But you'd feel sick after eating three dorayaki, right? ...Okay, you would probably be fine.\"",
+      "sourceUnit": "桜ルート六日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I take the tray back to the living room.\nTo show my appreciation for the two people doing the bulk of the cleaning, I ready the dorayaki and tea.",
+      "sourceUnit": "桜ルート六日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"We're finished, Shirou. So this is dorayaki.\"\n\"Huh?\"\nShe's already here.\nSaber is seated on a cushion, eyeing the tea tray hungrily.\nSakura also finishes washing the dishes, and gracefully sits down with us.",
+      "sourceUnit": "桜ルート六日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? What happened?\"\n\"Nothing at all. I'm full, just like you, Senpai.\"\n\"...?\"\nI don't really get it, but I pour three cups of tea anyway.",
+      "sourceUnit": "桜ルート六日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I shall help myself, then.\"\nWith a brief formality, Saber reaches for the dorayaki.\nThe bout is over in an instant.\nAfter a hesitant first bite, Saber wordlessly takes a second, then third bite of the dorayaki.\nThe sweetness doesn't seem to bother her, and she contines unabated, until she completely devours the first dorayaki.",
+      "sourceUnit": "桜ルート六日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I see now. It is a simple food, but a fine complement to tea.\"\nShe takes another graceful sip of tea, then reaches unerringly for the second dorayaki.\nSakura anxiously watches this all happen.",
+      "sourceUnit": "桜ルート六日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWait...\nIs Sakura fidgeting because...\n\"Hm. It is indeed hard to stop at just one.\"\nSaber munches on a second treat, then reaches for a third.",
+      "sourceUnit": "桜ルート六日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, Saber. Leave the rest for now.\"\n\"Hm? Yes, well, I was only going to eat the extra portion. I don't mind, but will you be having the rest?\"",
+      "sourceUnit": "桜ルート六日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I'll eat them with Sakura. I'll take one, Sakura will have one, and the last one...\"\nI tear the third dorayaki in half.\n\"...We'll split like this. Is that all right, Sakura?\"\n\"Yes, of course! I can eat them right now!\"",
+      "sourceUnit": "桜ルート六日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I knew it.\nSakura was trying to be polite.\nShe's always ready for a dorayaki or two.",
+      "sourceUnit": "桜ルート六日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Then we'll eat these. I worked up an appetite after watching Saber.\"\n\"I agree! I'm sure we can finish them all!\"\nSakura picks up a dorayaki enthusiastically.\nShe loves dorayaki, though not quite as much as taiyaki.",
+      "sourceUnit": "桜ルート六日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Still...\"\nOf course, I'm happy as the person who bought them.\nBut I hope Sakura doesn't regret this moment on the bathroom scale later.",
+      "sourceUnit": "桜ルート六日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "After my break, I feel much better.\nMy fever seems to have been due to fatigue, so I'm back to normal after resting for half a day.",
+      "sourceUnit": "桜ルート六日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, will you use the rest of the afternoon to train?\"\nI nod at Saber.",
+      "sourceUnit": "桜ルート六日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Even though I've just gotten over an illness, I don't want to waste time.\nI can't improve my magecraft in a few days, but I can work on my combat skills.\nHaving Saber train me until dinner should be a good use of my time.",
+      "sourceUnit": "桜ルート六日目-07:page28:1"
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

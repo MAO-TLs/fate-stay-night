@@ -1,0 +1,431 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0071",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I sit at the edge of the veranda and mindlessly look up at the blue sky.\nI may not be sleeping during the day like Saber, but I still need rest.",
+      "sourceUnit": "セイバールート四日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I'm not nauseous anymore, but I still feel terrible.\nOn top of that, all the unexpected things that have happened are weighing heavily on me.",
+      "sourceUnit": "セイバールート四日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew.\"\nI take a deep breath and look blankly out over the yard.\nI asked about everything I needed to know, and I got answers, but I'm no less lost for it.\nAnd yet Tohsaka, my senior as a mage—or rather, a full-fledged Master, is completely nonchalant about the whole situation.",
+      "sourceUnit": "セイバールート四日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, do you have any extra cushions around? Also beakers and a protractor?\"\nShe's busy scouring the house for stuff.",
+      "sourceUnit": "セイバールート四日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Take any cushion you want from the guest room.\nBut a normal house doesn't have beakers or protractors.\"\n\"Are you serious? A mage should always keep experimental tools around.\"\nComplaining loudly, she turns and heads back toward the detached building.",
+      "sourceUnit": "セイバールート四日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka's really serious about getting herself situated here.\"\nAnd the matter of her staying overnight seems to also be settled.\nWhen I peeked into the detached building earlier, she'd already picked out the best room for herself.\nShe'd even put up a sign that read:\n\"Remodeling in progress. Do not enter.\"",
+      "sourceUnit": "セイバールート四日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I guess it won't be an issue since the detached building is far away enough.\"\nHaving Saber around already has me on edge, but if Tohsaka were close too, there'd be nowhere for me to relax anymore.",
+      "sourceUnit": "セイバールート四日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The detached building is far enough, and even though it's connected by a corridor, it feels like it's a neighboring house. As long I keep my distance, nothing bad should happen.",
+      "sourceUnit": "セイバールート四日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Oh, but I guess we'll see each other during meals.\nAnd there's only one bath here, so we'll have to decide when each of us will use it. Wait a minute...Saber's a girl too, so...\n\"Idiot! What the hell am I thinking!?\"\nI shake my head violently, and slump back onto the floor.",
+      "sourceUnit": "セイバールート四日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnn...\"\nWith what must be my millionth sigh today, I stare blankly up at the sky.\nI'm getting drowsy... Must be more tired than I realized.\n\"Argh. Whatever...!\"\nI just go ahead and close my eyes.",
+      "sourceUnit": "セイバールート四日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Apparently, not caring at all works wonders.\nThe moment I close my eyes, I drift right off to sleep.",
+      "sourceUnit": "セイバールート四日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The next thing I know, the sun has long since set, and Saber, Tohsaka, and I have gathered around in the living room.\nI've only just woken up.\nAnd Saber is already in the living room.\nAnd Tohsaka had just finished remodeling her room.",
+      "sourceUnit": "セイバールート四日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "By the way...\nThis is what the guest room looked like a few hours ago.\nBut now?\n\"Shirou, how do I use the AC in here?\"\nThis was what I saw, after being summoned for something so trivial, even Fuji-nee wouldn't have bothered me with it.\nThe room has transformed into...this.",
+      "sourceUnit": "セイバールート四日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hnn...\"\nI sure know how to pick a teammate...",
+      "sourceUnit": "セイバールート四日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm uncomfortable.\nMy house is playing host to not one, but two invaders.\nI'm all the more unsettled because I so rarely have guests here.",
+      "sourceUnit": "セイバールート四日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Actually...\nThese two don't even look like they belong in a Japanese-style house to begin with.",
+      "sourceUnit": "セイバールート四日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe time is almost seven o'clock at night.\nEveryone's in the living room, but staying quiet and doing nothing isn't really good for my mental well-being.",
+      "sourceUnit": "セイバールート四日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"If you two don't mind, I want to talk about what we do from here.\"\n\"Just a sec. Before we do that, I want to set one thing straight.\"",
+      "sourceUnit": "セイバールート四日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...sure. What's that?\"\n\"It's about dinner. Shirou, you've been living alone for a while, right?\"\n\"Huh? Well, yeah.\"\n\"Which means you've been making your own meals, right?\"\n\"Of course. I'd go hungry if I didn't eat.\"",
+      "sourceUnit": "セイバールート四日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I have a proposal for you. Why don't we take turns preparing dinner? We're going to be living together for a while, so that'll help, right?\"\n\"Hm. You're right. I was thinking of going about my normal routine, but now that you're going to be living here, you'll be like family. You'll be expected to cook, and it'll lift some of the burden from me.\"",
+      "sourceUnit": "セイバールート四日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"That's settled, then. Today it'll be Shirou's turn.\nIt's late already, so let's talk about this after we've eaten.\"\n\"Wait? It's fine if we take turns cooking dinner, but what about breakfast? Are we going to take turns for breakfast too?\"",
+      "sourceUnit": "セイバールート四日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about breakfast. I don't eat breakfast.\"\n\"What? Don't be ridiculous. You won't grow up big and strong unless you eat breakfast.\"",
+      "sourceUnit": "セイバールート四日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Mind your own business.\nAnyway, you're going to make dinner today! And if you don't make something decent, I'm not talking to you!\"\nFor the life of me, I don't know what set her off, but Tohsaka glares at me, irritated.",
+      "sourceUnit": "セイバールート四日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, I'll make something. Saber, you're going to eat too, right?\"\n\"If you are going to prepare something, then yes. Meals are an important source of energy.\"\n\"Got it. Then you two sit back and behave yourselves.\"",
+      "sourceUnit": "セイバールート四日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I grab my apron and head to the kitchen.\nLuckily, there are enough ingredients for a meal for three.\nI turned on the rice cooker right when I woke up, so it should be done in about half an hour.",
+      "sourceUnit": "セイバールート四日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I glance towards Tohsaka and Saber from the kitchen.\n\"...Hmmm.\"\nThose two look like they would prefer eating Western-style meals over Japanese meals.\nI seriously doubt Saber would like tofu and natto, to say nothing of Tohsaka.",
+      "sourceUnit": "セイバールート四日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually, I don't think Saber would be able to hold chopsticks in the first place.\"\nI hesitate for a minute, but there's no point worrying about this now.\nThere's only a few dishes I can make with the ingredients I have right now.",
+      "sourceUnit": "セイバールート四日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I have tofu.\nI think for a moment and decide to make deep-fried tofu. I also decide to make a simple tofu and seaweed soup.\nSince I have some chicken prepped, I'll use that to make teriyaki chicken as the main dish.",
+      "sourceUnit": "セイバールート四日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "I drain the water from the tofu, season the chicken, and cut the daikon into thin strips to make a crunchy salad. I also grate the daikon to make a sauce and sauté some shishito peppers...",
+      "sourceUnit": "セイバールート四日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you decided on what to do, Rin?\"\n\"Not really. I can't say much because I don't have much information, but I think the most important thing to do is find the other Masters.\nThere are four more Masters. I'd like to search for them without revealing that I'm a Master too, but I don't think that's realistic.\"",
+      "sourceUnit": "セイバールート四日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nI told them to be good, but they're on a pretty disturbing topic.\nDon't they see I'm busy making dinner for the three of us? They're not even looking over here!",
+      "sourceUnit": "セイバールート四日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka! Not four...it's five! The only Masters we know so far are you and me!\"\nI shout my contribution from the kitchen, holding the big frying pot to make the deep-fried tofu.",
+      "sourceUnit": "セイバールート四日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? We know three: you, me, and that Illyasviel. Did you already forget about Berserker!?\"\n\"Oh...\"",
+      "sourceUnit": "セイバールート四日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Oh, right. That little girl is also a Master.\nI'd completely forgotten about her since Berserker left such a vivid impression on me. But now I remember that little girl is a Master too, and she tried to kill us without a second's hesitation.",
+      "sourceUnit": "セイバールート四日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I bet you didn't even consider Illyasviel an enemy. Forget about that for now, and just concentrate on cooking. We're going to have a problem if I can't judge how good you are.\"",
+      "sourceUnit": "セイバールート四日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI don't know that my cooking skills are going to be problematic to Tohsaka, but she's right.\nThe food prep's pretty much done, so I need to concentrate and finish the dishes now.",
+      "sourceUnit": "セイバールート四日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Illyasviel... Berserker's Master.\nYou seemed to know her, Rin.\"\n\"Well yeah. Or, I know the name anyway. The Einzberns are a mage family who have been in the Holy Grail a few times.\"",
+      "sourceUnit": "セイバールート四日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"So they are well-versed in the Holy Grail War.\"\n\"Probably. I don't know about the others, but I can say pretty confidently that Illyasviel is our biggest obstacle. The Berserker class is typically used to enhance a weak hero.\nIt takes the Heroic Spirit's sanity in exchange for strengthening them, but to control a hero that's turned violent requires a vast amount of magical energy.\nLet's say for example, if you became a Berserker class...\"",
+      "sourceUnit": "セイバールート四日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I would not be able to communicate with you as I am now. Berserkers are entirely specialized in combat, totally unable to cooperate with anyone. It would be like attempting to tame a wounded lion; no ordinary mage could control such a Servant.\"",
+      "sourceUnit": "セイバールート四日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured as much. An ordinary mage would have a difficult time controlling a Berserker even if the Heroic Spirit was a minor hero.\nYet Illyasviel summoned an absolutely top-tier hero as a Berserker, and she's managed to control him completely.\nI hate to say this, but that girl's ability as a Master is on an entirely different level.\"",
+      "sourceUnit": "セイバールート四日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I agree. Our current problem is that we are being targeted by this extraordinary Master.\"\n\"Right. My Archer hasn't recovered to the point where he can return to battle. What about you, Saber? How are your wounds?\"",
+      "sourceUnit": "セイバールート四日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...I should be fine for normal battles, but I have not yet recovered to the point where I can go up against Berserker.\nThe wounds I sustained from Berserker have completely healed, but it appears the wounds I received from Lancer will take longer.\"",
+      "sourceUnit": "セイバールート四日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then at this point, we have no choice but to wait and see.\"\n\"I have a suggestion. I hear Archer has keen eyes. What do you think of having him keep watch over this house and the surrounding area?\"",
+      "sourceUnit": "セイバールート四日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I intend to have him do just that. I'll have him keep watch from the roof, so we should know right away if someone suspicious gets near. This house also has a Bounded Field around it, so we should be good as far as defenses go.\n...Though, if Berserker came in to invade this house, our only option would probably be to run away.\"",
+      "sourceUnit": "セイバールート四日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "The two continue their conversation.\n...\nI don't like it.\nI'm the one making dinner for them, so I think it's rude for them to talk without me.",
+      "sourceUnit": "セイバールート四日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Besides, Tohsaka is too friendly with Saber.\nWell, I can't really talk to Tohsaka so casually like that, so maybe Tohsaka's just talking to Saber on my behalf...",
+      "sourceUnit": "セイバールート四日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm?\"\nI see my face reflected in the glass of the kitchen cabinet, my brows furrowed in disapproval.\nThat's weird. Why I am so mad?",
+      "sourceUnit": "セイバールート四日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, then.\"\nI set out three plates and start serving dinner.\nI head out into the living room.\n\"You know, this isn't the best topic for dinner.\"\nI loudly smack the tray down in front of Tohsaka.",
+      "sourceUnit": "セイバールート四日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you so mad, Shirou? Oh, is it because you wanted me to help serve the food?\"\n\"I'm not mad. I just thought you were trying to act aloof around people.\"\nI give her a sideways glance.",
+      "sourceUnit": "セイバールート四日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka seems perplexed.\nAnd then she gives me a chilling smile.",
+      "sourceUnit": "セイバールート四日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"We were just deciding on how our partnership was going to work. Don't worry. I'm not going to try to steal your Saber.\"\nWhat the...!?\nI can tell I'm starting to blush.\nTohsaka just pointed out why I was so annoyed.",
+      "sourceUnit": "セイバールート四日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-wh-why you...!\"\n\"Oh, am I wrong? Then I apologize, Emiya.\"\n\"Gngh...you...! Say whatever the hell you want!\"\nI retreat to the kitchen to grab the rest of the dishes.",
+      "sourceUnit": "セイバールート四日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Ugh...she really got to me.\nTohsaka is still smiling, and Saber is as expressionless as ever.\nI'm starting to wonder whether I can survive this partnership.",
+      "sourceUnit": "セイバールート四日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "But we go ahead and start dinner.\n...\nI'm giving her the silent treatment.\nAfter what happened earlier, I don't want to talk to Tohsaka, and I'm too embarrassed to even look at Saber.",
+      "sourceUnit": "セイバールート四日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber eats in silence.\nHer movements are elegant; I can't believe she's the same girl who was swinging a sword earlier.",
+      "sourceUnit": "セイバールート四日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "And I can't put a finger on it, but...\n\"Hm...mmm...mmm.\"\nEvery time she takes a bite of something she hasn't eaten before, she nods.\nIt's...amusing.\nSeems to be her way of saying the food is good.\nAlso, it turns out she can use chopsticks properly.",
+      "sourceUnit": "セイバールート四日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka on the other hand...\nThe moment she takes her first bite, she clenches her fist and says,\n\"All right! I can do better than this!\"",
+      "sourceUnit": "セイバールート四日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Fufu...just you wait and see tomorrow, Shirou Emiya!\"\nTohsaka's fist trembles with excitement.\n...\nDear god...\n...Have I done something bad?",
+      "sourceUnit": "セイバールート四日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, so about what you two were discussing earlier...\"\n\"Hm?\"\nThe two raise their heads simultaneously.",
+      "sourceUnit": "セイバールート四日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nWait. Waitwaitwaitwait.\nI'm already nervous with just one of them around, so having the two react in unison like that is torture.",
+      "sourceUnit": "セイバールート四日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"What were we discussing earlier?\"\n\"...About what to do from now on. You two were talking about it while I was cooking.\"\n\"About looking for the other Masters?\"\n\"Yeah, that. I'm just wondering if you have a specific plan.\"",
+      "sourceUnit": "セイバールート四日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"There's nothing to do other than take it slow and steady.\nOh by the way. Can you at least sense other mages? It'd make things a lot easier if you could.\"",
+      "sourceUnit": "セイバールート四日目-11:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't. I didn't know you were a mage, and we've been going to the same school for two years.\"\n\"I knew it. Well, that's fine. I'm sure the others are concealing their presence anyway, so searching for them that way isn't the best option.\nWhat about you, Saber? I hear Servants can detect other Servants.\"",
+      "sourceUnit": "セイバールート四日目-11:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I can, somewhat. However, that is only if they are using their abilities nearby. In my case, I can only detect other Servants in about a two hundred meter radius.\"\n\"I see. Then we really do need to just wait to see if someone makes a move, or to look for someplace that seems odd to us. A Master would leave some traces or hints behind when they make a move, so we'll have to search for those.\"",
+      "sourceUnit": "セイバールート四日目-11:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you saying we need to search all over town?\"\n\"No, we really shouldn't do that. Our opponents have probably set up some sort of net too, so they'll know right away we are Masters if we do something like that.\"",
+      "sourceUnit": "セイバールート四日目-11:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"For now, we should hold off on taking initiative until we figured out a plan.\nJust live your life the way you always have and don't let them discover that you're a Master.\nHide the Command Spell on your hand so they can't see it.\nTry not to go anywhere there aren't plenty of people around.\nHead home as soon as the sun sets.\nAnd, what else...?\"",
+      "sourceUnit": "セイバールート四日目-11:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Please take your Servant with you whenever you go outside this house. Can Archer act as your escort and guard you, Rin?\"\n\"I think he can do that. It shouldn't be a problem for me because I'll have him be in spirit form on standby. The problem is—\"\n\"My Master.\"",
+      "sourceUnit": "セイバールート四日目-11:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. Hey, are you even listening, Shirou? Take Saber with you everywhere you go. We may have decided not to draw attention, but there could still be some idiot who might attack us in broad daylight.\nHave Saber with you in case that happens.\"",
+      "sourceUnit": "セイバールート四日目-11:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll try.\"\nMy response is pretty half-hearted.\nI understand why Tohsaka would say that, but I hesitate at the idea of taking Saber everywhere.",
+      "sourceUnit": "セイバールート四日目-11:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I'm already nervous talking to Tohsaka, but Saber makes me even more nervous.\n...Actually, nervous might not be the right word.\nI am just bad at talking to Saber.",
+      "sourceUnit": "セイバールート四日目-11:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it?\"\n\"...Nothing. Hey, do you want a second helping? Hand me your bowl.\"\n\"No, I am fine. It was very good, Shirou.\"",
+      "sourceUnit": "セイバールート四日目-11:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gosh.\"\nI avert my gaze without meaning to.\nIf I can't even look her in the eye right now, who knows how I'm going to feel or what I'll do if we're going to be together all the time.",
+      "sourceUnit": "セイバールート四日目-11:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, but this might be hard. Saber can't turn into her spirit form, so she can't follow you to school.\"\n\"School...? Are you a student, Shirou?\"",
+      "sourceUnit": "セイバールート四日目-11:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I am... Oh right. Saber can't go to school because she's not a student. I guess I'll just have to have her stay at home while I'm at school.\"\n\"Is it possible for you to not go to school, Shirou?\"",
+      "sourceUnit": "セイバールート四日目-11:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't do that. I should live my life like normal, so I need to go to school. Besides, school's safe. There's not a lot of places with so many people.\"\n\"But...\"",
+      "sourceUnit": "セイバールート四日目-11:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"It'll be okay, Saber. I'll be there too, so I'll back him up if something happens.\"\n\"And I keep saying nothing will happen.\"",
+      "sourceUnit": "セイバールート四日目-11:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. If Master says so, I will oblige.\"\nSaber doesn't look convinced, but she still nods in agreement.",
+      "sourceUnit": "セイバールート四日目-11:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Night falls.\nTohsaka looks like she prepared herself a bath while I was cleaning up after dinner.\nHonestly, she's acting like she owns this place, right from the start.",
+      "sourceUnit": "セイバールート四日目-11:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll need to make clear who's boss around here, or things are going to be real tough for me in the future...\"\nEasier said than done. I get the sense seizing the initiative is going to be really hard.",
+      "sourceUnit": "セイバールート四日目-11:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Speaking of difficulties, there's another person who'll be the source of my headaches...\"\nActually, Saber's probably my bigger obstacle.\nTohsaka can be reasoned with, but Saber seems completely impossible to convince, no matter what.",
+      "sourceUnit": "セイバールート四日目-11:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber... I know she's not a bad person, but...\"\nSaber's back in her room.\nTohsaka's probably back in her own room in the detached area of the house.",
+      "sourceUnit": "セイバールート四日目-11:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "I'm the only one in the living room.\nThere's still time before bedtime, so I should probably talk to Saber a bit more.\nHonestly, I'll need to overcome my awkwardness around her or else I'm going to suffer for it.",
+      "sourceUnit": "セイバールート四日目-11:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Whether she's a Servant or not, she's still a girl, and younger than me.\nI'm sure I could learn a lot about her if we talked. Plus...",
+      "sourceUnit": "セイバールート四日目-11:page82:1"
+    },
+    "page83": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page84": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

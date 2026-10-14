@@ -1,0 +1,357 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0175",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Smack, smack, pound, pound.\nI mix onions, panko, sake, egg, salt with four hundred grams of ground beef and pork, and knead it all together.\nI've decided to be bold today, so I'm making stewed Japanese-style hamburg steak for breakfast.",
+      "sourceUnit": "セイバールート十二日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin? Are you awake?\"\nSaber's voice drifts out from the living room.\n\"Tohsaka?\"\nI glance back over my shoulder as I cook.",
+      "sourceUnit": "セイバールート十二日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning. Hey, I'm going to pour myself a cup of milk, Shirou.\"\nTohsaka comes in, looking grumpy, and grabs a carton of milk from the fridge.",
+      "sourceUnit": "セイバールート十二日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh. Slept too much. My head hurts... Hey what's this? You're really going all out this morning, aren't you?\"\nWhere'd that grumpy face she'd been making a second ago go? Her eyes are practically sparkling now.",
+      "sourceUnit": "セイバールート十二日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh that looks good. And here I was starting to get hungry. This is perfect.\"\nIs that so? Well, she's the one who gets to enjoy herself here, not me.\nReminds me of what my old man used to say: someone gains, someone else loses.",
+      "sourceUnit": "セイバールート十二日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I've thought this before, but you've got a keen eye.\"\n\"Well, I'm just a discerning sort. Looking forward to this breakfast you're making, though.\"",
+      "sourceUnit": "セイバールート十二日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "She waves as she heads back to the living room.\nWith a glass of milk in one hand, Tohsaka plops down at the table.\n...Seriously.\nI don't know where she gets off acting like king of the castle here in my house.",
+      "sourceUnit": "セイバールート十二日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You are certainly lazy today, Rin.\"\nYeah, way to go, Saber. She's saying everything I wish I could.\nHowever...\nTohsaka dismisses Saber's criticism nonchalantly by just agreeing with her.",
+      "sourceUnit": "セイバールート十二日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I'm lazy now.\nWith Berserker gone, now we just have to deal with Caster, Lancer, and Assassin. They're noting compared to Berserker. Should be a cakewalk for Saber.\"",
+      "sourceUnit": "セイバールート十二日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You do not know that. Defeating Lancer and Assassin may not be as straightforward as you think.\nAnd we have yet to meet Caster.\"",
+      "sourceUnit": "セイバールート十二日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be so humble. No ordinary Heroic Spirit is any match for King Arthur.\nWe've solved your magical energy problem.\nSo there's no Servant who can best you now.\"\n...",
+      "sourceUnit": "セイバールート十二日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Saber narrows her eyes at Tohsaka.\nI have the same reaction.\nWe shouldn't let what Tohsaka said there just go by.",
+      "sourceUnit": "セイバールート十二日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Do you know who Saber is?\"",
+      "sourceUnit": "セイバールート十二日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I had a hunch, but yesterday confirmed my suspicions. Only one hero can wield a sacred sword like that.\nI mean, I was a little surprised to learn that the legendary King Arthur was a girl, but I can't really argue against that when she's sitting right in front of me.\"",
+      "sourceUnit": "セイバールート十二日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, legends are rewritten all the time, right?\nI don't know if Saber was the one who hid it or if the people around her did, but I guess there was a problem with having a girl be king in medieval times.\nSo I don't blame them for saying she was a man.\"",
+      "sourceUnit": "セイバールート十二日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's tone remains the same.\nSaber at least doesn't seem to mind.\nIf anything, she seems to agree with Tohsaka. She certainly doesn't seem about to argue.",
+      "sourceUnit": "セイバールート十二日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe's basically acknowledged the fact.\nA hero with a connection to the sword is selected to be the Saber Servant. Based on that alone, she would absolutely make for the best Saber.",
+      "sourceUnit": "セイバールート十二日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "The heroic symbol of Britain.\nThe wielder of a sacred sword, so famous she's even known in this faraway land.",
+      "sourceUnit": "セイバールート十二日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...But then, what of it?\nThe legend of King Arthur ends with the king's death.\nEven heroes are still human.\nTheir stories usually end in death, but no hero dies a proper death.\nKing Arthur was no exception.",
+      "sourceUnit": "セイバールート十二日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "If I remember correctly, King Arthur died in battle.\n...At the great Battle of Camlann.\nAfter unifying Britain and supposedly having no more foreign enemies to defeat, King Arthur was drawn into conflict with an unexpected enemy in the end.",
+      "sourceUnit": "セイバールート十二日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "It was the treachery of her own army—the knights she vowed to protect and fought alongside for so long—that led to King Arthur's death.",
+      "sourceUnit": "セイバールート十二日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "King Arthur defeated the army's leader, but took a fatal wound in the battle, and so entrusted her only surviving knight, Bedivere, with the task of returning the sacred sword to where it belonged.\n\"Travel across this bloody battlefield and over the hill.\nYou will find a deep lake. Throw this sword into that lake.\"",
+      "sourceUnit": "セイバールート十二日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "But Bedivere did not fulfill that final duty.\nFearing the implications of losing the sword, Bedivere falsely reported not once, but twice, that he had thrown it into the lake.",
+      "sourceUnit": "セイバールート十二日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Each time, King Arthur once more ordered Bedivere to throw the sword away. Finally, on his third attempt, Bedivere was able to fulfill his king's wishes.\nIt is said that King Arthur died after making certain the sword had been returned.",
+      "sourceUnit": "セイバールート十二日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Shirou. What do you plan to do now?\"\n...Hm?\nTohsaka suddenly turns to glare at me.",
+      "sourceUnit": "セイバールート十二日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? What do you mean...plan to do?\"\n\"I'm talking about that dangerous girl sleeping in the Japanese-style room right now.\nI told you to leave her alone, but you insisted on carrying her here.\"",
+      "sourceUnit": "セイバールート十二日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I also have something to say on the subject. Though she has lost Berserker, Illyasviel remains a dangerous Master. I question your decision to shelter her.\"\n\"Yep. You should just leave her with Kirei.\"",
+      "sourceUnit": "セイバールート十二日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\nThe two glare at me as one.\n...That's right.\nThe moment Berserker disappeared Illya fainted.\nShe showed no sign of waking up, and I couldn't just leave her, so I brought her back home.",
+      "sourceUnit": "セイバールート十二日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Of course, Tohsaka and Saber objected, so I carried her myself.\nA Master who loses their Servant either flees before another Master kills them, or is protected by the Church.\nTohsaka says we should let Kotomine take care of her, but I don't think that priest would take very good care of Illya, so I'm having her stay in one of our spare rooms.",
+      "sourceUnit": "セイバールート十二日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Your actions here are commendable, but it is dangerous to get involved with Illyasviel. It is not too late. We may either send her to the Church, or seize her Command Spells.\"",
+      "sourceUnit": "セイバールート十二日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nSaber's serious.\nChanging her mind won't be easy.",
+      "sourceUnit": "セイバールート十二日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"D-do you have a problem? We couldn't just leave her alone.\nIllya's just a kid, and she wasn't herself. I'd feel bad leaving her with Kotomine.\"",
+      "sourceUnit": "セイバールート十二日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"You'd feel bad? How can you say that with a straight face after everything she did to us!?\"\n\"I agree. You have too much empathy for Illyasviel. She tried to kill you many times.\"",
+      "sourceUnit": "セイバールート十二日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "The two are more united than ever.\nBut I need to stand my ground.",
+      "sourceUnit": "セイバールート十二日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya was our enemy, but she never had any malice for us. As long as she has a good influence, she won't do any more harm.\nAnd I said this at the start.\nI'm not fighting to kill Masters. I'm fighting to end the battle.\"",
+      "sourceUnit": "セイバールート十二日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I...know that, but...\"\nSaber's tone softens, though she's clearly not convinced.",
+      "sourceUnit": "セイバールート十二日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "But...",
+      "sourceUnit": "セイバールート十二日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah? So you're going to forgive Illyasviel for everything she's done. Let me tell you something: she's attacked other Masters, and you don't know how many Masters she might have killed. You're going to save her, even so?\"",
+      "sourceUnit": "セイバールート十二日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Well...I...\"\nYeah.\nIllya admitted she killed Shinji after I let him go.",
+      "sourceUnit": "セイバールート十二日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Shinji used Rider to try to kill everyone at school. If that's what he did as a Master, I suppose his death was inevitable.\nBut Shinji was a friend of mine for years, and thinking of Sakura, I can't just write off what Illya did.",
+      "sourceUnit": "セイバールート十二日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"But that means there's no chance at closure.\nEven if Illya's no longer a Master, as long as she can reflect and feel remorse, I think we should save her.\"",
+      "sourceUnit": "セイバールート十二日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, you might be right.\nBut I, for one, won't ever forgive her for what she did to Archer. She killed my Archer.\"",
+      "sourceUnit": "セイバールート十二日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "We're at an impasse here.\nWe all freeze, staring at each other.\nBut then...",
+      "sourceUnit": "セイバールート十二日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh come on. All Servants disappear in the end anyway. If you're so worried about that, you fail as a Master, Rin.\"\nThe very girl under discussion appears.",
+      "sourceUnit": "セイバールート十二日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Illyasviel!\"",
+      "sourceUnit": "セイバールート十二日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold it. I have no business with you two. I don't have any intention of fighting, so don't get so angry at me.\nHonestly, I'm embarrassed for you two, just as fellow ladies. You're older than me, but you're sorely lacking in manners.\"",
+      "sourceUnit": "セイバールート十二日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Illya shrugs, looking disgusted.\n\"Wh-what did you say!?\"\nSaber and Tohsaka are once again in sync.\nA whole new kind of intensity comes over them.",
+      "sourceUnit": "セイバールート十二日目-00:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'm not going to get into that with you. I don't have time to deal with the two of you right now.\"\nIllya turns from them to face me.",
+      "sourceUnit": "セイバールート十二日目-00:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Illy...a?\"\n\"I would like to thank you, Master of Saber. From the bottom of my heart, thank you for being so concerned about me, even though I was your enemy.\"",
+      "sourceUnit": "セイバールート十二日目-00:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...huh?\"\nI stare at Illya in disbelief.\nSo sudden is this that even Saber goes quiet.\nTohsaka just keeps drinking her milk, giving Illya the stink eye.",
+      "sourceUnit": "セイバールート十二日目-00:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nIllya smiles that familiar smile of hers.\n\"Just kidding!\nYep. You sure are my brother!\"\nShe launches herself right at me and hugs me around the neck.",
+      "sourceUnit": "セイバールート十二日目-00:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Hrrk!?\"\n\"Wh-what's going on!?\"\nTohsaka spits out her milk.\nWhat the...!?\nI can almost hear the vein popping in Saber's forehead.",
+      "sourceUnit": "セイバールート十二日目-00:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"U-unhand him, you insolent fool!\"\nSaber rushes toward me.\nIllya twists around, swinging to my back.",
+      "sourceUnit": "セイバールート十二日目-00:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Who's being uncivil here? A Servant like you has no right to command me!\"\n\"I have neither obligation nor intent to obey you! If you will speak so brazenly, then you will remove yourself from Shirou's presence this instant!\"",
+      "sourceUnit": "セイバールート十二日目-00:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not listening to you! Hey Shirou, let's do the same thing we did last night! You gave me a piggyback ride, right!?\"\nIllya spins around me.\nSaber hurries after her, trying to catch her.",
+      "sourceUnit": "セイバールート十二日目-00:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis is bad.\nWhat, specifically is bad? Well, it's...just bad.",
+      "sourceUnit": "セイバールート十二日目-00:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "The two can't stop glaring at each other.\nIt must be because Tohsaka is just watching from afar, but…\nShe just wipes the milk off her mouth, as if nothing is happening, and says,",
+      "sourceUnit": "セイバールート十二日目-00:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, I don't care what you do, but if you keep that up, you're going to kill him.\"\n\"Eh?\"\nThe two peer curiously at me.",
+      "sourceUnit": "セイバールート十二日目-00:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "It's...pretty clear.\nMy neck's getting wrenched around. I now face the greatest danger of my life.\nOkay. Let's review the current situation.\nThe hamburg steak I'd been working so hard on is packed away in the freezer.",
+      "sourceUnit": "セイバールート十二日目-00:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "First, there's Tohsaka. She's being relatively quiet.\nShe seems to be keeping a straight face, and it looks like she's just going to watch things play out, but who can say what she might be thinking to herself...",
+      "sourceUnit": "セイバールート十二日目-00:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What is it, Shirou?\"\nIllya's sitting next to me, and for some reason she looks like she's in a good mood.\nShe's looking curiously around the living room, but it doesn't look like Saber or Tohsaka are much concern to her.\nWhatever either of them might say is likely to go in one ear and out the other.",
+      "sourceUnit": "セイバールート十二日目-00:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "And then there's the one I'm most concerned about...\n...\nSaber. She's glaring anxiously at both me and Ilya.",
+      "sourceUnit": "セイバールート十二日目-00:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "She's not usually so fidgety and restless.\nIt feels like I'm resting on a bed of nails.\nSo I can't leave things like this.\nI don't know what is going to come of this, but I have to do something about the situation.",
+      "sourceUnit": "セイバールート十二日目-00:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's settle this.\nIf we keep this up, it'll drag out until lunch.\"",
+      "sourceUnit": "セイバールート十二日目-00:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. We've already come to a conclusion, so we should get rid of the problem as soon as possible. Isn't that right, Saber?\"\n\"That is correct. Rin and I are in agreement, so we just need to convince Shirou.\"",
+      "sourceUnit": "セイバールート十二日目-00:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "Saber is really digging her heels in.",
+      "sourceUnit": "セイバールート十二日目-00:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Hey Shirou. What do Rin and Saber want to talk out?\"",
+      "sourceUnit": "セイバールート十二日目-00:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...uh. They want to talk about what we should do with you. You lost your Servant, so we want to know what you plan to do from now on.\"",
+      "sourceUnit": "セイバールート十二日目-00:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"There's only two obvious options. Either take her to the church for shelter, or send her back to her castle in the forest. Her staying here is out of the question.\"",
+      "sourceUnit": "セイバールート十二日目-00:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...Do you feel the same way, Shirou?\"\nIllya looks at me, her face emotionless.\nI...",
+      "sourceUnit": "セイバールート十二日目-00:page69:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0091",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I see the two off and go back to the living room.\nI mentioned I had something to tell them after dinner, so Tohsaka and Saber are sitting in the living room, looking serious.",
+      "sourceUnit": "セイバールート六日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Good work today. So what did you want to tell us?\"\n\"It's about the other Masters. There's something I want to tell you two.\"\nSaber's brows furrow slightly.\nAs a Servant, her life is focused on combat, rather than a peaceful daily routine.",
+      "sourceUnit": "セイバールート六日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I still don't think her wounds have completely healed.\nEven with her healing powers, the chest wound Lancer's Noble Phantasm inflicted won't heal quickly.",
+      "sourceUnit": "セイバールート六日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nWith that in mind, I hesitate to tell them about Shinji.\nI'm the same as Shinji.\nI'd want to avoid fighting as much as I can, and I don't think it's right for a young girl like Saber to wield a sword.",
+      "sourceUnit": "セイバールート六日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Do you not have something to tell us?\"\n\"Oh...yeah. Let me get right to the point. I met Rider and her Master today.\"",
+      "sourceUnit": "セイバールート六日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!? Rider's Master!? When did that happen!?\"\n\"That is absurd! What were you thinking, meeting an enemy Master alone!?\"\n\"Whoa...hold on! Calm down! It's okay. I didn't get hurt or anything! Don't get so mad!\"",
+      "sourceUnit": "セイバールート六日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not get mad... No, I am certainly not angry.\nI am simply stupefied by your actions, Shirou.\"\n\"Ditto. Well, there's no point in getting angry over what's done.\nSo explain yourself, Shirou.\"",
+      "sourceUnit": "セイバールート六日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and Saber are glaring at me, obviously furious.\nCrap.\nI knew they would say something about me being rash, but I never imagined they would be so...livid.",
+      "sourceUnit": "セイバールート六日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...I met the Master this afternoon.\nI just followed him because he said he wanted to talk, and I didn't fight him or anything.\"\n\"Yeah, I can tell. So what kind of person was Rider's Master?\"",
+      "sourceUnit": "セイバールート六日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What sort of person? It was Shinji.\nHe called out to me when I was walking around school looking for sources of the Bounded Field. He said he wanted to talk, so I followed him to the Matou house.\"",
+      "sourceUnit": "セイバールート六日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...Shinji!? You mean THE Shinji!?\"\n\"Yeah. Rider was obeying Shinji, and he knew about the Holy Grail War. Apparently the Matou family is a noble family of mages.\"",
+      "sourceUnit": "セイバールート六日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...yes that's true...but that's impossible. The Matou family should have completely diminished by now. No matter what they tried, no child of the Matou family could have Magic Circuits.\"",
+      "sourceUnit": "セイバールート六日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka seems pretty sure of what she's saying.\nIf she says so, then Shinji and Sakura really don't have any Magic Circuits.",
+      "sourceUnit": "セイバールート六日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Shinji said the same thing, but he said he still knows about magecraft, and that since he's the eldest male, that knowledge was passed down to him. So, Sakura doesn't know anything.\nAnyway, that means he's a Master similar to me. He doesn't have any magical energy, so you weren't able to detect him.\"",
+      "sourceUnit": "セイバールート六日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. My mistake. I should've known there would be cases like him... As long as he had grimoires lying around, he could certainly become a Master. Argh! That means he saw right through everything I was doing! How could I be so careless!?\"",
+      "sourceUnit": "セイバールート六日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's beating herself up for what she's done so far.\nHm... She may be almost flawless, but it seems like she can be kind of ditzy too.\nThe problem is, most of those gaffes turn out to be fatal.",
+      "sourceUnit": "セイバールート六日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I screwed up. I should have kept a closer eye on Shinji. Had I known, I wouldn't have let him construct that Bounded Field.\"\n\"Oh, about that. Shinji said he wasn't the one who set up the Bounded Field over the school. He said there's another Master at school.\"",
+      "sourceUnit": "セイバールート六日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I suppose that would be true. It's pretty obvious there's a Master at school we're not aware of.\nBut Shirou. Don't tell me you believed Shinji when he said he wasn't the one who set up the Bounded Field?\"",
+      "sourceUnit": "セイバールート六日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'm not that much of a sucker. As long as Shinji is in our school, I'd give it a fifty-fifty chance that it's his doing. The other half is done by the other Master.\"",
+      "sourceUnit": "セイバールート六日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Fifty-fifty, huh? If you think that's the ratio, you really are a sucker.\nWell whatever. Your optimism is what makes you who you are, and that's probably why Shinji thought it would be okay to reveal his identity to you.\"\n\"Hm?\"",
+      "sourceUnit": "セイバールート六日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, what did you talk to Shinji about?\"\n\"He asked whether I wanted to team up with him. Shinji has no intention of fighting, and it sounded like he wanted to work with someone, so long as he knew them.\"",
+      "sourceUnit": "セイバールート六日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Don't tell me you...\"\n\"No, you'd turn this kind of thing down normally, right? I've already teamed up with you anyway.\nEven if I were to answer, I should first consult you too.\"",
+      "sourceUnit": "セイバールート六日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...right. That's true. But did you say you turned him down?\"\n\"Yeah. I know I said I would've consulted you about this, but I made my decision about Shinji on my own. There wasn't much to talk to you about anyway. Oh...but did I still do something rash?\"",
+      "sourceUnit": "セイバールート六日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Not really. I think you made the right call. Besides, he was only asking you, so there's no room for me to butt in anyway.\"\nThe way she's mumbling makes her seem, well, not quite herself.",
+      "sourceUnit": "セイバールート六日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"That was all I talked to Shinji about.\nI saw Rider too, but it didn't seem like she was that powerful of a Servant to me. She's definitely not like Berserker, and she didn't seem as intense as Lancer. Rider seemed decent. \"",
+      "sourceUnit": "セイバールート六日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"If Master felt that way, then it's likely true. But a Servant's true power is determined by their Noble Phantasm. Until we find out who Rider truly is, please do not let your guard down around her, Shirou.\"",
+      "sourceUnit": "セイバールート六日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I have no clue which hero Rider is. You know, Lancer and Berserker obviously look like heroes. But Rider didn't quite have that same aura. I felt like she was different from typical Servants.\"",
+      "sourceUnit": "セイバールート六日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Different from typical Servants, you say?\nI do not quite understand, but do you think you would be able to explain Shirou's discomfort, Rin?\"",
+      "sourceUnit": "セイバールート六日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Oh, yeah, I guess I understand, at least logically.\nYou see, the Master influences which Heroic Spirits is summoned as a Servant. So because of that, Master and Servant tend to be similar.\"",
+      "sourceUnit": "セイバールート六日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"For example, if the Master is a noble person, they'll summon a Heroic Spirit of a similar disposition. On the other hand, a deeply scarred, traumatized person is likely to summon a Servant with similar experiences.\nSo that's probably why Shirou felt something off from Rider.\nA Master with a twisted personality might summon a vengeful ghost close to a Heroic Spirit, rather than a hero.\"",
+      "sourceUnit": "セイバールート六日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"A vengeful ghost close to a Heroic Spirit... Is this what you meant before...?\"\n\"That's right. A tyrant who enjoys the sight of blood and does not think twice about killing.\nThere are plenty of heroes famous only for their brutality, so it wouldn't be a surprise for someone like that to become a Servant as well.\"",
+      "sourceUnit": "セイバールート六日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nIs that...true?\nNow that I think about it, I smelled blood on Rider, but I didn't get the impression she was a bloodthirsty murderer...",
+      "sourceUnit": "セイバールート六日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's all I have on Rider.\nThere's one more thing, and this might be the most important point.\nAccording to Rider, there's apparently a Master in Ryudou Temple. Someone is collecting magical energy from everyone in town. What do you two think of that?\"",
+      "sourceUnit": "セイバールート六日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ryudou Temple...? Are you talking about that temple at the top of the mountain?\"\n\"Yeah, that's the one. Do you know anything about it, Tohsaka?\"",
+      "sourceUnit": "セイバールート六日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually, not at all. I've never been to Ryudou Temple.\nI don't know what kind of Master would be up there, but a normal one wouldn't think to set up camp in a desolate place like that.\"",
+      "sourceUnit": "セイバールート六日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I was pretty surprised when I heard there was a Master at Ryudou Temple.\nBeing there might not draw much attention, but there are a ton of monks living at the temple. We would definitely hear about it if they pulled something strange.\"",
+      "sourceUnit": "セイバールート六日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm...I don't buy it.\nEven if it were true, Ryudou Temple is way out in the sticks.\nIf they were to cast a net across Miyama and Shinto, that would be powerful magic, but a waste of magical energy. Even if they collected magical energy from such a wide range, executing such a large-scale magecraft would be impossible.\"",
+      "sourceUnit": "セイバールート六日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka thinks for a moment, looking troubled.\nI'm relying on her experience here, so I can't interrupt her.",
+      "sourceUnit": "セイバールート六日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually, Shirou's story is plausible.\nIf that Master is able to take hold of the temple, they would likely be able to execute magecraft of that caliber effortlessly.\"\n\"Huh? Do you know about Ryudou Temple, Saber? I haven't taken you there yet.\"",
+      "sourceUnit": "セイバールート六日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you forgotten, Shirou? I participated in the previous Holy Grail War. I know this town very well, and I know about the leyline that formed at that temple.\"",
+      "sourceUnit": "セイバールート六日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"A leyline!? Hold on...that's what's at MY house! Why would there be two leyline centers in one area!?\"",
+      "sourceUnit": "セイバールート六日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not know why, but that temple is like a sanctuary for mages.\nI hear all lifelines in this area flow towards the temple, so it is the perfect point to collect souls. A mage would simply have to tap in to its natural flow to collect life force from the whole town.\"",
+      "sourceUnit": "セイバールート六日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the first I've heard of it.\nBut if it's true, it would certainly be possible for someone to steal life force from the entire city...\"",
+      "sourceUnit": "セイバールート六日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"So that area is spiritually powerful, right? That's just obvious. Otherwise, people wouldn't have built a temple up there in the first place.\"",
+      "sourceUnit": "セイバールート六日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...o-of course! You don't have to tell me that!\"\n\"I figured as much. Temples and shrines have traditionally been built where there are gods, to protect the town. Monks don't pray to the gods and Buddha to offer people blessings. Instead, their job is to seal up any areas that people believe are unlucky, to ward off calamity. So based on that, it's no surprise that the mountain where Ryudou Temple is located is a special place.\"",
+      "sourceUnit": "セイバールート六日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hn.\"\n\"Hey...don't tell me you thought Ryudou Temple was just there for show.\"\n\"What's wrong with that!? I just thought it was just some temple because there aren't any practicing thaumaturges!\"\n\"Practicing thaumaturges? What's that?\"",
+      "sourceUnit": "セイバールート六日目-05:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"They're people who help spirits go to heaven by means other than sutra readings, worship, or prayer.\nAn enlightened person can pull it off just through Shinto and Buddhist rites, but monks who aren't as experienced aren't able to reach that level, so they add their own powers to cast spells just like us.\nThere's an organization for those people here in this country. I don't know much about them, though, since they're nothing like the Mage's Association.\"",
+      "sourceUnit": "セイバールート六日目-05:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"But more importantly, we should focus on the temple.\nIf that temple's built on a leyline, Masters would jump at a chance to seize it at their earliest opportunity. So why would other Masters overlook it?\"",
+      "sourceUnit": "セイバールート六日目-05:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Because Ryudou Temple's there. It's under surveillance so it wouldn't be abused.\"\n\"All the monks at Ryudou Temple are real priests in training.\nThey're not outliers like us, so it would be easy for a Master to cajole people like them.\"",
+      "sourceUnit": "セイバールート六日目-05:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is incorrect, Rin. It would indeed be easy for a Master to gain control of that temple, but the mountain is surrounded by a Bounded Field which proves problematic for Masters.\"",
+      "sourceUnit": "セイバールート六日目-05:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? A Bounded Field that would be trouble for us?\"\n\"Yes. Some sort of thaumaturgy is at work which removes everything other than natural spirits from that mountain. It does not affect humans, but Servants are quite vulnerable to it.\"",
+      "sourceUnit": "セイバールート六日目-05:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"It gets rid of everything other than natural spirits... Does that mean Servants can't set foot on that mountain!?\"",
+      "sourceUnit": "セイバールート六日目-05:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not impossible, but our abilities will likely be considerably weakened.\nIt is like receiving a Command Spell order not to enter that place.\"\n\"...Then how is the Master at Ryudou Temple able to maintain their Servant up there?\"",
+      "sourceUnit": "セイバールート六日目-05:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"In fact, the temple itself is not under the Bounded Field.\nI also hear that it works like a boundary which protects the temple. A Bounded Field just repels anything approaching from outside; it has no other function.\"",
+      "sourceUnit": "セイバールート六日目-05:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...So once you're inside, there's no thaumaturgy that controls Servants?\nBut that's weird. Enclosing the temple like that would cut off the leyline. There should at least be one pathway in, or it wouldn't be a central point.\"",
+      "sourceUnit": "セイバールート六日目-05:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"That's is right. If you think in terms of the temple, it cannot refuse visitors approaching by way of its main entrance. Following this logic, it is my understanding that the main road leading to the temple does not have a Bounded Field cast over it.\nThe main gate is the only place that does not have power to command Servants like us.\"",
+      "sourceUnit": "セイバールート六日目-05:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I guess that's logical. If all the gates were completely closed off, the air inside would grow stagnant. So there's one main gate...\"",
+      "sourceUnit": "セイバールート六日目-05:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"That is all I can tell you.\nSo please draw your own conclusions. If you have determined there is a Master present, then there is only one thing to do.\"",
+      "sourceUnit": "セイバールート六日目-05:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nI know what Saber wants to say.\nHer eyes are telling me that since we know the enemy's location, we just need to attack.\nBut...",
+      "sourceUnit": "セイバールート六日目-05:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to pass.\nIt feels like a trap, and honestly, I don't want to make a move based only on the information we have now. If we're going into the enemy's own base, we should wait until we know what sort of Servant they have.\"",
+      "sourceUnit": "セイバールート六日目-05:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"That is unexpected. I thought you would be the first to suggest fighting.\"\n\"Insult me if you want. Archer's not back to his full strength, so I'm going to remain a spectator for now.\"",
+      "sourceUnit": "セイバールート六日目-05:page60:1"
+    },
+    "page61": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

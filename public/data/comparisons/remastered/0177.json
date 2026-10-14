@@ -1,0 +1,107 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0177",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...The church should shelter her.\nThat's the safest option, if we're focusing on Illya's needs.",
+      "sourceUnit": "セイバールート十二日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Then it's settled. Well, this hardly needed discussing.\"\n\"Eh...?\"\n\"The choice is obvious. We can't keep Illyasviel here.\"\n\"Shirou...?\"",
+      "sourceUnit": "セイバールート十二日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Illya looks up at me anxiously.\n\"No. You're not going to do that, right, Shirou? You're not going to abandon me, are you?\"\n...\nI press a hand over my chest, feeling it tightening up.",
+      "sourceUnit": "セイバールート十二日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I...think you should go to the church, Illya.\"\nIt's much safer there than here.\"\nI make eye contact as I tell her this.\nIllya gasps, then freezes entirely.",
+      "sourceUnit": "セイバールート十二日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Illyasviel. Given that Shirou has saved you, I will not pursue you any further. Your life has been spared. You should value—\"",
+      "sourceUnit": "セイバールート十二日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"NOOOOOO! Stupid Shirou, stupid Shirou, stupid Shirou, Shirou, you DUMMY!\nI don't want to! I don't want to go to the church! I don't want to go anywhere else! I don't want to be alone! I-I-I want to stay here with you, Shirou!!!\"",
+      "sourceUnit": "セイバールート十二日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nIllya cries like a small child.\nWell, in her defense...\n...Illya is a small child.\nI should have known that, of course, but I forgot at this crucial moment.",
+      "sourceUnit": "セイバールート十二日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I know.\nIf I really am concerned for Illya, I can't just entrust her to someone else.",
+      "sourceUnit": "セイバールート十二日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you saying? You have that big castle! Land like this is nothing to the Einzberns...it's like the size of a cat's forehead.\"",
+      "sourceUnit": "セイバールート十二日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"How rude! That's not true! This place is so small, it's like a mouse's toenail!\nS-so this place might be too small for you, Rin, but I can manage to live with Shirou here just fine!\"\nUh...\nWho does Illya want to offend here?",
+      "sourceUnit": "セイバールート十二日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you agree, Shirou? I can stay here, right?\"",
+      "sourceUnit": "セイバールート十二日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "She looks at me like I'm some kind of lifeline.\n...And then I remember something I heard a long time ago.\nMy old man always said you should protect girls.",
+      "sourceUnit": "セイバールート十二日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...I take back what I said earlier.\nSorry, Illya. I was the one who brought you here. Until the Holy Grail War ends...until all the remaining Masters are taken care of, we're going to give you shelter here.\"\n\"What!? Shirou!?\"",
+      "sourceUnit": "セイバールート十二日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Aha! I knew you were sweet as candy, Shirou!\"\n\"Hrrk! Illya, you're choking me! I can't breathe!\"",
+      "sourceUnit": "セイバールート十二日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...D-do not touch my Master, Illyasviel!\nAnd what do sweets have to do with any of this!?\"\n\"She means he's gone soft on her. Too sweet and soft.\"",
+      "sourceUnit": "セイバールート十二日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah! Why are you all getting in my way!?\nHave you got some kind of problem with me!?\"",
+      "sourceUnit": "セイバールート十二日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do! I will never forget what you did to Shirou! And you, Shirou! Do you still not understand that nothing good will come of sheltering Illyasviel!?\"",
+      "sourceUnit": "セイバールート十二日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"You've got it wrong, Saber. Illya doesn't have a Servant anymore, so she's not dangerous. She's no longer a Master, so she has no reason to fight us anymore.\nBesides, how would you feel if she got attacked after we abandoned her? Illya's life would be in danger, and the other Masters might gain power from her.\"",
+      "sourceUnit": "セイバールート十二日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...yes, that might be true, but...\"\nSaber hesitates.\nNo matter what she says, Saber understands that another Master might attack Illya if we leave her alone.",
+      "sourceUnit": "セイバールート十二日目-02:page18:1",
+      "recoveredDelimitedTail": true
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

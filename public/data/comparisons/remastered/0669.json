@@ -1,0 +1,22 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0669",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I can't see any meaning or purpose in standing back up.\nI close my eyes, as if to fall asleep.",
+      "sourceUnit": "桜ルート十五日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "There's no future left.\nMy Holy Grail War ends here.\nI was never a part of it to begin with.",
+      "sourceUnit": "桜ルート十五日目-02:page1:1",
+      "recoveredDelimitedTail": true
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

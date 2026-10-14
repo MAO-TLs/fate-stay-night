@@ -1,0 +1,271 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0129",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's two o'clock.\nThere's no sign of Tohsaka returning, so I just focus on finishing my assignment.",
+      "sourceUnit": "セイバールート九日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, the phone's ringing.\"\nThe ringing just reaches my ears from elsewhere in the house.",
+      "sourceUnit": "セイバールート九日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"It's in the living room. Tohsaka can—no, she won't dare pick up a phone in someone else's house.\"\nI doubt it's an important phone call, but I shouldn't ignore it.\nI stand up, and head to the living room to answer the phone.",
+      "sourceUnit": "セイバールート九日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "There's nobody in the living room.\nSaber and Tohsaka must be in the courtyard.",
+      "sourceUnit": "セイバールート九日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hello, Emiya residence.\"\n\"Hey there Emiya. I hear you're not at school again today. Are you sick or something?\"\nAll of a sudden...\nShinji's voice sounds from the other end of the line, heavy with barely restrained laughter.",
+      "sourceUnit": "セイバールート九日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that you, Shinji? What do you want? I don't think we have anything to talk about.\"\n\"Why the cold reception? I thought I'd call you to tell you something.\"",
+      "sourceUnit": "セイバールート九日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Tell me something...?\"\n\"Yeah. There was something I wanted to tell you, but you haven't been to school.\nI don't want to drag this out, so I called. Couldn't wait any longer. Is...Tohsaka around?\"",
+      "sourceUnit": "セイバールート九日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Shinji sounds kind of odd.\nHe seems weirdly excited.",
+      "sourceUnit": "セイバールート九日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I can hear other students in the background, so he must still be at school.\nIt's a little past two. Fifth period should be over, so I think it's break time right now.",
+      "sourceUnit": "セイバールート九日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you listening, Emiya? Is Tohsaka there or not?\"\n\"Not right now. She just stepped away.\"\n\"Okay, great. I only wanted to talk to you. I'm going to tell you something real good, so why don't you come to school right now? But come without telling Tohsaka, obviously.\"",
+      "sourceUnit": "セイバールート九日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI don't know how to respond to that.\nShinji's acting weird, and we're already talking.\nI don't see any reason to go all the way to school, and if I take off without telling Tohsaka, it'd feel like a betrayal.",
+      "sourceUnit": "セイバールート九日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, but I can't go to school. If you have something for me, it'll have to wait until next week. I'll go back to school after the weekend.\"\n\"Huh? Who put you in charge!?\nAnd that'll be too late. I just said I can't wait any longer!\"",
+      "sourceUnit": "セイバールート九日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Shinji's yelling now.\nHe must be really excited, because I can hear his heavy breathing over the phone.",
+      "sourceUnit": "セイバールート九日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh. So you're finally using your head. Yeah, you're right. There's no way you would come on your own at this point. This whole conversation's pretty suspicious, so of course you'd think it was bad news.\"\nHis tone shifts entirely, and he even starts laughing.",
+      "sourceUnit": "セイバールート九日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on a minute. Calm down. You're acting real strange, Shinji. I don't know what happened but—\"",
+      "sourceUnit": "セイバールート九日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahahahahaha! Don't lie, Emiya. Knowing Tohsaka, I bet she told you everything! You don't need to hide it from me. Yeah, you're Saber's Master, after all. That means you're much, much more of a murderer than I am!\"",
+      "sourceUnit": "セイバールート九日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Shinji seems to be enjoying himself.\nI've known him for about five years now, but I've never seen him so wound up.",
+      "sourceUnit": "セイバールート九日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji, are you...\"\n\"Just come to school, okay? And hurry, Emiya. You should be able to make it by sixth period. It's Fujimura's class anyway, so you won't get in trouble for being a bit late.\"",
+      "sourceUnit": "セイバールート九日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, even Fuji-nee would get mad if we were late for her class. And I might get even more of an earful if I only showed up for sixth period rather than just missing the whole day.\"",
+      "sourceUnit": "セイバールート九日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"That's your own fault. Oh and if you tell Tohsaka, then I'm ending our friendship for real. I turned a blind eye to the whole Sakura thing, but you can at least fulfill your obligations as a friend in the end, right?\"",
+      "sourceUnit": "セイバールート九日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Our conversation ends there.\nAll I hear is the buzzing electronic tone from the receiver.",
+      "sourceUnit": "セイバールート九日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"What's with him?\"\nBut what should I do?\nTohsaka should be in the house, but I don't see her anywhere. And if I go to school, I can't bring Saber.\nBut then, if I don't do what Shinji asks, I'm worried what he might do.",
+      "sourceUnit": "セイバールート九日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "He's probably agitated because of that merciless rejection Tohsaka gave him yesterday. If I ignore him, he might get violent with Sakura again.",
+      "sourceUnit": "セイバールート九日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it's still bright out, so it shouldn't be an issue.\"\nI should hurry, now that I've made a decision.\nIf I hurry, I should be able to make it by sixth period.",
+      "sourceUnit": "セイバールート九日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "There's nobody at the school gate.\nFrom the outside, it looks like the school is deserted, since class is in session.\nMaybe there's no physical education class either, since there's nobody in the courtyard either.",
+      "sourceUnit": "セイバールート九日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Well, that's going to change in a few minutes.\nWhen sixth period's over, school's out.\nThe campus and exits will be overflowing with people on their way out.",
+      "sourceUnit": "セイバールート九日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "I head up to the third floor.\nThere's nobody in the hallway either.\nEveryone must be in their classrooms, so I feel a little awkward walking into class C.",
+      "sourceUnit": "セイバールート九日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it's not like I'm going to be completely conspicuous, so I should hurry to the classroom.\"\nClass C is down the hall.\nRight now, I'm in front of class H, which is closest to the stairs, so there are five classrooms between me and my destination.",
+      "sourceUnit": "セイバールート九日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nA wave of dizziness slams into me.\nMy entire body is also overcome with nausea.\n\"U...Ngh...\"\nMy stomach churns.\nMy senses are going completely haywire.\nRed floods my vision...\n...as if blood were seeping into my eyes.\n\"Ha...ah...gh...n...!!!\"\nThe temperature around me hasn't changed, but my body is suddenly unbearably hot.\n\"...What the hell...is this!?\"\nI stumble.\nStrength leaves my body.\nI feel like I'm withering, and I can't do anything to stop it...in the same way you can't stop sand from falling in an hourglass.\n\"Kn...Ngh...!\"\nI'm suffocating.\nMy throat burns.\nWas all the air sucked from this hallway...from the entire school!?\nI sway and, by accident, stagger toward a window. Desperate for air, I jerk it open.\n\"Wha...!?\"\nI freeze.\nThis is so unbelievable I can't even find the wherewithal to get confused.\nOutside the window...\n...the entire campus is a field of endless red.\nIt looks like the school was carved out of the world and plunged into a sea of red.\nThe school building looks like an altar, draped in a red canopy.\nAnd then finally...\nI realize what's happening.\n\"Ungh...!\"\nI move away from the window.\nI muster up what sense I have left and force my feet to move, heading into the classroom closest to me.\nInside...\n...not a single student is seated in any of the chairs.\nThey're all lying on the floor. Even the teacher is on the floor behind the podium.\nThey're still breathing.\nEveryone is convulsing, as if pleading for help.\nNobody is dead yet.\nThe students don't have the strength to get up. They're just waiting to rot away.\nSeeing their miserable state on the floor...\n...brings to mind the burning ruins from that day.\n\"Ah...gngh...\"\nThe nausea intensifies.\nBut, I can still get a handle on the situation.\nI take a look at the students on the floor.\nIt's difficult, but we can breathe.\nThey're not dead. If I hurry and get help, there may be a chance to save them.\nBut the moment I check the face of a student nearby, something clicks inside my head.\n\"Their...skin...\"\nIt's hard as wax.\nNot everyone is like this.\nIt varies from person to person, but the most severely weakened students' blood seems to have coagulated around their joints.\nOily and glistening...\n...stiff, motionless arms, fixed, staring eyes...just like wax figures.\n...\nI know this...\nI recognize this scene.\n\"...Stop.\"\nThis is just...a hellscape...\nI know this sight well.\n\"I said, stop...\"\nAll that's sustaining me now...\n...is anger that has completely eclipsed any fear.\n\"Guh...!\"\nMy left arm tingles.\nThe Command Spell on the back of my hand is warning me that an enemy is nearby.\n\"Ha...ah...!!!\"\nI run, though my breathing is heavy and labored.\nI've long since lost my mind.\n\"Yo, Emiya. Glad to see you're doing better than I expected.\nSo what do you think of this?\"\nAt the end of the hallway.\nShinji Matou is standing in front of class C.",
+      "sourceUnit": "セイバールート九日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "My arm throbs.\nMy Command Spells are screaming at me, telling me the boy just ahead caused all of this.",
+      "sourceUnit": "セイバールート九日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"So this is all your doing, Shinji?\"\nI can't breathe properly, but I glare at Shinji, who is keeping his distance.\nHe must really like what he's seeing.\nBecause the next thing I know, Shinji throws his arms wide and starts cackling in the bloodred hallway.",
+      "sourceUnit": "セイバールート九日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course it is. I knew as soon as you arrived, so I triggered the Bounded Field. It wasn't easy to time just right, you know? If I did it too early, you'd run away, and if I did it too late, we would've had to face each other.\nI wanted to see the look on your face myself, so I didn't want to make it too simple.\"",
+      "sourceUnit": "セイバールート九日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"So you were lying about having something to discuss.\"\n\"Discuss? Actually, we're just about to start that part. I need to show Tohsaka how much better I am than you. And I should apologize for lying to you as well.\nSee, I didn't tell you that I was the one who put the Bounded Field up over the school.\"",
+      "sourceUnit": "セイバールート九日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Shinji laughs like it's the funniest thing ever.\n...\nThat...\nI guess I've learned never to trust him.",
+      "sourceUnit": "セイバールート九日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. You don't look as surprised as I'd have thought. So when I told you the Bounded Field wasn't mine, you didn't believe me. Ha! Oh, this is too good. So sometimes even you don't trust people!\"\nShinji's merry laughter bores into my skull like a drill.",
+      "sourceUnit": "セイバールート九日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...\nI have to point out, I'm plenty surprised.\nI'd just been bracing myself to learn who set up this Bounded Field: Shinji or the other Master.",
+      "sourceUnit": "セイバールート九日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That was all.\nBut so much for my optimism.\nI should have settled things with Shinji the moment I learned he was a Master.\nThis is all my fault.",
+      "sourceUnit": "セイバールート九日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Why did you do this? Were you lying about having no intention of fighting too?\"",
+      "sourceUnit": "セイバールート九日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I think that was the truth. I had no intention of activating this. It was really just a negotiation tool.\nIf I set a bomb, Tohsaka would think twice about attacking me, and I'd have an ace up my sleeve in case something happened.\"",
+      "sourceUnit": "セイバールート九日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. But Tohsaka said it would take a few more days to activate the Bounded Field. Does that mean she miscalculated?\"",
+      "sourceUnit": "セイバールート九日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. She would say that. But you know, the Bounded Field may not be complete, but it's already formed. Activating it is no problem.\nOkay, I admit that does make it less effective. At this point, it might take a few more minutes to kill anyone.\"",
+      "sourceUnit": "セイバールート九日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Stop it.\"\nThe nausea is long since gone.\nThat one thing is all I can think to say to Shinji right now.",
+      "sourceUnit": "セイバールート九日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop it? Stop what? You're not telling me to stop this Bounded Field, are you? I can't waste a perfectly good Bounded Field by stopping it after it's already been activated.\"",
+      "sourceUnit": "セイバールート九日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I said, stop it. Do you have any idea what you've done!?\"",
+      "sourceUnit": "セイバールート九日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"You're pissing me off. You think you can order me around?\nBesides, this is my power. I'm the one who decides whether or not to stop it, and if you really want me to stop it, the least you can do is to get on your knees and beg. Honestly, you and Fujimura both need to learn your place.\"",
+      "sourceUnit": "セイバールート九日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. What about Fuji-nee?\"",
+      "sourceUnit": "セイバールート九日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Oh, Fujimura? She managed to squirm around even after the Bounded Field activated. Everyone was dropping like flies, but there she was, still wobbling around.\nSo she hobbled over to me since I was still standing, and had the nerve to tell me to call an ambulance. Unbelievable, right? Playing the model teacher and all that.\"",
+      "sourceUnit": "セイバールート九日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I'm not gonna do something like that. Don't want to. But Fujimura kept clinging to me, which really pissed me off. But when I kicked her, she stopped moving!\nHahahaha! She'll probably die first!\"",
+      "sourceUnit": "セイバールート九日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel a switch flipping inside me.\nTohsaka said something about pressing a switch in my head, but it's nothing like that.\nThere's this...echoing clang in my head.\nA firing hammer strikes inside my head, and the inside of my body suddenly switches over.",
+      "sourceUnit": "セイバールート九日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"This is your last warning. Stop the Bounded Field, Shinji.\"\n\"You really don't get it, do you? The more you try ordering me around, the less I want to listen. If you don't like what I'm doing, then you'd better try to stop me yourself, Emiya.\"\n\"Got it. Then it's really simple.\"\nAll I have to do...\nI need to stop him so I can stop the Bounded Field.",
+      "sourceUnit": "セイバールート九日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Something surges inside me.\nFiery heat blooms through my whole body.\nThere's no more than twenty meters between me and Shinji.\nIt should only take an instant.\nMy body is surging with vitality...so much more than when I activate my Magic Circuits.",
+      "sourceUnit": "セイバールート九日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha! You really are an idiot!\"\nA shadow wavers.\nThe dark shape waiting in the corner of the hallway begins to take shape and move.\nA hard, sharp edge made of darkness itself...\nIt's like a guillotine, ready to cleave anything that approaches Shinji in two.",
+      "sourceUnit": "セイバールート九日目-03:page51:1"
+    },
+    "page52": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート九日目-03:page52:1"
+    }
+  }
+}

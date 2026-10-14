@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0474",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There's a time and place for complete honesty.\nJust thinking back to that dream was enough to make me blush, and if I described it out loud, I'm pretty sure I'd pass out from the ensuing fever.",
+      "sourceUnit": "桜ルート六日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, who was in your dream?\"\n\"Nobody, really! You know, people forget dreams as soon as they wake up, so it's not like I still remember everything.\"",
+      "sourceUnit": "桜ルート六日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? I'm curious what you do remember, though.\"",
+      "sourceUnit": "桜ルート六日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You...!\"\nSh-she suddenly gets more aggressive, closing in on me after I've retreated from my futon.",
+      "sourceUnit": "桜ルート六日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey, please don't get any closer! I'm begging you, this topic is off limits!!!\"\nI wave my hands in the air frantically and roll on the ground.",
+      "sourceUnit": "桜ルート六日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Damn it. I really do need to train more.\nUntil now, I've always managed to not be too conscious of her, but thanks to that damn dream, every single move Sakura makes is setting me off!",
+      "sourceUnit": "桜ルート六日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"P-please, just leave me alone for a while. Shouldn't you listen to what a sick person asks for!?\"\nI take up position in a corner of the room and entreat Sakura.",
+      "sourceUnit": "桜ルート六日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew. All right. I won't pry.\nI really am curious about your dream, but I'm afraid it would raise your fever to push you on it.\"\nSakura retreats in disappointment.",
+      "sourceUnit": "桜ルート六日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. But thanks for being considerate.\"\nI eagerly return to bed.",
+      "sourceUnit": "桜ルート六日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, Senpai, I'm off to make lunch now.\nI'll come get you when it's ready, so please take it easy until then.\"\n\"Oh, right. Thanks.\"",
+      "sourceUnit": "桜ルート六日目-04:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

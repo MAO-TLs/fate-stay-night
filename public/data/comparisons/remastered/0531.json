@@ -1,0 +1,271 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0531",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I arrive at my house.\nIt's well past 1:00 AM.",
+      "sourceUnit": "桜ルート八日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Guoh.\"\nA brief coughing fit makes me cover my mouth, and I notice a little blood on my hand.\nIt still hurts where Assassin punched me, and my back stings where it hit the wall.\nI don't know what the internal damage is like, but my back is probably bruised.\nBefore, I would heal from light injuries right away, but now they don't heal at all.",
+      "sourceUnit": "桜ルート八日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. I'm back to normal.\"\nMy pact with Saber let me heal from all injuries on my own.",
+      "sourceUnit": "桜ルート八日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "That's gone now.\nEven a small wound could prove fatal.",
+      "sourceUnit": "桜ルート八日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai.\"\nSomeone calls me.\nSakura's standing in the hallway just past the front door.",
+      "sourceUnit": "桜ルート八日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura? What's wrong? It's the middle of the night. Did I wake you up?\"",
+      "sourceUnit": "桜ルート八日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm up late because I couldn't fall sleep. I saw your shoes were gone, so I wondered if you went out.\"\n\"Yeah, I just went out for a walk.\"",
+      "sourceUnit": "桜ルート八日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Oh, right. The lights were on when I got back.\nHas she been here the whole time?",
+      "sourceUnit": "桜ルート八日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, were you waiting here the whole time?\"\n\"Huh? N-no, I wasn't.\nI...just needed to use the bathroom and happened to pass by the entrance.",
+      "sourceUnit": "桜ルート八日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe was definitely waiting for me.\nIt's been just under 3 hours since Saber and I set out.\nMaybe Sakura noticed me leaving right away and waited here the entire time.",
+      "sourceUnit": "桜ルート八日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, Senpai, would you like some tea!?\nI know it's late, but I think you'll feel better if you can relax with some warm tea!\"",
+      "sourceUnit": "桜ルート八日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy eyes widen.\nSuddenly, Sakura is uncharacteristically forceful.\n...I must be in pretty bad shape if she's this worried about me.",
+      "sourceUnit": "桜ルート八日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, thanks. It's good to be back. Sorry for going out without telling you.\"\nI take off my shoes and go inside.\nI keep a hand on my hurting stomach and head for the living room.",
+      "sourceUnit": "桜ルート八日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Sakura steps in front of me.\n\"Welcome home, Senpai.\"\nShe replies, sounding somehow relieved.",
+      "sourceUnit": "桜ルート八日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ouch.\"\nI jump up from the seat cushion my butt is on.\nThe antiseptic drenching my back burns something fierce.\nIt even makes a sizzling sound, making me feel like I'm being roasted over coals.",
+      "sourceUnit": "桜ルート八日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That hurts, Sakura. I don't need the antiseptic, so just dress the wounds with gauze.\"",
+      "sourceUnit": "桜ルート八日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't do that! Your back is all red, so I have to disinfect it! Of course it hurts, with injuries that bad. Just hold on a little longer.\"",
+      "sourceUnit": "桜ルート八日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow!\"\n...Oof. I wonder if she's this tough on injured people thanks to the kyudo club, or Fuji-nee.",
+      "sourceUnit": "桜ルート八日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Does it hurt anywhere else, Senpai?\"\n\"Mmm... No, I only got hurt on my back and stomach. That's all.\"",
+      "sourceUnit": "桜ルート八日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then I'll just tape some gauze over it.\"\nSakura wields the first-aid kit with practiced efficiency.\nHer face is stern as she works, and I don't feel like I can interrupt her.",
+      "sourceUnit": "桜ルート八日目-20:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew.\"\nNow, then...\nIf you're wondering how this happened, it's because I accidentally threw up the tea as soon as it hit my stomach.\nI'd planned on hiding it, but Sakura found out.",
+      "sourceUnit": "桜ルート八日目-20:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Then, she pouted until I confessed that I got injured, and now she's treating my wounds.\nOf course, she wasn't this aggressive as soon as I got home.",
+      "sourceUnit": "桜ルート八日目-20:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Y-your stomach got injured!?\"\nWhen I showed Sakura my abdomen,\nshe blushed so furiously she couldn't even begin to render first aid.",
+      "sourceUnit": "桜ルート八日目-20:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sure, Sakura? I can do it myself, so you don't have to make yourself do that. Plus, my back is worse.\"\n\"I-it's okay! I'll do it! Please, let me!\"\nShe became so flustered that I was worried she would swoon before she could even treat my back.",
+      "sourceUnit": "桜ルート八日目-20:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"S-S-S-Senpai, um, please take off your shirt.\"\nI didn't want to stop Sakura when she's trying so hard, and I couldn't have treated my back on my own.\nSo, with all that in mind, I took off my shirt and let her work on my back.",
+      "sourceUnit": "桜ルート八日目-20:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "My back is scratched all over, and for a while, Sakura didn't do anything.\nAfter staring at each other for a few minutes, she gulped and announced that she'd start giving me first aid.",
+      "sourceUnit": "桜ルート八日目-20:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat was 20 minutes ago.\nIt's now past two in the morning.\nSakura's diligent care is almost finished.",
+      "sourceUnit": "桜ルート八日目-20:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"There, I'm done. I brought you a new shirt, so go ahead and put it on.\"\n\"Huh? Oh, you're finished already? Thanks, Sakura.\"",
+      "sourceUnit": "桜ルート八日目-20:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"No, thank you for your patience.\"\nI put on a fresh shirt and take a deep breath.\nI can't do much about the bruise on my stomach, but my back pain feels a little better.\nI'll sleep on my stomach tonight. Hopefully it won't hurt as much tomorrow.",
+      "sourceUnit": "桜ルート八日目-20:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I'd better get to bed, then. Sorry for making you stay up so late.\"\n\"Huh? N-no, it wasn't any trouble, but...\"\nSakura looks down.\nShe looks like she wants to say something, but can't.",
+      "sourceUnit": "桜ルート八日目-20:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? Did something happen while I was gone?\"\n\"...Um, Senpai, did Saber go home?\"",
+      "sourceUnit": "桜ルート八日目-20:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nI go dizzy for a second.\n\"Did Saber go home?\"\nHearing it out loud from someone else finally drives the hammer home.",
+      "sourceUnit": "桜ルート八日目-20:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Something urgent came up, so she had to leave. She won't be coming back.\"",
+      "sourceUnit": "桜ルート八日目-20:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I push through the dizziness, steady my breathing, and answer calmly.\nSakura has doubts, I'm sure.\nSaber was just here four hours ago, so she must think something happened.\nSo I need to be calmer than anyone and act like everything's fine.",
+      "sourceUnit": "桜ルート八日目-20:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber was talking about you earlier tonight. She said that you're too hard on yourself, and that you should lighten up.\"",
+      "sourceUnit": "桜ルート八日目-20:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...She did? We just made up, so I'm sorry that we couldn't say goodbye.\"\nI can't even nod.\nSaber disappeared before she could say farewell to anyone.",
+      "sourceUnit": "桜ルート八日目-20:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...It pains my heart so much I want to throw up.\nFor only six days, we worked together.\nFor only six days, we were partners.\nFor only six days...she swore to be my sword, and how did I repay her?",
+      "sourceUnit": "桜ルート八日目-20:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"But I'm glad to hear that. You've just been getting hurt since she arrived. Now everything can go back to normal.\"\n\"Huh?\"",
+      "sourceUnit": "桜ルート八日目-20:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Isn't that right? I won't ask what you've been up to, but you were going out at night for Saber, weren't you?\nNow that she's gone home, you won't have to be in danger anymore.\"",
+      "sourceUnit": "桜ルート八日目-20:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Saber might be gone, but I'm still going to go on my nighttime walks... Um, I wasn't going with her. I asked her to come with me.\"",
+      "sourceUnit": "桜ルート八日目-20:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I stand up.\nI feel less tense now that the first aid is finished.\nI suddenly feel sleepy.",
+      "sourceUnit": "桜ルート八日目-20:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Sen...pai...?\"\n\"Good night, Sakura.\nAbout that—I'm probably going to be out of the house from tomorrow, so make yourself at home like always.\nMake sure you get enough sleep, and don't worry about me coming home late. I don't want you waiting in the entrance all night again.\"",
+      "sourceUnit": "桜ルート八日目-20:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"......Okay. Good night, Senpai.\"",
+      "sourceUnit": "桜ルート八日目-20:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I can rest my body now.\n...I didn't notice before, but I'm seriously exhausted.\nJust lying down on my stomach is enough to make my body and mind sleepy.",
+      "sourceUnit": "桜ルート八日目-20:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nBefore I pass out, I stare into the dark, hardening my resolve.\nWhat defeated Saber? What am I supposed to fight?\nI need to get that through my head right now.",
+      "sourceUnit": "桜ルート八日目-20:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\n...The memory makes my chest creak.\nI tremble slightly, feeling a frustration that goes beyond anger or fear. I feel like my heart's going to break.",
+      "sourceUnit": "桜ルート八日目-20:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Who...I have to fight.\"\nThat Shadow.\nThat thing out there indiscriminately attacking people.\nThe black shape that even Saber and Archer were afraid of.",
+      "sourceUnit": "桜ルート八日目-20:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "...I didn't see it happen, but I'm pretty sure of it.\nSaber lost to that thing.\nAssassin couldn't have beaten her.\nIf anything back there could have defeated her, it had to have been that Shadow.",
+      "sourceUnit": "桜ルート八日目-20:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'll defeat the thing that beat Saber.\nIt isn't my only enemy. I need to deal with Zouken and Assassin, too.\nZouken said that he had no more use for me since I'm no longer a Master.\nBut as long as I fight in the Holy Grail War and pursue the Shadow, Zouken is sure to appear.",
+      "sourceUnit": "桜ルート八日目-20:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\n...My body trembles.\nSaber isn't here anymore.\nWithout her miraculous healing, I only have my half-baked magecraft to protect me.\nI know how foolish and suicidal that is.",
+      "sourceUnit": "桜ルート八日目-20:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"But I've decided to fight. I'm going to be a man who does what's right.\"\nI lost Saber to do that.\nIt's why I've been following in Kiritsugu's footsteps ever since the fire.",
+      "sourceUnit": "桜ルート八日目-20:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "The only choice I have is to stop this war, so that the tragedy can never happen again.\n...And that's why this is the last night I'm allowed to tremble like this.\nIn the morning, once my injuries have healed...\nI have to become a stronger version of myself that she would be proud of.",
+      "sourceUnit": "桜ルート八日目-20:page51:1"
+    },
+    "page52": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

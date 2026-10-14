@@ -1,0 +1,196 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0261",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Everyone digs in.\nThis is the first time that the four of us are eating around the dining table. I can't help but feel that this is nice.",
+      "sourceUnit": "凛ルート五日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? This tastes kind of bland. Did you change the broth, Sakura?\"\n\"Yes. I figured that Saber wouldn't be used to miso soup.\nSo I thought I shouldn't make it too strong.\"",
+      "sourceUnit": "凛ルート五日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I like today's miso soup more than last night's. However, Sakura, I am used to Japanese food, so please do not worry about me and cook as you will. I am certain it will be fine.\"",
+      "sourceUnit": "凛ルート五日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, are you sure? Hey, you can use chopsticks. I'm surprised. You're very good at that, Saber.\"",
+      "sourceUnit": "凛ルート五日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I am used to it.\n...However, to be honest, using chopsticks is tiring. I do believe that they are superior to a fork and knife, however.\"\n\"Yeah, you usually use a fork and knife and not chopsticks, huh? Oh, that's not what you put on there. You have to put soy sauce on that.\"",
+      "sourceUnit": "凛ルート五日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Thank you for the warning.\"\n\"No problem. I'll take some of your seaweed as a reward.\nGive me seconds, Shirou.\"\n\"Okay. Don't eat too much and fall asleep again.\"",
+      "sourceUnit": "凛ルート五日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Ms. Fujimura? I think you should hold back a little if you're going to participate in today's morning practice...\"\n\"It's all right. I need to eat this much or else I won't last until lunch. And you're not one to talk, eating rice balls after morning practice.\"",
+      "sourceUnit": "凛ルート五日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...! You knew about that!?\"\n\"Heh. I was watching you since you were in the corner acting suspiciously. A girl your age shouldn't be eating two meals for breakfast.\nThe devil comes down on your scale one day to terrorize you. Hehe, according to my estimate, your weight right now is—\"",
+      "sourceUnit": "凛ルート五日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No! Please don't, Ms. Fujimura! If you say it, I won't make you breakfast anymore!\"\n\"Man.\"\n\"A-also, I only eat between meals every now and then. It's not like I do that everyday!\"",
+      "sourceUnit": "凛ルート五日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, is that so? I thought you make rice balls every day since you always cook extra rice.\"\n\"Y-y-you knew about that, Senpai!?\"",
+      "sourceUnit": "凛ルート五日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Haha. Oh, Sakura. Shirou is oddly sharp when it comes to picking up details like that. I bet he knew from the first time you made it.\"\n\"The first time? You mean last summer?\"",
+      "sourceUnit": "凛ルート五日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah...!!!\"\n\"Hm? Is there dust in the air, Sakura? Why are you waving your hands like that?\"",
+      "sourceUnit": "凛ルート五日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Breakfast proceeds like that.\nThe morning is twice as noisy as usual.\nIn the midst of that...\n\"...Over fifty victims were found earlier this morning, and they are undergoing treatment at a nearby hospital...\"\nSome disturbing news is on the TV.",
+      "sourceUnit": "凛ルート五日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? Another gas leak in Shinto? Wow, it's fifty people this time.\"",
+      "sourceUnit": "凛ルート五日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, so people couldn't contact the victims last night, so some of the family members got suspicious and called their work. But when they checked with security, there was nobody left in the office... What is this?\nHow did security not notice that everyone in the building was unconscious since the evening? That's way beyond dereliction of duty.\"",
+      "sourceUnit": "凛ルート五日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee must've lost her appetite, as she stops eating her third bowl of rice.",
+      "sourceUnit": "凛ルート五日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber is watching the news with a grim expression.\n...In that case, there's no doubt.\nI don't know what their motive is, but this is something done by a Master.\nIt's fortunate that there were no deaths like the other gas leak incidents, but...",
+      "sourceUnit": "凛ルート五日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Geez, it's getting dangerous.\nShirou, no more working in Shinto for a while. You have a lot in your savings, so take it easy during these times.\"",
+      "sourceUnit": "凛ルート五日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nI appreciate that she's worried about me, but I can't reply.\nThis is no time to be working anyway, but I won't be able to come home as often now that I'm at war.\nAnd so...when I can't come home, I'll have to lie and say I'm working so I don't make Fuji-nee and Sakura worry...",
+      "sourceUnit": "凛ルート五日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I finish cleaning up and go to the front door.\nFuji-nee and Sakura already left for morning practice.",
+      "sourceUnit": "凛ルート五日目-20:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Saber is trying to follow me again like yesterday.\nBut, I can't let her do that today.\nThe weekends are fine, but there's no way I can bring Saber to school on a weekday.",
+      "sourceUnit": "凛ルート五日目-20:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, this is as far as you can go.\nPlease stay here while I'm at school. There'll be more commotion if you go to school with me, and most of all, you'll stand out. Masters should avoid attracting attention, right?\"",
+      "sourceUnit": "凛ルート五日目-20:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe must not be satisfied, as she silently protests.",
+      "sourceUnit": "凛ルート五日目-20:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay. I won't be attacked in places where there's people, so school is safe. Besides, I can manage if it's just protecting myself.\"",
+      "sourceUnit": "凛ルート五日目-20:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...\"\nSaber's eyebrow twitches.\nShe must have an objection about the fact that I can protect myself.",
+      "sourceUnit": "凛ルート五日目-20:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Allow me to ask you one thing. Are you saying that you can defeat enemies by yourself?\"",
+      "sourceUnit": "凛ルート五日目-20:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. I'm saying that I can avoid danger by myself during the daytime.\nI won't go near places where there's no people and I'll come back before dark.\nThat'll be okay with you, right? You also have to be resting to preserve your magical energy, so you don't have to follow me.\"",
+      "sourceUnit": "凛ルート五日目-20:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm, I understand. I have to believe you if you say so.\"\n...She is seriously worried about my safety.\nI feel bad for turning her down.",
+      "sourceUnit": "凛ルート五日目-20:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry, Saber.\nBut it'll be all right. Also, you'll know when I'm in danger, right? You can come to me if that happens.\"",
+      "sourceUnit": "凛ルート五日目-20:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that does not happen. Our connection is weak. The only time I will sense you in danger is when death is already imminent. It will be too late if I head over then.\"\n\"Hm. Then I have to call for you myself?\"",
+      "sourceUnit": "凛ルート五日目-20:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. If you think that you need me, then I can tell as your Servant. Even then, if you believe that I will not make it in time, then please use a Command Spell. With that, I will be able to jump through space and go to protect you.\"",
+      "sourceUnit": "凛ルート五日目-20:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Jump through space...?\nThat's...really close to True Magic, I think.\nThe right to absolute obedience, the Command Spell, is something that powerful?",
+      "sourceUnit": "凛ルート五日目-20:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Got it, I'll try my best not to get into that situation. I'll be back before dark, so please look after the house.\"\nI wave her goodbye and put my hand on the door.",
+      "sourceUnit": "凛ルート五日目-20:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. Please be careful, Shirou.\nYour school is abnormal. Please be on guard the whole time. Make sure not to go near Rin especially.\"",
+      "sourceUnit": "凛ルート五日目-20:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? Are you saying that Tohsaka will attack me at school? I don't think that's likely.\"",
+      "sourceUnit": "凛ルート五日目-20:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "She is truly a mage.\nThe Association's rule to not involve any innocent people is ingrained in her. And she seems set on wearing the mask of the model student.\nI would think she would even greet me casually if we see each other at school.",
+      "sourceUnit": "凛ルート五日目-20:page35:1"
+    },
+    "page36": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page37": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

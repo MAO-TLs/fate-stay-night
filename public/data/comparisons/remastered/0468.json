@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0468",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The lead actor exits the stage,\nleaving only a wordless corpse.\nAnd something\nconsumes it.\nIt leaves no body.\nThe wooden floor becomes a bottomless swamp, its crimson mass spreading out to consume the man's unmoving body.",
+      "sourceUnit": "桜ルート五日目-22:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It takes not only the man, but the thing he used to command.\nThe soul modeled after the Servant Caster falls to the black shadow.\nThat is not how things should be.\nWhen a Servant loses and disappears, it goes back to the Holy Grail.\nSomething which violates this rule is subject to inevitable decay, no matter how powerful it is.",
+      "sourceUnit": "桜ルート五日目-22:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt cries without a sound.\nIn anguish, it bubbles and churns until it finally devours the first person.",
+      "sourceUnit": "桜ルート五日目-22:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "It shuffles forward, like waves lapping on the shore.\nIt has no voice to scream, so it expresses pain with its entire body.",
+      "sourceUnit": "桜ルート五日目-22:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It has no words, no emotions.\nFrom the beginning, it was never equipped with such functions.",
+      "sourceUnit": "桜ルート五日目-22:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

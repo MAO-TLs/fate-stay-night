@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0404",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nI have no right to stop them.\nIt doesn't matter if he was Caster's puppet, Kuzuki didn't put a stop to what Caster was doing.\nNot only did he not stop Caster from draining the townspeople's magical energy, he even encouraged her to do it.\nIn that case... Even if Kuzuki is not a mage, he is still without a doubt a Master in this war.",
+      "sourceUnit": "凛ルート十四日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "To a Master, defeating your opponent means killing them.\nHe was aware of this fact before getting himself involved thus far, and he chose to fight knowing he will have to kill or be killed trying.",
+      "sourceUnit": "凛ルート十四日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Kuzuki is not seeking any help, nor is he admitting his defeat.\nThe only thing that will stop the man in front of me is death.\n...But.\nAs a Master myself, how can I stop them?",
+      "sourceUnit": "凛ルート十四日目-02:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

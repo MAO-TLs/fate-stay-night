@@ -1,0 +1,321 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0621",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's after 10:00 PM now.\n\"It's time. We should go, Shirou.\"\nTohsaka appears, ready to leave.\n\"I know. Take care of the house, Sakura.\"",
+      "sourceUnit": "桜ルート十一日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and I will go out on patrol, as planned.\n...It sounds stupid to think that we can fight back against Zouken by patrolling the town, but that's all we can do at the moment.",
+      "sourceUnit": "桜ルート十一日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The enemies we have to beat are Zouken, Assassin, Saber, and that mysterious Shadow.\nTo be honest, there's no way we can beat them in a straight fight.\nI just have to be patient while Tohsaka comes up with countermeasures.",
+      "sourceUnit": "桜ルート十一日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Despite that, we can't stay cooped up in the house.\nAs the news said this morning, Zouken has started attacking civilians.\nWe might not be able to beat him now, but I don't think it's a waste to try and prevent more people from falling victim.",
+      "sourceUnit": "桜ルート十一日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nI put on my shoes without saying anything.\nBoth of us know how dangerous it is to go out at night.\nEven if Zouken is only after Sakura, he might consider it a nuisance if we're walking around town.\n...In the worst case, what happened in the forest might happen again.\nThe thought doesn't make me very talkative.",
+      "sourceUnit": "桜ルート十一日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey. What's your problem?\"\nAnd then...\nI'm not in the mood even for a serious talk, but I look up to see Tohsaka staring at me.",
+      "sourceUnit": "桜ルート十一日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"If you're just seeing us off, that's fine. Behave and go back to your room, Sakura.\"\n\"...\"\nStaring through me, to be exact.\nShe's glaring at Sakura, who's standing in the hallway.",
+      "sourceUnit": "桜ルート十一日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Nee-san. I think I should go with you after all. It's too dangerous out there for the two of you alone.\"\n\"Sakura...\"\nSo that's why she's here.\nI appreciate the sentiment, but we have to stick to the plan.",
+      "sourceUnit": "桜ルート十一日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You know that Zouken is after you. You need to stay here with Illya and protect yourselves.\"",
+      "sourceUnit": "桜ルート十一日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that. But you can't move one of your arms, and Nee-san doesn't have a Servant anymore, so...\"\n\"Cut the crap, Sakura. You're still our enemy. I can't trust someone that might turn into Zouken's puppet at any second to watch my back.\"",
+      "sourceUnit": "桜ルート十一日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... But, Nee-san...\"\n\"You just need to protect yourself. If you feel bad for us at all, then don't create more work for us by pulling something like this. You just need to have Rider protect yourself and Illya.\"",
+      "sourceUnit": "桜ルート十一日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, you don't have to—hey!\"\n\"Come on, get your head in the game. There might be new victims while we stand around talking.\"\nTohsaka grabs my hand and pulls me out of the house.",
+      "sourceUnit": "桜ルート十一日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... A-anyway, be careful, Sakura! Take care of Illya!\"",
+      "sourceUnit": "桜ルート十一日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"",
+      "sourceUnit": "桜ルート十一日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka! Hold on! I'm coming with you, so let go of my hand.\"\n\"Hmph. It's your fault for taking your sweet time.\"\nTohsaka releases my hand and stops power walking.",
+      "sourceUnit": "桜ルート十一日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What? If you have something to say, say it.\"\nShe's being like this now,\nall rushed and weirdly belligerent.\nGood grief.\nIf you're that self-conscious about it, then you didn't need to use that tone with her, idiot.",
+      "sourceUnit": "桜ルート十一日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. Fine, I'll say it. Don't be so hard on Sakura. She didn't ask to be in this situation.\"",
+      "sourceUnit": "桜ルート十一日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that. But I had to be firm with her. If she doesn't commit to this, it'll make her easier for Zouken to exploit.\"",
+      "sourceUnit": "桜ルート十一日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not sympathizing with Sakura.\nI had nothing to do with her being Zouken's puppet or being adopted by the Matous. That's her own problem, and I can't fix any of that just by talking about it.\"",
+      "sourceUnit": "桜ルート十一日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...\"\n\"I'm only at that house because of you, not Sakura. Got that?\nMy goal is to get the Holy Grail, not save her.\nTo do that, I need to keep an eye on Sakura, even if she hates me for it. That's why I talked to her that way, and I'm going to keep treating her as my enemy.\"",
+      "sourceUnit": "桜ルート十一日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...So you don't care if she hates you? Because you're total strangers?\"\n\"That's right. You got a problem with that?\"\n\"Of course I do, stupid.\"",
+      "sourceUnit": "桜ルート十一日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...That's so like Tohsaka.\nShe's normally so bold and decisive, but right now, I can see her clenching her fist and trying her best to convince herself.",
+      "sourceUnit": "桜ルート十一日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. If that's how you want to play this, then go ahead.\nNo matter how you decide to act, Sakura knows how you really feel.\"",
+      "sourceUnit": "桜ルート十一日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...what do you mean, how I really feel!?\"\n\"How much you care about her, I mean. If even an outsider like me can notice it, then Sakura sees right through you.\"",
+      "sourceUnit": "桜ルート十一日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... You don't understand. I just, um...\"\n\"I do understand. People don't feel sincere anger for someone they don't care about. That's why you're stern with her, right? You don't say it out loud, but you think of her as your precious little sister.\"\n\"Y-you don't know what you're talking about! Stop pushing my buttons like that, you dummy!!!!\"",
+      "sourceUnit": "桜ルート十一日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is so angry she becomes red in the face.\nBut it doesn't have its usual impact, which tells me enough.",
+      "sourceUnit": "桜ルート十一日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Am I bugging you?\"\n\"Obviously.\"",
+      "sourceUnit": "桜ルート十一日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then let me bug you with this. I want you and Sakura to get along. Sakura likes you, and you like her too, so I don't like seeing the two of you act the way you did earlier.\"",
+      "sourceUnit": "桜ルート十一日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...You know, I did say that she's my enemy. That won't change just because I'm nice to her. To begin with...how are we supposed to be friends, after all this time?\"\n\"Just keep doing what you've been doing. Have some faith in yourself, Tohsaka. I think you're being a good big sister.\"",
+      "sourceUnit": "桜ルート十一日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... W-we're wasting time! Let's go to the crime scene we saw on the news!\"\nTohsaka spins on her heel and stomps off.\nI follow her with an absentminded \"sure, sure.\"\nBut then...",
+      "sourceUnit": "桜ルート十一日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\nShe says my name without looking at me,\n\"Um, thanks. That made me happy.\"\nand grumbles, embarrassed.",
+      "sourceUnit": "桜ルート十一日目-13:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...There's no one at the central park.\nIt isn't particularly crowded even during the day, and now it's extra quiet after last night's murders.\nThe park wasn't built as a place to rest between the office buildings. It's no different from an undeveloped wasteland.",
+      "sourceUnit": "桜ルート十一日目-13:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Murders, huh? They aren't treating it as an accident. Well, it's hard to tell because they don't know exactly who died or where the bodies are, but it's suspicious that they're calling them murders.\"",
+      "sourceUnit": "桜ルート十一日目-13:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "There are still bloodstains on the grass.\nQuite a lot of blood, spilled in four separate areas.\nThey're some distance from the blackened ground, probably because the victims tried to run away.",
+      "sourceUnit": "桜ルート十一日目-13:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. You said that Zouken didn't do this, but what do you think now? Has your impression changed now that we're here?\"",
+      "sourceUnit": "桜ルート十一日目-13:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let me think. I thought the Shadow did this, but now I'm not so sure.\nWhenever it shows up, it sucks in all the mana around it. But this place isn't dry of mana... I still think that whatever happened here was an unplanned meal, though.\"",
+      "sourceUnit": "桜ルート十一日目-13:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That's all we manage to learn from the scene.\nWe leave the site of the tragedy.",
+      "sourceUnit": "桜ルート十一日目-13:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...We don't find anything else of note in Shinto.\nGiven how conspicuous last night's incident was, it's possible that Zouken's group is trying to keep a low profile tonight.",
+      "sourceUnit": "桜ルート十一日目-13:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "It's almost midnight.\nTohsaka and I head home, feeling a cool breeze from the riverbank.\nI ask her a question on the way.\n\"Tohsaka. Sakura's the successor to the Matous, right?\"\nI've been curious about something for a while.",
+      "sourceUnit": "桜ルート十一日目-13:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you asking now? It's not a secret anymore.\"\n\"No, I mean, if she's their successor, that means she's a mage. I was wondering what kind of magecraft she uses.\"\n\"Oh, that.\"",
+      "sourceUnit": "桜ルート十一日目-13:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, I've heard that the Matous use magecraft related to binding and compulsion. The Command Spells wouldn't exist without them.\"",
+      "sourceUnit": "桜ルート十一日目-13:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. So does Sakura's magecraft have something do with restraints? But that would mean...\"\nThat day.\nThe magecraft that Sakura unleashed when the Crest Worms were attacking her must have been Rider's power.",
+      "sourceUnit": "桜ルート十一日目-13:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I...don't think so. That was a Makiri spell, but not the kind of magecraft they specialize in.\nThere's no point in thinking about it, anyway. Sakura doesn't have the magical energy to power magecraft. The Crest Worms eat her extra energy, so she shouldn't be able to cast any magecraft.\"",
+      "sourceUnit": "桜ルート十一日目-13:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay, good. But how strong is she, from your perspective? Are you on the same level, since you're both family heirs?\"\n\"She has about the same number of Magic Circuits as me.\nDid you forget that we're actual sisters?\"",
+      "sourceUnit": "桜ルート十一日目-13:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nRight, now that she mentions it.\nThat's why the Matous adopted her, to begin with.",
+      "sourceUnit": "桜ルート十一日目-13:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"So she's as strong as you are?\"\n\"I'm not sure. I can use the Five Great Elements, while she was apparently born with an affinity for Imaginary Elements. But she's Water-aligned now, so they must have forced that onto her. What do you think would happen if you forced a bird that flies in the air to swim in the ocean?\"",
+      "sourceUnit": "桜ルート十一日目-13:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"It would die, or...\"\n\"Yeah. It would take everything just to adapt to being underwater.\nShe would have been successful as a Tohsaka, but after what the Matous did to her, she's no different from you.\nNo, you're actually a lot stronger than her because you're physically trained.\"",
+      "sourceUnit": "桜ルート十一日目-13:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"So, hypothetically, if you two got into a magical duel...\"\n\"I would win ten times out of ten. Sakura doesn't have the magical energy capacity to pierce my defenses.\"",
+      "sourceUnit": "桜ルート十一日目-13:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nI don't know what kind of magecraft Sakura can use, but her power dynamic with Tohsaka is clear.\nTohsaka isn't the type to brag, so she's probably just stating the facts.",
+      "sourceUnit": "桜ルート十一日目-13:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is embarrassing. I never even knew Sakura was a mage, and I don't know how skilled she is. I feel pretty stupid calling myself her protector.\"\n\"You know, the Crest Worms are constantly feeding on her magical energy. You can't even tell she's a mage up close.\"",
+      "sourceUnit": "桜ルート十一日目-13:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Plus, she's been trying her best to hide it from you. So whatever you do, don't bring this up in front of her.\"",
+      "sourceUnit": "桜ルート十一日目-13:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nYeah, don't need to tell me twice.\nEven if Sakura is a mage, she's still Sakura.\nI'm not sophisticated enough to play games with her, anyway.\nNo matter who she is, all I can do is treat her the same way I always have.",
+      "sourceUnit": "桜ルート十一日目-13:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. If you think so, then I'll keep treating her the same way.\nI just won't ask for her help as a mage. That's okay, right?\"",
+      "sourceUnit": "桜ルート十一日目-13:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. And if you ever do, I'll take her back to my house instead.\"",
+      "sourceUnit": "桜ルート十一日目-13:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "The way she says it so gently with a smile makes my heart skip a beat.\n...See?\nYou're a great big sister, Tohsaka.",
+      "sourceUnit": "桜ルート十一日目-13:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess that wouldn't work, though. She only smiles when she's at your place. That was what surprised me the most yesterday.\"\nThat was a surprise?\nThe thought seems to make Tohsaka so happy.",
+      "sourceUnit": "桜ルート十一日目-13:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What do you mean, she smiled?\"\nThat's how she always is.",
+      "sourceUnit": "桜ルート十一日目-13:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I was always worried about that.\nYou know, I don't talk to her much, so I try to look out for her whenever I can. She's been hanging around the kyudo club ever since we ended up in the same school.\"",
+      "sourceUnit": "桜ルート十一日目-13:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I know that.\"\n\"...Mm-hm. And after a while, I noticed something. She never smiles.\"",
+      "sourceUnit": "桜ルート十一日目-13:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat...\n...sounds pretty believable, even though I'm only hearing it for the first time.\nNow that I think about it, Sakura's always pretty gloomy at school.",
+      "sourceUnit": "桜ルート十一日目-13:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"But even that's different when you're around.\nShe would always smile when you came to visit the club.\nMeaning that she's only ever happy when Shirou Emiya is with her.\"",
+      "sourceUnit": "桜ルート十一日目-13:page60:1"
+    },
+    "page61": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十一日目-13:page61:1"
+    },
+    "page62": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0282",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm dreaming.",
+      "sourceUnit": "凛ルート六日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Using a thin connected circuit like a blood vessel, I see a memory I can't reach.",
+      "sourceUnit": "凛ルート六日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "This was his memory.\nAt least, it isn't mine.\nThis is someone else's story.\nIt's so long ago that he doesn't think about it.\nA memory so distant that he doesn't even try to recall it.\nA memory so old that he can't even remember it.\nThey are...\nThe heavy shackles of a contract, set in stone, unable to be changed or retracted.",
+      "sourceUnit": "凛ルート六日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "It's not like he wanted anything.\nRather, he was the type of person who could not stand many things.\nHe could not stand if there was someone crying near him.\nHe could not stand if there was someone hurt near him.\nHe could not stand if there was someone dying near him.\nThat was the only reason.\nAnd for only that reason, he tried to save everyone within view.",
+      "sourceUnit": "凛ルート六日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "He was so clumsy that it would make you nervous watching him.\nBut he would accomplish it in the end and change many a fate.\nTo that end, his life was full of blessedness.\nThe awkward, inelegant battles he fought had meaning.\nFor as much as he was hurt and stared down death, he was equally able to save people.",
+      "sourceUnit": "凛ルート六日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...But, there was one pitfall there.\nEveryone within view.\nYet you cannot wholly look upon yourself.\nSo in the end...\nHe was not able to save the most important person of all, himself.",
+      "sourceUnit": "凛ルート六日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I don't know how it ended up like that.\nNo, it should be the other way around.\nIt was a wonder it didn't end up like that sooner.\nAnd so, there was a terrible disaster.\nMany people died, and many more faced death.\nThere was nothing he alone could do.\nWith so many deaths an inevitability before him...",
+      "sourceUnit": "凛ルート六日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me make a contract. I shall give you my life after death. I would take compensation now.\"",
+      "sourceUnit": "凛ルート六日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Yes, he made a contract with a mysterious thing known as the World.\nThrowing away himself to save all those living here.\nThe birth of a hero.",
+      "sourceUnit": "凛ルート六日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "That's it.\nThere's nothing after that.\nEven if he is called a hero, it doesn't change what he does.\nFrom the start, his objective wasn't to become a hero.\nHe merely needed a hero's power as part of the process.",
+      "sourceUnit": "凛ルート六日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Even then, his ending came quickly.\nA savior is nothing but a nuisance to those who are not saved.",
+      "sourceUnit": "凛ルート六日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "He understands his own powers and the extent of the world.\nHe accepts there are those that he can and cannot save.\nAnd so he wanted those within sight to be happy, at least.\nOthers becried it as hypocrisy.\nThere were many who despised him for his narrow-mindedness.\nEven then, the way that he silently pursued his ideals was something he should've been proud of.",
+      "sourceUnit": "凛ルート六日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But in the end...\nHe faced an uncompensated death, as per the contract.",
+      "sourceUnit": "凛ルート六日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "And in the end, he reached that place.",
+      "sourceUnit": "凛ルート六日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "He had friends and a lover.\nBut cornered by his ideal, he lost it all.",
+      "sourceUnit": "凛ルート六日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "With no place to go...\nCarrying the voices of resentment with him, he continued to fight.\nHe knew of his fate heading towards death, but he used that to try to perform the miracles that were beyond his capacity.",
+      "sourceUnit": "凛ルート六日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...But, that comes to an end.\nHe arrives at the hill of swords.\nThe end of his battle came on a mound with rusted, ownerless blades.",
+      "sourceUnit": "凛ルート六日目-13:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

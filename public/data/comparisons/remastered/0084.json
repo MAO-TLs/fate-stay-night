@@ -1,0 +1,301 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0084",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Dinner is a bit livelier than I expected.\nSakura and Tohsaka are acting like good upper and underclassmen, and Fuji-nee is now completely on Tohsaka's side.",
+      "sourceUnit": "セイバールート五日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell, I have no complaints about getting to enjoy a good meal.\nThere are no complaints, but I can't feel unreservedly good about sharing a meal with everyone here.",
+      "sourceUnit": "セイバールート五日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI stand up.\n\"Hm? Are you going to the bathroom, Shirou?\"\n\"No, I just forgot something. I'm going to bring them out now, so wait.\"\n...\nThe moment I step out of the living room...\nI lock eyes with Tohsaka, who is looking at me silently.",
+      "sourceUnit": "セイバールート五日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I just didn't think it was right.\nThat's why.\nI didn't like the fact that I was making her sit alone, even though she's living with us.",
+      "sourceUnit": "セイバールート五日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "So, without really considering the consequences of my actions, I take her hand.",
+      "sourceUnit": "セイバールート五日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Sh-Shirou!? What are you doing!?\"\n\"Just come with me. I'm going to introduce you to everyone.\"\n\"Have you lost your mind!? Please wait, that's...\"",
+      "sourceUnit": "セイバールート五日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm bringing you out because I am thinking straight. Come on, let's go.\nWe can deal with whatever happens after.\"\n\"Wait...Shirou!?\"",
+      "sourceUnit": "セイバールート五日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I'm still dragging her along by the time we reach the living room.",
+      "sourceUnit": "セイバールート五日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry Tohsaka. Can you add one more plate for her?\"\nTohsaka doesn't object.\nBut Fuji-nee and Sakura are looking at Saber in confused astonishment.",
+      "sourceUnit": "セイバールート五日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I know it's a little late, but I want to introduce her to you all.\nHer name is Saber, and I'm going to be taking care of her for a while. As you can see, she's a foreigner and not used to living in Japan, so please help her with that.\"",
+      "sourceUnit": "セイバールート五日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe two don't react.\nIt's understandable, but I can't really find it in me to care right now.",
+      "sourceUnit": "セイバールート五日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, sit over here, Saber. It's better when you eat with everyone.\"\n\"It is...true that it would be more efficient, but I...\"\n\"There's no need to be bashful. You're going to be living with us from now on, too. If we're going to live together, we should eat together too.\"",
+      "sourceUnit": "セイバールート五日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. If you say so, I will have to oblige.\"",
+      "sourceUnit": "セイバールート五日目-14:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"What has gotten into you, Shirou!? First you bring Tohsaka here to stay...and now her too!? When did this place turn into a hotel!?\"\n\"Wh-what? It's fine. This place is as big as a hotel anyway, so it's no big deal to give up a room or two. If you're okay with Tohsaka staying here, then Saber should be fine too.\"",
+      "sourceUnit": "セイバールート五日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not! I approve of Tohsaka, but I know nothing about this complete stranger! Just who is this girl anyway!?\"\n\"Who? She's a distant relative. I don't really know the details about what happened to her, but she came here looking for help from my old man.\"",
+      "sourceUnit": "セイバールート五日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not buying a ridiculous story like that! Even if it were the case, why did she come to the Emiya house? There's no way Kiritsugu had acquaintances from other countr—\"\nShe can't say that with any confidence, and she knows it.\nMy old man traveled constantly, so he probably had more friends from other countries than in Japan.",
+      "sourceUnit": "セイバールート五日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I...can't say that for sure, but it still sounds fishy. So you... Why did you come here?\"",
+      "sourceUnit": "セイバールート五日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that...\"\n\"You shush, Shirou. Um, Saber...right? I'm asking you.\"",
+      "sourceUnit": "セイバールート五日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Saber is silent.\nI don't blame her. Saber doesn't really have a backstory, and she's not cunning enough to go along with my lies...\n\"I do not exactly know. I was only following Kiritsugu's orders.\"\n...I guess she does.",
+      "sourceUnit": "セイバールート五日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So Kiritsugu entrusted Shirou to you?\"\n\"Yes. I was told to protect Shirou from his enemies.\"\nEver so quietly...\nSaber says it with such straightforwardness and clarity...",
+      "sourceUnit": "セイバールート五日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "There is no room for anyone to protest.\nAnd even if it was really a lie...it will become the absolute truth in Saber's mind.",
+      "sourceUnit": "セイバールート五日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nEven Fuji-nee can't argue with her.\nBut...",
+      "sourceUnit": "セイバールート五日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "She stands up with a frown and glares right at Saber.\n\"Fine. If you are serious about this, I'll test your skills.\"\nFuji-nee drops this on us all out of nowhere.",
+      "sourceUnit": "セイバールート五日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "And...\nWith the sound of whooshing wind, Fuji-nee takes us outside.",
+      "sourceUnit": "セイバールート五日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd then she takes the bamboo sword, a shinai, hanging on the wall and continues glaring at Saber.\n...Okay.\nWhat the hell is Fuji-nee thinking?",
+      "sourceUnit": "セイバールート五日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"You. You said you would protect Shirou. Which means you must be at least somewhat disciplined, right?\"\n\"...Are you telling me to take a sword?\"",
+      "sourceUnit": "セイバールート五日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. I'll accept this if you prove you're stronger than me. But if you're weak, I'm sending you back home.\"\n\"...I do not mind, but I do not see the sense in this.\"",
+      "sourceUnit": "セイバールート五日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm supposed to be the one who protects Shirou! I'm going to be right by his side until he grows up to be a man!\"\n...\nSaber doesn't seem to fully comprehend what Fuji-nee's intentions are.\nThen again, none of us do.",
+      "sourceUnit": "セイバールート五日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"LIKE I SAID. I don't need anyone weaker than me around!\nIf you say you're stronger than me, you should be more dependable, right? And if you are, MAYBE I can entrust Shirou to you just a little!\"\nFuji-nee swings her shinai around with a pout.",
+      "sourceUnit": "セイバールート五日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. I just need to convince you, correct?\"\n\"That's right. But convincing me will be no easy feat!\"\nNo sooner has Fuji-nee said that than she practically leaps forward, rushing toward Saber, brandishing her shinai.",
+      "sourceUnit": "セイバールート五日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, Fuji-nee, this is ridiculous!\"\nShe goes in for a surprise attack...even though she hasn't even given Saber a shinai yet! This Tiger has no business calling herself a teacher if she's going to pull something like that!",
+      "sourceUnit": "セイバールート五日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nSaber stands there in a daze, taken aback by Fuji-nee's surprise attack.\nFuji-nee swings for the body!",
+      "sourceUnit": "セイバールート五日目-14:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nFuji-nee tilts her head in confusion.\nWell, yeah...\nWe're all dumbfounded, and we're just watching, so it must be even stranger—like the mystery of the Hanging Gardens of Babylon—for Fuji-nee, since she's the one who experienced it firsthand.",
+      "sourceUnit": "セイバールート五日目-14:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber's still standing.\nThe only difference is that she's now holding the shinai Fuji-nee had in her hand a heartbeat earlier.",
+      "sourceUnit": "セイバールート五日目-14:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...for real?\"\nI don't know if this is for real, but it definitely happened.",
+      "sourceUnit": "セイバールート五日目-14:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Saber isn't even holding the shinai she took in a ready position.\nFuji-nee is frozen in her tracks, right in front of Saber.\nFuji-nee is a kendo expert whose skill is supposedly unmatched.\nThe experience probably made clear to her that Saber is on a completely different level.",
+      "sourceUnit": "セイバールート五日目-14:page36:1"
+    },
+    "page37": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"The contest is over. Do you approve of me?\"\n\"Ungh...uhn...sniff...\"\nFuji-nee slumps her shoulders and droops her head low.\nJust when I think she's about to retreat quietly...",
+      "sourceUnit": "セイバールート五日目-14:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Waaahhhaaaaahhhh!!!\nSome weird girl took Shirou away from me!!!\"",
+      "sourceUnit": "セイバールート五日目-14:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee starts to cry so loud it starts to hurt all our ears.",
+      "sourceUnit": "セイバールート五日目-14:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...In the end, it took two hours to calm Fuji-nee down.\nFuji-nee gestured to Saber saying, \"We need to talk,\" and went into my old man's room. They were in there for two hours. She finally came out, looking unsatisfied, and mumbled, \"I guess I've got no choice but to acknowledge her.\"\nShe'd only nodded in resignation.",
+      "sourceUnit": "セイバールート五日目-14:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Sakura, though, was silent the whole time.\nIt was getting late, so Fuji-nee wound up taking Sakura home, but Sakura didn't say a single word. She just bowed and went home.",
+      "sourceUnit": "セイバールート五日目-14:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going back to the outbuilding then.\"\nThat's all Rin said.\nCome to think of it, Tohsaka's been quiet all this time too.",
+      "sourceUnit": "セイバールート五日目-14:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry about that. I bet you're thinking I did something stupid again.\"\n\"Not really. The only thing you're doing is trying to add some unnecessary flab to your heart to make yourself feel better. If you keep on doing things like this, you're going to really get yourself into trouble.\"",
+      "sourceUnit": "セイバールート五日目-14:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "She waves good night and heads off to the outbuilding.\n\"...Hnnn.\"\nI'm exhausted.\nI should probably sleep early today.",
+      "sourceUnit": "セイバールート五日目-14:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Please wait, Shirou. I would like to ask you something.\"\n\"Hm? Sure. What is it?\"\n\"Why did you introduce me to everyone? I agree with Rin. That was unnecessary.\"\n\"No real rhyme or reason. I just didn't like how things were going, so I introduced you to everyone.\"",
+      "sourceUnit": "セイバールート五日目-14:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. You did not answer my question. You must tell me what you didn't like.\"\nSaber draws closer to me.\nWas what happened tonight really so strange to her?",
+      "sourceUnit": "セイバールート五日目-14:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"The hell do I know? I was just eating, and I didn't like knowing that you were all alone.\nIf anything, I just thought we'd have less secrets to worry about once Fuji-nee and Sakura knew about you.\"",
+      "sourceUnit": "セイバールート五日目-14:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"That was most certainly futile, then.\nMaking them aware of my presence may well be detrimental. I am able to conceal myself in this house, so it would be better for me to simply remain standing by.\"",
+      "sourceUnit": "セイバールート五日目-14:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nBetter? In what way?\nIs she saying she's better off being ostracized when the rest of us are all eating?",
+      "sourceUnit": "セイバールート五日目-14:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true.\nYou may be fine with it, but I didn't like it. It's not about logic or sense.\"\nI look away from Saber.",
+      "sourceUnit": "セイバールート五日目-14:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to go to the shed, so go ahead to your room.\"\n...\nShe doesn't answer.\nI turn my back on Saber, who seems unconvinced by what I said, and make my way to the shed.",
+      "sourceUnit": "セイバールート五日目-14:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "I step outside.\nThe tranquil yard is lit by pale moonlight.\nThe winter sky is clear enough to see the stars above me.",
+      "sourceUnit": "セイバールート五日目-14:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnnn...\"\nI sigh, hardly realizing I'm doing it.\nTohsaka's right.\nI'm contradicting myself.",
+      "sourceUnit": "セイバールート五日目-14:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "I'm heading to the shed to avoid Saber's room.\nBut I don't want to leave Saber alone.\nI'm having a hard time interacting with Saber as a member of the opposite sex, but I can't ignore her on a human level.\nIt's no wonder Tohsaka gets disgusted with me and my contradictions.",
+      "sourceUnit": "セイバールート五日目-14:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. I thought I was only inexperienced with magecraft, but I'm also just generally immature too.\"",
+      "sourceUnit": "セイバールート五日目-14:page56:1"
+    },
+    "page57": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート五日目-14:page57:1"
+    },
+    "page58": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

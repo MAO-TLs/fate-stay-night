@@ -1,0 +1,76 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0308",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm dreaming.",
+      "sourceUnit": "凛ルート八日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Like blood flowing through a thin circuit, I see a memory that I can't reach.",
+      "sourceUnit": "凛ルート八日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "For what did he fight and keep running?\nHe never told anyone his innermost feelings.\nEveryone around him saw him as an eccentric.\nAnd on top of it all, he wore a mask of stoicism and few words, so others must've believed him ruthless.\nHis objectives were unknown.\nOr at the very least, nobody was informed or found out.\nEven after becoming a hero, burdened with so many things, he never once let his intentions slip.",
+      "sourceUnit": "凛ルート八日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "And so nobody was able to grasp his character even at the end.\nNobody understood.\nThough he was a convenient hero that saved lives, his motives and ends were left in the dark.",
+      "sourceUnit": "凛ルート八日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Thus, it inevitably came to be that all would feel uneasy by his presence.\nSo he should have claimed at least one such reason.\nGreed, fame, selfishness, revenge, devotion.\nA clear reason that would have been so universally understood. Had he but one such thing, this end would not have come.",
+      "sourceUnit": "凛ルート八日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "His reward for success was always betrayal.\nThe things he picked up sifted through his fingers like sand.\nHe got used to it.\nLike a fool, he got used to it.\nFrom the beginning, his reward...\nIt was not what he received from those he saved, but the act of saving them itself.",
+      "sourceUnit": "凛ルート八日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The repetition of it makes me so mad that I want to punch him. But it also makes me want to cry.\nThe reason he was called a hero...\nHis intentions were never revealed to anyone.\nThose around him never came to know. And even he, the only one who could know, eventually forgot.",
+      "sourceUnit": "凛ルート八日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "This all inherently makes me just want to cry.\nOn the long, long path from the start to the finish...\n...He miraculously never once strayed from his original purpose, despite no longer knowing what was and was no longer right.",
+      "sourceUnit": "凛ルート八日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "And the end comes.\nA savior is nothing but a nuisance to those who are not saved.\nHe understands his own powers and the extent of the world.\nHe accepts there are those that he can and cannot save.\nAnd so he wanted those within sight to be happy, at least.\nMany others despised him, becrying his hypocrisy and narrow values.\nHe had more enemies than allies, and he died abruptly at their hands.",
+      "sourceUnit": "凛ルート八日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...So, what is seen here is not a location in this world.",
+      "sourceUnit": "凛ルート八日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "This place is his end.\nIt is nothing other than the illusion he saw on the verge of death and the only pride he had within himself.\nThe hero that used this view as his weapon is consumed by his own darkness in his final moment.",
+      "sourceUnit": "凛ルート八日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "He arrives at the hill of swords.\nThe end of his battle came on a mound with rusted, ownerless blades.\nAlone after all.\nEven then, there was nothing to regret if he was able to save everyone within view.\nHe smiles with satisfaction and lets go of the sword.",
+      "sourceUnit": "凛ルート八日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...That's why he never had any regrets.\nHis objective had long been fulfilled.\nFrom the start, he kept on running with utmost effort, not for himself, but for those who had nothing to do with him...",
+      "sourceUnit": "凛ルート八日目-09:page12:1"
+    },
+    "page13": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

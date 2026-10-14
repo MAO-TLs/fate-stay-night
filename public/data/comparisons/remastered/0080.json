@@ -1,0 +1,126 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0080",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "That guy...\nI should ask about the very first Servant I encountered...Lancer.\nSaber fought against him, and it looked like she figured out who he was.",
+      "sourceUnit": "セイバールート五日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Saber. Do you know who that guy Lancer is?\"\n\"Hm? Lancer?\"",
+      "sourceUnit": "セイバールート五日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. When you fought him off, you said something... Something about Ireland.\nSo I thought maybe you figured out his identity.\"",
+      "sourceUnit": "セイバールート五日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that is what you mean. This is a surprise. I never thought you would be interested in knowing Servants' identities.\"\n\"I was told it can give you an advantage. ...But why do you look so pleased, Saber?\"",
+      "sourceUnit": "セイバールート五日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I am starting to see that you are willing to fight. We can come up with strategies to deal with opponents whose identities we know. Taking down opponents whose weaknesses we have found first is one of the fundamental tactics in battle.\"",
+      "sourceUnit": "セイバールート五日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI don't intend to seek out someone to fight if they haven't done anything wrong, but it'll only derail the conversation if I bring that up now.",
+      "sourceUnit": "セイバールート五日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"So about Lancer's identity. From your tone, it seems like you know, Saber.\"",
+      "sourceUnit": "セイバールート五日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. That red spear of his, those runes protecting his entire body, and his abilities focused so intently on survival... I have no doubts about that Servant's identity.\nHis True Name is Cú Chulainn. He is the great hero of Ireland who wields the demonic spear Gáe Bolg.\"",
+      "sourceUnit": "セイバールート五日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Cú Chulainn...?\"\nI've never heard that name.\nThen again, I don't know much about Irish mythology.",
+      "sourceUnit": "セイバールート五日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"So is this Cú Chulainn guy strong?\"\n\"He is not famous in this country, so his prominence may be diminished, but regardless, he still has more than enough power.\nHis agility is unrivaled, and I believe his Noble Phantasm is the most suited for this war.\"",
+      "sourceUnit": "セイバールート五日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"His Noble Phantasm? Oh you mean his spear. Now that I think of it, that thing was moving really weirdly... Is that what the Gáe Bolg is all about?\"",
+      "sourceUnit": "セイバールート五日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Most likely, yes. There are many variations of the legend of Gáe Bolg.\nSome say it is a cursed spear that one kicks at one's target. Others say it is a demonic spear capable of growing a thousand thorns the moment it pierces its enemies.\"\n\"Huh? That's two different legends, isn't it? So, how can you call it a legendary weapon?\"",
+      "sourceUnit": "セイバールート五日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"There is more to that legend. There may be many legends of Gáe Bolg, but each of them agrees that the spear always pierces the heart.\nI had always assumed that was based on the wielder's abilities rather than the weapon's, but it seems I was mistaken.\nThe demonic spear's identity, Gáe Bolg, means Lancer's spear's ability is literally piercing the heart of his enemies.\"",
+      "sourceUnit": "セイバールート五日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nThe moment she brings this up, I vividly recall the scene.\nThat night...\nThe spear thrust at Saber's feet had suddenly changed trajectory, heading straight for her heart instead.",
+      "sourceUnit": "セイバールート五日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"That means his spear is...\"\n\"Yes. It's a demonic spear that is guaranteed to pierce the opponent's heart when used.\nIt either bends time and space or the law of causality to allow it to move like that.\nThough it probably is a combination of the spear's curse and Lancer's own abilities. There is no weapon better suited for single combat. It is exceedingly practical.\"",
+      "sourceUnit": "セイバールート五日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Practical? What's that supposed to mean?\"",
+      "sourceUnit": "セイバールート五日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you not understand? Lancer's spear may not be powerful enough to destroy something as large as a castle, but it is perfectly suited to kill a single human being.\nA Noble Phantasm consumes magical energy proportionate to its magnitude.\nA rank A Noble Phantasm consumes a massive amount of magical energy when used. Once it is used, it will take a tremendous amount of time to replenish that lost magical energy.\"",
+      "sourceUnit": "セイバールート五日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"However, to kill one person—nay, a single Servant—no such destructive force is necessary. There can be no better tactical advantage than Lancer being able to do so with a single attack.\"\n\"So what you're trying to say is that it would cost less to shoot a single arrow than a cannonball?\"",
+      "sourceUnit": "セイバールート五日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. However, a single arrow would typically not be effective against Servants. Ultimately, battles between Servants require attacks more in line with the force of a cannonball.\"\n\"...But Lancer's Gáe Bolg, while it may only be like a single arrow, can potentially be fatal with just one strike. Because it's not just a graze, but a fatal strike through the heart.\"",
+      "sourceUnit": "セイバールート五日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. On top of that, it does not require much magical energy to deploy. The amount of magical energy consumed is so low, he could use his Noble Phantasm perhaps seven times without needing to replenish his magical energy.\nThat is why his demonic spear is well-suited for this war.\nAn ordinary Servant would require rest after a few battles, but Lancer has the potential to fight six opponents if need be. Though, it would have to be single combat in his case.\"",
+      "sourceUnit": "セイバールート五日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm...\"\nIn other words, he may not be a flashy Servant, but he can manage a solid win.",
+      "sourceUnit": "セイバールート五日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"But he was using a lot of unnecessary and impractical moves. He was toying with me when he fought me.\"\n\"That is true. Lancer appears to be a curious sort of person. He may have been quite heartless in history, but there was also a side of him you really could not hate.\"",
+      "sourceUnit": "セイバールート五日目-09:page21:1"
+    },
+    "page22": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page23": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

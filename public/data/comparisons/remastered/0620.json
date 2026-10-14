@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0620",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's evening now.\nTohsaka seems busy and Sakura is asleep, so I'll make dinner.\nMy left arm can move, albeit slowly, so it shouldn't stop me from cooking simple meals.",
+      "sourceUnit": "桜ルート十一日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... I can deep fry the marlin, and make beef stew with the rest.\"\nI check what we have in the refrigerator and decide on tonight's menu.\nWith two new mouths to feed, our ingredients go quickly.\nI'll have to make some time tomorrow to go downtown for groceries.",
+      "sourceUnit": "桜ルート十一日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for the meal!\"\nEveryone seems excited to see that dinner's ready and waiting for them in the living room.",
+      "sourceUnit": "桜ルート十一日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I wonder where Rider is, but she likely has her reasons for being absent.\nRider's priority is to protect Sakura. Maybe she doesn't want to have too much contact with Tohsaka, who could become an enemy.",
+      "sourceUnit": "桜ルート十一日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I hope Rider comes down here to eat later.\"\nIf she doesn't come over, I'll pack a meal and bring it to her later.\nShe doesn't seem to like being around other people, so she's probably in the shed or the dojo.",
+      "sourceUnit": "桜ルート十一日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. So this is what you're good at making. Does Sakura specialize in Western food, while you do Japanese?\"",
+      "sourceUnit": "桜ルート十一日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks at me with surprise as she munches on the fried fish.\nI fried the marlin filets golden-brown and made an elegant soy sauce marinade that brings out the fragrance of ginger. Tohsaka seems fond of it.",
+      "sourceUnit": "桜ルート十一日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I like this one. I love that you're so good at cooking, Shirou.\"\nNext to her, Illya is enjoying a mouth full of savory sweet beef stew.\n...It's too bad that I didn't have any potatoes on hand, but I'm glad that she likes it.",
+      "sourceUnit": "桜ルート十一日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "But...\nSakura is holding her chopsticks, looking confused.",
+      "sourceUnit": "桜ルート十一日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? What's wrong, you don't have an appetite?\"\n\"Ah... I do, but...um, Senpai?\nDid you put sugar in this stew? It tastes strange.\"",
+      "sourceUnit": "桜ルート十一日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh!?\"\nD-did I really make such a rookie mistake with beef stew, of all things!?",
+      "sourceUnit": "桜ルート十一日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. Hang on!\"\nI taste the beef stew from the pot in the middle of the table.",
+      "sourceUnit": "桜ルート十一日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm?\"\n...That's odd.\nThis is how I always season it.",
+      "sourceUnit": "桜ルート十一日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, what's strange about it?\"\n\"Did you maybe mix up the sugar and salt?\nI can't taste the sweetness at all...\"",
+      "sourceUnit": "桜ルート十一日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? Isn't it supposed to taste like this? Unless there's some secret ingredient that makes this one different from the rest.\nI don't think I could make it as good as this.\"\n\"I don't know what it's supposed to taste like, but it's yummy. It's just sweet enough and easy to eat.\"",
+      "sourceUnit": "桜ルート十一日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Sakura pokes at her beef stew with a puzzled expresion.\n...She takes one bite. And a second. Then, a third.\n\"Sakura...?\"",
+      "sourceUnit": "桜ルート十一日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? O-oh, I think I just ate a part that wasn't seasoned as evenly. Sorry for being weird. Your cooking tastes good, Senpai.\"\nShe laughs and resumes eating.",
+      "sourceUnit": "桜ルート十一日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura moves her chopsticks as if nothing happened.\nI got a little nervous when she started looking off, but then she regained her spirits.\nWith gusto. She even asked for a third helping.\nTohsaka watched in surprise as Sakura kept eating with delight, until we completely finished all of the food and rice.",
+      "sourceUnit": "桜ルート十一日目-12:page17:1"
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

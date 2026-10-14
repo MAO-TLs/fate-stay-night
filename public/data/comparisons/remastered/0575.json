@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0575",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nI set down my empty bowl with a clink.\nBut all of the side dishes on the table are still untouched.\nIt took all my effort just to focus on my soup and rice, so I didn't even notice the other food.",
+      "sourceUnit": "桜ルート十日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Sorry, Sakura. But I'm at my wits' end.\nI need some time away in my room to cool my head.",
+      "sourceUnit": "桜ルート十日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, Senpai? Is breakfast not to your liking?\"\n\"...Oof.\"\nThe tactical retreat ends in failure.\nMy escape route was cut off before I knew it.",
+      "sourceUnit": "桜ルート十日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI silently hold out my rice bowl.",
+      "sourceUnit": "桜ルート十日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you want seconds! I made a lot, so be sure to eat it all!\"\nSakura returns my bowl with an extra-large helping of rice, and breakfast resumes.",
+      "sourceUnit": "桜ルート十日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Oh, well. I'll just have to deal with this.\nI'm already the only one blushing, so I can't let every single thing Sakura does throw me for a loop.",
+      "sourceUnit": "桜ルート十日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Still, though...\n\"Wait, Sakura. Don't we have a problem here?\"",
+      "sourceUnit": "桜ルート十日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What problem, Senpai?\"\nShe looks at me in puzzlement.\nIn other words,\nSakura doesn't see a problem with Rider sitting silently next to us.",
+      "sourceUnit": "桜ルート十日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean...\"\nI glance at Rider.\nShe seems to notice the imbalance I'm getting at.\n\"There's no need to concern yourself with me. Continue your meal.\"\nShe urges, just as gracefully as Sakura.",
+      "sourceUnit": "桜ルート十日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Are you worried about her?\"\n\"It appears so. It's true we have come into conflict several times.\nHe must be uncomfortable sharing a table with an enemy.\"",
+      "sourceUnit": "桜ルート十日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. Senpai doesn't hold it against you, Rider.\"\n...\n...Well, this is a pickle.\nI don't resent Rider, but she's on the A-list of people I'm bad at dealing with.",
+      "sourceUnit": "桜ルート十日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Perhaps.\nIt seems he's having trouble eating because I am here. I can take my leave if I am being a nuisance.\"\n\"I'm telling you, it isn't like that. You don't mind if Rider joins us, do you, Senpai?\"",
+      "sourceUnit": "桜ルート十日目-00:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

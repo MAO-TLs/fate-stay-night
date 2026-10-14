@@ -1,0 +1,206 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0671",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Forget it. You're Sakura's enemy. I can't trust you to watch my back.\"\n\"I see. I thought I would be of help. A pity.\"\nThe priest stops following me.\n...I can't afford to stop here.\nI need to catch up to Sakura as soon as possible.",
+      "sourceUnit": "桜ルート十五日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's dawn by the time the taxi arrives at the forest.\nIf you think it's sketchy for a high schooler to be taking a taxi at 3:00 AM, imagine him asking you to drop him off in the woods outside of town.\nAfter hailing no less than twelve cabs, I finally find a driver willing to take me. The sun is starting to rise by the time I arrive at the forest entrance.",
+      "sourceUnit": "桜ルート十五日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...This is my second time in these woods.\nI rely on my memory to find the Einzbern castle.\n...I couldn't reach it the last time I was here.\nOn the way to the castle, I ran into Illya fleeing the Shadow.",
+      "sourceUnit": "桜ルート十五日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I check my left arm.\nIt's completely different since the last time I was here.\nI was helpless as the Shadow nearly slaughtered me.\nThat hasn't changed.\nI have no way to beat Sakura—no, the Shadow, and it has Saber on its side, too.",
+      "sourceUnit": "桜ルート十五日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...If I run into them, I'm done.\nThe only way to take Illya back is to ambush them.\nI need to retrieve Illya without Sakura noticing me.\nIn that case...",
+      "sourceUnit": "桜ルート十五日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "In that case, what should I do?\nHow should I deal with Sakura now that she's changed?\nHow can I turn her back into the Sakura I used to know?",
+      "sourceUnit": "桜ルート十五日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI don't have an answer.\nAll I can do is follow after them as quickly as I can.",
+      "sourceUnit": "桜ルート十五日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I see a familiar place.\nIt's been a little over two hours since I entered the woods.\nThe sun is already well over the horizon, but the forest is still shrouded in fog.",
+      "sourceUnit": "桜ルート十五日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Last time, this was as far as I went.\nIf the visions Illya showed me are true, then I should be at the castle soon.\nAlmost there.\nJust a little more until I enter enemy territory...",
+      "sourceUnit": "桜ルート十五日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I get through the forest.\nI'm in a circular clearing in the vast sea of trees.\nThe castle I saw through Illya's \"eyes\" towers over the forest, just as I remember.",
+      "sourceUnit": "桜ルート十五日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "There's no sign of anyone around.\nIt's strange that there's no guards on the castle walls, to say nothing of the castle, but I can't turn back now just because this might be a trap.",
+      "sourceUnit": "桜ルート十五日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Going through the front gate... is out of the question.\nIf I'm going to sneak in, then I should use a window on the second floor or higher.\n\"...I'll head around back. If push comes to shove, I'll use the back door.\"\nThere isn't anyone guarding the back of the building.\nI climb up a sturdy-looking tree, and break in from the second floor.",
+      "sourceUnit": "桜ルート十五日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa!\"\nI break a window as I jump into the building.\nThe castle is deathly silent, even after my violent entry.",
+      "sourceUnit": "桜ルート十五日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are they not even paying attention? Maybe they don't see me as a threat. Or maybe...\"",
+      "sourceUnit": "桜ルート十五日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Zouken and Sakura might have already left.\n...That would explain the lack of any security.\nIt's already been a full day since Sakura took Illya away.\nI don't know why they came out here, but they had plenty of time to finish whatever they came to do.",
+      "sourceUnit": "桜ルート十五日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, there's someone here. Plus...\"\nThe castle is filled with a bizarre aura.\nAn overwhelming torrent of magical energy coils around my skin like fog.\n...There's no doubt.\nThis magical energy belongs to the version of Sakura I saw at my house, with the strange markings taking over her body.",
+      "sourceUnit": "桜ルート十五日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"It's getting thicker the lower I go...\"\nSakura's on the first floor.\n...I could look for the stairs down, but I should find Illya first.\nI'm screwed if Sakura is with her, but she might be imprisoned somewhere in the castle. I need to get her out of here before our showdown with Sakura.",
+      "sourceUnit": "桜ルート十五日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "None of the castle doors or gates are locked.\nI go from the second floor to the third, then the fourth.\nI search every nook and cranny for any sign of Illya.",
+      "sourceUnit": "桜ルート十五日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Now I'm deep within the fourth floor.\nI step into a room that looks like a warehouse. It's different than the rest.",
+      "sourceUnit": "桜ルート十五日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, are you there...?\"\nI call out in a hushed voice.\nThere are things scattered everywhere, making it hard to see. Maybe this is a storage room.",
+      "sourceUnit": "桜ルート十五日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIf Illya isn't here, then I can only presume she's on the first floor with Sakura—",
+      "sourceUnit": "桜ルート十五日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Who's there!?\"\nI whirl around at the sound of footsteps.\nSomeone steps through the door.\nIt's a familiar-looking woman in a white dress.",
+      "sourceUnit": "桜ルート十五日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you're...\"\nIllya's other caretaker, whom she called Sella.",
+      "sourceUnit": "桜ルート十五日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome home, Master Emiya. My mistress says that she will not be meeting you.\"\n\"Uh... Wait, you mean Illya...!?\"\n\"...Please address her as Lady Illyasviel. You have no right to be so familiar with her.\"",
+      "sourceUnit": "桜ルート十五日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm taken aback by her icy tone.\n\"That is all my mistress told me to relay to you. If you value your life, then hurry. You will die if you stay here, Master Emiya.\"\nSella gives me a courteous farewell bow.",
+      "sourceUnit": "桜ルート十五日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, wait! Hold on, Sella!\"\n\"...\"\nSella stops and looks at me. She seems surprised that I used her name.",
+      "sourceUnit": "桜ルート十五日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Was there anything else? I must decline to provide you with the locations of my mistress or your friend. I was asked only to deliver a message.\"\nSella cuts me off coolly.\n...Seeing the way she acts, I falter.",
+      "sourceUnit": "桜ルート十五日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nI gasp, but not because of her attitude.\n...They're so similar.\nI'm not sure why I think so, but Sella resembles Illya.\nHer face, demeanor, build, and age are all different, but I can't help but see them as sisters.",
+      "sourceUnit": "桜ルート十五日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...If that is all, then farewell. I ask that you do not waste Lady Illyasviel's goodwill.\"",
+      "sourceUnit": "桜ルート十五日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... It's not like that, Sella. I'm here to help Illya, but I don't want to cause trouble for you.\nIt's your job to take care of her, right? Then you know that we need to rescue her from this castle.\"",
+      "sourceUnit": "桜ルート十五日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"You forget your place.\nBut you are correct. As you say, my mistress must escape this place as soon as possible.\"\nYeah! So tell me where—",
+      "sourceUnit": "桜ルート十五日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I cannot do that. Even if I told you, it would be futile.\"\nSella quietly leaves.",
+      "sourceUnit": "桜ルート十五日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, wait! I'm...!\"\nIt happens in an instant.\nA pitch-black dagger flies at me from where Sella was just standing.",
+      "sourceUnit": "桜ルート十五日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmph, ah...\"\nI stagger.\nBlinded by the pain, I retreat to the window.\nIn front of me,\nfloats a white skull mask.",
+      "sourceUnit": "桜ルート十五日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... nrgh...!\"\nI feel for the window with my hand.\n...But what will I do if I find it?\nThis is the fourth floor, and there's a knife deep in my chest.\nI'm losing so much blood that I probably won't even last another minute.",
+      "sourceUnit": "桜ルート十五日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"You actually came alone, you despicable fool.\"\n\"...Haah...\"\n\"I am not like my Lord Mage. I will put you out of your misery quickly.\"",
+      "sourceUnit": "桜ルート十五日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Guh...!\"\nI wrench myself towards the windowsill.\nI don't care that I'm on the fourth floor.\nI try to run from the reaper closing in on me...\n...but as soon as I reach for the window, a blade slides into my neck.",
+      "sourceUnit": "桜ルート十五日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "The skull goes blurry.\n\"Sleep now. It may not save you from your sorry state, but it is still far better than being eaten by that monster.\"\nMy vision grows dim.",
+      "sourceUnit": "桜ルート十五日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...On the cusp of death, I feel regret.\nEven if I was in a race against time, it was still too reckless to come alone.",
+      "sourceUnit": "桜ルート十五日目-03:page38:1"
+    },
+    "page39": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

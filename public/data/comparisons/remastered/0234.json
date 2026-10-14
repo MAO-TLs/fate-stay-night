@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0234",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Oh, that's right.\nThere's only one thing to do.\nWe've always done it this way.\nSo we should do the same, right to the end.\nIt's not romantic, and it's not elegant, but sitting across from each other and coming up with a plan of action suits me and Saber best.",
+      "sourceUnit": "セイバールート十五日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, it makes sense to come up with a plan, but is this the place for that?\"\n\"Actually, it has to be here. Let's just go in. I have something in mind.\"",
+      "sourceUnit": "セイバールート十五日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. If you say so, then I only have to obey.\"\nSaber reluctantly follows into the shed.\nOkay, now.\nThere's a reason I had Saber go inside the shed.",
+      "sourceUnit": "セイバールート十五日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Right now, we have neither a plan nor the means to defeat Gilgamesh.\nSo it goes without saying that we need...something extra.\nSo...",
+      "sourceUnit": "セイバールート十五日目-07:page3:1"
+    }
+  }
+}

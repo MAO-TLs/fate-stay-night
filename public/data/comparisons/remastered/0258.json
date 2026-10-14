@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0258",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I have to go see what happened to Saber.\nDespite Saber's stoicism, she seemed sociable enough, so I think she ought to have handled Fuji-nee and Sakura okayish. But still, I'm worried.",
+      "sourceUnit": "凛ルート五日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I bet Saber's already awake.\"\nThen there's only one place she can be.\nSakura is in the living room, so Saber should be...",
+      "sourceUnit": "凛ルート五日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Just as I thought, Saber is in the dojo.",
+      "sourceUnit": "凛ルート五日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...? What is it? I believe it is still early to be awake.\"\n\"Huh? No, this is normal for me since I have to prepare breakfast.\"",
+      "sourceUnit": "凛ルート五日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I see... I'm surprised, you wake up rather early.\"\nIt must've been really unexpected for Saber to be surprised over something like that.",
+      "sourceUnit": "凛ルート五日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I guess I am an early bird.\nBut it isn't that big a deal. Is it really that surprising that I'd be awake, Saber?\"\n\"Oh... No, uh, pardon me. Taiga is still asleep, so I hastily assumed the rest of the Emiya household was also slow to rise.\"",
+      "sourceUnit": "凛ルート五日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, yeah, I gotcha. She sleeps like a rock.\"\nYeah.\nAnd she's a restless sleeper too, come to think of it.\nIt must've been hard for Sakura and Saber to get any shut-eye.",
+      "sourceUnit": "凛ルート五日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way, good morning, Saber. How did you sleep?\"\n\"Well, thank you. Since we did not have a battle yesterday, I am not at all fatigued.\"",
+      "sourceUnit": "凛ルート五日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That was good. I thought you might have had some trouble because Fuji-nee tosses and turns a lot.\n...It also seemed like you were up pretty late. If it gets too loud, I can tell them to give you a separate room.\"\nGiven Saber's personality, I can't imagine she finds it entirely comfortable sharing space with Fuji-nee.",
+      "sourceUnit": "凛ルート五日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need for that. As long as there is no issue, I would like to go with Taiga's proposal.\"\n\"You sure? Well, if you can do that, it would make things easier...\"\nYou know, I feel like she's a little more approachable now. There's a bit of warmth in her tone.",
+      "sourceUnit": "凛ルート五日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"There something about Fuji-nee that strikes your fancy?\"\n\"Yes, Taiga is a good person. I find it rare for someone to be so guileless. As I understand that she has helped raise you, I follow why you are also so earnest.\"",
+      "sourceUnit": "凛ルート五日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't know if I should take that as a compliment...\"\n\"I mean it as one. I have only known her for a short time, but I feel I understand her well.\"",
+      "sourceUnit": "凛ルート五日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Makes sense.\nI do think she's an open book like that.\nThe real problem begins with whether what you read makes sense, but that's a different story.",
+      "sourceUnit": "凛ルート五日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"So you were able to get along with Sakura too, right? Sakura isn't as bad as Fuji-nee.\"\n\"I believe that is true, however I have not come to an understanding with her quite yet. I would not characterize it as open hostility, but she is hesitant to lower her guard.\"",
+      "sourceUnit": "凛ルート五日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So you haven't talked with her yet?\"\n\"We have spoken and come to an accord. As you say, she is a kind person like Taiga.\"\n\"...Oh. Then there shouldn't be a problem.\"\nI sigh with relief.",
+      "sourceUnit": "凛ルート五日目-01:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0222",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "When she awakes, there's no sign of Shirou.\nShe makes her way to the living room, thinking he might be preparing a late lunch, but she finds no sign of either Shirou or lunch.",
+      "sourceUnit": "セイバールート十五日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"He has gone out alone again. I have told him so many times now to bring me with him whenever he leaves... Why does Shirou not listen to me?\"\nSaber sits on the veranda, muttering to herself.",
+      "sourceUnit": "セイバールート十五日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly. I know he likes to walk around by himself, but is there any point in our cooperation if he simply keeps doing this?\"\nSaber lets her feet dangle over the veranda.\nEventually, she grows tired of this, and she looks up pensively.",
+      "sourceUnit": "セイバールート十五日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The sky is an ashen gray.\nA heavy canopy of clouds slowly drifts overhead. She can see breaks in the cloud cover in the distance.\nIt should clear up by nightfall.\nIf the stars are visible, she will be able to read her fortune for tomorrow.\nShe still remembers how to read the stars... Her mage mentor taught her long, long ago.",
+      "sourceUnit": "セイバールート十五日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "In life, she only looked there to see whether she was taking the right path. But tonight, just this once, she decides to try to predict a certain someone's future.\nIf possible, she hopes for a bright tomorrow.\nShe wants to predict any dangers that might lie ahead, and learn what she needs to guide him in the proper direction.\nHe's so reckless, how can she not worry about him? She won't sleep peacefully unless she can at least read the stars.",
+      "sourceUnit": "セイバールート十五日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"But the problem is which stars can be seen from this town.\"\nAs she thinks back, she realizes she's not once looked up at the sky before today.\nHer priority has always been winning the Holy Grail War...not reading fortunes in the stars.\nShe knows this isn't like her.\nEven so, she still considers trying to read the stars, and anxiously waits for night to come.\nThis represents quite a change of heart for her.\nShe chuckles, thinking she's just like the girls in love she's read about in books before, as she looks up at the sky.",
+      "sourceUnit": "セイバールート十五日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Saber. Do you know where Shirou is?\"",
+      "sourceUnit": "セイバールート十五日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"R-Rin!\"\nSaber bolts upright.\n\"Wh-what is it? I-I-I-I have not surrendered myself to Shirou or anything...!\"\nSaber gives a hasty excuse, blushing deeply.\n\"Oh? Was I interrupting something?\"\nRin smiles wickedly.",
+      "sourceUnit": "セイバールート十五日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Perhaps it is because they have been living under the same roof, but Rin can read Saber like a book. Shirou too, for that matter.\nShe has good instincts when it comes to other people's affairs, and she can tell there's something between the two of them.\nAnd so, she has a pretty clear idea of what happened the night before.",
+      "sourceUnit": "セイバールート十五日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'll leave the teasing for later. But seriously, do you know were Shirou is? Illya has a fever, so I thought he could help me.\"\n\"Illyasviel is not well? I thought her condition was stable.\"",
+      "sourceUnit": "セイバールート十五日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Not really. I didn't tell Shirou, but she's nearly at her limit. She won't go back to normal until the Holy Grail War ritual ends. Her capacity may be extraordinary, but she's on the brink of being completely full.\nThere's still some room left, so extra functions are still working right now. But once she's full, she might have no choice but to abandon the most unnecessary function: being human. You see, Illyasviel is designed to break down as the Holy Grail War progresses.\"\nRin's words are ominous, and even a bit obfuscating. Saber doesn't completely understand what she's talking about.",
+      "sourceUnit": "セイバールート十五日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh it's fine. I said it so you wouldn't understand. Let's put the topic of Illya aside for now. I want to talk about Lancer. I found out who his Master is.\"\n\"What!? You have learned who Lancer's Master is!?\"\n\"Yeah, well...I guess I found out, or maybe it's more that I knew all along...\nLancer's Master was an outside mage dispatched by the Mage's Association. I already knew that, and I finally found their secret base earlier, but...\"",
+      "sourceUnit": "セイバールート十五日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, you should avoid engaging in such dangerous activities alone. If you found their base, you should have told me.\"\n\"I was going to, but everything about it was...weird. I figured there was nobody inside, so I went in. I found bloodstains, and a severed left arm with no Command Spells.\nThere was nothing else. The Command Spells were physically taken, and based on how much blood there was, I don't think anyone could have survived. Lancer's Master is long dead.\"",
+      "sourceUnit": "セイバールート十五日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Does that mean Lancer is gone as well? Perhaps he was defeated by another Servant after Shirou was attacked ten days ago?\"\n\"I can only hope so. But the bloodstains seemed older. Do you understand what that means?\"",
+      "sourceUnit": "セイバールート十五日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"That the Master, not the Servant, was defeated.\nAnd whoever it was took the Master's Command Spells, and formed a new contract with Lancer.\nHowever...\"",
+      "sourceUnit": "セイバールート十五日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou and I are the only Masters left. And yet Lancer is still around.\nWhich means a mage who was not a Master became one after stealing Command Spells...but do you think that's even possible, Saber?\"\n\"No. The transfer of Command Spells can only be done between Masters or Servants. No matter how skilled a mage, one who is not a Master cannot become one by stealing Command Spells.\"",
+      "sourceUnit": "セイバールート十五日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then one more question: Can you still be a Master if you still have Command Spells and a Servant, even after the Holy Grail disappears?\"\n\"Eh...y-yes. You are correct, Rin. As long as Command Spells and the Servant remain, that mage retains the right to be a Master, even after the Holy Grail War is over—\"",
+      "sourceUnit": "セイバールート十五日目-18:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Saber falls silent as she realizes what Rin is really asking.\n\"Then you believe...the person who killed Lancer's Master and formed a contract with Lancer is...\"\n\"That's right. I can't think of any other explanation. It explains Lancer's actions.\nLancer seemed like he was in snooping on the other Servants, right? Usually Servants risk exposing their true identity when they fight, but he wasn't even trying to hide his identity.\nThat means his main role was gathering intel.\"",
+      "sourceUnit": "セイバールート十五日目-18:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I agree. When I faced him, he made no attempt to fight until the end. He used his Noble Phantasm. A Servant would typically do all in their power to defeat an opponent after exposing their own identity.\"",
+      "sourceUnit": "セイバールート十五日目-18:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. That means Lancer's Master must have already had another Servant. The Master sends Lancer to find out the identities of their enemies, then sends out this other, unidentified Servant to fight them. That would be the best strategy.\nWell, I'm sure that wasn't Lancer's idea of a good time. He's been forced to fight all six Servants and figure out their fighting techniques, and then just retreat to his Master.\nBut he managed to hold his own against all six... In that sense, he's outrageous.\"",
+      "sourceUnit": "セイバールート十五日目-18:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Rin closes her mouth, lost in thought.\nAs if following Rin...\n...\nSaber suddenly feels a chill down her spine.\nLancer's Master has already been killed...\nThis unidentified Master uses a Heroic Spirit as strong as Lancer solely for espionage.",
+      "sourceUnit": "セイバールート十五日目-18:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "And, just as that Master seems to have expected, the only remaining Servants are Lancer and Saber.\nIf they face such a powerful enemy, then letting Shirou out on his own is dangerous, even during the day.\nThere were multiple enemies before.\nBut now there are not many more enemies to defeat.\nIf Shirou is the only one left to defeat, the enemy might not follow their earlier strategy.",
+      "sourceUnit": "セイバールート十五日目-18:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. Do you have any idea where Shirou may have gone?\"\nNow that she's had the thought, she can't stop worrying.\nShirou cannot be left alone.\nEven now, her Master may be in grave danger.",
+      "sourceUnit": "セイバールート十五日目-18:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Hmmm. I don't know. I asked you because I didn't know. It's possible he went to Kirei's place. He actually went there to discuss something the other day.\"\n\"To that church!?\"\n\"Hm? Why the look? Do you have some kind of problem with that church?\"\n\"No. It is not that, but...\"",
+      "sourceUnit": "セイバールート十五日目-18:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "That church is nothing but holy.\nStagnant death and stagnant air linger in that place, on par with Ryudou Temple.\nThe moment she thinks Shirou might be in a place like that alone...\n...an image of somewhere other than the Emiya house flashes through her mind.",
+      "sourceUnit": "セイバールート十五日目-18:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe stares into the distance...\n...towards Kotomine's church on top of the hill.\nThere's no time to delay.\nSaber leaps out into the yard and jumps onto the wall.",
+      "sourceUnit": "セイバールート十五日目-18:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey Saber! What are you doing!?\"\n\"I am heading to the church. I leave the rest to you, Rin!\"\nWithout looking back at Rin, Saber jumps off the wall.\nShe moves with all the speed of a bullet fired from a gun.",
+      "sourceUnit": "セイバールート十五日目-18:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe neither slows nor stops on her way to her destination.\nIf anyone caught sight of her, she would look like nothing more than a gust of wind.\nA streak of silver and blue.\nThe instant she reaches the top of the hill and catches sight of the enemy's territory, Saber armors herself.",
+      "sourceUnit": "セイバールート十五日目-18:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...\n...and arms herself without a second thought.\nShe'd decided to put on her armor once inside the church.\nBut she couldn't help herself.\nThe instant the church comes into view, her fury overtakes her, and she is armed and armored without even truly thinking about it.",
+      "sourceUnit": "セイバールート十五日目-18:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Her chest burns.\nThis nausea she's been feeling isn't her own.\nThe chill running down her spine is coming from her Master. The hopeless scent of death reaches her nostrils.\nWhy this is happening, she isn't sure.\nWhat she does know is that Shirou Emiya is on the verge of death.",
+      "sourceUnit": "セイバールート十五日目-18:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "There is no time to waste.\nHe is gravely injured, and could die at any second.\nThe pain and cold have morphed into an unbearable nausea that grips her whole body.\nAnd that is less than a thousandth of the pain Shirou feels.",
+      "sourceUnit": "セイバールート十五日目-18:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "He's not going to make it.\nEven if she moves with godlike speed, he won't survive.\nEvery second brings him closer to death, and she may arrive just in time to watch her Master die.",
+      "sourceUnit": "セイバールート十五日目-18:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "As soon as she imagines that scene, she feels all sense and reason flee her.\nAll she can do is run to her Master as fast as she can.\nIf godlike speed will not bring her to him in time, then she must simply break even the laws of God.",
+      "sourceUnit": "セイバールート十五日目-18:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe struggles to control her anger as she glares at the church.\nThe tightly shut church doors offer no obstacle to her, simply blown wide open with the force of her approach.\nRows of pews fail to even slow her down.\nShe smashes through the chapel, passes through the courtyard, and rushes down the stairs leading to the basement.",
+      "sourceUnit": "セイバールート十五日目-18:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Behind her, the church is left in ruins.\nSaber is not usually so violent.\nFor all she knows, she opened the door calmly. She may not even remember expending so much magical energy in her run through town.\nShe simply could not control herself.\nSo fast and out of control is she that she practically rolls down the stairs.",
+      "sourceUnit": "セイバールート十五日目-18:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Death closes in on all sides.\nWhen she finally sees what horrors the basement holds, her fury overwhelms her.\nFury directed at herself, and at the enemy responsible for this.\n\"Yo. Sorry, but this is it for you, Saber.\"\nShe doesn't even hear Lancer's voice as he bars her path.\nAll hope of control or restraint is gone. However much she might try, she can no longer control her strength.",
+      "sourceUnit": "セイバールート十五日目-18:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Her lord is somewhere in the darkness.\nIn the back room.\nHe is lying there, face down, at the center of a room peopled by living corpses.\nA pool of blood spreads out beneath him, and the sounds of his frantic breathing echo all the way to the sanctuary.\nHe's alive.\nRelieved though she is, she shudders to think how long she'd left him alone.",
+      "sourceUnit": "セイバールート十五日目-18:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...\"\nSaber enters the back room.\nBut a guard blocks her way.\nHolding his long spear behind him, the blue spearman meets Saber's gaze fearlessly.",
+      "sourceUnit": "セイバールート十五日目-18:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Yo. I said, this is it for you, Saber.\"\n...\nShe doesn't hear him.\nSo she doesn't stop.\n\"Hey! Got some nerve, ignoring me!\"\nHis ability to insult Saber while parrying her attack is frankly impressive.\nLancer manages to block Saber's surprise attack with his spear, but he can do nothing about the sheer strength behind it, and retreats back to the nearby wall.",
+      "sourceUnit": "セイバールート十五日目-18:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's nothing in Saber's way now.\nShe doesn't have time to deal with Lancer.\nHer Master is on the verge of death, and she has to save him.",
+      "sourceUnit": "セイバールート十五日目-18:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. Is the kid really that important?\nI mean, it's fine with me, but that means you really can't ignore me.\"\nSaber stops as she heads to the back.",
+      "sourceUnit": "セイバールート十五日目-18:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, Lancer?\"\n\"Oh nothing. I'm just sayin' that I was the one who stabbed him. Second time I've done it, actually. Thought I killed him last time, but he survived somehow. This time, I made sure to get him good.\"",
+      "sourceUnit": "セイバールート十五日目-18:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"You! You used Gáe Bolg on Shirou!?\"\n\"Oh, don't you worry. I avoided his heart. Curse's still there, though.\nI'm sure even you know about the curse on my spear. This is the 'spear of causality' that reverses cause and effect. Anyone afflicted by the curse needs to be real lucky, or they won't be able to change their fate.\"",
+      "sourceUnit": "セイバールート十五日目-18:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"In simpler terms, a wound from Gáe Bolg can't be cured.\nThe cursed one can never recover and will have to bear their wounds until their death... At least, as long as the spear exists.\"",
+      "sourceUnit": "セイバールート十五日目-18:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "At that moment, the air changes.\nA flicker of intelligence and reason lights in Saber's eyes.\n\"Ah, there you go. You get it now. Wanna save the kid, right? Then you gotta settle things with me first.\"\nLancer's bestial bloodlust drives him forward, into Saber's reach.\nHe's deadly serious.\nBut...",
+      "sourceUnit": "セイバールート十五日目-18:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you mad, Lancer? Do you, a spearman, mean to fight me, a swordsman, in so small a space? I do not believe you would do something so foolish.\nLeave, and I will let you live. Lay down your spear and be gone from this place.\nI have no intention to take your head in a battle you certainly did not choose.\"",
+      "sourceUnit": "セイバールート十五日目-18:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"You're the bigger fool here. What kind of Heroic Spirit abandons their own partner?\nI didn't stab him so I could make a deal with you.\nI'm here to fight you, Saber.\"",
+      "sourceUnit": "セイバールート十五日目-18:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "He's not lying.\nLancer has no intention of letting either of them leave alive.\nFor him, this is the first and only battle where he can truly go all out.",
+      "sourceUnit": "セイバールート十五日目-18:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Lancer's wish is not for the Holy Grail.\nHis wish is to fight a battle worthy of heroes.\nSuch a simple wish...one any Servant should always have granted...has been denied to him.\nSo he has no intention of missing what may be his final chance.\nEven if the situation happens to be unfavorable.",
+      "sourceUnit": "セイバールート十五日目-18:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well, then. I will cut your spear in half, and you along with it.\"\nSaber readies her Invisible Air, and faces the blue knight.\n\"Well said. To be honest, I'm glad you were the last one left, Saber!\"",
+      "sourceUnit": "セイバールート十五日目-18:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Lancer's spear pulses with light.\nSaber confronts him without hesitation.\nThe rematch begins with a desperate blow from both sides.",
+      "sourceUnit": "セイバールート十五日目-18:page50:1",
+      "recoveredDelimitedTail": true
+    },
+    "page51": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

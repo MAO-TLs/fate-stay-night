@@ -1,0 +1,361 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0301",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"It's cold.\"\nThe rooftop is mercilessly cold.\nIt would be crowded with students enjoying the breeze during the summer, but it's as desolate as a shopping district on New Years during the winter.",
+      "sourceUnit": "凛ルート七日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"It's cold.\"\nI say it one more time.\nThough it's an honest opinion, I'd really just like the person next to me to take the hint.\n\"W-what? Suck it up if you're a man.\"\nMy objection is shot down right away.",
+      "sourceUnit": "凛ルート七日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Over here, Emiya. It isn't as windy and we won't be seen.\"\nShe quickly moves to her destination and doesn't make eye contact.",
+      "sourceUnit": "凛ルート七日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI eat my lunch.\nShe must've called me over since she had something to talk about, but she doesn't speak up at all.",
+      "sourceUnit": "凛ルート七日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Even so...\nWhen I sneak a peek at her, she's looking at me as if she wants to say something.",
+      "sourceUnit": "凛ルート七日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nI keep eating my lunch.\nThere's nothing else I can do to keep my cool.\nAt this point I don't care that it's cold or quiet.",
+      "sourceUnit": "凛ルート七日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It's just...\nThis is making me anxious.\nSince the places where we can avoid the wind are limited, Tohsaka is eating her bread right next to me.\nWe're so close that if I move my body even just a little, our shoulders will rub.\nDoesn't it look like we're eating lunch, like, together from the outside?",
+      "sourceUnit": "凛ルート七日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...\"\nI try my best to keep from blushing.\n...Damn it.\nWhy didn't it occur to me when she invited me in the hallway?",
+      "sourceUnit": "凛ルート七日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "It's only natural that I can't keep it together.\nThough she's my ally now, I've admired her for quite some time.\n...Well, I can't say this to Tohsaka since she would just laugh it off, but man, I wish she happened to be more considerate to a case like that.",
+      "sourceUnit": "凛ルート七日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy chopsticks hit the bottom of my lunchbox.\n...Finished.\nAll that's left is to clean up after myself.\nIt seems like Tohsaka finished a while ago, as she is watching me idly.",
+      "sourceUnit": "凛ルート七日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...Man.\nLunch break is going to end in a few minutes.\n...\nI guess I'll just have to ask her what we'll do after school today...",
+      "sourceUnit": "凛ルート七日目-12:page10:1"
+    },
+    "page11": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nSilence follows.\nThe end of lunch break is nearing.\nI'm relieved and disappointed that we might have to go now.",
+      "sourceUnit": "凛ルート七日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"...Um, sorry about last night.\"\nTohsaka murmurs in an apologetic voice.",
+      "sourceUnit": "凛ルート七日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n\"I said about yesterday. I used a Command Spell on Archer... I know it's late, but sorry.\"",
+      "sourceUnit": "凛ルート七日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy frivolous thoughts pause.\n...What happened last night...\nArcher tried to kill me, and Tohsaka says she used a Command Spell on him.",
+      "sourceUnit": "凛ルート七日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. So, that means...\"\n\"...Yes. As long as we're allies, I ordered him not to attack you with a Command Spell. So from now on, something like yesterday won't happen again.\"\n...\n...That is a relief.\nIt's a relief, but Tohsaka used a Command Spell on something like that?",
+      "sourceUnit": "凛ルート七日目-12:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. But, that's nothing for you to apologize for.\nThat is something he did on his own. You didn't know what he was doing either, right?\"",
+      "sourceUnit": "凛ルート七日目-12:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. But, that doesn't mean I have nothing to do with it. It's my responsibility as Master for letting him do as he pleases.\"\nShe looks down, dejected.\nThis is really unlike her. It bothers me more than the fact that I got attacked by Archer.",
+      "sourceUnit": "凛ルート七日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll say that's the case if you say so.\nBut I'm surprised Archer actually told you. I would never think that he would actually report to you that he attacked me.\"",
+      "sourceUnit": "凛ルート七日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. But it's obvious something happened if your Servant comes home wounded with no magical energy.\nHe hides things, but he doesn't lie. He readily confessed when I asked him what happened.\"",
+      "sourceUnit": "凛ルート七日目-12:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you're back to normal. That's good, it's not like you if you're like that.\"\n\"Mrgh... Hey, what does that mean?\"\n\"Don't worry about it. So where's Archer?\"",
+      "sourceUnit": "凛ルート七日目-12:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I left him at home. He's been acting strange since last night, and I don't want to have him see you after what happened yesterday.\"\nYeah, I don't want to see him either.\nIt's obvious we would just end up insulting each other if we saw each other.",
+      "sourceUnit": "凛ルート七日目-12:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. But Tohsaka, why did he attack me?\"",
+      "sourceUnit": "凛ルート七日目-12:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...He said the fewer enemies, the better.\nSomething about how he didn't care about you, but he has to defeat Saber because she'll get in the way later on.\nHe thought it was bothersome how easily you got manipulated by another Master, so he decided to kill you.\"",
+      "sourceUnit": "凛ルート七日目-12:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nDamn it, I can't object to that.\nI'm certainly burdensome, falling into Caster's trap like that.\nHe must've figured that the moment I was caught in her spell.",
+      "sourceUnit": "凛ルート七日目-12:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I got it. I don't want to harp on this too much. It was partially my fault as well, and in any case, I don't know what would've happened if he hadn't come.\nSee, it evens out in the end. Don't feel bad about it.\"",
+      "sourceUnit": "凛ルート七日目-12:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, it means a lot if you say so.\"\nShe looks away awkwardly.\nThat strong sense of responsibility must be getting in the way of her agreeability.",
+      "sourceUnit": "凛ルート七日目-12:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, the bell rang just in time.\"\nLunch break is over.\nI didn't even taste anything because of the situation, but I guess this wasn't bad at all.",
+      "sourceUnit": "凛ルート七日目-12:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's get back inside. We'll be late for fifth period.\"\nI stand up and head to the door.\n\"Hm?\"\nBut, Tohsaka is still sitting.",
+      "sourceUnit": "凛ルート七日目-12:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? The bell rang.\"\n...\nShe doesn't answer, but she looks at me as though she wants to say something.\n\"Keep me company for a bit. It's all right to skip one class, right?\"\nThe words a model honor student would never dare say.",
+      "sourceUnit": "凛ルート七日目-12:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The bell rings to indicate the start of fifth period.\nYet, what are we doing...\nDrinking coffee at a place like this?",
+      "sourceUnit": "凛ルート七日目-12:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...On a side note, I had to go buy the canned coffee real quicklike.\n\"There's still five minutes until class starts right? I think that's enough time to go down to the store on the first floor from here.\"\nSo was the devilish request from Tohsaka.",
+      "sourceUnit": "凛ルート七日目-12:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"And how about you?\"\n\"Huh...? Oh, when I started learning magecraft? Yeah, I think that's about right. I begged my old man for something like two years, and he finally taught me.\"",
+      "sourceUnit": "凛ルート七日目-12:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"So, nearly eight years... Your father sure did an incomplete job. If he was going to teach you, he should've taught you since you were born.\nYou'd have already hit a growth spurt eight years ago. From that point, he wouldn't have been able to engrave a crest on you, or tamper with your body.\"",
+      "sourceUnit": "凛ルート七日目-12:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says dangerous things.\nWell, I know this is the part of her that's a mage.",
+      "sourceUnit": "凛ルート七日目-12:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess. Like I said before, my old man never intended to teach me magecraft. So that's why he didn't go through the proper steps like you did.\n...Wait, what do you mean by doing something when you're born?\"",
+      "sourceUnit": "凛ルート七日目-12:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, it's just how it sounds. The longer the history, the larger the family's Magic Crest gets.\nA Magic Crest is a Magic Circuit given form. The moment you try to engrave it on a human host, their body attempts to reject it. And it seriously hurts.\nSo, we transplant it little by little from when we're young to minimize the pain. We also ingest this powder made from bitter herbs and strange bones to create resistance within our body.\"",
+      "sourceUnit": "凛ルート七日目-12:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, you don't have to worry about it since it doesn't concern you as a mage. It would be all sorts of trouble if you tried to copy it now.\"",
+      "sourceUnit": "凛ルート七日目-12:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't intend to.\nBut are you okay? It sounds painful just hearing about it.\"\n...I don't know how to explain it.",
+      "sourceUnit": "凛ルート七日目-12:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "I've never known a \"normal\" practitioner of magecraft.\nBut when I went to Tohsaka's house, I felt an inexplicable pressure.",
+      "sourceUnit": "凛ルート七日目-12:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "A family that passes along a long history...\nChildren that have the duty to succeed since they were born, secluded from the normal world, completely disregarding anything they may want...\nI bite my lip, daring to imagine how painstaking and tiresome that must be.",
+      "sourceUnit": "凛ルート七日目-12:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Ooh. I see, so you're worried about things like that?\"\n\"...Ugh. W-what's up with that look? I'm not worried or anything.\"",
+      "sourceUnit": "凛ルート七日目-12:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. There's nothing to be worried about. I'm doing this because I want to, so I don't regret it at all. Isn't it the same for you?\"\n\"Mm...? Why are you asking me?\"\nWait, the same? Tohsaka and I?",
+      "sourceUnit": "凛ルート七日目-12:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Geez. You really lack some self-awareness, you know.\nLook, my training was certainly tougher. But I've never thought about running away from it. I'm saying it must be the same for you.\"\n\"Oh... Yeah. That's true, but I was never asked to do anything as hard as what you were doing.\"",
+      "sourceUnit": "凛ルート七日目-12:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be ridiculous. It's not sane to start learning magecraft after living a normal life for nine years.\n...I don't know what your daily routine was like, but it must've been dangerous. Like you were living on the edge and would lose your life if you failed.\"",
+      "sourceUnit": "凛ルート七日目-12:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... No, since I'm an amateur, it's not supposed to be that dangerous. It won't even compare to what you went through, Tohsaka.\"",
+      "sourceUnit": "凛ルート七日目-12:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I suppose. I can't compare myself to you either.\n...Training in magecraft is like that. The only common thing is that we're putting our life on a scale.\nIt varies how much we dedicate to it, so how much we're willing to risk differs.\"",
+      "sourceUnit": "凛ルート七日目-12:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"In that sense, your training is a lot more harsh than mine.\nI've never trained in a way that might kill me. First of all, I don't fail.\"\n\"...Wow. You actually went there.\"",
+      "sourceUnit": "凛ルート七日目-12:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "She casually dunks on me.\nTohsaka basically said that she doesn't know what it feels like to fail...unlike the rest of us.",
+      "sourceUnit": "凛ルート七日目-12:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, why the long face? I just gave you a compliment.\"\n\"Hmph. I don't exactly feel thrilled being told I did well this time from someone who always gets perfect scores.\"",
+      "sourceUnit": "凛ルート七日目-12:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't just mean right now.\nMy point is, it's true that the training was hard, but it wasn't painful. That's why I didn't quit, and I'm still working on it. That's the same for you, right?\"",
+      "sourceUnit": "凛ルート七日目-12:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...\"\nHard but not painful.\n...I do think that's like what I feel.\nI never felt that it was painful or hard.\nNo, to be honest, I couldn't afford to think that.\nI just wanted to catch up to Kiritsugu.",
+      "sourceUnit": "凛ルート七日目-12:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I'll become like Kiritsugu some day.\nI've kept training to become the hero of justice that Kiritsugu couldn't.\nLooking back, most of my memories are about the training I did in the shed.\nI've never regretted that.\nPerhaps it's because I believed that that was the most important thing to do for myself.",
+      "sourceUnit": "凛ルート七日目-12:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. I haven't really thought of it like that. I guess it means I've done my share too, huh?\"\nThat's right. You've come this far being self-taught, so you should have more confidence in yourself.",
+      "sourceUnit": "凛ルート七日目-12:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says proudly.\n...I'm a bit embarrassed.\nIt's worse when she's happy about it as if it's her own accomplishment.",
+      "sourceUnit": "凛ルート七日目-12:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's talk shop now that we got that clear. We have to know each other's strengths if we're going to be allies.\"\n\"Strengths...? Oh, the magecraft that we can use. Isn't it late for that? You already know what I can do.\"",
+      "sourceUnit": "凛ルート七日目-12:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, your magecraft is Strengthening, right?\nI won't go as far as saying that's rare, but there aren't that many mages that use it as their primary field. I've been wondering, but why are you particular about Strengthening?\"",
+      "sourceUnit": "凛ルート七日目-12:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that's the only thing I can use. I tried other things, but I could only do Strengthening.\"\nThe rest are basic things like making a blueprint and stuff.\nThat's not something to be talking about now.",
+      "sourceUnit": "凛ルート七日目-12:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Mine is Conversion.\nThe aggregation, flow, and transformation of power. That's my basic power, and I know all the famous spells. I can make a Bounded Field the size of a classroom and adjust the shape.\"",
+      "sourceUnit": "凛ルート七日目-12:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Conversion of power... That's the most basic and all-rounder type.\nIn other words, she's saying she can transfer magical energy into any vessel and transform it.",
+      "sourceUnit": "凛ルート七日目-12:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I'm glad you're telling me, but is it really okay for you to tell me your magecraft?\"\n\"You told me yours, right? It's not fair if I hide mine.\"\nTohsaka says and puts her left hand out.",
+      "sourceUnit": "凛ルート七日目-12:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I showed you last time, but this is my Magic Crest.\nThe technique of Conversion is what's passed down in the Tohsaka family. I'm good at transferring power from myself or someone else.\nUsually, magical energy disappears when we take it out of our body, right?\nMagical energy itself can't create Mystics. We activate the equation called magecraft using magical energy before it disappears. So it's hard to transfer pure magical energy that's not involved in magecraft...\"",
+      "sourceUnit": "凛ルート七日目-12:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "She stops there and takes out a small stone out of her pocket.\n...Is it a gem?\nThe transparent polyhedron reminds me of a kaleidoscope.",
+      "sourceUnit": "凛ルート七日目-12:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"But I can store my magical energy into other objects.\nNo, not just my magical energy, but I can store other mages' magical energy. And although it's difficult, magical energy isn't the only thing I can transfer.\"",
+      "sourceUnit": "凛ルート七日目-12:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"The most compatible storage space is a gem.\nYou know that gems can act like a location that are easy to store thoughts, right? A prison that stops the flow of energy.\nOn top of that, crystals that have been in the ground for a long time can house strong Nature Spirits. Such gems can become simple Magic Crests when magical energy is poured into them.\nWell, since they are gems, they'll break once the magical energy is released.\"",
+      "sourceUnit": "凛ルート七日目-12:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka shrugs and puts the gem away.\n\"...Man, that's a waste. By breaking, you mean it'll go away after it's used once, right? Do you have to replace such an expensive thing like a gem each time?\"",
+      "sourceUnit": "凛ルート七日目-12:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, exactly. That's why we're always broke.\nMages of the Tohsaka family have to start making money once they succeed...\"\n\"I see. Yeah, we all have our different problems, Tohsaka.\"",
+      "sourceUnit": "凛ルート七日目-12:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uhh...\"\nShe looks away, as if she said too much.\n...Yeah.\nI think this every time, but Tohsaka is actually really awkward deep down.",
+      "sourceUnit": "凛ルート七日目-12:page69:1"
+    },
+    "page70": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0210",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I think I hear a sound.\nI'm not sure when the sun set, but the room's gone dark.\nThe ticking of the clock is getting annoying.",
+      "sourceUnit": "セイバールート十四日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. How long are you going sleep? I need you to wake up, for crying out loud.\"",
+      "sourceUnit": "セイバールート十四日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n\"I keep saying you need to wake up. It's already past ten. Illya won't shut up about how hungry she is, so you need to wake up and deal with this.\"\nShe sounds upset.\nI snap to full wakefulness.",
+      "sourceUnit": "セイバールート十四日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I-it's past ten!?\"\nI jump up.",
+      "sourceUnit": "セイバールート十四日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. It's ten seventeen, to be exact. It's way too late for dinner.\"\nTohsaka stands over me, looking annoyed.",
+      "sourceUnit": "セイバールート十四日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"S-sorry. I fell asleep. I'll be out soon, so wait in the living room.\"\n\"That's fine, but where's Saber?\"\n\"Huh? If she's not here, I guess the dojo or the living room?\"",
+      "sourceUnit": "セイバールート十四日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I'm asking because she's not here.\"\n...\nTohsaka is serious.\nAnd I instantly realize what that means.\n\"Don't tell me...she hasn't come back yet!?\"",
+      "sourceUnit": "セイバールート十四日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, what do you mean 'she hasn't come back yet'!?\"\nTohsaka runs out of the room after me.\nThere's no time to explain.\nI ignore Tohsaka's yelling behind me, and I rush outside.",
+      "sourceUnit": "セイバールート十四日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The town is quiet.\nJust like yesterday, there is absolutely nobody around.\nI don't have the patience to think about how odd that is.",
+      "sourceUnit": "セイバールート十四日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Saber hasn't come home yet.\n...I actually don't blame her.\nWe had a huge argument.\nShe said she was going to fight alone.\nKnowing her, she'd do it, too.",
+      "sourceUnit": "セイバールート十四日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Saber's nowhere to be found.\nIf I can't find her, that might mean she's actually fighting Lancer, the final Servant, as we speak.",
+      "sourceUnit": "セイバールート十四日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "But, I head straight to one more place.\nThe air near the river is cold.\nThe night is chilly, and when I passed the park, it was so cold, the entire place felt like it was covered in frost.\nMy cheeks and ears sting with the cold, and my breath mists white.\nIf it's that cold in the park, I can't imagine how absolutely freezing it's going to be on the bridge, with the wind blowing up from the river.",
+      "sourceUnit": "セイバールート十四日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "There, I see her.\nShe's right where she'd been standing when I ran away.\nSaber leans on the rail and just gazes out over the water.",
+      "sourceUnit": "セイバールート十四日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Maybe she's following the sun, which has long set.\nShe's staring off into the distance, her eyes fixed on a red horizon that's long since vanished.",
+      "sourceUnit": "セイバールート十四日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd that's when I realize...\n...Saber is strong, but she's weak too.\nHer dignified appearance is just her way of trying to prove she can get by without anyone's help.\nBut at the same time, she's so fragile she might slip through my fingers if I reach for her.\nShe can't do things alone, but she will probably keep that front up till the very end.",
+      "sourceUnit": "セイバールート十四日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "So...\nJust like me, she'd been staring up at the unreachable stars.",
+      "sourceUnit": "セイバールート十四日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "All she does is look at the setting sun, as if it's all she knows how to do.\nI can't leave her alone.\nIf our argument needs a loser, then it's unquestionably me.\nIt's led to me swearing never to let her make that face again.",
+      "sourceUnit": "セイバールート十四日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I step out onto the bridge.\nSaber doesn't seem to hear my footsteps.\n...\nI approach without a word, and lean on the rail next to Saber.",
+      "sourceUnit": "セイバールート十四日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, you're going to catch cold out here.\"\nShe jumps in surprise.\nSaber finally notices me.",
+      "sourceUnit": "セイバールート十四日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...?\"\nShe turns toward me.",
+      "sourceUnit": "セイバールート十四日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing out here at this hour?\nYou didn't come home. Tohsaka was worried.\"\n\"I see. I feel bad about that.\"",
+      "sourceUnit": "セイバールート十四日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. But why are you here? Well...it was at least easy to find you since you stayed in the same place.\"",
+      "sourceUnit": "セイバールート十四日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I am still here because I have not yet decided where to go.\nYou told me to do whatever I wanted to do. So I have been trying to think of what I want to do.\nBut I could not think of what I should do, or go where I wished to go, so I have been trying to determine where to go.\"",
+      "sourceUnit": "セイバールート十四日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "She sounds like a lost child.\nSaber doesn't look me in the eyes as she speaks. Maybe she feels guilty?\nMaybe she does, after the fight we had...\nI can't blame her for thinking I must be angry.",
+      "sourceUnit": "セイバールート十四日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I am sorry. Please tell Rin I am in her debt.\nI will return to you once I have defeated Lancer and obtained the Holy Grail. So until then...\"\nIs she saying that she intended to wander around alone without anywhere to go home to? That idiot.",
+      "sourceUnit": "セイバールート十四日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? You have my place to come home to.\nThere's food and a bed for you there.\"",
+      "sourceUnit": "セイバールート十四日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"But you said that you do not care what I do any longer.\"\n\"Yeah. I have no idea what you're going to do next.\"\nI say that...\n..and then I take her hand.",
+      "sourceUnit": "セイバールート十四日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...\"\n\"Let's go home. You being a Servant doesn't mean you won't catch a cold if you stay out here in the cold for so long. Come on, let's get home and eat something warm.\"\n\"Uh...um...but I...\"",
+      "sourceUnit": "セイバールート十四日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"And I'm going to say this, but I'm not going to apologize.\nIf you have any complaints, tell me now.\"\nI'm crude about it, but I try to avoid her gaze.",
+      "sourceUnit": "セイバールート十四日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe stares at me, confused.\nSaber looks like she wants to apologize, but I ignore her.",
+      "sourceUnit": "セイバールート十四日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Maybe that works in my favor.\nShe doesn't say anything; she just follows me in silence, holding my hand.",
+      "sourceUnit": "セイバールート十四日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "We head across the bridge and into the park.\nIt's eleven o'clock.\nThere's nobody in the park, but it's packed with plenty of decorations, like fountains and streetlights.",
+      "sourceUnit": "セイバールート十四日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nI walk briskly.\nSaber's steps are sluggish.",
+      "sourceUnit": "セイバールート十四日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "She stood on that bridge for more than five hours.\nShe must be freezing and tired.\nWhen I tug on her hand, she occasionally stumbles, like she's about to fall down.",
+      "sourceUnit": "セイバールート十四日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Do you want me to walk slower? You don't seem...well.\"\nI turn toward her as I speak.",
+      "sourceUnit": "セイバールート十四日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no. I am fine!\nBut, well... Not that Rin's words mattered to me, but having you hold my hand like this really does make me think we are on some sort of tryst.\"",
+      "sourceUnit": "セイバールート十四日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nAnd...\n...just like that, my face turns bright, hot red.",
+      "sourceUnit": "セイバールート十四日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I guess. Should I...let your hand go? Um, that is...if you don't like it...\"\n\"No, this is fine. Your hand is very warm and comforting.\"",
+      "sourceUnit": "セイバールート十四日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "And there our conversation ends.\nI resume heading home, just to cover my embarrassment.\nSaber follows in silence.",
+      "sourceUnit": "セイバールート十四日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "I'm not even sure how much farther it is to the house.\nA little embarrassed by the warmth of our clasped hands, we both leave the park.\nA lot's happened today.\nBut if we're ending the day with warmth like this, hell, I'll change religions and thank that priest who, indirect as he may be, allowed this moment to happen. Of course, the second I think that...",
+      "sourceUnit": "セイバールート十四日目-10:page39:1"
+    },
+    "page40": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page41": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

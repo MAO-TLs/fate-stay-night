@@ -1,0 +1,121 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0713",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Sakura is released.\nThe black Command Spells wrapping her body crumble away.",
+      "sourceUnit": "桜ルート十六日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I used a dagger of contract-breaking.\nA Noble Phantasm that resets all magical effects and breaks Servants' contracts.\nIt doesn't endanger Sakura's life. It only breaks the contract she was bound to.",
+      "sourceUnit": "桜ルート十六日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The image doesn't continue.\nSakura is alive.\nShe goes limp. It must be the feedback from being released from the shadow.",
+      "sourceUnit": "桜ルート十六日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka...Tohsaka will still make it.\nHer bleeding stopped. She has a proper Magic Crest.\nThe Crest is a crystallization of the Tohsakas' inherited magecraft. Even if she loses consciousness, it won't allow its heir to die so easily.",
+      "sourceUnit": "桜ルート十六日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe cavern is shaking.\nAŋra Mainiiu.\n\"All the Evil in the World,\" please. The ridiculous curse is writhing.",
+      "sourceUnit": "桜ルート十六日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...Damn it.\nThe Shadow isn't disappearing, even though Sakura isn't its host anymore.\nIt's grown too much.\nIt's going to come out, even if Sakura is gone.\nAs long as the Greater Grail exists, it'll come crawling out someday.",
+      "sourceUnit": "桜ルート十六日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I'll destroy it.\nI'll break down this giant magic circle along with the Shadow.\nAŋra Mainiiu's undulations are gradually collapsing the cavern.\n...But I don't think it'll disappear even if the cave comes down.\nI need to get rid of it once and for all, in here.",
+      "sourceUnit": "桜ルート十六日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Is that even possible?\n...Yeah. Nothing's impossible.\nI'll get as close as possible to its feet and blow it up with maximum firepower.",
+      "sourceUnit": "桜ルート十六日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Aŋra Mainiiu won't move as long as it's inside those black flames.\nWhile I still can, I need to cut it in half and return it to something that doesn't exist before it comes out.\nIf there's a way to do it, it would be...\nTo blow it away with the most powerful Noble Phantasm I know of.",
+      "sourceUnit": "桜ルート十六日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Cough.\"\nI'm not breathing.\nIt's about a hundred meters to Aŋra Mainiiu's feet.\n...I'll be okay. It isn't an impossible distance to cover.\nOne more time.\nI just need to do one more Projection, and everything will be settled.\nIt's okay. I can do it.\nI'll clean this all up, and take them back—",
+      "sourceUnit": "桜ルート十六日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you hear me, Shirou?\"\nA stranger taps me on the shoulder.",
+      "sourceUnit": "桜ルート十六日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Who was she again?\nShe isn't a stranger.\nI know her well. She looks kinda scary, but I remember that this woman can be trusted.",
+      "sourceUnit": "桜ルート十六日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks. Can you take Tohsaka and Sakura back outside?\"\n\"...Shirou?\"\nThe long-haired woman looks at me for a few seconds, as if taking my measure.",
+      "sourceUnit": "桜ルート十六日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you?\"\n\"I'm going to shut that thing off. I think it'll be quick, but Tohsaka's wound needs help soon. It's going to affect Sakura if she stays here. Aŋra Mainiiu might not have learned its lesson and still try to make her its Master.\"",
+      "sourceUnit": "桜ルート十六日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. I will take Sakura and Rin.\nBe assured, I took the time to recover enough for that very purpose.\"\n\"Thanks. Do what you can to get them out of here. The cave's gonna come down soon, right? Ri—R-R—damn it, anyway, I know you're fast enough to avoid any cave-ins.\"",
+      "sourceUnit": "桜ルート十六日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"..................\n...Then I will come get you once I move them to a safe place.\"",
+      "sourceUnit": "桜ルート十六日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh... I'd appreciate that, but you should prioritize their first aid. You're the only one I can count on. I'll be out real soon, so just heal Tohsaka. Sakura won't be happy unless she's around too.\"",
+      "sourceUnit": "桜ルート十六日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...Oh, I think this woman said she doesn't have any healing skills.\nStill, I have to trust that she'll take care of Tohsaka.",
+      "sourceUnit": "桜ルート十六日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I promise. But that applies to you as well, Shirou.\nSakura needs both you and Rin. Please try to remember that... I also do not approve of anyone other than you supporting Sakura.\"",
+      "sourceUnit": "桜ルート十六日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\n\"I will hurry. I wish you luck.\"",
+      "sourceUnit": "桜ルート十六日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "The black-clad woman easily picks up the two girls and runs down the slope.\nShe evades the crumbling ceiling, dashing for the exit.",
+      "sourceUnit": "桜ルート十六日目-08:page20:1"
+    },
+    "page21": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page22": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0556",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngah!\"\nI throw the knife aside.\nTrying not to look at my wound, I run to Sakura's side.",
+      "sourceUnit": "桜ルート九日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura!\"\n\"Sen...pai...\"\nSakura is sitting on the ground lifelessly, not looking up.",
+      "sourceUnit": "桜ルート九日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...She's avoiding talking to me.\nI don't know if that's because of Shinji, or if it's because I've been hiding things from her.\nAll I know is that Sakura has had a fever since this morning.",
+      "sourceUnit": "桜ルート九日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's okay. We'll talk later.\nFirst we'll go home, and then—\"\n\"!\"\n\"That's enough. We win, Shinji.\"",
+      "sourceUnit": "桜ルート九日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "A voice interrupts me.\nI heard Tohsaka from behind. She must have arrived at some point.",
+      "sourceUnit": "桜ルート九日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Rider is crouched on the floor, wounded by Archer.\nHer clothes are soaked in blood. It doesn't look immediately fatal, but she probably can't fight anymore.",
+      "sourceUnit": "桜ルート九日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka!?\nEmiya, you broke our promise, you coward! I told you to come alone!\"",
+      "sourceUnit": "桜ルート九日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You did. But that was an order, not a promise, remember? He isn't a coward for defying you.\"",
+      "sourceUnit": "桜ルート九日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"T-that's not an excuse! Emiya said he'd come alone, so I expected him to be alone!\"",
+      "sourceUnit": "桜ルート九日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sure, whatever.\nHe and I may be here at the same time, but he never asked me for help. I'm here because I want to be.\"",
+      "sourceUnit": "桜ルート九日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Liar! Why would you come if he didn't ask!?\nHe just acted all stupidly honest to trick me!\"",
+      "sourceUnit": "桜ルート九日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, there's an easy explanation for that. When you were on the phone, I was right next to him. You talk really loudly, Matou. I could hear you even though he tried to cover the speaker.\"",
+      "sourceUnit": "桜ルート九日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That good enough for you? I wasn't just going to sit still after you took Sakura. In exchange for luring Emiya out, you've completely made me your enemy.\"",
+      "sourceUnit": "桜ルート九日目-19:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You keep talking about Sakura, too.\nSakura. Sakura, Sakura, Sakura, Sakurasakurasakurasakurasakura!\nI can't believe you're just like him! Look at me! I'm a Master now!\nYou're a Master too, so you should pay attention to me, not Sakura!\"",
+      "sourceUnit": "桜ルート九日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, really? Then why don't you make your prized Servant fight?\nAll Archer did was eviscerate her. Her material cores—her heart and her head aren't destroyed. If you're a competent Master, go ahead and heal your Servant.\"\n\"Ngh! Fine, just watch...!\"",
+      "sourceUnit": "桜ルート九日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Shinji backs away from us and holds out a book.\n\"That's...\"\nShinji's Command Spell, the book that burnt to ashes in the park.\nHe still had another one!?",
+      "sourceUnit": "桜ルート九日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Stand up, Rider! I'm ordering you as your Master to stand up and defeat Archer!\"\n...\nShe doesn't answer.\nRider stays where she is, unmoving.",
+      "sourceUnit": "桜ルート九日目-19:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "A crimson pool of blood grows at her feet.\nRight now, it's Rider, not Shinji, who needs help.\nOrdering her to fight would only hasten her demise.",
+      "sourceUnit": "桜ルート九日目-19:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it! You're my Servant, so fight to the death, you moron!\"",
+      "sourceUnit": "桜ルート九日目-19:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Shinji clenches the book tightly.\nAs if that's how he uses his Command Spell, Rider's body starts convulsing, trying to stand up.",
+      "sourceUnit": "桜ルート九日目-19:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop it! That's enough, Shinji, just give up! Rider won't last if you keep pushing her!\"\n\"Ha! These scum all die so easily! Now, I'm taking back Sakura!\"",
+      "sourceUnit": "桜ルート九日目-19:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Shinji doesn't rescind his order.\n\"Guh...!\"\nI let go of Sakura's hand and start to run at Shinji again.",
+      "sourceUnit": "桜ルート九日目-19:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "But, when I do...\n\"No...! No more...!\"",
+      "sourceUnit": "桜ルート九日目-19:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...?\"\nI stop and turn to face her.\nSakura cries out in anguish,",
+      "sourceUnit": "桜ルート九日目-19:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha!?\"\nand Shinji's book bursts into flame, just like it did that night.",
+      "sourceUnit": "桜ルート九日目-19:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nGusts of wind howl through the corridor.\nThey come from Rider, who should have been sprawled on the ground, and Sakura.",
+      "sourceUnit": "桜ルート九日目-19:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. This is Rider...?\"\nOn edge, Tohsaka and Archer watch their newly arisen foe.\nRider is completely healed.\nThe pressure emanating from her is exactly the same as what I witnessed at Ryudou Temple.",
+      "sourceUnit": "桜ルート九日目-19:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nSuddenly,\nshe vanishes into thin air.\nRider instantly vanishes from my field of view.",
+      "sourceUnit": "桜ルート九日目-19:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya, get down!\"\n\"!\"\nI duck in response to the warning, and see long hair streak overhead.",
+      "sourceUnit": "桜ルート九日目-19:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...!\"\nIn an instant, Rider leaps away with Sakura in her arms.\nShe lands opposite me and Tohsaka, slightly forward of where Shinji is standing.",
+      "sourceUnit": "桜ルート九日目-19:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? What are you doing? I ordered you to fight.\"\n\"I am under no such orders. As a Servant, I only protected my Master.\"",
+      "sourceUnit": "桜ルート九日目-19:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Rider lets Sakura down and glances at Shinji.\nDespite the leather blindfold covering her eyes, her gaze is ice cold.",
+      "sourceUnit": "桜ルート九日目-19:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"D-don't be stupid. I'm your Master. You're supposed to protect me—\"\n\"Shinji. Command Spells appear on a Master's body. I have never once recognized someone not bearing those stigmata as my Master.\"",
+      "sourceUnit": "桜ルート九日目-19:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"What...did you say?\"\n\"You are a fake. I can no longer accompany you, now that you have lost the False Attendant's Writings.\"",
+      "sourceUnit": "桜ルート九日目-19:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Then, Rider turns her back on Shinji.\nThe gesture declares that she will never look at him again.",
+      "sourceUnit": "桜ルート九日目-19:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So that's how it was, Rider.\"\n\"You surmise correctly, Master of Archer.\nIn fact, you probably deduced it long ago.\"",
+      "sourceUnit": "桜ルート九日目-19:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I thought it was strange.\nThe Matou family shouldn't be able to produce a Master. Their bloodline has fallen into ruin, failing to produce anyone capable of handling magecraft.\"",
+      "sourceUnit": "桜ルート九日目-19:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"And there's no way Shinji Matou could ever be a Master. Yet somehow, a Matou Master was chosen, and summoned a Servant.\"",
+      "sourceUnit": "桜ルート九日目-19:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...I thought that Zouken summoned you and gave you to Shinji.\nBut it was even simpler than that. Zouken didn't need to lift a finger. After all, the person most suited to being a Master in the Matou household right now is...\"",
+      "sourceUnit": "桜ルート九日目-19:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka isn't looking at Rider.\nHer eyes are directed at...\n\"...the legitimate Matou heir.\nSakura, the mage of the current generation.\"\n\"...\"\n...none other than Sakura.",
+      "sourceUnit": "桜ルート九日目-19:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI can't form any coherent words.\nTohsaka and Sakura.\nI look back and forth between them both, unable to process anything more than what I just heard.",
+      "sourceUnit": "桜ルート九日目-19:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...My left hand hurts.\nFinally, my mind slows down enough to realize that I'm holding a knife in my left hand by the blade.",
+      "sourceUnit": "桜ルート九日目-19:page41:1"
+    },
+    "page42": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "All I can think is...why?\nWhy is this happening?",
+      "sourceUnit": "桜ルート九日目-19:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura seems to shrink away, still not raising her face.\nHer body language seems to apologize to me for not telling me sooner.",
+      "sourceUnit": "桜ルート九日目-19:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...Transferring Command Spells. An order to \"obey Shinji Matou.\"\nThat's how Rider became Shinji's Servant, while Sakura temporarily gave up her authority as a Master and went back to being a mere mage. When Tohsaka looked at Sakura's hand, she had already transferred her Command Spell to Shinji.",
+      "sourceUnit": "桜ルート九日目-19:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura bites her lip.",
+      "sourceUnit": "桜ルート九日目-19:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "In response,\n\"Shit! Do it again, Sakura! Give me control one more time!\"\nShinji runs to her, begging.",
+      "sourceUnit": "桜ルート九日目-19:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Hey, why aren't you saying anything!? You don't want to fight, right? You let me be a Master because you didn't want to!\nSo why are you acting like a good girl all of a sudden!?\"",
+      "sourceUnit": "桜ルート九日目-19:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "It's like he's tearing off the mask of being her brother.\nHis fury pours out like through a broken dam. There's no need to stop it anymore.\n\"R-Rider, are you disobeying me?\"\n\"You are not my Master, Shinji. Even if you are Sakura's brother, if you raise a hand to her, I will simply eliminate you.\"",
+      "sourceUnit": "桜ルート九日目-19:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Rider lets go of Shinji, who had been clinging to her arm.\nHe staggers backwards.",
+      "sourceUnit": "桜ルート九日目-19:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha, haha. Yeah? You'll regret that. No matter what you say, Sakura can just make me a new book.\nYou know what'll happen once you're my Servant again—\"",
+      "sourceUnit": "桜ルート九日目-19:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Forget it, Shinji. It's nearly impossible for a human who isn't a mage to handle a Servant. It only happened because she transferred her Command Spell.\"",
+      "sourceUnit": "桜ルート九日目-19:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"S-sure, you get it. She has one more, though.\nSakura will do what I say. And then—\"",
+      "sourceUnit": "桜ルート九日目-19:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I said, it's over. Sakura has one seal left. If she uses it up, she won't be able to control Rider anymore.\nThen Rider will be free. A fake spell of authority created from a Command Spell can't restrain a Servant. As soon as you give her an order, the book will burn just like before, and you're done.\"",
+      "sourceUnit": "桜ルート九日目-19:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Then, I...\"\n\"Yeah. You've lost your chance to be a Master.\nNo, you never were one to begin with, since you were controlling her using borrowed Command Spells.\"",
+      "sourceUnit": "桜ルート九日目-19:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...The cracks spread throughout.\nWith a virtually palpable crack, Shinji Matou's very existence crumbles to dust.",
+      "sourceUnit": "桜ルート九日目-19:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ha... So it was impossible all along. That's right, I never had any talent for magecraft. Gramps treated me like a failure, and my sister felt sorry for me.\n...Of course. I knew it. I knew it, I knew it, I knew it, I knew it, I knew it! I knew all along that I wasn't up for it!\"",
+      "sourceUnit": "桜ルート九日目-19:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji—\"\n\"It's fine, don't worry, Sakura. This was just for fun. I know I don't have any talent. You're the Matou successor. I can't even crash the party.\"",
+      "sourceUnit": "桜ルート九日目-19:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji, you—\"\n\"Yeah, I know. I get it.\nSo, Sakura...you do the rest.\"",
+      "sourceUnit": "桜ルート九日目-19:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\n\"I said, you should fight them for me! Listen, Emiya and Tohsaka are both our enemies. If you're the Matou heir, you know what to do...!\"",
+      "sourceUnit": "桜ルート九日目-19:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji, you still don't get it?\nSakura isn't going to fight, and she doesn't care about you. We're not going to bother with you now that you've lost Rider, too. Just hide yourself and behave until the Holy Grail War is over.\"",
+      "sourceUnit": "桜ルート九日目-19:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Nobody asked you... Come on, Sakura. You're my cute little sister. You'll do what I say, right?\"",
+      "sourceUnit": "桜ルート九日目-19:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe doesn't answer.\nSakura clutches one arm to herself and turns away from Shinji,\n\"...I don't want to. Let's stop this, Shinji.\"\nand firmly rejects him.",
+      "sourceUnit": "桜ルート九日目-19:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. What did you just say?\"\n\"...I don't want to. You broke your promise. You said you wouldn't kill Senpai, but then you tried to.\nThat's enough...\"",
+      "sourceUnit": "桜ルート九日目-19:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura doesn't look at him.\nShinji stares blank at her, then laughs.",
+      "sourceUnit": "桜ルート九日目-19:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn that second, I feel an awful chill.\n\"Well then. As you wish.\"\nThere's a sound of glass breaking near Sakura.",
+      "sourceUnit": "桜ルート九日目-19:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah! Ngh!\"\nSakura collapses.\nShe drops to the ground, the strength gone from her legs.",
+      "sourceUnit": "桜ルート九日目-19:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye, Sakura. If you have to blame someone, blame Grandpa. This was always going to happen, anyway, so you might actually be better off if you let go now!\"\nShinji runs off.",
+      "sourceUnit": "桜ルート九日目-19:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...Hah, ah!\"\nShe clutches her hands to her chest, painfully.\nThe earring she was wearing broke, and some liquid drug splashed on her.",
+      "sourceUnit": "桜ルート九日目-19:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... no...!\"\nSakura trembles on her knees.\nShe shudders violently, like a building being shaken by an earthquake, looking like she might fall apart any second.",
+      "sourceUnit": "桜ルート九日目-19:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...!\"\nI don't know what's happening.\nI just try to run to her side.",
+      "sourceUnit": "桜ルート九日目-19:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"You fool! Don't you know what's happening!?\"\n\"Ngh.\"\nI stop.\nAt some point, Archer got behind me. He grabs my shoulder.",
+      "sourceUnit": "桜ルート九日目-19:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Get out of here. If you carelessly feed it, there's no going back.\"\nHe pushes me back and says something odd.",
+      "sourceUnit": "桜ルート九日目-19:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Feed it? What the hell are you talking—\"\nMy question is answered before I can finish it.",
+      "sourceUnit": "桜ルート九日目-19:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe hallway is dyed red.\nThe haze hanging over us becomes a mist that wets my skin, covering the walls in what looks like a honey-like sweat.",
+      "sourceUnit": "桜ルート九日目-19:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow, guh!?\"\nMy skin burns.\nThis air...\nThis red world is a realm made of magecraft.\nWithout a doubt, it's some unknown Bounded Field that will melt everyone in it.",
+      "sourceUnit": "桜ルート九日目-19:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...this...\"\nI can't breathe.\nOr rather, when I try, the mist enters my throat and burns me from the inside.",
+      "sourceUnit": "桜ルート九日目-19:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's the Bounded Field Shinji set up around campus.\nBut now it's on a different level, now that Sakura's the Master.\"\n\"Wha...\"",
+      "sourceUnit": "桜ルート九日目-19:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I look back.\nAt the end of the dark red passage is Sakura on the ground, looking like she's trying to pry something from her chest,\nand Rider, facing us as if to protect Sakura.",
+      "sourceUnit": "桜ルート九日目-19:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Step aside, Rider. Your master is out of control. We have to stop her before she develops a taste for anyone else's magical energy.\"\n\"I refuse. My duty is to guard my Master. If you're going to kill Sakura, then I cannot let you pass.\"",
+      "sourceUnit": "桜ルート九日目-19:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh? So you'll watch her die, instead? Your Master is consuming a remarkable amount of energy. Don't you understand that she's sure to die at this rate?\"",
+      "sourceUnit": "桜ルート九日目-19:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"No. She can avoid that fate if she acquires more energy than she loses.\nFortunately, there are two mages here. Shinji may have fled, but those two cannot escape. I will take your Master before the insects can devour Sakura.\"",
+      "sourceUnit": "桜ルート九日目-19:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph! So your nature hasn't changed, even if your Master has.\nYou dote on yourself more than the lives of others.\"\n\"That goes for you, as well. You protect your Master before mine.\"\n\"I see. Then there's no need for either of us to hold back!\"",
+      "sourceUnit": "桜ルート九日目-19:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "Archer charges.\nNot heeding the stomach-like Bounded Field, the red knight runs at Sakura,\nand clashes with Rider.",
+      "sourceUnit": "桜ルート九日目-19:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait—Tohsaka, are you sure about this? He's fighting Rider now!\"\n\"...We don't have a choice. You and I won't hold out for much longer. And as a fellow mage, I can't let Sakura fall down this path.\"",
+      "sourceUnit": "桜ルート九日目-19:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nFall down what path?\nIs she talking about the Association's laws against abusing magecraft, or Sakura dying because her Magic Circuits are out of control?",
+      "sourceUnit": "桜ルート九日目-19:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What do you mean? Why is Sakura—\"\n\"She's on a rampage. Rider made this Bounded Field, but Sakura's the one activating it. I don't know what Shinji did to her, but she's lashing out indiscriminately.\"",
+      "sourceUnit": "桜ルート九日目-19:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sure Sakura feels the way we do. But she's sucking in magical energy the way a suffocating person craves oxygen... What I'm saying is, I can't let this happen, as Fuyuki's administrator.\"",
+      "sourceUnit": "桜ルート九日目-19:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Can't let what happen? What are you doing to do to her!?\"\n\"Ask Archer. I only know one way to stop a mage who's become like that. But Archer might know other methods.\"",
+      "sourceUnit": "桜ルート九日目-19:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"...Either way, we still have to do something about Rider. From what I've seen, Archer is stronger than her, but his output is dropping, somehow.\"\n\"His output is dropping?\"",
+      "sourceUnit": "桜ルート九日目-19:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "I return my attention to the duel.\nEven I can tell that Archer is overwhelming her.\nArcher was always the stronger Servant, so I'd never expect Rider to put pressure on him.",
+      "sourceUnit": "桜ルート九日目-19:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd yet...\n...that impression lasts only for a second.",
+      "sourceUnit": "桜ルート九日目-19:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "Rider's weapon is her agility.\nSo, a defensive battle like the one she's fighting now shouldn't be her forte.\nRider's greatest strength is her blindingly fast assaults, so she isn't suited to defense.\nIt's odd that Archer hasn't already beaten her and reached Sakura.\nCould the fact that this hasn't happened yet mean that Archer's the one on the defensive...?",
+      "sourceUnit": "桜ルート九日目-19:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuh!\"\nArcher's sword slices empty air.\nRider's hair whips to and fro as she evades his swords, simultaneously stepping in to cut Archer.",
+      "sourceUnit": "桜ルート九日目-19:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "But she isn't the only one who's mastered simultaneous evasion and offense.\nArcher's right-hand sword parries her dagger, pushing Rider back.",
+      "sourceUnit": "桜ルート九日目-19:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "One step gained, one step lost.\nTheir offense and defense are roughly even. The clash of blades continues to echo through the building, with neither fighter able to gain an advantage.",
+      "sourceUnit": "桜ルート九日目-19:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Kuh...\"\nArcher's the one getting desperate, though.\nHis energy is steadily getting drained by the Bounded Field while he fails to defeat a weaker opponent.",
+      "sourceUnit": "桜ルート九日目-19:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "On top of that, Tohsaka and I are at our breaking point.\nBreathing is hard enough, and I feel my consciousness slipping away the longer I stay in this hallway.\nAt this rate, we're going to collapse before Archer can beat Rider.",
+      "sourceUnit": "桜ルート九日目-19:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Tch.\"\nArcher clicks his tongue scornfully.\nThen, Rider stops.\n\"I've gauged your strength.\nUnfortunately, you cannot defeat me as you are now.\"\nRider declares, almost regretfully.",
+      "sourceUnit": "桜ルート九日目-19:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"What...?\"\n\"I'm saying you cannot win. You cannot use your Noble Phantasm; I don't know if it's because your Master has forbidden it, or if you are holding back out of concern for Sakura's safety.\nHowever, that spells your defeat. You cannot win against me.\"",
+      "sourceUnit": "桜ルート九日目-19:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "Rider stops her feet, her only weapon, and faces Archer.\nShe looks so defenseless, like Archer could finish this match with a single slash.",
+      "sourceUnit": "桜ルート九日目-19:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. I'm not going out of my way for your Master. I just don't need to use it.\nYou can't use your Noble Phantasm either. You haven't accumulated enough magical energy to power it, given that Shinji Matou was your Master until moments ago.\"",
+      "sourceUnit": "桜ルート九日目-19:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"That's true. Shinji did not supply me with any magical energy, so I can't use my Noble Phantasm right now.\"",
+      "sourceUnit": "桜ルート九日目-19:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. And I won't bother wasting energy on an opponent who can't use theirs. I simply need to cut both you and the girl down.\"",
+      "sourceUnit": "桜ルート九日目-19:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, go ahead and think that, Archer.\nThat will also allow me to dispose of you without too much trouble.\"\nRider's tone is serene throughout the exchange.",
+      "sourceUnit": "桜ルート九日目-19:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "What is she planning?\nShe faces Archer without even taking up a stance with her daggers.\n\"Rider, no!\"\nI notice a slight movement behind her.",
+      "sourceUnit": "桜ルート九日目-19:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. Please hold out a while longer. I will take care of everything.\"\n\"Stop it! That's enough, Rider. I didn't summon you to do...this...\"\n\"...I cannot comply with that order. Your life takes priority above all else.\"",
+      "sourceUnit": "桜ルート九日目-19:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "Rider raises her arm.\nShe's four meters from Archer.\nMaintaining that distance, the Servant raises a hand to her face.\n\"Besides...\nThis is what you wanted, Sakura.\"\nShe undoes her black restraint.",
+      "sourceUnit": "桜ルート九日目-19:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "Suddenly, everything freezes.\nRider's eyes...\nThey're inhuman. Even among the rare Mystic Eyes, they're orbits of the highest order.\n...\nAshen eyes.\nHer eyeballs are so different, they could be mistaken for crystals.\nLightless corneas.\nRectangular pupils connecting to the outside world.\nHer irises freeze, not allowing her eyes to close.\nHundreds of millions of retinal cells conveying optical information are made of Ether, the Sixth Imaginary Factor.\nIs it a work of art crafted by the gods' affection, or an inborn trait marked by their divine ire?\nRider's gray eyes are an incomparable aberration, and yet, terribly beautiful.\n\"...!\"\nArcher stiffens.\nIs it because he faced her eyes head-on at that short distance?\nHe tries to close his eyes, but his eyelids have already hardened, and he can't move his arms to cover his face.\nHe could try to advance and kill Rider, but his legs have already petrified up to his thighs.",
+      "sourceUnit": "桜ルート九日目-19:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. Mystic Eyes of Petrification...!?\"\nTohsaka almost screams in shock.\n...She's next to me, and I don't know what face she's making.\nMy own eyes are drawn in by Rider's Mystic Eyes, and I can't look away.\nMy blood congeals.\nMy bodily fluids solidify, and I lose sensation.",
+      "sourceUnit": "桜ルート九日目-19:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "Mystic Eyes.\nThey are single-action magecraft possessed by some mages.",
+      "sourceUnit": "桜ルート九日目-19:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "Eyes, organs that normally function as receptors of information from the outside world, are transformed to enact an effect from oneself to the outside world.\nIn short, they're items that forcibly cast magecraft on whatever's in their field of vision, and the effects are amplified if the target makes eye contact with the Mystic Eyes.\nThat peculiarity makes them feared as things one must never look directly at, since that very act will trap oneself in the user's magecraft.",
+      "sourceUnit": "桜ルート九日目-19:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Because of their concealability and power, Mystic Eyes are viewed among mages as proof of a first-rate practitioner.\nThe techniques needed to remake one's eyes into Magic Circuits are worthy of a Magic Crest.",
+      "sourceUnit": "桜ルート九日目-19:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "Of course, artificial Mystic Eyes are limited to Charm and Whisper effects.\nPowerful Mystic Eye bearers, are limited to those born with their eyes.",
+      "sourceUnit": "桜ルート九日目-19:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "Binding. Compulsion. Contract. Burning. Illusion. Misfortune.\nMystic Eyes with such power to interfere with others' destinies are termed Noble Colors, and Petrification is one of the highest orders among them.",
+      "sourceUnit": "桜ルート九日目-19:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "There are no modern mages who possess such eyes.\nFew mages can even perform Petrification with magecraft.\nImagine how monumental it is, then, to be able to petrify things by simply seeing them.",
+      "sourceUnit": "桜ルート九日目-19:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "Breaker Gorgon: Self-Seal, Dark Temple.\nIt takes godly power to seal a divine curse.\nThese are demonic eyes, possessed only by Demonic Beasts and holy spirits from the Age of Gods...\n...a magecraft-based Noble Phantasm that is the one and only signature of the Heroic Spirit Medusa, who could turn anyone she saw to stone!",
+      "sourceUnit": "桜ルート九日目-19:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh! Get back, Rin! The worst is yet to come...!\"\nPetrified up to his hips, Archer shouts a warning.\nAcross from him,\nbehind Rider with her unleashed Mystic Eyes, some dark red wave begins to spread.",
+      "sourceUnit": "桜ルート九日目-19:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"You...say that...but...!\"\nTohsaka moves sluggishly.\nSomething bad flows down the hallway toward us.\nThe wave narrows like a spear and makes a beeline for Tohsaka.",
+      "sourceUnit": "桜ルート九日目-19:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's going to die.\nTohsaka can't take a single step. Maybe she's been enchanted by the Mystic Eyes even worse than I am.\nThat spear is going to pierce her through the chest, and she can't do a thing about it.\nHer fate a few seconds from now flashes before my eyes, so...",
+      "sourceUnit": "桜ルート九日目-19:page120:1"
+    }
+  }
+}

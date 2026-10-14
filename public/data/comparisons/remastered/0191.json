@@ -1,0 +1,121 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0191",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Breakfast is the same as usual.\nI get the sense Saber and Tohsaka are pretty adaptable since they've already gotten used to Illya being here.",
+      "sourceUnit": "セイバールート十三日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So what are you going to do, Shirou?\nThere are three Masters left. The Holy Grail War isn't exactly never-ending, so you should think about making a move soon. Always being the one reacting to everyone else isn't a good look.\"",
+      "sourceUnit": "セイバールート十三日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's right.\nThere's nothing wrong with me physically, and Saber's completely healed.\nWe should be done resting as of yesterday.",
+      "sourceUnit": "セイバールート十三日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. You say we need to make a move, but it'll have to be at night.  We're going to do the same things we've been doing during the day.\"\n\"Are you serious? Well, I guess it wouldn't do us any good if we just aimlessly wander around with no information about our opponents. So, Saber's going to beat you up again today?\"",
+      "sourceUnit": "セイバールート十三日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I'm going to continue my sword training with Saber.\nThat's what we've been doing every day, and a Master should always be prepared for battle.",
+      "sourceUnit": "セイバールート十三日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. What Shirou and I are doing is training. The way you phrased it may cause misunderstanding.\"\n\"Well actually...yeah, I'm going to get beaten up by Saber in the morning, like usual.\"",
+      "sourceUnit": "セイバールート十三日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...if you describe it that way as well, you put me in something of a difficult position.\"\n\"Eh? Oh, sorry, Saber. I wasn't listening.\"",
+      "sourceUnit": "セイバールート十三日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"As I was saying, Rin's choice of words was too harsh.\nWhat is the matter with you, Shirou? You lack vigor this morning. The breakfast you prepared was also bland. Were you in the shed until late again last night?\"",
+      "sourceUnit": "セイバールート十三日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber may be questioning me, but there's no real bite to it.\nI can sense that she trusts me.\nWhich makes it even harder to meet her gaze now.\nIf our eyes meet, I can't help thinking of that scene in the hill.",
+      "sourceUnit": "セイバールート十三日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I will put some life into you later on. So we're going to be training in the dojo again today, alright?\"\n\"Yeah. What about you, Illya?\"\n\"Me? I'll do the same as yesterday. I don't like getting all wet in the rain, so I don't want to go outside.\"",
+      "sourceUnit": "セイバールート十三日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. That's perfect. I'd rather you stay in the house, since it's dangerous to go outside.\"\n\"Yeah. If you make bento again like yesterday, I wouldn't mind joining you.\"",
+      "sourceUnit": "セイバールート十三日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Hm...\nIt seems like Illya took a liking to the bento yesterday.\nI'm a little embarrassed that something so simple pleased her, but at the same time, I'm glad to know Illya enjoyed the bento I made.",
+      "sourceUnit": "セイバールート十三日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So it'll be exactly the same as yesterday.\nI'm going to my room. I have some things to look up, but come by in the afternoon. There's something I want to talk to you about.\"\n\"Are you researching something?\"",
+      "sourceUnit": "セイバールート十三日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. I think you might have noticed, but something's been going on at Ryudou Temple since yesterday.\nThey've been collecting magical energy really diligently this whole time, but that's stopped. Something's definitely going on.\nAnd I think that of the remaining Masters, our biggest threat is the one at Ryudou Temple. I'll send out a familiar and try to find out what's going on inside.\"",
+      "sourceUnit": "セイバールート十三日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, should you not focus on your investigation? I do no see any need for you to take time off to teach Shirou.\"",
+      "sourceUnit": "セイバールート十三日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, then I'm sorry, but you're just going to have to bear with me on that. I'm still worried about Shirou, so I can't just leave him to his own devices.\nIt might be one thing for him to die at the hands of an enemy, but since I'm his teacher, it'd bother me if he did something dumb and got himself killed because he messed up his magecraft or something.\"",
+      "sourceUnit": "セイバールート十三日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. You are absolutely correct.\nSomething must have been wrong with me. I do not know why I would have believed your lessons to be unnecessary.\"",
+      "sourceUnit": "セイバールート十三日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, the reasoning there is pretty simple, but best not to talk about it.\nWell, good luck with your morning training. Shirou's pretty resilient, so it's probably best if you just beat him within an inch of his life.\"",
+      "sourceUnit": "セイバールート十三日目-12:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "And with that, Tohsaka leaves the room.",
+      "sourceUnit": "セイバールート十三日目-12:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Take what Tohsaka says with a grain of salt. She can say that because she's never been hit by you.\"",
+      "sourceUnit": "セイバールート十三日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I tell her just in case.\nFor some reason, she seems pleased.",
+      "sourceUnit": "セイバールート十三日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry, I know. I understand your body better than she does.\"\nShe responds calmly.",
+      "sourceUnit": "セイバールート十三日目-12:page21:1"
+    },
+    "page22": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

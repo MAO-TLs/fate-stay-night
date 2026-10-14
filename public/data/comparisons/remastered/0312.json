@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0312",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'll try asking him.\nShe's not one to reveal herself even to Issei, but I might be able to get some clues. Issei does live at the temple.",
+      "sourceUnit": "凛ルート八日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei. What kind of person is that woman?\nIs she from a foreign country? Does she always hide her appearance behind a turban-like cloth?\"",
+      "sourceUnit": "凛ルート八日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What is that? We would have kicked such a suspicious person out... I don't know why you're asking, but she is a legitimate guest.\n...My brother entertains the idea that she's some servant of evil, but I rather like her. I've only spoken with her once, but she is a fair person, though she seems a little foul.\"",
+      "sourceUnit": "凛ルート八日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, wow. It was worth asking this question, that's rare for you to praise a woman. What, did you fall in love?\"",
+      "sourceUnit": "凛ルート八日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"D-d-don't be ridiculous, fool! What I admire was that she doesn't look at herself. First of all, I can't fall in love with the lover of Souichirou, the one I look up to like a brother...\"",
+      "sourceUnit": "凛ルート八日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Issei suddenly stops talking and lowers his face.\n\"Ah...\"\nHe might've felt dizzy, as he falls face down on the table and doesn't move.",
+      "sourceUnit": "凛ルート八日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? What happened, Issei? Is it anemia?\"\n\"...No, it's not that I feel bad.\"",
+      "sourceUnit": "凛ルート八日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "He lifts himself suddenly.\nI laugh, picturing him like a wind-up doll, suddenly full of energy.",
+      "sourceUnit": "凛ルート八日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Issei?\"\nI don't even look at my slashed stomach. My eyes go to the knife in Issei's hand.",
+      "sourceUnit": "凛ルート八日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You fell for my trap. The command that I have implanted in this human is activated only when he comes across someone that inquires about me.\"",
+      "sourceUnit": "凛ルート八日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "A voice that doesn't belong to Issei, comes out of his mouth.\nWhen I realize it's the voice of the Servant I met at Ryudou Temple...\n\"I do not need this doll anymore, either.\"\n...It's like I'm looking in a mirror.",
+      "sourceUnit": "凛ルート八日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n...My consciousness fades from the blood loss.\nThe wound. The pain from the wound reaching my organs isn't causing my consciousness to fade.",
+      "sourceUnit": "凛ルート八日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Instead of death from blood loss, eager to deny the sight before me, my mind rapidly freezes my consciousness.\nIssei falls down before me, without knowing what's going on.",
+      "sourceUnit": "凛ルート八日目-01:page12:1"
+    },
+    "page13": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート八日目-01:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

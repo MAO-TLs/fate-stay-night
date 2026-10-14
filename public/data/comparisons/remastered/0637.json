@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0637",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Complete silence.\nThey were not the only ones here to appreciate the loss of life and ruin of prosperity.\nNo, that expression was not quite accurate.\nThe boy and girl still showed an admirable will to fight,\nand they clearly did not appreciate what they found.\nOnly one who was no longer human would delight in this tragedy.",
+      "sourceUnit": "桜ルート十二日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"My, my. They just don't know when to quit.\nI thought it was fine to let them be, but perhaps it's time to nip this in the bud.\"",
+      "sourceUnit": "桜ルート十二日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The old man cackles.\nHe blends into the shadows as he roams the uninhabited town, white skull in tow.\nHe is looking at the boy and girl.\nThe old man pleasantly watches his enemies.\nHe has no hostile intent.\nHow could he hate something that is hardly even a foe to him anymore?\nTo the old man, they are no different from pebbles by the wayside.",
+      "sourceUnit": "桜ルート十二日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut the white skull thinks differently.\nTo him, a threat is a threat, no matter how small.\nAny obstacles should be removed on the spot, even if they are beyond his own powers to defeat.\nThe man who was summoned as Assassin acts strictly according to that unwritten law.",
+      "sourceUnit": "桜ルート十二日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Should we not kill them where they stand?\"\nHe inquires of his lord.\nThe boy and girl are highly vulnerable as they walk through the ghost town.\nHow can they be so defenseless in this land of death?\nThe skull can only see them as sick individuals with a wish for death.\nThus, one might even consider it a mercy to end them here.",
+      "sourceUnit": "桜ルート十二日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n\"No, that would be a bit of a waste. I've let them live this long, so it would be so dull to end them now.\"\nThe old man has no mercy.\nHe is rotten to the core, having lived over five hundred years and lost his humanity in all but shape.",
+      "sourceUnit": "桜ルート十二日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. What do you think of this plot, Assassin?\nThere is a living sacrifice here. A pitiable hunk of meat shunned, hated, and cursed by the world of men. This meat nobly tries to save the world. As long as even one person is on its side, it endeavors to save the world its allies live in.\"",
+      "sourceUnit": "桜ルート十二日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Goodness, passion is so precious and powerful. The world will never exhaust its hate for the meat, no matter what it does. It desperately tries to hold its mud in, believing that hating them back would mean rejecting its ally.\nTherefore, nothing the meat does will matter.\"",
+      "sourceUnit": "桜ルート十二日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"But...what would happen if it was rejected by its only ally?\nIt has always been scorned by the entire world. If its one and only hope were to betray it, it would have no morality to keep it in check.\"",
+      "sourceUnit": "桜ルート十二日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, Lord Mage, do you intend to have that boy give the final push?\"\n\"Indeed I do. He is the right character to close out this play. He has grown more than expected, but managed to survive this long. It is only right that I allow him the pleasure of killing it.\"",
+      "sourceUnit": "桜ルート十二日目-12:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

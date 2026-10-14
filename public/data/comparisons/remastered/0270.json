@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0270",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Then, if I pull out this nail stabbing my right arm...!",
+      "sourceUnit": "凛ルート五日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I throw away my weapon and reach towards the dagger in my right arm.\n\"...You are brave. Though you always pick the path of pain.\"\nBut to her, everything I do must be as slow as molasses.\nThe Servant in black thrusts her nail towards me to pierce my left hand as well...!",
+      "sourceUnit": "凛ルート五日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...!\"\nI desperately swing my body to avoid it, but it's no use.\nThe Servant mercilessly thrusts the nail towards me right before my eyes.\nShe is shot from the side by numerous light bullets.",
+      "sourceUnit": "凛ルート五日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Augh...!\"\nI fall to the ground.\nThe bullet cuts the chain, and I am unceremoniously dropped on my ass.",
+      "sourceUnit": "凛ルート五日目-12:page3:1"
+    },
+    "page4": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート五日目-12:page4:1"
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

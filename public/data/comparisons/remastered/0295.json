@@ -1,0 +1,481 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0295",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "She's gone.\nOnly Archer and I remain on the temple grounds.",
+      "sourceUnit": "凛ルート六日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSeeing him gets on my nerves.\nHe's saved me twice today.\nCaster would've taken my Command Spells if it weren't for him, and I'm sure I would've died from that deluge of light.",
+      "sourceUnit": "凛ルート六日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "But this is different.\nI can't forgive him for letting Caster go...",
+      "sourceUnit": "凛ルート六日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer. Why did you let Caster go?\"\n\"Because it was not the time to fight. Even if I did attack her, she would have just fled. Don't tell me you didn't see how she can teleport earlier.\"",
+      "sourceUnit": "凛ルート六日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That's...true...\nWe wouldn't be able to capture Caster if she really wanted to get away.\nOn top of that, this temple is Caster's territory.\nShe's a witch.\nEven if she was weakened, I'm sure she had at least one or two tricks up her sleeve.",
+      "sourceUnit": "凛ルート六日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Finally get it, huh? If we want to defeat Caster, we need to defeat her Master first. Even if she can teleport away, Caster will eventually disappear if we defeat the Master she is bound to.\"",
+      "sourceUnit": "凛ルート六日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...Going for the Master and not the Servant.\nThat is the safest and most sure approach in the Holy Grail War.",
+      "sourceUnit": "凛ルート六日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I know that. But still, you're going to let her get away?\nThe incidents happening in town are all her doing, right? There will be more victims unless we stop her. I can't let that be.\"",
+      "sourceUnit": "凛ルート六日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Why not? It is not something that harms you. Actually, I would like for her to continue.\nCaster will keep sucking up vitality from people and use that power to defeat Berserker. We can defeat Caster after that.\nRin and I can defeat Caster, but not Berserker. Until we defeat Berserker, we can let Caster be.\"",
+      "sourceUnit": "凛ルート六日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy face heats up.\nBlood rushes to my head, and I want to punch him.",
+      "sourceUnit": "凛ルート六日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't be ridiculous. Tohsaka won't do such a thing.\"",
+      "sourceUnit": "凛ルート六日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. That's why I want Caster to do so as fast as possible. We can't avoid fighting if Rin finds Caster. It would be ideal if Caster can defeat Berserker before that happens.\"",
+      "sourceUnit": "凛ルート六日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What? I don't know how many people will be sacrificed, but it should be a cheap price to pay if we can defeat Berserker.\"\nHumans live and humans die. Regardless of what kills them, the result is the same.\"",
+      "sourceUnit": "凛ルート六日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...!\"\n\"Though Caster is also resting on her laurels. She should just take their lives, not just their magical energy. If all the humans around die out, it will be a bit easier to fight. My Master is also naïve at her core. If that happens, I'm sure she'll do anything to win.\"",
+      "sourceUnit": "凛ルート六日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "The red knight smiles dryly.\nHe sounds amused.\nHe feels the people living here are in the way.\nHe's saying the same things as Caster...!",
+      "sourceUnit": "凛ルート六日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"You...\"\n\"Oh, as you know, Rin is the type to stick to formalities. She's impeccable as a mage, but isn't dirty enough as a Master.\nYeah, I wouldn't have such a hard time with her if she were more like Caster—\"",
+      "sourceUnit": "凛ルート六日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"You bastard!\"\nI punch Archer's face.\nWell, I punch in that general direction, but he easily avoids it.",
+      "sourceUnit": "凛ルート六日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? I thought we were cooperating.\"\n\"Screw you!\nI'm nothing like you. I don't sacrifice those around me in order to win... I would never do such a thing...!\"",
+      "sourceUnit": "凛ルート六日目-12:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I feel the same way, Shirou Emiya. But you cannot save everyone.\nFor example, Caster would not just stop at this town if she obtains the Holy Grail. That is the same for Illyasviel and the other Masters.\nAs far as I know, you and Rin are the only Masters that would not use the Holy Grail for your own self-interest. There will be more victims unless we win.\"",
+      "sourceUnit": "凛ルート六日目-12:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"In that case... The only choice is to sacrifice the people here and make use of them.\"\nWe can contain the damage done this way. Like you would want it.\"",
+      "sourceUnit": "凛ルート六日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel numb.\nHe doesn't need to explain it.",
+      "sourceUnit": "凛ルート六日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "I can't save everyone.\nKiritsugu always said that.\nSo I should be over it, but...it's just the way that he says it that just pisses me off...!",
+      "sourceUnit": "凛ルート六日目-12:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"You said you don't want to involve any innocent people, right?\nThen accept it. Refusing to kill someone doesn't lead to anyone being saved.\nJust as Caster says, we are unfortunately alike. We would have to cooperate if we do not want any more victims.\"",
+      "sourceUnit": "凛ルート六日目-12:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"No...! I won't cooperate with you. I can't ever accept you...!\"\n\"...I see. You only trust Rin, after all.\"",
+      "sourceUnit": "凛ルート六日目-12:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I turn my back to Archer.\nI'm different than him.\nI can't let Caster be. So there's only one course of action.",
+      "sourceUnit": "凛ルート六日目-12:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't tell me you're going to go after Caster.\"\n\"...\"\nI ignore him and start walking.\nMy destination is inside the temple.\nIf this is Caster's territory, then her workshop is inside the temple.",
+      "sourceUnit": "凛ルート六日目-12:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't believe you. You cannot match Caster by yourself. If you want to keep living, turn back.\"\n\"...\"\nArcher follows, complaining the entire way.",
+      "sourceUnit": "凛ルート六日目-12:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it all, you're going to waste the life that I saved?\nHave it your way then, but at least thank me before throwing it all away.\nI helped you out of the kindness of my heart. I won't ask you to call me your savior, but you could be thankful towards the fellow you escaped from the brink of death with.\"",
+      "sourceUnit": "凛ルート六日目-12:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nMan, he really gets on my nerves...!\n\"...Shut up! Quit acting like we're pals all of a sudden! Hurry up and go back to Tohsaka's place! I don't need your help!\"",
+      "sourceUnit": "凛ルート六日目-12:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I turn away and head towards the temple without looking back for good this time.\nThere...\n\"...Well then. Good thing you don't like me.\"\nI feel a chilling premonition of death.",
+      "sourceUnit": "凛ルート六日目-12:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\nBefore I can fully manage to leap out of the way...\nArcher brings a sword down on me.",
+      "sourceUnit": "凛ルート六日目-12:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Guh...!?\"\nHe cuts me at the shoulder.\nMy blood comes pouring out, and I feel like I'll pass out the moment my focus wavers.\nThe pain so sharp that I feel like my skin and muscles are burning.",
+      "sourceUnit": "凛ルート六日目-12:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Ah...\"\nI back away with wobbly steps.\nI can't even flee.\nAll my remaining strength is sapped and it's all I can do to remain on my feet.",
+      "sourceUnit": "凛ルート六日目-12:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you...\"\n\"Oh, I missed. Must be that I couldn't clamp down on my desire for a kill, or maybe you really do have good reaction time... Well, whatever.\"\nArcher walks towards me with his sword covered in my blood.",
+      "sourceUnit": "凛ルート六日目-12:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Guh...!\"\nI'll be killed.\nMy instinct is that I'm going to die, and my feet struggle to move.\nThe temple's exit.\nI stagger towards the stairs beyond the mountain gate and retreat back.",
+      "sourceUnit": "凛ルート六日目-12:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...He must know that this is a fatal wound.\nHis steps are unhurried.",
+      "sourceUnit": "凛ルート六日目-12:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Ah, ah...!\"\nEverything is going fuzzy.\nI don't know what I'm doing.\nI can't even recall why I'm fleeing or why I was cut to begin with. It feels like my thoughts and memory are following the blood dripping from my body.",
+      "sourceUnit": "凛ルート六日目-12:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...Maybe I'm still conscious because of that sword he's holding.\nThe white short sword.\nThat plain blade holds my attention and keeps me from closing my eyes.",
+      "sourceUnit": "凛ルート六日目-12:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh...!\"\nBut it comes to an end.\nThe mountain gate is right behind me.\nThe stairs are right there, but I can't even turn around.\nThe moment I do, I'm sure Archer will split me in two.",
+      "sourceUnit": "凛ルート六日目-12:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"This is it. If you have no reason to fight, die here.\"\nHe raises his blade.\nThe white yin sword is raised like a guillotine.",
+      "sourceUnit": "凛ルート六日目-12:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Reason...to fight...?\"\n\"That's right. It's hypocrisy for you to fight for someone else and not yourself. You only wish for peace, not victory.\nSuch a thing doesn't even exist in this world.\"",
+      "sourceUnit": "凛ルート六日目-12:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't...\"\nEven as my consciousness fades, I feel defiant.\nBut both my body and mind are at their limit.",
+      "sourceUnit": "凛ルート六日目-12:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Farewell. Drown in your ideals and die.\"",
+      "sourceUnit": "凛ルート六日目-12:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "His voice is filled with hatred.\nHe swings the yin sword Bakuya.\nOnce more the blade slashes at me, this time to sever my very life.\nBut right before that...\nWith only the thought of defying his words, I jump backwards without thinking of the consequences.",
+      "sourceUnit": "凛ルート六日目-12:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!?\"\nHis sword cuts the air, and my body flies through the air.\nThe bottomless darkness is behind me.\nWith a horrible sound, my body crashes into the stonework.\nThen it rolls down the mountain stairs.",
+      "sourceUnit": "凛ルート六日目-12:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm, what is that?\"\nI hear an unfamiliar voice near me.",
+      "sourceUnit": "凛ルート六日目-12:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...!?\"\nI also hear a familiar voice.",
+      "sourceUnit": "凛ルート六日目-12:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...S-Saber...?\"\nMy vision is almost gone.\nI attempt to lift my body, but can only collapse in a heap back to earth.",
+      "sourceUnit": "凛ルート六日目-12:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, please get a hold of yourself...! You're wounded and were pushed down the stairs...!?\"\n...Is that Saber?\nSaber supports my body and speaks with urgency.",
+      "sourceUnit": "凛ルート六日目-12:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Guh...\"\nBut that's bad.\nI don't know their identity, but there's one other unknown Servant nearby.\nIf she's tending to me, it leaves her wide open for an attack...",
+      "sourceUnit": "凛ルート六日目-12:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I-it's...fine, Sa...ber...\"\n\"Be quiet...! There is still time. With your healing powers, if we return home right aw—\"\n...She must have realized mid-sentence.\nShe looks back at the Servant behind her.",
+      "sourceUnit": "凛ルート六日目-12:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...Assassin. Why did you not attack me?\"\n\"That would be tactless. One does not pluck a flower amidst a transient bloom.\"",
+      "sourceUnit": "凛ルート六日目-12:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nSaber tilts her head, unable to grasp the enemy's true intentions.",
+      "sourceUnit": "凛ルート六日目-12:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"What? I was merely charmed by your countenance. Your expression while in battle was splendid, but your concern now is beautiful. I could not help but admire.\"\n...Is that a kimono?\nThe Servant dressed anachronistically turns his back towards us.",
+      "sourceUnit": "凛ルート六日目-12:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"This is enough for tonight. You should leave, Saber.\"\n\"Wha—Are you letting us go, Assassin?\"\n\"Yes. If you promise to continue this battle another time, I will let you go.\nI won't be satisfied fighting you in your current situation. It would be a shame.\"",
+      "sourceUnit": "凛ルート六日目-12:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...Saber glares at Assassin,\nand Assassin stares calmly at Saber.\nTheir staredown lasts for a few seconds.",
+      "sourceUnit": "凛ルート六日目-12:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand, Assassin. I shall settle this match someday.\"\n\"A fine response. I am looking forward to it, King of Knights.\"\nSaber takes me in her arms and heads down the stairs.\nHowever...\nI see the knight in red following us from the mountain gate, determined not to let me go.",
+      "sourceUnit": "凛ルート六日目-12:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...?\"\nSaber says in wonder.\nHe said...\nThat he kills when he can ensure it.",
+      "sourceUnit": "凛ルート六日目-12:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "If he's a man of his word, he can't let me leave here alive.\nIf he swung his sword trying to kill me...\nI'm sure he will do whatever he can to kill me now.",
+      "sourceUnit": "凛ルート六日目-12:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "The red cloak flutters like a feather.\nIt doesn't matter whether Saber is here or not.\nArcher jumps down and slashes his sword at me...!",
+      "sourceUnit": "凛ルート六日目-12:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Swords clash.\nA counterattack like a flash of light.\nThe intercepting blade parries Archer's sword, then makes for his neck as he hangs in midair...!\n\"Hnng! Assassin, you...!\"\nArcher twists his body and lands.\nThe knight in red is blocked by the Servant in a kimono and cannot pass down the stairs.",
+      "sourceUnit": "凛ルート六日目-12:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you intend to get in my way, samurai?\"\nArcher readies his twin swords and faces the Assassin-class Servant.\nWith that in front of him, Assassin adjusts his hold on his sword, as if nothing happened.",
+      "sourceUnit": "凛ルート六日目-12:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"That's my line. Are you trying to get in my way when I have told them I will let them go?\"\nHis voice is oddly pleasant.\nI don't know what his goal is, but he really intends to let us leave.",
+      "sourceUnit": "凛ルート六日目-12:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Additionally, my role is to guard this gate. Whether you pass through alive is at my discretion.\nI let you make your way in, but it is a different story to leave. Your head somewhat lacks elegance, but I shall accept it for tonight.\"\n...He intends to go for the kill.\nAssassin's fighting spirit is as sharp as his longsword.\nThere is no dominating presence like Archer or Saber where their everything feels involved.\nHis is a sharpened, razor edge that precisely aims for the neck...\n\"...Well spoken. But a mere tool of Caster that couldn't even scratch Saber is going to match me?\"",
+      "sourceUnit": "凛ルート六日目-12:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"I have my complaints as well. I thought you would give that wily old fox an unpleasant surprise, yet you flee with your tail between your legs.\"\nTheir confrontation is short.\nBoth parties demonstrate fantastical swordplay.",
+      "sourceUnit": "凛ルート六日目-12:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm captivated by what I see.\nTo be honest, I can't even make out Assassin's sword technique.\nI'm not unused to swordplay, but I can't make heads or tails out of it. It's too swift and deadly.",
+      "sourceUnit": "凛ルート六日目-12:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "The contrast is what makes me so fascinated.\nDancing twin blades.\nArcher manages to defend himself against such inhuman ability, but his techniques look like something even I could do someday.",
+      "sourceUnit": "凛ルート六日目-12:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I don't like it, but you could say I'm impressed.\nHe's fighting against Assassin's magical sword with techniques acquired by experience and sheer force of will rather than talent.",
+      "sourceUnit": "凛ルート六日目-12:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "...Damn it, it's obvious that he's strong.\nIt's a different strength than Tohsaka or Saber.\nAll the training he went through because he's not extraordinary...\nI bet...he didn't have anything.\nSo with his limited resources, he trained his heart out and got to that level...",
+      "sourceUnit": "凛ルート六日目-12:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou, let us go now. Either way, you must rest your body as soon as possible.\"\nSaber's voice brings me back to reality.\nWe leave Ryudou Temple with Saber carrying me.\nAssassin and Archer's swordplay echoes behind us without pause.",
+      "sourceUnit": "凛ルート六日目-12:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "My wound is almost healed by the time we get back.\n\"Saber's healing powers might be flowing into you since you're connected with her.\"\nTohsaka's opinion might be correct, as my wound heals quickly when Saber's touching me.",
+      "sourceUnit": "凛ルート六日目-12:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what happened, Shirou?\"\nSaber demands an explanation once we get to the dojo after treating my wound and getting changed, all without waking Fuji-nee up.",
+      "sourceUnit": "凛ルート六日目-12:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nI do my best to summarize all the important points.\nHow I was controlled by Caster and went to the temple.\nThe coma incidents happening in town and Caster's relation to them.\n...Archer who saved me when my Command Spells were about to be taken.\nAnd how Archer tried to kill me in the end.",
+      "sourceUnit": "凛ルート六日目-12:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Saber seems to ponder something.\nI would get why she would want to organize her thoughts since all this happened in one night.\n\"...I see. So, Archer let Caster go?\"",
+      "sourceUnit": "凛ルート六日目-12:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, he did... He's the worst. He's no different from Caster if he's using her to win...!\"\nIt pisses me off when I think back to it.\nDamn it, I wish I'd gotten a hit in on him...!",
+      "sourceUnit": "凛ルート六日目-12:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...Then...\nSaber has a weird expression on her face.",
+      "sourceUnit": "凛ルート六日目-12:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber. What's so funny?\"\n\"Well, I was just thinking that it's rare for you to speak ill of someone. Though it has been only a short while, I thought that you were not one to talk behind other people's backs.\"",
+      "sourceUnit": "凛ルート六日目-12:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh...\"\n...Now that she mentions it, I have been complaining a lot.",
+      "sourceUnit": "凛ルート六日目-12:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"...But I can't help it. Archer really gets to me. And worst of all, he made fun of Tohsaka, his own partner.\"",
+      "sourceUnit": "凛ルート六日目-12:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes... But Shirou. Let me ask you one thing.Are you angry at Archer's betrayal?\"\nIt does not seem that you are angry that he attacked you.\"",
+      "sourceUnit": "凛ルート六日目-12:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nOh, she's right.\nArcher's actions would constitute betrayal.\n...No, but that is...",
+      "sourceUnit": "凛ルート六日目-12:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. It's not like he betrayed me.\nI haven't made any promises with him from the start. That's why even though Archer attacked me, I think that's fair.\"\n\"That is true, but... My, you certainly are a handful.\"",
+      "sourceUnit": "凛ルート六日目-12:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "But her tone has a certain fondness to it.",
+      "sourceUnit": "凛ルート六日目-12:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"In conclusion, I feel the same as you. I cannot let Caster be, but Archer is not cruel.\"\n\"Huh...? Hold on, what part were you listening to, Saber?\"",
+      "sourceUnit": "凛ルート六日目-12:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Everything. Based on all that I have heard, I am saying I have the same opinion as you.\nAnd his sword technique is like a clear stream. He must have nothing evil in his heart. I believe that his dance-like swordplay indicates his character.\"",
+      "sourceUnit": "凛ルート六日目-12:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI don't like it even more now.\nSomething is wrong with Saber to compliment him.\nFirst of all, Archer's technique is...",
+      "sourceUnit": "凛ルート六日目-12:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nNo, I was just being delusional!\nHe's like yogurt that's about to expire compared to Saber!",
+      "sourceUnit": "凛ルート六日目-12:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. What are you saying? His technique is nothing. He couldn't even kill me with a surprise attack. How can he call himself a Servant?\"\n\"Yes. That is because you have talent as well. You should be able to reach Archer's skill level if you train long enough.\"",
+      "sourceUnit": "凛ルート六日目-12:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...\"\nI can't object if she says so while making that face.\n...Anyhow, Saber approves of Archer's technique.\nI don't know why, but I can't stand that fact.",
+      "sourceUnit": "凛ルート六日目-12:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber. You said I have talent, right?\"\n\"Yes. If you continue to work at it, your skill will improve greatly.\"",
+      "sourceUnit": "凛ルート六日目-12:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"...I've decided. Then, can you teach me things once my wound heals?\nNot just how to survive, but I want to learn how to fight.\"\nI shake Saber's hand and look her directly in the eyes.",
+      "sourceUnit": "凛ルート六日目-12:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Ah, certainly. I don't mind if you so desire.\"",
+      "sourceUnit": "凛ルート六日目-12:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "All right, I have no complaints if I can study under Saber.\nI can't repeat the same failure as tonight, and it's not like me to keep on running away.",
+      "sourceUnit": "凛ルート六日目-12:page92:1"
+    },
+    "page93": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート六日目-12:page93:1"
+    },
+    "page94": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

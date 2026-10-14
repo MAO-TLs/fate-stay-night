@@ -1,0 +1,157 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0039",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm not going to run away.\nTo be honest, all this Holy Grail War and Master stuff doesn't feel real to me.\nBut if my only choices are to fight or run, I'll never run away.\nEven the priest told me...\n...that I should be prepared if I'm a mage.",
+      "sourceUnit": "セイバールート三日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "That's why I need to decide.\nShirou Emiya is a mage, even if not yet a full-fledged one.\nI've always admired Kiritsugu Emiya, and I decided to follow in his footsteps to be a champion of justice, so I need to...",
+      "sourceUnit": "セイバールート三日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...I will fight as a Master.\nIf you're telling me that the cause of the fire ten years ago was the Holy Grail War, then I can't let something like that happen again.\"",
+      "sourceUnit": "セイバールート三日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The priest gives me a satisfied smile, as if he likes my answer.",
+      "sourceUnit": "セイバールート三日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nI take a deep breath.\nI'm done wavering.\nA man has said he's going to fight.\nThe only thing to do from now on is move forward, head held high, so I can live up to that.",
+      "sourceUnit": "セイバールート三日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I shall acknowledge you as Saber's Master.\nAnd as of this moment, the Holy Grail War has been accepted.\nFrom here on, until only one Master remains, magecraft battles are permitted. Each participant shall put their full efforts into the competition, in accordance with their own principles.\"",
+      "sourceUnit": "セイバールート三日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The priest's voice echoes heavily through the chapel.\nThe declaration is utterly meaningless.\nOnly Tohsaka and I are here to hear it anyway.\nHe just rang a metaphorical bell to kick things off as a formality, I guess.",
+      "sourceUnit": "セイバールート三日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Then that's that. But before I go home, care to answer a question, Kirei?\"\n\"I don't mind. This may be the final one. So I shall try to answer as much as I can.\"",
+      "sourceUnit": "セイバールート三日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Then no holds barred. Since you're the overseer, you probably have information on all the other Masters. I'm following the Association's rules, so you should be able to disclose that to me.\"",
+      "sourceUnit": "セイバールート三日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'm not sure what to do. I really do want to tell you, but I actually do not know the details.\nWhat I do know is that there aren't many legitimate mages this time around, as is the case with Shirou Emiya. I only know two Masters. Or rather, with the inclusion of Shirou Emiya, I know three.\"",
+      "sourceUnit": "セイバールート三日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? But you at least know the order the Servants were summoned in.\nYou are the overseer.\"\n\"Hm. Well, the first was Berserker. The second was Caster. There was not much difference after that. Archer was summoned a few days back, while Saber was summoned a few hours ago.\"",
+      "sourceUnit": "セイバールート三日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then that means...\"\n\"It means the Holy Grail War has officially started.\nRin. Until the Holy Grail War concludes, you are not permitted to set foot in this church. The only time you will be allowed would be...\"",
+      "sourceUnit": "セイバールート三日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"If I lost my Servant and asked for sanctuary, right? Otherwise we'll get penalized if we seek for your help.\"",
+      "sourceUnit": "セイバールート三日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. You are likely to win, but the Church would not simply ignore any marks against you. They will not hesitate to take the Holy Grail from you for whatever asinine reason. That would be the worst possible outcome for me.\"\n\"You're such a freaking fraud of a priest. A man from the Church siding with the Mage's Association.\"",
+      "sourceUnit": "セイバールート三日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I simply serve God. I do not serve the Church.\"\n\"Listen to you. This is why you're a fraud.\"",
+      "sourceUnit": "セイバールート三日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka turns her back on the priest.\nWithout saying goodbye, she makes her way toward the exit.",
+      "sourceUnit": "セイバールート三日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, is that...okay to do, Tohsaka? Isn't he your senior? Shouldn't you...\"\nShouldn't she have...a little more to say than that?",
+      "sourceUnit": "セイバールート三日目-18:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. I'm actually relieved that I can sever ties with him once and for all. You should get out of here too. You don't have any more business here.\"\nTohsaka cuts through the chapel without stopping, and leaves the church.",
+      "sourceUnit": "セイバールート三日目-18:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I sigh, and follow Tohsaka.\nBut then.\n\"Gh—!?\"\nI sense something and turn around.\nI don't know when he caught up, but the priest is right behind me, looking down at me.",
+      "sourceUnit": "セイバールート三日目-18:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what? You got something else to say to me?\"\nI'm talking big, but I take a step back.\n...This priest scares the hell out of me.\nI don't know what it is. Maybe he just rubs me the wrong way. Whatever it is, I can't make myself like him.",
+      "sourceUnit": "セイバールート三日目-18:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going home if you've got nothing!\"\nI head to the exit, trying to escape his stare.",
+      "sourceUnit": "セイバールート三日目-18:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "But at that moment...\n\"Rejoice, my boy. Your wish will finally come true.\"\nThe priest speaks like he's some kind of divine oracle.",
+      "sourceUnit": "セイバールート三日目-18:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Those words...\nAren't they a reflection of my true feelings—Shirou Emiya's true intentions—that I wasn't even aware of?",
+      "sourceUnit": "セイバールート三日目-18:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"What're you saying?\"\n\"I am sure you know already. Without an evil to fight, your wish will never be granted. Even if you don't want to admit it, a hero of justice requires a villain to defeat.\"",
+      "sourceUnit": "セイバールート三日目-18:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nEverything around me seems to go dark.\nThe priest says...\nShirou Emiya's greatest wish and his ugliest wish are two sides of the same coin.",
+      "sourceUnit": "セイバールート三日目-18:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "That's right. My wish to protect something...\n...means that I'm also wishing for something to protect people from.",
+      "sourceUnit": "セイバールート三日目-18:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...you...\"\nBut I would never wish for something like that.\nI don't even remember ever desiring that.\nA wish so unstable...\n...just means that what I'm aspiring to is contradictory.\nYet the priest brings it up.\nAs if to say, \"Good thing you have an enemy now.\"",
+      "sourceUnit": "セイバールート三日目-18:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You needn't sugarcoat it. Your conflict is only natural for a human being.\"\n\"...\"\nI try to shake off the priest's words and head outside.",
+      "sourceUnit": "セイバールート三日目-18:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Farewell, Shirou Emiya.\nThis will be my final warning: be careful on your way home.\nThe world as you know it is about to change.\nYou will kill or be killed, for you are a Master now.\"",
+      "sourceUnit": "セイバールート三日目-18:page28:1",
+      "recoveredDelimitedTail": true
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

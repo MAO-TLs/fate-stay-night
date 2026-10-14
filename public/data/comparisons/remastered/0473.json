@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0473",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...There's no helping it now.\nI'll tell her the facts without giving away too much.",
+      "sourceUnit": "桜ルート六日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, who was in your dream?\"\n\"Well, uh, the only one there was Tohsaka—\"\nShe immediately lures me into spilling the beans.",
+      "sourceUnit": "桜ルート六日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Tohsaka-senpai did come over before, didn't she?\"\n\"Uh...yeah. She just gave me some first aid and left right after.\"",
+      "sourceUnit": "桜ルート六日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. I'll leave the thermometer here, then.\"\nSakura sets the thermometer down on the floor and walks to the bedroom door with heavy steps.",
+      "sourceUnit": "桜ルート六日目-03:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

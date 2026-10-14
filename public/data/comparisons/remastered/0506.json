@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0506",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "My body melts.\nMy MIND dissolves.\nMy soul comes apart.",
+      "sourceUnit": "桜ルート七日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah......\"\nDark fingers encircle me.\nTendrils seize me with bottomless greed, leaving no opening to escape.\n\"ah...\"\nMy body sinks into the black mud.\nI sink endlessly. The ocean surface grows distant.\nThe grip gently tightens, capturing me in a total embrace.",
+      "sourceUnit": "桜ルート七日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy limbs are gone.\nI become part of the inky blackness, falling to my final resting place in the deep.",
+      "sourceUnit": "桜ルート七日目-12:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

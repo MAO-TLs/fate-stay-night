@@ -1,0 +1,246 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0245",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I've never seen anything like this before.\nThere's a sky of flames overhead.\nAt my feet, the steel of uncountable blades.\nThe remnants of war, perhaps.\nThis world is endless and lifeless; not a single living thing inhabits it.",
+      "sourceUnit": "凛ルート四日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "A wind carries ashes through a forest of blades.\nThe number of swords in this woodland of steel is uncanny.\nThere's not just ten or twenty.\nNot even a hundred or two.\nThough there has to be an end somewhere, if someone can't count them all, the total number may as well be unlimited.",
+      "sourceUnit": "凛ルート四日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The myriad weapons thrust upon the earth rust away from disuse.\nThe remains of a great many swords.",
+      "sourceUnit": "凛ルート四日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "He thinks that...\n...this place is like a graveyard.",
+      "sourceUnit": "凛ルート四日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "My vision returns.\nIt's definitely late in the morning based on how sunny it already is.\n\"...That dream...\"\nI hazily open my eyes and try to remember the dream I was having.\n...A hill of swords.\nI must be dreaming that sort of thing because of the battle Saber had in the graveyard and that fire that—",
+      "sourceUnit": "凛ルート四日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, are you awake? That's good. I'm glad that it's nothing serious.\"\n\"Huh...?\"\nI realize...\nRin Tohsaka is there, looking down at me with a real condescending expression as she speaks matter-of-factly.",
+      "sourceUnit": "凛ルート四日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Aaah!\"\nI fly out of bed.\nLike a startled cat, I scurry so my back is to the wall as far as I can get from Tohsaka.",
+      "sourceUnit": "凛ルート四日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"T-T-T-T-T-T-T-T-Tohsaka!? W-w-what!? Why are you in my room...!!!???\"",
+      "sourceUnit": "凛ルート四日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "My head spins.\nI was on a hill of swords—no, the burning cemetery with Saber, so why am I sleeping in my room and how is it already morning...!?",
+      "sourceUnit": "凛ルート四日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka, why are you here!? And what am I doing here...!?\"\nAs soon as I say that, my head starts spinning more.\nThis isn't just because I'm disoriented from everything else.\nWhat's really making my heart race is seeing Tohsaka's face so close up on top of everything else.",
+      "sourceUnit": "凛ルート四日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"If you're going to be shocked about something, just pick one. You don't quite have the intellect for both, Emiya.\"\nOblivious to how I feel, Tohsaka just carries on like normal.",
+      "sourceUnit": "凛ルート四日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nIt's enough of a slap to the face to bring me to my senses.\nThat's right.\nIt's natural to be surprised by Tohsaka's face as soon as I wake up.\nBut, that must mean...",
+      "sourceUnit": "凛ルート四日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...I get it. You carried me here after I fell unconscious.\"",
+      "sourceUnit": "凛ルート四日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. You're sharper than I thought. You look like a mess, but I guess upstairs is still working. Interesting, very interesting.\"",
+      "sourceUnit": "凛ルート四日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Argh.\nI wish she'd stop saying stuff that makes it hard to tell whether she's being critical or giving a compliment.",
+      "sourceUnit": "凛ルート四日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...So part of the day has passed since then?\nYou carried me home...I'm guessing that means nobody saw anything?\"",
+      "sourceUnit": "凛ルート四日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that's right. It helps that you understand.\"\nPerhaps that satisfied her.\nShe bids a quick farewell and makes to leave.",
+      "sourceUnit": "凛ルート四日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, wait. Where are you going?\"\n\"Still asleep over there? What do you mean, 'where am I going?' This is your house. I can't stay here forever.\"",
+      "sourceUnit": "凛ルート四日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She speaks firmly.\nHer eyes say...\n\"We're enemies.\"\nRather pointedly.",
+      "sourceUnit": "凛ルート四日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat is...true.\nLast night...\nWe declared that we would fight at the church.\nSo then, we can only fight each other.",
+      "sourceUnit": "凛ルート四日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right, sorry. Also, this is late, but thank you.\"\n\"...\"\nThen...\nTohsaka pauses and glares at me.",
+      "sourceUnit": "凛ルート四日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. Why are you thanking me?\"\n\"Well, you helped me out, right? I'm even more thankful if you insist on being enemies.\"",
+      "sourceUnit": "凛ルート四日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Sit right there, Emiya.\"",
+      "sourceUnit": "凛ルート四日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nI don't know why she's doing this, but I have a feeling I'd better listen, or else.",
+      "sourceUnit": "凛ルート四日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, hurry up.\"\nShe taps the floor.\n\"...\"\n...It seems like she has something serious to tell me.\nI obediently sit down, if that's the case.",
+      "sourceUnit": "凛ルート四日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Look. I have to say this since you don't seem to get it. You're going to die if you keep thinking like that.\"\n\"Mm? What do you mean?\"",
+      "sourceUnit": "凛ルート四日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm telling you not to thank your enemies, even offhandedly. If you're concerned about something like that, you're not going to make it even if you had extra lives.\nLook, you have to think of them as obstacles. Just because they look and talk like a human doesn't mean they're anything like you.\"",
+      "sourceUnit": "凛ルート四日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka explains it with a firm voice and strong look.\n...She is right.\nIf it's dangerous to feel sympathy for an enemy, it'd be a mistake to waste time worrying about this sort of thing.\nSince I've decided to fight, I need to focus on defeating them.\nYeah, I get why she's saying this.\nBut, that is...",
+      "sourceUnit": "凛ルート四日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you listening!? The Holy Grail War is where you kill each other to win the prize. In order to do that, you can't think of other Masters as fellow people. Even if it's your family, you need to come to terms with seeing them as a target to destroy. Really, this is the first rule as a Master.\"",
+      "sourceUnit": "凛ルート四日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, but then...\n\"I understand that. But if so, why didn't you kill me?\"\nWouldn't that be an issue?",
+      "sourceUnit": "凛ルート四日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... T-that's because...\"\nAnd just where did all that bluster go, now?\nShe clears her throat, even more troubled.",
+      "sourceUnit": "凛ルート四日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hmph. I just didn't feel like it. I owed you and it's not fair to attack you when you're sleeping. I just didn't like the idea, okay?\"",
+      "sourceUnit": "凛ルート四日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Didn't you just tell me to do whatever I can to win?\"\n\"That's right. So this is a mistake on my part. I suppose I'm not afraid since I'm so much stronger than you. Well, I guess it's extra weight on my mind.\"\nOh, I've heard her say that before.",
+      "sourceUnit": "凛ルート四日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"'Weight on your mind'? Does that mean you're fat?\"\n\"Hehehe. You say funny things, Emiya.\"",
+      "sourceUnit": "凛ルート四日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"But you should think real long and hard from here on out. If you aren't careful, you will end up dead.\"\n...\n...That was scary.\nI just crawled backwards instinctively.",
+      "sourceUnit": "凛ルート四日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well anyway, that's all I have to say. Ask your Servant about the rest.\"\nTohsaka stands up and heads out without stopping this time.",
+      "sourceUnit": "凛ルート四日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Goodbye. We'll be enemies next time we meet, so be prepared.\"",
+      "sourceUnit": "凛ルート四日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "With that, she's gone.\nIt must've really been on a whim when she carried me here and treated me.\nShe left without any regret or expressing any sentiment. Just a declaration that we're enemies.",
+      "sourceUnit": "凛ルート四日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well.\"\nI take a quick breath and try to organize my thoughts.\nI haven't even had time to think since witnessing that fight between Lancer and Archer back at the school.",
+      "sourceUnit": "凛ルート四日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. I see, then that must've been Tohsaka.\"\nThe pieces finally start falling into place.",
+      "sourceUnit": "凛ルート四日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "After that, I got stabbed in the heart by Lancer, somehow got saved and came home, then got attacked by Lancer again...",
+      "sourceUnit": "凛ルート四日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber saved me, and I became a Master.\"\nSo then I had things explained at the church.\nThe Holy Grail War, a battle to the death.\nA Holy Grail...a device said to grant any wish to the victor.",
+      "sourceUnit": "凛ルート四日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...None of that has sunk in yet, but I've been attacked by enemies three times already.\nI can't afford to stay clueless forever.\nMost importantly, I said that I would fight. Not that I had any real choice.",
+      "sourceUnit": "凛ルート四日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...A life-and-death game of musical chairs.\nNo matter what your expectations are, once you participate, you can't survive unless you defeat your enemies.\nThe problem is depending on how you go about it, you run the risk of harming other innocent people who aren't involved.",
+      "sourceUnit": "凛ルート四日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "So,\nRejoice, Shirou Emiya.\nMy reason to fight in the Holy Grail War is not to survive and win.\nYour wish will finally be granted.\nIt's to do everything I can to stop those who will try to win by any means necessary.",
+      "sourceUnit": "凛ルート四日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\n...There should be nothing wrong with that.\nTo champion justice, I've been practicing magecraft to save any innocent lives that may be wrongly victimized.",
+      "sourceUnit": "凛ルート四日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I need to talk to Saber first.\"\nI try to shake the priest's words as they cling to the back of my mind as I make my way towards the hall.",
+      "sourceUnit": "凛ルート四日目-00:page46:1"
+    },
+    "page47": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

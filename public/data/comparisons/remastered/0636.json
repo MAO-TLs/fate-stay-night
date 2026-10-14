@@ -1,0 +1,276 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0636",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is waiting at the door.\nIt's now 10:00 PM.\nTime to go out on night patrol, even if it might be a waste of time.",
+      "sourceUnit": "桜ルート十二日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...That was quick. How's Sakura?\"\n\"I got her into bed. She's clearly tired, no matter what she says. She fell asleep as soon as she lied down.\"",
+      "sourceUnit": "桜ルート十二日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. We'll leave the rest to Illya and Rider. I haven't seen her around, but Rider's somewhere in the house, guarding Sakura.\"",
+      "sourceUnit": "桜ルート十二日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAs Tohsaka says, Rider's constantly protecting Sakura.\nShe probably hasn't taken material form to avoid burdening Sakura.",
+      "sourceUnit": "桜ルート十二日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"She is unlikely to last even a few more days.\"",
+      "sourceUnit": "桜ルート十二日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...I recall the priest's words.\nAs long as the Holy Grail War continues, the Crest Worms inside Sakura will keep eating her magical energy.\nIn her state, it's dangerous to materialize her Servant, and even if she does, Rider won't be able to fight.\nRider must be standing guard in spirit form, with that in mind.",
+      "sourceUnit": "桜ルート十二日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"You look gloomy. Something you want to say?\"\n\"Huh?\"\nSomething I want to say...?\nThat's a dumb question. Of course there is.",
+      "sourceUnit": "桜ルート十二日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Can we take down Zouken tonight?\"\nWe can't afford to drag this out much longer.\nSakura grows weaker every day.\nIf the priest is to be believed, she could die tomorrow.",
+      "sourceUnit": "桜ルート十二日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No. We can't beat him right now.\n...I understand the urgency, but you'll need to be patient if you want to save Sakura. If we go down, then there's no one else to help her.\"\n\"...We can't fight yet. I get that. But then...\"",
+      "sourceUnit": "桜ルート十二日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"You think there's no point in going out on patrol? Shirou, do you think defeating Zouken is all we need to do? Of course not, right? I thought we were also trying to stop innocent people from dying in the Holy Grail War.\"",
+      "sourceUnit": "桜ルート十二日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\n...She's right.\nI know that. I do.\nThere's a purpose to these patrols. We'll have to flee if we run into the enemy, but we have to do whatever we can to prevent more people from falling victim like they did last night.\nBut...\nWhat exactly did I swear to protect again...?",
+      "sourceUnit": "桜ルート十二日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...? Hey Emiya, are you okay?\"\n\"...Just a little dizzy. Sorry about that, Tohsaka. It was thoughtless of me.\"",
+      "sourceUnit": "桜ルート十二日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay, you don't need to apologize. Sakura's in danger, but you're tired too.\nActually, I should have had you learn today's Projection over three days. I understand why you'd want to go fight him right away, since you succeeded on the first day.\"",
+      "sourceUnit": "桜ルート十二日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI learned how to use Projection today?",
+      "sourceUnit": "桜ルート十二日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? Did I say something strange?\"\n\"...No, um. Today's training was so hard, and it took everything I had just to hang in there. It still doesn't quite feel real.\"",
+      "sourceUnit": "桜ルート十二日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, you looked like you were in a trance. But it was worth it, and you managed to Project one dagger at the end.\nThough, your success rate is still under ten percent, so it still needs work.\"",
+      "sourceUnit": "桜ルート十二日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Well, that makes sense if it happened while I was in a trance.\nMy sense of time must have gone numb from concentrating so hard. It felt like evening came before I even knew it.",
+      "sourceUnit": "桜ルート十二日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "By the time I notice that something's wrong, we've already gone into town.",
+      "sourceUnit": "桜ルート十二日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka must have noticed it too, because she's quietly trying to sense something.\nThe view is familiar.\nThe town is dark and quiet after 10:00 PM.\nThere's nobody on the streets, and no sound at all.\nIt's a silent night that I've grown used to seeing since the Holy Grail War started.\nBut, it's...",
+      "sourceUnit": "桜ルート十二日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's quiet.\"\nTohsaka whispers next to me.\n...Yes.\nIt's quiet here.\nFor the last few days, the town has become as quiet as ruins,\nsinking into a still slumber once night falls.",
+      "sourceUnit": "桜ルート十二日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nThe silence tonight is beyond anything I've experienced so far.",
+      "sourceUnit": "桜ルート十二日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey. Yesterday, was it like that over there? All of the streetlights are dark, not to mention the houses.\"",
+      "sourceUnit": "桜ルート十二日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is squinting in the direction of Ryudou Temple.\nIt's a part of town on the opposite side of Shinto, just short of the edge of the city.\nThe streets there are completely dark. From here, it's like staring into a black wall.",
+      "sourceUnit": "桜ルート十二日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let's go.\"\nThat's all I say as I begin walking toward the darkened streets.\nTohsaka remains silent.\n...It's probably the obvious choice for her, too.\nWe both know what's happening there.\nIt's a contradiction.\nWe know exactly what we'll find if we go there, and yet we go anyway, hoping we're completely wrong.",
+      "sourceUnit": "桜ルート十二日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nWhat exactly did I feel when I laid eyes on it?\nThis dark wall, with nothing beyond it.\nThe instant I step through it and see the town I know, I understand what's occurred.",
+      "sourceUnit": "桜ルート十二日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "The town is too quiet.\n\"Sleeping\" isn't enough to describe it.\nThis is a complete void without any sign of human life.\nIt's the utter stillness of death, not slumber, when nothing is living anymore.",
+      "sourceUnit": "桜ルート十二日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "I feel dizzy.\nThe town hasn't changed.\nAround us...fifty or so houses are as black as night, looking exactly the same.",
+      "sourceUnit": "桜ルート十二日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "There's no signs of their doors being forced.\nNothing broke any windows to get in.\nOf course, no crane peeled off the walls and roofs to get at what's inside.\nIn the same way,\nthe presence of over a hundred residents is simply absent.",
+      "sourceUnit": "桜ルート十二日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Emiya. Let's try going into that house.\"\nTohsaka puts on some gloves and breaks into a nearby house.\nWe pass by the nameplate.\nWe open the front door.\nWe walk down the hall.\nWe explore the first floor, check the second floor, find absolutely nothing, and leave.",
+      "sourceUnit": "桜ルート十二日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...What about the people in the blacked-out houses?\"\nTohsaka tells me that they're gone.\nThe town looks as it always does at night.\nThe buildings are completely intact, and there aren't any dead bodies.\nIt's perfectly clean, and nobody will notice anything off once dawn breaks.\nAnd yet...\nIt looked even more barren than back then.",
+      "sourceUnit": "桜ルート十二日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "We checked a few more houses, but our findings were exactly the same.\nThere was no damage to any of the buildings, and no people inside.\nAll they left behind were some traces of magical energy that made my chest ache.\nOn every single building, road, and patch of ground,\nwe found dark traces of something stuck to them, that keeps its shape and color even now.\nWe knew even without saying anything that it was the cause of this pristine tragedy.",
+      "sourceUnit": "桜ルート十二日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel dizzy.\nI'm irritatingly nauseous.\nCorpses without bodies.\nBleeding without blood.\nAn uninhabited neighborhood, devoured by shadow.\nWhile I walk through it all, on edge,\na completely unrelated image comes to mind, for some reason.",
+      "sourceUnit": "桜ルート十二日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...But it isn't unrelated.\nIt can't be, if I'm thinking of it here.\n\"...Stop.\"\nRemember. Remember.\nYou know this presence, this scent.",
+      "sourceUnit": "桜ルート十二日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "You did before, too.\nWhat did you imagine the first time you laid eyes on that abomination?\n\"...Don't notice it.\"\nIt's the same.\nNo, something even heavier attacked everyone here.",
+      "sourceUnit": "桜ルート十二日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's not true.\"\nIt was the same.\nWhy did you imagine what you saw\nback then?",
+      "sourceUnit": "桜ルート十二日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Because...\"",
+      "sourceUnit": "桜ルート十二日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "I have no proof.\nI have no reason.\nI have no motive.\nI have no evidence.",
+      "sourceUnit": "桜ルート十二日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...It doesn't look like anyone.\"",
+      "sourceUnit": "桜ルート十二日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "It shouldn't be true.\nIt can't be true.\nI must not acknowledge it.\nBut the more I think...",
+      "sourceUnit": "桜ルート十二日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"If I become a bad person...\"",
+      "sourceUnit": "桜ルート十二日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I don't have any proof at all, but my mind tells me this hunch is true.\nI know it is, because that sensation was...",
+      "sourceUnit": "桜ルート十二日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Stop. Don't think these stupid thoughts.\"",
+      "sourceUnit": "桜ルート十二日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Too similar to my nightmares of       .",
+      "sourceUnit": "桜ルート十二日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Why'd you stop? Is there anything else you wanted to check out?\"\n\"...\"\nI shake my head and get rid of the dizziness.\n...I must have gotten a whiff of the scent the Shadow left behind.",
+      "sourceUnit": "桜ルート十二日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I just got nauseous. Don't mind me and keep talking, Tohsaka.\"\n\"Really? ...Darn it, its residue still affects you, even after I increased your Magic Resistance.\n...I guess that's to be expected, given that it's a massive blob of magical energy. It wouldn't be able to eat an entire town if it wasn't.\"",
+      "sourceUnit": "桜ルート十二日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... No, that's not why I'm feeling tired. I was just feeling literally disgusted.\"\nTohsaka seems to accept that.\nMore importantly, we need to confirm what happened here.",
+      "sourceUnit": "桜ルート十二日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...So, what happened over there, anyway.\"\n\"...Pretty much the same meal as before. It's just on a different scale now.\nBefore, I wouldn't have expected to find its muddy dregs on each and every house. It must have covered the entire area like a tsunami and melted into the ground. It must have been so hungry it wanted to eat them all in one bite.\"",
+      "sourceUnit": "桜ルート十二日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"It doesn't seem to have a taste for inorganic things, though. It ignored everything that wasn't alive, and digested every living thing without leaving a trace.\n...The only mercy was that it happened instantly. They wouldn't have had time to feel any pain or fear.\"",
+      "sourceUnit": "桜ルート十二日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "A Bounded Field of dissolution.\nTohsaka explains that the Bounded Field Rider deployed at the school was like magecraft with an instantaneous and powerful effect.",
+      "sourceUnit": "桜ルート十二日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"The problem is that I didn't sense any magical energy even though such a large spell was activated.\n...If the Shadow did this, then this isn't its 'magecraft', but its innate behavior. Meaning that a dissolution of this size is no different than tossing and turning in bed for that thing.\"",
+      "sourceUnit": "桜ルート十二日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nBut it's over now.\nThe Shadow disappeared somewhere once it satisfied its hunger, and we have no reason to pursue it now.",
+      "sourceUnit": "桜ルート十二日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...\nOur patrols have lost their purpose.\nThere were new victims despite our efforts, and we can't even detect the Shadow who's the key culprit.\nWhether it was the Shadow or Zouken, I thought we might be able to get a read on their movements and run to the scene to intervene.\nBut that's lost its meaning now.",
+      "sourceUnit": "桜ルート十二日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "We don't have any way to track the Shadow, and more than that...\n\"...I knew this already, but it's growing every day. At this pace, it'll be an unstoppable monster the next time it shows up.\"\nRight now, we don't have any chance of winning.",
+      "sourceUnit": "桜ルート十二日目-11:page52:1"
+    },
+    "page53": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

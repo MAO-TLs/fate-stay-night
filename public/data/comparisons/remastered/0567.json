@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0567",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I open the door.\nTohsaka's standing in a corner of the chapel. It looks like she's been here for a while.\nFrom the way she stands, I can feel a certain determination.\nIt's the face of a ruthless mage who has decided to treat Sakura as an enemy if the Crest Worms can't be removed.",
+      "sourceUnit": "桜ルート九日目-24:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka doesn't look at me, and I have nothing to say to her.\nFor a long time, the chapel is filled only with the drumming of the rain.\nI'm not sure how long it goes on for.",
+      "sourceUnit": "桜ルート九日目-24:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"The surgery is finished. There is nothing more I can do.\"\nKirei Kotomine appears, breaking the silence.",
+      "sourceUnit": "桜ルート九日目-24:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, Kirei. What happened to your Magic Crest?\"\n\"Hm, so you could tell. As you can see, I used them all to heal Sakura Matou.\"\n\"Y-you used them all?\"\nTohsaka gasps.",
+      "sourceUnit": "桜ルート九日目-24:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nI'm not sure what they're talking about.\nAll I can tell is that something happened to Kotomine's Magic Crest, and that Tohsaka's really surprised.",
+      "sourceUnit": "桜ルート九日目-24:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"D-do you know what you've done? That's your Magic Crest, you know!\nHow can you just lose something that's been built up over generations!?\"",
+      "sourceUnit": "桜ルート九日目-24:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I had no other option. The Crest I inherited from my father is not permanent like yours. It is meant to be consumed the more it is used. After all, we were never a family of mages.\nYou can just think of them as inferior Command Spells.\"",
+      "sourceUnit": "桜ルート九日目-24:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"So, is she really...\"\n\"Yes. I used my entire Crest to heal her. As you know, I had to extract eleven years' worth of corruption. Surely it isn't so surprising that it took the remainder of my Crest to accomplish that.\"",
+      "sourceUnit": "桜ルート九日目-24:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Tohsaka and I are speechless.\nThe priest used his entire Magic Crest to heal Sakura.\nFrom the look on Tohsaka's face, I have an inkling of how heavy a price he paid.\nHe basically spent his entire life savings to save a girl we carried through the front door.",
+      "sourceUnit": "桜ルート九日目-24:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine, you...\"\n\"What? Don't tell me I've inconvenienced you. You were the ones who asked for help. I simply answered in kind.\"",
+      "sourceUnit": "桜ルート九日目-24:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...no, it's not an... inconvenience. Um...thank you.\"\n\"Do not thank me. You will retract those words later, at any rate.\"\n\"I'll retract them later...?\"\nIs he saying...",
+      "sourceUnit": "桜ルート九日目-24:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"And how's Sakura doing? If you went that far...\"",
+      "sourceUnit": "桜ルート九日目-24:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"She has escaped death, but I've only bought her time.\nI removed most of the Crest Worms, but extracting the most deeply burrowed worms was impossible. There is no way to remove them once they have consumed so much of her nerves. I might be able to remove them completely if we also took out her heart, but that would kill Sakura Matou.\"",
+      "sourceUnit": "桜ルート九日目-24:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I've merely alleviated her pain and weakened Zouken's hold by removing the Crest Worms that have yet to fuse with her nerves. On a whim, I extended the life of someone who was fated to die tonight. It will all be in vain once the most deeply implanted worms begin to move.\"",
+      "sourceUnit": "桜ルート九日目-24:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Sakura is...\"\n\"Nothing has changed.\nShe can continue her daily life, but it could easily go awry if Zouken Matou were to act.\nAll it would take is a single thought from the old man to force her to fight against her will. Think of her as a bomb with its fuse already lit.\"",
+      "sourceUnit": "桜ルート九日目-24:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'd be lying if I said I didn't have doubts.\nBut I'm not surprised, and my mind is certain.\nI was ready for this.\nNo matter what shape Sakura is in, no matter what happens to her, I've decided to be on her side.",
+      "sourceUnit": "桜ルート九日目-24:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then there's only one thing left to do. Sorry for making you use up all of your Crests, Kirei.\"",
+      "sourceUnit": "桜ルート九日目-24:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka begins walking away from the wall.\nI realize what she's about to do,\n\"Wait, Tohsaka!\"\nand grab her by the hand, stopping her.",
+      "sourceUnit": "桜ルート九日目-24:page17:1"
+    },
+    "page18": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

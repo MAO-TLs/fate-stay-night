@@ -1,0 +1,62 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0008",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The stuff from this morning is unfinished.\nSo I should at least finish what I started.",
+      "sourceUnit": "セイバールート一日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Change of plans. You want me to finish what we started in the morning, right? Leave it to me. I'll finish all repairs before exams start.\"\n\"That'll be helpful. Let's go check on our patient in the art club.\"\n\"Sure thing. Oh, but make sure there's nobody around. I can't concentrate when there's people around.\"\n\"Of course. I won't let anyone get in your way.\"\nKeeping up with Issei's brisk pace, I follow him out of the classroom.",
+      "sourceUnit": "セイバールート一日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The sun has long since set by the time we step outside the building.\nThe school gate is already closed.\nIt's seven o'clock, way past the time they close the gates. But thanks to Issei's help, the two of us avoided trouble.",
+      "sourceUnit": "セイバールート一日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You really helped me out today. I'll repay you for this, so don't hesitate to ask me if anything comes up.\"\n\"Sure. I don't think anything will come up, though.\"\nI didn't help him because I wanted something in return, and I don't think I would ask Issei for anything impossible.",
+      "sourceUnit": "セイバールート一日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, you might have to reconsider being such a good guy all the time. Having you around is certainly helpful, but I can't stand when other people use you for their own ends. Helping people may be a good thing, but you should be more selective about who you help. You just do everything everyone asks.\"\n\"You think so? Am I really that much of a pushover?\"\n\"Mmhm. And that means heartless idiots are going to use you as they wish. You're a busy man, so it wouldn't hurt for you to decline requests from time to time.\"",
+      "sourceUnit": "セイバールート一日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nI honestly can't tell, but I think Issei is concerned for me.\nEver since middle school, I've always been told how helpful I am since I never decline requests or ask anything in return.",
+      "sourceUnit": "セイバールート一日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I guess Issei thinks that's unhealthy.\nBut I'm only doing this because I want to, and I decline any requests I feel are impossible, so there's no issue.",
+      "sourceUnit": "セイバールート一日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You really don't need to worry about this. I know myself and my limits. Besides, helping people is a good thing, and not the sort of thing the son of a temple should be telling anyone not to do.\"\n\"But you take to it an extreme. You're going to burn yourself out.\"",
+      "sourceUnit": "セイバールート一日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll keep your warning in mind. See you tomorrow at school.\"\n\"Mmm-hm. See you tomorrow.\"",
+      "sourceUnit": "セイバールート一日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Issei leaves, looking dissatisfied.\nIssei lives in Ryudou Temple, located on top of a mountain. Which means he and I have to go our separate ways.",
+      "sourceUnit": "セイバールート一日目-04:page9:1",
+      "recoveredDelimitedTail": true
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

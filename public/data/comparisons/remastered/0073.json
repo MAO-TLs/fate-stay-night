@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0073",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And then night falls.\nI did not talk to Saber or Tohsaka in the other room, and nothing much happened until it was bedtime.",
+      "sourceUnit": "セイバールート四日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's eleven now.\nThe lights in the house are off, and everyone inside goes to sleep to prepare for the upcoming day.",
+      "sourceUnit": "セイバールート四日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\n...\n\"...I can't sleep.\"",
+      "sourceUnit": "セイバールート四日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I'm still lying on my side, eyes wide open.\nThis is my room. I should be sleeping. But it feels completely different now.",
+      "sourceUnit": "セイバールート四日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. Why can't I...\"\nIt's quiet, but I hear Saber's breathing in the next room.\nArgh, I know. Of course I can hear sound coming from the next room if it's quiet! And since I can hear her breathing, I find myself imagining Saber's sleeping form.",
+      "sourceUnit": "セイバールート四日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh, dammit! How the hell can I fall asleep in this situation!?\"\nI can't just stay in this whole bed of needles situation forever!\nI sneak out of my futon, trying not to wake Saber up.",
+      "sourceUnit": "セイバールート四日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank goodness. I thought Saber would notice, but I guess not.\"\nUnless she's a deep sleeper.\nI question whether she can really protect her Master this way, but there's no immediate danger.\nIf Servants are linked to Masters, she would probably wake up immediately if her Master is in danger.",
+      "sourceUnit": "セイバールート四日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...seems to be asleep.\"\nThe lights in the detached building are out.\nShe's either just that defiant, or maybe she's naturally adaptable...\nBecause Tohsaka managed to blend in here in just a day.",
+      "sourceUnit": "セイバールート四日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Well honestly, it does help having her around.\"\nYep. She's a handful, but she is helpful.\nOne bit of evidence of that is the bandage wrapped around my hand.",
+      "sourceUnit": "セイバールート四日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hide my Command Spells, huh? I never would have thought to do that if it hadn't been pointed out.\"\nThe Command Spells Masters bear appear somewhere on their arm.\nMine appeared on the back of my left hand.\nClothes won't work to hide it, so I'll need to use bandages, even if it looks a bit awkward.",
+      "sourceUnit": "セイバールート四日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"It's wintertime, so I'll wear some long sleeves to hide it.\"\nTohsaka has hers on the opposite hand from mine, around the middle of her right hand or somewhere around there.\nThe shape of Command Spells differ for each Master, and I don't think I'll ever see Tohsaka's Command Spell.",
+      "sourceUnit": "セイバールート四日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Silence falls over the shed.\nThis is where Lancer cornered me yesterday...\n...and where Saber appeared.\nThe entrance is still open, and it's pitch dark inside, as if to repel anyone who might try to enter.",
+      "sourceUnit": "セイバールート四日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But this darkness is familiar to me.\nI used to play here when I was young, and I feel it to be my real room. It sits silently under the wintry night sky.",
+      "sourceUnit": "セイバールート四日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I step inside.\nAfter closing the door to shut out the cold, I turn on the stove.",
+      "sourceUnit": "セイバールート四日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I thought I would take a break today, but I shouldn't. The old man would be rolling in his grave if he knew I skipped my training two days in a row.\"\nI sit down in the middle of the shed and take a deep breath.\nI should train. No pauses.\nMagecraft is a mental discipline to me, so I shouldn't skimp on my training for no good reason.",
+      "sourceUnit": "セイバールート四日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Breath...in.\"\nI begin my training by getting my breathing under control.\nThe usual images pop into my head.\nThe image of a sword drifts into my empty mind.",
+      "sourceUnit": "セイバールート四日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nI try to ignore it and clear my head.\nAs soon as magical energy run through my body, I begin my usual training.",
+      "sourceUnit": "セイバールート四日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "My Strengthening magecraft succeeded for the first time in years when I was attacked by Lancer last night.\nI need to recreate that same feeling before I forget, or else it'll have been for nothing.\n\"Trace...on.\"\nI close my eyes halfway and release the air from my lungs.",
+      "sourceUnit": "セイバールート四日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "That's all can do for now.\nAs I concentrate, everything fades away—the Holy Grail War, Saber, Tohsaka.\nIf I allow my thoughts to slide into nothingness, any immature hesitations will fall away, and I'll finally get a good night's sleep.",
+      "sourceUnit": "セイバールート四日目-15:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

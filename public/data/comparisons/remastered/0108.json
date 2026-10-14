@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0108",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"See you, Shirou. I'll bring something home, so be good.\"\nFuji-nee waves as she heads out for work.",
+      "sourceUnit": "セイバールート七日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to get going too. I need to swing by home, so I'll be a little late. I should be back by dinner, though. Don't do anything rash while everyone's gone.\"",
+      "sourceUnit": "セイバールート七日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right, then.\"\nIt's half past seven in the morning.\nI see the two of them off without incident, so there's only one thing left to do now.",
+      "sourceUnit": "セイバールート七日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, we're going to continue where we left off yesterday. Let's head to the dojo, Saber.\"\n\"Oh? Are we going to begin training right away? You have just eaten; perhaps it would be best to wait awhile.\"",
+      "sourceUnit": "セイバールート七日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about that. I've trained myself to the point where stuff like that doesn't affect me, and today's breakfast was bread, right? I don't live an unhealthy enough lifestyle for something like that to affect me.\"",
+      "sourceUnit": "セイバールート七日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Well, if you insist, I do not mind.\"\n\"Good, then. Let's just go. I spent all night coming up with ways to get at least one hit in, so I want to show you the fruits of my labor.\"",
+      "sourceUnit": "セイバールート七日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh!!!\"\nI'm unable to dodge Saber's counterattack. Both the shinai and I tumble to the ground.",
+      "sourceUnit": "セイバールート七日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah! ...Kngh...!\"\nMy fingers tingle where they grip the shinai.\nSaber's counterattack lands as I lunge in with all my might. I'd figured brute force was my only option.\nNo shock that I dropped my shinai and fell right on my ass after an attack like that.",
+      "sourceUnit": "セイバールート七日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. I thought that would work.\"\n\"Shirou. Your expectations were unrealistic.\nListen. You will not be able to defeat a Servant simply by acting out of desperation. It is one thing to be determined, but you must first consider your opponent.\"",
+      "sourceUnit": "セイバールート七日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. That may be true, but I'll lose if I stay on the defensive. I have to strike if I find an opening.\"",
+      "sourceUnit": "セイバールート七日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That is true, but you do not understand how to properly utilize that opportunity. If you are to strike so desperately, you must wait for an appropriate opportunity.\"",
+      "sourceUnit": "セイバールート七日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"That goes without saying. I saw you looking away for a brief second that last time. I've only seen you do that maybe one other time, so I thought it was my chance.\"",
+      "sourceUnit": "セイバールート七日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I applaud you for noticing that and deciding to act, but I looked away deliberately.\nI did so thinking it would not be sufficient to prompt you to move; I did not expect you to charge straight at me.\"",
+      "sourceUnit": "セイバールート七日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh. That's pretty mean, Saber. You shouldn't mock amateurs like that.\"",
+      "sourceUnit": "セイバールート七日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I was not mocking you. It was simply a ploy, and creating an opening such as that carries with it a degree of risk.\nHowever, the risk I take by looking away and the risk you take by charging straight at me are simply not comparable.\"",
+      "sourceUnit": "セイバールート七日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So what you're saying is that I should be less obvious about seizing an opportunity? If I make a big, obvious attack, I'm squandering the opportunity... Erm, so you're saying I should be considering the opportunity and acting to suit it.\"",
+      "sourceUnit": "セイバールート七日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. You must learn to judge the value of the opportunity you have.\"",
+      "sourceUnit": "セイバールート七日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"However, I must point out that you are much better at discerning the boundaries between life and death than yesterday. As you develop a sense of danger, you will become more able to determine when to fight and strike on your own.\"",
+      "sourceUnit": "セイバールート七日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks pleased.\nUnless it's my imagination, she seems happy to see her student improving a bit.",
+      "sourceUnit": "セイバールート七日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"It is almost time to rest. Shall I fetch you some water, Shirou?\"\n\"No need, as long as it's just water. I filled a whole kettle, so I'll just drink from that.\"",
+      "sourceUnit": "セイバールート七日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I drag my fatigued body towards the wall.\nAfter wiping the sweat from myself with a towel I brought along, I take several gulps from the kettle.",
+      "sourceUnit": "セイバールート七日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nI take a deep breath.\nIt's been almost three hours since I saw Tohsaka and Fuji-nee off. I've spent every minute since sparring with Saber.",
+      "sourceUnit": "セイバールート七日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "As usual, Saber doesn't explain much, and I don't ask her any questions while we cross swords.\nI have pretty much no chance of winning, but I do seem to be moving better the more I fight Saber.",
+      "sourceUnit": "セイバールート七日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I'm not expecting to improve my fighting techniques.\nThe point here is to train my body, not my mind, to get accustomed to battle.\nIt's better than doing nothing, and since I am starting from basically nothing, there wouldn't be much point here unless I spend time working on this one thing.\nIf all I do is think about how to fight when the time comes for me to face a Master, I'm dead.",
+      "sourceUnit": "セイバールート七日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber just doesn't even break a sweat, huh?\"\nI'm a little disappointed, but I shouldn't expect to be on her level in just a day or two.\nAnd just like yesterday, Saber rests, seated in a seiza position.",
+      "sourceUnit": "セイバールート七日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nIt'd be a waste to just sit here.\nI might as well take the opportunity to talk with her.\nOkay, then...",
+      "sourceUnit": "セイバールート七日目-08:page25:1"
+    }
+  }
+}

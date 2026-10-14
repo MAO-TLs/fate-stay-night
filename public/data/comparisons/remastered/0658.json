@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0658",
+  "rows": {
+    "page0": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Her lungs are on fire.\nHer heart's been drumming a warning signal for some time from within the confines of her chest.\nBa-dump, ba-dump, squeeze, ba-dump.\nIt cries out in protest as it vomits blood through her body, like an old man groaning that he's on his last legs.",
+      "sourceUnit": "桜ルート十四日目-08:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Her throat is in pain.\nEach breath feels like swallowing thorns.\nIt's so terrifying, she can't breathe.\nShe's low on oxygen, but she suicidally stops herself from breathing.",
+      "sourceUnit": "桜ルート十四日目-08:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Without oxygen, her arms and legs can't move very well.\nShe's made it this far on unsteady legs, but she could collapse at any time.",
+      "sourceUnit": "桜ルート十四日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Ngh... Fuh, khh...!",
+      "sourceUnit": "桜ルート十四日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The thought gives her a burst of strength.\nShe can't let herself fall here.\nIt would defeat the whole point of sneaking out.\nShe—I'm going to settle my own unfinished business right here, right now.\nShe can't stop, even if she and the old man who turned her into a Master end up killing each other.",
+      "sourceUnit": "桜ルート十四日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Whew... Whew, haah...",
+      "sourceUnit": "桜ルート十四日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...She gets her breath under control.\nIt's going to be all right. This won't be that hard.\nIt might be for anyone else, but not for her.\nShe just needs to look the old man in the face like she does when they're eating together, shake her head, and say \"no.\"\nThen...then his schemes will come to an end.",
+      "sourceUnit": "桜ルート十四日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...She doesn't consider what will happen to her after she denies the fiend's will.\nIf she does, she won't be able to go through with it.\nSo she doesn't think too hard about it.\nFortunately, her memories are becoming less clear by the second.\nThe fear isn't so bad, since she won't even remember what's going to happen next.",
+      "sourceUnit": "桜ルート十四日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It's been several days since she was back in her house.\nShe walks through the dark rooms, using the walls for support.\nShe searches her scattered memory, but she can't remember a time when this house was ever bright.\nThe house is the same as usual.\nIt's wicked, corrupt, and sticky like it always is.\nBut...",
+      "sourceUnit": "桜ルート十四日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Why?\"\nThis isn't what she expected.\nHer grandfather isn't here.\nShe can't sense any of the bugs in the building.",
+      "sourceUnit": "桜ルート十四日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hah... Ah, aahh...\"\nShe looks through the empty rooms, trying to support her failing body.\nThis is strange.\nThis is strange.\nThis is strange.\nThe old man isn't in the Matou mansion.\nHis laughing voice isn't in the basement.",
+      "sourceUnit": "桜ルート十四日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Why...\"\nIt doesn't make sense.\nZouken Matou—Grandfather wants to take me back.\nI thought that he wouldn't make a move as long as I was at the Emiya house.\nSo now is his best chance.\nIf I'm alone, he should show up and try to turn me into a Holy Grail.\nSo...where is he?",
+      "sourceUnit": "桜ルート十四日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... haah... haah... ah...\"\n...Her consciousness grows faint.\n...That won't do.\nShe needs to find Zouken Matou before she falls asleep. Before Shirou Emiya acts.\nShe needs to find him and end this.\nIt would all be over if she met him, so why... Why isn't he here today of all days!?",
+      "sourceUnit": "桜ルート十四日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I know...but...!\"\nOf course he's aware.\nHe's always watching me. No matter how far I am or where I hide, he'll always find me.\nHe could easily capture me right now and make me do what he wants.\nHe won't care whether I want to or not.\nHe's always treated me as nothing but a tool.",
+      "sourceUnit": "桜ルート十四日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"But...why...\"\nThere's no way he's unaware.\nIt doesn't matter that the priest reduced the number of worms in my body.\n...They were just insurance.\nThat old man has other ways of tracking me.\nOf knowing my physical condition. He's even listening to my heartbeat.\nHe knows that I left Rider and came here alone.\nAfter all, he's always—",
+      "sourceUnit": "桜ルート十四日目-08:page17:1"
+    },
+    "page18": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十四日目-08:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

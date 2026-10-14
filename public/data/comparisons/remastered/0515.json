@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0515",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Once school ends, I quickly start to head home.\nSince all after-school club activities are suspended, students crowd around the campus gate.",
+      "sourceUnit": "桜ルート八日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I take a cursory look around, and don't see anyone who might be Tohsaka.\nKnowing her, she must have gone straight to the Matou house.",
+      "sourceUnit": "桜ルート八日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura's...not around, huh.\"\nWithout club practice in the afternoon, Sakura can just go home to my house.\nWe didn't talk about meeting up to walk home together, so she must have gone on ahead.",
+      "sourceUnit": "桜ルート八日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I take the lonely road up the hill.\nIt's already been six days since the Holy Grail War started.\nLittle by little, it feels like life is draining out of the town.",
+      "sourceUnit": "桜ルート八日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh...\"\nJust as I reach the top of the hill, I'm struck by a bout of dizziness.\nIt's like a hollow chill in my head, maybe it's some kind of anemia.\nI hear something resonating in my ear.",
+      "sourceUnit": "桜ルート八日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What's that noise?\"\nI cover my ears, but my eardrums still ring.\nThis isn't a hallucination.\nPeople don't just get hit by unexplained vertigo and tinnitus.\nAnd if they're happening at the same time, then it can only be deliberate.",
+      "sourceUnit": "桜ルート八日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't tell me something happened at home...!?\"\nI shake off the dizziness and start running.\nSaber's at home.\nEven if an enemy attacked, it wouldn't go so easily for them as long as Saber's there...!",
+      "sourceUnit": "桜ルート八日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The only pair of shoes at the front door belongs to Saber.\n\"Thank god Sakura's not back yet!\"\nI don't need to worry about holding back, then.\nIf this strange situation is happening because of an enemy attack, then we can get through it somehow if only Saber and I are here...!",
+      "sourceUnit": "桜ルート八日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, are you all right?\"\nI rush to the living room.\nThe instant I arrive,",
+      "sourceUnit": "桜ルート八日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I can't stand anymore, and I tumble to the ground.",
+      "sourceUnit": "桜ルート八日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nMy legs won't do what I want.\nThe ringing in my ears robs me of my sense of balance.\nI'm crushed by an oppressive nausea and chill.\nI desperately try to prop myself up on my arms,\nwhen I notice that the color is fading from the marks on my left hand.",
+      "sourceUnit": "桜ルート八日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind freezes.\nThe Command Spells are pale.\nBefore I process what that means,",
+      "sourceUnit": "桜ルート八日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I disposed of Saber. I can't let them take over any more Servants.\"",
+      "sourceUnit": "桜ルート八日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "A familiar voice speaks from very close to me.",
+      "sourceUnit": "桜ルート八日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI look up, fighting the dizziness.",
+      "sourceUnit": "桜ルート八日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, big brother. I wanted to play with you more, but the situation is different now. Blame the flawed Holy Grail, not me.\"",
+      "sourceUnit": "桜ルート八日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "The ringing invades my brain.\nSound waves that should be imperceptible burrow behind my eyeballs and block off my eyesight.\n\"But don't worry. I won't kill you right away.\nYou're going to be my trump card against them. I'll destroy your body here, but I'll swap your mind into one of my puppets.\n...Heehee. You won't be able to move anymore, but it beats dying, doesn't it?\"",
+      "sourceUnit": "桜ルート八日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "The noise permeates my entire body.\nMy mind remains as stiff as stone.\nIn the darkness, deprived of all five senses, I can't even tell how badly it's over for me.",
+      "sourceUnit": "桜ルート八日目-01:page17:1"
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

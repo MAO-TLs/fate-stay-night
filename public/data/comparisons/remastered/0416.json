@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0416",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, there's no way I can sleep like this.\"\nA strategy against Gilgamesh.\nIf we are to face a cold-hearted enemy like that, we will end up with nothing but regret if we don't try to find an opportunity.",
+      "sourceUnit": "凛ルート十四日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "If we go to Ryudou Temple now, I'm sure someone is going to die.\nRather than end up with a regret like that, it's not a shame to try to do anything, to struggle until the very last moment.",
+      "sourceUnit": "凛ルート十四日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, are you still awake?\"\nI knock on her door.",
+      "sourceUnit": "凛ルート十四日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...! W-wait a minute, don't you dare come in right now!\"\n...Hm.\nKnowing Tohsaka, I thought she would be sleeping by now, but it seems she's still awake.",
+      "sourceUnit": "凛ルート十四日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Not only that, she's panicking.\nI can hear her running around the room for something.\nIt seems she's finally calming down.\nAfter a loud, deep breath that I can hear through the wall, she opens the door.",
+      "sourceUnit": "凛ルート十四日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"And, what do you want?\"\nShe glares at me as soon as we see each other.",
+      "sourceUnit": "凛ルート十四日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it's to continue our conversation from earlier. I want to think more about how we can counter Gilgamesh.\"\n...\n...Huh.\nWhy are you staring me down like that?",
+      "sourceUnit": "凛ルート十四日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, are you in a really bad mood right now?\"\nI already know what she's going to say, but it doesn't hurt to ask.\n\"WHAT DO YOU THINK?\"\nShe'd obviously yell at me, but I really am curious, so I end up asking her anyway.\nHowever...",
+      "sourceUnit": "凛ルート十四日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Never mind. It's not like I'm actually mad at you.\"\nWell, now she's making me even more confused.",
+      "sourceUnit": "凛ルート十四日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, do you...have a fever or something?\"\n\"No, I don't! Ugh, look, will you just come in? If you want to talk about Gilgamesh, then I actually wanted to go to your room and discuss something with you.\"",
+      "sourceUnit": "凛ルート十四日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka drags me inside the room and locks the door. Then she slowly moves back into the room.",
+      "sourceUnit": "凛ルート十四日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nAnyway, I start to move toward the center of the room.\nFacing toward Tohsaka, I sit down across from her.",
+      "sourceUnit": "凛ルート十四日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nSilence.\nShe said she had something she wanted to talk to me about, yet she's not saying a word right now.",
+      "sourceUnit": "凛ルート十四日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, about Gilgamesh...\"\n\"...I know. You're going to tell me you don't want to have Saber fight him, right? You're really considerate of her.\"",
+      "sourceUnit": "凛ルート十四日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, that's not what I'm talking about.\nI'm simply saying that Gilgamesh is a bad match for Saber, so we should rethink our formation, that's all. If Saber is defeated and no one is left to slow him down, Tohsaka would be next.\"",
+      "sourceUnit": "凛ルート十四日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. You said you want to change our current formation, but what exactly? I'm not going up against that Goldy.\nHe is taking advantage of his treasury and has anti-magecraft armor on.\nHe's a bad match for Saber, but an even worse match for me. Same for you.\"",
+      "sourceUnit": "凛ルート十四日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's right.",
+      "sourceUnit": "凛ルート十四日目-05:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

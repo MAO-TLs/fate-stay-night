@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0569",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not prepared to kill her. I came back here for Sakura.\n\"Ngh...\"",
+      "sourceUnit": "桜ルート九日目-34:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I know where you stand.\nYou're saying you'll protect one person—Sakura—over everyone else.\"\n\"Yeah. I won't let you tell me that it's wrong. If you're going to hurt her, then I'll stop you here.\"",
+      "sourceUnit": "桜ルート九日目-34:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You'll stop me? No way. You can't even move a step, let alone try and stop me. No matter how much you want to protect Sakura, I won't let you go against my plan.\"",
+      "sourceUnit": "桜ルート九日目-34:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's voice is emotionless.\nThen, I realize...\n\"Wh...at...?\"\nI can't even move a finger, let alone my limbs.",
+      "sourceUnit": "桜ルート九日目-34:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Gurgh...!? Tohsaka, you...!\"\n\"You said you wouldn't let me tell you that you're wrong. But you made a mistake. If you wanted to go your own way, you never should have given up your right to decide.\"",
+      "sourceUnit": "桜ルート九日目-34:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel my heart expand.\nNo, it's not my heart, but an oath binding it.",
+      "sourceUnit": "桜ルート九日目-34:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...Also,\nfor me, that was an ideal answer.\nIt's a little lacking, but this is all I need to do if that's your answer.",
+      "sourceUnit": "桜ルート九日目-34:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"A curse...of compulsion.\"",
+      "sourceUnit": "桜ルート九日目-34:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I only meant it as a joke, so I never thought it would come in handy. Once you swore absolute obedience to me, you lost the ability to defy my opinion.\nBack there, you made a contract with me, not a promise. That means you're my servant, not my collaborator.\"",
+      "sourceUnit": "桜ルート九日目-34:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\n\"I'm going to kill Sakura. But don't get the wrong idea, Emiya. You wouldn't be able to stop me even if you didn't have this Geass on you.\nThis is my responsibility. It isn't your fault.\"",
+      "sourceUnit": "桜ルート九日目-34:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh! Tohsaka, wai...\"\nI can't even finish my sentence anymore.",
+      "sourceUnit": "桜ルート九日目-34:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's gone.\n\"No...why...\"\nI can't move my body.",
+      "sourceUnit": "桜ルート九日目-34:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it! Are you kidding me!?\"\nI desperately try to move.\nI need to get free.\nI struggle to move as soon as I can, when suddenly,\nmy paralyzed body suddenly obeys me again.",
+      "sourceUnit": "桜ルート九日目-34:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy legs won't move to give chase.\nI'm free, but my mind feels frozen.\nSuddenly, I understand.\nI won't be able to move my body as long as I go against Tohsaka's will.\nThen...\nIf I can move freely again, that must mean my reason for opposing her is gone.",
+      "sourceUnit": "桜ルート九日目-34:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...\"\nI drop to my knees.\nWith nowhere left to go, my heart breaks.",
+      "sourceUnit": "桜ルート九日目-34:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Light leaves my vision, and the church is covered in darkness.\nShirou Emiya is in zero gravity.\nI swore that I'd abandon my past ideals to protect Sakura.\nThat was my new, unyielding guidepost.\nAnd then, I lost it so quickly.",
+      "sourceUnit": "桜ルート九日目-34:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "The war will go on.\nThe Holy Grail War will continue, and I'll probably fight alongside Tohsaka, who murdered Sakura, to end the conflict.",
+      "sourceUnit": "桜ルート九日目-34:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...But that will happen in a place that doesn't matter anymore.\nShirou Emiya has lost his place forever.\nI'll keep going, without anything to guide me, not knowing what I should do...",
+      "sourceUnit": "桜ルート九日目-34:page17:1"
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,542 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0728",
+  "rows": {
+    "page0-unit000": {
+      "status": "exact_japanese_text",
+      "text": "Okay, good work!\nCongratulations for fully completing the main story and completely filling the Tiger Stamp sheet!",
+      "sourceUnit": "タイガー道場すぺしゃる:page0:1"
+    },
+    "page0-unit001": {
+      "status": "exact_japanese_text",
+      "text": "Congratulations!",
+      "sourceUnit": "タイガー道場すぺしゃる:page1:1"
+    },
+    "page0-unit002": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit003": {
+      "status": "exact_japanese_text",
+      "text": "You've pretty much played through the entire game, so I really have nothing more to say.\nYep. Now you can go wherever you want, sir!",
+      "sourceUnit": "タイガー道場すぺしゃる:page3:1"
+    },
+    "page0-unit004": {
+      "status": "exact_japanese_text",
+      "text": "Yep. You can now say goodbye to button-mashing hell.\nAnyway, we're on a retreat at the Einzberns' secluded hot spring resort, Valhalla Hot Springs.",
+      "sourceUnit": "タイガー道場すぺしゃる:page4:1"
+    },
+    "page0-unit005": {
+      "status": "exact_japanese_text",
+      "text": "What do you think, Taiga? How's the water temperature?",
+      "sourceUnit": "タイガー道場すぺしゃる:page5:1"
+    },
+    "page0-unit006": {
+      "status": "exact_japanese_text",
+      "text": "So good. So relaxing.\nI feel like if I let myself relax too much, I'll head straight to heaven.",
+      "sourceUnit": "タイガー道場すぺしゃる:page6:1"
+    },
+    "page0-unit007": {
+      "status": "exact_japanese_text",
+      "text": "Right? The benefits of this hot spring include relieving fatigue and sending souls off to the other side.\nIf you let your guard down, there's no coming back.",
+      "sourceUnit": "タイガー道場すぺしゃる:page7:1"
+    },
+    "page0-unit008": {
+      "status": "exact_japanese_text",
+      "text": "Huh!?\nI think I just saw a beautiful field of flowers...\nWhew, that was a close one. You shouldn't fall asleep in the bath.",
+      "sourceUnit": "タイガー道場すぺしゃる:page8:1"
+    },
+    "page0-unit009": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit010": {
+      "status": "exact_japanese_text",
+      "text": "Aww...I really don't want to get lectured at the very end.\nWe're at a hot spring, so let's just stick to reminiscing.",
+      "sourceUnit": "タイガー道場すぺしゃる:page10:1"
+    },
+    "page0-unit011": {
+      "status": "exact_japanese_text",
+      "text": "Huh!? Is a little girl admonishing me!?",
+      "sourceUnit": "タイガー道場すぺしゃる:page11:1"
+    },
+    "page0-unit012": {
+      "status": "exact_japanese_text",
+      "text": "But you're right. The hot spring feels real nice, and it's the lion's job to hold a postmortem meeting.",
+      "sourceUnit": "タイガー道場すぺしゃる:page12:1"
+    },
+    "page0-unit013": {
+      "status": "exact_japanese_text",
+      "text": "Yep. I'm reflecting on my own actions. I'm not gonna bother thinking anymore, so let's just look back at what we did.",
+      "sourceUnit": "タイガー道場すぺしゃる:page13:1"
+    },
+    "page0-unit014": {
+      "status": "exact_japanese_text",
+      "text": "So, what was your favorite part of the main story, Illya?",
+      "sourceUnit": "タイガー道場すぺしゃる:page14:1"
+    },
+    "page0-unit015": {
+      "status": "exact_japanese_text",
+      "text": "Me? Hmmm, I'd say the part where I was killed in the Rin Route. There originally wasn't a cutscene there, but they added one in later on.",
+      "sourceUnit": "タイガー道場すぺしゃる:page15:1"
+    },
+    "page0-unit016": {
+      "status": "exact_japanese_text",
+      "text": "Oh, you mean the part where your heart got ripped out? Yeah, that made my heart skip a beat!",
+      "sourceUnit": "タイガー道場すぺしゃる:page16:1"
+    },
+    "page0-unit017": {
+      "status": "exact_japanese_text",
+      "text": "Why don't you just hurry off to heaven!\nI was talking about the cutscene with Berserker and me.",
+      "sourceUnit": "タイガー道場すぺしゃる:page17:1"
+    },
+    "page0-unit018": {
+      "status": "exact_japanese_text",
+      "text": "By the way, the scene Taiga's talking about is the cutscene that was mysteriously made out of the blue, even though it was at the top of the list to cut out.",
+      "sourceUnit": "タイガー道場すぺしゃる:page18:1"
+    },
+    "page0-unit019": {
+      "status": "exact_japanese_text",
+      "text": "O-oh, is that so?",
+      "sourceUnit": "タイガー道場すぺしゃる:page19:1"
+    },
+    "page0-unit020": {
+      "status": "exact_japanese_text",
+      "text": "I don't get it. So the developers kept the cutscene that was in poor taste, but the scene where I transformed through the power of the Babylonian god and went toe to toe with Aŋra Mainiiu was cut? That doesn't make sense.",
+      "sourceUnit": "タイガー道場すぺしゃる:page20:1"
+    },
+    "page0-unit021": {
+      "status": "exact_japanese_text",
+      "text": "Hey, Taiga. This may not really matter, but the hero that transforms using the god of Babylonia's power is a jaguar, not a tiger.",
+      "sourceUnit": "タイガー道場すぺしゃる:page21:1"
+    },
+    "page0-unit022": {
+      "status": "exact_japanese_text",
+      "text": "Eh!? You're kidding. But the tiger cape had cute whiskers!",
+      "sourceUnit": "タイガー道場すぺしゃる:page22:1"
+    },
+    "page0-unit023": {
+      "status": "exact_japanese_text",
+      "text": "If having whiskers makes you a tiger, then even certain mobile-suited warriors can be tigers.",
+      "sourceUnit": "タイガー道場すぺしゃる:page23:1"
+    },
+    "page0-unit024": {
+      "status": "exact_japanese_text",
+      "text": "Whaaat!? This is as shocking as when I found out that sweet potatoes and yams are completely different foods!",
+      "sourceUnit": "タイガー道場すぺしゃる:page24:1"
+    },
+    "page0-unit025": {
+      "status": "exact_japanese_text",
+      "text": "Huh... I've been wondering. Why are you so infatuated with tigers?",
+      "sourceUnit": "タイガー道場すぺしゃる:page25:1"
+    },
+    "page0-unit026": {
+      "status": "exact_japanese_text",
+      "text": "You hate when people call you Tiger, but you wear tiger-striped clothes. Do you love or hate tigers?",
+      "sourceUnit": "タイガー道場すぺしゃる:page26:1"
+    },
+    "page0-unit027": {
+      "status": "exact_japanese_text",
+      "text": "Hm. I both deeply hate and deeply love them at once.",
+      "sourceUnit": "タイガー道場すぺしゃる:page27:1"
+    },
+    "page0-unit028": {
+      "status": "exact_japanese_text",
+      "text": "Well, whatever. Everyone has their own unique tastes, so I'm not going to delve deeper into that.\nSo what about you? What was your favorite part of the main story, Taiga?",
+      "sourceUnit": "タイガー道場すぺしゃる:page28:1"
+    },
+    "page0-unit029": {
+      "status": "exact_japanese_text",
+      "text": "Hmmm. Let's see. I like the opening movie.\nEspecially the parts where Taiga Fujimura shows up.",
+      "sourceUnit": "タイガー道場すぺしゃる:page29:1"
+    },
+    "page0-unit030": {
+      "status": "exact_japanese_text",
+      "text": "I was a fool for asking...\nWe're not making any progress like this, so let's just go in order.",
+      "sourceUnit": "タイガー道場すぺしゃる:page30:1"
+    },
+    "page0-unit031": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit032": {
+      "status": "exact_japanese_text",
+      "text": "I have no complaints about this route, since I play a big part in the story, and Taiga comes out at the end too.",
+      "sourceUnit": "タイガー道場すぺしゃる:page32:1"
+    },
+    "page0-unit033": {
+      "status": "exact_japanese_text",
+      "text": "Yeah. I was still acting like one of the main heroines in that route. Time sure has been cruel to me. Fufu. I should kill the guy who wrote the story.",
+      "sourceUnit": "タイガー道場すぺしゃる:page33:1"
+    },
+    "page0-unit034": {
+      "status": "exact_japanese_text",
+      "text": "Okay, okay, don't get so salty.\nThe idea of the Saber route is to tell the story of the Holy Grail War, focusing on Saber.",
+      "sourceUnit": "タイガー道場すぺしゃる:page34:1"
+    },
+    "page0-unit035": {
+      "status": "exact_japanese_text",
+      "text": "It's the classic story intended for beginner Masters.",
+      "sourceUnit": "タイガー道場すぺしゃる:page35:1"
+    },
+    "page0-unit036": {
+      "status": "exact_japanese_text",
+      "text": "You were sort of a mid-boss too, Illya.\nShirou had to say goodbye to Saber, but that should have made him grow into a more resilient man...",
+      "sourceUnit": "タイガー道場すぺしゃる:page36:1"
+    },
+    "page0-unit037": {
+      "status": "exact_japanese_text",
+      "text": "...Huh? Wait a minute.\nDoes that mean Shirou's at risk of becoming Archer on this route!?\nIs that the big risk there!?",
+      "sourceUnit": "タイガー道場すぺしゃる:page37:1"
+    },
+    "page0-unit038": {
+      "status": "exact_japanese_text",
+      "text": "That'll depend on how Shirou wants to live his life.\nWell, I don't think it's likely there. Besides, he has me by his side.",
+      "sourceUnit": "タイガー道場すぺしゃる:page38:1"
+    },
+    "page0-unit039": {
+      "status": "exact_japanese_text",
+      "text": "I see. With a little devil like you by his side, Shirou is on the path of evil...",
+      "sourceUnit": "タイガー道場すぺしゃる:page39:1"
+    },
+    "page0-unit040": {
+      "status": "exact_japanese_text",
+      "text": "Hey! Wait a minute!\nIllya, would you be able to live that long?",
+      "sourceUnit": "タイガー道場すぺしゃる:page40:1"
+    },
+    "page0-unit041": {
+      "status": "exact_japanese_text",
+      "text": "That's a secret.\nBesides, humans eventually die, so don't worry too much about that.",
+      "sourceUnit": "タイガー道場すぺしゃる:page41:1"
+    },
+    "page0-unit042": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit043": {
+      "status": "exact_japanese_text",
+      "text": "The story is more of an ensemble story, and it's more focused on the Servants.",
+      "sourceUnit": "タイガー道場すぺしゃる:page43:1"
+    },
+    "page0-unit044": {
+      "status": "exact_japanese_text",
+      "text": "And if I'm being really honest here...",
+      "sourceUnit": "タイガー道場すぺしゃる:page44:1"
+    },
+    "page0-unit045": {
+      "status": "exact_japanese_text",
+      "text": "...we hardly play a part in that story.\nIllya dropped out midway, and I was treated real poorly...",
+      "sourceUnit": "タイガー道場すぺしゃる:page45:1"
+    },
+    "page0-unit046": {
+      "status": "exact_japanese_text",
+      "text": "Your very existence is poor.",
+      "sourceUnit": "タイガー道場すぺしゃる:page46:1"
+    },
+    "page0-unit047": {
+      "status": "exact_japanese_text",
+      "text": "Gah! The truth hurts!",
+      "sourceUnit": "タイガー道場すぺしゃる:page47:1"
+    },
+    "page0-unit048": {
+      "status": "exact_japanese_text",
+      "text": "But Tohsaka hardly made a mark, considering she was the main heroine.",
+      "sourceUnit": "タイガー道場すぺしゃる:page48:1"
+    },
+    "page0-unit049": {
+      "status": "exact_japanese_text",
+      "text": "Seems like Archer stole all her thunder.",
+      "sourceUnit": "タイガー道場すぺしゃる:page49:1"
+    },
+    "page0-unit050": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit051": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit052": {
+      "status": "exact_japanese_text",
+      "text": "Shirou's the protagonist of this game, so the main story has to focus on him.",
+      "sourceUnit": "タイガー道場すぺしゃる:page52:1"
+    },
+    "page0-unit053": {
+      "status": "exact_japanese_text",
+      "text": "He's a pretty complicated guy.",
+      "sourceUnit": "タイガー道場すぺしゃる:page53:1"
+    },
+    "page0-unit054": {
+      "status": "exact_japanese_text",
+      "text": "I see.\nWhich means the backbone of the game's theme is covered in Tohsaka's route.",
+      "sourceUnit": "タイガー道場すぺしゃる:page54:1"
+    },
+    "page0-unit055": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit056": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit057": {
+      "status": "exact_japanese_text",
+      "text": "A battle to the death, huh? Yeah, Sakura's route really did have the most deaths.",
+      "sourceUnit": "タイガー道場すぺしゃる:page57:1"
+    },
+    "page0-unit058": {
+      "status": "exact_japanese_text",
+      "text": "This route was supposed to be the shortest, but it ended up being the longest, and that's no joke!",
+      "sourceUnit": "タイガー道場すぺしゃる:page58:1"
+    },
+    "page0-unit059": {
+      "status": "exact_japanese_text",
+      "text": "If only that route had been shorter, Illya and I could've had our routes!",
+      "sourceUnit": "タイガー道場すぺしゃる:page59:1"
+    },
+    "page0-unit060": {
+      "status": "exact_japanese_text",
+      "text": "Your route wasn't even a thought during the brainstorming session.",
+      "sourceUnit": "タイガー道場すぺしゃる:page60:1"
+    },
+    "page0-unit061": {
+      "status": "exact_japanese_text",
+      "text": "Anyway. Sakura's route was full of twists and turns. What did you think of it, Illya?\nCan we call this the grand finale?",
+      "sourceUnit": "タイガー道場すぺしゃる:page61:1"
+    },
+    "page0-unit062": {
+      "status": "exact_japanese_text",
+      "text": "Of course you can. Something as crazy as the Greater Holy Grail was destroyed, and everyone lived except me and Saber.\nIf you asked for any more than that, the gods would punish you.",
+      "sourceUnit": "タイガー道場すぺしゃる:page62:1"
+    },
+    "page0-unit063": {
+      "status": "exact_japanese_text",
+      "text": "Huh. I heard there was the crazy idea of having an ending where Sakura, Tohsaka, Rider, and Saber were all alive.",
+      "sourceUnit": "タイガー道場すぺしゃる:page63:1"
+    },
+    "page0-unit064": {
+      "status": "exact_japanese_text",
+      "text": "Uhhh...heaven?",
+      "sourceUnit": "タイガー道場すぺしゃる:page64:1"
+    },
+    "page0-unit065": {
+      "status": "exact_japanese_text",
+      "text": "More like hell, if you ask me.\nWell, life's interesting since not everything goes your way. It's at its best when some people are missing in your life.",
+      "sourceUnit": "タイガー道場すぺしゃる:page65:1"
+    },
+    "page0-unit066": {
+      "status": "exact_japanese_text",
+      "text": "Ah...your words are so profound!\nWhat else should we expect from a character who's both a younger sister and an older sister at the same time!",
+      "sourceUnit": "タイガー道場すぺしゃる:page66:1"
+    },
+    "page0-unit067": {
+      "status": "exact_japanese_text",
+      "text": "By the way, is Shirou your younger or older brother?",
+      "sourceUnit": "タイガー道場すぺしゃる:page67:1"
+    },
+    "page0-unit068": {
+      "status": "exact_japanese_text",
+      "text": "That's a secret!\nI have both attributes, and so does Shirou!",
+      "sourceUnit": "タイガー道場すぺしゃる:page68:1"
+    },
+    "page0-unit069": {
+      "status": "exact_japanese_text",
+      "text": "Ah, I get it.",
+      "sourceUnit": "タイガー道場すぺしゃる:page69:1"
+    },
+    "page0-unit070": {
+      "status": "exact_japanese_text",
+      "text": "But if he makes one mistake, he'll grow up to be like Archer, which makes it both interesting and sad to me... It's complicated, in my opinion.",
+      "sourceUnit": "タイガー道場すぺしゃる:page70:1"
+    },
+    "page0-unit071": {
+      "status": "exact_japanese_text",
+      "text": "Well, it'll depend on how he matures, so let's count on Rin and Sakura molding him into a man.",
+      "sourceUnit": "タイガー道場すぺしゃる:page71:1"
+    },
+    "page0-unit072": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit073": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit074": {
+      "status": "exact_japanese_text",
+      "text": "And we don't even have to say what conclusion he came to!",
+      "sourceUnit": "タイガー道場すぺしゃる:page74:1"
+    },
+    "page0-unit075": {
+      "status": "exact_japanese_text",
+      "text": "He lost many things, but he will gain so many new things from this point on.",
+      "sourceUnit": "タイガー道場すぺしゃる:page75:1"
+    },
+    "page0-unit076": {
+      "status": "exact_japanese_text",
+      "text": "Yup. That's why that story comes full circle...to the grand finale.\nAnd it's why everyone's going to be sooo happy afterwards.",
+      "sourceUnit": "タイガー道場すぺしゃる:page76:1"
+    },
+    "page0-unit077": {
+      "status": "exact_japanese_text",
+      "text": "Ooohhh, you're such a good girl. I can't believe we're learning that you're such a good person after you were taken to heaven... You're finally showing your true colors as the evil heroine.",
+      "sourceUnit": "タイガー道場すぺしゃる:page77:1"
+    },
+    "page0-unit078": {
+      "status": "exact_japanese_text",
+      "text": "Hmph. That's always been my role. I have no regrets.",
+      "sourceUnit": "タイガー道場すぺしゃる:page78:1"
+    },
+    "page0-unit079": {
+      "status": "exact_japanese_text",
+      "text": "The rest of the story is the battle between those who still remain. I'm going to just sit back and relax in this hot spring and watch what happens from on high.",
+      "sourceUnit": "タイガー道場すぺしゃる:page79:1"
+    },
+    "page0-unit080": {
+      "status": "exact_japanese_text",
+      "text": "I see.\nOkay. Then let's wrap this up nicely with a smile, Disciple Number One!",
+      "sourceUnit": "タイガー道場すぺしゃる:page80:1"
+    },
+    "page0-unit081": {
+      "status": "exact_japanese_text",
+      "text": "Ma'am, yes, ma'am! Roger that!",
+      "sourceUnit": "タイガー道場すぺしゃる:page81:1"
+    },
+    "page0-unit082": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page0-unit083": {
+      "status": "exact_japanese_text",
+      "text": "Yep! Thanks for playing the game all the way through!\nWe've been dealing with the bad endings all this time, but now our job here is over.",
+      "sourceUnit": "タイガー道場すぺしゃる:page83:1"
+    },
+    "page0-unit084": {
+      "status": "exact_japanese_text",
+      "text": "This is really going to be goodbye, but if there is ever another opportunity, let's meet again in the main story!",
+      "sourceUnit": "タイガー道場すぺしゃる:page84:1"
+    },
+    "page0-unit085": {
+      "status": "exact_japanese_text",
+      "text": "See you! Don't die anymore, young ones!",
+      "sourceUnit": "タイガー道場すぺしゃる:page85:1"
+    },
+    "page0-unit086": {
+      "status": "exact_japanese_text",
+      "text": "Bye-bye!",
+      "sourceUnit": "タイガー道場すぺしゃる:page86:1"
+    },
+    "page1-unit087": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit088": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit089": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit090": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit091": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit092": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit093": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit094": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit095": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit096": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit097": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit098": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit099": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit100": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit101": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1-unit102": {
+      "status": "exact_japanese_text",
+      "text": "Hey? By the way, Illya. Did you say you can watch what's happening from up here?",
+      "sourceUnit": "タイガー道場すぺしゃる:page87:1"
+    },
+    "page1-unit103": {
+      "status": "exact_japanese_text",
+      "text": "I did. I said we can watch over the world from here.",
+      "sourceUnit": "タイガー道場すぺしゃる:page88:1"
+    },
+    "page1-unit104": {
+      "status": "exact_japanese_text",
+      "text": "Wha...d-d-d-d-don't tell me...this hot spring is...",
+      "sourceUnit": "タイガー道場すぺしゃる:page89:1"
+    },
+    "page1-unit105": {
+      "status": "exact_japanese_text",
+      "text": "Um...heaven?",
+      "sourceUnit": "タイガー道場すぺしゃる:page90:1"
+    },
+    "page1-unit106": {
+      "status": "exact_japanese_text",
+      "text": "Gyawaaahhh!!!\nThis is NOT an elegant way of ending things!",
+      "sourceUnit": "タイガー道場すぺしゃる:page91:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

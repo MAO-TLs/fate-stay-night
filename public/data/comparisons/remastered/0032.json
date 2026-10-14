@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0032",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Soon after Fuji-nee leaves, I lock up and Sakura and I leave as well.",
+      "sourceUnit": "セイバールート三日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai. I won't be able to come help out from tonight until Monday. Will that be all right?\"\n\"That's fine. Besides, it's the weekend. I bet you have friends to hang out with, so don't worry about me.\"",
+      "sourceUnit": "セイバールート三日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh... Oh, no that's not it! It really is for personal reasons, so I'm still going to practice at the club! S-so if you need anything just come to the dojo and I'll figure things out!\nAnd I'm not going to go out just because it's the weekend. So...um...please don't get the wrong idea!\"",
+      "sourceUnit": "セイバールート三日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\nSakura's acting suspicious, or rather, she seems nervous.\nI don't know why, but it's probably just that she can't come over the weekend.",
+      "sourceUnit": "セイバールート三日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. I'll go to the dojo if I need anything.\"\n\"Yes. That would be great.\"\nSakura sighs in relief.\nBut the moment Sakura lowers her gaze, her expression stiffens.",
+      "sourceUnit": "セイバールート三日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, your hand.\"\n\"Hm?\"\nSakura is staring at my left hand.\nI look down and see blood trickling from it.",
+      "sourceUnit": "セイバールート三日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI pull up my shirt sleeve.\nYep. Blood.",
+      "sourceUnit": "セイバールート三日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"The hell? Did I cut myself with something last night?\"\nBut I don't feel any pain.\nIt looks like there's a welt on my hand...\nThe bruise stretches all the way from my shoulder to the back of my hand. It looks like a snake that's trying to reach my palm from the top of my shoulder.",
+      "sourceUnit": "セイバールート三日目-09:page7:1"
+    },
+    "page8": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート三日目-09:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0577",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...It's hard to admit it, but it's true.\nWe're going to be spending time around each other. If I state my opinion clearly, that should at least avoid any misunderstandings.",
+      "sourceUnit": "桜ルート十日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. To be honest, I have a hard time dealing with you. It's not that I dislike you, but you make me nervous.\"\nThe mood grows heavy.\nSakura's just trying to be considerate of me, but this is only going to create more friction with Rider...",
+      "sourceUnit": "桜ルート十日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, you don't need to concern yourself with this. His reaction is a natural one.\"\n\"Huh...? No, that's not true, Rider. Senpai's just not used to you yet, but he'll—\"",
+      "sourceUnit": "桜ルート十日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I said it's fine. I actually feel relieved to hear that. He is speaking the truth.\n...Yes. He really is as honest as you said.\"",
+      "sourceUnit": "桜ルート十日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm surprised.\nRider can smile that gently?",
+      "sourceUnit": "桜ルート十日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou Emiya. Allow me to ask again—you don't bear any hostility towards me?\"\n\"No. It's hard to approach you, but I don't dislike you.\"",
+      "sourceUnit": "桜ルート十日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"That is sufficient. Please continue to keep that attitude.\nI am Sakura's Servant. I will always put her first, which may lead me to attack you. It's for the best if we remain cautious of each other.\"",
+      "sourceUnit": "桜ルート十日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"R-Rider, stop it! Senpai is important to me, so don't talk to him that way!\"\n\"...All right. Allow me to amend that statement.\nAs long as you protect Sakura, I will cooperate with you. I hope you will find that satisfactory.\"\nRider bows politely.",
+      "sourceUnit": "桜ルート十日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nI understand her position, now.\nI still don't know if we'll end up being enemies, but I can believe that she wants to protect Sakura.",
+      "sourceUnit": "桜ルート十日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Let's both try to make this work.\"\n\"Yes, that should make Sakura happy. I will stand guard in the shadows, while you protect her in the light.\"\nRider's voice is dispassionate.\nThe conversation dies off there, and we continue eating breakfast in silence.",
+      "sourceUnit": "桜ルート十日目-02:page9:1",
+      "recoveredDelimitedTail": true
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

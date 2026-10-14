@@ -1,0 +1,331 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0076",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's time to go to school.",
+      "sourceUnit": "セイバールート五日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let's get going. I don't know this area very well, so maybe you can show me some shortcuts to school.\"\nRin Tohsaka is in her school uniform, standing next to me.",
+      "sourceUnit": "セイバールート五日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "My image of her as an honor student is fading, but she still makes me nervous when I see her in her uniform.\nJust going to school with the prettiest girl is nerve-racking enough, but on top of that...",
+      "sourceUnit": "セイバールート五日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai. I finished locking up the house.\"\nSakura's coming with me too.\nSakura typically goes to school with Fuji-nee because she's a member of the kyudou club.\nBut this morning, Sakura stayed put in the living room, helped clean up after breakfast, and waited for me to go to school.",
+      "sourceUnit": "セイバールート五日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Did you give Sakura a key to your house, Shirou?\"\n\"I did. Sakura's never done anything bad, and she's been a big help to me all this time. So, with all that in mind, I can't give you a spare key, but that won't bother you, right?\"",
+      "sourceUnit": "セイバールート五日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't mind. But what's that supposed to mean?\"\n\"You do bad stuff. You probably don't even need a key anyway. I'm not foolish enough to make something so unnecessary.\"",
+      "sourceUnit": "セイバールート五日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh is that so!? Fine. You're right. I won't need something like that anyway!\"\nTohsaka turns her head, huffing.",
+      "sourceUnit": "セイバールート五日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Maybe I'm just getting used to her, but I'm starting to find these mannerisms of hers fascinating.",
+      "sourceUnit": "セイバールート五日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Huh? What's wrong, Sakura? If you're done locking up, let's go.\nWe've got Tohsaka this morning too, so I want to get to school as early as possible.\"\n\"Yes, you're right. We should go, if you insist.\"",
+      "sourceUnit": "セイバールート五日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's reply is pretty unenthusiastic, and she trails behind us.\n...This isn't good.\nSakura has seemed down ever since Tohsaka convinced Fuji-nee to back off.\nFuji-nee might have consented, but I have a feeling Sakura isn't convinced.",
+      "sourceUnit": "セイバールート五日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I probably need to talk to her.\"\nYeah, I should find a way to give these two time to get along and be friends.",
+      "sourceUnit": "セイバールート五日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The sloped road is packed with students.\nIt's a half past seven, which is the busiest time for students getting to school.\nAmong the flock of students...\nI stand out, and I can feel everyone's stares since I'm in pretty famous company.",
+      "sourceUnit": "セイバールート五日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMaybe she forgot something.\nBut Tohsaka's been quiet the entire time.",
+      "sourceUnit": "セイバールート五日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong, Tohsaka? You've been acting weird ever since we reached the hill.\"\n\"Eh? Am I acting odd this morning?\"",
+      "sourceUnit": "セイバールート五日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you're not odd, but your behavior is.\"\n\"Senpai, that is contradictory. I do not believe that was what Miss Tohsaka was asking...\"",
+      "sourceUnit": "セイバールート五日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Then what was Tohsaka asking?\"\n\"Everyone is staring at Miss Tohsaka, so she was worried there was something wrong with her appearance. Isn't that right?\"",
+      "sourceUnit": "セイバールート五日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah. Do I look weird to you too, Sakura?\nIt's weird. I may have been sleepy this morning, but I still blow-dried my hair, and I don't think there's a single wrinkle in my uniform... Maybe I have bags under my eyes because I slept in a new, unfamiliar place last night!\"",
+      "sourceUnit": "セイバールート五日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you yelling at me for?\nIt's not my fault if you couldn't sleep, and even if that's why you've got bags under your eyes, it's no big deal. Just forget it.\"",
+      "sourceUnit": "セイバールート五日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"How dare you! Girls care about their appearance from the moment they're born!\nArgh...I've always tried so hard to look perfect, at least on the outside, but I guess my streak ends today!\"",
+      "sourceUnit": "セイバールート五日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Again...why are you yelling at me!?\nI don't know what's going on here, Tohsaka, but it's definitely not my fault. Take your frustrations out on someone or something else.\"",
+      "sourceUnit": "セイバールート五日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Please do not worry Miss Tohsaka. You're as beautiful today as always.\nEveryone's staring at you because you are with us, since you've never come to school with anyone before.\"",
+      "sourceUnit": "セイバールート五日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? So that's why I'm being treated like this? I'm not insulted, but I thought I'd figured out how school works after ten years. I guess there's still some mysteries left at school for me.\"",
+      "sourceUnit": "セイバールート五日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka ponders this seriously.\nHold on...what kind of person ignores someone telling them they're \"as beautiful as always\"?",
+      "sourceUnit": "セイバールート五日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"You really don't get it, do you? Of course people will notice if you come to school with someone. Especially if that person is a guy.\"\n\"Exactly. But Miss Tohsaka really doesn't care about that kind of thing. That's why there have never been any romantic rumors about her.\"",
+      "sourceUnit": "セイバールート五日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. That's good to know. That means there's only been one victim who was taken in by her appearance and suffered the consequences.\"\nI whisper that part to Sakura as we walk a bit behind Tohsaka, who still looks puzzled.",
+      "sourceUnit": "セイバールート五日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "We walk through the school gate, stares following us the whole way.\nI only need to endure the stares a little longer, since we will all separate once we get into the school building.",
+      "sourceUnit": "セイバールート五日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. I'm really not up to seeing the source of my headache first thing in the morning.\"\nTohsaka mutters to herself as we head toward campus.\nFollowing Tohsaka's gaze, I see a familiar face pushing his way through the crowd of students.",
+      "sourceUnit": "セイバールート五日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura!\"\n\"Oh...it's my brother...\"\nSakura shivers at the sight of him.\nShinji acts like he doesn't see us. Instead, he makes a beeline for Sakura and says,",
+      "sourceUnit": "セイバールート五日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Why didn't you come to the dojo!? Who do you think you are, taking a day off without telling me!?\"\nShinji raises his hand.\nInstinctively...\n\"Yo, Shinji. Working hard first thing in the morning, huh?\"\nI grab his hand and greet him.",
+      "sourceUnit": "セイバールート五日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh... Emiya...!?\nYou... So you were at Emiya's house again, Sakura!?\"\n\"...Yes. I went to help Senpai. But that's...\"",
+      "sourceUnit": "セイバールート五日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...That it's your duty as his junior to do that? That's such bullshit. You have no responsibility to help a guy who hurt himself. Your job is to listen to me.\"",
+      "sourceUnit": "セイバールート五日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Shinji huffs as he lowers his hand.\nI have no reason to hold on to his hand if he's not going to hit Sakura, so I let go.",
+      "sourceUnit": "セイバールート五日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you take some kind of sick pleasure in getting in our way, Emiya? Sakura's a member of the kyudou club, so stop forcing her to do shit for you that makes her skip practice, okay?\"\n\"Hm.\"",
+      "sourceUnit": "セイバールート五日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I don't have a response to that.\nHaving Sakura come to my place to make breakfast does hold her up in the mornings.",
+      "sourceUnit": "セイバールート五日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true! I help Senpai out because I want to. I think you're going a bit too far, brother.\"",
+      "sourceUnit": "セイバールート五日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Too far? That's my line, Sakura. So what if Emiya lives alone? If he says he's fine alone, then you can just leave him be. I bet Emiya's more relaxed that way anyway.\"",
+      "sourceUnit": "セイバールート五日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"That...that's a terrible thing to say!\"\n\"Hmph. Fine. But no more going to Emiya's house from now on. You didn't come to practice even though I told you to, so you should be ready for some punishment.\"",
+      "sourceUnit": "セイバールート五日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura gasps and freezes.\nShinji tries to grab Sakura and pull her away, but the instant he does...",
+      "sourceUnit": "セイバールート五日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning, Matou. I thought I'd just listen and not get involved, but that's quite the conversation you're having.\"\n\"Eh...? Toh...saka? Wh-why are you with Sakura?\"",
+      "sourceUnit": "セイバールート五日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Shouldn't be that big of a surprise.\nSakura is Emiya's friend. And I'm an acquaintance of Emiya. That's why the three of us walked to school together this morning... Did you not notice?\"",
+      "sourceUnit": "セイバールート五日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!? Y-you know Emiya!?\"\nThat's right. As a matter of fact, we're good enough friends that we might keep going home and coming to school together, which is why I'm considering being friends with Sakura too.\"",
+      "sourceUnit": "セイバールート五日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"With...Emiya!?\"\nShinji glares at me.\nIt might be my imagination, but I feel murderous intent from him that goes way beyond just animosity.\nAnd while I haven't really been getting along with Shinji lately, I don't remember doing anything that would make him resent me anywhere near this much.",
+      "sourceUnit": "セイバールート五日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. Don't be ridiculous. This is a bad joke, Tohsaka. There's no way you would hang around a guy like Emiya.\n...Oh, I know. You probably got it all wrong. Yeah sure, I was friends with Emiya before, but we're not anymore. Emiya and I are long since done being friends, so you don't gain anything by being friendly with him.\"",
+      "sourceUnit": "セイバールート五日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? Well, that's a relief, since I never had the slightest interest in you.\"",
+      "sourceUnit": "セイバールート五日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa there.\"\nI feel bad for Shinji.\nIf I were in his shoes, Tohsaka's words would be traumatic enough, I probably wouldn't recover for a good while.",
+      "sourceUnit": "セイバールート五日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Why you...\"\n\"Oh and by the way, Matou. About your conversation earlier. I thought morning practices for the kyudou club were voluntary. I've never heard that you needed permission to be absent. I'm sure this would be news to Ms. Fujimura and Ayako as well.\"",
+      "sourceUnit": "セイバールート五日目-05:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...shut up! It's none of your business what an older brother tells his little sister! Don't poke your nose into our family affairs!\"\n\"Oh I completely agree. And that's why you shouldn't have anything to say about Emiya's home either. Honestly, you've got some nerve, causing a scene like this so early in the day, Matou.\"",
+      "sourceUnit": "セイバールート五日目-05:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gngh!\"\nShinji retreats a step, still glaring at Sakura and me in the process.",
+      "sourceUnit": "セイバールート五日目-05:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I forgive you for this morning.\nBut you won't get a second chance, Sakura. If something like this happens again, I'll put you in your place once and for all.\"\nShinji heads toward the school building after making his big pronouncement.\nHe's turned tail and run after Tohsaka gave him such a dressing down.",
+      "sourceUnit": "セイバールート五日目-05:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm so sorry, Senpai. My brother was so rude to you...\"\nSakura's apologizing not just to me, but to Tohsaka as well.",
+      "sourceUnit": "セイバールート五日目-05:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it. It was actually a nice way to start the day. The gears in my head are oiled up and turning at full speed now. I love a good argument, you know.\"",
+      "sourceUnit": "セイバールート五日目-05:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"And I should be the one apologizing. I might have gone a bit too far. He still has a reputation to think about, and I shouldn't have said something like that in front of everyone at school, you know?\nIf Matou acts all down from this, go ahead and cheer him up.\nAnd tell him he can spar with me anytime he likes.\"",
+      "sourceUnit": "セイバールート五日目-05:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...yes. If brother hasn't learned anything from this incident, then please spar with him again, Miss Tohsaka.\"\nRelieved, Sakura smiles cheerfully.\nTohsaka seems suddenly bashful and looks away.",
+      "sourceUnit": "セイバールート五日目-05:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"And you too, Senpai. Um, please try not to get mad at him either.\nYou're brother's only friend.\"\n\"I know. It's probably impossible for me not to get mad, but I've known Shinji's like that since forever.\nI can see us getting close again at some point, so I'll take baby steps with him.\"",
+      "sourceUnit": "セイバールート五日目-05:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes...I look forward to seeing that happen, Senpai.\"\nSakura quickly bows.\n...Yeah.\nThe only thing I get really mad at Shinji about is the way he treats his sister like crap.",
+      "sourceUnit": "セイバールート五日目-05:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's have another good day, Senpai.\"\nSakura heads to the first year floor.",
+      "sourceUnit": "セイバールート五日目-05:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and I climb the stairs to the second year floor.\n\"WHAOWHA!?\"\n...And run right into the student council president.",
+      "sourceUnit": "セイバールート五日目-05:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why are you with Tohsaka, Shirou Emiya!?\"",
+      "sourceUnit": "セイバールート五日目-05:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, good morning Ryudou. What kind of greeting is 'WHAOWHA'?\"\n\"Gngh...I woke up feeling like something was off this morning, but I never thought it could be this dire! Argh...just...come over here, Emiya! Staying so close to Tohsaka might poison you!\"",
+      "sourceUnit": "セイバールート五日目-05:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Issei tugs on my arm. Hard.\nTohsaka looks at Issei and me without a word, then walks toward class 2-A as if nothing happened.",
+      "sourceUnit": "セイバールート五日目-05:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Go right on ahead...nobody's stopping you.\"\n\"...\"\nTohsaka silently passes by.\nBut then...\n\"Shirou. Rooftop. Lunch.\"\nShe whispers that to me so Issei won't hear.",
+      "sourceUnit": "セイバールート五日目-05:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "It's lunchtime.\nAfter seeing Tohsaka and me in the morning, Issei hasn't been speaking to me; he's been treating me like a traitor.",
+      "sourceUnit": "セイバールート五日目-05:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess I went too far.\"\nI feel just a bit of regret.\nIssei interrogated me about why I was with Tohsaka this morning, and my response was...\n\"We got close over the weekend.\"\nThat was...not a great idea.",
+      "sourceUnit": "セイバールート五日目-05:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "I expected Issei's next set of questions to be about how and why we got close, but before I could explain further, Issei staggered away.",
+      "sourceUnit": "セイバールート五日目-05:page63:1"
+    },
+    "page64": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

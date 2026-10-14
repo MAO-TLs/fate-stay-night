@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0096",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh!?\"\nI wake up to a searing pain in my chest.\nIt feels like I've just had a bad dream.",
+      "sourceUnit": "セイバールート六日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why...does my chest hurt?\"\nMy heart feels like it's burning.\nActually, it feels more heat from outside has been forced into my body.",
+      "sourceUnit": "セイバールート六日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...From outside!?\"\nI doubt myself briefly.\nBut before I can think of what it might be, I find myself rushing outside.",
+      "sourceUnit": "セイバールート六日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, are you here!?\"\nI open the sliding screen door to Saber's room.",
+      "sourceUnit": "セイバールート六日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"She's not here. Don't tell me she...\"\nNo, there's no doubt.\nIf she's not here, she...went to Ryudou Temple on her own!",
+      "sourceUnit": "セイバールート六日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"That idiot! Why!? She hasn't healed, so why would she...!?\"",
+      "sourceUnit": "セイバールート六日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I'm so angry my head is starting to hurt.\nI didn't tell her I wasn't going to fight.\nI just...\nI just didn't want her to get hurt like that again!",
+      "sourceUnit": "セイバールート六日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Gngh...!\"\nThere's no point in fuming here.\nI need to hurry to Ryudou Temple.\nI can't let Saber fight alone.\nWell I don't know what good I can do her, but if I get there, maybe I can do something!",
+      "sourceUnit": "セイバールート六日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh! She's a girl! Why can't she just behave herself!?\"\nI run.\nI don't even take the time to change. Out front, I grab a bike and pedal as fast as I can.",
+      "sourceUnit": "セイバールート六日目-09:page8:1"
+    },
+    "page9": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0051",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I can't move.\n\"Run, if you can!\" I'm not obedient enough to do as she says.\nBut at the same time, I can't go after Berserker either.",
+      "sourceUnit": "凛ルート三日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I'm scared to face that monster.\nMore importantly, even if I did go, what would I be able to do?",
+      "sourceUnit": "凛ルート三日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...it...\"\nI stand there by myself, alone in the darkness.\n...I hate to admit it, but I don't have the strength to fight.\nI can't save Saber or fight Berserker.\nIf there's anything I can do, it's escape to safety before it's too late.",
+      "sourceUnit": "凛ルート三日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"!?\"\nFrom above the hill—the barren land where Saber was flung to—I hear unfamiliar noises.",
+      "sourceUnit": "凛ルート三日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...If I recall correctly, that's the foreigners' cemetery.\nSaber and Berserker.\nThey're still fighting.",
+      "sourceUnit": "凛ルート三日目-01:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

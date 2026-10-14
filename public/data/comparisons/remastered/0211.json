@@ -1,0 +1,611 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0211",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The elation I'd felt vanishes and my mind goes blank.\nGoosebumps cover my body, and I realize I've forgotten how to breathe.",
+      "sourceUnit": "セイバールート十四日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Sh...rou...\"\nSaber, standing behind me, probably feels the same.\nShe grips my hand tightly in her own.\nThe same way I feel a sense of impending death...\nSaber feels the inevitable despair.",
+      "sourceUnit": "セイバールート十四日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Your wait is over, Saber.\nAs promised, I've come to claim you.\"",
+      "sourceUnit": "セイバールート十四日目-00:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ar...cher...\"\nThe man in gold.\nThe unidentified Heroic Spirit who annihilated Caster's bone soldiers, and even took out Caster with barely any effort.",
+      "sourceUnit": "セイバールート十四日目-00:page3:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Now that monster stands in front of us.\nHe's so close.\nWe're at exactly the right distance to begin slashing at each other at any moment. Death looms right in front of us, even more than when we faced Berserker.",
+      "sourceUnit": "セイバールート十四日目-00:page4:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong, Saber? I've come all this way to get you.\nYou know it is improper to simply remain quiet.\nOr do you intend to play a bit before you admit you are mine, my King of Knights?\"",
+      "sourceUnit": "セイバールート十四日目-00:page5:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Archer stifles a laugh.\nHe's not even looking at me.\nSaber is his only focus.\nHe admires her like she is a piece of art.",
+      "sourceUnit": "セイバールート十四日目-00:page6:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber's demeanor changes.\nShe must have made up her mind.\nShe's already determined the man in front of us is an enemy, while I've hardly moved a muscle.",
+      "sourceUnit": "セイバールート十四日目-00:page7:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I will do everything I can to block his first attack. Please take that opportunity to retreat.\nI know it will be difficult, but I can only do so much against a Servant like him.\"",
+      "sourceUnit": "セイバールート十四日目-00:page8:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I can hear the apology in her voice for not being able to do more.\nEven someone as powerful as Saber can only block his first attack.\nMy chances of getting away from this guy are slim at best.",
+      "sourceUnit": "セイバールート十四日目-00:page9:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Saber is asking me to forgive her for what is about to happen.\nShe...\nShe probably knows there's no way for her to defeat the man in gold.",
+      "sourceUnit": "セイバールート十四日目-00:page10:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't let her do that.\nThis is different than when we fought Berserker.\nI know, though I don't have proof, that making Saber fight this Servant can only end badly.",
+      "sourceUnit": "セイバールート十四日目-00:page11:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Actually, I do have proof.\nI know from seeing his Noble Phantasm last night.\nSaber can't beat him right now.\nThis is not a matter of her skills as a knight.\nThat's not even the right way to look at this.\nNo Heroic Spirit, so long as they remain a Heroic Spirit, can beat the man in gold.",
+      "sourceUnit": "セイバールート十四日目-00:page12:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You're the one who's going to run, Saber.\"\n\"What? Shirou...!?\"\nI cover Saber and face Archer.\n\"Oh? I see. You have a Master. His shabby appearance led me to think he was no more than a lowly dog.\"\nHe smiles cheerfully.\nHe raises an arm and lazily snaps his fingers.",
+      "sourceUnit": "セイバールート十四日目-00:page13:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel sick.\nI need to leave right now, or I'm dead.\nThere's no rhyme or reason.\nI just know, instinctively, that this guy will kill me for standing in front of him like this.",
+      "sourceUnit": "セイバールート十四日目-00:page14:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Go, Saber!\nWe're near the church. The priest there should be able to shelter you, even from him!\"",
+      "sourceUnit": "セイバールート十四日目-00:page15:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I push Saber away and start running, trying to escape the death I can only hope isn't inevitable.\nThere's no plan here.\nI'm just going to risk it all and run straight at this guy, then I'm going to project Saber's sword again, just like when we fought Berserker.",
+      "sourceUnit": "セイバールート十四日目-00:page16:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm blown back.\nWhat just happened?\nThe moment he snapped his fingers, something appeared right beside me.",
+      "sourceUnit": "セイバールート十四日目-00:page17:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"O...w...\"\nIt's...a giant hammer. It knocks me aside like a piece of trash and I slam hard into the ground.",
+      "sourceUnit": "セイバールート十四日目-00:page18:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah...\"\nI can't move.\nMy body is completely useless, like all my bones have turned to jelly.\nI've lost all sensation in my limbs. The pain is so dull, I can't even tell if I'm still alive.",
+      "sourceUnit": "セイバールート十四日目-00:page19:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I will not kill you. If I destroy you now, Saber will disappear. As much as I hate to, I will keep you alive until the Holy Grail is summoned.\"\nThe man laughs.",
+      "sourceUnit": "セイバールート十四日目-00:page20:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...kuh...\"\nI try to push myself up, but my body won't listen.",
+      "sourceUnit": "セイバールート十四日目-00:page21:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not let it go to your head, mongrel. There are ways to allow a Servant to remain in this world without you. This is just the path of least resistance. If you make so much as another peep though, I will kill you.\"",
+      "sourceUnit": "セイバールート十四日目-00:page22:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...g...\"\nAnd then my mind goes blank.\nHe will kill me.\nIf I make even a single move, he will do just what he said he would.",
+      "sourceUnit": "セイバールート十四日目-00:page23:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't possibly move after that kind of warning.",
+      "sourceUnit": "セイバールート十四日目-00:page24:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou!\"\nSaber tries to run toward me.",
+      "sourceUnit": "セイバールート十四日目-00:page25:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Where do you think you're going? There are no more obstacles between us. It is not this piece of trash you should be running to.\"\nThe man in gold won't allow it.\nHe stands in front of me and waits for Saber to reach me.",
+      "sourceUnit": "セイバールート十四日目-00:page26:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hngh...\"\nSaber stops and glares at him.\nThe two stand about ten meters apart.\nI don't know about Archer, but Saber can close that distant in a heartbeat.",
+      "sourceUnit": "セイバールート十四日目-00:page27:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Seems you're not willing to come to me yet. I can't fathom why. So great a Heroic Spirit as you should realize what a singular honor it is to be chosen by me.\"\n\"What drivel. Even if I become a Heroic Spirit, I am still king. I will never submit to you.\"",
+      "sourceUnit": "セイバールート十四日目-00:page28:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? A king you may be, but you are still a woman.\nA woman's greatest happiness is to bow before her lord...to serve and devote herself to him. Why, then, would you ever refuse to do so? Surely you are not so naïve a maiden that you are afraid to be my woman, are you?\"",
+      "sourceUnit": "セイバールート十四日目-00:page29:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Why, you...!\"\n\"Don't be so angry. I do not only take. I will return to you equal joy. When you are mine, I will give you everything in the world.\nYou should be honored, for I have deemed you worthy.",
+      "sourceUnit": "セイバールート十四日目-00:page30:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "The man moves.\nHe extends both arms and approaches Saber, as if in a welcoming embrace.",
+      "sourceUnit": "セイバールート十四日目-00:page31:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes... You need never become a Guardian, nor return to your fated death.\nI will say this only once more: Saber, accept that you are mine.\nLet us enjoy our second lives, here, together.\"",
+      "sourceUnit": "セイバールート十四日目-00:page32:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse.\nI have no interest in such things. More importantly, I could never, ever live alongside you, no matter what may happen.\"\nSaber looks straight at Archer as she speaks.\nShe stands firm, not taking so much as a step back.",
+      "sourceUnit": "セイバールート十四日目-00:page33:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Ku...fu...hahaha, hahahahahahaha!\"\nHis laughter suddenly stops.\nI'm not sure what he found so funny in the first place.",
+      "sourceUnit": "セイバールート十四日目-00:page34:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Good, good. That's the spunk I expect from a woman I choose!\nAh yes, it might be amusing to have at least one who isn't so obedient.\"",
+      "sourceUnit": "セイバールート十四日目-00:page35:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. By force, then. Once I've obtained the grail, I'll pour its contents all over you.\"",
+      "sourceUnit": "セイバールート十四日目-00:page36:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Rejoice, Saber. Once I've done that, you won't need a Master.\nYou will be taking in all the power of the omnipotent vessel, the Holy Grail. You will no longer have to live as a Servant, serving humans as their familiar.\"",
+      "sourceUnit": "セイバールート十四日目-00:page37:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "He's so damn smug.\nTo that...",
+      "sourceUnit": "セイバールート十四日目-00:page38:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer. What are your intentions?\"\nShe must have realized that the only option is to fight him.\nAnd before she engages with the enemy, she wants to know why he does what he does.",
+      "sourceUnit": "セイバールート十四日目-00:page39:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"My intentions? I've forgotten. Unfortunately for me, I already possess all the world's riches. There is nothing left for me to wish for.\"\n\"What!? You do not seek the Holy Grail?\"",
+      "sourceUnit": "セイバールート十四日目-00:page40:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail? Oh you mean immortality? Hmph. I gave that to a snake.\"\n\"You gave immortality to a...snake?\"\nSaber freezes.\nWhat just happened?\nSaber subtly shakes her head to refute those words.",
+      "sourceUnit": "セイバールート十四日目-00:page41:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"But this world is certainly amusing.\nThe basic principles remain the same. The adornments are so elaborate now, though. Maybe ruling the world once again wouldn't be so bad...\nYes. I suppose you could say that is my intent. And, if it allows me to accomplish that faster, the Holy Grail's power may not be so useless.\"",
+      "sourceUnit": "セイバールート十四日目-00:page42:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"The desire to dominate, then... You have fallen from grace, Archer. I did not think that is what would drive you to seek the Holy Grail.\"",
+      "sourceUnit": "セイバールート十四日目-00:page43:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not a matter of my desiring it. All the world's riches belong to me. I can't abide others making use of what is mine.\nYou would hate for another to use your sacred sword, wouldn't you, King of Knights?\"\n...",
+      "sourceUnit": "セイバールート十四日目-00:page44:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Pale mist shrouds Saber.\nThen, in a flash, she is wearing her brilliant silver armor.\n\"Ah...\"\nHe doesn't move a muscle.\nIn the next instant, Saber dashes forward.\nIn the space of a single breath, she rushes straight at the man and swings her invisible sword at him with deadly speed!",
+      "sourceUnit": "セイバールート十四日目-00:page45:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...!\"\nSaber goes flying backwards.\nIf Saber's armor materialized by magical energy, Archer's must be the same.\nIn the brief space of their rapid exchange, the man in gold arms himself.\n...\nSaber looks calmly at Archer as she readies her sword.\nEven as his eyes meet hers, his sneer remains.\n\"Very well. I will allow you to oppose me, Saber.\"\nThe enemy happily announces the beginning of battle.",
+      "sourceUnit": "セイバールート十四日目-00:page46:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "A white light bursts in the air between them.\nSaber's sword, shrouded in a bolt of lightning, cleaves directly toward the golden knight.",
+      "sourceUnit": "セイバールート十四日目-00:page47:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "One...two...three...four strikes!\nEach time Saber's sword strikes, blinding light flashes from the contact.\nWatching her repeated attacks is like staring at a strobe light.\nIt's just like when I first saw Saber, that night when she fought Lancer.\nSaber channels her excess magical energy into her sword and strikes with such speed and precision that she all but becomes a lightning bolt.",
+      "sourceUnit": "セイバールート十四日目-00:page48:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "The clang of sword against armor echoes through the air.\nArcher hasn't even drawn his weapon yet. As Saber's sword strikes at him, he barely manages to defend his head with both hands.\nHe simply doesn't have the skill to block Saber's attacks.\nSaber's skill with a sword is vastly superior to his.",
+      "sourceUnit": "セイバールート十四日目-00:page49:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "On top of that, her sword is invisible.\nEven if Archer draws his weapon, he won't be able to defend against that invisible blade.",
+      "sourceUnit": "セイバールート十四日目-00:page50:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "It strikes his armor relentlessly.\nThe sword hits the armor, chipping away at it and sending sparks showering in all directions.\nThe only thing the man can do is ward Saber's blows from his face with his hands.\nThis isn't a fight.\nIt's a massacre.",
+      "sourceUnit": "セイバールート十四日目-00:page51:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "But...\nIn spite of the fury of Saber's attacks, Archer's armor remains intact.\nIf he's still unscathed even after such a savage assault...\n...that golden armor must be his Noble Phantasm.",
+      "sourceUnit": "セイバールート十四日目-00:page52:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. I suppose I can't allow this to continue. You certainly do have a limitless supply of magical energy. It's not often an attack can make my armor begin to creak.\"\nArcher raises his arm.\n...But not toward Saber.\nI have no idea what he's trying to do, but Archer just stretches his arm up into the empty night sky.",
+      "sourceUnit": "セイバールート十四日目-00:page53:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Enough playing around. Offer your body to me...right now.\"\nAm I hallucinating? Is this an illusion?\nHe has something in his hand.\nIt's...a short sword, shaped like a key.",
+      "sourceUnit": "セイバールート十四日目-00:page54:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nSaber plants both feet, unleashing a much more powerful attack against Archer.\nBut...\nArcher bats it aside with his dark red sword.",
+      "sourceUnit": "セイバールート十四日目-00:page55:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that a Noble Phantasm imbued with a curse of vengeance!?\"\nSaber puts some distance between herself and Archer, glaring at his sword.\nThe enemy wielding such a weapon is a threat, no question.\nBut it also means he's showing his hand.\nWhether his Noble Phantasm is armor or a sword, we'll be able to figure out how to deal with it as long as we can see it.",
+      "sourceUnit": "セイバールート十四日目-00:page56:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "Saber readjusts her stance.\nArcher's already said his armor is at its limit.\nIf Saber can go back on the offensive with the same fury as before, she should be able to cut through his armor.\nEven if he pulls out his Noble Phantasm now, the next blow will decide the match.",
+      "sourceUnit": "セイバールート十四日目-00:page57:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the end. Let us conclude our match that was interrupted all that time ago, Archer.\"\nThe sword in her hand is still invisible.\nShe readies her sacred sword, still bound up in swirling wind, and faces her enemy.\nSaber seems to know what that Noble Phantasm is.",
+      "sourceUnit": "セイバールート十四日目-00:page58:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "She put that distance between them because she knows how to deal with it; she's readying herself to face Archer directly.\nEach of them wields a sword, and if their powers are equal, then it is a matter of the wielder's skill.\nAnd that should mean Saber will win.",
+      "sourceUnit": "セイバールート十四日目-00:page59:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. Come at me, Saber.\nIn recognition of that sword of yours, I shall show you everything I have.\"\nThe man laughs.\n\"Fine!\"\nSaber charges without hesitation.",
+      "sourceUnit": "セイバールート十四日目-00:page60:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Her sword will cleave through his armor.\nThe very instant I think that.",
+      "sourceUnit": "セイバールート十四日目-00:page61:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Gate of Babylon.\"",
+      "sourceUnit": "セイバールート十四日目-00:page62:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "An invisible door opens behind the man.",
+      "sourceUnit": "セイバールート十四日目-00:page63:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...t!?\"\nSaber jerks to one side.\nArcher holds something else in his hand now, not the black and red sword.\nIt's an invisible sword, like Saber's.\nBy the time Saber deflects it, Archer already has a different sword.",
+      "sourceUnit": "セイバールート十四日目-00:page64:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "His swords strike at her in a merciless rain of ice shards.\nSaber twists away to dodge, but the air around her becomes almost solid with flying blades.\nShe's driven back as the blades close in on her from all sides.\nAs the shards clinging to Saber vanish, her enemy holds a deadly-looking weapon that resembles the grim reaper's scythe.",
+      "sourceUnit": "セイバールート十四日目-00:page65:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nSaber blocks the weapon arcing for her neck with a gauntlet.\nBut it's useless.\nThe scythe shears through her gauntlet like it's made of tissue paper and begins to drain her magical energy.\nIt's as if it's trying to pull out her bones, rather than her blood or flesh.",
+      "sourceUnit": "セイバールート十四日目-00:page66:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...kngh...!\"\nSaber stumbles, but she manages to keep it together.\nBut her retreat takes on a different note.\nShe's not distancing herself to prepare for her next attack.\nShe's desperately fleeing the enemy.",
+      "sourceUnit": "セイバールート十四日目-00:page67:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"That...can't be...\"\nSaber glares at Archer as she passes magical energy through her numbed arm.\nA halo of hilts floats around Archer.\nThose are the swords that slaughtered Caster...\nHis Noble Phantasm... Now it's backing Saber into a corner.",
+      "sourceUnit": "セイバールート十四日目-00:page68:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Even I, looking on from a distance, can't believe what I'm seeing.",
+      "sourceUnit": "セイバールート十四日目-00:page69:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "All those hilts floating behind him are definitely his Noble Phantasm.\nNot ten, not twenty...\nI can't see them all, but I can tell there's no end to them.\nThey're all from different times and places.\nThat Servant has all the divine mysteries that have ever been mentioned in various legends and lore...",
+      "sourceUnit": "セイバールート十四日目-00:page70:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...who are you?\"\nSaber's voice trembles.\nNo Servant would ever reveal their True Name just because someone asks.\nBut Archer's Noble Phantasm is so bizarre, Saber couldn't help but ask.",
+      "sourceUnit": "セイバールート十四日目-00:page71:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Answer me, Archer! A Heroic Spirit should only have one Noble Phantasm. Some may have multiple Noble Phantasms, but two is usually the limit.\nA Heroic Spirit with an endless supply of Noble Phantasms like you should not exist!\"",
+      "sourceUnit": "セイバールート十四日目-00:page72:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Should not exist? Now, Saber, do not rush to judgment.\nHeroic Spirits make the weapons they used during their life into Noble Phantasms. So it's quite simple. All these Noble Phantasms are things I collected while I was alive.\"",
+      "sourceUnit": "セイバールート十四日目-00:page73:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you mocking me, Archer? That is even more absurd.\nNo matter who you are, there is no way you can carry the Noble Phantasms unique to other Heroic Spirits. No such Heroic Spirit exists.\"",
+      "sourceUnit": "セイバールート十四日目-00:page74:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "Saber's right.\nAll the Noble Phantasms he has are real.\nThere are demonic swords from Northern Europe and even from South America.\nNo hero ever made a name for themselves in so many regions. Besides, Lancer should be the only one with Gáe Bolg.",
+      "sourceUnit": "セイバールート十四日目-00:page75:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Heroic Spirits have their favorite weapon they used during their life as their Noble Phantasm.\nBased on that rule, the only one who could have Gáe Bolg is Cú Chulainn.",
+      "sourceUnit": "セイバールート十四日目-00:page76:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "But Archer isn't Cú Chulainn.\nAnd that means his spear can't be Gáe Bolg. But the thing is, it definitely is the real Gáe Bolg.\nIf those Noble Phantasms were all fake, that would explain it. But they're real, so that's just... No, wait...\nCould they all be originals...? The weapons' prototypes?",
+      "sourceUnit": "セイバールート十四日目-00:page77:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"That seems impossible. But then again...\"\nIt might be possible.\nLegend and myth don't spring up from nothing.\nPlenty of myths share commonalities because someone or something served as the model for them.\nLegends which get to the point of becoming the basis of worship usually only take root in the lands where they are said to take place. That's one of the reasons demonic swords and sacred swords reveal their true abilities in the lands they come from.",
+      "sourceUnit": "セイバールート十四日目-00:page78:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "So let's say there's something from before even that.\nWhat if various Noble Phantasms in mythology existed before they were known and named?",
+      "sourceUnit": "セイバールート十四日目-00:page79:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. Your Master's not entirely useless. He seems to have a notion of who I am.\"\n\"Eh?\"",
+      "sourceUnit": "セイバールート十四日目-00:page80:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Saber turns to face me.\nShe's so far away.\nI can't help her from so far away.\nI've finally gotten to the point where I can move, even if it's still difficult.",
+      "sourceUnit": "セイバールート十四日目-00:page81:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Run...Saber... His Noble Phantasms are...\"",
+      "sourceUnit": "セイバールート十四日目-00:page82:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"You're saying they're all real, right?\nIndeed. It really is simple, Saber.\nLet me tell you of the earliest days of Earth, when the world was still one.\nThe single nation prospered, and its king collected so many, many treasures.\n...Until there was nothing left for him to collect; he lacked nothing.\nHe possessed the perfect treasury, but he never used the weapons within it. The king carried them with him into eternal slumber.\"",
+      "sourceUnit": "セイバールート十四日目-00:page83:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all there is to it.\nAfter the king's death, the contents of the treasury were scattered around the world. Each was valued for being a truly exceptional weapon, so in time they came to be treated as Noble Phantasms.\nHmph. Do you understand now, King of Knights?\nThe Noble Phantasms you Servants use? They are nothing more than the king's own possessions.\"",
+      "sourceUnit": "セイバールート十四日目-00:page84:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "It's like an inheritance.\nAs long as you trace an object's history, a base or prototype will always exist.\nIt only makes sense that every legend, myth, or Noble Phantasm passed down in each country has an original.\nFar enough back into the past, if one person collected all those prototypes, they could possess every Noble Phantasm.",
+      "sourceUnit": "セイバールート十四日目-00:page85:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "And that could only be one hero.\nA hero from the oldest of legends, far older than the legend of King Arthur or Heracles.\nThe tyrant who ruled ancient Mesopotamia...\nA king who was half-god, half-human...who collected all the world's treasures, and who eventually sought eternal youth..",
+      "sourceUnit": "セイバールート十四日目-00:page86:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh...the most ancient King of Heroes...\"\nSaber sounds like she's trying to keep the fear from her voice.\nGilgamesh relishes her reaction.",
+      "sourceUnit": "セイバールート十四日目-00:page87:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Indeed. I am the strongest Heroic spirit, and should you fight me, you will find you are no match for me.\"",
+      "sourceUnit": "セイバールート十四日目-00:page88:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "There's nothing else to discuss.\nAll that's left now is for him to use his endless Noble Phantasms to annihilate his enemy.",
+      "sourceUnit": "セイバールート十四日目-00:page89:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Even knowing my name, you still intend to oppose me? You must understand you can't possibly win.\"\n\"I will know nothing of the sort until I try.\nYou may be the King of Heroes, but there must be something that even you cannot surpass.\"\nThe air around Saber wavers.",
+      "sourceUnit": "セイバールート十四日目-00:page90:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "The wind envelops her as it picks up, becoming a whirlwind to protect her.\nAs it does, her golden sword is revealed.\n\"No, Saber.\"\nI don't believe this.\nDoes Saber intend to use Excalibur!?",
+      "sourceUnit": "セイバールート十四日目-00:page91:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "Gilgamesh stops.\nHe must know how powerful Saber's sacred sword is, because his self-assured composure falters.\nSaber glances toward me briefly, but her focus is on Gilgamesh now.",
+      "sourceUnit": "セイバールート十四日目-00:page92:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIs she telling me to run away while I have the opportunity?\nGilgamesh's back is to the river.\nWhile Saber is over here with me.\nThis positioning must be the result of our shuffling around earlier.\nBefore I realize what's happening, Saber is facing Gilgamesh, protecting me.",
+      "sourceUnit": "セイバールート十四日目-00:page93:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You can't. Not here.\"\nI try to force myself to move.\nAnd with all the strength I can muster in my numbed body, all I can manage is lifting a single arm.\nI use every bit of magical energy in my body to use that arm to push myself up.",
+      "sourceUnit": "セイバールート十四日目-00:page94:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Come...on...mngh...!\"\nI've lost all sensation, but every bone in my body creaks as I begin moving.\nThe pain is a warning.\nMy body is coming apart at the seams, and if I move...that'll be it.",
+      "sourceUnit": "セイバールート十四日目-00:page95:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nnngh!\"\nI push myself to my feet, ignoring the warning.\n\"Ah...haaah...ha...aaah!\"\nI try to endure the pain.\nI don't have time for it.\nWhat I need to do is get to my feet as fast as I can and protect Saber.",
+      "sourceUnit": "セイバールート十四日目-00:page96:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "I have a really, really bad feeling about this.\nIt's the same premonition I felt when I faced Gilgamesh myself.\nWe can't beat him, no matter what.\nMy instincts keep telling me that I just can't let Saber fight him.",
+      "sourceUnit": "セイバールート十四日目-00:page97:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. The famed sacred sword. Very well.\"\nThe swirling wind has become a raging vortex.\nEven in the face of that dazzling sword, Gilgamesh is unintimidated.",
+      "sourceUnit": "セイバールート十四日目-00:page98:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "On top of that...\n\"I suppose I should select a weapon well-suited to oppose it.\"\nHe draws a strange sword from the gate behind him.",
+      "sourceUnit": "セイバールート十四日目-00:page99:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "That's where my premonition came from.\nThe sword he has now doesn't exist in any legend.\nI can identify every one of the Noble Phantasms floating behind him, but I have no idea about that sword.",
+      "sourceUnit": "セイバールート十四日目-00:page100:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"I possess the originals of all the Noble Phantasms. But they are all nameless. They are also not the only weapons I possess.\"\nThe sword itself is cylindrical.\nIt consists of three segments, each rotating in different directions.\nIt looks like a drill capable of piercing solid bedrock.",
+      "sourceUnit": "セイバールート十四日目-00:page101:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"This is different, though. Only the King of Heroes may wield this sword.\nIt has no name, so I simply call it Ea.\"",
+      "sourceUnit": "セイバールート十四日目-00:page102:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"So all you want is to compare the strength of our Noble Phantasms?\"\nLight flashes off their weapons.\nThe two of them are still about ten meters apart.\nGilgamesh can't possibly avoid her attacks from that distance.\n\"Yes. There's no need to hold back now. I always wanted to go up against the sword they say is strongest.\"\nHis laughter echoes in the space between them.\nSaber must have taken that as a provocation.",
+      "sourceUnit": "セイバールート十四日目-00:page103:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well.\nThen defend yourself against my sword, if you can!\"\nSaber moves.\nHer lips form the sword's True Name.\nThere's nowhere to run now.\nThe Noble Phantasm, released when its wielder speaks its name, strikes mercilessly at Gilgamesh.",
+      "sourceUnit": "セイバールート十四日目-00:page104:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"It's time. Awaken, Ea.\"\nThe cylindrical sword roars.\nIn response to Gilgamesh's words, the three segments whirl faster.\nIf Saber's Excalibur summons a whirlwind by driving wind away...\nGilgamesh's Ea creates a gale by drawing in wind.",
+      "sourceUnit": "セイバールート十四日目-00:page105:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"EX...\"",
+      "sourceUnit": "セイバールート十四日目-00:page106:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "But Saber is more experienced with handling her anti-fortress Noble Phantasm.\nIt's faster than Ea.\nSaber pours as much magical energy as she possibly can into her weapon in seconds, igniting its massive power.",
+      "sourceUnit": "セイバールート十四日目-00:page107:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"...CALIBUR!!!\"",
+      "sourceUnit": "セイバールート十四日目-00:page108:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't hesitate.\nSaber unleashes the might of a sacred sword so powerful it could split a river in two!",
+      "sourceUnit": "セイバールート十四日目-00:page109:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "At the same moment...",
+      "sourceUnit": "セイバールート十四日目-00:page110:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Enuma Elish.\"",
+      "sourceUnit": "セイバールート十四日目-00:page111:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "A light of matching intensity flares to meet Excalibur's attack.",
+      "sourceUnit": "セイバールート十四日目-00:page112:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "The impact is tremendous.\nRaging winds tear trees from the ground. The colliding lights are like an exploding sun, blinding me.",
+      "sourceUnit": "セイバールート十四日目-00:page113:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...no, I...\"\nI'm on the verge of being carried off by the wind.\nI cling to the ground with my one functioning arm. It's all I can do to weather the storm of wind, light, and heat.",
+      "sourceUnit": "セイバールート十四日目-00:page114:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "How long will this go on?\nTheir overwhelming attacks are so powerful, I fear they might split the world in two. But then...\n\"Ku...ah...!\"\nIt suddenly ends with Saber surrounded by white light.",
+      "sourceUnit": "セイバールート十四日目-00:page115:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "A crash breaks the unexpected silence.\nSomething thuds into the ground beside me.\n\"Sa...ber...?\"\nI know what it is.\nEven half-blind, I couldn't mistake what I'm seeing.",
+      "sourceUnit": "セイバールート十四日目-00:page116:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "She looks dead.\nShe's a bloody mess.\n\"Fu...haha...kuhahahahahahaha!\"\nIn the distance...\nThe golden knight, completely unscathed, laughs like a madman.",
+      "sourceUnit": "セイバールート十四日目-00:page117:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha! So is that all the power humanity's 'strongest' sacred sword can muster!? Human power is truly pathetic!\"\nHis laughter rises so high, it seems to soar up into the heavens.\nThis must be hilarious to him.\nHe's just smiling to himself, not even paying Saber any mind now that she's fallen.",
+      "sourceUnit": "セイバールート十四日目-00:page118:1"
+    },
+    "page120": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

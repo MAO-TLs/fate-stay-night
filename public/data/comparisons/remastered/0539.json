@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0539",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, Zouken had plans for Saber.\nHe wanted you to stay alive. But he had another reason to kill you.\n...I'll ask again: he said that he didn't have any further use for you, right?\"",
+      "sourceUnit": "桜ルート九日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI think back to last night's events.",
+      "sourceUnit": "桜ルート九日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"The Tohsaka girl is still worth using.\nI have no further use for you, boy.\"",
+      "sourceUnit": "桜ルート九日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. He said you were still worth using, too.\"\n\"Okay... I don't know what he's up to, but that must be why he keeps running away from me.\nOnly one of us would walk away alive if we ran into each other, but Zouken's hiding from me because he wants me to live...\"",
+      "sourceUnit": "桜ルート九日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka considers it for a moment.\n\"...\"",
+      "sourceUnit": "桜ルート九日目-04:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

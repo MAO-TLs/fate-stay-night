@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0452",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's the only person I can ask about Shinji.\nNo, the bigger problem is how Sakura was hurt this morning, but that makes it about Shinji, too...",
+      "sourceUnit": "桜ルート五日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. If you wanna settle things now, then let's go. I can't believe you came to school without your Servant—\"\n\"Sorry! I'm begging you, Tohsaka, give me your advice!\"\nI close in Tohsaka until I've got her backed up against a wall.\nGiven the subject matter, I can't let the students around us hear.",
+      "sourceUnit": "桜ルート五日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hold on, what are you thinking!? I was just putting you on, but there's a lot of people still around!\"",
+      "sourceUnit": "桜ルート五日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Please! You're the only one I can count on. I don't know how to stop her from getting sucked into the Holy Grail War. You know a lot of stuff, so can you think of a way to protect her!?\"\n...",
+      "sourceUnit": "桜ルート五日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka stares at me for a moment, flabbergasted.\n\"Ah... S-sorry. You had such perfect timing, I lost my cool.\nRight, um, so Sakura's this first-year I know, and I feel like she's going to get mixed up in the Holy Grail War. I want to do something about that, but I don't have any good ideas, and—\"",
+      "sourceUnit": "桜ルート五日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't need your excuses. Do you mind backing up now?\nHomeroom's about to start.\"\n\"...! M-my bad, I didn't realize!\"",
+      "sourceUnit": "桜ルート五日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I scramble back from Tohsaka.\n...Belatedly, I come to my senses while my cheeks go beet red.\nWhat was I thinking, cornering her against a wall like that!?",
+      "sourceUnit": "桜ルート五日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry. I know it's really pushing it, but hear me out. I—\"\n\"You need advice, right? Fine, I'll listen.\"\n\"Eh? R-really, Tohsaka!?\"\n\"...Did you really expect me to say no when you were making a face like you'd die if I turned you down?  The roof, at lunchtime. We'll talk then.\"\nTohsaka turns on her heel and goes up the stairs.",
+      "sourceUnit": "桜ルート五日目-02:page7:1"
+    },
+    "page8": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート五日目-02:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

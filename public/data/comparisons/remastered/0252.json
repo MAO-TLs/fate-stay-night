@@ -1,0 +1,157 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0252",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Well, we are at school already.\nI might as well give in and show Saber around.",
+      "sourceUnit": "凛ルート四日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to go take a walk. I'll come back after I walk around school a bit.\"",
+      "sourceUnit": "凛ルート四日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Take a walk? Fine, I guess, but laaame. Kiritsugu was also kinda dull, so maybe he passed that on to you?\"\n\"Ignoring whether he passed that to me, I don't think it's all that bad.\nI don't want to compare the two, but going on a date is like taking a walk as well.\"",
+      "sourceUnit": "凛ルート四日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What? No, dates are different. That's more like going on a tour to eat good food.\"",
+      "sourceUnit": "凛ルート四日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm saying just wandering around is a walk. Anyway, I'm going.\n...Just so we're clear, I'm not leaving the grounds. So I'm not getting you food. There aren't any food stands or shops here.\"",
+      "sourceUnit": "凛ルート四日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah. The cafeteria is closed, and so is the home economics classroom.\n...Fine then, you don't have to bring me back anything, so come back quickly, okay, Emiya?\"\nAt the end, she calls me by my last name, like a teacher.\nI just wave my hand in response and call out to Saber.",
+      "sourceUnit": "凛ルート四日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Tour of the school?\"\n\"Yeah. We came all the way here. I thought I might as well show you around inside. It's boring just staying in the archery range, right?\"",
+      "sourceUnit": "凛ルート四日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I suppose. I was not bored, but it would give us purpose to take a look around. I shall check in person to see if the school that my Master goes to is safe or not.\"",
+      "sourceUnit": "凛ルート四日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Oh, wow.\nI just came up with the idea, but surprisingly, Saber seems to like it.\n...Well, my expectation and her expectation seem to differ, but I should just show her around school without worrying too hard.",
+      "sourceUnit": "凛ルート四日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Here is the back of the building. Behind the archery range, there's woods. I'm guessing it's somewhere between 300 to 600 square meters. It might be as big as the grounds out front. Probably only allowed by zoning laws because of the mountain out back.\"\nI start with the nearby area out behind the range out toward the mountain.",
+      "sourceUnit": "凛ルート四日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. Somewhere between 300 to 600? That does not narrow it down particularly well.\"\n\"Tough crowd. You look disappointed for some reason.\"",
+      "sourceUnit": "凛ルート四日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It must be your imagination. I was not expecting anything when you suggested this tour.\nNo, I do not mind at all that you brought me to such a place. As I was not expecting anything from the beginning, there is nothing to be disappointed by.\"",
+      "sourceUnit": "凛ルート四日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks away.\n...She's grumpy. Or maybe sulking is more accurate.",
+      "sourceUnit": "凛ルート四日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what is here, Master? These woods are secluded, but there is nothing that bothers me about it.\"\n\"Nothing, really. I just was letting you know that there's a forest in the back of the school. Okay, let's go to the next place.\"",
+      "sourceUnit": "凛ルート四日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"So, this is the school ground. The track team is running right now, so try not to get too close. During PE, we do team matches here.\"",
+      "sourceUnit": "凛ルート四日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Team matches...? What kind?\"\n\"Mm, our school is known for athletics. Baseball is the strongest, so usually baseball. Sometimes dodgeball. Well, sports where we split into two teams and beat the other.\"",
+      "sourceUnit": "凛ルート四日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. When I hear team match, I imagined team members following the orders of a leader, but I suppose I was wrong.\"",
+      "sourceUnit": "凛ルート四日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI feel like what Saber is imagining is a bit unsettling.\nI don't think I should pry any further.",
+      "sourceUnit": "凛ルート四日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well anyway, it's a sport where you compete for points. The ones running right now are competing to see how many seconds it takes them to run fifty meters.\"\nSaber looks around and seems to be talking to herself.",
+      "sourceUnit": "凛ルート四日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it, Saber? Are you looking for something?\"\n\"Oh, no... Um, there is a sport that I witnessed in the past, so I was wondering if there was an athletic ground for it here or not.\nI am under the impression I do not understand sports very well, but this one was interesting to me, so...\"",
+      "sourceUnit": "凛ルート四日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, a sport that you want to try?\nCould it be tennis? If so, there's some courts in the back.\"",
+      "sourceUnit": "凛ルート四日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no, it is not tennis. Come to think of it, it was not a sport that would work here.\n...I just feel a sense of nostalgia, as I recall a time when I was reprimanded for playing a similar ball game with a sword long ago...\"",
+      "sourceUnit": "凛ルート四日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"A ball game using a sword...?\"\nWhat even could that be?\n...Beyond that, it makes me laugh when I imagine stoic Saber playing with a sword.",
+      "sourceUnit": "凛ルート四日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"P-please forget what I just said, Master! Anyway, we have finished here, so let us go to the next location...!\"",
+      "sourceUnit": "凛ルート四日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Saber urges me to take her inside.\nSo I start with the halls.\nWe arrive at my classroom on the third floor.",
+      "sourceUnit": "凛ルート四日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"So this is your classroom... I was unsure when we were making our way here, but this is within my tolerance level.\"\n\"Tolerance level? ...Does that mean it's dangerous or safe?\"",
+      "sourceUnit": "凛ルート四日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I felt the same magical energy in the halls as when we entered the school. However, there is no lingering energy in this classroom. It is primarily just Rin's magical energy throughout the area.\nFor the time being, I do not see anything that would put you in danger.\"",
+      "sourceUnit": "凛ルート四日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "She must have become satisfied, as the tension in her body language fades away.\nI think she's taking it a little far, but she's investigating the school for the sake of my safety.",
+      "sourceUnit": "凛ルート四日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...Well, to be honest, it makes me happy.\nIt's only been a day since we made a contract, and we don't know anything about each other.\nBut during this short period of time, I can understand more than words that Saber is thinking first and foremost about my safety.",
+      "sourceUnit": "凛ルート四日目-06:page28:1",
+      "recoveredDelimitedTail": true
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

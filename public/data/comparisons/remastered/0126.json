@@ -1,0 +1,196 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0126",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sounds of clashing shinai echo through the dojo.\nEach bout goes essentially the same as they had the days before.",
+      "sourceUnit": "セイバールート九日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Saber casually sweeps my desperate strikes aside and counterattacks far, far more effectively.\nI barely manage to block and continually strike back, only for Saber to riposte...and I lose. Every time.",
+      "sourceUnit": "セイバールート九日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haaa...hah...haaa!\"\nI stop, breathing heavily, shoulders heaving.\nWiping sweat from my brow, I work to get my breathing under control.",
+      "sourceUnit": "セイバールート九日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you resting? You would not have given up so quickly yesterday. Come. Attack me. Quickly!\"",
+      "sourceUnit": "セイバールート九日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...hold on. I need to catch my breath. A little break, please.\"",
+      "sourceUnit": "セイバールート九日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"This is so unlike you. If you will not attack, then I will come at you. You do not mind, do you?\"\nSaber stares down at her poor student.\nMy body just won't listen, no matter how she looks at me.",
+      "sourceUnit": "セイバールート九日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...What has gotten into you, Shirou? You are like a different person than you were these past days.\nThe way you struck at me so fiercely and determinedly amazed me, but today I feel nothing of that strength.\"",
+      "sourceUnit": "セイバールート九日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that, I really do. I just can't do almost anything today.\"\nMy situation has drastically changed since yesterday.",
+      "sourceUnit": "セイバールート九日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Is your body still burning? That is no excuse for your movements becoming sluggish. You must cool your head and refresh your mindset.\"",
+      "sourceUnit": "セイバールート九日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, before I do that, can you do something about THAT, first?\"\nI point toward our audience, standing by the wall.",
+      "sourceUnit": "セイバールート九日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Don't mind me; just continue your training.\"",
+      "sourceUnit": "セイバールート九日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka doesn't get it.\nI can't concentrate on fighting Saber with her staring at me like that.",
+      "sourceUnit": "セイバールート九日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Is Rin a distraction? That is only further proof of your need for training.\nVery well then. I shall make it so that you need not worry about observers.\"",
+      "sourceUnit": "セイバールート九日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, hold up, Saber! I still haven't caught my breath—\"\n\"That will not be an issue. Breathing is something you will simply adjust to during battle.\"\nSaber suddenly vanishes.",
+      "sourceUnit": "セイバールート九日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe moment I realize I'm in danger and raise my shinai to guard my face, Saber strikes me right on the head.",
+      "sourceUnit": "セイバールート九日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "It was a rough morning.\nAfter getting knocked out, I stopped worrying about Tohsaka watching. My focus went entirely to blocking Saber's attacks, and the next thing I knew, it was lunchtime.",
+      "sourceUnit": "セイバールート九日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Seriously, you are so...composed.\nThree hours of fighting Shirou, and you aren't the least bit ruffled. You're usually pretty quiet, but you're much more so in battle. You're almost robotic.\"",
+      "sourceUnit": "セイバールート九日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure if it's because she enjoyed seeing me getting knocked around, but Tohsaka is in a good mood.\nThe two are resting in the living room.\nAs for me, I'm preparing lunch by myself as punishment for my lax approach to training this morning.\n...Unbelievable.\nI want to just make something easy, like cold somen noodles.",
+      "sourceUnit": "セイバールート九日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Robotic, you say? You may be correct. It is not something I have ever been conscious of, but perhaps I shut off my emotions while I wield a blade. My approach should not change, whether in true battle or simple practice.\"",
+      "sourceUnit": "セイバールート九日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? What, is that a mindset you employ as a woman wielding a sword? Are you trying to use your mental state to compensate for your inferior physique?\"",
+      "sourceUnit": "セイバールート九日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Rin. Maintaining one's composure is a key part of battle. It matters not whether you are man or woman.\nI believe you also shut off your emotions in battle, Rin. I know you are the type who can do so.\"",
+      "sourceUnit": "セイバールート九日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. You don't have to just blurt it out, you know. Well, it's true, but...\nBut you and I are different. What I try to shut off is my tendency to be too soft. I don't see things in such logical, abstract terms as you do.\"",
+      "sourceUnit": "セイバールート九日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"It appears that way. Which is why you are so showy and splendid.\nYou are able to maintain your feminine grace, even in battle.\"",
+      "sourceUnit": "セイバールート九日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you being sarcastic? I can't come near you in terms of grace. I don't mind admitting it since Shirou is out of earshot, but I was amazed by how beautiful you are the first moment I saw you.\"\n...Uh, I can hear you, Tohsaka.",
+      "sourceUnit": "セイバールート九日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You mistake me, then. If you see grace in me, then you are simply seeing the elegance associated with the Saber class, rather than my physical appearance.\"",
+      "sourceUnit": "セイバールート九日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. I really thought that, as a woman, I couldn't even begin to compete with you. I wouldn't have been so shocked otherwise.\"",
+      "sourceUnit": "セイバールート九日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...And that is where you are mistaken. I have never thought of myself as a woman, and I have never been treated as one.\nI therefore cannot be so elegant as you seem to believe.\"",
+      "sourceUnit": "セイバールート九日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Saber's words bring the conversation to an end.\n...\nAs I listen in, kitchen knife in hand, I find myself getting irritated by what Saber's saying.",
+      "sourceUnit": "セイバールート九日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I've always wondered...what does she think she is?\"\nI chop the chicken a bit harder than I need to.\nFor some reason, I'm annoyed.",
+      "sourceUnit": "セイバールート九日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I have never thought of myself as a woman.",
+      "sourceUnit": "セイバールート九日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Not that it has anything to do with me...!\"\nI slam my knife down onto the cutting board as if it were a hammer.\nIt doesn't help me feel any better.",
+      "sourceUnit": "セイバールート九日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"So this is today's task.\nI brought more than yesterday, and it seems like you're body's calmed down, so you'll probably get it right this time.\"",
+      "sourceUnit": "セイバールート九日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I have no idea how she carried them here, but Tohsaka reveals about forty lamps.",
+      "sourceUnit": "セイバールート九日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to step outside for a bit. I'll be back in a little while, so I expect you to be done by the time I'm back.\"\nTohsaka leaves her room.",
+      "sourceUnit": "セイバールート九日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hnnn...\"\nAll right.\nIt's only been a night, but I hope I can succeed at least a couple of times.",
+      "sourceUnit": "セイバールート九日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Phew...I think I got half done.\"\nI took an hour to work on Strengthening about twenty lamps.\nHalf of them shattered, and nothing at all happened to the other half.\nOf those that didn't change, maybe five looked like they'd been infused with magical energy. Now for the remaining twenty...",
+      "sourceUnit": "セイバールート九日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. Wouldn't five be enough for a test?\"\nAll the lamps look to be antiques.\nI'd feel bad about breaking more of them.",
+      "sourceUnit": "セイバールート九日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nYeah...",
+      "sourceUnit": "セイバールート九日目-00:page37:1"
+    }
+  }
+}

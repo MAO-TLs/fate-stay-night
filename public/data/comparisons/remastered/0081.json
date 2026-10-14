@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0081",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "That guy...\nI should ask about Tohsaka's Servant...Archer.\nSaber defeated him in a single attack, though she did surprise him, so I have no idea how powerful he is.",
+      "sourceUnit": "セイバールート五日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Saber. I want to know more about Archer... Did you notice anything about him?\"",
+      "sourceUnit": "セイバールート五日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer?\n...No, no more than what you did.\nHis basic combat abilities may be a bit better than mine, but I have not experienced his Noble Phantasm or his combat skills.\nBut I can tell you that we should not be confident around him simply because we beat him once.\"",
+      "sourceUnit": "セイバールート五日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Well, it did happen really, really quickly.\nAnd that guy...I can't put a finger on it, but...\"\nIn that moment...\nWhen Saber attacked him, I had this uncanny feeling.",
+      "sourceUnit": "セイバールート五日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Like it was a surprise attack, but it wasn't.\nThat red knight looked like he had already sensed Saber's presence.\nBut he froze the moment he saw Saber, so he couldn't react to Saber's onslaught.",
+      "sourceUnit": "セイバールート五日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Saber. Maybe he knows you. I have a feeling it wasn't the surprise attack that made the blow land, but just him being surprised at seeing you.\"",
+      "sourceUnit": "セイバールート五日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. That would make more sense.\nBeing a bowman, it is natural that he would be inferior to me in single combat.\nBut he was considerably weaker even than that.\nIt occurred to me that something may have prevented him from using his full potential...\"",
+      "sourceUnit": "セイバールート五日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Right? And I've actually seen him and Lancer fight. Archer might not have gone on the offensive, but his defense was incredible. So I assume there was something wrong with him since your attack hit him so easily.\"",
+      "sourceUnit": "セイバールート五日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"So you are trying to say that he took it easy on me.\"\nRather than being upset by an easy victory, she seems to be more bothered that he might have taken it easy on her. Saber glares at an unseen enemy.",
+      "sourceUnit": "セイバールート五日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. Once your alliance with Rin is over, I shall make him regret that insult.\"\n\"Wait! I, uh...don't think he went easy on you on purpose, and I don't think there's a real need to hate him.\"\nI suddenly find myself defending Archer.",
+      "sourceUnit": "セイバールート五日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Are you saying Archer's actions are to be forgiven? Rather, you seem to be defending him out of sheer good will. I do not want to believe it to be true, but I must ask: Do you prefer Archer to me as your Servant?\"",
+      "sourceUnit": "セイバールート五日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that's impossible! I'll have you know that he rubs me the wrong way! I've never talked to him before, but I know that he and I wouldn't get along, even just from seeing him at a distance.\"",
+      "sourceUnit": "セイバールート五日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That is a relief. I knew there was no cause for concern, but I am relieved to hear it said.\"\n\"Okay... You took me by surprise too. But why are you so relieved by that, Saber? Is me hating Archer a good thing?\"",
+      "sourceUnit": "セイバールート五日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You are right. It certainly is a strange thing for me to dwell upon.\nWell, it is probably a matter of our compatibility in battle. My specialty as a Servant lies in melee combat, while Archer specializes in ranged combat.\nIf you were to be more compatible with Archer, that would mean you wouldn't be compatible with me. If that was the case, none of us would be able to play to each other's strengths.\"",
+      "sourceUnit": "セイバールート五日目-10:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0488",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'm back in my bedroom.\nIt's 2:00 AM. It's getting late, but there's still time to do my daily training.",
+      "sourceUnit": "桜ルート六日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh... damn it, I thought I was healed up already.\"\nI'm assailed by a sense of despondency that feels similar to drowsiness. Maybe I'm feeling relaxed now that I'm back in my room.\n...Saber did tell me to rest. I'll skip training tonight and focus on recovery.",
+      "sourceUnit": "桜ルート六日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I'll only get even more tired if I push myself too hard. Better to rest up.\"\nI languidly lift up the bed covers and collapse into my futon.\nThe futon smells like sunshine.\nIt must be because Sakura hung it out to dry today.",
+      "sourceUnit": "桜ルート六日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura... I hope...her fever's better...\"\nI murmur aloud to myself.\n...This feels nice.\nI must be more tired than I thought. Tension drains from my body the second the sheets envelop me.",
+      "sourceUnit": "桜ルート六日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... Better...thank her tomorrow...\"\nMy eyes close.\nA sense of relaxation comes over me like napping in the sunshine, and I fall into a deep sleep.",
+      "sourceUnit": "桜ルート六日目-18:page4:1"
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

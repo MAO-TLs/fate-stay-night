@@ -1,0 +1,486 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0098",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell is that!?\"\nWhen I reach Ryudou Temple, I'm greeted by the sound of air rushing at me like a typhoon.",
+      "sourceUnit": "セイバールート六日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"That must be...Saber over there.\"\nAt the top of the stairs, in front of the temple gates, I see an armored figure who must be Saber fighting someone wearing a kimono.\nThe wind swirls around Saber, and the surrounding trees creak under the gale force intensity.",
+      "sourceUnit": "セイバールート六日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait...damn...I don't think I can get close!\"\nThe wind is so intense, I can't even keep my eyes open.\nHead down, I manage to fight my way closer to the stairs, but the wind only gets stronger.",
+      "sourceUnit": "セイバールート六日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't...at this rate—\"\nI can't get closer to Saber.\nFar ahead, I can see Saber fighting someone, but I can't do anything.",
+      "sourceUnit": "セイバールート六日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "No, even if I manage to get closer to Saber in this wind, I'll only hold her back...\n\"...Ng!\"\nMy left hand hurts again.",
+      "sourceUnit": "セイバールート六日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The Command Spells engraved on the back of my hand tingle.\nI don't know what that means.\nBut every time my hand tingles...\nI can't help but to remember that scene...!",
+      "sourceUnit": "セイバールート六日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Dammit!!! Screw this!!!\"\nI close my eyes and stretch my hands towards the stairs.\nI get down onto my hands and knees, hoping to avoid being blown off my feet, and begin crawling up the stairs.",
+      "sourceUnit": "セイバールート六日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugn!\"\nThe wind intensifies.\nEven a novice mage like me can tell incredible amounts of magical energy are raging above me.",
+      "sourceUnit": "セイバールート六日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "My Command Spells tingle.\nThe roar of the wind warns me something is happening up above.",
+      "sourceUnit": "セイバールート六日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait...could this be...\"\nSaber's magical energy?\nIf it is...",
+      "sourceUnit": "セイバールート六日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would she do something so reckless in her state!?\"\nNo...should she even be doing something like that?\nSaber can't recover magical energy.\nShe shouldn't be wasting it like this.\nI need to step in and handle the fighting and have Saber support me instead...or else she might run out of magical energy...",
+      "sourceUnit": "セイバールート六日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hngh!\"\nI stand up and start running up the stairs.\nNow's not the time to be crawling.\nI don't know what Saber has in mind, but I have to stop her.",
+      "sourceUnit": "セイバールート六日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh!?\"\nAs I try to dash to the temple gate, something like a dagger flies right by me.\nI don't know what miracle let me dodge it.",
+      "sourceUnit": "セイバールート六日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Who's there!?\"\nI turn to look away from the stairs, into the trees.\nThere's no doubt about it.\nI didn't notice it in this torrential wind, but there's someone hiding nearby!",
+      "sourceUnit": "セイバールート六日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You coward! Quit hiding and come out!\"\nI shout for whoever is hiding in the tree line.\nThe strong winds should have drowned my voice out.\nTo my surprise, my voice echoes up the stairs.",
+      "sourceUnit": "セイバールート六日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...The wind...died down?\"\nI look up towards the temple gate.\nThere...\nI see a man in a kimono wielding a long sword, and Saber's back.",
+      "sourceUnit": "セイバールート六日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"That's enough, Saber. Someone's trying to steal a glance at your secret sword.\"\nThe man in the kimono smiles as he speaks.\nLike me, he's staring out into the forest.",
+      "sourceUnit": "セイバールート六日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"If we continue, neither of us will emerge victorious.\nWhoever hides so cravenly in the trees may attack whoever survives our duel. Or they may simply be observing hoping to learn about your hidden blade.\nIn either case, I do not care to involve myself.\"",
+      "sourceUnit": "セイバールート六日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The man turns to climb the stairs, seeming totally disinterested.\n\"Stop! Do you not intend to settle our match, Assassin!?\"",
+      "sourceUnit": "セイバールート六日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Should you attempt to pass through the temple gates once again, we shall settle things. I will not allow any to pass this gate, no matter who they may be.\nThat, unfortunately, is my only role.\nIf you plan on turning back, I have no intention of stopping you. That fool hiding in the trees, though, is another matter. Should I find myself disliking them, I will not allow them in, even dead, nor will I let them leave alive.\"\nAssassin continues up the stairs.",
+      "sourceUnit": "セイバールート六日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"You were manipulated, Saber. But the same goes for me, as I did not notice whoever is lurking in the shadows. Had we continued, I could have shown you the power of my secret technique. But we were interrupted. You should consider yourself fortunate.\"",
+      "sourceUnit": "セイバールート六日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ghh!\"\nSaber hangs her head in regret.\nHer intent to kill fades.\nNot because of Assassin's words, but because Saber must have realized that keeping up the fight would leave her at a disadvantage.",
+      "sourceUnit": "セイバールート六日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Come now, your escort's here too. That boy over there must be your Master. I suggest you leave this place before the fool spying on us decides to target him.\"\nAnd just like that, Assassin disappears.\nIt must be his way of telling us that he won't attack unless we keep going.",
+      "sourceUnit": "セイバールート六日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber says nothing.\nShe just stands there silently, her back to me.",
+      "sourceUnit": "セイバールート六日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Saber?\"\nEven when I call to her, she doesn't answer.\n\"Huh?\"\nIt seems strange, so I begin climbing the steps.",
+      "sourceUnit": "セイバールート六日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nSaber's armor vanishes.\nDefenseless and in her simple blue clothing, she sways on the spot without turning around.",
+      "sourceUnit": "セイバールート六日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah!\"\nI catch Saber in my arms as she falls backward down the stairs.\nShe doesn't move a muscle; she's unconscious, eyes shut in pain.",
+      "sourceUnit": "セイバールート六日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah...haaah...hah...\"\n...We finally get home.\nIt took me two hours to carry Saber back from Ryudou Temple.\nI was worried the whole return trip, but we managed to get back safely.",
+      "sourceUnit": "セイバールート六日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haaa...ah...haaa...\"\nI lay Saber down in the hallway.\nSaber was really light. She probably only weighs about forty kilos, so it shouldn't have tired me out so much.",
+      "sourceUnit": "セイバールート六日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Or it wouldn't have, if she'd been still.\nI had no idea that carrying a sleeping person, even a girl, could be so much work.\nMy fatigue is more mental than physical.\nThe feel of her soft skin when I picked her up, her quiet breathing on me...it was all so distracting.",
+      "sourceUnit": "セイバールート六日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Why'd she just faint like that?\"\nI look at Saber as she lays there sleeping.\nShe's probably not completely unconscious.\nEven if she looks like she's out cold, she might open her eyes the moment I call her name.",
+      "sourceUnit": "セイバールート六日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Damn.\nThere was so much I wanted to tell her when I left the house, but I can't say anything with her sleeping...looking like that.",
+      "sourceUnit": "セイバールート六日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I'll give you an earful after you wake up, Saber.\"\nEven now, I keep my voice to a whisper.\nThe moment I reach out to pick her up again...",
+      "sourceUnit": "セイバールート六日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, I don't care what you're into or what you plan on doing next. It's really not my business. But...\"\nFor some reason...\nTohsaka is in the hallway, watching, even though it's after two in the morning.",
+      "sourceUnit": "セイバールート六日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"T-T-T-T-T-T-T-Tohsaka!?\"\n\"What? You look like you just saw a ghost. I'm not going to say anything, so you just go ahead and do...whatever you were going to do. I just got up to get a glass of water.\"",
+      "sourceUnit": "セイバールート六日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...ah! You've got it all wrong! This isn't what you think! Really!\"\nI mean, it's a long story, but the short version is that I was just trying to take Saber back to her room—Are you even listening to me!?\"",
+      "sourceUnit": "セイバールート六日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, yes. Sort of.\"\n\"Ugh...you're lying! You sound like you don't understand at all!\"",
+      "sourceUnit": "セイバールート六日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I got it, okay? Saber went out to fight on her own, and you rushed off to stop her, right?\nSomething bad happened, then you both came back after Saber fainted. So, did I nail it?\"",
+      "sourceUnit": "セイバールート六日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...yeah. That's amazing. That's exactly what happened. But how did you know?\"",
+      "sourceUnit": "セイバールート六日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"How could I not? Saber was obviously going to go off on her own, and a Master is immediately alerted to a Servant entering battle. It wasn't hard to figure out.\"",
+      "sourceUnit": "セイバールート六日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. I guess that's fine, then.\"\nSo Tohsaka knew Saber would go out by herself.",
+      "sourceUnit": "セイバールート六日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"So what are you going to do? Aren't you going to take Saber to her room? If you let her sleep here, I'm sure even a Servant would catch a cold.\"",
+      "sourceUnit": "セイバールート六日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Well yeah, that's why I was going to take her to her room...\"\nI try to lift her up but...\nErm...\nIt's kind of awkward with Tohsaka watching.",
+      "sourceUnit": "セイバールート六日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Would you mind carrying Saber?\"\n\"Me? I mean, I guess, but would you make some tea then? I want to hear what happened.\"",
+      "sourceUnit": "セイバールート六日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka picks Saber up.\nHer being so understanding has me a little worried, but since I asked her for a favor, I'd better go make some tea.",
+      "sourceUnit": "セイバールート六日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka carries Saber off toward my room.\nMeanwhile, I work on preparing tea in the kitchen.",
+      "sourceUnit": "セイバールート六日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"She said tea, but I'm assuming she doesn't want green tea. But the only black tea I have is from tea bags.\"\nWell, if I don't have it, I don't have it.\nI tell myself she can complain all she wants, and start pouring the hot water over the bag.",
+      "sourceUnit": "セイバールート六日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, do you have a minute?\"\nTohsaka comes back.\n\"Yeah, hold on a minute I'll be right there.\"\nI put two tea cups on the tray and carry it out to the living room.\nAnd there...\n...sitting next to Tohsaka, is Saber in her normal clothes.",
+      "sourceUnit": "セイバールート六日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Saber!? Why? I thought you were asleep...!?\"",
+      "sourceUnit": "セイバールート六日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"She was. But it's not like she was going to sleep forever. She woke up.\nLooks like she used a ton of magical energy at once, and just temporarily shut down. It's kind of like an electrical breaker tripping before it shorts out.\"",
+      "sourceUnit": "セイバールート六日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber is quiet as Tohsaka explains.\n\"Y-you...\"\nSeeing her back to her usual self, all the frustrations I had earlier come rushing back.",
+      "sourceUnit": "セイバールート六日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, do you have any idea what you tried to do!?\"",
+      "sourceUnit": "セイバールート六日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do.\nI made my way to Ryudou Temple and fought Assassin. During our battle, we noticed the presence of a third Servant observing us, and so suspended our battle.\"",
+      "sourceUnit": "セイバールート六日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh! No! That's not what I'm talking about!\nI want to know why you went and fought!\"\n\"Are we to revisit this once again? A Servant fights. It is what we do. What I would like to know is why you, my Master, keep telling me not to fight.\"",
+      "sourceUnit": "セイバールート六日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that, I...\"\nI do understand there's no way around fighting since I've decided to participate in the Holy Grail War.\nAnd I know me telling Saber not to fight is me contradicting myself.\nBut. Even so...\nI don't want to see something like...that happen to her ever again.",
+      "sourceUnit": "セイバールート六日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I would like to ask you instead. You seem to dislike combat. Do you truly expect to survive the Holy Grail War with that attitude?\nDo you not see that if we continue to follow this policy, we will only end up suffering defeat at the hands of the other Masters?\"",
+      "sourceUnit": "セイバールート六日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "It's not like that.\nI'll fight off anything that might pose a risk to us. I certainly don't intend to just let myself be killed so easily.\nBut aside from that, I just don't want Saber to fight.",
+      "sourceUnit": "セイバールート六日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Wrong...\nIt's not that I dislike fighting. I just, um...\"\nThis is much simpler than that.\nI...",
+      "sourceUnit": "セイバールート六日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"You see, girls shouldn't get hurt. I'm a guy, so I can't let that happen. So, I'm going to fight rather than let you fight.\"\n\"What!? Are you saying I cannot fight because I'm a woman!?\"",
+      "sourceUnit": "セイバールート六日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you out of your mind? A Servant protects her Master! We will be hurt in the doing, and are summoned for that precise purpose.\nOne's sex has nothing to do with being a Servant. More importantly, are you treating me as a warrior, or as a woman!?\nI insist you take back what you have said, Shirou. Please!\"",
+      "sourceUnit": "セイバールート六日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Saber leans toward me, her eyes blazing with fury.\nBut I won't let her change my mind.\nIt's absurd for her to say she's a warrior before she's a woman.\nHow could someone so frail—light enough for me to carry easily—go and behave so recklessly!?",
+      "sourceUnit": "セイバールート六日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"No way in hell will I take back what I said! Sure, you might be strong, but you're still a girl! Don't get worked up over something so pointless, you fool!\"",
+      "sourceUnit": "セイバールート六日目-10:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? It is you who are getting worked up over something pointless! Are you saying you refuse to let a woman protect you? I am already a Heroic Spirit, so you must let go of such trivialities!\"",
+      "sourceUnit": "セイバールート六日目-10:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not trivial at all! Argh! Even if you don't think it's important, I do! Besides, it was a mistake from the beginning to have someone else fight on my behalf. I can't...\"",
+      "sourceUnit": "セイバールート六日目-10:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I can't allow someone to protect someone as helpless as me.\nI don't want someone to get hurt in my place.\nI'm the one who should be doing the saving.\nI've been working so hard to become the kind of person who can help people, just like my old man...",
+      "sourceUnit": "セイバールート六日目-10:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Dammit. Listen. Just don't fight, Saber.\nI'll do the fighting. You shouldn't have a problem with that, since it'll be the fighting you want, Saber.\"",
+      "sourceUnit": "セイバールート六日目-10:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? That is absurd! Do you think a human can fight a Servant!? You should already understand that you are no match for a Servant!\nPlease recall what happened when Lancer attacked you.\nHad I not appeared, you would have been killed. So it would be against any Servant!\"",
+      "sourceUnit": "セイバールート六日目-10:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you can't know that for sure unless we try! I just wasn't prepared. But now I can come up with tons of strategies! I might even be able to ambush one of them too!\"",
+      "sourceUnit": "セイバールート六日目-10:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not make me laugh. Any defense you employ would be no more useful than a sheaf of paper.\"\n\"Wha...! I can't believe you'd say that, Saber!\"",
+      "sourceUnit": "セイバールート六日目-10:page68:1"
+    },
+    "page69": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Saber and I glare at each other.\nOur conversation is going nowhere, and there is no sign of reaching any kind of compromise.",
+      "sourceUnit": "セイバールート六日目-10:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"You've got it wrong, Saber. Shirou isn't insulting Servants. This isn't going anywhere so long as you don't understand that much, so I'm stepping in.\"\n\"Rin? What do you mean by that?\"",
+      "sourceUnit": "セイバールート六日目-10:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Well you see, Shirou genuinely doesn't want you to get hurt. I don't know why, but Shirou is just a giant ball of dedication and goodwill.\nAm I right? Saber is more important to you than yourself, right?\"",
+      "sourceUnit": "セイバールート六日目-10:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that's not true...! I never said Saber is important to me!\"",
+      "sourceUnit": "セイバールート六日目-10:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Spare me. You wouldn't be ready to fight yourself if that weren't true.\nYou know damn well you can't beat a Servant, right? But saying you'll fight even so means Saber is more important to you than yourself.\"",
+      "sourceUnit": "セイバールート六日目-10:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nUh...argh...\nI mean, if she puts it like that, maybe...but...",
+      "sourceUnit": "セイバールート六日目-10:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why you'll fight even if it sounds absurd. You'll try to win even if you know you don't have a chance, and you don't care if you die in the process.\nBecause, and I don't really know why, in that twisted little mind of yours, other people are more important than you are yourself.\"",
+      "sourceUnit": "セイバールート六日目-10:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell...\nI don't mean it to be like that...",
+      "sourceUnit": "セイバールート六日目-10:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"So there you have it. Now you understand, Saber. He's enough of an idiot that he'd even try to protect you against Berserker. So yeah, he's serious when he says he's going to fight.\"",
+      "sourceUnit": "セイバールート六日目-10:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "I don't know how much of Tohsaka's words actually make it through to Saber.\nBut Saber takes a deep breath and turns toward me.",
+      "sourceUnit": "セイバールート六日目-10:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"Wh-what, Saber?\"\n\"I acknowledge that you have the will to fight. And as such, I have an idea.\"\n\"Wh-what is it?\"",
+      "sourceUnit": "セイバールート六日目-10:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"You must train with the sword. I shall teach you as much swordsmanship as time permits. If you accept that condition, then I shall accept your way of thinking.\"",
+      "sourceUnit": "セイバールート六日目-10:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"What...?\"\nDoes that mean she's going to train me?\nIs this because she's acknowledged my will to fight?",
+      "sourceUnit": "セイバールート六日目-10:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold up, Saber. That whole line of thinking is pointless, like emotional flab.\nTeach Shirou the way of the sword? There's no way he'll be able to go up against a Servant.\"",
+      "sourceUnit": "セイバールート六日目-10:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"True. But it is better than doing nothing.\nAt the very least, it should minimize the hesitation he has in battle.\nI can only bet on Shirou's will and determination, but such is the nature of a real battle. One will never learn if they have no aptitude for it to begin with.\"",
+      "sourceUnit": "セイバールート六日目-10:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. Well I guess, if you put it that way, you're right...\nYou're never ready for a fistfight unless you've actually experienced one in the past.\"",
+      "sourceUnit": "セイバールート六日目-10:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. That is why I would like to try once...nay, as many times as time allows. I would like Shirou to experience what death in battle feels like so he might grow accustomed to battle.\"\nThe two of them are talking pretty casually about some scary stuff.",
+      "sourceUnit": "セイバールート六日目-10:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on a minute. I never agreed to any—\"",
+      "sourceUnit": "セイバールート六日目-10:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, then. I'll teach him about magecraft.\nIf Saber's going to train his body, I'll enrich his mind. Well, that was part of our initial plan anyway, so I guess I'll begin the formal training tomorrow.\"",
+      "sourceUnit": "セイバールート六日目-10:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, please do so. If you can do that, I can concentrate on training him with the sword.\"",
+      "sourceUnit": "セイバールート六日目-10:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Good, good. Now that's settled, let's break for tonight. Looks like tomorrow's going to be busy.\"\nTohsaka waves goodbye and disappears into the outbuilding.",
+      "sourceUnit": "セイバールート六日目-10:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"I shall rest as well. You should do the same, Shirou. I intend to work you hard in the dojo tomorrow.\"\nShe gives a short bow and goes back to her room.",
+      "sourceUnit": "セイバールート六日目-10:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "...\nAll that remains in the living room is two cups of untouched tea and one dumbfounded boy.\n\"I never agreed to this...\"\nMy words go unheard.",
+      "sourceUnit": "セイバールート六日目-10:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "Anyway...\nWhat was already a confusing situation has grown a hell of a lot more complicated.\nI can't even begin to imagine what will happen today.",
+      "sourceUnit": "セイバールート六日目-10:page93:1"
+    },
+    "page94": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page95": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

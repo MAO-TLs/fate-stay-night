@@ -1,0 +1,212 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0611",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "After breakfast...\n\"Shirou, come with me. There's something we need to do.\"\nShe takes me to the dojo.",
+      "sourceUnit": "桜ルート十一日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I have no reason to say no, and I was planning to talk to Tohsaka about our next steps.\nWas.\n\"Hey, I only asked Shirou to come with me. What are the rest of you hovering around for?\"\nTohsaka's cranky that we have uninvited companions.",
+      "sourceUnit": "桜ルート十一日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...You seemed oddly hostile, so I thought it was dangerous to leave Senpai alone with you.\"\n\"Shirou and I have an alliance, you know. I'm not going to backstab him, and you know that. So what are you doing here, Sakura?\"",
+      "sourceUnit": "桜ルート十一日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well, it's my job to protect him!\"\n\"...Confident, aren't you?\nAnd what about you? You know what I'm going to do. Here to join the peanut gallery?\"",
+      "sourceUnit": "桜ルート十一日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'm with Sakura on this one, Rin.\nI know what you want to do, but I don't know how you plan to accomplish it. I'm here to keep an eye on you so that you don't do anything strange to him.\"",
+      "sourceUnit": "桜ルート十一日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I'm just going to tweak his body a bit to help him out, so don't get in the way.\nI can't afford to not concentrate on this.\"",
+      "sourceUnit": "桜ルート十一日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's overnight bag is in the dojo. She must have brought it here before breakfast.\nIt's filled with tools I think I remember seeing at her house, so I think I know what she's going to do to me, but...",
+      "sourceUnit": "桜ルート十一日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Tohsaka. One thing before we start.\"\n\"What is it? Don't tell me you're suddenly worried about the pain after all this time.\"",
+      "sourceUnit": "桜ルート十一日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I am. Nobody wants to get hurt.\nBut you haven't explained what you're going to do. Anyone in my place would run away as soon as you brought all this stuff out.\"",
+      "sourceUnit": "桜ルート十一日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Our audience members nod.\nI'm glad I have such supportive backup.",
+      "sourceUnit": "桜ルート十一日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"My bad for not explaining enough. From your point of view, nothing I do is normal anyway. If you don't like it, you can just leave.\"\nAh.\nTohsaka's sulking because we're ganging up on her.",
+      "sourceUnit": "桜ルート十一日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not complaining. I have a vague idea of what you're trying to do, and I trust you completely. No matter what you tell me to do, I'll believe what you say. That's what I promised you last night.\"",
+      "sourceUnit": "桜ルート十一日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hmph. Then why are you dragging this out?\nIf you don't have any doubts, then just shut up and behave.\"",
+      "sourceUnit": "桜ルート十一日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not the problem. I want to touch base with you on our future direction. We should clearly lay out what we're doing to do next.\"",
+      "sourceUnit": "桜ルート十一日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...The expressions on my side change.\nWe put off this discussion yesterday, but now it's time to hash this out. It concerns the future for all of us.\nWhat are we going to fight? What do we want to do?\nThere's no going back once we decide.\nNo, we passed the point of no return a long time ago. I'm just reiterating that fact.",
+      "sourceUnit": "桜ルート十一日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"I'm not fighting in the war. I'll fight back if someone attacks me, but I don't want to be part of the war anymore. I don't know what's going to happen once the war is over.\"",
+      "sourceUnit": "桜ルート十一日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I agree with Illya.  I don't think we can win against Grandfather.\nIf the outcome is already decided, then he might not do anything to us if we just stand aside...\"",
+      "sourceUnit": "桜ルート十一日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Tohsaka doesn't say anything.\nI can't tell what she's thinking, but she doesn't agree with Illya and Sakura, so I hope she's thinking what I'm thinking.",
+      "sourceUnit": "桜ルート十一日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I agree that you should stay on the defensive.\nSakura, you should stay home and be on guard against Zouken.\nRider's here, so if it comes to a defensive fight, she should be able to protect you and Illya.\"",
+      "sourceUnit": "桜ルート十一日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Meanwhile, Tohsaka and I will think of a way to beat Zouken.\nHe's going to attack anyway if we stay cooped up here, and we can't let him run riot on the town. There's no telling when something like we just saw on the news might happen again.\"",
+      "sourceUnit": "桜ルート十一日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka doesn't interrupt me.\nWhatever she's thinking, she also intends to fight Zouken with me.",
+      "sourceUnit": "桜ルート十一日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"We can't leave him be, but we can't ignore the Shadow, either. Tohsaka and I are going to go out at night, so I want Sakura and Illya to stay here and be on their guard.\"",
+      "sourceUnit": "桜ルート十一日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I look around to see if anyone disagrees.\nBut...",
+      "sourceUnit": "桜ルート十一日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what are you talking about, Senpai!?\"\n\"Sakura? Did I say something wrong?\nTohsaka and I are the only ones who can fight, so we have to defeat Zouken.\"",
+      "sourceUnit": "桜ルート十一日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"That's crazy...!\nYou can't even move both of your arms! Do you have any idea what you're saying right now!?\"\n\"Sakura...?\"",
+      "sourceUnit": "桜ルート十一日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't understand, Senpai. You're not making sense. How can you still want to fight after what's happened to you?\nYou should know firsthand that this war is too much for you... Why are you still being so foolish?\nI was...so relieved when I saw that you were too injured to fight. It meant that you wouldn't be in danger anymore. So why\n...\"",
+      "sourceUnit": "桜ルート十一日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura.\"\nSakura is trembling.\nShe's sulking, shaking at her own words.\nI don't know what she's feeling right now.\nAll I can do is answer her question.",
+      "sourceUnit": "桜ルート十一日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. I'm going to win this for you. That's why I have to fight.\nIt's true that I can't overlook what Zouken and the Shadow are doing. But more than that, I want the Holy Grail. Not for anyone else, but for my own selfish wish.\"",
+      "sourceUnit": "桜ルート十一日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nIt's for my selfish desire to be on Sakura's side, and no one else's.",
+      "sourceUnit": "桜ルート十一日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"You're doing this...for me?\"\n\"Yeah. If we can remove the Crest Worms from your body, it'll help you, too.\"",
+      "sourceUnit": "桜ルート十一日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"It's going to be okay, Sakura. If I don't have a chance of winning, then I'll make one. I won't fight when there isn't any hope.\nIt's going to be dangerous, of course. I can't promise that I won't get hurt trying.\n...But I'll make sure to come back to you. I said I'd protect you, remember? I can't keep that promise unless I stay by your side.\"",
+      "sourceUnit": "桜ルート十一日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Sen...pai...\"\nSakura looks down painfully.\nIt almost seems like she's apologizing to me.",
+      "sourceUnit": "桜ルート十一日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, are you two finished yet?\nWe're all on the same page now, so let's not beat around the bush.\nSakura and Illya will hold down the fort. Shirou and I will go out on night patrol. If we come across our enemies, we won't recklessly attack them. We'll only fight to reduce their strength when we have a chance of winning.\nAre you okay with that direction, Shirou?\"",
+      "sourceUnit": "桜ルート十一日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. It's reassuring to hear you say that.\"",
+      "sourceUnit": "桜ルート十一日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. I'm just stating the obvious.\"",
+      "sourceUnit": "桜ルート十一日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"And Sakura, Kirei couldn't extract all of the Crest Worms from you, but it should mostly keep them in check for now. They won't go out of control again as long as nothing triggers them directly like that time with Shinji.\nOn the other hand, as long as you stay in this house, Zouken hasn't won the war. He's going to come for you sooner or later, so you can't avoid fighting him forever. You should know better than to talk like that.\"",
+      "sourceUnit": "桜ルート十一日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... You're right, but...but Grandfather won't get rough with us as long as—\"",
+      "sourceUnit": "桜ルート十一日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura! Stop being such a coward. Zouken isn't your grandfather or your master. Do you really think someone who commits atrocities like that is human!?\"\n\"...No. I've never once thought of Grandfather as human.\"",
+      "sourceUnit": "桜ルート十一日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Then make up your mind. You need to fight your own battles, just like Shirou and I are going to be fighting out there.\nIf Zouken attacks, you need to escape and survive, no matter what. As long as Rider's still alive, the Holy Grail isn't complete and there's still hope for you.\"",
+      "sourceUnit": "桜ルート十一日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "She towers over Sakura with the dignity of a big sister.\nSakura nods meekly and says that she understands.",
+      "sourceUnit": "桜ルート十一日目-08:page39:1",
+      "recoveredDelimitedTail": true
+    },
+    "page40": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

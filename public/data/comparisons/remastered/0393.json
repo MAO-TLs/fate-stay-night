@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0393",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\n...We have to accept his offer.\nEven if he is an enemy, his argument is correct.\nTohsaka and I alone can't beat Caster.\nBut there should be some hope if we have Lancer's help.",
+      "sourceUnit": "凛ルート十三日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. I also don't have any complaints.\"\nI turn off the Magic Circuits connected to my whole body and relax my shoulders.\nThat's the most sincere thing I can do.\nThat I have no intention to fight...\nThe expression of will that as long as we are cooperating, I can defenselessly show my back to him.",
+      "sourceUnit": "凛ルート十三日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see, this is seriously bad. You must be going through a lot of trouble, young lady.\"\n\"Oh, can you tell? I'm glad, I finally met someone who understands. I was afraid that things might stay like this until the very end.\"",
+      "sourceUnit": "凛ルート十三日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's unfortunate. But, he's not bad for a guy.\nWhen you're a kid, you can be as stupid as a fool.\nYou can learn stuff and get twisted after that.\"",
+      "sourceUnit": "凛ルート十三日目-07:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

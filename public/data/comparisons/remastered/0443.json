@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0443",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The lighting dims once I'm outside.\nIt's 11:00 PM. Saber and I leave just as the city starts to fall asleep.",
+      "sourceUnit": "桜ルート四日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, Shirou, are we going to the center of town?\"\n\"...\"",
+      "sourceUnit": "桜ルート四日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...Sakura's condition didn't improve after cleaning up after dinner.\nIn fact, she looked worse.\nShe didn't have much energy, and was spacing out like she had a fever.\nBut she didn't want me to walk her home, and asked Fuji-nee to take her back instead.",
+      "sourceUnit": "桜ルート四日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Or should we try the other side of town? I think it's likely that the other Masters are lurking there.\"",
+      "sourceUnit": "桜ルート四日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nCome to think of it, Sakura has looked off for the last two days.\nShe looks like she isn't feeling well, or maybe she's scared of something.",
+      "sourceUnit": "桜ルート四日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Are you listening?\"\n\"...\"\n\"Shirou! I'm asking what we will be doing tonight!\"\n\"Huh!?\"\nI look up in surprise.\nSaber is pouting in front of me.",
+      "sourceUnit": "桜ルート四日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. I spaced out. You want to know what we'll do next?\"\n\"Yes, please do not make me repeat myself once more.\nWe could go to either side of the city, but there is a slight disruption in the flow of the leylines. There's no doubt that the other Masters are active. Depending on our choices tonight, we may be able to defeat one of them.\"",
+      "sourceUnit": "桜ルート四日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"So we might suddenly end up fighting a Master, huh?\n...But what should we do if we run into that girl again?\nI thought we can't beat Berserker.\"",
+      "sourceUnit": "桜ルート四日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Master. I am ready to do battle. Although I lack a magical energy supply, I will not fall as long as I have all limbs attached.\n...Though, we would need to retreat if we fought Illyasviel. We cannot reveal our Noble Phantasm until we know what Berserker's is.\"",
+      "sourceUnit": "桜ルート四日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber is only cautious of Berserker.\nShe doesn't mention any other possible encounters, like Tohsaka.\nTo Saber, Tohsaka's just an enemy that needs to be defeated.\nTo me, though, the others need to be stopped, but not defeated.",
+      "sourceUnit": "桜ルート四日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Just to be sure we're on the same page... Saber, if a Master and their Servant surrender, stop. I want to force the other Masters to use up their Command Spells. Are you all right with that?\"",
+      "sourceUnit": "桜ルート四日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. But what if they don't accept our terms?\"\n\"...Then we'll follow the rules of the war. That's what they signed up for when they became Masters.\"",
+      "sourceUnit": "桜ルート四日目-02:page11:1"
+    },
+    "page12": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート四日目-02:page12:1"
+    }
+  }
+}

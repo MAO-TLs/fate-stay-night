@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0430",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt is a rapid stream of light that eliminates everything.\nIn the midst of that, the swordsman accepted the end of her battle.",
+      "sourceUnit": "凛ルート十四日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is the end. This is it for my battle.\"\nWho was that addressed to?\nThe wielder of the sacred sword goes to her knees and gazes at the light with a flood of emotions.",
+      "sourceUnit": "凛ルート十四日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The crumbling Holy Grail.\nThe thing that she sought, the thing that was supposed to save her.\nShe destroyed it with her own hands, and the King of Knights finally realized her mistake.\nOne boy and one hero.\nThat man, who had become twisted at the end of his ideal that he held for a long time, was still a boy.",
+      "sourceUnit": "凛ルート十四日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "His regrets are so heavy that they cannot be carried,\nand his sins are so deep that they cannot be atoned for.\nBut there was something that he did not give up on.\nAt the very end, the knight in red has reached an answer that no one can affect.\nThen... She has to move forward as well.\nIn her last moment, wounded, she took her hands off her sword.\nShe will run past that hill with her own will.",
+      "sourceUnit": "凛ルート十四日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...The contract is complete. Victory is yours, Rin.\"\nThe sacred sword fades.\nThere is still magical energy left.\nShe can stay in this world if she pushes herself.\nIf possible... she wanted to watch over what awaits them until the end.",
+      "sourceUnit": "凛ルート十四日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...However, that is not my role. Shirou has Rin.\"\nThe knight's body continues to fade until it vanishes, engulfed by the light.",
+      "sourceUnit": "凛ルート十四日目-11:page5:1"
+    },
+    "page6": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十四日目-11:page6:1"
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0049",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...It's windy.\nI suppose part of it is being atop a hill.\nThe breeze is stronger than below, and the chill that pierces my cheeks has a stronger bite.",
+      "sourceUnit": "凛ルート三日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, have you finished talking?\"\n\"...Yeah. I've been made aware of more than I could ever want.\nAbout the Holy Grail War and Masters, too.\"\n\"In that case...\"",
+      "sourceUnit": "凛ルート三日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "She leans forward and pierces me with a stare.\n...That's only natural.\nThe decision that I make is her business too.",
+      "sourceUnit": "凛ルート三日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I don't know if I'm fit for it, but I decided to fight and be a Master.\nI'm sorry that I'm an amateur, but do you still agree to take me on as a Master, Saber?\"",
+      "sourceUnit": "凛ルート三日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need for such an agreement. You are my Master. I have already vowed that I would become your sword.\"",
+      "sourceUnit": "凛ルート三日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "That moment flitters through my mind.\n\"...That's right. Yeah, it makes me relieved hearing you say that.\"\nI take a deep breath and face Saber again.",
+      "sourceUnit": "凛ルート三日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Shake on it, then. Let's do our best, Saber.\"\nI extend my right hand.\nI don't know anything about the relationship between Master and Servant, and what we need to do moving forward.\nBut at the very least, I want to start out on the right foot.",
+      "sourceUnit": "凛ルート三日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Saber? Oh, are you against shaking hands?\"\n\"...No, that is not true. I was just startled by the suddenness.\"",
+      "sourceUnit": "凛ルート三日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber says as she takes my hand in hers.\n\"I vow once again. As long as you have your Command Spells, I will be your sword.\"",
+      "sourceUnit": "凛ルート三日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I still don't understand everything, but it's good to have you.\"\nSince Saber is so serious, I nod along.",
+      "sourceUnit": "凛ルート三日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\n...Come to think of it, this is an odd sight.\nUnder the stars in the winter night...\n...I'm shaking hands with a girl I just met and exchanging words like some magical contract.",
+      "sourceUnit": "凛ルート三日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ooh. It looks like I can leave you two at it, huh?\"\n\"...!\"\nI hastily let go of her hand.\nWhen I turn around, there's Tohsaka and...that knight in the red coat standing there.",
+      "sourceUnit": "凛ルート三日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Look at you two getting along. You weren't even talking until a moment ago. What a change. What, do you fully trust Saber now?\"",
+      "sourceUnit": "凛ルート三日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, no, that's not it... Wait, I guess you're right.\nI don't know anything about Saber yet, but we're going to work together from now on.\"",
+      "sourceUnit": "凛ルート三日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then you should be on your guard. Now that you guys are in this war, we won't go easy on you either.\"\n\"Hm?\"\nI tilt my head.\nIt takes me a second for it to sink in.",
+      "sourceUnit": "凛ルート三日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey now. You understand we're enemies now, right?\nI brought you here because you weren't my enemy yet.\nBut now you're a Master, right? Then I think there's only one thing to do now.\"",
+      "sourceUnit": "凛ルート三日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... Hmm?\"\nWell, that's true, but...\n\"Why? I don't intend to fight you, Tohsaka.\"",
+      "sourceUnit": "凛ルート三日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man, just as I thought. Geez, it was meaningless to bring you here.\"\nTohsaka drops her shoulders.\n\"Rin.\"",
+      "sourceUnit": "凛ルート三日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What? We promised that you wouldn't talk until I give the go-ahead, Archer.\"\n\"I know, but we'll get nowhere at this rate.\nThere's no need to find out if our opponent is ready or not. If there's an enemy we can defeat easily, we should attack them without holding back.\"\n\"Hey, I know that without you having to tell me.\"",
+      "sourceUnit": "凛ルート三日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"If you know, then you should act on it. Or what? Are you going to show him mercy again?\n...Hm. It couldn't possibly be that there's some special reason...?\"",
+      "sourceUnit": "凛ルート三日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"O-of course not!\"\n...It's just, you know, I owe him one. Until I clear that up, I just can't fight him fairly.\"\n\"...Hrm, you sure are difficult. Then I'll make myself scarce. Call me again after you've straightened that out.\"",
+      "sourceUnit": "凛ルート三日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "The red knight, Archer, disappears.\nOr rather, I just can't see him anymore.\nAccording to Tohsaka, Servants are spirits.",
+      "sourceUnit": "凛ルート三日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Saber says that she can't turn into spirit form, but I'm sure she could easily if she was Tohsaka's Servant, since Tohsaka is a functional Master.\n...Well, aside from that...",
+      "sourceUnit": "凛ルート三日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. That thing you owe me... Are you talking about what happened earlier?\"\n\"Yeah. No matter what the reason may be, you used a Command Spell to stop Saber. So, it won't be fair unless I hold back a bit to balance things out.\"",
+      "sourceUnit": "凛ルート三日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Balance, huh? You care about weird things, Tohsaka.\"\n\"I know. I know this is just piling on some extra weight. But I can't help it, I hate being in debt to people.\"\nShe snorts and turns away.",
+      "sourceUnit": "凛ルート三日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"But, this is for a limited time. Starting tomorrow, I won't hold back, so you should go ahead and make your plans with Saber.\"\n\"...Hm. So, this is only for today?\"",
+      "sourceUnit": "凛ルート三日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. Well, I am the one who brought you here.\nUm, so I'll at least look out for you until you get back into town.\"\nWith that, Tohsaka starts walking without looking back at us.",
+      "sourceUnit": "凛ルート三日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us go, Shirou. As she says, it is not good to stay here.\"\n\"...\"\nI nod to Saber and follow Tohsaka.",
+      "sourceUnit": "凛ルート三日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The three of us descend the hill.\nIt might be because Tohsaka took the lead, but we make our way back without any conversation.",
+      "sourceUnit": "凛ルート三日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "There is a simple forked road ahead of us.\nOne path leads to the main street going towards the front of Shinto station, and the other leads to the big bridge connecting to Miyama.\n...\nTohsaka stops in front of the intersection.",
+      "sourceUnit": "凛ルート三日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Aren't you coming? We should head to the bridge if we're going home, right?\"\n\"No. Sorry, but you'll have to head home on your own.\nI forgot since I've been so occupied with you, but I had other plans. Now that I'm in Shinto, I'm gonna go look for something while I'm here.\"",
+      "sourceUnit": "凛ルート三日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Go look for something...as in other Masters?\"",
+      "sourceUnit": "凛ルート三日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I don't know about you, but I've been waiting for this for a long time. For the seven Masters to appear and the night the Holy Grail War begins.\nWouldn't you say that going straight home is a waste? Since I couldn't beat Saber, I won't feel satisfied unless I can take down another Servant.\"",
+      "sourceUnit": "凛ルート三日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\n...There is no hesitation in Tohsaka's eyes.\nThat made me realize...\nTohsaka is a mage.\nHer knowledge and attitude as a mage are set.",
+      "sourceUnit": "凛ルート三日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\nI wonder why...",
+      "sourceUnit": "凛ルート三日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"So, we part ways here. I've paid back my debt, and it'll just be a pain if we're in each other's faces. After today we'll become enemies.\"\nWhy does she have this part of her that's the opposite of a mage?",
+      "sourceUnit": "凛ルート三日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka didn't explain the rules out of a sense of duty.\nShe just wanted to be fair, and after figuring out my circumstances, supported me.",
+      "sourceUnit": "凛ルート三日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "So now that the situation is clear, it goes back to how it was before.\nAs a Master, I will be a target for battle from now on.\n\"...\"\nDespite all that, Tohsaka made sure to clear the air first.",
+      "sourceUnit": "凛ルート三日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "For her, everything that happened tonight was unnecessary.\n\"It'll just be a pain if we're in each other's faces.\"\nIf that's how she really feels, she shouldn't have gotten involved to begin with.\nBut she isn't dumb, so she must've known this is how it would go.\nAnd yet still she helped out, all without thinking about cost or benefit.",
+      "sourceUnit": "凛ルート三日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...The Tohsaka in front of me is so different from the one I see at school.\nEven putting it nicely, she's harsh and cranky. A real sourpuss. And so different from what she normally projects that it makes me want to scream, What's up with the way you act at school!?\nMan, she almost seems like a fraud.",
+      "sourceUnit": "凛ルート三日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...Yet, still...\nTohsaka Rin is also exactly how everyone thought she was.",
+      "sourceUnit": "凛ルート三日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Tohsaka, you're a good person.\"\n\"Huh? What's with you? I won't go easy on you even if you try flattery.\"",
+      "sourceUnit": "凛ルート三日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "I know that.\nBecause she won't go easy on me, it'll be a pain to also be on the lookout for me. That's what she's saying.",
+      "sourceUnit": "凛ルート三日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. But if possible, I don't want to be enemies. I like people like you.\"\n\"Wha—\"",
+      "sourceUnit": "凛ルート三日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "For some reason, Tohsaka falls silent.\nThese deserted suburbs...\nThe church that looms in the distance and the stillness of the foreigner cemetery that spreads over the hill feel strangely warm now.",
+      "sourceUnit": "凛ルート三日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, if your Servant gets killed, just run to that church. If you do that, at least your life will be spared.\"",
+      "sourceUnit": "凛ルート三日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. I don't exactly like the idea, but I'll keep it in mind. Highly doubt it'll happen, though. No matter how I look at it, I'll die before Saber does.\"\n\"...Ugh.\"\nTohsaka reacts strangely again.\nShe lets out a deep sigh as if she's fed up with me and glances at Saber.",
+      "sourceUnit": "凛ルート三日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, I won't give you any more warnings since then I'll really be going out of my way.\nJust be careful. Even with Saber as strong as she is, it won't matter if you, the Master, gets killed.\"\nTohsaka turns around and starts walking towards Shinto.",
+      "sourceUnit": "凛ルート三日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "However...\nShe stops dead in her tracks, as if she saw a ghost.",
+      "sourceUnit": "凛ルート三日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you done talking?\"",
+      "sourceUnit": "凛ルート三日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "A youthful voice echoes through the night.\nThe singsong voice is unmistakably that of a young girl.\nMy line of sight focuses on the top of the hill.\nThere...",
+      "sourceUnit": "凛ルート三日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "I don't know when the skies cleared, but the moon shines brightly in the night.\nThe shadow is long and monstrous, like a demon in a picture book.\nAmidst the silhouette of the townscape, through the late night gloom, something terrible stands.",
+      "sourceUnit": "凛ルート三日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Berserker.\"\nTohsaka mumbles a word that I'm not familiar with.\nEven if I don't know what that means, I can tell that the giant is something different altogether.",
+      "sourceUnit": "凛ルート三日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "That thing isn't human.\nThen... It's one of the beings called Servants, just like Saber and the others.\n\"Good evening, big brother. This is the second time we've met like this.\"\nThe girl says, smiling.\nThe innocence sends a chill down my spine.\nThe dissonance between her and that monstrous shape behind her makes me feel like I'm living a nightmare.\n...\nWhat I said earlier about a chill down my spine is underselling it.\nThe chill reaches every part of me, deep into my consciousness.\nThat thing is a monster.\nI'm not even looking directly at it but its very presence is making it hard to move...",
+      "sourceUnit": "凛ルート三日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm surprised. If we're talking just raw power, that thing surpasses Saber.\"\nShe clicks her tongue and glares at the monster above us.\nFrom her back alone, I can tell she is just as terrified as I am, but also determined not to lose to that thing.",
+      "sourceUnit": "凛ルート三日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, that thing isn't something that can be fought head-on. Fight it with your class specialty.\"\nHer voice is barely more than a whisper.\nThe unmaterialized knight gives his response.",
+      "sourceUnit": "凛ルート三日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. But what about your defense? You cannot avoid a charge.\"\n\"There's three of us. If it's just playing defense, we can manage.\"\nHe must have nodded to that.\nThe presence hanging around Tohsaka vanishes instantly.",
+      "sourceUnit": "凛ルート三日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya. It's up to you whether you want to run or fight.\n...But, if you can, I'd say make a break for it.\"",
+      "sourceUnit": "凛ルート三日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you done with your little strategy session? Can I start now?\"\nA playful laugh.\nThe girl gives a polite bow, incongruous to this entire situation.",
+      "sourceUnit": "凛ルート三日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Nice to meet you, Rin. I'm Illya.\nIllyasviel von Einzbern...you know what that means, right?\"\n\"Einzbern—\"\nShe seems familiar with the name and wavers in place.",
+      "sourceUnit": "凛ルート三日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "The girl smiles happily in response to Tohsaka's reaction, and says,\n\"I'll kill you now. Get her, Berserker.\"\nShe croons to the monster behind her.",
+      "sourceUnit": "凛ルート三日目-11:page60:1"
+    },
+    "page61": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

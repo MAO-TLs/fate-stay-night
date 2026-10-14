@@ -1,0 +1,121 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0574",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I open my eyes.\nI stick my arm up in the air for no real reason, stare at the ceiling, then let it fall on the futon.",
+      "sourceUnit": "桜ルート十日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Feels kinda...heavy.\"\nI keep gazing absently at the ceiling without getting up.\nIt feels like my whole body is slow.\nMy head is in a daze and my body wants rest.\nThat must be why I don't feel like getting up, even though it's already morning.",
+      "sourceUnit": "桜ルート十日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... Why am I so tired?\"\nMaybe the fatigue has been building up.\nA lot happened yesterday, but I didn't go to bed particularly exhausted.\nI probably feel this way because I didn't sleep enough.",
+      "sourceUnit": "桜ルート十日目-06:page2:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Maybe I didn't sleep well. Eh, the blood will start flowing once I move around.\"\nSakura's in much worse shape than I am, anyway.\nShe's doing her best, so I can't let a little grogginess keep me down.",
+      "sourceUnit": "桜ルート十日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I pump myself up for the day and get out of bed.\n\"Urgh...\"\nThen, the dizziness hits me again.\nIt isn't from my body's slowness.\nIt's like...as soon as I look at my bedroom door, I remember what happened last night all too vividly.",
+      "sourceUnit": "桜ルート十日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Um... I'd better change.\"\n...Oh, man.\nIf this is already making me blush, how am I going to talk to Sakura today?",
+      "sourceUnit": "桜ルート十日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right, here goes.\"",
+      "sourceUnit": "桜ルート十日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'll be okay. I've already run this simulation a bunch of times.\nThere's nothing difficult about it. It's just a \"good morning\" like always. What am I getting so worked up for?",
+      "sourceUnit": "桜ルート十日目-06:page12:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah.\"\nBut...\nI thought Sakura would be in the kitchen, but she's already putting breakfast on the table.",
+      "sourceUnit": "桜ルート十日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... G-good morning, Senpai.\"\n\"Uh. Yeah. Mor...ning. Sakura.\"",
+      "sourceUnit": "桜ルート十日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...uh.\"\n\"Uhhh... well.\"\nI try to think of something clever to say, but draw a blank.",
+      "sourceUnit": "桜ルート十日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\n...",
+      "sourceUnit": "桜ルート十日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"M-morning, Sakura! Breakfast looks really good!\"\nHow unimaginative, even for me.\n...Wait, I greeted her already! Idiot!",
+      "sourceUnit": "桜ルート十日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, yes! G-good morning, Senpai!\"\n...\nBut...\nSomehow, Sakura's reply feels exactly the same, too.",
+      "sourceUnit": "桜ルート十日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Her eyes go wide, as if she's realized the same thing.\nI must be making the same face.",
+      "sourceUnit": "桜ルート十日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...\"\nThe thought makes me relax.\nWe've both been nervously looking forward to seeing each other.",
+      "sourceUnit": "桜ルート十日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew. Good morning for the third time, Sakura.\"\nI feel myself smiling.\nThis time, I say it with relief.\n\"...Yes. Good morning, Senpai.\"",
+      "sourceUnit": "桜ルート十日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Then, we awkwardly start eating breakfast.",
+      "sourceUnit": "桜ルート十日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's eat, then.\"\n\"Yes, let's eat.\"\nEven though we try to carry on like we always do, I still can't stop feeling nervous.",
+      "sourceUnit": "桜ルート十日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI move my chopsticks uneasily.\nSakura eats cheerfully, like she's gotten used to it already.\n...Is this something that girls are better at?",
+      "sourceUnit": "桜ルート十日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What's wrong? Oh, would you like more miso soup?\"\n\"...No, I'm still on my first bowl. But it's good. Delicious, actually.\"\n\"Yes, I'm confident in today's breakfast. I'm glad you like it.\"",
+      "sourceUnit": "桜ルート十日目-06:page26:1"
+    },
+    "page27": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page28": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

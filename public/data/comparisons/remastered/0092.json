@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0092",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I agree with Tohsaka. We shouldn't be going there yet.\"",
+      "sourceUnit": "セイバールート六日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Are you saying you will not fight either!?\nThat is ridiculous. What was the point in me resting, then!?\nWe must strike first...especially now that we know where our enemy is!\"",
+      "sourceUnit": "セイバールート六日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that. But we need to wait, Saber.\nIf the Master at Ryudou Temple is so thoroughly prepared, they'll have set a trap for us. Rushing in without a plan is suicide.\"\nTohsaka's right. We should at least wait until Archer's recovered.\"",
+      "sourceUnit": "セイバールート六日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"These are the risks we must always face. I do not expect victory without injury or setback.\nEven if the enemy's traps pierce my body, I can fight on so long as I have my head.\nNo matter how badly injured I am, it is worth the risk if we can defeat its Master, is it not!?\"",
+      "sourceUnit": "セイバールート六日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...don't be such a fool! Who would ever say it's okay to get hurt!?\nIt's fine going in knowing the risks. But a suicidal mission is stupid. As your Master, I can't let you do something so dangerous.\"",
+      "sourceUnit": "セイバールート六日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Going over to Ryudou Temple would be suicide, no question.\nThe lone road leading up to the temple is sure to be packed with traps or obstacles. Maybe both.\nIt's one thing to go in expecting the dangers, but doing it without a plan to deal with them is suicidal.\nNo matter how powerful Saber is, she's still held back by my weakness.\nI would hate for her to push herself to fight, and end up—",
+      "sourceUnit": "セイバールート六日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "If it ends up like it did last time, I can't agree to just charge in blindly.",
+      "sourceUnit": "セイバールート六日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I did not think to hear you say such a thing again.\nListen, Master. Servants are meant to get hurt.\nI will not allow my Master to avoid battle simply for fear of that eventuality.\"",
+      "sourceUnit": "セイバールート六日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. It doesn't matter if you don't allow it. If you're going to keep being so reckless, I'll stop you as many times as I have to.\nIf you don't like that, then hurry up and heal yourself. You're still not fully healed, are you?\"",
+      "sourceUnit": "セイバールート六日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Not so much that it should interfere with my ability to fight. Delaying combat because you are concerned about a wound is pointless.\"\nSaber just won't change her mind about fighting.",
+      "sourceUnit": "セイバールート六日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gh.\"\nArgh! Why doesn't she understand, no matter what I say!?",
+      "sourceUnit": "セイバールート六日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? Well, I'm not budging.\nYou lost to Berserker before! Are you going to push through and keep on fighting so we can both be defeated again!?\nYou've gotta be kidding me! I don't want to get killed all over again...\"",
+      "sourceUnit": "セイバールート六日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd then...\nI expect Saber to argue. Instead, she just draws in a breath and...\n\"That was cruel, Shirou.\"\nHer tone is apologetic.",
+      "sourceUnit": "セイバールート六日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry to be unfair.\nBut I'm still not willing to attack yet.\nI know I can't let the Master at Ryudou Temple do as they please. But we're in no condition to fight. If we rush in now and are defeated, then who will stop the Master at Ryudou Temple?\"",
+      "sourceUnit": "セイバールート六日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. We're going to attack, but only after your wound is healed and we're in peak condition. If you have a problem with that, go find another Master.\"",
+      "sourceUnit": "セイバールート六日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. If Master insists.\"\nSaber's voice is quiet as she answers, and then she falls silent.",
+      "sourceUnit": "セイバールート六日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Our conversation ends there.\nTohsaka and Saber both go back to their rooms.",
+      "sourceUnit": "セイバールート六日目-07:page16:1"
+    },
+    "page17": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート六日目-07:page17:1"
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0518",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Here goes, Sakura. Rock, paper...\"\n\"Take that!\"",
+      "sourceUnit": "桜ルート八日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I thrust out my fist.\nSakura meets it with an open palm.\nI played rock, while she played paper.",
+      "sourceUnit": "桜ルート八日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof.\"\n\"Yay, I win!\"\nI stare at my hand.\n...I did it again. Why do I always play rock on the first round of rock-paper-scissors?",
+      "sourceUnit": "桜ルート八日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"So, I'll make dinner, while you can relax and watch TV.\"\nSakura practically skips to the kitchen. Does cooking dinner by herself make her happy?",
+      "sourceUnit": "桜ルート八日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. Fine. We did promise that whoever wins would have to cook.\"\nI take off my apron and sit down.\nI don't know how it is in other households, but around here, making dinner is apparently a recreational pastime.",
+      "sourceUnit": "桜ルート八日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...Not that I feel that way about it, but Sakura wanted to cook by herself.\nI appreciate the help, of course, but as her upperclassman, I shouldn't take advantage of her.\nAccordingly, on days like this when we both have free time, we come up with contests to decide who gets to make dinner.",
+      "sourceUnit": "桜ルート八日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nothing else to do. I'll have some tea.\"\nI make myself a cup of tea and absently sit down at the table.\nSaber's sleeping in my room, and Fuji-nee isn't coming over because of overtime at work, or whatever.\nSakura and I are the only ones here, and Sakura's cheerfully standing in the kitchen.",
+      "sourceUnit": "桜ルート八日目-16:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI unconsciously find myself watching her.\nShe works at a brisk pace, looking like she's enjoying herself.",
+      "sourceUnit": "桜ルート八日目-16:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I'm used to seeing her long hair and the dark red ribbon.\nThe way she picks up utensils. The way that she firmly takes up the kitchen knife, even if it seems heavy, and sets a cabbage on the cutting board.",
+      "sourceUnit": "桜ルート八日目-16:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hngh!\"\nShe cuts into it with vigor.\nSakura always looks nervous when she first picks up a knife, but then her motions soon become familiar and efficient.",
+      "sourceUnit": "桜ルート八日目-16:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nI space out while watching her.\nThe sun sets.\nWhen Sakura's here, life seems to go by slowly and peacefully.",
+      "sourceUnit": "桜ルート八日目-16:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I suddenly realize how precious it is.\n...Once night falls, it's off to war again.\nI'm only just now beginning to appreciate how important this time is to me.",
+      "sourceUnit": "桜ルート八日目-16:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I gotta protect Sakura.\"\nI don't know what Zouken's scheming, but I won't let him lay a hand on her.\nI've had so many chances to interact with Sakura lately, and keep getting distracted by how she's changed, or should I say developed, physically.",
+      "sourceUnit": "桜ルート八日目-16:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "If I'm being honest, I think I'm starting to fall for her.\nNo, that isn't quite true.\nI think I must have started to feel this way a while ago.",
+      "sourceUnit": "桜ルート八日目-16:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I hear her gently humming in the kitchen.",
+      "sourceUnit": "桜ルート八日目-16:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...It's really the little things like this that are important.\nAs I daydream, I fill my third cup of tea, and watch the twilight scene.\nTime seems to pass in a leisurely, tender way, as if I'm getting drunk off the tea.",
+      "sourceUnit": "桜ルート八日目-16:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

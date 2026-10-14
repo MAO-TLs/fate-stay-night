@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0718",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...",
+      "sourceUnit": "桜ルート十六日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I breathe, taking in just enough oxygen to move.",
+      "sourceUnit": "桜ルート十六日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I can only move my throat once.",
+      "sourceUnit": "桜ルート十六日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I don't feel happiness or suffering.\nMy five senses have already turned to iron.",
+      "sourceUnit": "桜ルート十六日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "No matter how hard I tried,\nmy mind failed to stay intact.",
+      "sourceUnit": "桜ルート十六日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Time to go.\nOne last job.",
+      "sourceUnit": "桜ルート十六日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I unseal my left arm.\nMy consciousness is almost gone.",
+      "sourceUnit": "桜ルート十六日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...One last Projection.\nI'll make the strongest sword I know and destroy the entire Greater Grail, and this curse.",
+      "sourceUnit": "桜ルート十六日目-10:page7:1"
+    },
+    "page9": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

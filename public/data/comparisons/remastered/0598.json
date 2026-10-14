@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0598",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, let's split up for now. I'm going home to get my things. You can go on ahead, Shirou.\"\n\"Your things? Are you coming over, too?\"",
+      "sourceUnit": "桜ルート十日目-30:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously. We're going to be fighting together, so we need to actually be together. Illya doesn't like my house, and Sakura's already at your place, so that makes your house our base of operations.\"",
+      "sourceUnit": "桜ルート十日目-30:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. It does, now that you mention it.\"\n\"...Good grief. Just when I think you're getting the hang of this, you space out. Maybe I made a mistake after all...\"\nTohsaka sighs dramatically and heads down the opposite path.",
+      "sourceUnit": "桜ルート十日目-30:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, my house is this way. Why are you going with Tohsaka?\"\n\"I'll just be a bit. Rin said she needed my help with something. I'll come over as soon as we're finished, so go on home first, Shirou.\"\n\"Hm?\"\nIllya's going to help Tohsaka?",
+      "sourceUnit": "桜ルート十日目-30:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Really, Tohsaka?\"\n\"Really. We could use a secret weapon or two with things as they are. There's also some lids I can't open that an Einzbern mage might be able to.\n...Though, I'd like to avoid digging up any Tohsaka heirlooms if we can help it. If Grandmaster Kischur's souvenirs are what I think they are, I can't handle them by myself.\"",
+      "sourceUnit": "桜ルート十日目-30:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I should come, too. I'm not interested in Kischur's relics, but Zel Schweinorg sounds pretty nice.\"\nIllya pivots and runs after Tohsaka, her skirt fluttering.",
+      "sourceUnit": "桜ルート十日目-30:page5:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

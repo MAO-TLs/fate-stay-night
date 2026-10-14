@@ -1,0 +1,446 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0476",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, come to think of it...\"\nI forgot after all the confusion this morning, but I have a promise to keep to Illya.\n...Okay, it wasn't exactly a promise, but I'm the one who asked if I could see her again, so it would be really rude not to wait at the park for her.",
+      "sourceUnit": "桜ルート六日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber and Sakura are...\"\nGetting along just fine doing dishes.\nIf I tell them I'm stepping out, they'll either stop me or try to come with me.",
+      "sourceUnit": "桜ルート六日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "It's better if I go meet Illya alone.\nI'm sorry to Saber and Sakura, but I'll just leave a note and sneak out...",
+      "sourceUnit": "桜ルート六日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Phew.\"\nSomehow, I left without them noticing.\nI did leave a note saying, \"Picking up food for dinner, back in an hour,\" so they shouldn't be too surprised.",
+      "sourceUnit": "桜ルート六日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess...Illya isn't here.\"\nThere's nobody at the park.\nThe small park surrounded by apartment buildings feels forlorn, and it's so chilly, it feels as if it could get thoroughly covered in snow soon.",
+      "sourceUnit": "桜ルート六日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, I wouldn't know what to talk about even if she was here.\"\nI sit down on a bench.\nI set the plastic bag I'm holding on the ground, and look up at the overcast sky.\nLooks like the small souvenir I bought from the shopping district was a waste.",
+      "sourceUnit": "桜ルート六日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI absently gaze up at the clouds.\nMaybe it's because of all the buildings around.\nFrom here, the sky looks boxed off and more distant than usual.",
+      "sourceUnit": "桜ルート六日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's cold.\"\nMy breath mists white.\nThe cold, dry air is freezing, and I wouldn't be surprised if it started snowing.",
+      "sourceUnit": "桜ルート六日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess I'll go home, then.\"\nI pick up the plastic bag and stand up from the bench.\nIt's after 2:00 PM.\nIf I don't get back soon, they'll know I was lying.",
+      "sourceUnit": "桜ルート六日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nMy legs freeze.\nI can't move them.\nNo matter how hard I try, they just stay in place.",
+      "sourceUnit": "桜ルート六日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe world distorts.\nNo, that's not what's happening.\nMy vision is broken.\nMy eyeballs sink into my skull, and I lose any sense of distance from my surroundings.",
+      "sourceUnit": "桜ルート六日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...ah...\"\nI finally realize that I'm in the worst possible situation.\nIt's like my insides have turned to stone.\nMy nerves are severed, and my vision feels cut off from the world.\nIt's like looking at the world through a camera. I've become the protagonist of a video game, controlled by a joystick, and it makes me feel sick.",
+      "sourceUnit": "桜ルート六日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber...\"\nI'm going to be killed.\nWas it a mistake to go out on my own?",
+      "sourceUnit": "桜ルート六日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Is this how I go out, unable to resist, not even knowing who did it—\n\"Just kidding! Did I surprise you?\nYou're so vulnerable, Shirou. I thought it would be funny to tease you a little.\"\nSo this little prankster has been toying with me?",
+      "sourceUnit": "桜ルート六日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, you're back. I guess you bounced back because I only touched you through your vision.\"\n\"Ow...\"",
+      "sourceUnit": "桜ルート六日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "She pops out from behind me.\nIllya smiles smugly, as if she's been here the whole time at the park, watching me from behind.",
+      "sourceUnit": "桜ルート六日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"You've still got a lot to learn if you haven't learned to dispel curses using only your internal world. If you need outside intervention to return to yourself, then your prospects in this war are pretty grim.\"\nShe lectures me haughtily.\nOf course, the joke goes over my head.",
+      "sourceUnit": "桜ルート六日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya! What was that for!? Even if we're both Masters, sneak attacks aren't fair!\"",
+      "sourceUnit": "桜ルート六日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That wasn't a sneak attack. I've been right next to you for a while, but you never noticed, and you even tried to go home. You brought this on yourself, Shirou.\"\n\"Y-you were right next to me?\"",
+      "sourceUnit": "桜ルート六日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I was hiding. But you were still too careless. You couldn't detect me, and all I had to do was clash our magical energies to bind you in a curse. You're a Master, so you need to pay more attention to what's going on around you.\"\nIllya scolds me in exasperation.",
+      "sourceUnit": "桜ルート六日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Okay. I see.\"\nIt makes her feel like a teacher, and I end up nodding obediently.",
+      "sourceUnit": "桜ルート六日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm glad you understand.\nSo why are you here today, Shirou? You're all empty inside, and you didn't bring Saber with you. Wouldn't it be safer to rest at home?\"",
+      "sourceUnit": "桜ルート六日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? No, I didn't come to the park to rest.\n...Though, yeah, it was careless not to bring Saber.\"",
+      "sourceUnit": "桜ルート六日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Right? You were acting so weird, I couldn't leave you alone. Yesterday was the last day I was supposed to talk to you, but I'll make an exception.\"\n\"Hm?\"\nIllya says something strange.\nAfter all, I'm only here because...",
+      "sourceUnit": "桜ルート六日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"So why were you sitting here?\nIf I'd come as a Master, you'd already be dead, you know.\"\n\"I just came to see you, Illya.\nYesterday, you're the one who said we could see each other again.\"",
+      "sourceUnit": "桜ルート六日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nShe's surprised.\n...It's not like we promised to meet, so that's to be expected.",
+      "sourceUnit": "桜ルート六日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...? I said I was going to kill you, Shirou. Why would you want to see me?\"\n\"That's your business, not mine. I want to talk to the Illya who isn't a Master, and...\"",
+      "sourceUnit": "桜ルート六日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Illya had a chance to kill me, and she didn't.\nIf she'd let the curse keep going, I probably would have died.\nBut she didn't let that happen, so I don't want to fight her.",
+      "sourceUnit": "桜ルート六日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Masters aren't supposed to fight in broad daylight, anyway.\nSo let's forget about that for now. I'm just here to see you, Illya. Would you rather talk to me, or kill me?\"",
+      "sourceUnit": "桜ルート六日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh!? I-I don't know. I want to do both. It's fun talking to you, but I'm not supposed to. I have to choose one.\"",
+      "sourceUnit": "桜ルート六日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Illya mumbles, looking downcast.\nHer expression is so sincere, it looks more like she's suffering rather than indecisive.",
+      "sourceUnit": "桜ルート六日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Then you can pick either one. I won't tell you what to do.\"\n\"Ah... B-but I...\"\n\"Yeah, I know. Since we're here anyway, let's talk.\nI brought you a gift, so we can fight next time.\"",
+      "sourceUnit": "桜ルート六日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I take a paper bag of taiyaki out of the plastic bag.\nIt cooled while I was waiting for Illya, but it's still faintly warm.",
+      "sourceUnit": "桜ルート六日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Your present. I hope you'll let me off the hook today.\"\nI push the taiyaki into her hands.\n\"Ah...\"\nIllya hesitates, but still takes the taiyaki without saying anything. She gives me a small nod.",
+      "sourceUnit": "桜ルート六日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "I don't really remember what we talked about after that.\nFoods we like and dislike.\nShe likes birds and dislikes cats. She likes snow but doesn't like the cold. She wants to play, but she can't. She doesn't like the nagging maid who keeps an eye on her, but could come to like her. Just silly stuff like that.",
+      "sourceUnit": "桜ルート六日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Illya seems happy just to have someone to talk to.\nShe stuffs her cheeks with the barely warm taiyaki and kicks her feet while sitting on the bench.\n...It brings to mind the image of a daughter waiting for her father to come home.",
+      "sourceUnit": "桜ルート六日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. So you didn't come here by yourself?\"\n\"Sella and Leysritt came with me. I don't need anyone to keep an eye on me, but I do need someone to keep my affairs in order.\"",
+      "sourceUnit": "桜ルート六日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Illya brought her two maids all the way to Japan.\nI understand that much, but is she having them stay in a hotel with her?",
+      "sourceUnit": "桜ルート六日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Are you curious about where I live?\"\n\"Er... yeah, I am. You always show up out of nowhere. I wouldn't know where to find you if I needed to.\"",
+      "sourceUnit": "桜ルート六日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "If Illya ever gets hurt or calls for help, I won't know where to find her.\nIf she could at least tell me an address, then I'd feel a little better about it, but...",
+      "sourceUnit": "桜ルート六日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, sure. You're special, Shirou. I'll tell you if you want to know.\"\nShe agrees.\nIllya lightly gets up from the bench, and puts her hand on my forehead.",
+      "sourceUnit": "桜ルート六日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa—wait, Illya—\"\n\"Just be quiet. If you resist too much, I'll send you into the wrong thing. Then it'll be a lot of trouble to bring you back.\"\n\"Oh. O-okay.\"\nI reflexively nod at her stern tone.",
+      "sourceUnit": "桜ルート六日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Good boy. Now, close your eyes. Also, don't look around too much. I'm 'sending' you, but I'm actually only moving your viewpoint and not your body, so you might get motion sickness.\"",
+      "sourceUnit": "桜ルート六日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nIllya suddenly presses her forehead against mine.\nI close my eyes in surprise.\nSuddenly,",
+      "sourceUnit": "桜ルート六日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "my field of view accelerates at extreme speed, then expands.\nNo, it's my consciousness that expands.\nI find myself looking at a scene I've never seen, peering down from someplace high up...",
+      "sourceUnit": "桜ルート六日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you see it? Right now, your sense of vision is connected to my forest.\"",
+      "sourceUnit": "桜ルート六日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Illya's voice echoes.\nI can't answer or nod.\nRight now, I am only my sense of vision.\nI'm a tree, looking out over a vast forest.\nI can't move my body,\nbecause I've just been transformed into a silent tree.",
+      "sourceUnit": "桜ルート六日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Remember the way? I'll send you to the castle walls next.\"",
+      "sourceUnit": "桜ルート六日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "The image changes.\nI'm cut off from my body, but my vision still works.\nI'm still me, but I can't feel myself.",
+      "sourceUnit": "桜ルート六日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "After the tree comes a wall.\nI still feel my arms and legs, but I don't have any limbs to move. I feel like I have a body I can move, but I don't feel free to move.",
+      "sourceUnit": "桜ルート六日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Leysritt. I haven't seen Lady Illyasviel. Do you know where she might be?\"\n\"...No idea. Illya should be. Somewhere.\"\n\"Leysritt, stop addressing our mistress that way. We serve Lady Illyasviel. Have you forgotten the duty that our lord charged us with?\"",
+      "sourceUnit": "桜ルート六日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sella, you're Illya's tutor. My job is to help Illya put on the Third Dress—the Heaven's Feel.\"\n\"Correct. I'm glad that you remember even that, with your poor memory.\"\n\"...I haven't...forgotten. Because Illya...doesn't like wearing it. I don't really want to. To make her wear it.\"",
+      "sourceUnit": "桜ルート六日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm well aware of that. But when the time comes, she must wear it. It is what we were created for.\nThe mistress is determined to do her duty.\"",
+      "sourceUnit": "桜ルート六日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sella.\"\n\"What is it, Leysritt?\"\n\"...Doesn't it make you tired?\"\n\"Not at all!\"",
+      "sourceUnit": "桜ルート六日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...I hear two maids with the same face and outfit talking.\nAs soon as I realize they're the caretakers Illya mentioned,",
+      "sourceUnit": "桜ルート六日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "I finally return to my body.",
+      "sourceUnit": "桜ルート六日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Well done. How was it? That was a bit of Metamorphosis magecraft.\"\n\"Agh... Oof.\"",
+      "sourceUnit": "桜ルート六日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "I put my hand over my mouth and fight down the nausea.\nEverything suddenly became more real when the images suddenly became my own again, and it makes me feel sick.",
+      "sourceUnit": "桜ルート六日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Ill...ya... What was that?\"\n\"I transferred your consciousness. I sent your sense of vision into something else.\"",
+      "sourceUnit": "桜ルート六日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Your eyeballs are connected to your brain by nerves, right? I connected your brain to something else instead of your eyeballs.\nFor a few moments, your visual information didn't come from your eyeballs, but from the trees in my forest.\"",
+      "sourceUnit": "桜ルート六日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh. So I didn't turn into a tree, but I was receiving a transmission of what the tree saw, making me think that I was the tree?\"",
+      "sourceUnit": "桜ルート六日目-09:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you're sharper than you look.\nYeah, that's what happened. It's a form of magecraft that treats humans like hardware and transposes their input source.\nIt's a big deal to turn someone directly into a tree, but magecraft is still capable of connecting someone's consciousness to a tree. This magecraft is used for scrying and possession, too.\"",
+      "sourceUnit": "桜ルート六日目-09:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...I think I get it. But that's crazy. When I was seeing from the tree's point of view, I couldn't do anything. Can't you use this transference to attack someone and render them helpless?\"",
+      "sourceUnit": "桜ルート六日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Our magical attribute is the flow and transference of power.\nFor example, the Tohsaka mages transfer their energy into precious gems, which maintains the power's purity. They can apply the same logic to transfer someone's consciousness by force, too.\nIf there's an enemy they want to seal away, they can neutralize the target by designating the consciousness' input as the inside of a jewel, or a puppet that can't move.\"",
+      "sourceUnit": "桜ルート六日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"But transferring someone else's consciousness has a very low success rate, so I'd say most mages wouldn't use it offensively, unless they're specialists like me or the Tohsakas.\"",
+      "sourceUnit": "桜ルート六日目-09:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"It worked on you because you didn't resist, and because the forest belongs to me. It's normally a lot harder to make the connection work.\"",
+      "sourceUnit": "桜ルート六日目-09:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"On top of that, if the transferee's source body receives any stimulus before the transfer is done, their consciousness will be forced back home.\nEven if the remote consciousness can't tell if its original body is in danger, the physical body will recall its separated consciousness if it senses danger.\"",
+      "sourceUnit": "桜ルート六日目-09:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what happened earlier, Shirou.\nYou couldn't do anything when your mind was in that tree, but all I had to do was shake you to make it call your soul back.\"",
+      "sourceUnit": "桜ルート六日目-09:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So it's like a dream?\"\nWhen I dream, I can't wake up on my own no matter how hard I try.\nMost of the time, I wake up when morning arrives.\nIn other words, my body's habitual functions wake me up.",
+      "sourceUnit": "桜ルート六日目-09:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmm, I'd say it's a little different. You can awaken from a dream using your own intellect.\nThat's why transference isn't suited to offensive use. It's mainly used for self-preservation.\"",
+      "sourceUnit": "桜ルート六日目-09:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"If you transfer your own consciousness to a familiar or a puppet that can move, you can control that body and use it to safely conduct magical work.\"",
+      "sourceUnit": "桜ルート六日目-09:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...So you're saying that even if an enemy defeats your remote-controlled robot familiar, your consciousness will just return to your real body?\"",
+      "sourceUnit": "桜ルート六日目-09:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. A mage who transfers their own consciousness will make absolutely certain to hide their real body in a safe place.\nIn that case, they also need to be careful if the target familiar has a soul of its own.\"",
+      "sourceUnit": "桜ルート六日目-09:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"If the target vessel has its own command system—its own mind, then the mind of the familiar with a soul will be in control.\"",
+      "sourceUnit": "桜ルート六日目-09:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why when we transfer into a human or an animal, we just end up on the edge of the target's brain. We're only looking at images along with them. It isn't remote control, but remote viewing through a camera.\"",
+      "sourceUnit": "桜ルート六日目-09:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"To move your own mind into a living being—a familiar with a soul—and dominate them isn't transference, but magecraft on the level of reincarnation.\nThat's a form of grand magecraft which most mages can't hope to emulate.\"",
+      "sourceUnit": "桜ルート六日目-09:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "Reincarnation...\nMagecraft that lets a child inherit one's soul after death.\nApparently, some mages have achieved it, but recreating the soul is a challenge of its own.",
+      "sourceUnit": "桜ルート六日目-09:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "One might manage to start life over as a baby, but if one doesn't inherit 100% of one's abilities from one's past life, that isn't reincarnation, but mere duplication.\nIt's a replica. An inferior copy.\nThe baby would be inferior to the mage it was reborn from.",
+      "sourceUnit": "桜ルート六日目-09:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"If you're going to bother transferring into living things, you could make a mindless familiar and control that shell.\nBut modern mages can't make very powerful soulless vessels. They're just stuffed dolls that the mage controls with their magical energy.\nThey aren't good for much more than delivering messages.\"",
+      "sourceUnit": "桜ルート六日目-09:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, even if you send your mind into a familiar or a moving puppet, it doesn't change the fact that your own mind will disappear once your real body dies of old age.\nIt isn't a path to immortality.\"",
+      "sourceUnit": "桜ルート六日目-09:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Souls are the only permanent thing in the material world.\nBut nobody can make souls exist independently in the world. A soul can't remain here without a body to host it, and once it acquires a body, it's bound by that body's mortality.\nThe magecraft you just experienced is about the best we Einzberns and Tohsakas can manage.\"",
+      "sourceUnit": "桜ルート六日目-09:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "The lecture ends.\nSuddenly, something rings out, announcing the time.\nThe clock in the park reads 3:00 PM.\nAn entire hour went by before I even knew it.",
+      "sourceUnit": "桜ルート六日目-09:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...I have to go soon. Are you going home, Shirou?\"\n\"Hm? Yeah, I'd better get back soon too or I'll be in trouble.\"\nIllya nods, then walks into the middle of the park.",
+      "sourceUnit": "桜ルート六日目-09:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. I really shouldn't say this, but...\"\nShe pauses, as if expecting to be rejected.\n\"Will you come see me tomorrow, too?\"\nThe small, white-haired girl asks me.",
+      "sourceUnit": "桜ルート六日目-09:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That idiot.\nDo I even need to answer that?",
+      "sourceUnit": "桜ルート六日目-09:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be here tomorrow. Today you told me where you live, so it's my turn next.\"\n\"Okay! Then it's a promise! I'll definitely call out to you tomorrow!\"",
+      "sourceUnit": "桜ルート六日目-09:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Illya leaves.\nThe sky is gray.\nIt makes the white-haired girl seem like a fairy.",
+      "sourceUnit": "桜ルート六日目-09:page86:1"
+    },
+    "page87": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0289",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to go talk to Saber. I don't know what's up, but is it okay to leave you in charge of dinner?\"\n\"Yup. I'll make you delicious crab egg foo young, so look forward to it.\"",
+      "sourceUnit": "凛ルート六日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm a bit worried, but crab egg foo young is like an advanced version of an omelet, so even Fuji-nee should be able to handle it.",
+      "sourceUnit": "凛ルート六日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I just got home, Saber.\"\nI take my shoes off as I enter the dojo.",
+      "sourceUnit": "凛ルート六日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Welcome back, Shirou. It would appear that nothing out of the ordinary happened today.\"\nSaber must feel relaxed in this atmosphere, as she seems to favor the dojo.",
+      "sourceUnit": "凛ルート六日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I kneel to sit and match Saber and tell her about what happened today. How we eliminated the Bounded Field at school, and how Tohsaka anticipates that there'll be some kind of counterattack tomorrow.",
+      "sourceUnit": "凛ルート六日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So our battle with an enemy Master is tomorrow? Then I shall get plenty of rest tonight and save my energy.\"",
+      "sourceUnit": "凛ルート六日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I agree.\n...I know it's probably naïve, but I didn't tell her about Shinji.\nI don't want her to consider him an enemy until his true intentions are clear.",
+      "sourceUnit": "凛ルート六日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"However, Shirou. Is it fine for you to be here when it is almost time for dinner?\"\n\"Mm? Well, it's not like I have anything in particular to do, so I came to report to you since I have time until dinner.\nIt's not bad to relax before a meal once in a while.\"",
+      "sourceUnit": "凛ルート六日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Then you are not making dinner tonight...!?\"\n\"Huh... N-no, is there a problem? Fuji-nee's working hard, so I don't want to interrupt her.\"",
+      "sourceUnit": "凛ルート六日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm... We should certainly respect her willingness, but... Um, will you really not be helping her...?\"",
+      "sourceUnit": "凛ルート六日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. It's all right, Fuji-nee is an adult, so she should be able to make some egg foo young.\nWell, she might be even better than me. She has an A-rank in unexpectedness after all.\"",
+      "sourceUnit": "凛ルート六日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Admittedly, my explanation might be strange.\nAnd Saber is still frowning.\n\"...Understood. I shall believe your words over Taiga's.\n...Allow me to make sure. I can trust you, right, Shirou?\"\nShe makes sure with an intimidating intensity.",
+      "sourceUnit": "凛ルート六日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah. You can trust me.\"\n\"...I heard that. Please do not forget the oath you made.\"\nThat must've been enough, as she relaxes her shoulders.",
+      "sourceUnit": "凛ルート六日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Man.\nWho would've imagined that this would become the cause of such a disaster...?",
+      "sourceUnit": "凛ルート六日目-03:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

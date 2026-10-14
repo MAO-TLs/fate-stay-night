@@ -1,0 +1,311 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0077",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I promised to meet Tohsaka.\nIt may have been her dictating to me, but she probably has something to talk about.",
+      "sourceUnit": "セイバールート五日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I buy lunch and head to the rooftop.\nThe rooftop is typically packed with other students when it's warmer, but it's deserted in the winter chill.",
+      "sourceUnit": "セイバールート五日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Although winter in Fuyuki is comparatively warmer, the rooftop gets unbearably cold.\nSo the only people exposed to the cold wind are myself and...\n\"You're late! What was the holdup!?\"\n...Tohsaka, shivering in the shadows.",
+      "sourceUnit": "セイバールート五日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry I'm late. I felt bad, so I brought you something to make up for it, but I guess you don't need it.\"\nI show her the warm canned coffee I bought, and I put it back in my pocket.",
+      "sourceUnit": "セイバールート五日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... You may look unsophisticated, but you're pretty considerate.\"\n\"I did it because I felt like it. And come on, go a little further over there.\nIt's windier over here, and people might see us.\"",
+      "sourceUnit": "セイバールート五日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I hand her the canned coffee as I head towards the back where I won't be seen.\nWe won't be as conspicuous here, and there's no way anyone from the fourth floor would see us.",
+      "sourceUnit": "セイバールート五日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks. Next time, I prefer tea. And I like instant milk tea. Other than that, you'll get no thanks from me, so be warned.\"\n\"Got it. If I remember next time, that is. So why'd you call me here? Considering we're meeting where there's nobody else around, I assume you want to talk about you-know-what.\"",
+      "sourceUnit": "セイバールート五日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"O-of course. What else would we talk about other than that?\"\n\"Yeah, you're right. So, what's up?\"\n\"Why are you acting so nonchalant?\"",
+      "sourceUnit": "セイバールート五日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, it's cold. I want you to make this short.\nAren't you cold too, Tohsaka?\"\n\"What!? Of course I am! I was planning on getting this over with real quick too!\"",
+      "sourceUnit": "セイバールート五日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Yep. I figured.\nI was just stating the obvious, so she really doesn't need to yell at me like that.",
+      "sourceUnit": "セイバールート五日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, fine.\nThen I'll get right to the point. Shirou, what were you thinking of doing after school?\"\n\"After school? I really don't have any plans, honestly. If I need to help out the student council, I'll help, but if not, I'll go to my part-time job.\"",
+      "sourceUnit": "セイバールート五日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Why're you looking so confused? If you have something to say, just tell me. I'll try to address it.\"",
+      "sourceUnit": "セイバールート五日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly... I may not care what really happens to you, but I guess I'll give you a warning. We have formed an alliance, and you're just too inexperienced as a mage.\"\n\"That again? I'm sick of hearing how inexperienced of a mage I am. I'm actually sensitive about that, so don't bully me.\"",
+      "sourceUnit": "セイバールート五日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not bullying you. I just want to point out how ignorant you are because you don't seem to notice there's a Bounded Field set up around the school.\"\nWhat?\nA Bounded Field at the school...?",
+      "sourceUnit": "セイバールート五日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. A Bounded Field at school... Does that mean...\"\n\"You got it. It's a Bounded Field set up by some other Master.\nIt's been cast over a wide area, and if it gets activated, it'll pretty much enclose the entire school grounds.\"",
+      "sourceUnit": "セイバールート五日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "It's intended to steal the flesh and blood from all the people within the Bounded Field. It looks like it's still at its beginning stages, but haven't you noticed how listless everyone seems?\"",
+      "sourceUnit": "セイバールート五日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nNow that she mentions it, I felt a little strange two days ago, but was that why?\nBut that means...",
+      "sourceUnit": "セイバールート五日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"That means there's a Master...at school...?\"\n\"Exactly. We have an enemy lurking here. Do you get it now, Emiya? If you're not prepared, you'll die.\"",
+      "sourceUnit": "セイバールート五日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy relaxed demeanor fades and I tense up.\n\"So do you know who this Master is, Tohsaka?\"",
+      "sourceUnit": "セイバールート五日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I have some ideas, but I don't have solid proof. Well actually I do know there's another mage in this school, but a mage isn't necessarily a Master.\nThere are cases where amateurs become Masters, like you, so I can't be sure.\"",
+      "sourceUnit": "セイバールート五日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. I'm still a mage and not a complete amateur and...hey hold up! Did you just say there's another mage at this school!?\"",
+      "sourceUnit": "セイバールート五日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. But I don't sense any indication they're a Master. I checked right away, but they didn't have Command Spells and I didn't sense the presence of a Servant.\nIf they're hiding it really well, that's another matter, but I'm pretty sure they're not a Master.\"",
+      "sourceUnit": "セイバールート五日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Which is why I think the Master here is someone who knows only a little bit of magecraft, like you.\nI've been feeling a bit of magical energy other than ours here recently. That has to be the enemy Master, but...\"\nBut it's not enough to track.",
+      "sourceUnit": "セイバールート五日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"A Master who's not a mage, huh? You must be very sure if you're bringing it up.\nI believe you, but...I didn't know there were so many mages in our school.\"",
+      "sourceUnit": "セイバールート五日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"It's actually not that many. It's just me and that other mage.\nYou know how mages value their lineage, right? If two families put down roots in a small town like this area, they couldn't help knowing each other.\"",
+      "sourceUnit": "セイバールート五日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that what happens? But I didn't know anything about your family.\"",
+      "sourceUnit": "セイバールート五日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Your household is an exception. Your father had to have alienated himself from the Association and been sort of a lone wolf. He probably settled here because he just liked it, but this city is under the Tohsaka family's jurisdiction.\"\nIf we had found out, we would've taken everything from him, so I guess he was in hiding to avoid exactly that.\"",
+      "sourceUnit": "セイバールート五日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...what the heck do you mean about taking everything from him?\"",
+      "sourceUnit": "セイバールート五日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh. Curious? I'll come and collect from you once you are properly trained, so look forward to it!\"\n\"Geez, what a façade you put up.\nSome honor student you are, you imposter.\"",
+      "sourceUnit": "セイバールート五日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh is there something wrong with that? Maintaining appearances is part of a mage's job description.\nBecause you know, I'm the Tohsaka family's heir, so I have to act like the perfect honor student or I wouldn't be able to face my father in heaven.\"",
+      "sourceUnit": "セイバールート五日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Your father?\"\n\"He died when I was young. Well, he lived a long and fulfilling life, so I'm not really that sad about it.\"",
+      "sourceUnit": "セイバールート五日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka smiles, as if saying that's just how it goes when you have a mage for a father.\nBut...",
+      "sourceUnit": "セイバールート五日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a lie. You're sad when someone dies. All the more if that person is your parent. Saying that it can't be helped because someone is a mage is no excuse to just gloss over it.\"\n\"...Well, you're right.\nI can't really argue that. You're absolutely right.\"",
+      "sourceUnit": "セイバールート五日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "As she says that, Tohsaka opens up the canned coffee she'd been using as a hand warmer until now.\nShe drinks her coffee in small sips.\nI'd expected her to take a big gulp honestly, but she's pretty feminine when it comes to things like this.",
+      "sourceUnit": "セイバールート五日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Back on topic.\nThere are only two mages in Fuyuki.\nThe other Masters are either from outside, or they are irregulars who were chosen to be Masters because they know just a little magecraft.\"",
+      "sourceUnit": "セイバールート五日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Is that so?\nSo according to Tohsaka, I'm quite the irregularity.",
+      "sourceUnit": "セイバールート五日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I got that. But if there's a Master who barely started learning magecraft, they probably wouldn't be able to create a Bounded Field like this one.\"",
+      "sourceUnit": "セイバールート五日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"It may not be the Master. The Servant might have put up the Bounded Field.\"\nServants can't choose their Masters. If a Servant ends up with a Master like you, their only chance of winning would be if they came up with strategies themselves.\"",
+      "sourceUnit": "セイバールート五日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Probably. I hate to think of it that way, but I can't argue.\"",
+      "sourceUnit": "セイバールート五日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Good. I like it when you're so accepting.\nSo about this Bounded Field. It's quite advanced.\nIt's pretty much at the level of Magic, and if there were a mage here who could create something like this, they wouldn't be able to conceal their presence or magical energy. So, I believe this Bounded Field is the work of a Servant.\"",
+      "sourceUnit": "セイバールート五日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"The works of a Servant, huh? That must mean the Master isn't as dangerous.\"",
+      "sourceUnit": "セイバールート五日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not necessarily true. Whether they're mages or not, whoever it is, they don't know the proper rules. They're almost certainly the type to immediately try to kill any Master they find.\"",
+      "sourceUnit": "セイバールート五日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Not know the rules? The rules of the Holy Grail War?\"\n\"No, rules of just being a human being. If they're making their Servant create a Bounded Field like this, they just flat out don't know right from wrong.\"",
+      "sourceUnit": "セイバールート五日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, Shirou. Once this Bounded Field is completed and activated, it'll dissolve and absorb everyone inside.\nThink of it like they're in the belly of some creature.\nOr rather, we might not be affected by it because we're protecting ourselves with magical energy, but anybody who doesn't possess magical energy will weaken and die without their knowing.\"",
+      "sourceUnit": "セイバールート五日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"This is way beyond just involving ordinary citizens.\nThe moment this Bounded Field is activated, everyone in this school will die. Do you understand? There's a Master in this school who is willing to make a Bounded Field this awful.\"",
+      "sourceUnit": "セイバールート五日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy vision blurs momentarily.\nI take a deep breath so I can make sure I fully comprehend what Tohsaka's trying to say.",
+      "sourceUnit": "セイバールート五日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "But it stops there.\nI attempt to imagine the worst possible outcome, even if my imaginings may fall short, and I keep that image deep within my heart and accept the position I've been placed in.",
+      "sourceUnit": "セイバールート五日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I get what you're trying to say.\nSo, Tohsaka...can't we try to destroy this Bounded Field?\"",
+      "sourceUnit": "セイバールート五日目-06:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I tried, but it was impossible. I found all the sources for it, but I can't destroy them. The only thing I can do is to temporarily weaken the sources to delay the whole thing from activating.\"",
+      "sourceUnit": "セイバールート五日目-06:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"So as long as you're here, the Bounded Field can't fully be formed?\"",
+      "sourceUnit": "セイバールート五日目-06:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I can only hope, but that's wishful thinking. The Bounded Field is already set up, and the magical energy needed to activate it is gradually accumulating. According to Archer's estimate, everything will be ready in about eight days.\"",
+      "sourceUnit": "セイバールート五日目-06:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "When it's ready, either the Master or Servant will transform this school into a living hell.\"\n\"Then before that happens...\"",
+      "sourceUnit": "セイバールート五日目-06:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"We need to defeat the Master lurking in this school.\nBut it'll be challenging to find them. We've pretty much been at their mercy from the moment that Bounded Field was formed. The Master just needs to wait until it's ready to be activated. They don't need to make themselves known until then. So the only chance we have is...\"",
+      "sourceUnit": "セイバールート五日目-06:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"When they come out, right?\"\n\"Bingo. So you should stay quiet until then. You'll have to fight whether you like it or not when the time comes, and it'd be stupid to let the enemy find you, were you to go searching for the Master yourself.\"",
+      "sourceUnit": "セイバールート五日目-06:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "The metallic sound of the school's bell rings out across the frozen rooftop.\nLunchtime is over.",
+      "sourceUnit": "セイバールート五日目-06:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all I've got right now. I have somewhere I need to go today, so go home by yourself. Try not to take any detours.\"\nTohsaka leaves with a casual, \"Bye.\"",
+      "sourceUnit": "セイバールート五日目-06:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis doesn't feel right to me.\nLearning that Masters may attack other Masters is enough to make me anxious, but...",
+      "sourceUnit": "セイバールート五日目-06:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"A Bounded Field around the school...?\"\nBut now there's a possibility that innocent people might get dragged into this too?\nThat's not what Masters do...that's just what a mass-murderer does.\nSo I need to find whoever set this Bounded Field up before it's activated...find them and destroy them utterly.",
+      "sourceUnit": "セイバールート五日目-06:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Rejoice, Shirou Emiya. Your wish shall...\"\n\"...Ungh.\"\nI shake my head, trying to ignore the words that pop right into my mind.\nI never wished for this.\nWishing for \"bad guys\" to show up so I can defeat them is not what I do.",
+      "sourceUnit": "セイバールート五日目-06:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "The end of day homeroom ends, and students start to file out of the classroom.\nNormally I would go to the student council room, but I decide to go home since Tohsaka told me to.",
+      "sourceUnit": "セイバールート五日目-06:page59:1"
+    },
+    "page60": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

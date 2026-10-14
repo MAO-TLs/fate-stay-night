@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0689",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I have to use Archer's arm.\nI can't let Rider do this.\nEither I surpass my Projection limits, or she'll kill me. It's do or die!",
+      "sourceUnit": "桜ルート十五日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on. (Begin Projection.)\"\nI start up my Magic Circuits, keeping my eyes on Rider.\n...I won't Project my weapons until the last possible second.\nThe instant Rider moves towards me, I'll create a sword in zero seconds flat and intercept her with all my might!",
+      "sourceUnit": "桜ルート十五日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Projection magecraft. I cannot use you to your full potential, but an excellent swordsman might be able to best utilize you as a Noble Phantasm.\"",
+      "sourceUnit": "桜ルート十五日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nRider's bloodlust recedes.\nShe withdraws, as if she's read my mind.",
+      "sourceUnit": "桜ルート十五日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rider?\"\n\"I will let you go. I cannot use you.\n...What an ironic twist of fate, Shirou. If Saber were still here, she would be an ideal partner for you.\"",
+      "sourceUnit": "桜ルート十五日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Rider's presence fades away.\nShe must have left the house right away after she came out of the shed.\nHer bloodlust is gone, and it doesn't seem like it'll ever return.",
+      "sourceUnit": "桜ルート十五日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nDid she...let me go?\nUnless I'm imagining it, she might have offered to help me if I'd given her a chance...",
+      "sourceUnit": "桜ルート十五日目-15:page6:1"
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

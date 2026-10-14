@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0044",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I refuse to abandon someone when they're down.\nThat's how I've always lived my life.\nAnd most importantly, I can't leave the girl who fought so hard to protect me.",
+      "sourceUnit": "セイバールート三日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay Berserker. She's going to regenerate, so take her out now.\"\nBerserker rumbles back into movement.\nI...",
+      "sourceUnit": "セイバールート三日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Why YOUUUUUU!!!\"\nI run forward as fast as I can.\nI can't possibly do anything against that monster.\nBut the least I can do is to get Saber out of the way and save her from Berserker's atta—",
+      "sourceUnit": "セイバールート三日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\"\nI fall.\nWhy?\nI was going to shove Saber away from Berserker. Then I'd figure out what to do afterward...so why?",
+      "sourceUnit": "セイバールート三日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Gahhk...\"\nWhy...?\nWhy am I on the ground, unable to breathe?",
+      "sourceUnit": "セイバールート三日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"!?\"\nI hear surprised voices.\nFirst is Saber, who is in front of me now.\nThen there's Tohsaka, standing at a distance, looking aghast.\nAnd then for some reason, the girl calling herself Illya stares down at me, dumbfounded.",
+      "sourceUnit": "セイバールート三日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hu...h...?\"\nThere's a gaping, ragged hole in the middle of my body.\nI'm on the ground.\nOn the asphalt. There's only a little blood considering how big the wound is. I see some withered, branch-looking things and some shattered...stuff, and...man, that looks painful, all those parts...scattered around...",
+      "sourceUnit": "セイバールート三日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I get it. How dumb am I?\"\nSo I didn't make it.\nI could never have pushed Saber away, so I was just her shield.\nAnd then that ungodly huge machete-thing took a good chunk out of my stomach.",
+      "sourceUnit": "セイバールート三日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Gahhk...\"\nI can't believe I failed at a time like this.\nI tried my best to be a hero of justice, but I screwed it all up when it really mattered.",
+      "sourceUnit": "セイバールート三日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Why?\"\nThe silver-haired girl's face is blank as she speaks.",
+      "sourceUnit": "セイバールート三日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "After standing there dumbfounded, she just says,\n\"I've had enough. This is boring.\"\nShe calls Berserker back without finishing Saber off.",
+      "sourceUnit": "セイバールート三日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. I'll kill you the next time we meet.\"\nThe girl leaves.\nAfter she disappears, I completely black out.",
+      "sourceUnit": "セイバールート三日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I lose consciousness.\nI'm really dead this time.\nI somehow survived when Lancer killed me last time, but my luck's definitely run out.\nThere's no magecraft that could save a person who just lost half his body.",
+      "sourceUnit": "セイバールート三日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what were you thinking!? Don't you know I can't save you anymore!\"",
+      "sourceUnit": "セイバールート三日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I hear a voice reprimanding me.\nIt must be Tohsaka. She sounds like she's really mad, and I feel bad.",
+      "sourceUnit": "セイバールート三日目-07:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

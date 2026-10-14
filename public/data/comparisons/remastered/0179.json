@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0179",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a good idea. It's a little early, but I guess I can start preparing.\"\n\"Is it early? It is almost noon, and by the time you have completed preparations, it will be lunchtime.\"",
+      "sourceUnit": "セイバールート十二日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Well, I actually made us boxed lunches today.\nEverything's done and packed, so we just need to bring the bento from the living room and we can eat now.\"",
+      "sourceUnit": "セイバールート十二日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wonderful. Then I think I can manage to hold out.\"\nSaber breathes a sigh of relief.",
+      "sourceUnit": "セイバールート十二日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What do you mean, hold out?\"\n\"N-nothing! Nothing at all! I am simply talking to myself! Let us eat!\"",
+      "sourceUnit": "セイバールート十二日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, you've been pretty weird today. You were even sparring weird. If you're not feeling well, you need to tell me.\nIf you're not feeling well, you shouldn't eat the bento. I'll make you something a little easier to digest.\"",
+      "sourceUnit": "セイバールート十二日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? N-no, that is absolutely not the case!\nIf you start now, it will take time, and we must eat right now... So let us eat! Now, Shirou!\"",
+      "sourceUnit": "セイバールート十二日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWhat's gotten into her?\nShe doesn't look ill, and it doesn't look like I'll need to make her anything special.",
+      "sourceUnit": "セイバールート十二日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. Then I'll bring over the bento and some tea, so you two just wait here. We don't often have bento for lunch, so let's take the chance to eat here in the dojo.\"\n\"Yes. Thank you, Shirou.\"",
+      "sourceUnit": "セイバールート十二日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber waves enthusiastically, sending me off.\nShe's flustered, she's mad... Seriously, what's going on with her today?",
+      "sourceUnit": "セイバールート十二日目-04:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0217",
+  "rows": {
+    "page0": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

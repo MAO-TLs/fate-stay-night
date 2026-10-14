@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0344",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Well, it's obvious who the culprit is.\nAs the one in charge of cooking, I can't accept someone wasting my precious morning time with a question and answer session.\n\"That's right. If I have such time, I should go buy some tofu.\"",
+      "sourceUnit": "凛ルート十一日目-02:page0:1"
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

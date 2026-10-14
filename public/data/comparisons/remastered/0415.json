@@ -1,0 +1,372 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0415",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, how's your injury?\"\n\"Oh this? Ummm, right, it should be ok. I feel fine right now and I can still use my circuits.\"\n\"...Is that so? Then I suppose it should be fine.\"",
+      "sourceUnit": "凛ルート十四日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "She ends the conversation but it seems something else is still on her mind.",
+      "sourceUnit": "凛ルート十四日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt's been an hour since we've returned. We both have something on our minds but nothing is said.\nWe don't have time to be glad that Tohsaka is safe for now, nor do we have the time to celebrate our reunion.",
+      "sourceUnit": "凛ルート十四日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We are still in a dire situation.\nThe last Servant, Gilgamesh.\nAs long as he holds the Holy Grail, we have no choice but to fight him.",
+      "sourceUnit": "凛ルート十四日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...We don't have a plan to break out of this predicament. The more we think about it the more we are hit with the feeling of despair.\nOf course we wouldn't have anything to say to each other.",
+      "sourceUnit": "凛ルート十四日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nHowever, that's not the only reason we're silent.\n...It's probably because, this is the last.\nThis will be the last time we're heading into battle.\nIt doesn't matter what's the result, win or lose, what awaits us will be the same.",
+      "sourceUnit": "凛ルート十四日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail War will end here.\nAfter that... The three of us won't be able to talk like this again.",
+      "sourceUnit": "凛ルート十四日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Thinking back, we've only spent ten short days together.\nWe were thrust into one happening after another during these ten days. So much so we don't even have time to think about what happened yesterday.\n...But, it's not all bad memories during these ten days.\nNow thinking back, there are irreplaceable memories I've made in these ten days.",
+      "sourceUnit": "凛ルート十四日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd that's the reason we are not saying anything.\nWe don't want to admit our time together is ending, and we're swallowing the words we want to say.",
+      "sourceUnit": "凛ルート十四日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka, Saber, and myself all have the answers in our heads.\nThe reason we won't say it out loud, it's because we don't want to end what we had in the manner we have now.",
+      "sourceUnit": "凛ルート十四日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine, then I will start.\nI'm going to avenge Archer. I know he was a terrible person who betrayed me, but he's also Shirou.\"",
+      "sourceUnit": "凛ルート十四日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka said so with determination in her voice.\nWe will face Gilgamesh.\nShe has said it clearly that we will end this fight.",
+      "sourceUnit": "凛ルート十四日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you, Shirou? I will have Saber join me no matter what, but since you're not a Master anymore I won't force you.\nAnd it seems that Goldy sees you as a thorn in his side. So if you were to join us in this fight, he would probably come after you first.\"",
+      "sourceUnit": "凛ルート十四日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Maybe she's being considerate, she's even given me a reason to back out.\nBut I have my answer already.\nI can't leave Gilgamesh alone.\nAlso I have a hunch that the Holy Grail he's trying to use is not something that should exist.\nBut there's another reason why I can't back out.",
+      "sourceUnit": "凛ルート十四日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "—You will defeat him.\nHe left behind those words and chose to keep me alive instead of himself.\n...The same man whose existence is to deny Shirou Emiya.\nNow that I have made him admit defeat, there's only one path left for me to take.",
+      "sourceUnit": "凛ルート十四日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I am going to defeat him. I've already decided that I will fight. If I don't keep my words until the end, I don't know what Archer would say about me next time.\"",
+      "sourceUnit": "凛ルート十四日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. If you already made up your mind then I won't stop you.\"\n\"Thank you. Besides, I can't leave the Holy Grail alone.\nIf the Holy Grail does exactly what Gilgamesh described, then it's better if we destroy it, completely. So the same event doesn't happen again.\"",
+      "sourceUnit": "凛ルート十四日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber has been fighting for the sole purpose of gaining the Holy Grail.\nThat hesitation and regret are not something that can be easily erased.\nEven then,",
+      "sourceUnit": "凛ルート十四日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand.\nIf the Holy Grail is exactly how Gilgamesh described, that is something that should not exist in this world.\"\nShe agrees to our plan by sacrificing her own wish.",
+      "sourceUnit": "凛ルート十四日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Alright!\"\nI stand up from the floor and start walking towards the kitchen.\nI reach for my equipment in the kitchen.\nI put on my apron and roll up my sleeves, getting ready for a different kind of battle.",
+      "sourceUnit": "凛ルート十四日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Sh-Shirou?\"\n\"Wh-what is happening? Did you come up with a good idea?\"\n\"Huh? No, I was just thinking about cooking. You're both hungry, right?\"",
+      "sourceUnit": "凛ルート十四日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Ignoring the dumbfounded two, I start making preparations for dinner.",
+      "sourceUnit": "凛ルート十四日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"We came to a conclusion. Now we just need to go on with our day as usual.\nLet's eat dinner together, and then we can go beat him up afterwards.\"",
+      "sourceUnit": "凛ルート十四日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I take out the bowl and frying pan.\nI will use up everything I have in the fridge.\nThere's no need to hold back, we're going to have a feast.",
+      "sourceUnit": "凛ルート十四日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes, you're right. Let's enjoy our dinner as usual. That makes more sense for us.\"\n\"You're right. Then let me help you too. Oh, Saber, can you go prep the bath?\"",
+      "sourceUnit": "凛ルート十四日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "The heavy atmosphere we had just moments ago is gone.\nThe living room feels brighter and livelier.\nA night with the three of us together, that will never come again.\nBut in order to make it feel like any other day, we do our best to make sure we can enjoy our dinner in the most lively way possible.",
+      "sourceUnit": "凛ルート十四日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...And.\nAfter we finish and clean up our Western and Japanese mixed style dinner, we resume our strategizing session.",
+      "sourceUnit": "凛ルート十四日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, are you saying the Holy Grail is at Ryudou Temple?\"\n\"Yes. They have been eyeing the temple as the place to manifest the Grail. The overseer placed a familiar there to counter Caster, but that thing was destroyed recently. Seeing as Goldy is holed up in that temple, I'm certain the Grail is there.\"",
+      "sourceUnit": "凛ルート十四日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ryudou Temple, huh? That's a problem.\nYou can only enter the temple from its front gate. Of course we can expect Gilgamesh to be waiting for us there.\"",
+      "sourceUnit": "凛ルート十四日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. But think on the flip side, we now know the exact location.\nSure Gilgamesh is trouble, but we should prioritize stopping the Grail.\nWe'll have Saber slow him now, and use that opportunity to destroy the Grail... That would be ideal.\"",
+      "sourceUnit": "凛ルート十四日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, don't we need Saber to destroy the Holy Grail? We won't be able to even touch it.\"",
+      "sourceUnit": "凛ルート十四日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, we won't be able to destroy the Grail once it's summoned, but we can destroy the Grail's vessel.\nTo be precise, we're going to stop the Grail before it's activated.\"",
+      "sourceUnit": "凛ルート十四日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm, what do you mean by stop the Grail?\"",
+      "sourceUnit": "凛ルート十四日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't really want to think about it, but if we sum up all the information we have right now, the Holy Grail is probably Illyasviel's heart.\nOr rather, the Holy Grail is Illyasviel's heart AND her body, her Magic Circuits.\nGoldy doesn't want Illyasviel to become the Holy Grail; that's why he only pulled out the organ that represents its core.\"",
+      "sourceUnit": "凛ルート十四日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...If that's the case.\nIn order for the Holy Grail to properly function, he's going to need another mage's body to use as its vessel. There are only two Masters left including me.\nIf I'm here, then there's only one more person left for him to choose as the Grail's foundation...\"",
+      "sourceUnit": "凛ルート十四日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you talking about Shinji!? But if I remember correctly...\"",
+      "sourceUnit": "凛ルート十四日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"You want to say he doesn't have any Magic Circuits, right? ...I don't think that matters too much.\nHe wanted to create an incomplete Grail to begin with, so it makes sense for him to plant its core in an incomplete Master.\"",
+      "sourceUnit": "凛ルート十四日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Even if their bloodline has fallen, anyone with the blood of Matou flowing in them still has traces of Magic Circuits left in their DNA.\nIf a magical nuclear reactor like Illyasviel's heart is shoved into their body, even a once shut-off circuit will be forced open.\"",
+      "sourceUnit": "凛ルート十四日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\n...In that case, what we need to do first is to separate Shinji from the Grail.\nI don't understand what it means to become the foundation for the Grail, but we must stop it if we can still make it.",
+      "sourceUnit": "凛ルート十四日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"However, I do not believe Gilgamesh will let that happen.\nBut, in the end, defeating Gilgamesh does not automatically equate to stopping the Holy Grail.\"\n\"...That's right. It's obvious that he's protecting the Grail, so we can't go anywhere until we do something about him first.\"",
+      "sourceUnit": "凛ルート十四日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. However, I'm pretty sure he's going to anticipate us at the gate. If Saber, our most powerful trump card, can only enter via the gate, it's only logical for him to think that's our only route of entry.\nThat's why...\"",
+      "sourceUnit": "凛ルート十四日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see.\nI will attack the gate by myself.\nRin and Shirou will use the opportunity to enter the temple from the back.\nRyudou Temple's Bounded Field means little if there are two Masters.\"",
+      "sourceUnit": "凛ルート十四日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Precisely. I know we have no choice but to rely on you, Saber. All you need to do is to buy us some time by slowing him down, and we will rush to your side once we stop the Holy Grail.\"\n\"...Wait. That's too reckless. Just Saber by herself is no match for that bastard.\nI don't think she'll be able to slow him down... Actually, I'm sure of it.\"",
+      "sourceUnit": "凛ルート十四日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"What? What the hell, Shirou? You're sure giving him a lot of credit.\"\n\"I agree. He is indeed a powerful opponent, but if I focus on my defense, it's not easy for him to defeat me.\nShirou, I want you to tell me your reason behind that statement.\"",
+      "sourceUnit": "凛ルート十四日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, well, that's not what I'm trying to say. From what I saw, Saber is definitely more powerful than him.\nI know that for sure, I'm even willing to bet on it.\"",
+      "sourceUnit": "凛ルート十四日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"That makes no sense. That's not what you said earlier.\"",
+      "sourceUnit": "凛ルート十四日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"What I am saying is that Saber is no match for him as a Heroic Spirit.\n...How do I put this? First, if he only has the same type of Noble Phantasm as Saber then Saber definitely won't lose. We're not even talking about their differences in sword-wielding skills.\"",
+      "sourceUnit": "凛ルート十四日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"But what makes Gilgamesh powerful isn't his strength as a singular entity. No matter how strong a soldier is, they're no match against the destructive might of the war itself.\nThat's the kind of Servant he is. If you don't stand against him with the equal scale of force, he'll just swallow you whole.\"",
+      "sourceUnit": "凛ルート十四日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...? ...So, he is the aboslute worst match up for me. Is that what you're trying to say?\"",
+      "sourceUnit": "凛ルート十四日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that's what I meant. That's why, Tohsaka, you can't just send Saber in without any sort of countermeasure. Unless we find some kind of weakness, there's no way Saber can win.\"\n\"Ugh... I know that, you don't have to remind me.\nThat's why I'm here trying to think of something, isn't it?\"",
+      "sourceUnit": "凛ルート十四日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. Rin, do you have a good plan?\"",
+      "sourceUnit": "凛ルート十四日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, I can't just think of something on the spot like that.\nLike what Shirou said, his Noble Phantasm represents war itself.\nIn war, victory and defeat are decided by how much military strength each side is able to gather. It's not about mastery of weaponry, but rather how well you can match your opponent's military might...\"",
+      "sourceUnit": "凛ルート十四日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...? What is it, Tohsaka. Why did you go quiet all of a sudden?\"\n\"...I see now. That's why he sees you as a thorn in his side. Of course, if a Heroic Spirit doesn't possess a Noble Phantasm, it means they don't have a weapon that originated from somewhere. Oh...wait, I get it.\"",
+      "sourceUnit": "凛ルート十四日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rin? What is wrong? Why are you behind me right now?\"\n\"N-Nothing! I need to think for a bit here, the two of you just go ahead and talk about...whatever!\"",
+      "sourceUnit": "凛ルート十四日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nSaber and I look at each other.\n...Well, if Tohsaka has an idea, then it's better we leave her alone.",
+      "sourceUnit": "凛ルート十四日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...So, I should avoid direct confrontation with Archer by myself, is that what you are saying?\nBut I have Rin's backup.\nAs long as I have her magical energy, I will be able to use my sealed Noble Phantasm without any issue. In that case, I have the possibility of defeating him before he gets the chance to use his Noble Phantasm.\"",
+      "sourceUnit": "凛ルート十四日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber's Noble Phantasm? Isn't that Invisible Air?\"\n\"No, it's not. Invisible Air is simply a scabbard.\nAs long as Rin wishes so, I can unsheath my true sacred sword.\nI used the same sword to destroy the Holy Grail in the last war.\"",
+      "sourceUnit": "凛ルート十四日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So Tohsaka ultimately has to decide whether to use it or not?\"\n\"Correct. If I were to use the sacred sword, I would cast burden not only upon myself but Rin as well as it uses the majority of her magical energy.\"",
+      "sourceUnit": "凛ルート十四日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"You heard her, Tohsaka. How much more magical energy can you spare?",
+      "sourceUnit": "凛ルート十四日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"How much magical energy? How come you know exactly what I am thinking!?\"\n\"Huh?\"",
+      "sourceUnit": "凛ルート十四日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...N-nothing! I told you to leave me alone. I know about Saber's Noble Phantasm.\nTo be frank, Saber and I can only uses her Noble Phantasm twice.\nWe'll use it once to destroy the Holy Grail, so if you must use it against Gilgamesh then you can only use it once.\"",
+      "sourceUnit": "凛ルート十四日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmmm. Well, Saber? That's what Tohsaka said but what do you think?\"",
+      "sourceUnit": "凛ルート十四日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...I am not sure. If Archer truly possesses any and all Noble Phantasms there are, then he must have something that can contend with my sword. Then it will come down to whose Noble Phantasm is truly superior.\"",
+      "sourceUnit": "凛ルート十四日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...So in the end, is it still going to end up as a competition of Noble Phantasms?\"\n...If it ends up like that, Gilgamesh will have the upper hand.\nI won't let Saber walk into a reckless fight like that, but...",
+      "sourceUnit": "凛ルート十四日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Dammit, I can't put my thoughts together.\nBy the way, what exactly is Tohsaka doing? She's been acting weird.\nI say that because she's been looking in my direction, then quickly looking away.",
+      "sourceUnit": "凛ルート十四日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. If something's on your mind then say it. I'm sure you have an idea or two.\"\n\"N-no I don't! Well it's not like I can tell you that right here, you idiot!\"",
+      "sourceUnit": "凛ルート十四日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "I don't understand what made her say something like that, then quickly look away as if something weird is on my face.",
+      "sourceUnit": "凛ルート十四日目-04:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou?\"\n\"It's nothing. She's just weird. We'll leave her alone and keep thinking of something.\"",
+      "sourceUnit": "凛ルート十四日目-04:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "And so, we're continuing our strategy meeting with just the two of us.\n...But, without Tohsaka, the brain of our operation, we can't really think of an effective strategy to overcome our predicament.",
+      "sourceUnit": "凛ルート十四日目-04:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...If we can't come up with anything then I suppose our earlier idea would have to suffice.\nWe will move out right before dawn. So go back to your room and make sure you get enough rest.\"\nTohsaka has unilaterally decided the direction for us.",
+      "sourceUnit": "凛ルート十四日目-04:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...Time is passing by.\nThe hands on the clock are about to signal a new day.",
+      "sourceUnit": "凛ルート十四日目-04:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka told me to at least take a nap, but I'm not really in any condition to fall asleep.\nIn a few hours we'll have to face that Servant.\nIf we move right before dawn that means everything will be over by the time sun rises.",
+      "sourceUnit": "凛ルート十四日目-04:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThere's no way I can stay still in a time like this.\nI should...",
+      "sourceUnit": "凛ルート十四日目-04:page72:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

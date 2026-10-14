@@ -1,0 +1,761 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0162",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Once we pass through the exceptionally tall trees, something unexpected comes into our view.",
+      "sourceUnit": "セイバールート十一日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"A...ruin...?\"\n\"We should be able to hide out here for a while.\nArcher found this place on our way up here. He said we could use it as a hideout just in case.\"",
+      "sourceUnit": "セイバールート十一日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Trees choke the ruins.\nOnly one of the rooms on the second floor remains more or less intact.\nThe windows are miraculously undamaged, and the brilliant moonlight casts the room in its pale glow.",
+      "sourceUnit": "セイバールート十一日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. It's pretty clean in here. Maybe someone was staying here recently.\"",
+      "sourceUnit": "セイバールート十一日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Nothing fazes this girl.\nTohsaka steps over the rubble and pats the bed near the wall with both hands.\n\"Shirou, over here. We should lay Saber here. Getting carried can actually be pretty tiring, you know.\"",
+      "sourceUnit": "セイバールート十一日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Yeah. I'll be right there.\"\nI lay Saber on the old, beat-up bed.",
+      "sourceUnit": "セイバールート十一日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"How are you holding up, Saber? Can you still move?\"\n\"Yes, I am fine since Shirou carried me here. It seems I can still maintain my body.\"",
+      "sourceUnit": "セイバールート十一日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then there's only one issue left.\nIt's been an hour... It might take a little longer even if Illyasviel's going to pursue us. No, we might be able to hide here until morning if they have trouble finding us.\"",
+      "sourceUnit": "セイバールート十一日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nShe's just reminded me of something.\nWe've run as far as this ruins, but what happened with Berserker and Archer?\nHe stayed in the castle to hold Berserker off.\nIt's already been an hour... Archer should have retreated from the castle by now.",
+      "sourceUnit": "セイバールート十一日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, he—\"\n...\nTohsaka doesn't respond.\nShe only presses her right hand to her heart, like she's clutching something precious.",
+      "sourceUnit": "セイバールート十一日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...And that's enough to tell me what happened to Archer.\nTohsaka's Command Spell is on her right arm.\nA Master and their Servant are connected.\nIn the same way Saber was able to detect when I was in danger, a Master can sense whether their Servant is alive or dead...",
+      "sourceUnit": "セイバールート十一日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, he...\"",
+      "sourceUnit": "セイバールート十一日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah... And I told him to just buy us some time.\nThat guy...he was pretentious till the very end.\"\n...Silence falls between us.\nIt feels like the silence will last forever, but then...",
+      "sourceUnit": "セイバールート十一日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"But I won't let it be meaningless. Since I've lost Archer, I'm going to defeat Berserker here.\"\nThe sound of Tohsaka punching her hand into her fist breaks the silence.",
+      "sourceUnit": "セイバールート十一日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"No more mourning. My rule is that I should take action if I have time to worry. We've come this far, so now I'm going to have you make a decision too.\"\n\"Huh? What kind of decision?\"",
+      "sourceUnit": "セイバールート十一日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"You should know very well. The decision to defeat Illyasviel...by killing Berserker.\nIf we have Saber with us, we can't get out of this forest, and having her recover naturally would take too long. Whichever we try, Illya catches us.\"",
+      "sourceUnit": "セイバールート十一日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you get it? If the three of us are ever going to leave this forest, we need to defeat Berserker.\nIf we can't do that, we're just going to follow Archer.\"",
+      "sourceUnit": "セイバールート十一日目-18:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Defeat...Berserker...?\"\nThat monster?\nDefeat that invincible whirlwind of death?",
+      "sourceUnit": "セイバールート十一日目-18:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't imagine that being possible.\nIf we fight, we die.\nTohsaka should understand that perfectly herself.\nIs her plan still to defeat him, even knowing that?",
+      "sourceUnit": "セイバールート十一日目-18:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that's wrong.\"\nWhat am I saying?\nTohsaka's not saying we can beat it.\nShe's not so blindly optimistic.",
+      "sourceUnit": "セイバールート十一日目-18:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...got it...\"\nWe're not going to beat him to win.\n...I should've realized that from the very beginning.\n\"We HAVE to beat him, don't we?\"\nThat's all there is to it.\nIf we don't want to die here.\nWe have to defeat that monster.",
+      "sourceUnit": "セイバールート十一日目-18:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. Things aren't as dire as you might think, either.\nYeah, it's Berserker, but he should be wounded after fighting Archer. I've brought my entire jewel collection, and if Saber can recover, then we can come up with a plan or two.\"",
+      "sourceUnit": "セイバールート十一日目-18:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"In fact...\nDon't you think this is our best opportunity to defeat Illyasviel since Berserker's wounded?\"",
+      "sourceUnit": "セイバールート十一日目-18:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"But is there a way to heal Saber? This isn't the best place to treat her.\"",
+      "sourceUnit": "セイバールート十一日目-18:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Location isn't the important thing for treating Saber.\nSaber is only weak because she's out of magical energy. If we can replenish enough of that magical energy, she should be able to use her abilities like before.\"",
+      "sourceUnit": "セイバールート十一日目-18:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's explanation reminds me of late last night.\nShe said that Saber's magical energy was mostly gone.\nWhich is why, to restore Saber's magical energy...",
+      "sourceUnit": "セイバールート十一日目-18:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"If you want to save Saber, you'll need to tell her to attack people, and eat their souls.\"",
+      "sourceUnit": "セイバールート十一日目-18:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Then there's only one answer.\"\n\"Use a Command Spell, Emiya. That should at least let you avoid the worst case here.\"",
+      "sourceUnit": "セイバールート十一日目-18:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "I have two Command Spells left.\nI'll use one to make Saber attack people so she can devour their souls to replenish her magical energy.\nIf Saber won't recover, we can't defeat Berserker. If we can't defeat Berserker, then he'll kill us.",
+      "sourceUnit": "セイバールート十一日目-18:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I look at Saber where she lies.\n...We're just letting her suffer at this point. But...",
+      "sourceUnit": "セイバールート十一日目-18:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I still can't agree to let Saber attack innocent people.\"\n\"Yes. I actually agree this time.\"\n\"Huh?\"",
+      "sourceUnit": "セイバールート十一日目-18:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"If we were somewhere else, I might have suggested it.\nBut we're in Illyasviel's forest. There's not a single human soul around. There might be some people besides Illya and Berserker in the castle, but going back there is a suicide mission.\"\n\"For Saber to eat souls, we'd have to be out of this place, so that's not going to happen right now.\"",
+      "sourceUnit": "セイバールート十一日目-18:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka nods.\nI'm relieved not to have to make Saber attack people, but then how are we supposed to replenish Saber's magical energy?",
+      "sourceUnit": "セイバールート十一日目-18:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"So what do we need to do, Tohsaka? This whole problem comes from me not being able to provide Saber with magical energy.\"",
+      "sourceUnit": "セイバールート十一日目-18:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"There are other ways. I thought I explained that to you yesterday...er, I guess it's the day before yesterday now.\nSharing magical energy with a Servant can be accomplished by sharing magecraft and a handful of other methods. Back then...well, I didn't say anything because I never thought we would end up in a situation like this.\"",
+      "sourceUnit": "セイバールート十一日目-18:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI try to think back to our conversation that night.\nNow that she mentions it, she said something like...",
+      "sourceUnit": "セイバールート十一日目-18:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, a path should have been created between you and Saber during her summoning, so there might be a different way, but...\"",
+      "sourceUnit": "セイバールート十一日目-18:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "I think that's what Tohsaka said.",
+      "sourceUnit": "セイバールート十一日目-18:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I remember now. You said something about a path, and that there's some other method besides magecraft.\"\nRight...?\nOr did I get it wrong?\nAt the time, I was shocked to learn that I had to make Saber attack people, so I might have misheard her.",
+      "sourceUnit": "セイバールート十一日目-18:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Is there another way?\"\n\"Yeah. There are two options I can help you with, but this isn't exactly an ideal situation for either.\"",
+      "sourceUnit": "セイバールート十一日目-18:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. Saber lacks magical energy because the path between you two is incomplete. In order for her to recover, we need to reform the path between you to make it work properly.\"\n\"That's probably the best solution, but I don't know how to do it.\"\nSaber's summoning was messed up from the start. If I had been able to make a connection to supply her with magical energy, we wouldn't be in this mess.",
+      "sourceUnit": "セイバールート十一日目-18:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"It's quite simple. We need you and Saber to bond properly and reconnect your spiritual path. That's the only way to fix a path without breaking the contract or resummoning her.\nAnd to do that, we need to transplant your Magic Circuits to Saber.\"\n\"Hm?\"\n...Transplant my Magic Circuits to Saber?",
+      "sourceUnit": "セイバールート十一日目-18:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"To establish the path between you and Saber, we need to transplant spiritually important organs.\nIf the Servant and Master are borrowing the Holy Grail's power, we need to create a connection just as strong or else the path won't be formed.\nAnd to accomplish that, we need to transplant the Master's Magic Circuits to their Servant. It's going to require something that extreme, or your powers won't reach Saber.\"",
+      "sourceUnit": "セイバールート十一日目-18:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Magic Circuits.\nAn indispensable mechanism for mages that uses od to activate mana. It's the core of a mage's existence, and without it, the magical energy that serves as the source of a mage's power can't be created.\nTo a mage, their Magic Circuits are more important than life itself. They see them as the thing that gives their existence value.",
+      "sourceUnit": "セイバールート十一日目-18:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"It's too dangerous to transplant a Servant's circuit to a Master. Transplanting the circuits of Ghost Liners, especially Heroic Spirits, into a dying person pretty much only leads to severe rejection.\nSo, our only remaining option is to transplant your circuits to Saber.\"",
+      "sourceUnit": "セイバールート十一日目-18:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"But it amounts to ripping nerves out of your body. Which means the burden here will be...\"\nEntirely on the one offering the transplant.\nRipping out nerves is the same as amputating fingers or even arms.",
+      "sourceUnit": "セイバールート十一日目-18:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Please wait, Rin.\nThat would be too much for Shirou...\"\n\"And if we don't do it, none of us will survive. You should know that, Saber.\"\n\"...\"\nI gulp as quietly as I can.\nI have to get my priorities straight.\nWe don't have time for me to hesitate when what needs to be done is clear.",
+      "sourceUnit": "セイバールート十一日目-18:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Can you make this work?\"\n\"...I'll make it work, yes. But even if it works, it's not going to be safe or easy.\nI have no intention of failing, but even if I succeed, your Magic Circuits will go to Saber. You will experience such an intense sense of loss and pain, you'll wish I failed.\"\n...\n\"If your Magic Circuits are taken from you, that means you...\"",
+      "sourceUnit": "セイバールート十一日目-18:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "It would mean that my secondary nerve—my missing Magic Circuits—would be like a piece torn from my psyche, and would damage the spiritual body's integrity, creating a fatal flaw in me as a mage.\nI will never regain that missing piece for as long as I live. My hope of becoming a full-fledged mage from experience alone will die.\nOnce I lose my foundation—my Magic Circuits—I will always be incomplete, no matter what.",
+      "sourceUnit": "セイバールート十一日目-18:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod, for my own sake.\nIs that all?\nI'd rather save Saber.",
+      "sourceUnit": "セイバールート十一日目-18:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Let's do it, Tohsaka.\"\n\"That was fast!  Oh well, I guess it's fine you decided so fast, but do you really understand what you're getting into!?\"\n\"I do. You already told me.\"\n\"Of course you don't!\nListen. I've basically just told you that you're going to have to die as a mage to save Saber. How can you just agree without any questions or objections!?\"",
+      "sourceUnit": "セイバールート十一日目-18:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Because I don't have any objections.\nI'm agreeing because it's the best plan we have. You should be more confident in your own plan. Seeing you panic like that is making me worry.\nAnd if we don't do this, Saber can't fight Berserker, right?\"",
+      "sourceUnit": "セイバールート十一日目-18:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. That's what I've been saying.\"\n\"See? And it's not like we haven't made any sacrifices. We have to fight and win, since he bought us time.\"\nHis stance told me to go.\nI didn't like him, but if he was willing to risk his life to protect his Master, Tohsaka, I can't back out now.",
+      "sourceUnit": "セイバールート十一日目-18:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Let's begin, Shirou.\"\n\"Yeah. Are you ready, Saber?\nWe're going to transplant my Magic Circuits to you.\"\n\"Yes. If that is your decision, Master.\"\nI hear neither affirmation nor denial in her voice.\n...But her eyes seem filled with regret.",
+      "sourceUnit": "セイバールート十一日目-18:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I guess Tohsaka is going to prepare us for the transplant.\nI don't know the procedure, so I just have to leave it all to Tohsaka.",
+      "sourceUnit": "セイバールート十一日目-18:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"We'll start with Saber. Shirou, keep your Magic Circuits on and just try to keep your mind clear.\"\n...I close my eyes and switch over the artificial nerve in my body.\nThanks to Tohsaka's instruction, I've been able to turn my circuits on and off effortlessly...",
+      "sourceUnit": "セイバールート十一日目-18:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nA red flower entangles the white flower.\nTohsaka climbs up to straddle Saber, who lies still. Then, she begins to run her fingers freely along the curves of Saber's slender form.",
+      "sourceUnit": "セイバールート十一日目-18:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka... What are you doing to Saber?\"\n\"What do you mean? I'm doing this to help Saber relax. We won't have as good a chance of success if Saber can't relax.\"\n\"Oh...uh...okay. Sorry. Continue.\"",
+      "sourceUnit": "セイバールート十一日目-18:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay.\nNow, let's get your clothes off, Saber.\"\n\"WHAT!?\"\n\"Wha...!?\"",
+      "sourceUnit": "セイバールート十一日目-18:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Quit reacting to everything I do. We just need to take some of her clothes off. Transplanting Magic Circuits is a mingling of body and mind. We need to make sure you make as much contact with as little obstruction as possible.\"\nTohsaka is completely calm about this.\nSaber and I are the only two who are flustered about this as Tohsaka begins undoing Saber's collar.",
+      "sourceUnit": "セイバールート十一日目-18:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Please wait, Rin. I can at least do that...\"\n\"You can hardly lift your arm, so quit trying to act tough. Unless, Emiya...do you want to take Saber's clothes off since you're her Master?\"\n\"You...!\"",
+      "sourceUnit": "セイバールート十一日目-18:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I want to call her a fool, but I snap my mouth shut.\nAll jokes aside, I'm not suited to a task like that.\nIf I had to do it, I wouldn't be able to maintain my composure.",
+      "sourceUnit": "セイバールート十一日目-18:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I'm leaving everything to you.\"\n\"Good. So, you know, you'll need to strip too.\nJust the shirt, though. I'll kill you if you even think about taking off your pants.\"",
+      "sourceUnit": "セイバールート十一日目-18:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "I can't tell if she's joking or being serious.\nIt seems like I need to strip to connect with Saber though.",
+      "sourceUnit": "セイバールート十一日目-18:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...if I may ask, please turn away for a moment.\"\n\"Oh...g-got it. Tell me when you're ready.\"",
+      "sourceUnit": "セイバールート十一日目-18:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "I turn away, and fold the shirt I was wearing.\nI try to distract myself and hide how nervous I am by folding the shirt up neatly, sleeves and all.",
+      "sourceUnit": "セイバールート十一日目-18:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...are you okay? Saber?\"\n\"Yes, I feel much better. However...\"",
+      "sourceUnit": "セイバールート十一日目-18:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...I need to calm down.\nI try to get my fear under control as I find myself dreading how painful and difficult the Magic Circuit transplant will be, and how it might fail.\nThis is just a step along the path.\nI should be more worried about the fight with Berserker that comes after this.",
+      "sourceUnit": "セイバールート十一日目-18:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"You can turn around, Shirou.\"\n\"...Okay.\"\n...\nI forget to breathe.\nI've seen her bare skin before, but I've never seen Saber like I'm seeing her now as she lies in bed.",
+      "sourceUnit": "セイバールート十一日目-18:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...\nIt must be all this tension in the air.\nIt's not just me...Saber is acting weird too.\nShe acted normal when I saw her bare skin before.",
+      "sourceUnit": "セイバールート十一日目-18:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Over here, Shirou.\nGet up here and get on top of Saber.\"\nIt's like someone else is controlling my body.\nI'm walking towards the bed, but it doesn't seem real to me.",
+      "sourceUnit": "セイバールート十一日目-18:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. I'll handle things until the sympathizing step.\nI'll have you take over after that, but make sure not to take too much. The less you take, the less the burden on Shirou will be.\"\n\"Understood. Please go ahead, Rin.\"",
+      "sourceUnit": "セイバールート十一日目-18:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "I have no idea what they're saying.\nRight now, it's all I can do to breathe.",
+      "sourceUnit": "セイバールート十一日目-18:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWe get even closer. We're so close, our skin is almost touching.\nI feel Saber's weak breath on me.\nI support my weight on my hands, my body so, so close to hers...",
+      "sourceUnit": "セイバールート十一日目-18:page73:1"
+    },
+    "page74": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "The chant begins.\nI try to focus my consciousness on what's happening, to clear my mind so I can sympathize with Saber.",
+      "sourceUnit": "セイバールート十一日目-18:page75:1"
+    },
+    "page76": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "I only see Saber's face.\nShe's already in a meditative state.\n...I can't keep my eyes open forever.\nI reluctantly close my eyes.",
+      "sourceUnit": "セイバールート十一日目-18:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "Es gibt niedrig, ist langsam, ist nah\nund in die Vergan genheit.\nNie vorherbe trachten.",
+      "sourceUnit": "セイバールート十一日目-18:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "My senses begin to fade.\nIt's the same floating sensation as when I create my Magic Circuit every night. The feeling of my ego—my mind—leaving my body.\nThis time, though, it's running in reverse.\nNormally, I feel that sensation coming from my back.\nBut right now my consciousness is escaping from my chest.",
+      "sourceUnit": "セイバールート十一日目-18:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe five senses are functions associated with the physical body.\nThe moment my consciousness leaves my body, I lose my sense of hearing.\nBut...\n...my ears are more sensitive to Saber's breathing.\nHer slow, steady breathing begins to speed up.\nI hear the heart pounding in my chest.\nBlood rushes through my veins.\nI leave the vessel known as Shirou Emiya and slide into her body.",
+      "sourceUnit": "セイバールート十一日目-18:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy consciousness sinks deeper into her.\nMy self swirls and converges, invading her as a solid crystal.\nPulsing, hot breath...\nOur hearts...not our bodies, touch.",
+      "sourceUnit": "セイバールート十一日目-18:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou.\"\nHer voice rings out like a bell.\nAnd in response...\nMy essence escapes my physical body.",
+      "sourceUnit": "セイバールート十一日目-18:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "My senses are transformed.\nI have no hands, no legs, no self...but I continue on in this bare state.\nTime seems to flow backward.\nInstead of flying, I feel as if I'm being left behind.",
+      "sourceUnit": "セイバールート十一日目-18:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "I accelerate.\nThe body, persona, order, law...\nI become an arrow, shattering every barrier around me...destroying the boundaries that separate one person from another.\nSparks race along the circuit.\nI freeze in the ecstasy of reaching the speed of light.",
+      "sourceUnit": "セイバールート十一日目-18:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "They say a person's life flashes by in a single instant.\nThe flashbacks are cruel. Every instant passes by in the blink of an eye. I can't look at it directly, so I find myself going emotionally numb.",
+      "sourceUnit": "セイバールート十一日目-18:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "So this is a mental journey.\nI'm reminded just how comforting our physical bodies—our anchors can be.",
+      "sourceUnit": "セイバールート十一日目-18:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "I visualize the foundation of magecraft.\nThe human operation is quantified.\nHundreds of institutions, millions of joints form a circle.",
+      "sourceUnit": "セイバールート十一日目-18:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "The endless complex patterns are in fact just a highway formed by simple repetition.\n...All heading into the vastness of the future.\nIt's like a vehicle of some kind heading toward a darkened city of light.\nHere, in the present, my thoughts pass by at the speed of light.",
+      "sourceUnit": "セイバールート十一日目-18:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "Eternity passes in an instant.\nI pass through the last boundary.\nI break through...and I am inside her.\nI see a glimpse of Altria's Magic Circuits, not my own.",
+      "sourceUnit": "セイバールート十一日目-18:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —\"",
+      "sourceUnit": "セイバールート十一日目-18:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "The changes are extreme.\nThe speed and light of the world vanish all at once.\nHere it is dark. Here it is heavy.\nThe pressure of it pushes against my bodiless form. The air is so thick, I may as well be underwater.\nMy body sinks, feeling only the agony of being clamped in a vice.",
+      "sourceUnit": "セイバールート十一日目-18:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "The path is deep, and I can't see the bottom.\nI feel myself fall through the thick twilight, plummeting deeper into an even denser darkness.\nIt seems impossible that, just a moment ago, I traveled ten thousand miles in the blink of an eye.\nNow, even going a single mile seems like it would be an arduous, eternal journey.\nI feel neither light nor hope.",
+      "sourceUnit": "セイバールート十一日目-18:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "...\nAre these really Saber's Magic Circuits?\nThey're completely different from mine.\nThe shape of the circuits, the number of pathways...all that differs from person to person, but this is unlike anything else.\nThis isn't a matter of scale or ability.\nSaber's Magic Circuits are fundamentally different than a mage's…",
+      "sourceUnit": "セイバールート十一日目-18:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "The path rumbles.\nEvery time it does, my tiny self nearly shatters.\nI don't know what Saber's Magic Circuits are like, but I can tell the sympathizing magecraft is functioning properly.",
+      "sourceUnit": "セイバールート十一日目-18:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "This is not a failure. The dark, heavy pressure of this place doesn't seem like Saber, but it's also not an impure place.\nIt's brimming with life.\nThe flowing air is blood and a swirl of magical energy.",
+      "sourceUnit": "セイバールート十一日目-18:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"—, —\"\nI realize I've forgotten to breathe. I haven't needed to.\nSinking is painful, but it's not life-threatening.\nI look up into the darkness I've sunken into, but I seem to be past the point of no return.\nI can't see anything in this darkness.\nI'm submerging gradually, but the distance ahead is infinite.",
+      "sourceUnit": "セイバールート十一日目-18:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "The air grows even heavier.\nMy rate of descent slows yet again.\nI squint into the darkness.\nThe seemingly endless road does have an end.\nI feel the heat of Saber's body. I feel her every breath, so close...\n...The final destination.\nI reach the source of Saber's Magic Circuits, the center of her mental world—",
+      "sourceUnit": "セイバールート十一日目-18:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "But...\n...what I see is beyond my capacity to understand.\nIt's the core of a star.\nI've reached the embodiment of some impossible, scorching heat, breathing from the depths of the earth.",
+      "sourceUnit": "セイバールート十一日目-18:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "The fiery red surface swirls, and then there's a splash, like stagnant mud.\nAt the bottom, there lurks a giant shadow..\nIts fiery eyes fix on the tiny intruder.\nWhether its master gave the intruder permission to enter or not, it is still a foreign invader.\nIn the face of this core...\n...my own consciousness is barely a mote of dust to disturb its function...or a piece of wood to feed its fire.",
+      "sourceUnit": "セイバールート十一日目-18:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "...\nI gulp, even though I have no throat to swallow with.\nI take in the entire scene.\nThese are Saber's Magic Circuits.\nA heart beyond anything human...so different from ours, which we imagine as lines and circuits.\nThis is a reactor core. If a mage's body is a machine for creating magical energy, then what I am seeing now is an entire factory.",
+      "sourceUnit": "セイバールート十一日目-18:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "But the core is inactive.\nThe key that should activate the core, the spark of power to bring the whole thing to life...has been cut off.\nDespite the overwhelming ability this core has to produce massive amounts of magical energy, it lacks the initial charge to activate itself.",
+      "sourceUnit": "セイバールート十一日目-18:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "It floats overhead.\nA stagnant sea of fuel.\nNo matter how much undiluted magical energy fills this endless space, it's useless. It needs to ignite. Even a tiny spark could do the trick. So long as the pathway for magical energy is connected, the core will roar back to life.\nAnd to do that...\nSomething beyond human knowledge awakens.",
+      "sourceUnit": "セイバールート十一日目-18:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "Pathways running over the lake of magical energy begin to swirl.\nRed air explodes upwards in a raging pillar.\nIs this what it is like to stand in a thundercloud?\nSo intense is the roar of the raging waves that I don't even properly hear it.",
+      "sourceUnit": "セイバールート十一日目-18:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "In the same way something too massive can't be properly seen, the roar is its own kind of silence to me.\nWhat appears at the heart of that blazing core is the embodiment of every threat mankind carries in their hearts.",
+      "sourceUnit": "セイバールート十一日目-18:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "It has been said...\n...that the king is a red dragon that symbolizes Britain.\nPhantasmal blood runs in their human veins...the child of a sacred star.",
+      "sourceUnit": "セイバールート十一日目-18:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "A dragon.\nA ruler, the symbol of so many Phantasmal species...objects of both awe and fear.\nThe pinnacle of all beasts...appearing at times as a demon, at times a god.\nThis is what lies in Saber's subconscious.\nIts otherworldly form suits the Servant said to be the best.",
+      "sourceUnit": "セイバールート十一日目-18:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "The cauldron opens.\nVicious fangs are all I see.\nThere can be no resistance.\nHumans, which pale to insignificance before this, could never defend against it.\nNo human intelligence could ever conceive of a way to escape.",
+      "sourceUnit": "セイバールート十一日目-18:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nIt must be famished.\nIt devours its prey, which would normally seem as inconsequential as motes of dust, with its bloodshot eyes.",
+      "sourceUnit": "セイバールート十一日目-18:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "And I...am at a complete loss for words...",
+      "sourceUnit": "セイバールート十一日目-18:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "I wonder...\nWhy do we not eat living meals?\nIt's obvious.\nWe cannot bear to see our food alive.\nWe prefer fresh food, but rarely do we eat anything alive, because we feel it's cruel for our food to suffer.\nIn other words...\nKilling the meat we consume before we eat it is our way of preserving its dignity.",
+      "sourceUnit": "セイバールート十一日目-18:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "A scream of rage tears its way from my throat.\nI forget who I am and roar like a beast.\nI try to appeal to the beast.\nThe hatred builds within me.\nMy only resistance is baring my emotions.\nI beg for mercy like a crucified sinner as I'm ground to meal.",
+      "sourceUnit": "セイバールート十一日目-18:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "My consciousness grows hazy, muddled.\nEvery purpose and meaning in my life falls away.\nAny hope of retaining my sanity is as long gone as creation itself.\n...\nThe pain, the pressure... They're far, far too much.\nAnd then...\n...when I came to see it only as a monster...",
+      "sourceUnit": "セイバールート十一日目-18:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Even once I'd learned of this hell...\nI believed I could endure it. The image of Saber, her head hanging low, comes back to me.",
+      "sourceUnit": "セイバールート十一日目-18:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "...\nI recall the meaning of this pain.\nThat meaning drives me forward.\nIt is a literal painful reminder of what I came here to do.",
+      "sourceUnit": "セイバールート十一日目-18:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "...\nI draw in a deep breath, and let go of my resistance.\nIt's not the dragon's fangs I should be fighting, but the pain twisting through me.\nI'm not here to run from the pain.\nI'm here to save her pain...to live up to the trust she's placed in me time and time again.\nAnd so...\nI'm here to give her the best thing that I, who has no hope of fighting, can give.",
+      "sourceUnit": "セイバールート十一日目-18:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "The pain is indescribable.\nI can't reach out to my ground down consciousness.\nI hone my awareness like a blade, silently, as if I were asleep.\nHere, eternity is but an instant.\nAs long as I can endure this pain, even for an instant, my consciousness will remain.\nAll right...then...",
+      "sourceUnit": "セイバールート十一日目-18:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "I won't let myself feel an ounce of fear.\nI shall dedicate this pain to you, who will be the one to fight.",
+      "sourceUnit": "セイバールート十一日目-18:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "The pain instantly fades.\nThe red dragon is gone, and my consciousness gradually floats back to the surface.\nAm I weightless because I lost something?\nAs if I'm floating back up to the water's surface, I feel myself begin rising up, above the reactor.\nBut wait...\nThere's something I want to check before...",
+      "sourceUnit": "セイバールート十一日目-18:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nIt's so warm.\nA dull, throbbing hum issues from the reactor as it burns with golden light.\nThe elaborate Magic Circuits shine with a rainbow hue, and begin their circulation.\nThe fire is lit.\nI may be an untrained amateur of a mage, but today I've filled my role as her lord.",
+      "sourceUnit": "セイバールート十一日目-18:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "I surrender my body to the wind and float upward.\nI catch a glimpse of a distant memory.\nA figure holding a sword, and a figure standing in a grassy field as it dances in the wind.\nWhich one did I find reminiscent?",
+      "sourceUnit": "セイバールート十一日目-18:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI feel sunlight on my eyelids, and slowly open them.",
+      "sourceUnit": "セイバールート十一日目-18:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "...\nDazed and confused, I check over my own body.\nMy arms and legs are fine. I don't see any wounds.\nMaybe the pain faded the moment I was able to endure it.\nMy physical wounds, and even the mental scars seem to have been healed.",
+      "sourceUnit": "セイバールート十一日目-18:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh...Shirou.\"\nI hear a weak voice from under me.\n\"Huh?\"\nThe feeling of her soft skin immediately makes me realize who's speaking, and the position we're in.",
+      "sourceUnit": "セイバールート十一日目-18:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...! Ouch!\"\nSaber is lying on the bed with her blouse in disarray, while Tohsaka is sleeping, cradling her knees to her chest.\nTohsaka may be fine, but Saber's been under me like this...the whole time.",
+      "sourceUnit": "セイバールート十一日目-18:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"M-morning, Saber.\"\n\"Yes. Good morning, Shirou.\"",
+      "sourceUnit": "セイバールート十一日目-18:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "We exchange awkward pleasantries.\nSaber slowly gets up and rearranges her blouse.\nCrap. We're so embarrassed, we can't look each other in the eye.",
+      "sourceUnit": "セイバールート十一日目-18:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you can already get up, Saber?\"\n\"Yes. I can receive your supply of magical energy now.\"\n...She seems to be back to her normal self.\nWhen I carried her here last night, she was so weak, it seemed she might disappear at any moment. But that weakness is gone now.",
+      "sourceUnit": "セイバールート十一日目-18:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's a relief. So the Magic Circuit transplant worked.\"\n\"Yes. So, um...would you please put your clothes on, Shirou? I do not know why, but it is difficult speaking to you this way.\"",
+      "sourceUnit": "セイバールート十一日目-18:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "I look down at myself.\n\"Oh...right. Yeah...you're right!\"\nI hastily reach for my neatly folded shirt.\nThat was nice of Tohsaka to fold it up like that... Wait, no! I did that!\nWhy did I fold it so tight...?",
+      "sourceUnit": "セイバールート十一日目-18:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"...Argh.\"\nI vividly recall last night's ritual.\nI connected with Saber, and Tohsaka transplanted my Magic Circuits deep within Saber.\nSaber looks like she's back to normal, but what happened to me?",
+      "sourceUnit": "セイバールート十一日目-18:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka warned that my body and mind may not be able to handle the loss of Magic Circuits, but I don't feel much damage, nor any huge sense of loss.\nI was a little scared, but I checked on my Magic Circuits myself.\nThe idea of seeing for myself just how much I've lost is terrifying, but we're heading into battle against Berserker.\nI need to understand my own condition.",
+      "sourceUnit": "セイバールート十一日目-18:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI don't know how to explain it.\nThe overall function of my Magic Circuits feels sluggish, but there doesn't seem to be any obvious damage.\nI was chewed to pieces, but my Magic Circuits are still intact.\nIt looks like I'll still be able to do my Strengthening magecraft.",
+      "sourceUnit": "セイバールート十一日目-18:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So that means...\"\nI assume the Magic Circuits I rarely use were the ones Tohsaka took.\nI only activate about one to four circuits when I do Strengthening. Since I can't do large-scale magecraft anyway, I've never fully activated all my circuits.\nSo she transplanted the circuits I don't use to Saber.",
+      "sourceUnit": "セイバールート十一日目-18:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou?\"\nI close my eyes to assess my situation.\nIt seems this won't affect my Strengthening magecraft.\nBut this sluggishness, like I'm wading through water, is because my capacity for magecraft has decreased.",
+      "sourceUnit": "セイバールート十一日目-18:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "In exchange, though, I feel that I'm connected to something important deep inside myself.\nI can't tell exactly where it's coming from, but there's a faint line that connects me and Saber.\nI've gained something truly important in exchange for my lost circuits.",
+      "sourceUnit": "セイバールート十一日目-18:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "\"I must apologize, Shirou.\"\nSaber speaks up from somewhere behind me.",
+      "sourceUnit": "セイバールート十一日目-18:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"I did my best to take as few of your circuits as possible.\nBut even that bare minimum was too much to take from any one person. I have left a scar on you that will never fade, and I cannot apologize enough for that.\nIt is my failure. If only I were stronger, more disciplined, I would not have—\"",
+      "sourceUnit": "セイバールート十一日目-18:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true. You have nothing to apologize for, Saber.\nThis all happened because I couldn't supply you with magical energy in the first place.\nThat's solved now, though. Now, I can give you the magical energy you need without a problem.\nYep. Now I can finally, proudly say that I am Saber's Master.\"",
+      "sourceUnit": "セイバールート十一日目-18:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou...\"\n\"Don't worry about my Magic Circuits. I didn't use them all anyway; I even feel better without them, actually.\"",
+      "sourceUnit": "セイバールート十一日目-18:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber's expression remains clouded.\nCrap. I never know what to say at times like this.",
+      "sourceUnit": "セイバールート十一日目-18:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "Saber's recovered, and I survived even after the loss of some of my Magic Circuits…\nSaber's Magic Circuits...the dream of light and wind and Saber in her youth. And on top of that, we spent the night touching, skin to skin…",
+      "sourceUnit": "セイバールート十一日目-18:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "...\nCalm down, calm down.\nThat was a ritual for our survival.\nI need to calm my mind. If I don't focus, I could mess up during battle.",
+      "sourceUnit": "セイバールート十一日目-18:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hnnn? \"\nThe sleepy rhythm of Tohsaka's breathing halts, and she grunts.\nLooks like Tohsaka's awake too.",
+      "sourceUnit": "セイバールート十一日目-18:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "\"G-good morning, Rin.\"\n\"Y-yo. Morning, Tohsaka.\"",
+      "sourceUnit": "セイバールート十一日目-18:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "I see Tohsaka's hair shift, then her head tilts up.\nShe is not a morning person at all, and doesn't look her usual sharp self. At all.",
+      "sourceUnit": "セイバールート十一日目-18:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks, Tohsaka. It worked.\"\n\"Yes. He is able to supply me with magical energy now. But in exchange, Shirou has...\"\n\"No, I only lost about thirty percent, so don't worry. I can make do with what I still have.\"",
+      "sourceUnit": "セイバールート十一日目-18:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-thirty percent!?\nI did everything I could to minimize what I took, but I still took thirty percent... I cannot believe my own greed...\"\n\"Greedy, you say? I know you were hungry, but I wish you'd had a little better manners.\"\n\"Gh—!?\"",
+      "sourceUnit": "セイバールート十一日目-18:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka joining us helps dispel the awkwardness between Saber and me.\nNow we're back to normal.\n\"Is that so? Then...let's get going.\"\nTohsaka yawns and gets to her feet.",
+      "sourceUnit": "セイバールート十一日目-18:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "It's almost time for the battle.\nSomewhere in that forest, Berserker and Illyasviel await.\nIf we don't defeat that hurricane of death, everything we did last night was for nothing.\nThe connection that was created between me and Saber, deep in our hearts...\nTo protect what we created, we'll have to defeat the most powerful enemy of all...",
+      "sourceUnit": "セイバールート十一日目-18:page149:1"
+    },
+    "page150": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

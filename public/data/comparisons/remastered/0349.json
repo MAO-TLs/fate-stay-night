@@ -1,0 +1,666 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0349",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof...\"\nI'm overwhelmed by the crowd the moment we get off the bus.\nIt's lively in front of the train station.\nIt's a nice weekend morning before 10 AM, so it would be weird for it to not be lively.",
+      "sourceUnit": "凛ルート十一日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I am surprised. There're this many people that gather when it's a weekend.\"\nSaber looks at the town, bewildered.\nShe has never seen the town during the day, so her reaction is only natural.",
+      "sourceUnit": "凛ルート十一日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAs I say this, I'm also stunned by the crowd.\n\"Well, where should we go? Do you two have any requests?\"\nHowever...\nUnlike us, Tohsaka is full of energy.",
+      "sourceUnit": "凛ルート十一日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... That's troubling. I don't know any fun places.\"\n\"I thought so. What about you, Saber? Do you have anywhere you want to go?\"",
+      "sourceUnit": "凛ルート十一日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Me...? No, I do not have any place that I am particularly interested in. First of all, I am Shirou's guardian.\nIf this is you and Shirou's day off, please consider me not here.\"",
+      "sourceUnit": "凛ルート十一日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n\"Really? Then we can go where I want to go?\nOhh. If you two don't have any input, does that mean you guys will give me absolute obedience to my plan?\"",
+      "sourceUnit": "凛ルート十一日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Whaaa—\"\nI feel a chill run up my spine.\nTohsaka smirks at us with a scary stare.",
+      "sourceUnit": "凛ルート十一日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"H-Hold on, don't say it in a scary way!\nFirst of all, I said I would keep you company, but I never said I was going on a d-date with you. This is just for the three of us to hang out.\"",
+      "sourceUnit": "凛ルート十一日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Too bad, that's what society calls a date.\nCome on, give it up already. Girls will hate you if you don't know when to give up.\"",
+      "sourceUnit": "凛ルート十一日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"H-Hate me? Like who?\"\n\"Who could it be? Well, I guess being stubborn may be a good trait. Right, Saber?\"",
+      "sourceUnit": "凛ルート十一日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Shirou is a sore loser. His persistent mind is reassuring during battle.\"\n\"See. Aren't you glad, Shirou?\"",
+      "sourceUnit": "凛ルート十一日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\nTohsaka smiles.\nGeez, what's so fun about making fun of other people!?",
+      "sourceUnit": "凛ルート十一日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, why don't we go to Verde first? You two haven't eaten breakfast yet, right? We can go window-shopping after a quick cup of tea to warm ourselves up.\"",
+      "sourceUnit": "凛ルート十一日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka starts walking.\nI think Verde is the name of the new department store that they recently made?",
+      "sourceUnit": "凛ルート十一日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, I'm gonna leave you behind if you're slow. Breakfast is only till 10 AM, so we have to hurry before it ends.\"",
+      "sourceUnit": "凛ルート十一日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Wai...\"\nShe won't stop, even if I call for her.\nIt seems like Tohsaka has no time to waste and won't give me the time to settle down.",
+      "sourceUnit": "凛ルート十一日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Rin is walking away.\"\nUgh... Geez, fine! I'll go anywhere you want!\nI slap myself on both cheeks and get pumped up.",
+      "sourceUnit": "凛ルート十一日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, Saber! Don't get lost!\"\n\"Yes. Please do not lose sight of Rin either, Shirou.\"",
+      "sourceUnit": "凛ルート十一日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "We both start running.\nIn the crowded town, Tohsaka doesn't look back.\nIt seems like she's absolutely certain that we're going to follow her.",
+      "sourceUnit": "凛ルート十一日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "And...\nBefore I realize it, I've fallen into a more helpless situation.",
+      "sourceUnit": "凛ルート十一日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"This store's atmosphere is completely different from the first one.\nRin, why are we here?\"\n\"It's just a little break. I thought you both may be tired. If we don't take a break now, it looks like your springs will wear out.\"\n\"Oh? It certainly was a hectic two hours, but not enough exercise to have to take a break...\"",
+      "sourceUnit": "凛ルート十一日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe for you, Saber. But, there are things that wear down in places you can't see.\nWhat seems like a normal floor to us can be a poisonous swamp to others.\"",
+      "sourceUnit": "凛ルート十一日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'm having this banana parfait. You should have this devil's sundae, Saber.\nWhat about you, Emiya? Do you eat sweets?\"",
+      "sourceUnit": "凛ルート十一日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Who'd eat that first thing in the morning? I'll have this coffee blend.\"\n\"Oh my, such a boy. But are you sure? You'll be in trouble if you don't replenish your HP.\"\n\"...\"\nIt goes without saying, but eating ice cream together here would be a whole other dimension, and I have no appetite to begin with.\nAlso, she's not good with technology, yet she knows something like that?",
+      "sourceUnit": "凛ルート十一日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"So stubborn. Well, that's fun in its own way, so it's fine.\"\nI don't know what's so fun, but the red devil is smirking. You should be the one eating the devil's sundae.\n\"Shirou, sugar intake is not to be taken lightly. If you are exhausted as Rin says, what about this 'mango rush & cream'?\"\nSaber subtly offers me the menu.",
+      "sourceUnit": "凛ルート十一日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. I cannot say this too loudly, but I would hide from the others to eat sweet fruits when we traveled for days in the military. Chocolate and the like are said to have originated from alchemy as well.\"\n\"I've never heard that before.\n...So. Saber, you want to try the mango rush, too?\"\n\"Yes. I would appreciate if I can get a bite.\"",
+      "sourceUnit": "凛ルート十一日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...How lonely.\nSaber has left my nervous self and has already fallen under Tohsaka's evil influence.",
+      "sourceUnit": "凛ルート十一日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, there's no need to hold back, Saber. We should go ahead and order both.\"\n\"Hm... As much as I would like to, that would be an unnecessary order. It is a different story if I were hungry, but I cannot possibly order excess food simply out of interest...\"",
+      "sourceUnit": "凛ルート十一日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"That responsibility is the best part of dates.\nIn this situation, the way it works is that Emiya treats us with a smile and we experience his generosity.\"\n\"I see, how wonderful. I am always in awe of your direction, Rin.\"",
+      "sourceUnit": "凛ルート十一日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is beyond evil influence.\nSaber was already an enemy on Tohsaka's side.",
+      "sourceUnit": "凛ルート十一日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Well then, time to go over the order.\nBanana parfait, devil's sundae, mango rush, and a coffee blend. Will that be all, sir?\"\n\"...Why are you asking me? That's fine, do what you want. It's not like I have the right to veto, right?\nAnd if you ask me, the orange sponge cake would be better than the mango rush.\"\nThat would probably suit Tohsaka and Saber's tastes better.",
+      "sourceUnit": "凛ルート十一日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'll take your advice.\nDon't lose that part of you, Emiya.\"\nSo began the least relaxing break imaginable.",
+      "sourceUnit": "凛ルート十一日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...Right. To be honest, I think I was nothing but nervous the first hour.\nEven by herself, Tohsaka stands out.\nHer eye-catching, vivid red clothes and long silky black hair.\nThe colors alone stand out, but Tohsaka herself is a flawless beauty.\nWith Saber by her side, it goes without saying that they make a striking pair.",
+      "sourceUnit": "凛ルート十一日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What are you looking at?\nOh, did you calm your nerves down?\"\n\"...Humph. Well, after being dragged around this much, then yeah.\"\n...Damn it. I really hate to admit it, but Tohsaka's suggestion to take a break was detestably correct.",
+      "sourceUnit": "凛ルート十一日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then, that means I can raise the bar a bit more, right?\"",
+      "sourceUnit": "凛ルート十一日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "The strongest enemy smirks.\nHonestly, I can't even understand myself.\nI can fight back-to-back with her as a Master, but right now, even the gestures that I've gotten used to seeing makes my heart skip a beat.\n...It must be because I rashly got too close to her, so it's hard to interact with her normally now.",
+      "sourceUnit": "凛ルート十一日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, yeah. Since we have the opportunity, let's do that next.\nSaber, are you interested in accessories?\"\n\"Ornaments, you say?\nI do not collect them, but neither am I uninterested in looking at them.\"\n\"Then let's go to a store like that next. I want to make you try on a lot of things.\"",
+      "sourceUnit": "凛ルート十一日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy nerves don't calm down. Her bright smile alone makes me dazzled.\nAn unknown panic or agitation makes my chest hurt a bit.\nThat was why I thought that we should hurry back home and devise a strategy, instead of going on a date.",
+      "sourceUnit": "凛ルート十一日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "But...\nUm, what kind of magecraft was cast to make it turn out this way?",
+      "sourceUnit": "凛ルート十一日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Man, that was so funny. That was the funniest thing I've seen in a while.\"",
+      "sourceUnit": "凛ルート十一日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? I cannot tell. Shirou did not look like himself earlier.\"",
+      "sourceUnit": "凛ルート十一日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what's good. I didn't think he would look so much like a spoiled rich kid just by putting glasses on. You should've bought those glasses, Shirou.\"\nTohsaka must've loved it, as she's still laughing.",
+      "sourceUnit": "凛ルート十一日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...It all happened about ten minutes ago.\nI don't know what Tohsaka was thinking, but she took us to the glasses shop and played around by putting fake glasses on Saber.",
+      "sourceUnit": "凛ルート十一日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "I became a victim of circumstance as well, and one of the glasses she put on me became a hit for her.\nIt was a pair of fake glasses with a thick frame and formal design.",
+      "sourceUnit": "凛ルート十一日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...Ugh, no thanks. Look, I'm never wearing fake glasses. I already have a babyface, so I can't afford to look even more like a kid.",
+      "sourceUnit": "凛ルート十一日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh, I see, you were aware of it. But I don't think you need to worry. There's nothing wrong with the way you are now.\"",
+      "sourceUnit": "凛ルート十一日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Stu—There's a problem with the way I am now! My face can't be helped, but I need a bit more height!\"\n\"Oh? I think your height is average.\"\n\"It's not. I'll be able to brace myself if I'm taller. I need at least Issei's height.\"",
+      "sourceUnit": "凛ルート十一日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I said you don't have to worry. You'll still grow more.\"\n\"...I'm glad to hear that, but what's your reasoning behind that?\"",
+      "sourceUnit": "凛ルート十一日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... Oh, yeah. You're well-built, so you'll grow if you get your nutrition, right? I thought you'd grow if you use photosynthesis.\"\n\"What kind of leaf are you talking about? Don't treat me like some flower.\"",
+      "sourceUnit": "凛ルート十一日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Emiya, are you mad...?\"\n\"Nah. I'll take it with a grain of salt... Well, it seems like I can look forward to it if you say so.\"",
+      "sourceUnit": "凛ルート十一日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. I can't make any promises about your height, but I'm sure you'll become a fine man. That I can guarantee for sure, Shirou.\"\n\"Wha—\"\nW-Why would you say things that make my face boil!?",
+      "sourceUnit": "凛ルート十一日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, you're blushing. I like you since your emotions always show on your face.\"\n\"Ugh...\"\nS-She's playing around with me.\nShe's definitely playing around with me.",
+      "sourceUnit": "凛ルート十一日目-04:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh, you evil woman! Is it fun for you to tease a guy your age!?\"",
+      "sourceUnit": "凛ルート十一日目-04:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. It depends on the person, but your reactions are the best.\"\n...Dear God.\nPlease give her divine punishment.\nNot for my sake, but for the sake of all the guys at my school.",
+      "sourceUnit": "凛ルート十一日目-04:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, let's stop playing around with Shirou and get to the main part. Do you want to let out some stress before lunch?\"\nTohsaka puts her fists together and swings them.",
+      "sourceUnit": "凛ルート十一日目-04:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Could it be...?\"\nIt's obvious from her gesture.\nWell, but is it possible for a girl to suggest it as part of the date course...?",
+      "sourceUnit": "凛ルート十一日目-04:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"What else could there be other than a batting cage, Shirou? Don't tell me you don't know it.\"\nTohsaka, the (former) school idol, asks me if I'm serious.",
+      "sourceUnit": "凛ルート十一日目-04:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I know!\nWhat I want to say is that batting cages aren't for girls...\"\nSaying that, I imagine Tohsaka standing in the batter's box.",
+      "sourceUnit": "凛ルート十一日目-04:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Crap. It does look strange, but why does she look so reliable?",
+      "sourceUnit": "凛ルート十一日目-04:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"What, then do you want to go to the aquarium instead? I think they had the penguin army vs. a giant seal from the North Sea, the flaming freezing three-game match, but it's a third-rate attraction.\"",
+      "sourceUnit": "凛ルート十一日目-04:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "...\nWell, I think it's a second-rate attraction, but I don't know about going to an aquarium when it's such a nice day outside.",
+      "sourceUnit": "凛ルート十一日目-04:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. What is a batting cage?\"\n\"Huh? Oh, well it's something you would be good at. You can say that it's a well-rounded physical exercise considered to be special training in some cases.\"\nWoah.\nTohsaka's putting it in a ridiculous way.",
+      "sourceUnit": "凛ルート十一日目-04:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. I cannot ignore that.\"\n\"Yeah, you should try it since it feels good. I bet you'll be able to win all the prizes.\"\nTohsaka raises Saber's expectations irresponsibly and starts walking again.",
+      "sourceUnit": "凛ルート十一日目-04:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\nI watch her back and start running, having no other choice.\nThere's no point arguing against Tohsaka's energy.\nI can't stop her, and it doesn't feel too bad being dragged around like this.",
+      "sourceUnit": "凛ルート十一日目-04:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "So that's what it means.\nMy nerves calm down since I'm having fun.\nI was taken around so much that I didn't have time to rest, and the nervousness went away.\nTohsaka urges me to go to the next place, and I respond reluctantly, while Saber watches over us quietly.",
+      "sourceUnit": "凛ルート十一日目-04:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...That was really fun.\nThe town I only used to walk by...\nI didn't know that all the things I didn't involve myself in were so meaningful.",
+      "sourceUnit": "凛ルート十一日目-04:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\nAs soon as I think so, something like a cage falls on me, and it makes sense.\nYou don't deserve this.\nYou're unworthy of this.\nSomewhere deep down, I tell myself.",
+      "sourceUnit": "凛ルート十一日目-04:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I-I'm tired.\nI never expected that I would be at bat five times for thirty pitches each, for a total of 150 swings.\nIt's all because...",
+      "sourceUnit": "凛ルート十一日目-04:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"W-What is it, Shirou? It is troubling if you look at me like that.\"\nIt's because she's a sore loser.",
+      "sourceUnit": "凛ルート十一日目-04:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"That was a miscalculation... I didn't think that Saber would be so competitive.\"\nTohsaka sighs next to me.\nShe also...",
+      "sourceUnit": "凛ルート十一日目-04:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'll only play one game. My hands will get rough if I grip the bat that much.\"\n...Said something like that, but ended up playing another game with Saber, then complained afterwards about how her shoulders were tired and her hands hurt.",
+      "sourceUnit": "凛ルート十一日目-04:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "What are you saying? You only played twice and just held onto the bat in the back after that. I did it five times. Five times! And at the fastest speed too!\n...Man, Saber would get mad if I take it too easy on her but would sulk if I beat her too bad. It was a hell of an hour.\"",
+      "sourceUnit": "凛ルート十一日目-04:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I did not sulk! I was only filled with spirit. First of all, this is nothing compared to our matches in the dojo. It is your fault for getting tired.\"",
+      "sourceUnit": "凛ルート十一日目-04:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...I get it. Saber's the type to get mad when she loses in games, huh?\"\nI sigh and wobble forward.",
+      "sourceUnit": "凛ルート十一日目-04:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "Here's what I found out today. First, don't bet with Saber.\nSecond, a rule where the one who achieves ten more hits than their opponent wins becomes an eternal hell if the abilities of those playing are equal.\nThird, Saber is weaker than us if she limits her magical energy.",
+      "sourceUnit": "凛ルート十一日目-04:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...Or rather, is Tohsaka the abnormal one for hitting 120 kmph balls like it's nothing?\nIt's natural since Saber is the smallest out of all of us, so it goes without saying that Tohsaka is strong for a girl.",
+      "sourceUnit": "凛ルート十一日目-04:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"How rude. Batting doesn't equal arm strength.\nEven a girl can hit if the swing speed and the angles are right.\"",
+      "sourceUnit": "凛ルート十一日目-04:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that's for one or two pitches. Usually their arm cramps up. Aren't you doing push-ups before you go to bed? That's the only thing I can think of.\"\nI say sarcastically, as if to get back at her.\nHowever...",
+      "sourceUnit": "凛ルート十一日目-04:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"...I-I do. Is there a problem?\"\n\"...Uh, no... Nice.\"\nSometimes she makes these counterattacks, so I wasn't able to make a comeback at all.",
+      "sourceUnit": "凛ルート十一日目-04:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"A-Anyway, let's have lunch. It's already past 2 PM. I need to eat something, since I'm getting dizzy.\"\nA family restaurant along the bridge should be the most convenient around here.\nThere's a lot on the menu, so Saber shouldn't have any complaints either.",
+      "sourceUnit": "凛ルート十一日目-04:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that fine with you, Tohsaka? It's not like you have any place in mind, right?\"\nI call to Tohsaka.",
+      "sourceUnit": "凛ルート十一日目-04:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I do. It's not like it has to be there, but I have it planned out.\"\n\"Oh, okay. So, where is it?\"",
+      "sourceUnit": "凛ルート十一日目-04:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Here.\"\n\"Huh? What do you mean 'here'?\"\n\"I mean here. It's a nice day out, so we're going to have a picnic at the park.\"",
+      "sourceUnit": "凛ルート十一日目-04:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "...I look around.\nI don't see any food place or even a hotdog stand.",
+      "sourceUnit": "凛ルート十一日目-04:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, don't tell me you're planning to get delivery.\"\n\"...Hey now. What do you think that tote bag you've been carrying this whole time is?\"\n\"Huh...?\"",
+      "sourceUnit": "凛ルート十一日目-04:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "Oh.\nCome to think of it, she did give me this bag to carry this morning.",
+      "sourceUnit": "凛ルート十一日目-04:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. It smells like mustard. So this is...\"\n\"Lunch, of course. Didn't I mention that I prepared that much?\"",
+      "sourceUnit": "凛ルート十一日目-04:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "She glares at me in objection.\n...Come to think of it, she did say something like that.",
+      "sourceUnit": "凛ルート十一日目-04:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, I'm surprised. I didn't think this would be that well thought-through.\"",
+      "sourceUnit": "凛ルート十一日目-04:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course it is. I invited you, so I prepared accordingly.\"",
+      "sourceUnit": "凛ルート十一日目-04:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, the mystery's also solved now. You used the bread for this, huh?\nMan, I totally thought you got hungry in the middle of the night and ate it. It seems absurd to eat a whole loaf, but I thought it might be possible in your case.\"",
+      "sourceUnit": "凛ルート十一日目-04:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "I see, I see.\nI nod twice, thinking that I got a huge load off my chest.\n\"Oh.\"\nWhen I look up, Tohsaka was making a scary face.",
+      "sourceUnit": "凛ルート十一日目-04:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya?\"\n\"Y-Yeah? What is it, Tohsaka?\"",
+      "sourceUnit": "凛ルート十一日目-04:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you stop talking and start preparing lunch? All the utensils are inside the tote bag. Also, I'm going to kill you if you're too slow.\"\n\"Oh... Yes. I will do my best.\"",
+      "sourceUnit": "凛ルート十一日目-04:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "I secure our spot on the grass.\nMan, that was scary.\nIt's bad for my heart for her to say a joke that doesn't sound like a joke with that big smile...",
+      "sourceUnit": "凛ルート十一日目-04:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "And...\nLunch starts two hours late, but...",
+      "sourceUnit": "凛ルート十一日目-04:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What happened, Shirou? Why are you spacing out?\n...Oh, are you not good with spicy food?\"",
+      "sourceUnit": "凛ルート十一日目-04:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "Right next to me...\nTohsaka, who's sitting in a position close enough to touch her if I reach out, says.",
+      "sourceUnit": "凛ルート十一日目-04:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh, no, I'm fine. It's an intense flavor, but this is good.\"\nI say my honest opinion and take another bite.",
+      "sourceUnit": "凛ルート十一日目-04:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? That's good. It's a talent to be able to make a sandwich that tastes bad, right? I thought for a second that I had that useless talent.\"\nTohsaka laughs delightfully.",
+      "sourceUnit": "凛ルート十一日目-04:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "...\nIf I looked like I was spacing out, it was probably because she was dazzling.",
+      "sourceUnit": "凛ルート十一日目-04:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "We eat lunch on the grass under the clear blue sky.\nEven that by itself is peaceful enough, but having Tohsaka there is more than I can handle and my nerves from this morning return.",
+      "sourceUnit": "凛ルート十一日目-04:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. You have a piece of tomato on your lip. Do you want me to get it for you?\"\n\"Bu...! W-W-W-W-W-What are you saying all of a sudden!? I can get that myself!\"\nI wipe my mouth with my sleeve.",
+      "sourceUnit": "凛ルート十一日目-04:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nShoot.\nI got an unlucky red stain on my clothes now.",
+      "sourceUnit": "凛ルート十一日目-04:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Oops, I guess I played around too much. I'm sorry, it was too funny since you react exactly how I expect you to.\"",
+      "sourceUnit": "凛ルート十一日目-04:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "I don't know if she's apologizing or suppressing her laughter, but she hands me a napkin while she holds her stomach.",
+      "sourceUnit": "凛ルート十一日目-04:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"...Humph. Whatever, I've been like this the whole day anyway. I don't care.\"\nI accept the napkin and wipe my sleeve.\nThe red stain doesn't come off.\n...Hm. Tohsaka must've used an original sauce.\nThe stain is quite stubborn and doesn't easily come off.",
+      "sourceUnit": "凛ルート十一日目-04:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"But just you watch. I'll learn from today's lesson and won't budge from anything starting tomorrow. Don't think it'll go your way forever.\"",
+      "sourceUnit": "凛ルート十一日目-04:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So that means I don't have to hold back starting tomorrow, huh?\nThat's good, I was getting tired of putting up a façade.\"\nThe red devil replies calmly.",
+      "sourceUnit": "凛ルート十一日目-04:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, no, I take that back. It'll take some time, so I'd appreciate it if you can keep it at that level.\"",
+      "sourceUnit": "凛ルート十一日目-04:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? If you say so, but let me know if you want to level up. I'll knock you out without reserve.\"",
+      "sourceUnit": "凛ルート十一日目-04:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. I'll get you someday.\"\nI'm not bitter that I lost, but I complain like I am.\n...It's somehow really vexing, so I take it out on the sandwich in front of me.",
+      "sourceUnit": "凛ルート十一日目-04:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "I eat up the sandwiches.\nI was hungry and it's Tohsaka's handmade meal, so I'm going to eat it all by myself.\n...Well, Saber already consumed a third of the sandwiches.",
+      "sourceUnit": "凛ルート十一日目-04:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "So Saber and I eat the sandwiches.\nTohsaka must be full, as she watches us.",
+      "sourceUnit": "凛ルート十一日目-04:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"Your body seems to be doing well. It looks like I can pull you around without holding back in the afternoon.\"",
+      "sourceUnit": "凛ルート十一日目-04:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "She makes an evil smile again.\nThat's more like...\nShe's looking forward to seeing me worn out from being dragged around than the actual activities itself.",
+      "sourceUnit": "凛ルート十一日目-04:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"Humph, don't take me too lightly. I won't complain just from being pulled around. Yesterday aside, I've been doing well today.\"",
+      "sourceUnit": "凛ルート十一日目-04:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I guess you're all right.\"\nTohsaka sighs with relief and reaches for a sandwich.\nIt's as if the weight is off her shoulders.",
+      "sourceUnit": "凛ルート十一日目-04:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nThe moment I tilt my head, wondering why she would say that...\n\"Oh.\"\nEverything fits together.",
+      "sourceUnit": "凛ルート十一日目-04:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "...\nCome to think of it, it was really unnatural.\nThe reason Tohsaka came to my place.\nArcher knew what was wrong with my body.\nHe must've heard that I Projected his swords and knew there was something wrong with my body.",
+      "sourceUnit": "凛ルート十一日目-04:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "That's fine.\nBut Archer, who wasn't there at the time, knew about the Projection because Tohsaka told him.\nThen...\nJust like Tohsaka told Archer about our battle with Caster, didn't Archer tell Tohsaka about the penalty on my body...?",
+      "sourceUnit": "凛ルート十一日目-04:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"Huh? What?\"\n\"Why did you come to my place yesterday? It's strange for you to stay over too. I didn't notice all this yesterday because Fuji-nee stirred things up.\"",
+      "sourceUnit": "凛ルート十一日目-04:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "...\nA brief moment.\nBut I hear Tohsaka gasp.",
+      "sourceUnit": "凛ルート十一日目-04:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't particularly have a reason. I just felt like it yesterday. I thought it might be fun once in a while.\"\n\"I see. It certainly was lively and fun yesterday.\"\n\"Right?\"\n\"Yeah. But thank you.\"",
+      "sourceUnit": "凛ルート十一日目-04:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nWow.\nShe turned red in an instant.",
+      "sourceUnit": "凛ルート十一日目-04:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"W-W-W-What are you misunderstanding....!? I-I wasn't concerned about you...!\"\n\"I know, it's not good to have your ally die. That's why you came to check up on me, right?\"",
+      "sourceUnit": "凛ルート十一日目-04:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... T-That's right. You're pretty smart.\"\n\"Yeah. But I still appreciate it.\nI don't know what you were planning, but I know you cared for me.\"",
+      "sourceUnit": "凛ルート十一日目-04:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe groans in dissatisfaction, with her face still red.\nThat gesture is so cute it makes me smile.",
+      "sourceUnit": "凛ルート十一日目-04:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see, I get it.\"\nI guess I get it.\nIt might be a different kind, but making the person you like embarrassed makes me really happy.",
+      "sourceUnit": "凛ルート十一日目-04:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "The weather changes once we finish lunch.\nThe sky that was clear is now clouded and it looks like it could rain at any moment.",
+      "sourceUnit": "凛ルート十一日目-04:page129:1"
+    },
+    "page130": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十一日目-04:page130:1"
+    },
+    "page131": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0205",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I cross the bridge at night.\nThis is the path I once walked with Saber.\nI was just looking at the scenery, not thinking about anything at the time.",
+      "sourceUnit": "セイバールート十三日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber will die once she obtains the Holy Grail.\nI do hope you understand what that means, Shirou Emiya.\"",
+      "sourceUnit": "セイバールート十三日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nI know.\nI don't need him to tell me that.\nBut why is everything so complicated?\nSaber shouldn't obtain the Holy Grail.\nBut the only thing that can save her is the Holy Grail.",
+      "sourceUnit": "セイバールート十三日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"My advice to you is, if you wish to be with her, you should give up the Holy Grail.\nIf you want Saber to stay, then all you need to do is feed her souls...\"",
+      "sourceUnit": "セイバールート十三日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I can't do that.\nAnd even if I asked her to do it, she would refuse.\nShe would choose to disappear if that were the alternative.\nShe will disappear, and then...she'll have to do another Holy Grail War all over again later.",
+      "sourceUnit": "セイバールート十三日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"You just need to keep one Command Spell.\nThat way, your wish will be granted.\"",
+      "sourceUnit": "セイバールート十三日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahhh! Shut up!\"\nKotomine's words are poison. I can't get rid of them. In a rage, I smash my fist against the nearby rail, desperately hoping to clear my mind.\nI hear an echoing, metallic clang.\n...There's no other sound.\nNot so much as a car or another person passing by.",
+      "sourceUnit": "セイバールート十三日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...why am I getting all worked up?\"\nI lean against the rail, grumbling to myself.\nI know I should just ignore Kotomine.\nBut there's just some sort of power to his words. I can't ignore them.",
+      "sourceUnit": "セイバールート十三日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "What do I want to do and what am I fighting for?\nIn the beginning, it was stopping the Holy Grail War.\nBut when did that become secondary?\nDid it happen when I started to stubbornly fight on my own?\nDid it happen when I realized how helpless I am and started to cooperate with Saber?",
+      "sourceUnit": "セイバールート十三日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Or...\nDid it happen when I made a sword for her, after our souls entwined that night in the ruins?",
+      "sourceUnit": "セイバールート十三日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "No, that's all nonsense.\nI don't need to think about it.\nSince the beginning...\nMy mind's been made up since I met her in the shed... The sight of her, illuminated by the moonlight...",
+      "sourceUnit": "セイバールート十三日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat would have been fine.\nHad I not shared that dream of her past, and so not known any better, it would have been over without me even noticing.\nBut I did find out.\nI knew I couldn't leave her alone, and I started to hope I could somehow not lose her.",
+      "sourceUnit": "セイバールート十三日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I wish to stay this way.\nI want to keep seeing her smile...",
+      "sourceUnit": "セイバールート十三日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow...\"\nThe image of the girl watching the sunset alone on that hill, strewn with swords.\nMy chest hurts whenever I think of that scene.\nShe never took any time for herself.\nThat always bothered me.",
+      "sourceUnit": "セイバールート十三日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Kiritsugu always said not to make a girl cry.\nI much prefer her smiling face to her tears.\nThat's why I was so angry Saber never smiled.\nBut then, when I told her to smile...\n...she always replied that she would rather see me smile.\nThat's...\nThat's like looking at an unreachable star through a telescope.",
+      "sourceUnit": "セイバールート十三日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...\"\nI look up at the night sky.\nI stare up at the star I could never reach.\nA trickle.\nI don't know how it formed, but I feel a tear slide down my cheek.",
+      "sourceUnit": "セイバールート十三日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I love her.\"\nI say it to nobody.\nAs dense as I may be, I have to at least admit how I feel.\nI can't stop this feeling anymore.\nI realize I've fallen in love with her, so much so that thinking about her can bring me to tears.",
+      "sourceUnit": "セイバールート十三日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome home. You were out late.\"\nI hear Tohsaka's voice as I arrive.\nShe's standing at the entrance.",
+      "sourceUnit": "セイバールート十三日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka...? Why are you...?\"\n\"This is not the place to talk. You look exhausted; come follow me.\"\nShe grabs my hand and, without waiting for me to reply, drags me down the hall...\n...and she brings me to her room.",
+      "sourceUnit": "セイバールート十三日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Here, tea. It must have been cold out there.\"\nShe's awkward about it, but she's being considerate.",
+      "sourceUnit": "セイバールート十三日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, thanks.\"\nHonestly, the hot tea is comforting.\nIt took me a good hour to walk home from the neighboring town.\nI walked slowly, so I was cold to the bone.",
+      "sourceUnit": "セイバールート十三日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"So you went to Kirei's place?\"\nAs usual, she doesn't beat around the bush.\nI get it. Tohsaka must have known what I was going to do from the very beginning.\nBut she didn't stop me. She just waited for me to come home, and now she's even made me tea.",
+      "sourceUnit": "セイバールート十三日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I feel like a new man...now that my mind is made up, and I appreciate Tohsaka's thoughtfulness.\nWhich is probably why I say...\n\"Yeah, I went. There was something I wanted to ask him about.\"\nI don't hide anything. I'm honest with her.",
+      "sourceUnit": "セイバールート十三日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I won't ask for details. You're okay with that too, right?\"\n\"Yeah. It wasn't a fruitful conversation anyway.\nI just wanted to check with him about the current situation.\"",
+      "sourceUnit": "セイバールート十三日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. But I'm honestly surprised that Saber isn't a full Servant. The strongest of all Servants being the most incomplete is a bad joke.\"\n\"Yeah. And Saber didn't have to end up as a Servant.\"\nShe nods in agreement.",
+      "sourceUnit": "セイバールート十三日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"This is funny. You and Archer might have gotten along under different circumstances. He said the same thing you did earlier.\"\n\"Eh...? Archer? You mean, your Archer?\"",
+      "sourceUnit": "セイバールート十三日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. Archer once said that he regretted his own actions, so he didn't want Saber to make the same mistake.\"\n\"Huh? Why would he be worried about Saber?\nI thought he hated Saber.\"",
+      "sourceUnit": "セイバールート十三日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, but maybe he had some kind of connection with her.\nThe first time he fought Saber, he was obviously going easy on her. I thought it was weird from the very beginning.\"",
+      "sourceUnit": "セイバールート十三日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? But Saber said she didn't recognize Archer.\"\n\"Really? But Saber was a king, right?\nShe might have not known every single citizen in her country. She could have forgotten about them too.\"",
+      "sourceUnit": "セイバールート十三日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"You know, if you go that route, the possibilities are endless. If you can't remember someone's face, that's as good as you not knowing them.\"",
+      "sourceUnit": "セイバールート十三日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not necessarily true. According to legend, there were many knights that were unfortunately driven out of Camelot. He might have been one of them.\nIf so, he might have been trying to hide his identity not from me, but from Saber.\"",
+      "sourceUnit": "セイバールート十三日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's unusually chatty tonight.\n...\nIt's probably her way of trying to be considerate.\nMaybe not particularly effective, but Tohsaka is a good person.\nShe's usually pretty relentless, but she still lends a helping hand. She's got kind of a big sister thing going on.",
+      "sourceUnit": "セイバールート十三日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "We drink tea for a few more minutes.\nTohsaka turns and looks straight at me. Guess she's run out of patience.",
+      "sourceUnit": "セイバールート十三日目-14:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what do you want to do, Shirou?\"\n\"I'm going to take her on a date tomorrow.\"\nI can't think of anything else. It's a spur of the moment idea I came up with on my walk back home.\nBut then...",
+      "sourceUnit": "セイバールート十三日目-14:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "I don't know where the somber mood from earlier went, because Tohsaka makes the most bizarre face.\n\"Pffft. Haha...ahahahahahahahahahaha!!!\"\nShe bursts out into uncontrollable laughter.",
+      "sourceUnit": "セイバールート十三日目-14:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehe...hold on...wait...heh...I wasn't ready to hear this...haha...ahahaha... That's unbelievable. It's SO selfish of you, Shirou!\"\nDamn...I'm so dumb. I should've seen this coming.",
+      "sourceUnit": "セイバールート十三日目-14:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Sh-shut up! What's wrong with me being selfish!? I know this is not the time for it, but I'm not going to let you get in our way!\"\n\"O-oh, no, no, no! Shirou...it's just so funny...hehehehehe!\"\nTohsaka slaps my back hard. She holds her stomach with her other hand, laughing so hard now she's nearly in tears.",
+      "sourceUnit": "セイバールート十三日目-14:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...!\"\nI think this is the worst she's ever treated me.",
+      "sourceUnit": "セイバールート十三日目-14:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"He...hehe...haaa...ah! I haven't laughed this hard in a long time!\"\n\"Well I'm happy for you. None of that was funny to me.\"",
+      "sourceUnit": "セイバールート十三日目-14:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, good luck with your date. I'm rooting for you two.\"\nTohsaka says that kindly, doing a complete about-face from a second ago.",
+      "sourceUnit": "セイバールート十三日目-14:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...yeah. I'll try my best.\"\nHonestly, that came out of left field.\nWhen she says it like that, all I can do is nod.",
+      "sourceUnit": "セイバールート十三日目-14:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "I go back to my room.\nSaber is still asleep, and the house is peaceful, as if there is nothing happening.",
+      "sourceUnit": "セイバールート十三日目-14:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "It rained today, but what about tomorrow...?\nI look up at the clouds slowly passing overhead. Unlike me as it is, I pray for a sunny day tomorrow.",
+      "sourceUnit": "セイバールート十三日目-14:page42:1"
+    },
+    "page43": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

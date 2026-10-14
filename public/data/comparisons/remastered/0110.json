@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0110",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Well, I don't want to complain about this training...\n...but I also think that if there is some sort of secret move I could learn that might let me get through this training, I might be more enthusiastic about sparring against Saber.",
+      "sourceUnit": "セイバールート七日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Hear me out.\"\n\"Yes, what is it, Shirou? You certainly look expectant.\"",
+      "sourceUnit": "セイバールート七日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so? Hm, well I guess I want to ask you for a favor, and I have some high hopes for it... But let me get to the point: there's something I want you to teach me.\"",
+      "sourceUnit": "セイバールート七日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. I am not entirely sure what exactly you wish to learn, but I will share what I can with you.\"",
+      "sourceUnit": "セイバールート七日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Saber thinks it's a serious conversation, so she sits in front of me in a formal seiza position.",
+      "sourceUnit": "セイバールート七日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"So what is it that you want to know? Is it about Servants?\"\nSaber regards me seriously.",
+      "sourceUnit": "セイバールート七日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uh.\"\nI feel like I already know what's going to happen in the next few seconds here, but I should go for broke and ask anyway.",
+      "sourceUnit": "セイバールート七日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...I'm actually really serious about this, so I want you to hear me out and please not get mad.\"",
+      "sourceUnit": "セイバールート七日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, that is why I mean to listen intently. Please do not hold back. Ask whatever is on your mind.\"",
+      "sourceUnit": "セイバールート七日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I'm going to take you at your word...\nSo...is there some sort of secret technique I could learn that would let me take down a Servant? It'd be great if it were strong enough to take even you down.\"",
+      "sourceUnit": "セイバールート七日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber stops breathing.",
+      "sourceUnit": "セイバールート七日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber's brow doesn't move so much as a millimeter.",
+      "sourceUnit": "セイバールート七日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I knew it couldn't be that easy, right?\nSorry...I apologize... It was my bad! I was only joking, so I would really appreciate if you just understood I was kidding and pretended you didn't hear any of that!\"",
+      "sourceUnit": "セイバールート七日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Just then...\nSaber grins wickedly.",
+      "sourceUnit": "セイバールート七日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Saber? I might be imagining things, but you seem to have an evil smile on your face that...doesn't quite fit you...\"",
+      "sourceUnit": "セイバールート七日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh it is not your imagination. I am feeling every bit as wicked as Rin right now.\"",
+      "sourceUnit": "セイバールート七日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Aaaah!!!\"\nEvery hair on my body stands on end.",
+      "sourceUnit": "セイバールート七日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...ah...uh...\"\n\"Why are you so distressed, Shirou? I have not yet answered your question. If I recall correctly, you desire a secret attack powerful enough to defeat a Servant in a single blow, yes?\"",
+      "sourceUnit": "セイバールート七日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I retreat instinctively, but Saber closes the distance between us, not allowing me to escape.",
+      "sourceUnit": "セイバールート七日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I...uh, well, you see... Saber, are you mad?\"\n\"Oh, very.\"",
+      "sourceUnit": "セイバールート七日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I am a dead man.\nIf Saber and I were actually to fight right now, I'd die.",
+      "sourceUnit": "セイバールート七日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold it. Let's calm down, Saber.\nI regret what I said. I have a pretty good idea why you're mad too.\"\n\"Do you, now? Then please, seat yourself there, seiza style. My rage will not abate until I have properly explained everything to you.\"",
+      "sourceUnit": "セイバールート七日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Saber gets to her feet.\nI quickly sit up straight, just as Saber had been, and brace myself for the worst.",
+      "sourceUnit": "セイバールート七日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber takes a deep breath.\nAnd...",
+      "sourceUnit": "セイバールート七日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"HOW CAN YOU BE SO RIDICULOUS!? WHAT WERE YOU THINKING, ASKING ME TO TEACH YOU SUCH A TECHNIQUE!?\"",
+      "sourceUnit": "セイバールート七日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Oof.\"\nThe sheer volume is wreaking havoc on my poor ears.\nI had no idea her yelling alone could paralyze me.\nNo human could ever shout so loud.\nIt's like the roar of a beast...a lion.",
+      "sourceUnit": "セイバールート七日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"S-sorry... I said I regret my actions.\nSaber, you're stronger than me. I just thought maybe you knew some kind of sword skill even amateurs could learn.\"",
+      "sourceUnit": "セイバールート七日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"No such easy path exists!\nAn ambush is best used against an opponent with whom you are evenly matched, and amateurs like you must carefully build a foundation before even considering using such a thing!\"",
+      "sourceUnit": "セイバールート七日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, I have already told you not to think about defeating your opponent! Defending yourself is your first priority! If there is to be a special secret move for you, Shirou, it would be gaining the ability to lead a battle without actually fighting!\"",
+      "sourceUnit": "セイバールート七日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...I know. I got it...so can you tone it down a bit?\"\nI show her how bad I feel about this, and clap my hands together like I'm praying for her forgiveness.",
+      "sourceUnit": "セイバールート七日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly... I thought you had some potential, but then, a moment later, THIS is what you ask me. If you continue like this, it will simply be too dangerous to leave you alone!\"\nSaber continues scolding me.",
+      "sourceUnit": "セイバールート七日目-13:page30:1"
+    },
+    "page31": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page32": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

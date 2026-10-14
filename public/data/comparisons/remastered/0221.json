@@ -1,0 +1,392 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0221",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ah!!!\"\nI turn from the dark stairway that leads underground.\nAs my heart hammers in my chest, I run.",
+      "sourceUnit": "セイバールート十五日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I can't stay another second.\nI need to get out of this building right now.\nThis is a bad place.\nIt's always been like this.\nThis church is not somewhere I should ever have come.\nI shouldn't have ever come into this building or met the priest.",
+      "sourceUnit": "セイバールート十五日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I return to the chapel.\nThe empty house of God is deathly ominous.\n\"Ha...haaah...hah...ha!\"\nI keep running, only briefly glancing back.\nI'm almost at the exit.\nThere's nobody behind me.\nThere's nobody behind me.\nThere's nobody behind me.",
+      "sourceUnit": "セイバールート十五日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I leave the church.\nI run through the square without looking back.\nWhat am I afraid of? What am I running from?\nI can't seem to shake off the sense of unease clinging to me.",
+      "sourceUnit": "セイバールート十五日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou! Where have you been, all alone!?\"\n...\nThe moment I come home, I get a different sort of scare.\nSaber is at the entrance, looking absolutely livid.",
+      "sourceUnit": "セイバールート十五日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...yeah. I'm home, Saber.\"\n\"Do not, 'I am home,' me! How many times must I tell you not to leave on your own!?\"",
+      "sourceUnit": "セイバールート十五日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...okay. You're right. Sorry. I'll be more careful next time.\"\n\"There will not be a next time! I am furious with you! Shirou, explain why you went out alone!\nYour wounds have not completely healed and we do not know when Gilgamesh will attack next. Just how much do you plan to make me worry about you!?\"",
+      "sourceUnit": "セイバールート十五日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Saber glares at me.\nBut I don't know what it is...",
+      "sourceUnit": "セイバールート十五日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...I went to the church. I thought maybe I could learn Gilgamesh's weakness from the priest there.\"\n\"Ah...the church? But why now?\"",
+      "sourceUnit": "セイバールート十五日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I've talked to him before. He's the overseer, so I thought he might be able to do something about the Servant from the last war.\nBut it was futile. I failed.\nAnd I don't blame you for getting mad. I have you, Saber, and we should've gone to the church together.\"",
+      "sourceUnit": "セイバールート十五日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I bow my head to apologize again.\n\"Erm...uh...well...as long as you understand...\"\nSaber's threatening posture eases all at once.",
+      "sourceUnit": "セイバールート十五日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It's always been like that.\nSaber always gets really, really angry at how stupid I can be, but at the same time she's kind enough to forgive me right away.\nOr, if I'm being egotistical, it's like her resentment at being left home alone vanishes as soon as I get back.",
+      "sourceUnit": "セイバールート十五日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well. If you are contrite for your actions, I suppose I should overlook this matter. And I was, perhaps, being slightly immature myself.\"",
+      "sourceUnit": "セイバールート十五日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't think so. You were waiting for me, right? Honestly, I'm grateful. The moment you yelled at me, all my worries disappeared.\"",
+      "sourceUnit": "セイバールート十五日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You are glad I yelled at you?\"\n\"Yeah. I'm so glad I came home to you, Saber.\"\n\"...What?\"",
+      "sourceUnit": "セイバールート十五日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, I'm glad to be home.\nI get to see Saber's face again.\nIf I'd gone down into that basement, I don't think I'd have ever made it home.\nI'm sure I made the right choice now.",
+      "sourceUnit": "セイバールート十五日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. How about we team up with Lancer?\"\n\"Eh? What was that, Saber?\"\nIt's past two in the afternoon, and we're having a late lunch when Saber broaches the topic.",
+      "sourceUnit": "セイバールート十五日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"As I said, we should team up with Lancer. Gilgamesh is entirely outside the Holy Grail War's rules. I am sure Lancer sees him as an opponent that cannot be ignored, and so he should be willing to cooperate with us if the conditions are right.\"",
+      "sourceUnit": "セイバールート十五日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. So the enemy of our enemy is our friend?\"\n\"Yes. If there is some benefit to him, he will surely be willing to work with us, even temporarily.\"",
+      "sourceUnit": "セイバールート十五日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Teaming up with Lancer, huh?\nThat may be our only choice.\nWe are no match for Gilgamesh on our own.\nBut if Saber and Lancer can cooperate, we should be able to come up with at least a couple of schemes.",
+      "sourceUnit": "セイバールート十五日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. I don't know if Lancer will cooperate, but it wouldn't hurt to at least try to talk to him about it.\nWhich would mean our problem is...\"\n\"Yes. The matter of how we get in contact with Lancer.\nWe have not seen Lancer since that night, and we still do not know who his Master is. With only two Masters left, I do not imagine they will continue to sit by so passively.\"",
+      "sourceUnit": "セイバールート十五日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But Lancer not showing himself could mean he's afraid to face you alone.\"\n\"Unlikely. Lancer is a worthy hero. He would be happy to fight me; he certainly would not be afraid.\nThat he has not appeared after all this time means he must have a reason for his behavior.\"",
+      "sourceUnit": "セイバールート十五日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "We fold our arms, thinking.\n\"My, the two of you are sure in sync this morning.\"\n\"T-Tohsaka!?\"\n\"Rin...how long have you been there!?\"\nThe two of us jump simultaneously.",
+      "sourceUnit": "セイバールート十五日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"A while now.\nThe two of you are completely focused on each other. It was just so silly, I had to keep quiet and watch.\nDon't you think that was the best move? You were having a moment, so I figured I shouldn't butt in.\"",
+      "sourceUnit": "セイバールート十五日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!? R-Rin, Shirou and I are Master and Servant, so there is nothing of the sort—\"",
+      "sourceUnit": "セイバールート十五日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, yeah, yeah. I'll just leave it at that.\nSo returning to what you two were talking about...I agree that you should try teaming up with Lancer. If Goldy really is the King of Heroes, I don't think you have much of a chance of winning unless you form an alliance.\"",
+      "sourceUnit": "セイバールート十五日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Oh man...\nI don't know how much she heard, but Tohsaka is at least aware of the current situation.\nApparently she eavesdropped on our conversation during lunch, and she knows that Archer is Gilgamesh and that he possesses a Noble Phantasm even more powerful than Saber's.",
+      "sourceUnit": "セイバールート十五日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'm going to go back home for now. I'll need to grab a weapon for myself, prepare something that will lure Lancer out, and I also need to get medicine for Illya.\"\n\"Medicine for Illya?\nTohsaka, is there something wrong with Illya!?\"",
+      "sourceUnit": "セイバールート十五日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Not really. She's the same as yesterday. Her breathing's stable and her fever's down. She's just not her usual, energetic self.\nI'm sure she'll wake up if she gets hungry, so make her something tasty when that happens.\"",
+      "sourceUnit": "セイバールート十五日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "She places an empty rice bowl on the table.\nI can't believe Tohsaka was even here eating lunch this whole time...",
+      "sourceUnit": "セイバールート十五日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"See you. I'll be back by dinner, so behave yourselves until then.\"",
+      "sourceUnit": "セイバールート十五日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Once Tohsaka has left, Saber and I don't have much to do together, so I just blankly stare at the clock as it ticks away.\n\"...\"\n\"...\"\nI can't say why, but the living room feels a little tense.",
+      "sourceUnit": "セイバールート十五日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Shirou?\"\n\"D-do you want another cup of tea, Saber?\"\nWe both look up at the same time, but we both freeze when our eyes meet.",
+      "sourceUnit": "セイバールート十五日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what is it, Saber? If there's something on your mind, tell me.\"\n\"N-no. Um...yes! Please, I would like another cup of tea.\"\n\"G-got it. Hold on a minute.\"",
+      "sourceUnit": "セイバールート十五日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "A nerve-racking hour passes by.\nSince we're not doing anything, we might as well train at the dojo or just lie down to rest.\nNeither Saber nor I bring either idea up.",
+      "sourceUnit": "セイバールート十五日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Even I know this is entirely too awkward.\nI know, but I just want to keep spending time with Saber.\nNo matter how tense or nervous I am around her—and I've already had ten cups of tea—I just want to relish the moment and watch her face.",
+      "sourceUnit": "セイバールート十五日目-01:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nAnd then...\nWhen I get up to go to the kitchen, the doorbell rings.",
+      "sourceUnit": "セイバールート十五日目-01:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"A visitor? At this hour?\"\nIt's rare for anyone to visit here.\nSakura's the only one who'd ring the doorbell, and she's supposed to stay away until the war ends.\nFuji-nee's still at home recuperating too, and I don't have much of a relationship with the neighbors.",
+      "sourceUnit": "セイバールート十五日目-01:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"Yeah, come with me, Saber. I might have to ask you to deal with whoever it is, if it comes to that.\"\n\"Of course. I will protect you.\"",
+      "sourceUnit": "セイバールート十五日目-01:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Who is it?\"\nI call to the visitor through the closed door.\n\"I am from the church. I have come to report the results of the investigation you requested.\"",
+      "sourceUnit": "セイバールート十五日目-01:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop breathing for a second.\nIt's the very man I went to see this morning.",
+      "sourceUnit": "セイバールート十五日目-01:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Is something the matter? You do not look well...\"\n\"No, it's okay. Can I open the door, Saber? I'll send him away if you don't want him here.\"",
+      "sourceUnit": "セイバールート十五日目-01:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "That first night, Saber refused to go inside the church.\nI remember that, which is why I ask.",
+      "sourceUnit": "セイバールート十五日目-01:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not mind. I will abide by your decision.\"\nI nod once and open the front door.",
+      "sourceUnit": "セイバールート十五日目-01:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"That took longer than expected. Is there some reason you did not want to see me, Shirou Emiya?\"\n\"No, nothing like that. I was just surprised. I didn't expect you to come all the way here. If you want to discuss something, come on in.\"",
+      "sourceUnit": "セイバールート十五日目-01:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "I beckon Kotomine towards the living room.\nHowever...\n\"No, let us just stand out here and talk. I have not discovered much, so it should not be a long conversation.\"\nKotomine draws back, like he's trying to leave.",
+      "sourceUnit": "セイバールート十五日目-01:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Where are you going, Kotomine?\"\n\"As I said, we will stand out here and talk. I cannot do that with your Servant behind you, glaring at me with such murderous intent. If she continues that, I may have to rethink my position, for my own sake.\"",
+      "sourceUnit": "セイバールート十五日目-01:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI look back at Saber.\n\"Saber!?\"\nKotomine's right.\nSaber looks so viciously murderous that even I find myself paling.",
+      "sourceUnit": "セイバールート十五日目-01:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"What does a Master from the previous war want? If I recall correctly, Kiritsugu shot and killed you.\"",
+      "sourceUnit": "セイバールート十五日目-01:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"You are correct. I abandoned my role and surrendered, hands in the air. He shot me from behind. If not for God's divine protection, I would have died then and there.\nBut what of it? It must feel like only yesterday to you, but it is long in the past for me. A full decade has passed. Must you revisit a battle that has long since concluded?\"",
+      "sourceUnit": "セイバールート十五日目-01:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nHis words do nothing to calm Saber down.\n\"Saber, Kotomine's right. I want you to forget about the last war for now.\"",
+      "sourceUnit": "セイバールート十五日目-01:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, do not under any circumstance let your guard down in this man's presence. Kiritsugu targeted this priest from the very beginning because he was a dangerous enemy who needed to be eliminated. Immediately.\"",
+      "sourceUnit": "セイバールート十五日目-01:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"How flattering to hear that coming from the mouth of one who survived until the very end. That says a great deal about my abilities.\"",
+      "sourceUnit": "セイバールート十五日目-01:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"How dare you be so impudent!?\"\nThe air grows heavy with tension.\nNot good.\nI'm not sure I can hold Saber back.",
+      "sourceUnit": "セイバールート十五日目-01:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold it, Saber. I asked Kotomine to investigate Gilgamesh for me. We may know his identity, but we don't know anything beyond that.\nAnd right now, the more we know about him, the better.\"",
+      "sourceUnit": "セイバールート十五日目-01:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yes, that may be true, but...\"",
+      "sourceUnit": "セイバールート十五日目-01:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I am happy to tell you or leave. As I said, there is not a great deal of information anyway.\nBut I am not entirely without feelings here.\nIt is not exactly enjoyable to be received so rudely and met with such hostility by the former Servant of a man who shot me through the chest. I am not so experienced, so I may struggle to maintain the composure expected of a priest.\"",
+      "sourceUnit": "セイバールート十五日目-01:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"I feel much the same. I will not warm to a former enemy.\"\nThe two glare at each other.\nThis isn't going anywhere.",
+      "sourceUnit": "セイバールート十五日目-01:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, stand back. I want to hear what Kotomine has to say.\"\n\"Shirou!? You mustn't! This man is dangerous. If you are to listen to what he has to say, I shall...\"",
+      "sourceUnit": "セイバールート十五日目-01:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I understand how you feel, but I'm still a Master. Even if something were to happen to me, I won't just die right away. You'll be able to reach me if something happens. There's no danger now.\"",
+      "sourceUnit": "セイバールート十五日目-01:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Of course not. A mere human could never hope to outmaneuver a Servant.\nShirou Emiya, your Servant appears to be overprotective.\"",
+      "sourceUnit": "セイバールート十五日目-01:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, try not to push her buttons so much.\nI'm just going to hear what you have to say. I'll have Saber stay back. That's good enough, right?\"",
+      "sourceUnit": "セイバールート十五日目-01:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually, no. I do not feel like talking here. There would be no place for me to run if Saber attacks.\nIf I recall, there is a courtyard here. I should have a few seconds to flee even if Saber goes mad. That should be enough time for you to employ a Command Spell to stop Saber.\"",
+      "sourceUnit": "セイバールート十五日目-01:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. But I can say for sure that won't happen.\nSaber. Wait on the veranda. I'll call for you if something happens.\"\n\"...Yes. If those are Master's orders.\"",
+      "sourceUnit": "セイバールート十五日目-01:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. This is fine. There's a nice opening, and I can take in the entire mansion from here.\"\n\"...\"\nWe stand about two meters apart.\nIt might be hard to hear if he whispers, but it's enough of a distance for me to react if something happens.",
+      "sourceUnit": "セイバールート十五日目-01:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what did you find out, Kotomine?\"\n\"Hm? Ah, yes. There's something I'd like to confirm with you first.\"",
+      "sourceUnit": "セイバールート十五日目-01:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "He gives a deep, seemingly benevolent smile.\nKotomine takes a step closer.\n\"I apologize for being absent this morning. Here. You forgot something.\"\nI hear a heavy thud.\nKotomine throws something onto the grass.\n\"That's the Bounded Field!\"\nThe alarm goes off.\nThe Bounded Field my old man put up—the one meant to sound an alarm when intruders with malicious intent enter the area—is ringing!?",
+      "sourceUnit": "セイバールート十五日目-01:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Lancer is the cause of the commotion. He must have come here with the same goal.\"",
+      "sourceUnit": "セイバールート十五日目-01:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "I barely hear Kotomine.\nNo, I'm busy staring at the thing he threw at my feet.\nIt occupies my entire attention...because it looks like the corpse of a small child.",
+      "sourceUnit": "セイバールート十五日目-01:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"So Saber has engaged the intruder. He cannot fight at full power while he is inside. He will need to figure out another strategy if he's to capture Illyasviel.\"",
+      "sourceUnit": "セイバールート十五日目-01:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...It's not a corpse.\nIt's alive.\nThe child looks so miserable, I want to avert my eyes. But it's alive. Its face isn't even identifiable...",
+      "sourceUnit": "セイバールート十五日目-01:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wh...y?\"\nA sharp, heavy object pierces my heart from behind.",
+      "sourceUnit": "セイバールート十五日目-01:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"A mere human could not possibly outmaneuver a Servant.\nIt is obvious. To do so, one must use a Servant.\"",
+      "sourceUnit": "セイバールート十五日目-01:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "I don't care about the priest's chilling smile.\nI don't even care that my heart's been destroyed and I'm spitting up blood.",
+      "sourceUnit": "セイバールート十五日目-01:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Why...would you...?\"",
+      "sourceUnit": "セイバールート十五日目-01:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "Questions are all that occupy my mind.\nWhy...do I...\nRecognize a corpse that's not even human anymore?",
+      "sourceUnit": "セイバールート十五日目-01:page75:1",
+      "recoveredDelimitedTail": true
+    },
+    "page76": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

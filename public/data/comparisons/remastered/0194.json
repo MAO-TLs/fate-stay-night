@@ -1,0 +1,581 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0194",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "By the time the sun sets, the rain's stopped completely.\nBased on our conversation during breakfast, we're heading to town to look for the other Master...",
+      "sourceUnit": "セイバールート十三日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"But I should check something beforehand...\"\nI should check Saber's intentions.\nWhat is her purpose in fighting?",
+      "sourceUnit": "セイバールート十三日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"But I shouldn't just ask her straight out. I'll need to be casual about it.\"\nI hype myself up a bit, then push to my feet.\nThe living room seems like a good starting place.\nI'm going to leverage the peaceful pre-dinner mood to try to get through Saber's stubborn nature.",
+      "sourceUnit": "セイバールート十三日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What if, hypothetically...\nWhat would we do if we won the Holy Grail War?\"\nSo much for casual.\nI thought about it a lot and couldn't come up with anything smooth, so blunt it is.",
+      "sourceUnit": "セイバールート十三日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n\"Huh?\"\n\"Hm?\"\nAll three of them offer more or less the same response, though with slightly different expressions.",
+      "sourceUnit": "セイバールート十三日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Like I said, after we win. I want to talk about what to do once we obtain the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, we got that, thanks... Where did this come from?\"",
+      "sourceUnit": "セイバールート十三日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Saber and Illya don't nod, but they do seem to share an opinion on the subject.\nI guess this was kind of weird to bring up out of nowhere.\nBut I have to play dumb for now.",
+      "sourceUnit": "セイバールート十三日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Well, I'm just asking.\nThere are only three Servants left, so it's not such an unrealistic thought. So, you know, the end is kind of in sight.\"",
+      "sourceUnit": "セイバールート十三日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. Well, you might be right.\nI guess even Shirou could be thinking about that by now. You did join the war, so I guess it's no surprise you've got your mind on the reward now that you've been risking your life for this.\"",
+      "sourceUnit": "セイバールート十三日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah. I WOULD think that.\"\nI'm glad Tohsaka likes to focus on the reason for things.\nTohsaka will allow for the possibility of anything that seems logical, which is really one of her better qualities.\nThis is just something I brought up to discuss though.",
+      "sourceUnit": "セイバールート十三日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"So what about you, Tohsaka? What would you do if you got the Holy Grail?\"\nI try to be as natural as possible with this.",
+      "sourceUnit": "セイバールート十三日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see...I've really only ever thought about winning. There's nothing I want to wish for from the Holy Grail.\nI'd take the Holy Grail, but I've never thought about what I'd do with it.\"",
+      "sourceUnit": "セイバールート十三日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\nSo she's fighting because she doesn't want to lose.\nI figured that was the case, but didn't know for sure until she said it herself.",
+      "sourceUnit": "セイバールート十三日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't believe this. You seemed like the one person who would have had it all worked out, but you've actually thought about it the least.\"\n\"Hmph. Say what you want. What about you then, Illyasviel?\"",
+      "sourceUnit": "セイバールート十三日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know. I was just told not to give up the Holy Grail to anyone because it's mine.\nIt's mine to begin with, so I obviously don't care.\"",
+      "sourceUnit": "セイバールート十三日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? So you're saying you enjoy the Holy Grail War more than the Holy Grail?\"\n\"Of course. I only came here to win. I don't care what it gets used for.\"",
+      "sourceUnit": "セイバールート十三日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "They're two peas in a pod.\nThe two stare at each other in silence. They seem to be coming to some sort of understanding.",
+      "sourceUnit": "セイバールート十三日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber doesn't say anything.\nShe probably doesn't intend to join the conversation.\nNo matter how much she resists, I still have to ask.",
+      "sourceUnit": "セイバールート十三日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I have a good idea of your goals.\"\nI try to turn as naturally as possible.\n\"So what about you, Saber?\"\nShe's been quiet this whole time.",
+      "sourceUnit": "セイバールート十三日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber doesn't reply.\nSensing that something's amiss, Tohsaka and Illya stop and turn towards Saber.\nThe silence stretches out for maybe a minute.",
+      "sourceUnit": "セイバールート十三日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I need not remind any of you of this, but it is my duty to obtain the Holy Grail.\nI know little of the Holy Grail's potential...\n...but so long as it is a Holy Grail, I must obtain it.\nAnd, if it is possible, I will have my wish granted.\"",
+      "sourceUnit": "セイバールート十三日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "There it is.\nSaber's just said she has a wish of her own!",
+      "sourceUnit": "セイバールート十三日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So what is your wish?\"\nI try to calm my racing heart and keep composed as I ask.\n...\nSaber doesn't answer.",
+      "sourceUnit": "セイバールート十三日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Fine. That's fine.\nIf she can't answer, chances are good it's because her wish is a selfish one.",
+      "sourceUnit": "セイバールート十三日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Knowing Saber, she may hesitate to reveal her wish to anyone if she's wishing for something selfish.\nAnd I think I'd rather she keep quiet than make something up.\nI can feel myself trying to back away from the question I raised.",
+      "sourceUnit": "セイバールート十三日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Is it really that complicated?\nGrandfather said the Servants want to come back to life in this world. They want the Holy Grail for a second chance at life. Isn't that the case with you, Saber?\"",
+      "sourceUnit": "セイバールート十三日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Saber jerks her head up.\nIf that's what she wanted, there would be no problem.\nWhich means...",
+      "sourceUnit": "セイバールート十三日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I have no interest in a second life.\nMy only goal is to obtain the Holy Grail.\nThe price I paid to have a chance at obtaining the Holy Grail was becoming a Servant.\"",
+      "sourceUnit": "セイバールート十三日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I figured that much.\nSomeone who took an oath and drew the sacred sword wouldn't seek a second life.",
+      "sourceUnit": "セイバールート十三日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. You became a Servant just to obtain the Holy Grail? You formed a contract when you become a Heroic Spirit?\"",
+      "sourceUnit": "セイバールート十三日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I asked to seek the Holy Grail in exchange for becoming a Servant.\"",
+      "sourceUnit": "セイバールート十三日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"What!?\nAre you saying you weren't summoned as a Servant to help a Master get the Holy Grail, but you chose to become a Servant so you can get the Grail yourself!?\"",
+      "sourceUnit": "セイバールート十三日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka stares at Saber.\nShe tilts her head, confused.",
+      "sourceUnit": "セイバールート十三日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"So Saber wasn't summoned because she's a Heroic Spirit, but because she just volunteered to join the war?\"",
+      "sourceUnit": "セイバールート十三日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"But as long as she's a Servant, she's supposed to be a reputable Heroic Spirit... That would mean she can't affect the world herself... So Saber must have gone around the rules for Servants... Which she obviously hasn't...\nArgh. Hold on a minute. I need to organize my thoughts.\"",
+      "sourceUnit": "セイバールート十三日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You need do nothing of the sort. You were correct, Rin.\nI am different than the other Servants.\nI have yet to become a complete Servant.\"",
+      "sourceUnit": "セイバールート十三日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Not a complete Servant...?\"\nWhat does that mean?\nWell first of all, what does it mean to become a Servant?",
+      "sourceUnit": "セイバールート十三日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Saber just said...\nShe agreed to become a Servant as the price she had to pay to obtain the Holy Grail.\nWhich means...",
+      "sourceUnit": "セイバールート十三日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on a minute.\nAre Servants forced to fight as the price to get what they want?\"",
+      "sourceUnit": "セイバールート十三日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is incorrect. Servants are special familiars that exist only for the Holy Grail War.\nA Servant is created through special summoning magecraft which employs the characteristics of Heroic Spirits.\nThey are already Heroic Spirits, so there are no rules which say that Servants must work because they are given something.\"",
+      "sourceUnit": "セイバールート十三日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. The Servant system uses Heroic Spirits, which are Guardian incarnations.\nIt's working with something that already exists, so neither Servants nor Masters have to pay a price to use this system.\"",
+      "sourceUnit": "セイバールート十三日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"But I have heard that before becoming a Servant...they have to pay a price to become a Heroic Spirit in the first place.\nHeroic Spirits are Guardians for humans.\nEven after their deaths, they work to protect humanity and prevent the destruction of the human world.\"",
+      "sourceUnit": "セイバールート十三日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"And in order to become a Guardian, the person must, while they are still active as a hero in their lifetime, make a deal of some kind.\nThat's the contract to become a Heroic Spirit...a ritual to give themselves to the world after they die.\"",
+      "sourceUnit": "セイバールート十三日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"The beneficiaries of this exchange become heroes, and after they've done what they wanted to do as a hero and eventually died, they repay that debt by becoming Heroic Spirits.\nBasically, in order to become a hero in life, they go into a sort of debt, which they then repay as a Heroic Spirit after death.\nMasters like us use Servants because we swoop in and make use of that debt Heroic Spirits are trying to repay.\"",
+      "sourceUnit": "セイバールート十三日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So you're saying humans become heroes by making some sort of trade, and in return, they get used and summoned as Heroic Spirit familiars after their death.\nWhich means the deal Saber made to become a Heroic Spirit was for...\"",
+      "sourceUnit": "セイバールート十三日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail.\nSince Saber obtained the Holy Grail in her lifetime, the price she has to pay is serving as a Heroic Spirit, a sort of Guardian, even after death?",
+      "sourceUnit": "セイバールート十三日目-00:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"That doesn't sound right. Saber said that her goal was the Holy Grail. But she already obtained it, since she became a hero in exchange for the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-00:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not correct, Shirou. I have not yet obtained the Holy Grail.\nAltria...King Arthur's wish was to obtain the Holy Grail during their lifetime.\nI had to obtain the Holy Grail before I died.\nThat is why I agreed to become a Guardian after I died if I could first obtain the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-00:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"As Rin explained, humans form contracts with the world to become heroes. In exchange, they receive powers beyond human ability, which they pay for by serving after death.\nBut I did not require the world's help to become a hero. Fortunately, King Arthur required no such aid.\"",
+      "sourceUnit": "セイバールート十三日目-00:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...She didn't need any help to become a hero.\nSo Saber became a hero on her own.",
+      "sourceUnit": "セイバールート十三日目-00:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Yet you are here as a Heroic Spirit.\nDoes that mean you asked for something else from the world after King Arthur became a hero?\"",
+      "sourceUnit": "セイバールート十三日目-00:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I required the Holy Grail in my final moments. A wish that must be granted presented itself, so I needed the Holy Grail.\nThat is why...I formed a Heroic Spirit contract.\nI offered to wield my sword as a Heroic Spirit after my death...so long as I could lay hands upon the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-00:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn her last moments, she wished for the Holy Grail's miracle.\nNow I understand her feelings.\nThe blood-soaked hill.\nSwords standing as gravestones, the bodies of so many knights.\nA lone king whose reign ended in betrayal.\nShe didn't deserve the end she met.\nEven if she hadn't had a wish of her own before, she must have thought...",
+      "sourceUnit": "セイバールート十三日目-00:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I can't die here.\nThis isn't the end I want.\nAnd that's why...there is no shame in using the power of the Holy Grail to prolong her life.",
+      "sourceUnit": "セイバールート十三日目-00:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So you seized the means of obtaining the Holy Grail by selling yourself after death.\nBut Saber, your condition was obtaining the Holy Grail while you were still alive, right?\nThen...",
+      "sourceUnit": "セイバールート十三日目-00:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I could not complete my search for the Holy Grail while I was alive. I, King Arthur, could not obtain the Holy Grail even at the very end.\nBut that would nullify my contract.\nFor the world to make a Servant of me, it must provide a Holy Grail while King Arthur yet lives.\nAnd that is why...\"",
+      "sourceUnit": "セイバールート十三日目-00:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"King Arthur will not die until she obtains the Holy Grail. That is to say, she can't die.\nThat means you're...\"",
+      "sourceUnit": "セイバールート十三日目-00:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Time for King Arthur...for me...stopped at the moment of my death.\nI should have died a long time ago, but that does not fulfill the contract.\nKing Arthur was summoned as a Servant right at the moment of death, and she will die the moment she obtains the Holy Grail.\"",
+      "sourceUnit": "セイバールート十三日目-00:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"So it's not that time's stopped. You're just stuck in time.\nIt doesn't matter how many times you repeat your fight as a Servant, because you obtaining the Holy Grail and fulfilling your contract is predetermined...\"",
+      "sourceUnit": "セイバールート十三日目-00:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. I will one day obtain the Holy Grail, and my contract will be fulfilled. That is why I can be summoned as a Heroic Spirit in another age: the outcome of my arrangement has already been determined.",
+      "sourceUnit": "セイバールート十三日目-00:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"This does not apply only to the Holy Grail in this town.\nShould there be a chance of obtaining the Holy Grail, I could be summoned to any battlefield.\nOne day, I will obtain the Holy Grail, and once my wish has been granted, time—stopped for me at the moment of death—will resume its flow.\nKing Arthur will meet her end, and in exchange for obtaining the Holy Grail, she will become a Heroic Spirit.\"",
+      "sourceUnit": "セイバールート十三日目-00:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"So, for you, it's like a dream just before dying...one you can't wake from.\nThis Holy Grail War is just a part of that dream.\nAnd the only way for you to wake is to get a Holy Grail.",
+      "sourceUnit": "セイバールート十三日目-00:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"You believed I could not enter spirit form because Shirou is inexperienced, but that is incorrect. I cannot enter spirit form because I am still alive.\nIt may only be a technicality, but I am considered a living person.\n...Just like during the last Holy Grail War.\"",
+      "sourceUnit": "セイバールート十三日目-00:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Saber's tone is apologetic.\nShe probably feels bad for laying the blame for her not being able to enter spirit form on my ineptitude.\n...\nI don't care about that.\nBut there's something I need to ask.",
+      "sourceUnit": "セイバールート十三日目-00:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. What do you mean you're not dead? I got that you won't die until you obtain the Holy Grail.\n...And based on how you described it, you haven't been alive since the time of King Arthur.\nBut then...who are you right now?\nYou're not a clone of the real person or anything...right?\"",
+      "sourceUnit": "セイバールート十三日目-00:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. Heroic Spirits, when summoned, are like copies of a person's original body, but I have yet to reach that state.\nUntil I obtain a Holy Grail, I appear as I am at the moment of my death.\"",
+      "sourceUnit": "セイバールート十三日目-00:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"As Rin mentioned, King Arthur is now stopped in the great river of time.\nFrom where I am stranded, I jump both forward and back along the river's flow, and after I attempt to obtain the Holy Grail, I return to where time stopped for me.\"",
+      "sourceUnit": "セイバールート十三日目-00:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "I try to diagram it all in my head.\nIt's pretty simple once I visualize it.\nKing Arthur is stopped in time at the moment before she dies.\nBut that doesn't matter to the wider flow of time.\nIt continues on, all the way to the present.",
+      "sourceUnit": "セイバールート十三日目-00:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "She jumps to whatever time she's needed, then returns to her own frozen moment in time after she completes her duty.",
+      "sourceUnit": "セイバールート十三日目-00:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "If she manages to obtain the Holy Grail in one of the times she visits, she'll be swept back into the proper flow of time and die, just as she does in the history we know.",
+      "sourceUnit": "セイバールート十三日目-00:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Maybe that's how Heroic Spirits work.\nWhen they die, they're transferred back to a sort of nexus where the flow of time stops.",
+      "sourceUnit": "セイバールート十三日目-00:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "And then when they're summoned, they are taken to that point in time, then disappear without ever returning.\nThat's probably what is meant by Heroic Spirits being doubles.",
+      "sourceUnit": "セイバールート十三日目-00:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Kind of like a clone made from their original cells.\nThe Heroic Spirit, which completely retains the abilities and memories they had while alive, appears in this world and gains more knowledge. But it's all useless.",
+      "sourceUnit": "セイバールート十三日目-00:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "They have no means to return to their original body, and instead just disappear.\nAnd so, no matter how many times or in how many different eras they're summoned, there will never be any inconsistencies in the Heroic Spirit's memories.",
+      "sourceUnit": "セイバールート十三日目-00:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "From the moment the person becomes a Heroic Spirit, they will never change.\nEven if they obtain new knowledge, they will just disappear once their role is over.",
+      "sourceUnit": "セイバールート十三日目-00:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "So in that sense, Saber is not a complete Servant.\nAfter each time she's summoned, she eventually returns to her own time.\nShe goes back to that moment where she's about to die on that blood-soaked hill.",
+      "sourceUnit": "セイバールート十三日目-00:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold it.\nSo then what? If you manage to get the Holy Grail this time, you'll return to your own time and use the Holy Grail there!?\nThat's altering the past! Time traveling or intervening in a parallel world is Magic! You can't do something like that.\"",
+      "sourceUnit": "セイバールート十三日目-00:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"But the Holy Grail makes that possible.\"\nMy contract dictates that I will become a Servant if I can use the Holy Grail.\nEven if using the Holy Grail causes the person Altria to disappear, that is simply cost of me becoming a Heroic Spirit.\"",
+      "sourceUnit": "セイバールート十三日目-00:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "Saber is so matter-of-fact about it.\nIt doesn't sound right though.\nUsing the Holy Grail to grant a wish is fine.\nBut why would that mean Altria has to disappear?",
+      "sourceUnit": "セイバールート十三日目-00:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell? Altria's going to disappear by using the Holy Grail? That's messed up.\nSaber. You're not going to...\"\nI see the image of the girl dying on that hill all alone.\n\"You're not going to use the Holy Grail to save yourself?\"",
+      "sourceUnit": "セイバールート十三日目-00:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What are you asking, Shirou?\nMy only desire is to save my nation from ruin.\"",
+      "sourceUnit": "セイバールート十三日目-00:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI can feel my expression tensing up.\nI thought I knew Saber's wish...but now my head is spinning, and I feel like throwing up.\n\"Wh...y?\"\nAnd yet...\nI try to push air from my lungs and get that one word out.",
+      "sourceUnit": "セイバールート十三日目-00:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no reason I should not.\nI could not protect my nation. I became king to protect the nation, but I failed to fulfill that duty.\nAnd that is when I thought...\nPerhaps the sword in the stone was wrong to have chosen me.\"",
+      "sourceUnit": "セイバールート十三日目-00:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Tha—\"\nThat's ridiculous.\nWhy would she think that!?",
+      "sourceUnit": "セイバールート十三日目-00:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is a doubt I always carried with me.\nPerhaps I was never fit to be king.\nPerhaps there was another hero who would have been a better choice.\nEven in the moment I pulled the sword, there must have been a better king out there, one able to save the nation, while I could not.\nAnd so, if I could use the power of the Holy Grail to redo the selection of the king...then perhaps we could...\"",
+      "sourceUnit": "セイバールート十三日目-00:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Is she saying that...\nHer nation wouldn't be destroyed if she was able to go back to that moment?",
+      "sourceUnit": "セイバールート十三日目-00:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel faint.\nI'm really angry at Saber for wishing for such a ridiculous thing? The feeling passes in an instant though.",
+      "sourceUnit": "セイバールート十三日目-00:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "I probably look like a deer in headlights.\nIsn't it obvious?\nSaber's wish is not for herself. And on top of that, she wishes for her own elimination.",
+      "sourceUnit": "セイバールート十三日目-00:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "She exists because she became king by drawing the sacred sword.\nTo pretend that never happened means she simply wouldn't exist.",
+      "sourceUnit": "セイバールート十三日目-00:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "Let's say we use the Holy Grail to grant her wish.\nAltria would never become king. She would just live in a timeline where she is an ordinary knight.\nBut then what would happen to the Saber I know?\nEven if it's only temporary, she already exists as a Heroic Spirit. And if her wish is granted, she will continue on, but as a being meant only for fighting.",
+      "sourceUnit": "セイバールート十三日目-00:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "She's already paid the price for obtaining the Holy Grail...so the Saber I know will continue existing, even if Altria never becomes king.\nShe will be cut off from the past and future.\nShe will always and only ever be the lonely knight dying on that blood-soaked hill.",
+      "sourceUnit": "セイバールート十三日目-00:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"That's idiotic.\"\nI won't allow it.\nThere is no hope of salvation there.\nEven if she was able to do it all over, and there really was a better king, and her nation did manage to last longer, and if she was herself saved...",
+      "sourceUnit": "セイバールート十三日目-00:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "It'd all be lies.\nEven if it made everyone around her happy, I can't just let the past ten years she fought through be a lie.",
+      "sourceUnit": "セイバールート十三日目-00:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You can't do that.\nYou can't redo things. It wouldn't mean anything if you did, Saber.\"",
+      "sourceUnit": "セイバールート十三日目-00:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou?\"\n\"Don't use the Holy Grail for something like that.\nYou obtain the Holy Grail because you fight for it. You should use that miracle for yourself.\"",
+      "sourceUnit": "セイバールート十三日目-00:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... But I have said... I will be using it for myself.\nI... Altria, must fulfill her duty as king.\"\n\"Guh...!\"\nHow does she not understand!?",
+      "sourceUnit": "セイバールート十三日目-00:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"You've already done more than your duty! You've done so much already. You didn't give up even when you were feared, or even when you were betrayed! You held on to your sword until the end on that hill.\nSo why...why do you have to keep such promises even after you die!?\"",
+      "sourceUnit": "セイバールート十三日目-00:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber looks bewildered.\n\"Ah...\"\nToo late to regret what I said.\nI shouldn't have just blurted out that I've been dreaming of Saber's past.",
+      "sourceUnit": "セイバールート十三日目-00:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "...\nA heavy silence hangs between us.\nI can't think what to say.\nEven I can tell speaking up will just make things worse right now.\nBut...I just can't keep quiet.",
+      "sourceUnit": "セイバールート十三日目-00:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...I don't like it when people aren't rewarded for their hard work.\"\nIt's wrong. It's not fair.\nI get that it's childish, but I want to believe that humans can find happiness if they really work for it.",
+      "sourceUnit": "セイバールート十三日目-00:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not going to lose to the other Masters.\nI'm claiming the Holy Grail, no question.\n...That's why I want you to make your own wish.\nThat way, I'll actually find some meaning in this stupid war.\"",
+      "sourceUnit": "セイバールート十三日目-00:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's the conclusion I reached.\nI don't know what the Holy Grail is, nor do I know if it's even something you should try to obtain.\nBut...if it could save Saber, even a little, then I'll go all out for her.",
+      "sourceUnit": "セイバールート十三日目-00:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe sound of heavy bells rings out and the house suddenly goes dark.",
+      "sourceUnit": "セイバールート十三日目-00:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "The air changes immediately.\nThe lights go out, but Saber, Tohsaka, and I don't say a word. We try to gauge our surroundings with our other senses.",
+      "sourceUnit": "セイバールート十三日目-00:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "The loud ringing stops and the living room goes silent.\nAnd yet...\nA soft, rustling sound ripples through the house.",
+      "sourceUnit": "セイバールート十三日目-00:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that alarm this house's Bounded Field?\"\nI nod in silence.\nIt's the same sound as when Lancer broke in.\nThen that can only mean...",
+      "sourceUnit": "セイバールート十三日目-00:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe sounds are getting closer. Louder.\nSomething is...sliding against or across something else.\nIt sounds like a swarm of bugs rushing toward the light.",
+      "sourceUnit": "セイバールート十三日目-00:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "The only place that sound doesn't seem to be coming from is the living room.\nIt's not even been a minute since the lights went out, and we're surrounded on all sides by that sound.",
+      "sourceUnit": "セイバールート十三日目-00:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"An enemy. But it doesn't seem like a Servant...\"\nThere's just too many of them.\nWhatever people might say, I do have some knowledge of mages and magecraft.\nEven I can sense that there's a lot of magical energy coming from a ton of people or things surrounding the house.",
+      "sourceUnit": "セイバールート十三日目-00:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "Twenty, at least.\nBut they also seem weirdly light.\nI don't sense any human will or intellect.\nThe flapping sounds seem to be coming from enemy puppets.",
+      "sourceUnit": "セイバールート十三日目-00:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so they did come.\nThey've been running away from me this entire time, but now that Berserker's gone, here they are again.\nWhat a shrewd Servant.\"\nIllya speaks up amid the flapping sounds.\nShe, unlike the three of us, is strangely calm.",
+      "sourceUnit": "セイバールート十三日目-00:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you know who that is, Illya!?\"\n\"Of course I do. I know all the Servants. Caster is out there, and she's brought quite an entourage with her. They look like cheap golems made with dragon teeth.\"",
+      "sourceUnit": "セイバールート十三日目-00:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "Illya is so casual about this.\nAnd just then, the sound stops.",
+      "sourceUnit": "セイバールート十三日目-00:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "...\nI grab the wooden sword in the living room.\nSaber and Tohsaka seem to be waiting for me to make a move.\nI...",
+      "sourceUnit": "セイバールート十三日目-00:page114:1"
+    }
+  }
+}

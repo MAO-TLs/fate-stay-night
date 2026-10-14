@@ -1,0 +1,156 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0230",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I manage to make it home, leaning on Saber's shoulder.\nThe wound in my chest hasn't completely healed.\nAccording to Saber, I'll need to lie still for a few hours.",
+      "sourceUnit": "セイバールート十五日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI bite my lip.\nI curse my body for refusing to listen to me, even though I know what I need to do now.",
+      "sourceUnit": "セイバールート十五日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Are you thinking of doing something rash?\"\n\"Eh? U-uh, no, I wasn't thinking about anything.\"",
+      "sourceUnit": "セイバールート十五日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I will be very angry if you do something reckless.\nYou must not fight until your wounds have fully healed. This will be our final battle, so we must both be at our very best.\"",
+      "sourceUnit": "セイバールート十五日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. We're better off preparing ourselves than getting impatient.\"\nI'm thinking about where Kotomine went...\n...about how to defeat Gilgamesh.\nThere's just so much we need to consider.\nFor now though, we need to rest and wait until night.",
+      "sourceUnit": "セイバールート十五日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "At that moment, my mind freezes.",
+      "sourceUnit": "セイバールート十五日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nThere's nobody inside.\nThe house feels different.\nMingled with the smell of something burning, I can just pick out the strong scent of blood.",
+      "sourceUnit": "セイバールート十五日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI run.\nI ignore my chest wound; I run to shake off the chill running down my back.\nI run through the corridor, turn a corner, and pass through the familiar curtain that divides one room of the house from another.",
+      "sourceUnit": "セイバールート十五日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "And...\nThe scene that greets me is anything but familiar.",
+      "sourceUnit": "セイバールート十五日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Toh...saka...\"\nMy voice trembles.\nI don't know what happened.\nAll I know is that Tohsaka is looking at me, breathing weakly.",
+      "sourceUnit": "セイバールート十五日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...you're finally...home. You're so late, I was about to go to sleep...dummy.\"\nWhat the hell is she saying?\nIt looks like she's really struggling even to speak, but she tries to make conversation like nothing's wrong.",
+      "sourceUnit": "セイバールート十五日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...don't talk, you idiot! Damn...we need to stop the bleeding! Saber, get some towels and a washbasin with warm water from the bathroom!\"\nSaber nods and turns to run to the bathroom.",
+      "sourceUnit": "セイバールート十五日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Bandages. I need bandages and some styptic...I don't think styptic will be enough for this! Dammit! I need a doctor! I need to call a doctor to treat her!\"\nI panic as I pull out the first aid kit.",
+      "sourceUnit": "セイバールート十五日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. I already treated myself. I don't need a doctor.\nThere's something more important you need to do first.\"\n\"Gh—!?\"\nTohsaka is panting, but she looks straight at me.",
+      "sourceUnit": "セイバールート十五日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka?\"\nI don't know what the hell she's trying to say.\nI'm confused, but I just nod to listen to what she has to say.",
+      "sourceUnit": "セイバールート十五日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sure you're going to be okay?\nThere's so much blood...\"\n\"It's fine. I can stop my own bleeding.\nBut more importantly, I'm sorry. I was supposed to be taking care of her, but I couldn't protect Illya.\"",
+      "sourceUnit": "セイバールート十五日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI finally put two and two together.\nTohsaka wounded.\nThe living room in disarray.\nAnd...\nIllya...gone.",
+      "sourceUnit": "セイバールート十五日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Did Kotomine come here?\"\n...\nShe nods.\nHe's the only enemy left, so there wasn't much point in asking.",
+      "sourceUnit": "セイバールート十五日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "But Saber and I were the only ones who knew Kotomine was our enemy.\nIt must have been a shock for Tohsaka.\nThe seventh Master is her teacher and guardian.",
+      "sourceUnit": "セイバールート十五日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't apologize. Even you wouldn't have been able to do anything in an ambush. I know that, whatever you said, you always trusted Kotomine.\"",
+      "sourceUnit": "セイバールート十五日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I suppose. Honestly, I underestimated him. I guess I got a little cocky, thinking I could do everything on my own.\"\nShe coughs up blood.\nCrap. I can't let her keep talking.",
+      "sourceUnit": "セイバールート十五日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's talk later. Just don't move. We'll get you treated, then you can rest up.\"\n\"Yeah, that's good. But before that, I think I need to tell you something.\nShirou. This is the last advice I have for you, so listen good.\"",
+      "sourceUnit": "セイバールート十五日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's...ominous.\nBut I just nod.\nThis is serious, especially if she's so insistent on telling me, even as wounded as she is.\nI couldn't stop her from speaking up now, even if I wanted to.",
+      "sourceUnit": "セイバールート十五日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"First. Kotomine's objective was Illya. He must have known from the very beginning that she would be the vessel for the Holy Grail.\"\n\"Wha...!? Illya's the Holy Grail!?\"",
+      "sourceUnit": "セイバールート十五日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Her heart, to be precise. Mages are humans with Magic Circuits, but Illya's a human made from Magic Circuits.\nAs soon as there's only one Servant left, she'll become the vessel that summons the Holy Grail.\"",
+      "sourceUnit": "セイバールート十五日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Then Kotomine's taken Illya to...?\"\n\"Yep, he took her away. But—guh! If Saber's still around, the path won't open. So I don't think Kotomine will harm Illya, since she's the vessel.\"",
+      "sourceUnit": "セイバールート十五日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can only hope so.\nAnd Lancer won't be an easy Servant to beat.\nEven if he couldn't defeat Gilgamesh, he might at least have been able to run away.\nI'll just have to hope he did. This isn't the time to tell Tohsaka anyway.",
+      "sourceUnit": "セイバールート十五日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. I'll go save Illya, so don't worry.\"\n\"Okay. Now the second thing.\nI think Kotomine's at Ryudou Temple.\nI can't think of anywhere else to summon the Holy Grail.\nHe probably abandoned the church already, and if he's going to hide, it's got to be there.\"",
+      "sourceUnit": "セイバールート十五日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. Kotomine's at Ryudou Temple.\"\nShe doesn't even seem to have the strength to move her head.\nBut she nods anyway.",
+      "sourceUnit": "セイバールート十五日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, last thing. You can't beat Kirei. Are you still going to fight him?\"\nThat question...\nShe's not asking as a friend, but as a mage who truly understands the situation.",
+      "sourceUnit": "セイバールート十五日目-14:page29:1"
+    }
+  }
+}

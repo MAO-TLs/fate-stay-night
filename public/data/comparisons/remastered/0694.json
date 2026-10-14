@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0694",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Both hands on the clock point to the top.\nIt's midnight, the time we agreed on.",
+      "sourceUnit": "桜ルート十五日目-26:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I wrap up the Azoth Blade and keep it on my waist.\nIt's my only weapon. The only other thing I take with me is the pendant Tohsaka talked about.",
+      "sourceUnit": "桜ルート十五日目-26:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, Rin's calling for you. She said she'll be waiting outside, so come when you're ready.\"\nIllya will stay here.\nIt's true that Zouken's targeting Illya, but it's also my wish for her to stay here.",
+      "sourceUnit": "桜ルート十五日目-26:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Tohsaka's waiting outside for me?\"\n\"Yeah. She looked impatient, so you'd better go or she'll start grumbling.\"",
+      "sourceUnit": "桜ルート十五日目-26:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nI nod at Illya and stand up.\nMy left arm doesn't hurt anymore.\nMy functions as a living creature are just slowly being eroded.",
+      "sourceUnit": "桜ルート十五日目-26:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "If I stop, I won't know what I'm doing.",
+      "sourceUnit": "桜ルート十五日目-26:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going, then. Take care, Illya.\"\n\"Good luck, Shirou. Come home with Sakura and Rin before dawn, okay?\"\nI wave at Illya and leave the room.",
+      "sourceUnit": "桜ルート十五日目-26:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The living room is silent.\nTen years.\nSo much has happened here. I've made a lot of memories.\nMuch of it came recently.\nThis morning scene became so familiar to me over the last year and a half.",
+      "sourceUnit": "桜ルート十五日目-26:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The shed is silent.\nIt's Shirou Emiya's tiny workshop. A place I spent so much time in, it was like my own bedroom.\nThis is where I followed in Kiritsugu's footsteps and threw myself into training every night.\nWhen I fell asleep here, sometimes she would come to wake me up.\nIt feels like it happened a long time ago. I can even remember the smell of the air.",
+      "sourceUnit": "桜ルート十五日目-26:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The bedroom is silent.\nIt's a guestroom that's only been used for the last several days.\nThere aren't any memories here,\nbut it reminds me of Sakura.",
+      "sourceUnit": "桜ルート十五日目-26:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah.\"\nI sigh and lean against the wall.\nI can't remember.\nI can't remember anything that happened in this house, or anything I've experienced.\nAnd yet...\nWhen I walk through these rooms, Sakura's face clearly comes to mind.",
+      "sourceUnit": "桜ルート十五日目-26:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Man, I can't believe...\"\n...how much Sakura means to me.\nIt's a struggle to just stay conscious; my memories are all over the place.\nThe ten years I've spent in this house are turning into a haze.",
+      "sourceUnit": "桜ルート十五日目-26:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But there's something I still remember well.\nNo matter what else I'll lose, the memory of Sakura will always be fresh in my mind.",
+      "sourceUnit": "桜ルート十五日目-26:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI heave a long sigh.\nWhat I need to do has always been the same.",
+      "sourceUnit": "桜ルート十五日目-26:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Let's go, Sakura.\"\nI anchor my disconnected mind, and leave Sakura's room.",
+      "sourceUnit": "桜ルート十五日目-26:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I leave nothing behind.\nOnce, we made a promise here.\nWe knew we couldn't keep it, but we said it to encourage each other.",
+      "sourceUnit": "桜ルート十五日目-26:page15:1"
+    },
+    "page16": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,441 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0646",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's a trap.\nThat much is obvious.\nBut it's just as true that I might never get another chance to speak with Zouken one-on-one again.",
+      "sourceUnit": "桜ルート十三日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...And I can't afford to wait.\nWhether it's a trap or not, I need to face Zouken and get him to take the Crest Worms out of Sakura.",
+      "sourceUnit": "桜ルート十三日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Zouken has something to say to me, does he?\"\n\"A wise choice. You should hurry. I cannot evade Rider's eyes much longer. If anyone else becomes aware of this meeting, my Lord Mage may change his mind.\"\n\"...Hmph. So it's a secret talk with only me?\"",
+      "sourceUnit": "桜ルート十三日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...He doesn't answer.\nHe must not have any further business with me now that I've agreed.\nAssassin disappears completely, just as suddenly as he appeared.",
+      "sourceUnit": "桜ルート十三日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I sneak out of the Emiya house and make my way to the Matou mansion.\nThe sky is cloudy.\nBecause of the dim weather, the house seems shrouded in an ominous air, even though it's still daytime.",
+      "sourceUnit": "桜ルート十三日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I go inside without ringing the doorbell.\n...It's been a year since I was last in this house.\nI rely on my vague memory of it to walk through a hall and into the parlor on the first floor.",
+      "sourceUnit": "桜ルート十三日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you arrived more quickly than I thought, son of Emiya.\"\n...\nZouken's the only person I see in the parlor.\nI don't see Assassin or the dark Saber.\n...It looks like he really did want to talk to me.",
+      "sourceUnit": "桜ルート十三日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Not even a greeting? You must dislike me a great deal.\"\nZouken doesn't exude any bloodlust.\n...He's making fun of me.\nHis obvious confidence in not even bothering to kill me after all this time starts to irritate me.",
+      "sourceUnit": "桜ルート十三日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, you must have something to ask me if you accepted the invitation. Why don't you have a seat? We each have things to discuss that are too long to finish while standing, I'm sure.\"\n\"Yeah, right. Anything I have to say to you can get done while we're standing.\"",
+      "sourceUnit": "桜ルート十三日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...I fight down the urge to strike Zouken down where he stands, and glare daggers into him instead.\nUnlike him, I can't hide my hostility.\nI don't have an ounce of forgiveness for the person who did that to Sakura's body.",
+      "sourceUnit": "桜ルート十三日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Zouken. If we're here to talk, then I only have one thing to say to you. Let Sakura go, right now.\"\nIf he refuses, then the only thing left to do is fight.\nEven if he summons Assassin or Saber, I'll take this monster down before I die...!",
+      "sourceUnit": "桜ルート十三日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Release Sakura? ...Hm. I would like nothing more than to do so, but there's nothing I can do about that now, boy.\"\nThe old mage standing in front of me\nlooks genuinely regretful as he says it.",
+      "sourceUnit": "桜ルート十三日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...What?\"\n\"No matter what I do, there is no saving that thing now that it has grown so far. Sakura is already functioning as a Holy Grail. Even if I were to extract the Crest Worms here and now, it would do nothing to avert her doom.\"",
+      "sourceUnit": "桜ルート十三日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Wait.\nHoly Grail? Sakura's functioning as a Holy Grail?\nWhat does the Holy Grail have to do with this...?",
+      "sourceUnit": "桜ルート十三日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hang on. What do you mean Sakura's a Holy Grail? What the hell did you do to her!?\"",
+      "sourceUnit": "桜ルート十三日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"It's quite obvious. I took measures to obtain the Holy Grail and fulfill my wish.\nIn order to fulfill the long-sought dream of the Makiri, to attain true immortality by materializing the soul, I took the opportunity during the war ten years ago to grant it the functions of the Holy Grail.\"",
+      "sourceUnit": "桜ルート十三日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... You gave her the functions of the Holy Grail...?\"",
+      "sourceUnit": "桜ルート十三日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Let me ask you something about the end of the war ten years ago.\nYour father Kiritsugu Emiya destroyed the Holy Grail once the ritual had completed it.\nThe war ended there, and the ritual to summon the Grail ended again in failure.\nHowever, not all was lost. The Holy Grail was complete, if only for a time.\nIt would have been a waste to simply leave its broken fragments there on the ground.\"",
+      "sourceUnit": "桜ルート十三日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy brain grinds to a halt.\nSo this man took his granddaughter and...",
+      "sourceUnit": "桜ルート十三日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I implanted the recovered remnants of the Holy Grail inside her. But I am no fiend, you must understand. I labored to allow Sakura to continue living as a human.\"",
+      "sourceUnit": "桜ルート十三日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"So, the Crest Worms inside her body are...\"\n\"They were born using the Holy Grail as a catalyst.\nThat is how her flesh became a chalice to fill with souls, and, once the ritual is complete, a catalyst to open the gate to the path beyond.\nIt is an imitation of the Holy Grail that the Einzberns make.\nThough, since I lack their skill, about eight-tenths of it ended up being my own design.\"",
+      "sourceUnit": "桜ルート十三日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "He chuckles warmly.\nWhat \"imitation\" of the Einzbern?\nHe just picked up some pieces of the finished Grail and put them into Sakura, who had nothing to do with any of this!",
+      "sourceUnit": "桜ルート十三日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...You bastard. You can't make a Holy Grail on your own, so that's what you did to try and copy it!?\"",
+      "sourceUnit": "桜ルート十三日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"It was merely a test. An experiment, son of Emiya.\nWhat you see now is a trial run that will allow greater results in the next war. Originally, I planned to gradually turn Sakura into something like the Holy Grail, over the course of decades.\nShe would have the functions of a container for storing souls, while living out her natural human life. It was meant to be the first step to the Makiris' own Holy Grail.\"",
+      "sourceUnit": "桜ルート十三日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura was...just the first step?\"",
+      "sourceUnit": "桜ルート十三日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. That is why I adopted her into the Matou household.\nWe took her in as a daughter to make her into the bedrock of the Makiri dream. The Tohsakas should be aware. Their goal is the same as ours, after all. Both of us would become demons in the pursuit of immortality.\"",
+      "sourceUnit": "桜ルート十三日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Immortality...?\nYou and Tohsaka's father used Sakura for a stupid reason like that!?\"",
+      "sourceUnit": "桜ルート十三日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Naturally. The Holy Grail War on this land was conceived in order to reach that destination. It is for that cause that we joined hands, and why I continue living this wretched life.\nAll for the sake of the Matou descendants one day achieving our dream in the far future.\"",
+      "sourceUnit": "桜ルート十三日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"But fate is a fickle beast.\nSakura has shown a surprising amount of growth, despite being poorly suited to being a Holy Grail.\nGoodness, I have aged. To think that Sakura had such potential. She is still intact even after taking in this many Servants, and her ego as Sakura Matou still survives.\nShe indeed resembles a genuine Holy Grail of the Einzberns, which I had given up on creating.\"",
+      "sourceUnit": "桜ルート十三日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Nn...!\"\nI can't take this anymore.\nI'm not strong enough to keep listening to this monster's rambling.\nI forget that Zouken still has Assassin serving him.",
+      "sourceUnit": "桜ルート十三日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that crap! What Holy Grail!? Don't go calling something you sacrificed human lives to make a grail!\"\nI give in to my anger, and step in to punch Zouken.",
+      "sourceUnit": "桜ルート十三日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n\"No, she is the Holy Grail.\nTo begin with, the creators of the Holy Grail, the Einzberns, used a human as its base.\"\n\"...Huh?\"\nI stop moving in response to Zouken's smirk.",
+      "sourceUnit": "桜ルート十三日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"A human as the base?\"\nI stagger back out of my aggressive posture.\nI despise myself for immediately realizing whom he's talking about, even though I don't want to know.",
+      "sourceUnit": "桜ルート十三日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. That Illyasviel under your wing is the Holy Grail.\nBut I wouldn't want you to lump us together. After all, the Einzberns are far more dreadful than I am. You should ask her yourself what sort of Holy Grail they have prepared.\"",
+      "sourceUnit": "桜ルート十三日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\n...My raised fist falls limply.\n...It isn't just Sakura.\nHaving been told that Illya's in the same predicament, any hostility I had towards Zouken is overshadowed by profound regret.",
+      "sourceUnit": "桜ルート十三日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That must be all you wished to talk about.\nNow it's my turn. This is the reason I invited you.\nI want to consult you about that shadow.\"",
+      "sourceUnit": "桜ルート十三日目-01:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nHe wants to ask me about the shadow?\nZouken must be talking about the black Shadow that's been attacking people all over town.\nBut that would mean...",
+      "sourceUnit": "桜ルート十三日目-01:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...What are you talking about? That's one of yours.\nBut now you want to talk? Are you going to tell us to defeat that thing?\"\nI shoot Zouken a suspicious glare.\n\"Hahaha! You're so quick to understand!\nYes, I want to do something about that shadow. I need your strength, Shirou Emiya.\"",
+      "sourceUnit": "桜ルート十三日目-01:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... A-are you serious!? That thing's your friend, isn't it!?\"",
+      "sourceUnit": "桜ルート十三日目-01:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Friend...? I have helped it before, but it has never done the same for me.\nI'm not sure it's even capable of thinking on its own.\nI simply laid out a path for its rampage. Each night I've been trying to calm it in order to minimize the damage...but that is no longer possible as of last night.\nI told you, there's nothing I can do about it now.\"",
+      "sourceUnit": "桜ルート十三日目-01:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy heart convulses.\n\"There's nothing I can do about it now.\"\nWho is he talking about?",
+      "sourceUnit": "桜ルート十三日目-01:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Zouken.\"",
+      "sourceUnit": "桜ルート十三日目-01:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. I should have told you what that shadow is, first.\nBriefly put, it is the contents of the Holy Grail.\nThe Holy Grail is said to be an all-powerful pot that can grant wishes, but the Grail we aspire to obtain is not the pot itself. In reality, the Grail is but a means to an end.\nEinzbern. Makiri. Tohsaka.\nWhat our three families aimed to achieve was to complete the Holy Grail and open a portal to the outside.\nYou can think of the completed Holy Grail as a gate that connects this world to a place where all wishes can be granted.\"",
+      "sourceUnit": "桜ルート十三日目-01:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait. So the Holy Grail is just...\"\n\"You're well aware that the goal of all mages is to reach the Root.\nBut I have no interest in such things. Even the Einzberns only seek to complete the Holy Grail. Only the Tohsakas still aspire to reach the Root.",
+      "sourceUnit": "桜ルート十三日目-01:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...No matter.\nThe Holy Grail is a hole that connects to a wish-granter. That shadow is something which leaked from that side to ours.\nThe original Holy Grail—Illyasviel would do no such thing. That shadow is a result of the damage caused by the imitation Grail.\"",
+      "sourceUnit": "桜ルート十三日目-01:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"I hesitate to speak ill of my own kin, but perhaps I raised her incorrectly.\nWhile she has made considerable progress in her development as a Holy Grail, she cannot seem to keep the gate firmly shut. She is free to let that leak destroy herself if she wishes, but she should not involve others in it.\nWhat a troublesome girl. The Holy Grail that I took such pains to cultivate is bent on devouring every person in this city.\"",
+      "sourceUnit": "桜ルート十三日目-01:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "He shakes his head as if it's someone else's problem,\nmuttering \"goodness me.\"",
+      "sourceUnit": "桜ルート十三日目-01:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "...\nThose words would have normally made me punch the person that had uttered them.\nBut now, what Zouken is saying makes my blood run cold.",
+      "sourceUnit": "桜ルート十三日目-01:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"So...that black Shadow is...\"\nThere's no doubt...\n\"You've surely realized it by now. It is Sakura's shadow. You are close enough to her to have noticed how much it resembles her.\"\n...that it's Sakura Matou.",
+      "sourceUnit": "桜ルート十三日目-01:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\nI struggle against the dizziness.\n...Against the truth.\nI accept the connection between them that I've known for a while, but always denied.\nNo matter what the Shadow is,\nI can't recognize its sins as...",
+      "sourceUnit": "桜ルート十三日目-01:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Does Sakura...\"\n\"No, she should not be aware.\nIt is the shadow of the Holy Grail that manifests itself through her. Under different circumstances, it would not have acquired such a shape, but it based itself on Sakura once it began to manifest through her. It has merely modeled itself after the creatures on this side.\nIt has materialized in its current form by drawing on Sakura's suppressed id.\"",
+      "sourceUnit": "桜ルート十三日目-01:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"To be honest, I did not expect this. I dismissed it as an impossibility, but it has grown so strong with each passing day that I am forced to acknowledge it.\nIt is a Holy Grail that has acquired a will. Thus, it will continue to seek out human souls in order to complete itself.\nThere is only one way to stop it. If the Holy Grail is created from Sakura's subconscious, then you must stop Sakura herself.\"",
+      "sourceUnit": "桜ルート十三日目-01:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I've tried to persuade her myself, but the shadow prevents me from getting near her.\nWhile it lacks a will of its own, the shadow is Sakura herself. It equally despises the people she hates.\nI can no longer approach her.\"",
+      "sourceUnit": "桜ルート十三日目-01:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"You can't get close to her?\"\n\"Quite. You may think of Sakura as one of my pawns, but that is no longer true. It/She belongs to you now. With this body of mine, I can no longer control it from a distance.\"",
+      "sourceUnit": "桜ルート十三日目-01:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat's something to be happy about.\nAt the very least, Zouken can't touch Sakura anymore.\nSo if we can just do something about the Crest Worms in her body...",
+      "sourceUnit": "桜ルート十三日目-01:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. You haven't done anything to Sakura?\"\n\"Not so far, no.\"\n\"So why is she still in pain?\"",
+      "sourceUnit": "桜ルート十三日目-01:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"That is her own problem. I don't remember using the Crest Worms. She is becoming unable to endure the flow of power from the Holy Grail itself.\nImagine it. We speak of the Grail as an enormous swirl of power that is sufficient to grant any wish. All that power is flowing into a human body. Sakura's feeble mind could not possibly remain intact under such an ordeal.\"",
+      "sourceUnit": "桜ルート十三日目-01:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"So at this rate, she'll...\"\n\"She will break down under the unbearable stress of being a Holy Grail.\nNo, if Sakura's mind becomes empty, the Holy Grail which has borrowed her id will emerge. Perhaps she will be consumed by her own shadow.\"",
+      "sourceUnit": "桜ルート十三日目-01:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand now? It is pointless to defeat me.\nIf you do, the Holy Grail War will end. All that would remain is for the Grail to activate. Once it does, Sakura's mind will easily disperse.\nIf you wish to save her, then you must endure this war until the very end. The window to complete the Greater Grail—to open the gate—is limited.\nIt has already been ten days since it began. Based on previous events, this war should end in four more days.\"",
+      "sourceUnit": "桜ルート十三日目-01:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Four days. So I can save Sakura if we hold out for four days?\"\n\"I wonder. That is up to you. How was her condition this morning? Do you think she can hold out for four more days?\"\n\"Ngh... She'll make it. I know she will.\"",
+      "sourceUnit": "桜ルート十三日目-01:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I see.\nBut other people may not last as long. How many disappeared last night? How many more do you think will disappear tonight?\nNo... How many more days do you think the people of this town have left?\"",
+      "sourceUnit": "桜ルート十三日目-01:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I can't hear the old mage's question very well.\nIs he enjoying this or lamenting it?\nMy head is spinning so badly I can't tell the difference.",
+      "sourceUnit": "桜ルート十三日目-01:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Defeating Zouken will solve nothing.\nSakura won't last until the end of the Holy Grail War.\nWe can't beat that Shadow.\nThe people of Fuyuki will keep dying as long as the war goes on.\n\"Then...what should I do?\"\nCan I save Sakura? I clench my teeth.",
+      "sourceUnit": "桜ルート十三日目-01:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"The answer is simple. You need simply to dispose of her.\"\nZouken states the cold logic that I already know.",
+      "sourceUnit": "桜ルート十三日目-01:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Am I wrong? There is no future if you allow her to live, and the Shadow will attack more people tonight. You should eliminate her immediately to prevent that.\"\nI feel dizzy.",
+      "sourceUnit": "桜ルート十三日目-01:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"That was what I wanted to tell you. I wanted you to understand the true state of affairs. Shirou Emiya is protecting the greatest calamity this town has ever seen.\"\nI want to vomit.",
+      "sourceUnit": "桜ルート十三日目-01:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"She would be on her guard against me or the Tohsaka girl. But she would happily accept your judgment.\"\nI can't breathe.",
+      "sourceUnit": "桜ルート十三日目-01:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Slay evil to save the many.\nDo you understand now? If you intend to carry on Kiritsugu Emiya's will, then Sakura Matou is your enemy.\"\nI can't think at all.",
+      "sourceUnit": "桜ルート十三日目-01:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "I walk through the hallway, saying nothing, feeling like molasses oozing through the meandering hallways.\nI can't feel anything firm when my feet touch the ground or when my hand touches the walls.\nThis is so cruel.\nIt's like I'm in a warped nightmare with no way out.",
+      "sourceUnit": "桜ルート十三日目-01:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I find my way outside, forgetting to breathe.",
+      "sourceUnit": "桜ルート十三日目-01:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"You will make the right choice. I pity Sakura, but it is time to accept destiny.\"",
+      "sourceUnit": "桜ルート十三日目-01:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "...I walk.",
+      "sourceUnit": "桜ルート十三日目-01:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Allow me to thank you on behalf of my grandchild, boy.\nUntil now, she has never acted in her own interests. She never cursed herself for being abandoned by her father, nor wished to be as excellent as her sister. She lived a hollow, meaningless life, like a doll.\"",
+      "sourceUnit": "桜ルート十三日目-01:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "...I walk.\n...I walk.",
+      "sourceUnit": "桜ルート十三日目-01:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"That doll is loved by the man she first fell in love with. Goodness, I'm sure this is what she wants.\nSo don't blame yourself. After all, this is the last gift you can give my poor granddaughter.\"",
+      "sourceUnit": "桜ルート十三日目-01:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...I walk.\n...I walk.\n...I walk.\nI move forward on legs that feel like they could give out at any moment, in the direction of the house Sakura's waiting in.",
+      "sourceUnit": "桜ルート十三日目-01:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "I go down the hill.\nOnce I go up the next hill, the Emiya house will be there, like it always is.",
+      "sourceUnit": "桜ルート十三日目-01:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "I can't stay out here forever.\nWhatever my reasons, I had a secret meeting with Zouken.\nIt isn't fair to Tohsaka or the sleeping Sakura.\nSo, I need to get back home before they notice.\nI'll go home, and\nmake a decision.",
+      "sourceUnit": "桜ルート十三日目-01:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh!\"\nThe contents of my stomach rise to my throat.\nI decided I'd be Sakura's ally.\nI said that I'd protect her no matter what happens to her.\nI'd be on her side, not the side of justice.\nBut that would mean repeating the tragedy that took\nso many lives before.",
+      "sourceUnit": "桜ルート十三日目-01:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't do that.\nI just can't do it.\nShirou Emiya can't break this vow.\nIt would be the same as rejecting who you are.",
+      "sourceUnit": "桜ルート十三日目-01:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "You were the only survivor of that tragedy, and if you're going to allow it to happen again...\nThen you'd be rejecting everyone and everything that's supported you this far.",
+      "sourceUnit": "桜ルート十三日目-01:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "No matter how this ends, that sin will never be forgiven,\neven on your deathbed.",
+      "sourceUnit": "桜ルート十三日目-01:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "...\nInaction is silent approval.\nMore innocent people are going to die tonight.\nIf you know that, and you don't stop the perpetrator,\nthen you may as well have started that fire yourself.",
+      "sourceUnit": "桜ルート十三日目-01:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"But if you are going to deny everything you are and try to protect a single person...\"",
+      "sourceUnit": "桜ルート十三日目-01:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Will you be on Sakura's side, no matter what happens?\"",
+      "sourceUnit": "桜ルート十三日目-01:page84:1"
+    },
+    "page85": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page86": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0060",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There's no point in talking until I understand my own situation.\nI'll need to understand where I am before I try to get where I'm going.\nThat's the basics for a journey.",
+      "sourceUnit": "セイバールート四日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's start with what happened last night.\"\n\"Yeah, you should know what's going on first. Hey, looks like you're finally thinking straight.\"\nWith a smug grin, Tohsaka launches into a brief explanation of last night's events.",
+      "sourceUnit": "セイバールート四日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Apparently Berserker left right after I lost consciousness.\nAfterwards, my body started to heal on its own, and was back to normal after a few minutes.\nI was still unconscious, so Tohsaka brought me here and the rest was as I remember it.",
+      "sourceUnit": "セイバールート四日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What's important here is that you managed to survive on your own. I might have helped a bit, but it was your power that healed your wound. So, don't get that twisted, okay?\"\n\"That's what it sounds like from the way you told it. So you aren't the one who healed me?\"",
+      "sourceUnit": "セイバールート四日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No way. I can't revive someone on the verge of death. What was I supposed to do about your intestines scattered on the pavement?\"",
+      "sourceUnit": "セイバールート四日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI don't really have an answer to that.\nMy stomach is back to normal, yes, but I'm honestly still dubious about what Tohsaka said.\nI can't even use any healing magecraft, much less raise the dead.",
+      "sourceUnit": "セイバールート四日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Which means it must be your Servant.\nEither your Servant is pretty powerful, or something happened when you summoned them... I think it's both, actually, but you must be connected by some line.\"",
+      "sourceUnit": "セイバールート四日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Line? You mean some sort of fated line that connects a familiar and its mage?\"",
+      "sourceUnit": "セイバールート四日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so you do have some knowledge of familiars.\nThen this should be easy: it means your relationship with Saber is not just an ordinary Master and familiar relationship.\"",
+      "sourceUnit": "セイバールート四日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber can evidently regenerate too, so her power might be flowing into you.\nNormally the mage's abilities are shared with their familiar, but in your case, the familiar's abilities are helping the Master.\"",
+      "sourceUnit": "セイバールート四日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So it's like a river flowing upstream?\"\n\"That's a good way of putting it. Normally, that wouldn't be possible, but Saber's magical energy must be powerful enough to change the flow of a river. Otherwise there's no chance she'd be able to go up against Berserker with that tiny frame of hers.\"",
+      "sourceUnit": "セイバールート四日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It wouldn't normally be possible... Does that mean your relationship with Archer is a normal mage and familiar relationship?\"\n\"That's right. He doesn't listen to a word I say, but that's our relationship.\"",
+      "sourceUnit": "セイバールート四日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"The connection between Master and Servant is like gas and an engine. We provide the energy for them to consume.\n...Though, I've read that a Master once acquired pseudo-immortality by physically fusing with their Servant. They wouldn't die as long as their Servant doesn't die... Are you listening, Emiya?\"",
+      "sourceUnit": "セイバールート四日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Yeah, I am.\nThen, Tohsaka, does that mean my body will heal from injuries even if I don't do anything about them?\"",
+      "sourceUnit": "セイバールート四日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"At the cost of your Servant's magical energy. I don't know how it works, but it definitely has something to do with Saber being stuck in material form. I don't think you've learned any curses of natural regeneration.\"\n\"Of course not. My old man never taught me something that complicated.\"",
+      "sourceUnit": "セイバールート四日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not what I mean. I'm saying I wouldn't have had to worry this much if it was true. Never mind, this doesn't concern you.\"",
+      "sourceUnit": "セイバールート四日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Huh?\nWhat does she mean?\nI wonder why Tohsaka's being so roundabout.",
+      "sourceUnit": "セイバールート四日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, just don't do anything rash.\nYou might have survived this time, but you might not live to tell the tale next time you get hurt like last night. It's probably best you just ditch the notion that any small wounds will heal on their own.\"",
+      "sourceUnit": "セイバールート四日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. Saber had to help me because I went and got myself hurt. I don't have any excuses for that.\"",
+      "sourceUnit": "セイバールート四日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not the point, dummy. Let me be clear: it costs more than Saber's magical energy to heal your wounds.\nYou're giving something up when it happens.\nWhether that's your life, your luck, or even your bank account, you can bet that kind of healing doesn't come cheap.\"\nTohsaka huffs once again.\nAnd I agree, but...",
+      "sourceUnit": "セイバールート四日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I don't think my bank account has anything to do with it.\"\n\"Of course it does! Using magecraft means you're pretty much throwing your money away. The more you use it, the more it drains your money!\nOtherwise none of this would be acceptable! Especially to me!\"\nTohsaka absolutely explodes with fury.",
+      "sourceUnit": "セイバールート四日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "It's odd, really.\nThe more I talk to her, the more this Tohsaka feels like the real one, while the girl at school feels like an act.\n...Though, I guess I already noticed that yesterday.",
+      "sourceUnit": "セイバールート四日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, putting the topic of money aside...\nI want to talk about something serious. Are you ready, Emiya?\"\n\"It's the main reason you're here, isn't it? Let's hear it.\"",
+      "sourceUnit": "セイバールート四日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'll be frank. What do you plan to do next?\"\nTohsaka asks the one question I hoped she wouldn't.",
+      "sourceUnit": "セイバールート四日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...Actually, that's not entirely true.\nIt's not that I don't want her to ask so much as...I haven't really thought of my answer yet.\nWhat am I going to do now... It's the question I want to ask.",
+      "sourceUnit": "セイバールート四日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...To be honest, I don't know. I know there's a competition for the Holy Grail, but I've never been in a battle between mages.\nFor one thing, I...\"\nMore than anything, I want to avoid any killing.",
+      "sourceUnit": "セイバールート四日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not interested in something like the Holy Grail.\nI don't really know if I can risk my life for something I don't want.\"\n\"I knew you'd say something like that. I'll have you know that your Servant will kill you for saying that sort of thing.\"",
+      "sourceUnit": "セイバールート四日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...kill me!? Why?\"\n\"Because the Servants also seek the Holy Grail.\nOne of the conditions for them allowing a Master to summon them is getting a chance at the Holy Grail.\"",
+      "sourceUnit": "セイバールート四日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"The Grail is the Servants' number one priority.\nThey'll obey the Masters if it gives them a chance at the Grail, and sometimes they'll even die for their Masters.\nTry saying you don't want the Grail to your Servant. You can't blame her if she calls you a traitor and cuts you down where you stand.\"",
+      "sourceUnit": "セイバールート四日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell? That doesn't sound right. Servants are the ones who're summoned by Masters, right?\nThen...\"",
+      "sourceUnit": "セイバールート四日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you think Servants would really serve humans for free?\nWhoever acquires the Grail gets their wish granted, whether that's a Master or their guardian Servant.\nThe Servants have wishes of their own. That's why they respond to summons that would otherwise be, at best, unreasonable.\"",
+      "sourceUnit": "セイバールート四日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Masters don't summon Servants to help them get the Holy Grail.\nServants answer the Masters' call to have a chance at the Holy Grail.\"",
+      "sourceUnit": "セイバールート四日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe Servants have wishes, too...?\nDoes that mean Saber also has a wish she wants granted by the Holy Grail?",
+      "sourceUnit": "セイバールート四日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why Servants will go out and eliminate other Masters even without being ordered to. Only one person can get the Holy Grail. They won't allow it to fall into the hands of anyone other than their own Master.\nUnlike Masters, Servants don't have the power to take away Command Spells. The only way they can neutralize other Masters is by killing them.\"",
+      "sourceUnit": "セイバールート四日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"So even if the Master has no intention of fighting, conflict is inevitable.\nMasters attacked by a Servant need to fight them off with their own Servant. Kirei told you plenty of times about how that is at the heart of the Holy Grail War.\"",
+      "sourceUnit": "セイバールート四日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, he told me enough of that last night.\nBut...\"",
+      "sourceUnit": "セイバールート四日目-01:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That means that Servants must fight and kill each other.\nI thought it would've been enough as long as the Masters made peace with each other and gave up the Holy Grail. But if Servants answer the summons because they also seek the Holy Grail and will never give up until they have it, then battles between Servants really are inevitable.\nBut then...\n...is the girl who fought so hard to protect me also here to fight, kill for, and maybe die...all for the Holy Grail?",
+      "sourceUnit": "セイバールート四日目-01:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's awful. I don't know exactly what a Heroic Spirit is, but Saber's human. I even saw her bleed yesterday.\"\n\"Oh, don't worry about that. Servants aren't mortal, so if they die, they'll just go back to where they came from. Heroic Spirits are phenomena that can't die. Only Masters can actually get killed when they lose a fight.\"",
+      "sourceUnit": "セイバールート四日目-01:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I mean...\"\nEven if their deaths are figurative...\nIt doesn't change the fact that something which takes the form of a human dies in this world.",
+      "sourceUnit": "セイバールート四日目-01:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"What, you have some hang-up with killing? You've got some nerve calling yourself a mage, with morals like that.\"\n...",
+      "sourceUnit": "セイバールート四日目-01:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's right.\nAs a mage, death is never far.\nI understand that fact, and I've long since resigned myself to it.\nBut I'm not strong enough to be the judge of when and where other people should live or die.",
+      "sourceUnit": "セイバールート四日目-01:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do. I won't be party to some war where people murder each other.\"\n\"Oh really? So you're just going to sit and wait to be killed? You're going to just hand the victory to some other Master.\"",
+      "sourceUnit": "セイバールート四日目-01:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not my point. All I have to do is to stay alive until the end, right? I don't intend to kill anyone, but I'm also not going to hold back if I need to defend myself.\n...Someone who shows up ready to kill others can't complain about getting killed.\"",
+      "sourceUnit": "セイバールート四日目-01:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. So you're going to play defense. You're just going to watch and see what the other Masters do? Even if that thing from yesterday goes around killing everyone in town, you'll just ignore it?\"",
+      "sourceUnit": "セイバールート四日目-01:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "The thing from yesterday?\nThat twisted, inhuman demon...\n...\nIt's strong enough to level a house with a single blow.\n...If it set its mind to it, I'm sure it could destroy all of Miyama overnight.",
+      "sourceUnit": "セイバールート四日目-01:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "To make matters worse, Servants can turn into spirit form.\nHumans who lack the ability to sense the supernatural can't even see them.\nBut as soon as Servants materialize, they can interact with the physical world. You could say they're the ultimate weapons.\nNo modern technology or weaponry can affect a spiritual form.",
+      "sourceUnit": "セイバールート四日目-01:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Our attacks don't work on them, but they can hurt us.\nIt's a depressingly one-sided arrangement.\nFrom a normal person's point of view, Servants may as well be natural disasters.\nWhen people die to an invisible killer, those deaths will just be treated as accidents or natural causes.",
+      "sourceUnit": "セイバールート四日目-01:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean? Don't Servants—I mean, don't Masters and Servants only attack other Masters? What do the people in town have to do with it?\"\n\"If only the world were so peaceful. If that was the case, then we wouldn't need Kirei to play referee.\"",
+      "sourceUnit": "セイバールート四日目-01:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I should have mentioned this sooner, but Servants are spirits. Their forms are complete, static, so they do not grow.\nBut they still need magical energy as fuel.\nWhen they are provided with more magical energy, they are able to use more of the special abilities they had while they were alive.\nThat's not unlike us mages, actually... Do you see what I'm getting at?\"",
+      "sourceUnit": "セイバールート四日目-01:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It's like repeatedly using magecraft.\"",
+      "sourceUnit": "セイバールート四日目-01:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Magical energy is like gunpowder; the mage is the gun itself.\nLike how there are different guns—pistols, rifles, shotguns— mages all have a variety of abilities.\nTo continue the metaphor, Servants are more like artillery cannons than firearms.\nThey burn a huge amount of gunpowder to launch massive shells.",
+      "sourceUnit": "セイバールート四日目-01:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. But Servants can't draw mana from the atmosphere like us. They generally run only on the magical energy within them.\nIt's our job as Masters to supplement that energy. Their power is limited by their own energy supply, plus whatever their Masters give them.\"",
+      "sourceUnit": "セイバールート四日目-01:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"That means a half-baked Master like you has no chance against a more capable Master, right?\nOne very obvious solution to that hurdle is to have your Servant acquire magical energy from other sources.\nServants are spirits, so they can eat similar stuff for sustenance.\"",
+      "sourceUnit": "セイバールート四日目-01:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nEating something similar...?\n\"You mean other spiritual bodies? But what kind of spirits would they eat?\"",
+      "sourceUnit": "セイバールート四日目-01:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Simple. Spirits of nature can take in power from nature itself.\nSo what do you think Servants, who are human spirits, get power from?\"\n\"Oh...\"\nIt really is an easy question.\nJust as we eat meat, human spirits like Servants have to eat...",
+      "sourceUnit": "セイバールート四日目-01:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. To be fair, the magical energy supply from Masters chosen by the Holy Grail should be enough in most cases.\nBut shouldn't it be obvious that they'd gain more energy by getting it from more than one person?\nBluntly speaking, inferior Masters have to feed other people to their Servants.\"\n...",
+      "sourceUnit": "セイバールート四日目-01:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Servants can convert souls and primal human emotions into magical energy.\nIf you want your Servant to get stronger, that's the most efficient way. It's not rare for Masters to sacrifice humans to their Servant.\"",
+      "sourceUnit": "セイバールート四日目-01:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Sacrifice... Are you saying there might be Masters out there who go around killing people to make their Servants stronger, if they're not choosy about their methods?\"\n\"Maybe. But I can't see a smart Master doing something like that.\"",
+      "sourceUnit": "セイバールート四日目-01:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"No matter how strong a Servant is, they're still limited by energy capacity. They can't store any energy above a hard limit, so there's only so much they can benefit from mass murder.\nFor one thing, the Association won't just turn a blind eye to someone going around murdering people, but more importantly, the other Masters will be able to figure out the Servant's abilities and identity based on the victims' cause of death. That, and they'll work out the other Master's identity too.\nConcealing your identity in a Holy Grail war gives you a big advantage, so any normal Master would be unwilling to use their Servant.\"",
+      "sourceUnit": "セイバールート四日目-01:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...I get it.\nIf you don't let anyone know you're a Master, then the other Masters won't attack you.\nConversely, if the other Masters know who you are, you're just asking to be ambushed.\nIt stands to reason that no one would be reckless enough to let their Servant attack civilians and risk getting exposed.",
+      "sourceUnit": "セイバールート四日目-01:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Well that's a relief. As long as a Master doesn't order it, Servants shouldn't indiscriminately attack people.\"",
+      "sourceUnit": "セイバールート四日目-01:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Probably not. They're supposed to be heroes, after all. I don't think there are any heroes who'd attack innocent people... though I can't say that for sure.\nPlenty of them became heroes through sheer violence.\"",
+      "sourceUnit": "セイバールート四日目-01:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka just casually raises a truly terrifying point.\nThat she sounds genuine about it, rather than sarcastic or ironic, might be a reflection of her twisted nature.",
+      "sourceUnit": "セイバールート四日目-01:page62:1",
+      "recoveredDelimitedTail": true
+    },
+    "page63": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

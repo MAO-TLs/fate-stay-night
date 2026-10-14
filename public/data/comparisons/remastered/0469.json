@@ -1,0 +1,261 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0469",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The clock strikes 2:00 AM.\nA round trip to and from Ryudou Temple took its toll on me, in spite of my daily training.",
+      "sourceUnit": "桜ルート五日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, right. Saber, head back to your bedroom ahead of me.\"\n\"? Where are you going, Shirou? I thought you were going to rest tonight.\"",
+      "sourceUnit": "桜ルート五日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, I got a thing to do. I'll be right back, so don't worry. I'm tired too, so I want to turn in early tonight.\"\n\"I see. You must be concerned about Sakura's condition.\"",
+      "sourceUnit": "桜ルート五日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh. I mean, I should get her more water. Make sure you sleep in the room next to mine, all right? And close the door.\"",
+      "sourceUnit": "桜ルート五日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I will. It's inconvenient not to be in the same room, but if you insist, then I will do so. I will be standing by in the room next to yours.\"",
+      "sourceUnit": "桜ルート五日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks displeased.\n...Hmph.\nI'm not the only one who's being stubborn.",
+      "sourceUnit": "桜ルート五日目-17:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI return to my bedroom, tortured by self-loathing.\n\"3:00 AM... What have I been doing for the past hour?\"",
+      "sourceUnit": "桜ルート五日目-17:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I sigh.\nThere's only one reason I took so long.\nSakura wasn't sleeping very well, so I spent time getting her more water and putting her covers back on.",
+      "sourceUnit": "桜ルート五日目-17:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "It was...an incredibly taxing job, in more ways than one.",
+      "sourceUnit": "桜ルート五日目-17:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...I should've blindfolded myself.\"\nThat would have made it easier.\n...Actually, I had my eyes closed almost the entire time, so it wouldn't have made much difference. Not once did I give into temptation and open them until my work was done.",
+      "sourceUnit": "桜ルート五日目-17:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Time for bed.\nJust go to sleep. That's all I need to do.\"\nI cover my head with the sheets and drive out the invasive thoughts.",
+      "sourceUnit": "桜ルート五日目-17:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nOnce I close my eyes, my mind goes blank.\n...See?\nBeing this physically tired will help me fall asleep faster.",
+      "sourceUnit": "桜ルート五日目-17:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "It's red.\nAt sunset, the cityscape seems dyed red.\nIt reminds me of a bench covered in posters.\nEverything my feet and hands touch makes a warm, squelching sound.",
+      "sourceUnit": "桜ルート五日目-17:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I continue down the asphalt road.\nWhen I look up, the buildings are dyed crimson.\nThe steep walls seem like giant nails hammered from the sky to the earth.\nYou can't run, the red sun declares, gazing down from the heavens.",
+      "sourceUnit": "桜ルート五日目-17:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I walk alone through the streets.\nShinto is dead quiet.\nMaybe everyone's hiding in wait, or perhaps there was never anyone here to begin with.",
+      "sourceUnit": "桜ルート五日目-17:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...Still, it hurts.\nThe scarlet glow torments my eyeballs and makes me dizzy.\nIt's too empty out here.\nAm I the only one who missed some mass evacuation order?\nThat would explain all the red.",
+      "sourceUnit": "桜ルート五日目-17:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I should go home.\n...is waiting for me.",
+      "sourceUnit": "桜ルート五日目-17:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Is that...\n...Tohsaka?\nEven from afar,\nI can tell it's her.",
+      "sourceUnit": "桜ルート五日目-17:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Heey, Tohsaka.",
+      "sourceUnit": "桜ルート五日目-17:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She ignores me.\nShe walks, her swaying hair long enough to touch the ground.\nIf she's wearing her uniform, then she must be on the way to school.",
+      "sourceUnit": "桜ルート五日目-17:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "I run after her.\nTohsaka doesn't notice me.\nThe gap between us doesn't shrink at all.\nShe keeps walking, while I keep running. I gradually fall even further behind.\nBy the way...",
+      "sourceUnit": "桜ルート五日目-17:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka isn't walking at a particular brisk pace.\nI'm running enough to breath a little heavily, but she's still faster.\nThe long-haired girl enters the school.\nLike a fluttering butterfly.\nBy the way...",
+      "sourceUnit": "桜ルート五日目-17:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "There's no one on campus.\nIt's empty. Unoccupied.\nThe red-lit landscape is like a well-made candy diorama.\nIf the twilight glow grows any stronger, it'll melt them beyond recognition.\nBy the way...",
+      "sourceUnit": "桜ルート五日目-17:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I hear a girl laughing.\nTwo young girls smile and play with each other.\nI see a vision of two beautiful sisters, so perfect for each other they might as well be twins.\nI open the door and enter the classroom.\nBy the way...\nWhy was I following her for no reason?",
+      "sourceUnit": "桜ルート五日目-17:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't surprise me, nor do I feel any guilt.\nThe two of them embrace each other like lovers. It's enough to make me doubt that they're both girls.\nAgainst this crimson backdrop, what they're doing seems only proper.\nBut if there's one thing that I'm curious about,\nit's that Mitsuzuri's arms hang limply at her side, like those of a corpse.",
+      "sourceUnit": "桜ルート五日目-17:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I was wrong.\nThat isn't a hug.\nIt's a meal.\nThe praying mantis feeds on the butterfly.",
+      "sourceUnit": "桜ルート五日目-17:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "It giddily drains its prey of life.\nMitsuzuri is like a wax model. With each second, her vitality is drained away.\nTohsaka's eyes are warm and whimsical.\nHer face approaches Mitsuzuri's neck.\nShe exposes Mitsuzuri's defenseless, pale throat.\nThen, Tohsaka's lips—no, her teeth...",
+      "sourceUnit": "桜ルート五日目-17:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "The wax model's chest arches in tension.\nI try to go over and help her, but I may as well be wading through a swamp.\nI'll never make it in time.\nI simply watch as Tohsaka purrs while she drinks, as Mitsuzuri goes weak at the knees.",
+      "sourceUnit": "桜ルート五日目-17:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...mmm...\"\nShe licks her fingers.\nHer wet tongue seductively slithers around her fingers.\nIt's too alluring.\nI feel like I'm drowning in the thick air around her.",
+      "sourceUnit": "桜ルート五日目-17:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh heh heh...mmm...\"\nTohsaka giggles, licking her fingers.\nThe wet sound tickles my ears.",
+      "sourceUnit": "桜ルート五日目-17:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm glad you came, Emiya.\"\nHer voice sounds so sticky and expectant.\nI'm so dizzy, it's like I'm inside a kaleidoscope.\nMy mind is paralyzed, to say nothing of my limbs.\nThough, I should mention...\nI've long since lost control over my body.",
+      "sourceUnit": "桜ルート五日目-17:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong...? Are you afraid of me, Emiya?\"\nI can't even move my head to respond.\nHer smile is irresitably bewitching, yet so terrifying, I feel like I'll be caught and killed.\nI'm a winged insect caught in a spider's web.\nI can neither fight nor flee.",
+      "sourceUnit": "桜ルート五日目-17:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ayako was delicious.\"\nSo she was eating after all.\nBut still...why Mitsuzuri?",
+      "sourceUnit": "桜ルート五日目-17:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I just couldn't take the hunger while I was waiting for you.\"\nDelight seeps into her giggles.\nTohsaka's hands reach out.\nFor some reason, I imagine her slender, supple arms, coiling around my body like a snake.\nHer sweet scent envelops me and dominates my lungs.",
+      "sourceUnit": "桜ルート五日目-17:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehe... You're next.\"\nTohsaka's limbs wrap around me.\nHer soft, feminine body drowns out the blaring alarm in my head.",
+      "sourceUnit": "桜ルート五日目-17:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I feel like I'm crumbling in her embrace.\nShe brings her face close enough for our lips to touch. Her wet eyes invite me in.\nHer breath is so thick, I'm going to suffocate in it.",
+      "sourceUnit": "桜ルート五日目-17:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... Now I'm going to eat you, Emiya.\"\nTohsaka's lips touch me,\nnipping the side of my neck.\nThey're warm...and damp.\nMy mind melts like candy under their tender touch.",
+      "sourceUnit": "桜ルート五日目-17:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmm...\"\nSharp fangs pierce my skin.\nTohsaka's biting me.\nHer teeth sink into my neck, just like with Mitsuzuri...",
+      "sourceUnit": "桜ルート五日目-17:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "There's no pain.\nI've heard that spiders anesthetize their prey before killing them.\nWith the numbness also comes ecstasy. Her sucking lips and teeth feel so good it's like I'm melting.",
+      "sourceUnit": "桜ルート五日目-17:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...My neck softly melts.\nEach time Tohsaka drains a mouthful out of me, I feel my body turn to candy.\nMy insides are being sucked out and replaced with honey that makes my body melt.\nIt seeps into my bones, muscles, and skin.",
+      "sourceUnit": "桜ルート五日目-17:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "It floods my throat, and I can't even moan.\nIt flows down from my neck, the unbelievable sensation beguiling me.\nTohsaka's shoulders tremble in ecstasy as she drinks from my neck.\nShe looks so pleased by the meal of red blood...",
+      "sourceUnit": "桜ルート五日目-17:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "My consciousness is coated in a messy, overlapping carpet of vertigo.\nBefore I know it, I've stopped breathing, and my blood is being drained before it can even reach my brain.\nIn return, Tohsaka's sweet, strong liquid invades my body.",
+      "sourceUnit": "桜ルート五日目-17:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...mm. Delicious...\"\nWhile she nibbles at me, I hear a voice that doesn't belong.\nThe voice numbs my melting brain.",
+      "sourceUnit": "桜ルート五日目-17:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...mm... You're so hot...Emiya...\"\nShe whispers, drinking me dry.\nA pump empties me out from the inside.\nIn return, pleasure saturates my body, melting and turning it limp.",
+      "sourceUnit": "桜ルート五日目-17:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Your fresh, youthful blood is so tasty and full of life...\"\nI'm at my limit.\nI have nothing else to give.\nMy arteries are bone dry. I don't think I have even a drop of blood left to spare.",
+      "sourceUnit": "桜ルート五日目-17:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"More... It's still...not enough...\"",
+      "sourceUnit": "桜ルート五日目-17:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "She continues drinking.\nThere shouldn't be anything left to drink, but I still hear Tohsaka gulping.\nIt's as if my life itself is being converted into blood.\nThat makes sense. Then, this meal isn't quite over yet.",
+      "sourceUnit": "桜ルート五日目-17:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "She keeps drinking and drinking.\nIn the crimson-lit classroom, she drains me without end.\nMy body melts beyond recognition, fading to oblivion as she sucks it all up.",
+      "sourceUnit": "桜ルート五日目-17:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm... You're wonderful, Emiya. I'll take all of you.\"",
+      "sourceUnit": "桜ルート五日目-17:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "A woman's voice reverberates in my mind.\nI wither away, dessicated, while she whispers.",
+      "sourceUnit": "桜ルート五日目-17:page49:1"
+    },
+    "page50": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

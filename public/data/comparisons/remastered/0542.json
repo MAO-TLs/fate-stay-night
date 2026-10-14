@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0542",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"No. 'Absolutely' probably won't work.\"\n\"...Hey. Who do you think you are, saying that right off the bat?\"\n\"But it's true. Even if it's just an example, I obviously can't blindly agree to a plan that sounds impossible.\"",
+      "sourceUnit": "桜ルート九日目-08:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

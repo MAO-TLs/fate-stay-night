@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0521",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...How about the park from yesterday? People say that criminals often return to the scene of the crime, so maybe...\"",
+      "sourceUnit": "桜ルート八日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"The Shadow might appear once again?\nMaster. Even if we were fortunate enough to encounter it, what could we possibly do? While I would be glad to defeat it there, on the off chance that it escapes, it will become doubly hard to locate in the future. I do not believe this course of action addresses our fundamental concerns.\"",
+      "sourceUnit": "桜ルート八日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof.\"\nSaber's right.\nWe still have no idea what the Shadow is.\nRight now, I should investigate what it is and where it came from, instead of hoping to run into it on the street.",
+      "sourceUnit": "桜ルート八日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then let's go to Ryudou Temple. Now that I think back on it, Caster was acting weird back then, too. There might be something we haven't found yet over there.\"",
+      "sourceUnit": "桜ルート八日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. That mountain brims with an ominous aura. It feels like the most spiritually developed region of this town.\nIt bears investigating regardless.\"\n\"Sounds like a plan. Let's go.\"",
+      "sourceUnit": "桜ルート八日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "We head from the yard to the front door.\nIt'll take an hour to get to Ryudou Temple if we hurry. The sooner we leave the better, but...",
+      "sourceUnit": "桜ルート八日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber?\"\nSaber is looking at the guesthouse.\nHer gaze is focused on the room where Sakura is sleeping.",
+      "sourceUnit": "桜ルート八日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou. I need to speak to you before we set out. Erm, it's regarding our conversation this morning.\"\n\"This morning? About Sakura?\"",
+      "sourceUnit": "桜ルート八日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Sakura has too guilty a conscience. She tends to fixate on immediately redressing her mistakes, instead of considering how to improve in the future.\"",
+      "sourceUnit": "桜ルート八日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "She's referring to their argument last night.\nSaber said that Sakura was correct and that she shouldn't dwell on the matter further.\nBut Sakura insisted that she was wrong and kept apologizing to Saber, which only spurred Saber to apologize back to her.",
+      "sourceUnit": "桜ルート八日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Sakura and Saber.\nIs Saber worried about how they interpret things differently?",
+      "sourceUnit": "桜ルート八日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean?\"\n\"She blames herself too much. She cares more about regretting her actions than correcting her mistakes. So, she ends up cementing her guilt instead of attempting to restore her honor. For better or worse, she is too severe on herself.\"",
+      "sourceUnit": "桜ルート八日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Saber looks pained.\nIt's as if the words aren't directed at Sakura, but at herself.",
+      "sourceUnit": "桜ルート八日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...I felt it keenly last night. When she is with you, she is special in a way that she isn't at other times. Only when she is with you does she seem free of her guilt.\"",
+      "sourceUnit": "桜ルート八日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "So that's why Saber's worried.\nShe thinks that Sakura needs to have more pride in herself.",
+      "sourceUnit": "桜ルート八日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Sakura is pretty timid. I'll look out for her, too.\"\nCome to think of it, it isn't good to make a girl her age constantly do house chores.\nSakura says that she enjoys just being here, but she should have fun outside the house, too.",
+      "sourceUnit": "桜ルート八日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for caring, Saber.\nI'm really happy to see you think of Sakura, even when she isn't related to the Holy Grail War.\"",
+      "sourceUnit": "桜ルート八日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Think nothing of it. I can be hard on myself, just as she is. That is why I cannot help but relate to how she feels.\"",
+      "sourceUnit": "桜ルート八日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. Wait, Saber. I'll go with you.\"\nWe head for the door together.\nIn the night ruled by silence, we leave the house, taking care not to wake Sakura.",
+      "sourceUnit": "桜ルート八日目-04:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0708",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A black wave surges.\nIt encircles her with both arms so as to not let its tiny prey escape, and the wave comes crashing down.",
+      "sourceUnit": "桜ルート十六日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Es lässt frei. Werkzeug! (Release, slash!)\"\nBut the golden flash of light does not permit its existence.\nSix down already.\nThe black-bodied curses keep seething towards Rin, and she cuts each of them down with a single stroke.",
+      "sourceUnit": "桜ルート十六日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nSakura, the shadows' master, is shocked.\nHer astonishment is reasonable.\nEach of the black giants can rival a Servant's Noble Phantasm.\nEven a single one should be an inescapable avatar of death to Rin.",
+      "sourceUnit": "桜ルート十六日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "And she's destroyed six.\nOn top of that, she advances steadily up the slope as she disintegrates each one.\nShe erases the seventh shadow with a flick of the blade.",
+      "sourceUnit": "桜ルート十六日目-17:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The Jeweled Sword releases light.\nThe previously colorless blade now dazzles with the colors of the rainbow, supplying her with extraordinary magical energy from its core,",
+      "sourceUnit": "桜ルート十六日目-17:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Es lässt frei. Eilesalve! (Release, maximum firepower!)\"\nand illuminates the cavern in blinding gold!",
+      "sourceUnit": "桜ルート十六日目-17:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuh!\"\nRin sweeps away the shadows' offensive and arrives at the top of the cliff.\nSakura is in front of her.\nThe dark girl stares at her sister, aghast.",
+      "sourceUnit": "桜ルート十六日目-17:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No...you can't have...\"\nCountless shadows rise in concert with her whispers.\nTheir quantity is incomparable to before.",
+      "sourceUnit": "桜ルート十六日目-17:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Is Sakura panicking, or has the thing behind her sensed that she's in danger?\nThe amount of magical energy brought to bear against a single human, Rin Tohsaka, exceeds one hundred million units if it were to be quantified.",
+      "sourceUnit": "桜ルート十六日目-17:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Another banquet, huh? If anyone from the Association was here, they'd faint. You've got enough resources here to last a department for the next century.\"",
+      "sourceUnit": "桜ルート十六日目-17:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"And what about the way you keep cutting them all down, huh? I can bring out thousands of times the power that you can. You shouldn't have nearly enough magical energy to erase my shadows, so how...\"",
+      "sourceUnit": "桜ルート十六日目-17:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"How? It's just a pure contest of strength.\nI can't dispel curses. I'm only matching the energy you use to create the shadows with my own. Can't you tell by looking?\"",
+      "sourceUnit": "桜ルート十六日目-17:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You're lying!\nYou don't have enough power to do that. No, that light you keep blasting is almost like...\"",
+      "sourceUnit": "桜ルート十六日目-17:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "The strongest Servant.\nShe stops herself from saying that it's almost exactly like Saber's Excalibur.",
+      "sourceUnit": "桜ルート十六日目-17:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...That sword. It seems impossible, but it's copying Saber's Noble Phantasm. It must be some Limited Function made for destroying shadows, that you can use even with your meager magical energy...\"\n\"Huh? What, you can't even tell that much? What kind of education have you had, Sakura?\"",
+      "sourceUnit": "桜ルート十六日目-17:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Don't make fun of me! That's the only possible explana—\"\n\"There's no special explanation. This isn't a copy of Saber's sword, nor a magical shadow-slaying blade. This is the Jeweled Sword Zelretch. It's a Tohsaka family heirloom.\"",
+      "sourceUnit": "桜ルート十六日目-17:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Zel-wretch?\"\n\"Wow. You don't even know his name.\n...I feel ridiculous for even having to explain this, but basically, it's the perfect counter to you.\nYour soul is acting as a perpetual motion engine to produce magical energy; a failed attempt at the Third Magic.\nAnd I'm using a replica of an old man's power to travel to infinite parallel worlds; a copycat of the Second Magic!\"",
+      "sourceUnit": "桜ルート十六日目-17:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The Jeweled Sword flashes.\nIt releases light along its arc, erasing the shadows protecting Sakura.\nNot only that, the mini-Excalibur scores the walls with its light and heat, sending tremors through the cavern.",
+      "sourceUnit": "桜ルート十六日目-17:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "It really is just a brutish clash of magical energy.\nWhat magecraft—no, what Magic is she using?\nRight now, Rin clearly has a stockpile that can compete with Sakura's magical energy.",
+      "sourceUnit": "桜ルート十六日目-17:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ahh...\"\n\"I guess this won't be a close-up fight. This is actually a ranged weapon, and you're not going to come out with your shadows to protect you.\nIt doesn't sound so bad to keep duking it out until one of us runs out of power... Though this cave will probably give out before we do.\"",
+      "sourceUnit": "桜ルート十六日目-17:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Duking it out? You're lying.\nYou shouldn't have a drop of magical energy left. Whatever that sword is, you won't be able to launch another attack...\"",
+      "sourceUnit": "桜ルート十六日目-17:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? Then try me. Go ahead, come at me, Sakura. Whatever you do, it won't work.\nIt'll be a rough lesson, but you can consider this your tuition. I'll make you regret how selfish you've been just because you got a little stronger.\"\n\"...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...!\nI'm not finished. Es befiehlt. (Let my voice be distant.) Mein Atem schließt alles...! (My cage will shrink the world...!)\"\n\"Erster, Zweiter, Rand verschwindet! (Connect, release, great slash!)\"",
+      "sourceUnit": "桜ルート十六日目-17:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura can't comprehend what's unfolding before her.\nShe just keeps sending out her shadows in fear.\nThe sword of light mercilessly blasts them all away.",
+      "sourceUnit": "桜ルート十六日目-17:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "She's afraid and confused.\nSo she doesn't notice...\n...the sweat on Rin's face.\nEach time she swings the blade, her arm muscles are severed. It's the price for using the Jeweled Sword.",
+      "sourceUnit": "桜ルート十六日目-17:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... I've got enough energy stocks to not lose, but how long will my body last...?\"",
+      "sourceUnit": "桜ルート十六日目-17:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Light erases the attacking shadows.\nBut their powers are not evenly matched.\nThe difference in Rin Tohsaka and Sakura Matou's combat strength has not changed.\nSakura's magical energy capacity is in the billions or even trillions.\nIt could not even be exhausted in a whole generation, so it really can be called bottomless.",
+      "sourceUnit": "桜ルート十六日目-17:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Why!? I'm stronger than anyone now.\nNobody scolds me anymore.\nSo how are you suddenly on my level!? With your magical energy, I should be able to swallow you whole...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you, you're wrong. Maybe you've got a ridiculous stockpile, but the caster's skill still matters.\nGet it? No matter how big a reservoir is, the output of a hose is limited by its nozzle size.\nSakura Matou's Magic Circuits can put out just under a thousand units at once.\nNo matter how deep your stocks are, you can only put out about the same amount as me...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Aaah!?\"\n\"That's why! I don't need to prepare the same amount as you. I only need to prepare the same thousand units of magical energy each time...!\nThat stupidly huge amount of power is wasted on you!\"",
+      "sourceUnit": "桜ルート十六日目-17:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She swings a ray of light.\nA thousand shadows can indeed be opposed by a thousand rays of light.\nBut Rin's magical energy numbers less than a hundred.\nIt's a contradiction.\nObviously, she can only compete on this impossible level thanks to the power of her \"sword.\"",
+      "sourceUnit": "桜ルート十六日目-17:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "With each attack, she throws out a thousand units of energy, and the sword of light replenishes it.\nIt doesn't amplify her own power.\nAll she's doing is pulling in the mana that fills the cave and feeding it into the Jeweled Sword.",
+      "sourceUnit": "桜ルート十六日目-17:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Od is the magical energy that an individual mage possesses, while mana is the natural magical energy in the atmosphere.\nIt goes without saying which is greater.\nRin, whose od is inferior to Sakura's at the moment, can only rely on atmospheric mana.",
+      "sourceUnit": "桜ルート十六日目-17:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "And, yes, the mana in the cave does reach one thousand units.\nShe could use mana to destroy the shadow giants...once.",
+      "sourceUnit": "桜ルート十六日目-17:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "But she wouldn't be able to keep it up.\nAtmospheric mana is limited.\nOnce mana is exhausted, it takes a very long time to recover, just like a human's od.",
+      "sourceUnit": "桜ルート十六日目-17:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "In this world, in this cave, Rin can resist Sakura's attack only once.\nBut what if...\nWhat if there were another cave? Then she could fight back one more time.",
+      "sourceUnit": "桜ルート十六日目-17:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "And what if you could make all of those \"what-ifs\" a reality?\nParallel worlds.\nWhat if you could open a way to a mirror image of this exact same place, and pull mana from another cavern that hasn't been exhausted?",
+      "sourceUnit": "桜ルート十六日目-17:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...! That's just as twisted as the Holy Grail. Don't tell me you...!?\"",
+      "sourceUnit": "桜ルート十六日目-17:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. You're not the only one who can draw magical energy from someplace else. But don't get the wrong idea. I'm not as wasteful as you. I'm only borrowing mana from caverns that exist parallel to this one.\nEach time, I'm taking mana from infinite parallel worlds that are reflections of this one, and slashing you with brute force...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThe girl holding the enormous magical stockpile known as the Greater Grail gasps.",
+      "sourceUnit": "桜ルート十六日目-17:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"That's...that's ridiculous!\"\n\"Get it now, Sakura? If you're bottomless, then I'm infinite!\"",
+      "sourceUnit": "桜ルート十六日目-17:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "The Jeweled Sword, Zelretch.\nIt is a miracle that connects to parallel worlds, which are believed to be infinite.\nThat's the only power this sword has.\nIt is a Mystic Code that creates the slightest opening, too narrow for a man to pass through, to peer into a neighboring world with different possibilities.\nIt does not have the power to amplify magical energy, nor create a thousand units of energy with each swing.",
+      "sourceUnit": "桜ルート十六日目-17:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "But it's enough.\nOnce the mana in this world's cave is exhausted, she can just pull unused energy from a neighboring world's cavern.",
+      "sourceUnit": "桜ルート十六日目-17:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "And once that's used up, she moves on to the next.\nAnd the next. Next. Next. Next.\nThere are endless parallel worlds. Infinite mirrored possibilities.",
+      "sourceUnit": "桜ルート十六日目-17:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Ergo, infinite.\nIt doesn't matter that Rin Tohsaka's maximum energy capacity is one thousand.\nA bottomless stockpile versus an infinite supply.\nSince their Magic Circuits perform on an equal level, they stand on equal ground!",
+      "sourceUnit": "桜ルート十六日目-17:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...The underground tremors occur for the umpteenth time.\nRin's Jeweled Sword isn't just destroying the shadows.\nThe excess firepower is slowly collapsing the cave.",
+      "sourceUnit": "桜ルート十六日目-17:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "If it comes down, this altar, this Greater Grail won't be unscathed.\nContinuing this vain battle would mean failure for Sakura.\nEven if Rin were to attack until her physical strength failed her, the cave would collapse after.",
+      "sourceUnit": "桜ルート十六日目-17:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Ah, ahh...\"\n...The shadows stop.\nHas she finally understood her enemy?\nWith heaving shoulders and ragged breath, Sakura glares at her sister who stands there calmly.",
+      "sourceUnit": "桜ルート十六日目-17:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"It'll be the same every time, Sakura. That's the extent of the power you've acquired. I hope you've managed to cool your head off a little.\"",
+      "sourceUnit": "桜ルート十六日目-17:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that crap! It's not fair, Nee-san! Why are you always...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "The attack and defense continues.\nSakura screams, knowing it's pointless, the comprehension wringing her neck.\nSuch a long time...\nShe screams with resentment toward her only blood relative that has built up over a long time.",
+      "sourceUnit": "桜ルート十六日目-17:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right! I was jealous of you...!\nI hated Rin Tohsaka because she got to stay in the Tohsaka house, she was always brilliant, and she was raised without ever knowing suffering.\nSo I wanted to win. I wanted you to praise me just once for being amazing! Why won't you even let me have that...!?\"",
+      "sourceUnit": "桜ルート十六日目-17:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe older sister destroys the encroaching shadows.\nShe grits her teeth, getting a glimpse of her younger sister's heart.",
+      "sourceUnit": "桜ルート十六日目-17:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Why!? Why didn't I have that!? We're sisters born into the same family, but I had nothing!\nThey pushed me into the dark bug pit and treated me like a toy every single day! I never got to live like a human being or have anyone say nice things to me...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nHer hatred...\nIt isn't directed toward herself.",
+      "sourceUnit": "桜ルート十六日目-17:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Every day, I almost died. Every day, I looked in the mirror and wanted to die. But I was scared of dying, and I didn't want to disappear on my own...!\nThey told me I had a sister.\nI always believed that my sister would come to save me, because I'm a Tohsaka child too!\"",
+      "sourceUnit": "桜ルート十六日目-17:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"But you never came.\nYou didn't care about me. You just stayed pretty and smiling. You never spared one thought for your miserable sister, and lived a happy life with the Tohsakas.\nWhy...! We're both sisters, both humans, so why were you the only one who got to laugh...!?\"",
+      "sourceUnit": "桜ルート十六日目-17:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Her hatred isn't directed at her sister.\nIt's a plea with nowhere to go, directed at the world and herself.",
+      "sourceUnit": "桜ルート十六日目-17:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"You said I stopped being human!?\nOf course I did. Because nobody's ever treated me like one. My hair and my eyes stopped looking like yours. They changed me into a Makiri mage down to my very cells...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Eleven years. Eleven years, Nee-san!\nThe Makiri teachings aren't 'training.' They never expected anything from my intellect.\nThey carved things into my body and turned me into a tool for using magecraft. They laughed and said that the more I suffered, the better of a tool I'd be.\"",
+      "sourceUnit": "桜ルート十六日目-17:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"They even started poisoning my food. Eating became so painful I was scared even to eat.\nI needed Grandfather's permission to even breathe when I was in the bug pit...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's crying.\nRin cuts away the shadows clinging to the crying girl.",
+      "sourceUnit": "桜ルート十六日目-17:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Aha. I know it's crazy. But it hurt so bad, and the more I begged them to stop, the more they did things to me.\nThat's why I'm not as smart as you. I can't do everything like you can. All I can do is take my pain out on other people.\"",
+      "sourceUnit": "桜ルート十六日目-17:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nA wounded soul.\nA body beyond saving.\nAnd that's...",
+      "sourceUnit": "桜ルート十六日目-17:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...And you say it's my fault? I'm only the way I am because Grandfather made me this way, because our father sold me to the Matous, and because you never came to help me!\nI didn't become a monster because I wanted to! I'm here because everyone else drove me into a corner...!\"",
+      "sourceUnit": "桜ルート十六日目-17:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "And that's...",
+      "sourceUnit": "桜ルート十六日目-17:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uh-huh. So what?\"",
+      "sourceUnit": "桜ルート十六日目-17:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "And that's supposed to be sad?\nShe doesn't have an ounce of pity for her sister.",
+      "sourceUnit": "桜ルート十六日目-17:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n\"Life happens. Crying won't change anything. Actually, isn't it a good thing that you're a monster now?\nYou aren't in pain anymore, right?\"",
+      "sourceUnit": "桜ルート十六日目-17:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Ruthless, cold acceptance.\n...The girl's screams were excessive, but they only sought warmth.",
+      "sourceUnit": "桜ルート十六日目-17:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "And Rin rejected it all.\nShe affirmed the monster.\n\"It only happened because you're weak.\"\nHer perpetually perfect sister doesn't sugarcoat the words at all.",
+      "sourceUnit": "桜ルート十六日目-17:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"It's...It's because you're always like this...!\"\nShadows boil up.\nDriven back by her sister and denied even a proper fight, the girl materializes more curses in her despair.",
+      "sourceUnit": "桜ルート十六日目-17:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Well, I've got something to say, too.\nI've never thought that things were painful.\nI can shrug most problems off, and I do everything pretty well.\nSo I've never felt cornered like you have, and I don't care about the worries of people like you.\"",
+      "sourceUnit": "桜ルート十六日目-17:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"That's just the way I am. I don't really understand people's pain.\nIf I'm being honest, I don't understand how you suffered, or how awful your life was. I won't try to understand, either. Sorry.\"",
+      "sourceUnit": "桜ルート十六日目-17:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "A concise rebuttal.\nShe doesn't lie.\nShe only tells her aggrieved sister the truth.",
+      "sourceUnit": "桜ルート十六日目-17:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"But Sakura, even though I'm this insensitive...\nI've never once thought that I've lived a blessed life.\"\nShe says it straight.\nShe puts all of her feelings into her reply.",
+      "sourceUnit": "桜ルート十六日目-17:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nSakura can't understand.\nWhat...did that—just say?",
+      "sourceUnit": "桜ルート十六日目-17:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "Even I...\nNever lived a blessed life...?",
+      "sourceUnit": "桜ルート十六日目-17:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...\"\nHatred makes her see red.\nAfter all this time, those all-too-convenient words only sound like mockery.",
+      "sourceUnit": "桜ルート十六日目-17:page79:1"
+    },
+    "page80": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"You think...you were never blessed?\"\nShe's going to twist apart.\nShe's going to break.\nYou never even looked at me.\nYou were so brilliant, blessed with talent and fortune.",
+      "sourceUnit": "桜ルート十六日目-17:page81:1"
+    },
+    "page82": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"How dare you... How dare you...!\"\nYou don't care about me at all.\nI've never had a single thing I wanted, but you just keep on insisting on how clean you are...!",
+      "sourceUnit": "桜ルート十六日目-17:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "Shut up, Nee-san.",
+      "sourceUnit": "桜ルート十六日目-17:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not enough!\nThat's not what I want to hear! I don't want your excuses! I don't...!\"\n...need you anymore.\nThe girl shouts to deny her own darkness.",
+      "sourceUnit": "桜ルート十六日目-17:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That was Rin's last act of resistance.\nShe's been determined to hold out as long as possible.\nShe waited for Shirou Emiya until the last possible moment, but she can't go on any longer.",
+      "sourceUnit": "桜ルート十六日目-17:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "No...\nIt was always a mistake to entrust their personal problems to Shirou.\nThat was Rin Tohsaka's weakness for Sakura Matou.",
+      "sourceUnit": "桜ルート十六日目-17:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\n\"...Huh?\"\nShe calls her sister's name in a casual manner, like saying good morning.\nAnd in that moment,\nRin Tohsaka decides the outcome of the battle.",
+      "sourceUnit": "桜ルート十六日目-17:page88:1",
+      "recoveredDelimitedTail": true
+    },
+    "page89": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

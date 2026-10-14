@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0368",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man.\"\nI sigh and lean against a sign.\nI searched around until the sun set, and the only thing I found out was how useless I am.",
+      "sourceUnit": "凛ルート十二日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\nThe wound on my left shoulder is aching.\nI don't know if it's because my bandage is getting loose or if the wound itself opened up.\n...Anyway, I can't waste any more time.\nIf I can't find a certain lead, then it'll end up just like last night.",
+      "sourceUnit": "凛ルート十二日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Geez, where could she be?\"\n...I recall when I parted ways with her last night.\nIt's been a day already since she told me exactly what was on her mind, like how I can't fight without Saber or how I should escape to the church.",
+      "sourceUnit": "凛ルート十二日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh yeah, the church.\"\nThere is a lead.\nI thought about it when I went out to town this morning.\nThe supervisor of the Holy Grail War.\nThe priest at the church on the hill should know about Tohsaka's whereabouts...",
+      "sourceUnit": "凛ルート十二日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's irritating to go ask for his help, but now's not the time to be picky...\"",
+      "sourceUnit": "凛ルート十二日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...No, whether I like him or not, I shouldn't go see that priest.\nHe says he's a priest, but there's something unsettling about him that tells me Kirei Kotomine is a man that fundamentally shouldn't be approached.\nI don't want to have to ask for his advice if possible, but he's the only one I can rely on.",
+      "sourceUnit": "凛ルート十二日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's just once. That shouldn't be a problem.\"\nI tell myself and move my aching body.\nIt's 7 PM.",
+      "sourceUnit": "凛ルート十二日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I walk to the train station for twenty minutes.\nThe church stands in the suburbs, away from the noisy town.\n...\nIt's been nine days since I last went up this hill.\nHowever, considering the fact that I had never come here prior to that, I'm coming here quite often now.",
+      "sourceUnit": "凛ルート十二日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...To be honest, I don't like that church.\nMaybe more than Kirei Kotomine, that church itself is forbidden territory that should not be approached.\nThe fire ten years ago.\nIt's because the church, which looked after the children that became orphans, forces me to recall that incident from ten years ago.",
+      "sourceUnit": "凛ルート十二日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I finish going up the hill and go out into the open grounds.\n\"...!\"\nI suddenly get a headache.\nIt's not because of my left shoulder's wound.\nThe wound is causing me to have a fever, but it shouldn't give me this stabbing headache.",
+      "sourceUnit": "凛ルート十二日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...\"\nMy temple hurts.\nI lose myself and feel a chill, as if my body is going to split in half like a shedding insect.",
+      "sourceUnit": "凛ルート十二日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is weird.\"\nI fight through my headache and start running.\nThe cause is the hunch I have had since yesterday.\nThe unknown feeling that Tohsaka is in Shinto.\nThat has expanded to the max and is causing this headache.\nThen... There is no doubt that something is going on in there...",
+      "sourceUnit": "凛ルート十二日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "There are bloodstains on the floor.\nThe traces of blood sporadically continue up to the door at the back of the church.\n\"...No, that's not it. It's not continuing into the back, but it seems like it's coming out from the back.\"",
+      "sourceUnit": "凛ルート十二日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...It bothers me, but now is not the time for that.\nThe bloodstains mean that someone is hurt.\nAnd this much too... Their life must be in danger.\n...\nI feel a sharp pain in my head. A dull heaviness settles into my body.\nI ignore them as I take out my bamboo sword and start walking quietly.",
+      "sourceUnit": "凛ルート十二日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka... Are you there?\"\nNobody replies.\nThe air is tense.\nI feel like all the windows in the church would shatter if I raised my voice.",
+      "sourceUnit": "凛ルート十二日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nI follow the traces of blood.\nThe bloodstains are in the crevices of the building.\nIt continues to the dark staircase that you would miss if you didn't know about it.",
+      "sourceUnit": "凛ルート十二日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Stairs that lead underground... I didn't know this place had a basement.\"\nThis is a church, so could it be a mausoleum?\n\"Guh...\"\n...I can't afford to be leisurely pondering right now.\nI exercise utmost caution and step into the darkness.",
+      "sourceUnit": "凛ルート十二日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I descend in the darkness.\n...There is a dim light at the end of the stairs.\nI hold my breath and move forward, using only the light below as a guide.",
+      "sourceUnit": "凛ルート十二日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The narrow corridor ends, and I come out to an open space.\nIt is a spacious stone chamber.\nThe stairs along the wall stretch down to the sanctuary.\nThere, stairs lead to an open space that seems like the sanctuary,\nand there... is the one I had been looking for, Rin Tohsaka.",
+      "sourceUnit": "凛ルート十二日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is confronting the enemy in front of her, with Archer protecting her.\nIn front of her... In front of the altar are two silhouettes.",
+      "sourceUnit": "凛ルート十二日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't even have to be said.\nThe mage in the purple robe, Caster, and her Master, Kuzuki.\nOn the altar behind them...\nThere is Saber, who is looking down and panting painfully.",
+      "sourceUnit": "凛ルート十二日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy heart skips a beat.\nMy pulse is clearly beating at a much faster rate.",
+      "sourceUnit": "凛ルート十二日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe situation is obvious.\nThe two pairs of Master and Servant confronting each other in the sanctuary about five meters below me.\nThey haven't noticed me hiding overhead, as they're too preoccupied.",
+      "sourceUnit": "凛ルート十二日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and Caster are both thinking ahead, looking for an opening to attack.\nTo look up in a situation like this would not be allowed.",
+      "sourceUnit": "凛ルート十二日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy heart beats even faster.\nMy headache is constant, and I feel an intense pain in my shoulder as if it's been seared by a hot iron.",
+      "sourceUnit": "凛ルート十二日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I can't keep my presence hidden forever in this state.\nCaster or Kuzuki. If one of them looks up even just a bit, they'll notice me hiding.\nI...",
+      "sourceUnit": "凛ルート十二日目-04:page25:1"
+    }
+  }
+}

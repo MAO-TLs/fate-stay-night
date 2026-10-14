@@ -1,0 +1,27 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0676",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm still taking you home. I'm not leaving without you.\"\nThere's nothing to consider.\nRight now, this is the only choice that exists.",
+      "sourceUnit": "桜ルート十五日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nIllya doesn't say anything. She gazes at me with an absent expression.\nI take her defenseless hand.\n\"Let's go, Illya. We should go home before they find us.\"\nI pull her close and start walking. She's small and terribly light.",
+      "sourceUnit": "桜ルート十五日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm amazed. I don't think you'll listen to anything I say.\"\nIllya doesn't resist, tottering along with me.\n\"I mean it. There's no way this can end well.\"\nShe happily clasps my hand in return.",
+      "sourceUnit": "桜ルート十五日目-05:page2:1",
+      "recoveredDelimitedTail": true
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0498",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBy the time I leave the Chinese restaurant, it's nearly 4:00 PM.\nI don't have any shopping to do, so I could just go home...",
+      "sourceUnit": "桜ルート七日目-04:page0:1"
+    },
+    "page1": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート七日目-04:page1:1"
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

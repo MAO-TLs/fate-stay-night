@@ -1,0 +1,256 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0600",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I go up the hill.\nThere's no life in the town.\nIt's still only eight or nine o'clock, but not only is there no one outside, the town doesn't even have the warmth of people living in it.",
+      "sourceUnit": "桜ルート十日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nrgh.\"\nI find myself leaning against a fence.\nMy left arm is burning.\nMaybe I stopped being as tense once I was alone, but my left arm's been hurting since I started up the hill.",
+      "sourceUnit": "桜ルート十日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm putting someone else's arm through a lot, so of course it would.\"\n...I'm having a hard time catching my breath.\nThe heat spreads through my left arm with each step I take, its temperature slowly rising.\nWhenever it gets too far away from my normal body temperature, fresh pain stabs into my chest from the tip of my shoulder.",
+      "sourceUnit": "桜ルート十日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh... It hurts on my end too, not just in the arm.\"\nI rest my back against the wall and take a deep breath.\n...I've more or less gotten used to how the pain works.\nIt's like refrigeration.\nFor whatever reason, my left arm becomes hot whenever I move.\nOnce enough heat builds up in the arm, it gets dumped into my body.",
+      "sourceUnit": "桜ルート十日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh...\"\nThis pain comes from the heat burning my body.\nI have the acute sensation of something foreign being injected, and it feels more like being cut than heated.\nEvery time the red vertigo comes, I feel a long blade stab me in the shoulder, and I almost think I hear grinding sounds inside my body.",
+      "sourceUnit": "桜ルート十日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh... Hah, hah... Ngh...!\"\nTo be honest, I'm not sure how much more I can take of this.\nBerserker's torn my stomach open before, and Rider's caved my rib cage in.\nEven though I've experienced damage like that before, the thought of my own arm \"stabbing\" my body gives me chills.",
+      "sourceUnit": "桜ルート十日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay. Calm down... If I can stop my body temp from getting any worse, it should make this thing behave...\"\nI look up at the night sky as I steady my breathing.\nIt's already been twenty minutes since I parted ways with Tohsaka and Illya.\nBefore, I would've gotten home by now, but I can't let Sakura see me this winded and sweaty.\n...I should keep my left arm's problems to myself.",
+      "sourceUnit": "桜ルート十日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn that Kotomine. Go back to my normal life? I'm never getting used to this thing.\"\nI press my hand to my left shoulder, against the red cloth wrapping my arm.\nMy left arm can't so much as twitch, and it's as hard as iron.",
+      "sourceUnit": "桜ルート十日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Okay.\nI'm not sweating anymore, and my breathing is regular.\nIt's getting late, so I'd better look as peppy as I can and say hi to Sakura.",
+      "sourceUnit": "桜ルート十日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home!\"\nI take a deep breath, and announce myself loudly as I walk through the front door.\n\"...Ah... Welcome home, Senpai.\"\nSakura's already at the entrance, like she's been waiting here the whole time.",
+      "sourceUnit": "桜ルート十日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"? Hey, why do you look so down? I'm glad you came to greet me, but it's hard to be happy when you're making a face like that.\"",
+      "sourceUnit": "桜ルート十日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I take off my shoes and go into the corridor.\nFor now, I want to rest my body.\nI'll go to the living room and have a cup of tea before I tell Sakura what happened today.",
+      "sourceUnit": "桜ルート十日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, I shouldn't do that. Better tell her what happened before I have tea.\"\nTohsaka will be here soon.\nIf I don't explain the situation first, Sakura will be on guard against Tohsaka.",
+      "sourceUnit": "桜ルート十日目-20:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"About today, Sakura...\"\n\"...Senpai. You aren't going to say anything?\"\nBefore I can finish,\nSakura asks me a faltering question.",
+      "sourceUnit": "桜ルート十日目-20:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Say what, exactly?\"\n\"...\"\nSakura is silent.\nShe's looking at my left arm.",
+      "sourceUnit": "桜ルート十日目-20:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, this. Yeah, I'd be surprised if I were you, too.\"\nIt's wrapped in thick cloths that are clearly more than just bandages.\nSakura may not know what happened, but anyone would notice that.",
+      "sourceUnit": "桜ルート十日目-20:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I got a little hurt. But I can move it just fine, so it's no big deal. This wrap is actually in the way, but Kotomine kept telling me not to take it off.\nHe did give me medical treatment, so I figure I'll do what he says.\"",
+      "sourceUnit": "桜ルート十日目-20:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I pat my left arm to show that I'm okay.\n...But that just makes Sakura get even more quiet.",
+      "sourceUnit": "桜ルート十日目-20:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...? Hey, I'm okay, really. It just looks bad, but it was just a scratch. It'll get better soon, so you don't need to worry—\"",
+      "sourceUnit": "桜ルート十日目-20:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that isn't a scratch at all! It isn't even your own arm! How can you say that when you can't even move your fingers!?\nEven I won't be fooled by such obvious lies! Or are you not telling me because you don't trust me to understand!?\"",
+      "sourceUnit": "桜ルート十日目-20:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe lashes out with fiery anger.\n...I'm speechless at my own stupidity.\nI didn't consider what Sakura must have felt like staying at home by herself all day.",
+      "sourceUnit": "桜ルート十日目-20:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...\"\n\"Ah... I-I'm sorry. I don't mean to blame you for it. I just...want you to take better care of yourself, and, um...\"",
+      "sourceUnit": "桜ルート十日目-20:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "No. You're right, but you're also wrong.\nI'm not upset because you yelled at me. Um, I'm surprised and sorry because this is the first time I've seen you sincerely angry.\"",
+      "sourceUnit": "桜ルート十日目-20:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"You're... sorry?\"\n\"Yeah. I know I shouldn't bluff, especially in front of you. I think I just didn't want you to see me being lame, so I pretended I was okay.\nBut doing that makes me look even worse. It's only normal that you'd be upset.\"",
+      "sourceUnit": "桜ルート十日目-20:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... no, I've never once thought that you looked lame.\"\nNo, I definitely am.\n...What was I thinking, hoping not to make her worry by telling her nothing at all?\nI was just trying to put on a strong front for Sakura.",
+      "sourceUnit": "桜ルート十日目-20:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Sorry, Sakura. They got me good.\nMy arm got fixed somehow, but I couldn't help you.\"",
+      "sourceUnit": "桜ルート十日目-20:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Th-that isn't true! You did great, Senpai! I w-wasn't watching or anything, but you looked really cool!\"",
+      "sourceUnit": "桜ルート十日目-20:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof... I really was pathetic back there, so it hurts to hear that. I couldn't help Illya as much as I wanted. All I could do was run away.\"",
+      "sourceUnit": "桜ルート十日目-20:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...But you still came home to me. I'm so happy that you kept your promise.\"",
+      "sourceUnit": "桜ルート十日目-20:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Yeah. Me too.\"\nI scratch my head bashfully.\nStill, though...\nI'm both happy and embarrassed to have her say that to me.",
+      "sourceUnit": "桜ルート十日目-20:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I survived. That's enough, right?\"\n\"Yes. You're very dashing. I've fallen for you all over again.\"",
+      "sourceUnit": "桜ルート十日目-20:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura seems to have cheered up incredibly, because she gives me a sunny grin.",
+      "sourceUnit": "桜ルート十日目-20:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... erm.\"\nI don't know what exactly to say to that, so I just...\n\"Um, what am I supposed to say now, Tohsaka?\"\n\"Who knows? But if you want my opinion, I wish you two wouldn't flirt so much in the doorway.\"\nI turn to Tohsaka, who's right behind me.",
+      "sourceUnit": "桜ルート十日目-20:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nOur surprised voices harmonize.\nSakura and I take a surprised half step back.\n\"H-how long have you been there, Tohsaka!?\"\n\"Tohsaka-senpai, what are you doing at our house!?\"\nAnd we exclaim our shock in unison, too.",
+      "sourceUnit": "桜ルート十日目-20:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that. Just when I thought you were filling her in, I catch you two having a friendly spat. Do you even understand how urgent things are right now, Shirou?\"",
+      "sourceUnit": "桜ルート十日目-20:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka sets a large overnight bag down on the entrance floor.\nBehind her,\nI see Illya standing silently, looking very tense.",
+      "sourceUnit": "桜ルート十日目-20:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka-senpai. I don't mind if you want to continue things from last night.\nSince Senpai is protecting me, I'll fight you with everything I have as the Matou mage.\"",
+      "sourceUnit": "桜ルート十日目-20:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Sakura balls her hands into fists and enters a staring match with Tohsaka.\n...No, it's more like a frog desperately standing up to a snake that's spotted its prey.",
+      "sourceUnit": "桜ルート十日目-20:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. Looks like he still hasn't told you.\nOkay, Sakura. We're tabling your disposal for the time being. My first priority is to defeat Zouken. I can settle things with you later... Though, once we beat Zouken, I won't need to fight you anymore, so hopefully it'll work out that way.\"",
+      "sourceUnit": "桜ルート十日目-20:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Then, you're...\"",
+      "sourceUnit": "桜ルート十日目-20:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I'm helping you—no, Shirou to defeat Zouken. But it would waste a lot of time if I lived far away, right? So, I'm going to start living here from tonight, and I'll train him, too. It's going to take some spartan training to get him into fighting shape.",
+      "sourceUnit": "桜ルート十日目-20:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"On that note, I'll be borrowing Shirou for a while. It's going to be a rough treatment, but I'm sure you both won't mind.\"\n\"Wha...\"\nRin Tohsaka starts laying out my schedule without any input from me.",
+      "sourceUnit": "桜ルート十日目-20:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wait, Tohsaka. This is too sudden—\"",
+      "sourceUnit": "桜ルート十日目-20:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you can't do that!\nWho gave you the right to decide that, Nee—I mean, Tohsaka-senpai!?\"\n\"...I need time to mentally prepare myself, y'know?\"",
+      "sourceUnit": "桜ルート十日目-20:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "I meekly protest.\nOf course, my opinion is completely rejected by Sakura's outcry and Tohsaka's stern glance.",
+      "sourceUnit": "桜ルート十日目-20:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so all I need is the right to decide? I have that, too. He's only alive thanks to me.\nUntil Shirou repays that debt, he has to do what I say. If I order him to surrender his home or cook me three meals a day, he'll gladly comply, won't he?\"\n...\nTohsaka. People are bound to get the wrong idea when you say it that way.",
+      "sourceUnit": "桜ルート十日目-20:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"It can't be... I-is that true, Senpai?\"\n\"...Yeah. I'm not happy about the way she makes it sound, but what she's saying is true.\"",
+      "sourceUnit": "桜ルート十日目-20:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Plus, it's better to have more allies. Zouken is definitely after you right now. If Tohsaka's with us, then I can protect you.\"\nBesides, Tohsaka's her big sister.\nI'd prefer it if they were together, and I don't want them to fight.",
+      "sourceUnit": "桜ルート十日目-20:page47:1"
+    },
+    "page48": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十日目-20:page48:1"
+    },
+    "page49": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

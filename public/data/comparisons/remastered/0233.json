@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0233",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "This is a well-known dagger...perhaps even famous.\nIt is used for rituals rather than for battle. It's a magical wand in the shape of a sword, used to form magic circles and to intervene in Mystics that have taken shape.",
+      "sourceUnit": "セイバールート十五日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The word \"AZOTH\" is engraved in the jewel on the handle.\nIts blade isn't as long as a typical dagger, which probably fits Tohsaka's preferences anyway.\nThis is the Azoth Blade, a sword favored by a famous scholar of Mystics who took the world by storm some time ago.\nIt is meant for mages, to prove that their training is complete. The Azoth Blade is not unlike the sort of gift one receives for getting into a college.",
+      "sourceUnit": "セイバールート十五日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, what is this?\"\n\"Can't you tell? This is my dagger. It's weak compared to my jewels, but I still infuse it with magical energy from time to time. It'll activate if you say läßt and flood it with as much magical energy as you can.\"",
+      "sourceUnit": "セイバールート十五日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She hands me the dagger. It's surprisingly heavy.\nNot physically heavy. Rather, I feel the weight of Tohsaka's memories in the dagger.",
+      "sourceUnit": "セイバールート十五日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Are you sure about loaning this to me?\"\n\"It's fine. I knew I was no match for Kirei, so I hid it from him. I don't want it to go to waste, so you use it.\"",
+      "sourceUnit": "セイバールート十五日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I'll take it. Honestly, more weapons can't hurt.\"\n\"Oh, so you do get it. Then...maybe it's time...\nI'm just getting so sleepy...\"",
+      "sourceUnit": "セイバールート十五日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "She laughs, embarrassed.\nThe next thing I know...\nSaber is standing behind me, waiting to treat Tohsaka.",
+      "sourceUnit": "セイバールート十五日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Go ahead and sleep. I'll wake you up in the morning. Then I'll make you a nice, big meal.\"\n\"Yeah, I'll do that.\nOh, and this last bit is more of an order than a warning.\nShirou...if you're going to do this, you need to win even if it kills you. I will never, ever forgive you if I wake up and find you dead and defeated.\"",
+      "sourceUnit": "セイバールート十五日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "She looks like she's said everything she wants to say.\nAnd so Tohsaka drifts right off to sleep.\nShe looks well enough, so I feel a little stupid for worrying about her.",
+      "sourceUnit": "セイバールート十五日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "But then again...\nI know that's her way of cheering me on, and her words really do invigorate me.\n\"Yeah. Leave it to me, Tohsaka.\"\nI nod at Tohsaka's sleeping form.",
+      "sourceUnit": "セイバールート十五日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Everything's all set.\nAll that's left is to spend these next few hours without regret, while my wounds heal.",
+      "sourceUnit": "セイバールート十五日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Today slowly ticks over into tomorrow.\nWe treat Tohsaka's wounds and take her to her room to rest, while I make dinner and eat with Saber in silence.",
+      "sourceUnit": "セイバールート十五日目-04:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

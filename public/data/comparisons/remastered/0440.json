@@ -1,0 +1,781 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0440",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Master. This concludes my abbreviated explanation.\"\n\"Yeah. It's a lot to take in, but it makes sense. Sorry for the trouble, Saber.\"",
+      "sourceUnit": "桜ルート四日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...There is no need to apologize.\nYou need to understand the situation we're in to make decisions about our next steps.\"\nSaber leans forward attentively, awaiting my next words.",
+      "sourceUnit": "桜ルート四日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "This tells me...\nSaber is probably the same as Tohsaka: she's the sort to strike first.\nWhile that's valid, I can't decide our next course of action before I know what I'm even supposed to be doing.",
+      "sourceUnit": "桜ルート四日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... I guess...we can't just wait and see. I don't know what the other Masters are like, and I'm curious about Illya. If I'm trying to avoid creating more victims, then we should probably try to find the other Masters...\"",
+      "sourceUnit": "桜ルート四日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Aimlessly wandering through the city seems dangerous.\n...But I can't come up with anything better.\nMaybe I should have teamed up with Tohsaka after all.",
+      "sourceUnit": "桜ルート四日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...? Does Berserker's Master concern you, Shirou?\"",
+      "sourceUnit": "桜ルート四日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? Oh, nah. I'm just wondering why she's after us.\nActually, I've met her before yesterday. Though it was just in passing. I've heard the name 'Einzbern' before, too.\"",
+      "sourceUnit": "桜ルート四日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat seems to catch Saber's attention.\nShe makes an inscrutable face at the mention of \"Einzbern.\"",
+      "sourceUnit": "桜ルート四日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Have you heard of the Einzbern name before, too?\"\n\"...I know the name. Are you familiar with it, Shirou?\"",
+      "sourceUnit": "桜ルート四日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I wouldn't say that. I just heard it in passing. Before we met her, someone who has nothing to do with all this asked me if the daughter of the Einzberns was doing well.\"\n\"...I see. Then you don't know anything.\"\nSaber closes her eyes in a moment of thought.",
+      "sourceUnit": "桜ルート四日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...This must be fated, somehow. If you wish to learn more of the Einzberns, then you should visit the church again.\nThat priest will be able to shed some light on your questions and your next course of action.\"",
+      "sourceUnit": "桜ルート四日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"The church...? You mean the same one from yesterday? But I'm not supposed to go there anymore. The priest said only to come back if I'm going to forfeit being a Master.\"",
+      "sourceUnit": "桜ルート四日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That was just a white lie. The rules that priest enforces are a contrivance of the Mage's Association meant to control the battle between mages. Since you don't belong to the Association, there is no purpose in obeying them.\"\n\"Hm...\"",
+      "sourceUnit": "桜ルート四日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...She's right.\nTohsaka's part of the Association, but the Emiya family are a bunch of outlaws that have nothing to do with them.\nI won't get anything out of following the Association's laws, so I can just ignore them like my old man did.",
+      "sourceUnit": "桜ルート四日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand now? That church is a shelter of last resort for you, but you're under no obligation to obey their laws.\"\n\"...I suppose you're right. But I still want to avoid it if I can. I have a feeling that I shouldn't see that priest any more than I have to.\"",
+      "sourceUnit": "桜ルート四日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Kirei Kotomine.\nI have a hunch that something's wrong with him.\nIt isn't a feeling of hostility like I can't trust him or that he's a threat.\n...I shouldn't be around him.\nI'm afraid that the more I'm around him, the more of myself that I've built up over time will crumble away.",
+      "sourceUnit": "桜ルート四日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I know how you feel, Shirou. I agree. We should avoid associating with him if possible.\"\nSaber concurs with a dignified look.\n\"Hm?\"\nThat's a surprise.\nI never expected Saber, a Heroic Spirit, to feel awkward over associating with mere humans. After all...",
+      "sourceUnit": "桜ルート四日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Leaving me aside, why do you feel that way?\nYou haven't even met him.\"\n...\nSaber hesitates.\nAfter a frown of indecision, she raises her head as if her doubts have been dispelled.",
+      "sourceUnit": "桜ルート四日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"He participated in the previous Holy Grail War.\nI don't know which Servant he was the Master of, but Kiritsugu was cautious of him until the very end.\"",
+      "sourceUnit": "桜ルート四日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI know that.\nI know that already, but Saber, did you just—\n\"Sa...ber... How do you know my old man's name?\"",
+      "sourceUnit": "桜ルート四日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I was Kiritsugu's Servant.\nKiritsugu Emiya was one of the Masters in the last Holy Grail War. I fought alongside him for the Grail, and we won.\nKiritsugu judged that priest to be the greatest threat of all the participants. He said that if we lost, it would be to him.\"",
+      "sourceUnit": "桜ルート四日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nWait.\nBut that means...\nKiritsugu was a Master in the last war, who fought alongside Saber, and...\none of the people who caused that hell to happen?",
+      "sourceUnit": "桜ルート四日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...No way. How could it be? Why didn't Kotomine say anything? Why didn't the old man tell me?\"",
+      "sourceUnit": "桜ルート四日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not know. I never did know what Kiritsugu was thinking.\nIf the priest didn't mention it, then you must not have asked. He is the type of man to answer anything people ask him. I believe he will tell you the truth, if you bring it up.\"",
+      "sourceUnit": "桜ルート四日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber watches me silently.\nHer green eyes state my obligation as a Master:\nif I want to know the truth about Kiritsugu Emiya, then I should willingly go to the church.",
+      "sourceUnit": "桜ルート四日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI walk to the church.\nSaber's wearing the same outfit again, guarding me.",
+      "sourceUnit": "桜ルート四日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy gaze is fixed on the church.\n...I came here at Saber's suggestion, but maybe I'm still not mentally ready.\nAs I push on the door, I don't feel particularly motivated to ask the priest about what happened ten years ago.",
+      "sourceUnit": "桜ルート四日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Master.\"\nI turn to look at the girl behind me.\n\"I will wait here. You should face the priest alone.\"",
+      "sourceUnit": "桜ルート四日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...I know. I'm not leaving, not after I came all this way.\"\n\"Please do not tell the priest that you summoned me.\nYou shouldn't reveal that the same Heroic Spirit has been summoned twice.\"",
+      "sourceUnit": "桜ルート四日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'll just ask about Kiritsugu. I'll be right back, so hang in there.\"\n\"...Yes. Be careful, Shirou. If there is danger, call me immediately. There is something wicked about that priest. There is no telling what might happen if you let your guard down.\"",
+      "sourceUnit": "桜ルート四日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Can't argue with that. I'll run and call you if anything happens.\"\nI ascend the steps.\nSaber remains alone under the cold winter sky as I enter the church.",
+      "sourceUnit": "桜ルート四日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "The priest is nowhere to be seen in the chapel.\nInstead, there's someone sitting in the pews.\nFrom behind, I can see blond hair.\nIt must be a foreigner here to worship.",
+      "sourceUnit": "桜ルート四日目-01:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Excuse me. Is Father Kotomine here?\"\nI try asking anyway.",
+      "sourceUnit": "桜ルート四日目-01:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe figure lazily stands.\nJust from a glance, I can tell that his movements\nare firm and strong.",
+      "sourceUnit": "桜ルート四日目-01:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "He walks my way.\nThere's nothing strange about how he moves, yet there's something I can't put my finger on.\nThe man approaches me nonchalantly.\nBut then...why do I feel like I'm about to fight for my life?",
+      "sourceUnit": "桜ルート四日目-01:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah—\"\nThe man raises his hand.\nAs I freeze stiff, he slowly reaches for my neck...\n...but his hand stops in midair.",
+      "sourceUnit": "桜ルート四日目-01:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh? Something rather unsavory has developed an attraction to you.\"\nThe man moves to leave.\nI can't say he's wrong.\nIt'd be strange to say otherwise when I was in fear for my life simply because someone walked up to me.",
+      "sourceUnit": "桜ルート四日目-01:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait there. You seek Kotomine, yes?\"\nThe man disappears behind the altar.",
+      "sourceUnit": "桜ルート四日目-01:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAfter waiting a few minutes...\n\"I'm surprised. To think you'd retire after only half a day, Shirou Emiya.\"\nFather Kotomine appears and greets me in his usual unpleasant tone.",
+      "sourceUnit": "桜ルート四日目-01:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't intend to. I'm just here to ask you a question. Like I'd come just for the reasons you gave.\"\n\"That is fine with me. I'm a busy man as well, so I wouldn't want you becoming dependent.\"",
+      "sourceUnit": "桜ルート四日目-01:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Kotomine approaches, his hard footsteps echoing.\n...It's like there's an invisible pressure emanating from him.\nHe gives off a severe air that makes me feel conscious of my flaws just by standing near him.\nMaybe it's a helpful trait for someone in his position...though at the same time, isn't that counterproductive for a priest?",
+      "sourceUnit": "桜ルート四日目-01:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"And? State your question. We're hardly acquainted such that I feel a need to exchange pleasantries.\"\n...",
+      "sourceUnit": "桜ルート四日目-01:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nI don't need to be friends with this man.\nI'm only here to verify what Saber told me.\nOnce I do that, I can get out of here and say good riddance.",
+      "sourceUnit": "桜ルート四日目-01:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Just one question. Why didn't you tell me?\"\n\"And what would you be referring to?\"\n\"About my old man. Why didn't you say that Kiritsugu Emiya was a Master in the last Holy Grail War?\"\nThe priest doesn't show a hint of shame. In fact, he looks like he's enjoying hearing me say Kiritsugu's name.",
+      "sourceUnit": "桜ルート四日目-01:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Answer me. If you're the overseer of this war, then you ought to know. Why didn't you tell me?\"",
+      "sourceUnit": "桜ルート四日目-01:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"There was hardly any reason to. How would knowing that your father was a Master benefit you? Kiritsugu Emiya's deeds are irrelevant to Shirou Emiya.\"",
+      "sourceUnit": "桜ルート四日目-01:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "What he says makes sense.\nEven if the old man was an excellent Master, it wouldn't do me any good to know it.\nBut...",
+      "sourceUnit": "桜ルート四日目-01:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it is my business. Did I become a Master because I'm Kiritsugu's son?\"\nKiritsugu raised me as his son and trained me in magecraft as his apprentice.\nI became a Master just like him and made a contract with Saber, the exact same Heroic Spirit. Anyone would draw the obvious connection.",
+      "sourceUnit": "桜ルート四日目-01:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"You said it's a coincidence that I became a Master.\nBut if you had told me about Kiritsugu, then I would willingly fight in the war, just like you want. Why didn't you mention it?\"",
+      "sourceUnit": "桜ルート四日目-01:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"That is beyond my ability to know.\nI know of no genetic succession of Masterhood, and to begin with, you aren't Kiritsugu's blood-related son.\nIt is very rare for a human with no intent or preparation to be chosen as a Master.\"",
+      "sourceUnit": "桜ルート四日目-01:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Normally, the Command Spells would not be bestowed upon someone who is ignorant of the Holy Grail, even if he is a mage. I don't know why an exception like you would occur.\"",
+      "sourceUnit": "桜ルート四日目-01:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then, it has nothing to do with my father?\nYou're saying it's a coincidence that I became a Master, and that he saved me back then out of...\"\n...sheer goodwill, because he wanted to save a dying child?",
+      "sourceUnit": "桜ルート四日目-01:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"As far as I know. But I cannot divine the will of the Holy Grail. As much as I'd like to dismiss your selection as random chance, I feel some karmic connection at work.\nPerhaps the Holy Grail chose Kiritsugu Emiya's son to demand atonement for his rejection of the grail.\"",
+      "sourceUnit": "桜ルート四日目-01:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... My old man...rejected the grail?\"\n\"Yes. Your father came to this town to obtain the Holy Grail.\nIt was his sole objective. The grail responded to that pure wish. Perhaps it was willing to allow itself to fall into his hands.\"",
+      "sourceUnit": "桜ルート四日目-01:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"But Kiritsugu betrayed the grail.\nIn the last possible moment, he destroyed it. He turned on his own wish, on the grail's expectations, in order to end the Holy Grail War.\"",
+      "sourceUnit": "桜ルート四日目-01:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"He...destroyed it...?\"\nIf that's true, then the Holy Grail certainly wouldn't approve.",
+      "sourceUnit": "桜ルート四日目-01:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "But it was the right thing to do.\nA Holy Grail that can grant any wish.\nMages fighting over it to acquire that power.\n...If you think about it, the grail is the cause of all the fighting.\nThe old man didn't betray anything by destroying it.\nKiritsugu ended the war by staying true to himself and doing the right thing, by being the champion of justice I've always looked up to.",
+      "sourceUnit": "桜ルート四日目-01:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...That isn't treachery. I bet Kiritsugu destroyed the Holy Grail because he realized he didn't need it. He didn't betray anything.\"",
+      "sourceUnit": "桜ルート四日目-01:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. That's right, you didn't know the man as he was.\n...Very well. Perhaps this is a waste of time, but I will tell you who that man truly was.\"\nThe priest's lips curl.\nIt's a repulsive smile, as if he's savoring the moment.",
+      "sourceUnit": "桜ルート四日目-01:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Kiritsugu Emiya.\nHe was a mage whose life had nothing to do with the Holy Grail War. He simply lived according to his own desire and objectives, which eventually led him to seek out the grail.\nHe sought a miracle his own powers could not achieve.\nAn ideal which human hands could never realize.\nHe decided to stake his hopes on a wish-granter as he was unable to abandon his childish dream. Though others would have given up long ago.\"",
+      "sourceUnit": "桜ルート四日目-01:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...I do not know where he first heard of the Holy Grail War that takes place on this land.\nPerhaps another interested party saw potential in having him participate. It matters not.\"",
+      "sourceUnit": "桜ルート四日目-01:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Regardless, Kiritsugu Emiya was hired as a Master.\nThe Einzbern family, which is one of the founding families of the Holy Grail War, chose him to be the ultimate Master.\"",
+      "sourceUnit": "桜ルート四日目-01:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"After the previous three wars, the Einzberns sought Masters specialized in combat.\nIn fact, the Einzbern mages themselves are not suited to fighting. Their clan is particularly ill-suited to it. Thus, they placed their hopes on Kiritsugu, a seasoned killer without ties to the Mage's Association.\"",
+      "sourceUnit": "桜ルート四日目-01:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"They taught him—a heretic—knowledge of the Holy Grail, gave him the powers of a Master, and had him join with their bloodline in order to produce an even more battle-worthy heir.\nIf Kiritsugu Emiya had given the Einzberns the Holy Grail, they would have taken him in as an official member of their family. Not unlike a noble family taking in a knight of unknown lineage and origins.\nThey treated Kiritsugu with unprecedented good faith. They put their trust in him fully.\"",
+      "sourceUnit": "桜ルート四日目-01:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Kiritsugu lived up to those hopes.\nIn the previous war, Kiritsugu defeated many Masters. I was the only one who managed to survive battling him. The rest were almost certainly slain.\nHe was precise, meticulous, predatory, and ruthless. He had no mercy for his enemies. Once he decided to kill someone, they would die. He butchered Servants and allowed their Masters to beg for their lives only to pull the trigger once their backs were turned. He felt nothing after each kill. He felt neither pride in his own dominance nor guilt for the fallen.\"",
+      "sourceUnit": "桜ルート四日目-01:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"In a word, he was a machine.\nHe never had emotions to begin with. Thus, feelings of joy, rage, melancholy, or pleasure never entered his mind.\"",
+      "sourceUnit": "桜ルート四日目-01:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... He was a...machine...?\"\n\"Yes. Understand, he was a killer through and through.\nHe never thought to avoid collateral damage to innocent bystanders such as yourself. He aggressively targeted people's weaknesses and allowed no chance of retaliation. He used his enemies' flesh and blood as shields and fettered them with their own friends, all to achieve a swift victory.\"",
+      "sourceUnit": "桜ルート四日目-01:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me put it another way. If Kiritsugu was part of this war, he would be the worst possible Master for you to face. If you consider ruthlessness a form of evil, then he would have been the most obvious source of evil in the last war. He had nothing else, after all.\"",
+      "sourceUnit": "桜ルート四日目-01:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"What's wrong? Are you unconvinced?\nI understand. Of course, Kiritsugu was not literally a machine.\nIt was both his greatest strength and vulnerability. He severed his own feelings for the sake of his goals. Not through magical self-suggestion, mind you, but by relying on his own willpower.\nOne so easily changed by magical suggestion or merely hardening their heart would not have been worthy of obtaining the grail. That must have been his belief. So he adopted the identity of a killer through and through.",
+      "sourceUnit": "桜ルート四日目-01:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"But in going to such extremes, his weakness betrayed everything he had:\nthe Einzbern family who entrusted him with their long-held wish,\nthe Holy Grail which appeared before the victor after five Masters were defeated,\nand Kiritsugu Emiya's own dream, which no human hands could ever realize.\"",
+      "sourceUnit": "桜ルート四日目-01:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"He cast all of them aside on that altar.\nThat is how the last Holy Grail War concluded, and the truth behind the mage you remember as your father.\"",
+      "sourceUnit": "桜ルート四日目-01:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"With all that, the Holy Grail disappeared, and the war drew to a close.\nAfter Kiritsugu's treachery, the Einzberns retreated and have spent the last decade preparing for the next Holy Grail.\"",
+      "sourceUnit": "桜ルート四日目-01:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Now that I think about it, the Einzberns must have predicted the onset of this war.\nThe previous battle ended without a clear outcome.\nThey likely knew that the unused magical energy left over from last time would accelerate the timetable.\"",
+      "sourceUnit": "桜ルート四日目-01:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTo be honest, Kotomine's words don't feel quite real.\nKiritsugu, the ruthless Master.\nThe Einzberns, a great family of mages with a deep connection to him.",
+      "sourceUnit": "桜ルート四日目-01:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "How can I just accept all of that?\nBut, the one thing that I do know for certain is...\n\"...Kotomine. Did you hate Kiritsugu?\"\nFor someone who doesn't seem to care about anything, he seems angry whenever he talks about Kiritsugu.",
+      "sourceUnit": "桜ルート四日目-01:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Naturally. We stood at opposite extremes. We were born to be each other's nemeses. You might compare us to the Makiris and the Einzberns, but we both understood each other as natural enemies.\"",
+      "sourceUnit": "桜ルート四日目-01:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"...Natural enemies? So you were as cautious of him as he was of you?\"\n\"I was not cautious of him. But I most certainly could not ignore him, either.\"",
+      "sourceUnit": "桜ルート四日目-01:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"That man was an incorrigible saint.\nHe could not abide death, yet he would kill others to save people. If a single life had to be sacrificed to save ten, then he would make that sacrifice without hesitation.\"",
+      "sourceUnit": "桜ルート四日目-01:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Always willing to pay the minimum cost to bring about a utopia in which everyone could be happy.\nThat dissonance...\nThose failed ideals were not so different from my own, but there was a crucial, irreconcilable difference between us.\"",
+      "sourceUnit": "桜ルート四日目-01:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"He chose to live for his ideals. As far as I am aware, he was faithful to them until the moment he destroyed the Holy Grail.\nDoing so let him feel proud and free of doubts about his life as a ruthless machine.\"",
+      "sourceUnit": "桜ルート四日目-01:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"We were similar, yet ultimately incompatible.\nThat man had an unshakable will.\nHe was able to fight without suffering a single wound. Yet he was deeply wounded from the beginning.\nDeliberately, he took an inhuman path. Deliberately, I became a man of the cloth.\"",
+      "sourceUnit": "桜ルート四日目-01:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHe was deeply wounded from the beginning.\nMeaning that his fundamental beliefs were always flawed?",
+      "sourceUnit": "桜ルート四日目-01:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...And you're different? He was someone who avoided getting hurt. While you say you were hurt, as you took a path embracing humanity. Being a priest made you different from Kiritsugu...?\"",
+      "sourceUnit": "桜ルート四日目-01:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder about that. It would be difficult to consider us similar in that case.\nThe others viewed he and I as similar for other reasons.\n...Ah, yes. In terms of humanity, at least, you have similarities to Kiritsugu.\"",
+      "sourceUnit": "桜ルート四日目-01:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"You've wished for something from an early age.\nYou believe in honeyed ideals, and are willing to get your hands dirty for them.\nYou see yourself as a greater evil, working to eliminate all lesser evils.\nYou and Kiritsugu are the sort of saviors one might call an Anti-Hero.\"",
+      "sourceUnit": "桜ルート四日目-01:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...? What's an Anti-Hero?\"\n\"Does the word not explain itself? It is the opposite of a hero: an incorrigible killer.\"\n\"That just makes us sound like bad guys. Are you making fun of me?\"",
+      "sourceUnit": "桜ルート四日目-01:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Perish the thought. Lest you misunderstand, I welcome you. You are his son, after all. The child of my nemesis is coming to me for help. Should I rejoice or lament? My feelings are so mixed I can hardly bear it.\"",
+      "sourceUnit": "桜ルート四日目-01:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "The priest chuckles to himself.\n...I don't know what he's really after, but he sure doesn't look bored.",
+      "sourceUnit": "桜ルート四日目-01:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"We were talking about Anti-Heroes.\nIn other words, their existence is treated as evil, but their deeds are to the benefit of other people. Regardless of their intentions, their reputation uplifts them as saviors.\"",
+      "sourceUnit": "桜ルート四日目-01:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Such Heroic Spirits tend to be labeled as Anti-Heroes.\"",
+      "sourceUnit": "桜ルート四日目-01:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Imagine the most vile man you can think of. If his sacrifice would save everybody else in a village, would that not make him a hero?\nWhether said hero is then consumed or buried matters little.\nThose who are unlucky enough to draw the short straw, to be saddled with the dirty job of saving the masses, they are not blamed as sinners, but venerated as heroes.\"",
+      "sourceUnit": "桜ルート四日目-01:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"...Like a soldier getting promoted after dying in battle?\"",
+      "sourceUnit": "桜ルート四日目-01:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"That is quite different.\nThe key point is the awareness of those doing the veneration.\nThose elevated out of respect, gratitude, or guilt are proper heroes. Someone glorified for such reasons can never become an Anti-Hero.\n...It is, well, human to forget our own ugliness and substitute it with comedy or tragedy. With time, even reviled heroes are eventually treated as victims, and cease to be seen as pure evil.\"",
+      "sourceUnit": "桜ルート四日目-01:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"...They stop being pure evil?\"\n\"That's right. Anti-Heroes must be the ultimate assailants, even while being victims.\n...They are something created by humans, and grow only thanks to human involvement. That contradiction is what exempts these enemies of the world from the corrective forces that would otherwise eliminate them.\"",
+      "sourceUnit": "桜ルート四日目-01:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course, this does not apply to pure Anti-Heroes.\nThey do not truly exist. They are merely the expression of the human wish for such beings to exist.\"",
+      "sourceUnit": "桜ルート四日目-01:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"They are sacrifices that reject the idea of original sin, an ideal conclusion created by humans.\nJust know that Anti-Heroes are a wish that can never be granted, treated much the same as peace itself.\"\n\"...?\"",
+      "sourceUnit": "桜ルート四日目-01:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm. In other words, more impossible, honeyed ideals.\nYou want to be a champion of justice who always does the right thing, like Kiritsugu, yes?\nThat makes you an admirable Anti-Hero. I know...once you acquire the Holy Grail, why don't you try asking it to make you a hero?\"",
+      "sourceUnit": "桜ルート四日目-01:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"...Just what are you getting at?\nA hero isn't the same as someone who always does what's right. I have no idea what you're talking about, but I'm not about to fall for your tricks.\"",
+      "sourceUnit": "桜ルート四日目-01:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? In what way are they different?\"\n\"I-I don't know! But I know they're different. Plus, a hero isn't something you try to be, but someone you become after everything's over. All the Holy Grail can do is give you power beyond your means, right?\"",
+      "sourceUnit": "桜ルート四日目-01:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Like father, like son, even if blood does not tie you. You're made of the same steel as your father.\"\nThe priest lets out an unctuous chuckle, as if he's mocking me.",
+      "sourceUnit": "桜ルート四日目-01:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\n...This guy hates Kiritsugu.\nBut something's been bugging me this whole time:\nHe's, well...\nHe's said a lot of stuff about Kiritsugu, but none of it belittled him.",
+      "sourceUnit": "桜ルート四日目-01:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Did you actually like the old man?\"\nBefore I knew it, I'd already put my thoughts into words.",
+      "sourceUnit": "桜ルート四日目-01:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? What makes you think so?\"\n\"...Nothing. Just felt that way to me.\"",
+      "sourceUnit": "桜ルート四日目-01:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"You're wrong. I despise Kiritsugu Emiya, and we've never even spoken to each other. We only tried to kill each other once.\nI said we were polar opposites, remember?\nHis wishes and doubts were different to mine. How could the questions of someone without anything be the same as those of someone who had everything from the start?\"\nThe priest's eyes declare that they are absolutely, fundamentally incompatible.",
+      "sourceUnit": "桜ルート四日目-01:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"...What did Kiritsugu have that you didn't?\"",
+      "sourceUnit": "桜ルート四日目-01:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, unlike Kiritsugu, I could never do anything like will myself into changing for something I believe in. Though our objectives were different, so you can hardly compare us.\"",
+      "sourceUnit": "桜ルート四日目-01:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nWilling oneself to change for a belief.\nIs he talking about how he mentioned abandoning one person to save ten?",
+      "sourceUnit": "桜ルート四日目-01:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't have to understand. Kiritsugu Emiya's wish was, in a word, 'peace.' Very simple, isn't it? So simple, in fact, that in a complex world it renders much unneeded. All he could do was dispose of or ignore all the excess and hypocrisy that didn't fit into his perfect ideal.\"",
+      "sourceUnit": "桜ルート四日目-01:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"...He could not abide it.\nHe pursued perfection while also trying to save everything that fell by the wayside.\n...It was a miracle that no human could accomplish.\nA world without conflict does not exist on this earth. He sought out the Holy Grail because he could not abide that fact.\"",
+      "sourceUnit": "桜ルート四日目-01:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Pursuing an ideal and confronted with the fact that he would never attain it, he had no other choice but to seek the grail.\nIt was the end of a man who was driven into a corner by his own ideals.\nThe dream of Kiritsugu Emiya was an impossible, magical idea that only an impossible device like the Holy Grail could make come true.\"",
+      "sourceUnit": "桜ルート四日目-01:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "...\nA world without conflict.\nDid Kiritsugu seriously believe in that?\nHe worked to be stronger for the sake of that goal, finding himself at odds with the disconnect between his ideals and reality, yet still clung onto hope, until he arrived at the Holy Grail to try to make a miracle happen.",
+      "sourceUnit": "桜ルート四日目-01:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "By then, the man must have known countless setbacks and endless frustration.\nTo begin with, someone would only seek the Holy Grail because they have a wish that they can't make come true on their own.",
+      "sourceUnit": "桜ルート四日目-01:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "He would have been worn down into a person far removed from his own ideals.\nDespite all that, he still wanted the grail?\nAll because he kept dreaming the same dream: an ideal he couldn't realize on his own, that he'd already sacrificed so many people for.",
+      "sourceUnit": "桜ルート四日目-01:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"...But in the end, he destroyed the Holy Grail. Probably because it couldn't grant his wish.\"",
+      "sourceUnit": "桜ルート四日目-01:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. Ultimately, he betrayed himself.\nHe must have been so enraged in that moment.\nTo be honest, I still would have found that acceptable. I was deeply intrigued by what shape his idea of 'peace' might have turned out to be.\"",
+      "sourceUnit": "桜ルート四日目-01:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"And you don't want that? You're still a priest.\"\nThe priest nods in agreement,\naffirming that a world without conflict or suffering is something that all people want.",
+      "sourceUnit": "桜ルート四日目-01:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"It is not something I personally desire. I have no wish, or at least, not the kind that a normal person would conjure up.\"\n\"What do you mean by that?\"",
+      "sourceUnit": "桜ルート四日目-01:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"Wishes are, in essence, one's most comfortable state of being. In Kiritsugu Emiya's case, it was the idea of a world without conflict. He and I had fundamentally different values.\"",
+      "sourceUnit": "桜ルート四日目-01:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\n\"It's simple. I have never experienced what others call happiness. Trust in others, as well as others' trust in me, has never held anything for me. The things that the rest of you consider joyful have never once pleased me.\"",
+      "sourceUnit": "桜ルート四日目-01:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "He murmurs emotionlessly.\nThe monologue seems addressed to someone who isn't here, rather than me.",
+      "sourceUnit": "桜ルート四日目-01:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, I think that concludes our discussion.\nI've sufficiently answered your question of whether Kiritsugu Emiya was a Master.\"\n\"Ugh—no, wait. I didn't only want to ask about him. Um...\"",
+      "sourceUnit": "桜ルート四日目-01:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "How should I think as a Master? How should I fight the rest of this war?\n...If I ask him dumb questions like that, I'm sure he'll smirk and answer me with sarcasm and mockery.\nI want to avoid that.\nActually, I'd damn well better avoid it.",
+      "sourceUnit": "桜ルート四日目-01:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"If you have any other inquiries, make them brief. This topic took up more time than I expected.\"",
+      "sourceUnit": "桜ルート四日目-01:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...\"\n...No, there's something else I need to be sure of.\nDidn't I come back to this church to clear away one of my doubts? It wasn't to ask how I should conduct myself as a Master.",
+      "sourceUnit": "桜ルート四日目-01:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"Is it not about the Einzberns?\nAs Kiritsugu's son, I believe they would consider you a target to be killed.\"",
+      "sourceUnit": "桜ルート四日目-01:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "\"...! Right, that's it! Who the hell are these Einzbern people? You mentioned that they're the ones behind the Holy Grail War.\"",
+      "sourceUnit": "桜ルート四日目-01:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, they are. I said that the Holy Grail War is a ritual. Accordingly, someone must have first designed it.\"",
+      "sourceUnit": "桜ルート四日目-01:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"Two hundred years ago, there was a group of mages who learned of a distortion in this land's leylines. They shared their secrets with each other and built a circle deep within the land to activate the Holy Grail.\nThis was the starting point of the Holy Grail War. The three families who were involved in creating the activation ritual are the formal owners of the grail.\"",
+      "sourceUnit": "桜ルート四日目-01:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"Those who created the Holy Grail. Those who conceived the Command Spells with which to bind Heroic Spirits to their will. Those who provided the land and the ritual to open a path leading beyond the world.\"",
+      "sourceUnit": "桜ルート四日目-01:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"The Einzbern, Makiri, and Tohsaka families.\nThe three founding families boast history and bloodlines the likes of which you and I can only dream of. Of them only the Tohsakas are natives of this land, but their grandmaster is the famed Schweinorg. If he is truly as capable as the stories say, then it is little wonder that their excellence has persisted in spite of mixed ancestry.\"",
+      "sourceUnit": "桜ルート四日目-01:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mmm. So these Einzberns are the top dogs of the war?\"",
+      "sourceUnit": "桜ルート四日目-01:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"In the past. But they have failed to summon the grail and they've been reduced to mere participants like the rest.\nTheir current role is only to create a vessel for the Holy Grail.\nThat goes for the Makiris and Tohsakas as well. They are now simply privileged families who are more likely to be chosen as Masters.\"",
+      "sourceUnit": "桜ルート四日目-01:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"...That said, the Einzberns originally conceived this Holy Grail. They have a thousand years of history. Few mage lineages have persisted for a millennium without fragmenting their bloodlines.\"",
+      "sourceUnit": "桜ルート四日目-01:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand, Shirou Emiya? For a thousand years, the Einzberns have tirelessly pursued the Holy Grail.\nOne thousand years. In the name of their quest, they have killed and killed and killed, committing atrocities beyond imagination, clinging to their inhuman madness since the Middle Ages.\nIt is not passion, obsession, nor zealotry that inspires them, but a cross they desperately cling to in the name of reaching a pointless destination.\"",
+      "sourceUnit": "桜ルート四日目-01:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"The Einzbern mages have gone beyond the realm of mere evil. Over the centuries, those monsters have never once strayed from their dogged pursuit of a shared goal that was forgotten only decades from its inception.\nWe cannot imagine the obsession that drove them to endure the frustration and humiliation of inviting a foreign mage into their fold.\"",
+      "sourceUnit": "桜ルート四日目-01:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"And yet, they have continued to prioritize attaining the Holy Grail.\nFive centuries of repeated mistakes: three spent thinking that they could not acquire the Grail on their own,\nand another two to realize that they could only acquire it via their own power.\"",
+      "sourceUnit": "桜ルート四日目-01:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "\"The Einzberns were prepared to literally die for their own goal, and partnered with the two lesser houses to achieve it.\nAs a result: they lost claim of ownership over the Holy Grail and were reduced to fighting their rivals for it. They bore that humiliation and even invited an outsider to contaminate their lineage. Then, when that man was within arm's reach of the prize, he betrayed his benefactors.\"",
+      "sourceUnit": "桜ルート四日目-01:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"Such is the relationship between the Einzberns and Kiritsugu Emiya.\nAnd the sins of the father underpin your relationship with them.\"",
+      "sourceUnit": "桜ルート四日目-01:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Oh.\nNo wonder she went straight for me.\nThe son of the man who betrayed them is a Master. They'd never let me get away with that.",
+      "sourceUnit": "桜ルート四日目-01:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "\"You seem to understand. While all Masters have some connection to this matter, the obsession of the Makiris and Einzberns cannot be described in mere words. The Makiris have chased it for five hundred years; the Einzberns, a thousand.\nIf rightful ownership is the point of contention, then it will only be resolved once the Holy Grail falls into either of their hands.\"",
+      "sourceUnit": "桜ルート四日目-01:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI have no words.\nNot just anyone can obsess over a single goal for hundreds of years.",
+      "sourceUnit": "桜ルート四日目-01:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't look so downtrodden. Kiritsugu Emiya may have betrayed the Einzberns, but it was not out of malice.\nOn the contrary, he was so committed to his own wish that he was willing to defy thousand-year-old ghosts.\nTo that end, he cast aside all that was near and dear to him.\nIs that not something to be proud of?\"",
+      "sourceUnit": "桜ルート四日目-01:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "...\n...They welcomed him into their family.\nBut he was so determined, he made an enemy out of one thousand years of history.\nI don't intend to take the priest's words at face value, but if it's true...\nIf I call myself my father's son, then I have to walk a path I believe in, just like he did...",
+      "sourceUnit": "桜ルート四日目-01:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "\"What's the matter? Has the mention of a thousand years worn away your will to fight, Shirou Emiya?\"",
+      "sourceUnit": "桜ルート四日目-01:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, right. No matter the story behind this war, I've made up my mind. Whatever the other Masters are planning, I won't let them repeat what happened ten years ago.\"\nI look up at him to drive the point home.\nThe priest makes a dramatic, satisfied nod.",
+      "sourceUnit": "桜ルート四日目-01:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"That is sufficient. If that is what drives you, then fight like your life depends on it. The longer it lasts, the more victims there will be. Do as Kiritsugu did and weigh lives on a balance, all to lure out your objective.\"",
+      "sourceUnit": "桜ルート四日目-01:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"...You make it sound like it isn't your problem. Like you're telling me to be bait.\"",
+      "sourceUnit": "桜ルート四日目-01:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "\"You have nothing else to offer as collateral, after all.\nI wouldn't call it a desperate measure. You lack the ability to detect other Masters, but Servants can sense other Servants. If you possess a capable Servant, then you need only wait for it to find the others.\"",
+      "sourceUnit": "桜ルート四日目-01:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe priest turns his back on me.\nI have nothing else to ask him.\nSaber's been waiting a long time, so I should get back to her.",
+      "sourceUnit": "桜ルート四日目-01:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Now I have a question for you. Are you trained in healing magecraft?\"\n\"No. So what?\"",
+      "sourceUnit": "桜ルート四日目-01:page149:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "\"In that case, you should bring me your wounded.\nThe Church mustn't overlook any victims. I will treat them, if you can bring them here in time.\"\n...\nI come to an abrupt halt on my way to the door.",
+      "sourceUnit": "桜ルート四日目-01:page150:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's a surprise. You know healing magecraft? Isn't that against Church rules?\"",
+      "sourceUnit": "桜ルート四日目-01:page151:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "\"It has never been my specialty, but I picked up the skill at some point.\nLong ago, I watched someone die of illness. It spurred me to try my hand at healing, and I had a greater knack for it than I expected.\"",
+      "sourceUnit": "桜ルート四日目-01:page152:1"
+    },
+    "page153": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page154": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0424",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The summit is close.\nWe'll arrive at the back of the temple grounds once we climb this hill.\nThere should be a large pond there, untouched by humans.",
+      "sourceUnit": "凛ルート十四日目-33:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I see it! We're almost there!\"\nTohsaka climbs the slope, pushing the branches aside.\nI watch her back, keeping an eye on our surroundings.\nAnd then...\nJust as the slope levels out onto flat ground, we come face to face with it.",
+      "sourceUnit": "凛ルート十四日目-33:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What.........is that?\"\nIt's a squirming hunk of flesh.\nThe thing enshrined in the center of the pond seems to writhe and beg for help as it spews rotting, black liquid around it.\nHow big is that thing?\nThe flesh hunk is slowly getting bigger. It looks like a floating island.\nThe pond water looks muddy and sticky, as if there's an oil spill.\n\"No way. That's the Holy Grail?\"\nI avert my gaze, feeling uncomfortable.\nWe had been breathing in that thing's exhaust as we went through the forest.\nIt endlessly spews out magical energy, polluting the pond.\nIts blood isn't colorless magical energy at all.\nThat dark stuff is a visible curse.",
+      "sourceUnit": "凛ルート十四日目-33:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Kurgh, ngh.\"\nEven looking at the black mud gives me chills.\nThe curse breaches my retinas.\nIt hammers a single, cold command into my brain.",
+      "sourceUnit": "凛ルート十四日目-33:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No one said anything about this. How are we supposed to...\"\n...stop it?\nThe flesh hunk is about thirty meters away.\nThe pond is shallow, so walking through the water shouldn't pose a problem.\nBut pushing our way through the black mud would be suicide.",
+      "sourceUnit": "凛ルート十四日目-33:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "It's a curse that erodes the mind just by looking at it.\nIf we go into it, we'll be weakened and drown before we even walk a meter.",
+      "sourceUnit": "凛ルート十四日目-33:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...That thing's about to explode.\nI don't know if it always looked like that, but it's way too small to be a host. Whatever's inside is about to break the vessel and come pouring out.\"",
+      "sourceUnit": "凛ルート十四日目-33:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"It'll break the vessel? Then...\"\n\"If Shinji's the Holy Grail, then it'll destroy him. See up there? There's a humanoid shape at the back of the mountain. You should be able to make it out.\"",
+      "sourceUnit": "凛ルート十四日目-33:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI follow Tohsaka's line of sight.\nWithin the rotting and growing flesh hunk,\nI do see something that looks vaguely human.",
+      "sourceUnit": "凛ルート十四日目-33:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Is he getting crucified?\nTorn clothes and a naked body. Ugly muscles ripple under the skin, connecting the body to the flesh hunk.\nIt's like...the shape is different. It's a bizarre image, like a bunch of grapes shaped into a human form.",
+      "sourceUnit": "凛ルート十四日目-33:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's Shinji. I can't see his face, but that definitely looks like him.\"\n\"I see. Is he alive?\"\n...",
+      "sourceUnit": "凛ルート十四日目-33:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...I don't know.\nHe isn't dead, but I don't know if I can call that \"alive.\"\n\"...His body's still breathing, at least.\"\nI can't say that I see anything like human limbs.",
+      "sourceUnit": "凛ルート十四日目-33:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I knew it. This Holy Grail was originally humanoid. So it would need a human component to function.\nShinji turned out like that because he wasn't a suitable part, but the Holy Grail basically needs a living host to function.\"",
+      "sourceUnit": "凛ルート十四日目-33:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"But it's about to explode. You said it's going to break Shinji, who is the core.\"",
+      "sourceUnit": "凛ルート十四日目-33:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"It's going to happen one way or another... If it does, there won't be any Holy Grail. All we'll get is that unknown stuff spilling out of the hole opened by the Holy Grail.\"",
+      "sourceUnit": "凛ルート十四日目-33:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Meaning that there's still time.\nThe Holy Grail is active, but it won't break as long as it doesn't return to its original wish-granting form.\nThat Goldy said he was only going to open the hole.\nHis objective is to activate the Holy Grail and then destroy its vessel. If he does that...\"",
+      "sourceUnit": "凛ルート十四日目-33:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Then that mud will pour out infinitely, on a whole different level.\"",
+      "sourceUnit": "凛ルート十四日目-33:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "There's no time to consider it.\nWe'll pull Shinji out of the flesh hunk and stop the Holy Grail...!",
+      "sourceUnit": "凛ルート十四日目-33:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, can you do anything about that mud? It looks like we could walk on it if we freeze it.\"",
+      "sourceUnit": "凛ルート十四日目-33:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. That would work for water, but that's magical energy processed into curses. Even a freezing specialist would have a hard time freezing magecraft given form.\"",
+      "sourceUnit": "凛ルート十四日目-33:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Then...\"\nWe'll just have to pray for good luck.\nThe only option is to cross the pond before the curse corrupts us, and extract Shinji.",
+      "sourceUnit": "凛ルート十四日目-33:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, are you going in just like that!? Don't do it! It'll consume you while you're in the middle of it!\"",
+      "sourceUnit": "凛ルート十四日目-33:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I won't know that until I try, and there's no more time. Saber should be fighting right now. We can't afford to hesitate...!\"\nI whirl around and move to protect Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-33:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, this is a surprise.\nTo think I'd have to look at your disfigured faces three times, mongrels.\"",
+      "sourceUnit": "凛ルート十四日目-33:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Gilgamesh sneers at us.\nHe appeared by the pond instead of the Temple, as if he predicted our moves.",
+      "sourceUnit": "凛ルート十四日目-33:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Gilgamesh!? Then who's Saber fighting right now!?\"",
+      "sourceUnit": "凛ルート十四日目-33:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's words indicate that Saber's engaged with some other enemy at the moment.\nI don't know who that might be or how she ended up fighting them.",
+      "sourceUnit": "凛ルート十四日目-33:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "There's no time to consider that right now.\nWe're facing the worst person possible.\nThis is the strongest Servant whom we were supposed to take down as a trio.\nAnd now he's here, looking at us without Saber.",
+      "sourceUnit": "凛ルート十四日目-33:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Saber isn't here? ...How dull. I guess I'll just kill you.\"\nA terrible chill oozes from the sea of mud, while bloodlust radiates from the man in front of us.\nNoble Phantasms hang ready in wait behind him.\nOne wrong move, and he'll skewer us.",
+      "sourceUnit": "凛ルート十四日目-33:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. No, that would be uninspired.\nNormally, I would never suggest this, but I will make an exception. You are my guests, so I'll grant you a slight extension on your lives.\"",
+      "sourceUnit": "凛ルート十四日目-33:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...An extension?\"\nMy fingers tense up, and I glare at the enemy.\nMy Magic Circuits are open.\nI've lined up fourteen blueprints, as many as I can manage.\nIf he snaps his fingers, I'll replicate as many swords as I can.\nThat should at least let Tohsaka get away—",
+      "sourceUnit": "凛ルート十四日目-33:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"What, you need me to spell it out for you?\nI'll allow you to be a scarecrow until the cocoon hatches. It's lonely watching over that thing by myself.\nIf you bear witness to its fate, then your lives will have had meaning.\"\n\"...!\"\nHow can I listen to that?\nOur objective is to stop the Holy Grail.\nIf there's still time, then we need to rescue Shinji from that flesh hunk!\n\"Yeah? Sorry, but we—\"\n\"We're not playing along with your games. We're going to that flesh hunk and putting a stop to your Holy Grail.\"\nBefore I can finish, Tohsaka takes the initiative\nand stares down Gilgamesh.\n\"Really, now?\"\nHis lips twist into a smile.\nThat laugh sounds like when someone decides to kill the person in front of them.\n\"W-wait Tohsaka! That's...!\"\n\"I want you to hold him off here.\nI know it's reckless, but you need to hold him off until Saber gets here. I'm going to take responsibility and pull Shinji out.\"\n\"What!? What do you mean, pull him out?\"\n\"I know what you're thinking. But that guy is still Sakura's older brother, and I can't just let him die. Besides, isn't it your credo to save everyone you can save?\"\nTohsaka starts to run toward the dark lake.\nIs she going to go into that mud as-is!?\n\"Ku...hahaha hahahahaha!!!\nWhat is this ridiculousness? Are you trying to kill me with laughter!?\"\nThat guy...\nHe laughs condescendingly at Tohsaka's determination.\n\"You...what's so funny!?\"\n\"What's that? Isn't it funny to you too, mongrel?\"\nYou're a bunch of third-rates. Go through that curse? Do you think a lowly human could walk through it when even Servants can't withstand that whirlpool of curses?\"\n\"Don't underestimate me. I can handle curses like nothing.\nBesides, I'm no half-spirit like you guys. I'm a human with flesh and bones, so I'm not going to let that thing engulf me!\"\nShe's obviously bluffing, but Tohsaka might actually be able to get across if she says so.\nLike she said, Rin Tohsaka isn't so weak as to lose to a curse like that.\n\"I see. Then do as you wish.\nThough...I won't allow it!\"\n\"Trace...\"\nA sword shoots forward.\nThe sword flies toward Tohsaka's defenseless back to skewer her...",
+      "sourceUnit": "凛ルート十四日目-33:page31:1"
+    },
+    "page32": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

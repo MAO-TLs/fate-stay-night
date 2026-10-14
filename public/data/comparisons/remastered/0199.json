@@ -1,0 +1,466 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0199",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Saber raises her sword.\nShe's already closed in on Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"No...don't Saber!\"\nI desperately sprint toward Saber, my heart racing.",
+      "sourceUnit": "セイバールート十三日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nSaber suddenly halts.\nIt's not clear whether Caster did anything.\nSaber tenses up after sensing something from Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You...that is...!\"\nSaber twists away to dodge.\nHowever...\nBony arms burst from the ground to grab her legs!",
+      "sourceUnit": "セイバールート十三日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. I wasn't expecting you to have such foresight. But this ends here, Saber!\"\nA sharp blade emerges from the folds of Caster's robe.",
+      "sourceUnit": "セイバールート十三日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "It's an oddly shaped dagger.\nThin and brittle...that blade isn't meant for killing.\nSaber regards it in disgust, and Caster strikes, clearly seeing her opportunity for victory.",
+      "sourceUnit": "セイバールート十三日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Being grabbed from the ground must have surprised Saber...\nAs Saber is unable to dodge or deflect the falling dagger, and simply takes the blow, looking astonished.\n\"Why YOU...!\"",
+      "sourceUnit": "セイバールート十三日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI hear Caster's voice from behind me somewhere.\nI can't see her expression.\nThe only thing I can do is throw myself in front of Saber and take the blow in her place.",
+      "sourceUnit": "セイバールート十三日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Gnh...owww...!!!\"\nIt wasn't graceful.\nI didn't have the confidence to just step in and take the dagger to the chest.\nSo instead, I tried to shield Saber, hugging her to obscure Caster's target.\nAnd so Caster's dagger plunges into my back, tearing through my spine in a moment of unbelievable pain.",
+      "sourceUnit": "セイバールート十三日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...gahhh!!!\"\nI stop myself from crying out in pain, and muster my strength to support Saber.",
+      "sourceUnit": "セイバールート十三日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Shi...rou...?\"\nI can't hear what she's saying, even as close as she is to my ear.\n\"Get...back... Saber, get behind...me...\"\nSaber understands before I can gather my voice to tell her to jump.",
+      "sourceUnit": "セイバールート十三日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I go flying.\nSaber shakes off the bony hands gripping her legs and carries me with her.",
+      "sourceUnit": "セイバールート十三日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, your wound...!\"\nSaber's voice is urgent.\nShe lays me gently on the ground, but the pain only grows worse.\nIt feels like scissors tore open my back and someone poured lead down my spine.\nThe pain is unreal...",
+      "sourceUnit": "セイバールート十三日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Stay calm! Shirou!!!\"\n...But I'm not exactly losing my mind over it.\nHearing Saber practically shouting actually makes me calmer.",
+      "sourceUnit": "セイバールート十三日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Dummy. You don't have to shout. I can hear you.\nThis is nothing... It just hurts. Forget about me. Take care of Caster.\"\nI point in Caster's direction, my head still down.",
+      "sourceUnit": "セイバールート十三日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I will settle things right away. Please hold on a little longer.\"\nSaber turns towards Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"So that was your Noble Phantasm, was it not, Caster?\"\nSaber's voice is harsh, angry.\nThe black shadow clicks her tongue in irritation and raises the strange dagger in her hand.",
+      "sourceUnit": "セイバールート十三日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. As you can see it is unfit for killing anyone. But as you have sensed, it is my magical trump card, with limitless power for a single purpose.\nIf you do not wish it to touch you, I advise against coming near me, Saber.\"",
+      "sourceUnit": "セイバールート十三日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Caster's talking bold, but she doesn't seem as composed as earlier.\nEven a powerful mage like Caster can't hurt Saber as long as she's only using magecraft.\nWhatever her Noble Phantasm might be, it can't hurt Saber, even if she surprises her with it.",
+      "sourceUnit": "セイバールート十三日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"You should be...beat her...no problem...\"\nI give my orders through gritted teeth.",
+      "sourceUnit": "セイバールート十三日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, are you sure, Saber? You could certainly corner me. But who will protect him while you do?\nShall I remind you that my magecraft is only ineffective against you? Can you imagine what I might do with my back up against a wall, and you not there to protect the boy?\"",
+      "sourceUnit": "セイバールート十三日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Why, you...!\"\nSaber's voice rumbles up from deep in her chest.",
+      "sourceUnit": "セイバールート十三日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "The rattling of bones grows louder.\nI'm kneeling on the ground, and Saber holds her sword, defending me as the bones surround us.",
+      "sourceUnit": "セイバールート十三日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...it.\"\nI messed up.\nEven if I managed to save Saber, there's no point with me being left so weak.\nI can't move properly, so I'm just slowing Saber down.\nCaster would be no threat to Saber alone, but with me to worry about...",
+      "sourceUnit": "セイバールート十三日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You said you came to talk, Caster?\"\n\"What? Sa...ber...?\"\n\"Please be quiet, Master. This is the best choice right now.\"",
+      "sourceUnit": "セイバールート十三日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Saber lowers her sword.\nI think I hear Caster laugh amid the sound of the rattling bones all around us.",
+      "sourceUnit": "セイバールート十三日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us hear what you have to say, Caster. Depending on what conditions you offer, we might let you go.\"\n\"Are you quite mad? Do you not understand your lives are in my hands?\nGet too bold, and I just might crush you.\"",
+      "sourceUnit": "セイバールート十三日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not misunderstand your position. You hold my Master's life in your hands, not mine.\nShould you snuff out that life, I will not hesitate to attack. I will use every ounce of power in my sword to burn you to cinders, even if I disappear as I do so.\"",
+      "sourceUnit": "セイバールート十三日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The air around us goes cold.\nSaber's words intimidate Caster. I can feel it.",
+      "sourceUnit": "セイバールート十三日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I will not touch the boy. You are my target in any case. I suppose it wouldn't hurt to let just one Master off.\"\n\"What? I was your target all this time?\"",
+      "sourceUnit": "セイバールート十三日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Indeed. I cannot simply ignore the Heroic Spirit who defeated Berserker. You and I, along with Lancer, are the only Servants who remain. With you as an ally, Lancer would be no threat at all.\"",
+      "sourceUnit": "セイバールート十三日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Only three remain? Does that mean Assassin was defeated?\"\n\"Who knows? But he is gone now, so that must mean he was defeated. A Servant who can't even protect his own lord deserves no more than that.\"",
+      "sourceUnit": "セイバールート十三日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nAssassin was defeated?\nDoes that mean the Master in Ryudou Temple is gone?\nI didn't fight them, or even know who they were, but now there's one less Master.\nSo the only remaining Servants are Saber, Caster, and Lancer, who hasn't shown up since that first night.",
+      "sourceUnit": "セイバールート十三日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. This conversation is over.\nWhat I want is your Noble Phantasm. If you do not wish your Master to die, then kindly give me your sword.\"",
+      "sourceUnit": "セイバールート十三日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"There would be no point in doing so. Only I can wield this sword.\nIf you are a Heroic Spirit, you should know very well that a Noble Phantasm can only be used by its owner.\"",
+      "sourceUnit": "セイバールート十三日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yes. I suppose I will just have to take you as well then, Saber.\nNo matter how skilled the knight, they can be persuaded once captured. And you are my type too.\nI so look forward to teaching you manners.\"",
+      "sourceUnit": "セイバールート十三日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Her voice drips with amusement.\n\"Guh...!\"\nI feel myself on the verge of passing out, even as my anger boils over.\nI try to shove the pain aside and start to force myself to stand on numb legs.",
+      "sourceUnit": "セイバールート十三日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"You piece...of...!\"\nI'm not going to let Saber get captured because of me.\nI decided I'm going to protect Saber, so I'm not letting a wound like this bring me down—",
+      "sourceUnit": "セイバールート十三日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "I grab my wooden sword and start slashing at the bones surrounding us.",
+      "sourceUnit": "セイバールート十三日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"No, Shirou!\"\nSaber's voice is brittle, tense.\n\"Oho. If you want to kill yourself, I won't stop you.\"\nCaster mocks me as I struggle.\nBones crack and rattle.",
+      "sourceUnit": "セイバールート十三日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "And as if to muffle all those sounds...\n...the bones are swept aside in the blink of an eye by a sudden volley of arrows.",
+      "sourceUnit": "セイバールート十三日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"What...!?\"\nWe all stand, dumbfounded.\nThe arrows that rained down on us disappear as if they had been an illusion.\nBut they weren't.\nThe entire horde of bones is gone.",
+      "sourceUnit": "セイバールート十三日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...!? Who's there!?\"\nCaster looks up.\n...\nSaber must have noticed earlier.\nWell before Caster, she stares up towards the wall in disbelief.",
+      "sourceUnit": "セイバールート十三日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't understand what I'm seeing.\nThere is a golden figure standing, with the moon behind them.\nIt's a man, clad in golden armor, looking down at the yard with a cruel smile.",
+      "sourceUnit": "セイバールート十三日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-who's there!?\"\nCaster raises her voice, instinctively realizing that this is the one who annihilated her troops.",
+      "sourceUnit": "セイバールート十三日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe gives no answer. He's not even looking at Caster.\nHis eyes are fixed on one person alone:\nSaber.",
+      "sourceUnit": "セイバールート十三日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Answer! I am asking who you are!\"\nCaster's voice is heavy with emotion.\nThe golden-armored man finally looks at her.",
+      "sourceUnit": "セイバールート十三日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nCaster gasps as the man's red eyes bore into her.\nHis gaze is impossibly cold.\nHe doesn't even see Caster as human.\nI can tell, as far away as I am.\nI don't blame Caster for being intimidated, like some icy hand has a grip on her heart, since she looked straight into his eyes.",
+      "sourceUnit": "セイバールート十三日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-why are you getting in my way?\"\nCaster's voice trembles as she speaks.\nShe must know she's doomed if she doesn't do something.\nBut...",
+      "sourceUnit": "セイバールート十三日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I have no reason to address myself to a mongrel. Begone, clown.\"\nHis answer comes as a death sentence.",
+      "sourceUnit": "セイバールート十三日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "I hear a loud snap.\nBy the time I realize it's the sound of him clicking his fingers, the tragedy has begun.",
+      "sourceUnit": "セイバールート十三日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Myriad weapons appear in the air, shooting toward Caster like bullets from a machine gun.",
+      "sourceUnit": "セイバールート十三日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nCaster raises her arm.\nA conceptual shield envelops her.\nIt forms a glassy film in front of Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "It is likely every bit as durable as Berserker himself.\nBut her efforts are probably fruitless, as the barrier is merely glass.\nHer crystalline barrier shatters under the deadly rain of so many weapons.",
+      "sourceUnit": "セイバールート十三日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nShe sounds utterly dumbfounded.\nWith not a modicum of concern for Caster as she so pitifully tilts her head in wonder, the weapons tear through her dark robe.\nThey are merciless.\nSpears tear into her, sending fabric flying, only for yet more of them to plunge into her body.",
+      "sourceUnit": "セイバールート十三日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "Swords cut down her falling form, while arrows sail toward an arm as it is about to hit the ground. An axe chops off a head about to complain of the pain... All of it brings Caster to untold peaks of agony.\nShe can't possibly survive.\nCaster, succumbing to an endless hail of so many different weapons, is no longer even recognizably human.",
+      "sourceUnit": "セイバールート十三日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "The wind flows.\nHer tattered, empty robe floats away.\nThe shredded pieces of it fly skyward in the evening breeze.\nThat torn robe tries valiantly to hold its form.\nMaybe because it's the only thing remaining to remind us of Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm completely speechless.\nMy frozen mind is fixed on the miserable remnants of that robe as they float away.",
+      "sourceUnit": "セイバールート十三日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"Insolent fool. I told her to begone from my sight. The sensible thing to do would have been to graciously commit suicide before me!\"\nThe man in gold grunts contemptuously.",
+      "sourceUnit": "セイバールート十三日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nI'm...not hallucinating.\nThe dark robe twists like the coils of a snake, then sprouts wings to fly away.",
+      "sourceUnit": "セイバールート十三日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "But it's too late.\nI don't know what the man did.\nI only see a crack in the night sky itself.\nLike a wave breaking out at sea, the fault line engulfs the fluttering robe.\nIt's like...a person being run over by a steamroller.",
+      "sourceUnit": "セイバールート十三日目-09:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ah...!!!\"\nThe robe falls.\nCaster is beneath it, unscathed.\nAnd then...\nA storm of magical swords rains down onto her.",
+      "sourceUnit": "セイバールート十三日目-09:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaaa, ah...AHHHHHHHHHHHH!!!\"\nHer scream splits the night.\nMore swords fall upon her in response, and her scream grows louder.",
+      "sourceUnit": "セイバールート十三日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ha..ggh...pull them out... It hurts... Pull them out... Ple...ase...!!!\"\nCaster must be able to heal herself like Saber.\nEven all those swords impaling her is still not enough to kill her, but it's hard to watch.",
+      "sourceUnit": "セイバールート十三日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "The torrent of swords do not stop.\nEach weapon is different; no two are alike.\nAnd, as much as I don't want to admit it, each of the weapons is a magical sword or spear, and is easily a match for a Servant's Noble Phantasm.",
+      "sourceUnit": "セイバールート十三日目-09:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"No way...that isn't possible... There can't be so many...\"\nAn inexhaustible supply of Noble Phantasms rains down onto Caster.\nSeeing the way she struggles under it is just...",
+      "sourceUnit": "セイバールート十三日目-09:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Kugh...am I...going to die...? Am I going to\n...die from...something so ridiculous...as...ha...\nHa. How...funny... This must be some...joke...aha...ha...\nHaha...ahahahaha...AHAHAHAHAHAHAHAHAHA\nAHAHAHAHAHAHAHAHAHAAHHAAHAHHAHAHA\nHAHAHAHAHAHAAHAHAHAHAHAHHHHHHHHHH\nAAAAAAAAAAAAAAAAAAAAAAA!!!!!!!!!\"",
+      "sourceUnit": "セイバールート十三日目-09:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "And that is the end of Caster.\nShe disappears, along with the black mist that was hiding her.",
+      "sourceUnit": "セイバールート十三日目-09:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "The infinite cycle of torture that seemed to drag on forever lasted, in actuality, about ten seconds.\nDuring that time...\nSaber stood, scowling at the golden knight.",
+      "sourceUnit": "セイバールート十三日目-09:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. A mere mage even mentioning capturing what belongs to the King of Knights is a great sin.\nI am king, and she is mine. Any fool who meddles with a king's treasure is fit for nothing else but such a death.\"",
+      "sourceUnit": "セイバールート十三日目-09:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Now then...it has been a while, Saber. Do you remember the decision I made?\"\nHis tone turns amicable as he addresses Saber.\n...\nBut Saber doesn't answer.\nShe only glares all the more intensely at him.",
+      "sourceUnit": "セイバールート十三日目-09:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Why do you look at me like that? Have you not made your choice yet?\nIt's been ten years.\nThat should have been time enough to decide... Ah, I suppose it has only been ten years for me. To you, it must seem like yesterday.\nWhat a foolish woman you are, making me wait so long.'",
+      "sourceUnit": "セイバールート十三日目-09:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "He laughs heartily.\nMy heart's pounding.\nPartly from the disaster I just witnessed.\nBut beyond that, the way he's looking at Saber is making me nauseous.",
+      "sourceUnit": "セイバールート十三日目-09:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, some mongrels yet remain.\"\nHe glances toward the house, annoyed.\n\"Hm?\"\nI look...and see Tohsaka and Illya on the veranda in front of the living room.",
+      "sourceUnit": "セイバールート十三日目-09:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"What is that...?\"\nIllya looks up at the man like she's just seen a ghost.\nShe strains her eyes for a moment, then shakes her head in disbelief.",
+      "sourceUnit": "セイバールート十三日目-09:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"No way...who are you?\"\n\"Hm? Can't you tell, fool? I am one of the Heroic Spirits you know so well.\"\n\"You can't be!!!\"\nIlly jumps off the veranda and glares at the man as if in challenge.",
+      "sourceUnit": "セイバールート十三日目-09:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know...I don't know you! There shouldn't be a Servant I don't know about!!!\"",
+      "sourceUnit": "セイバールート十三日目-09:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha..!? Wait, Illya!\"\nMy words don't reach her.\nIllya releases a mass of magical energy straight at the man.",
+      "sourceUnit": "セイバールート十三日目-09:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "I hear it rushing through the air.\nHe does nothing.\nA mirrored shield appears in front of him and reflects Illya's attack back at her.",
+      "sourceUnit": "セイバールート十三日目-09:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nShe'd been so blind and desperate in her attack that now she has no time to react to it.\nIllya can only stand there as her attack rebounds toward her.",
+      "sourceUnit": "セイバールート十三日目-09:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...that hurt...\"\nTohsaka steps in and saves her, blocking the attack.",
+      "sourceUnit": "セイバールート十三日目-09:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. I see. So we have an odd one this time around.\nI see they've done a bit of creative thinking to avoid repeating their mistake last time.\"\nHe looks down at Illya, scrutinizing her.\nHe looks at Illya the same way he looks at Saber...coldly, as though appraising prized possessions.",
+      "sourceUnit": "セイバールート十三日目-09:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"No...no, no, no, no, NO! I hate you!\"\nIllya glares at the man while Tohsaka tries to hold her back.",
+      "sourceUnit": "セイバールート十三日目-09:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"I could not possibly care less. Come now, open yourself up. Quickly now. You are the fifth one, after all.\"\nHe says it so simply.\nI'm not sure why that had any effect on her.\n\"Ah...n...no...\"\nIllya trembles violently, then slumps to the ground.",
+      "sourceUnit": "セイバールート十三日目-09:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "That's it.\nNothing else can happen.\nTohsaka and I can only look up at the man.\nWe completely understand.\nHe's not looking at us.\nIf either of us so much as speaks up, we'll meet the same fate as Caster.",
+      "sourceUnit": "セイバールート十三日目-09:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut not Saber.\nHer silence as she stares up at the golden knight is entirely different than ours.",
+      "sourceUnit": "セイバールート十三日目-09:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"How and why have you manifested, Archer?\"\nSaber tries to keep her voice under control.\nTohsaka and I can only gasp in surprise.",
+      "sourceUnit": "セイバールート十三日目-09:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"I require no reason. The Holy Grail is mine. What reason could I need to collect what is mine?\"\n\"Nonsense. You are not that kind of hero. Or rather...\"",
+      "sourceUnit": "セイバールート十三日目-09:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop. Another word and you will be forced to fight, King of Knights.\nI intended to do so, but I've lost interest. This place is too unsightly. It is not fit to celebrate our reunion.\"",
+      "sourceUnit": "セイバールート十三日目-09:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "And with that, the man in gold turns away.\nHe turns his back to us as if to demonstrate that we are no threat.\n\"We shall meet again, Saber.\nMy decision remains unchanged since our last meeting. Be prepared to make your choice by the time we next meet.\"",
+      "sourceUnit": "セイバールート十三日目-09:page89:1"
+    },
+    "page90": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page91": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0490",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "When I awake to the bright sunshine, my body feels completely recovered.\nMy temperature is normal, and my limbs don't feel heavy anymore.",
+      "sourceUnit": "桜ルート七日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"It's still before six, huh? I wonder if Sakura's awake.\"\nIf she is, then she should be preparing breakfast.\nIf I don't change and go to the kitchen soon, she'll have to do it all by herself.",
+      "sourceUnit": "桜ルート七日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going on ahead, Saber. Come to the living room in a bit.\"\nI'm not brave enough to slide open the partition, so I just tell her and retreat.\nIt could be bad if I open the door with unlucky timing and see Saber sleeping.",
+      "sourceUnit": "桜ルート七日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"And then grandpa fell down.\nHe was like, 'I'm trying to get some sleep! Settle down, tiger cub!'\nHow rude. That makes me sound like a stray cloud!\"",
+      "sourceUnit": "桜ルート七日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee pouts, going on about something unfair as she eats.\nEvidently, she didn't come over last night because her grandfather collapsed.",
+      "sourceUnit": "桜ルート七日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"? Senpai? What's a stray cloud?\"\n\"It's literally Fuji-nee. Someone who you just can't get a handle on because they're so floaty and carefree.\"\nI answer instantly.",
+      "sourceUnit": "桜ルート七日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Not true! It means 'deadbeat!'\nIn other words, someone who goes around all day doing nothing but making fun of people in town, and living a comical life!\"",
+      "sourceUnit": "桜ルート七日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Sakura and Saber nod in understanding.\nIt goes without saying which part of that they agree with.",
+      "sourceUnit": "桜ルート七日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura, is your grandfather in poor health?\"\n\"No way. Our family's famous for never catching colds. Grandpa just threw his hip out because he forgot his age and tried to sumo wrestle one of the younger guys.\"\n\"Sumo? What is sumo, Taiga?\"",
+      "sourceUnit": "桜ルート七日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Hmm, it's a little hard to explain in words. It's a martial art where you push no matter what. If they pull, you push. If they push, you push back. It doesn't use any weapons, but fists aren't allowed. No kicking, either.\nBasically, you win if you get a good grip on your opponent's body and throw 'em on the ground!\"",
+      "sourceUnit": "桜ルート七日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So it is a pure contest of strength?\"\n\"Yeah. And no clothes. Both fighters get naked and go man-to-man.\"",
+      "sourceUnit": "桜ルート七日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"N-naked!?\"\n\"Yup. They wear a mawashi to hide their private parts, though. Oh, a mawashi is the same as a fundoshi. If you want to know more, ask Shirou. He knows more about this stuff than me.\"\nFuji-nee slurps her miso soup while saying something outrageous about me.",
+      "sourceUnit": "桜ルート七日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Shirou, what is a fundoshi?\"\n...\nIt would be easy to explain, but I hesitate.\nThis is Saber I'm talking to, and it's the middle of breakfast.\nWhy do we have to talk about underwear?",
+      "sourceUnit": "桜ルート七日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...No idea. Sumo's not in my wheelhouse. Ask someone else.\"\n\"Liar. You have a mawashi!\"",
+      "sourceUnit": "桜ルート七日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no, I don't! Your gramps just made me do sumo that one time so I borrowed one!\nAnd how many years ago are we talking here!?\"",
+      "sourceUnit": "桜ルート七日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahahaha, that's right. You were little back then, so you kept losing at sumo. Grandfather said you should try a different sport since you won't give up until you win, so he made you pick up a bow, instead.\"",
+      "sourceUnit": "桜ルート七日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nFuji-nee laughs in delight.\n...I wonder why.\nShe's in an awfully good mood today, and twenty percent more lively than usual.",
+      "sourceUnit": "桜ルート七日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Fuji-nee. Clock's ticking. Don't you need to get out of here before seven to be on time?\"\n\"Hm? Oh, today's fine. They cancelled all morning club activities yesterday. But yeah, I do have a faculty meeting, so I'd better get going soon.\"",
+      "sourceUnit": "桜ルート七日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Is the kyudo club skipping morning practice?\"\n\"Yeah. Oh right, I didn't tell you yet. There was a small accident yesterday. Someone in the track and field club got injured. Ms. Kasama in the infirmary said that they didn't get enough sleep, so we should cancel morning practice for now.\"",
+      "sourceUnit": "桜ルート七日目-15:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh. But do they really need to stop everything just for one student?\nAnd if they didn't get enough sleep, isn't that their own...\"\nIt's their own responsibility to go to bed on time. But maybe...",
+      "sourceUnit": "桜ルート七日目-15:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee. Exactly how many students got hurt?\"\n\"Hmm...more than ten, but less than twenty, I think?\"\n\"Th-that many?\nHow is everyone else in the kyudo club—\"",
+      "sourceUnit": "桜ルート七日目-15:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"So, nobody in our club got hurt, but several of them looked pretty tired yesterday.\n...And things are pretty dangerous lately, you know? I can't ignore students' mental fatigue either, so I made the decision not to stress them out any more than necessary. Club itself isn't a source of stress, but you gotta admit it puts a physical burden on them.\"\nFuji-nee shrugs in exasperation and holds out her bowl.",
+      "sourceUnit": "桜ルート七日目-15:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Seconds, please. I'll have half a bowl of rice.\"\n\"Here you go. You're not eating much this morning.\"\n\"Yeah... I'm feeling queasy just thinking about all the work waiting for me at school, so I don't have an appetite.\"",
+      "sourceUnit": "桜ルート七日目-15:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "She half-sobs pitifully.\nHm.\nApparently, our resident tiger is saying that she can't go all-out on two and a half bowls of rice.",
+      "sourceUnit": "桜ルート七日目-15:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"But you seem good today, Sakura. You're on your second bowl.\"\n\"I'm in a growing period. Lately, I get hungry right away, so I need to eat more to get my fill.\"",
+      "sourceUnit": "桜ルート七日目-15:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Sakura proudly puffs up her chest.\nUm...\nI'd say she's already had her growth spurt and she's good as she is. Maybe she's just being influenced by the other gluttons in the house.",
+      "sourceUnit": "桜ルート七日目-15:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Indeed. Sakura, you lack sufficient muscle to be an archer. I think nutrition would be good for you.\"\nSaber nods through a mouthful of food.\n...I can't tell if they're on the same page or not.",
+      "sourceUnit": "桜ルート七日目-15:page26:1",
+      "recoveredDelimitedTail": true
+    },
+    "page27": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

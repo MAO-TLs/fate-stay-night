@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0550",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's magical examination ends rather quickly.\nShe lit some incense and did something that looked like a tarot card reading. Then, I answered some questions that reminded me of a personality test.",
+      "sourceUnit": "桜ルート九日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "According to her...\n\"You don't correspond to anything. I won't bother trying anything else.\"\nShe gives up quickly on trying to identify my Magic Circuits.",
+      "sourceUnit": "桜ルート九日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. So you can't tell?\"",
+      "sourceUnit": "桜ルート九日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's rude. I figured out that you don't correspond to any of the Five Great Elements. Any consecration beyond that falls outside of my area of expertise, so there isn't any point in going further, is there?\nNext, show me the magecraft you can use. I can make some estimates based on that.\"",
+      "sourceUnit": "桜ルート九日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...So she says.\nNext, I practiced my Strengthening magecraft on the clay lump that Tohsaka gave me.",
+      "sourceUnit": "桜ルート九日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Clay is a lump of ether, and always returns to being a lump no matter what you do to it, so it's very conducive to magical energy.\nI was a little worried it might get stuck once I Strengthened it, but...",
+      "sourceUnit": "桜ルート九日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's like a shiniku, so don't worry about it. No matter how much energy you cram into it, it'll go back to how it was in a day.\"\n...so she said.\nBy the way, she said a shiniku is a lump of meat that never gets any smaller no matter how much of it you eat. It's called a shirou in Chinese mythology.",
+      "sourceUnit": "桜ルート九日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Anyway, I tried Strengthening the lump of clay.\nI didn't want to fail in front of her, but I only managed to pull it off twice in ten attempts.\nIt even took me much longer to manifest my Magic Circuit than I did when Saber was still around.",
+      "sourceUnit": "桜ルート九日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "While I practiced Strengthening, Tohsaka asked me questions, such as,\nwhether I came up with my own incantation, whether I can use magecraft other than Strengthening, how I was trained, what I form mental images of most easily, and so on.",
+      "sourceUnit": "桜ルート九日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "And...\nTohsaka's face darkened, until she eventually stopped saying anything.\nI don't know what I did to upset her, but having her make that face this close to mine was very uncomfortable.",
+      "sourceUnit": "桜ルート九日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Um, maybe this is a stupid question, but are you regretting teaming up with me because of how inexperienced I am?\"",
+      "sourceUnit": "桜ルート九日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, yeah but...you aren't just inexperienced. It's like your way of thinking is incorrect. I'm surprised you've managed to live this long, operating like that.\"",
+      "sourceUnit": "桜ルート九日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"? Earth to Tohsaka! I don't follow!\"\n\"...\"\nWhy are you glaring at me like that?",
+      "sourceUnit": "桜ルート九日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. Looks like I'll need to fix you from square one. Going back to what I asked before, do you still have any Projections in your atelier?\"\n\"Yeah. They stay as long as you don't break them, don't they?\"",
+      "sourceUnit": "桜ルート九日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "She asked me that earlier, when I mentioned trying Projection during breaks when Strengthening wasn't going well.\nTohsaka pressed me hard for details about that and, just once, asked me to Project something using the clay lump.\nShe asked me to make an earthenware pot. It went well until about halfway, then it failed.",
+      "sourceUnit": "桜ルート九日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. All right, I'm going to teach you how to flip your switch on and off.\nIt's actually a lot faster to create the switch inside your body, so I want you to sleep over tonight. You'll need the sleep after such a rough procedure.\"",
+      "sourceUnit": "桜ルート九日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, sleep over? Here?\"\n\"Why are you looking at me like that? Don't worry, I won't cut you open with a scalpel. I'm just going to have you swallow something. You won't be able to move for a while because of how strong it is.",
+      "sourceUnit": "桜ルート九日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, uh, I wasn't worried about the procedure...\"\n...I look at the clock.\nIt's already past five o'clock.\nI didn't notice because of the cloudy weather, but it's already evening.",
+      "sourceUnit": "桜ルート九日目-15:page17:1"
+    },
+    "page18": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

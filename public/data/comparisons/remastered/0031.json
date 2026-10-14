@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0031",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm in a fire.\nHouses crumble and people burn.\nNo matter where I go, all I see is crimson.\nThis is what I saw ten years ago.\nIt's a long-forgotten memory of the past.\nI run through the scenery, recreating what happened.",
+      "sourceUnit": "セイバールート三日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I know it's a nightmare, but there's no way to escape.\nI run and run...I keep running.\nEvery time the scene ends with me as a child running out of energy and getting rescued.",
+      "sourceUnit": "セイバールート三日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nI wake up, feeling...wrong.\nA hand to my forehead tells me I'm sweating, even though it's winter.",
+      "sourceUnit": "セイバールート三日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, it's late...\"\nThe clock reads past six.\nI hear the soft sound of chopping from the kitchen.\n\"Sakura's early again.\"\nNot really the time to be impressed by what an early riser she is.\nI need to hurry up and get ready so I can help her with breakfast.",
+      "sourceUnit": "セイバールート三日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. What are you going to do today? It's Saturday, so do you have work in the afternoon?\"\n\"No, not today. I might help Issei out. Why do you ask?\"\n\"Oh, no reason. I was hoping you could swing by the dojo if you had nothing to do, 'cuz I'm kind of in a bind this month.\"\n\"A bind? Why?\"",
+      "sourceUnit": "セイバールート三日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"My bank account's hurting, you see. And it'd be a HUGE help if sooomeone made me lunch for a while.\"\n\"Yeah, not happening. It's your mess; you can afford to miss a meal or two.\"\n\"Hmph! I wasn't expecting anything from you, Shirou. The only person I can count on is Sakura. Right, Sakura?\"",
+      "sourceUnit": "セイバールート三日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. If you don't mind having what I have, I can make you something.\"\n\"Ah, good, good! Then let's eat lunch together today!\"",
+      "sourceUnit": "セイバールート三日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Breakfast goes smoothly.\nToday's menu includes the typical sides, and the main dish is braised lotus root, konnyaku, and chicken.\nSakura probably didn't need to make such an elaborate dish for breakfast, but I'm guessing she made extra to pack for lunch.\nSakura's a member of the kyudou club and Fuji-nee is the club's faculty advisor.\nNobody would think it was weird for the two of them to have the same lunch.",
+      "sourceUnit": "セイバールート三日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh by the way, Shirou, you woke up late today. Did something happen?\"\nFuji-nee looks my way as she sips her miso soup.\nAs much as she's just kind of out there most of the time, she's pretty sharp about this kind of thing.",
+      "sourceUnit": "セイバールート三日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Had a dream about the past and woke up feeling crappy. That's it.\"\n\"Oh, so the usual. Nothing to worry about then.\"\nIt's not an interesting topic for Fuji-nee, so she shifts the conversation in another direction.\nThat doesn't bother me one bit.",
+      "sourceUnit": "セイバールート三日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Ten years ago.\nI used to have nightmares a lot, back when I couldn't shake the memory of that fire.\nBut as time went on, those nightmares grew less and less frequent, and I've gotten to the point where the dreams don't bother me anymore.\nI've been told my nightmares were pretty bad back then, though. Fuji-nee was already with us by then, and she's been sensitive about changes in me since.",
+      "sourceUnit": "セイバールート三日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, are you hungry at all? Your dream this morning hasn't affected you, has it?\"\n\"Nope. I'm fine, so quit using my dream as an excuse to try stealing my food.\"\n\"Awww. I'm happy to see you turned out to be such a strong boy, but I wish you'd wound up a little more gentle.\"",
+      "sourceUnit": "セイバールート三日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Right back at you. Since I'm basically your younger brother, I kind of wish you'd ended up more delicate and sweet yourself.\"\nWe both huff and turn our heads away from each other.\nSeeing that as a sign that I am fine, Fuji-nee smiles in relief.",
+      "sourceUnit": "セイバールート三日目-08:page12:1"
+    },
+    "page13": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート三日目-08:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

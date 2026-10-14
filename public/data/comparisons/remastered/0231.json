@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0231",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind's made up.\nMy chances of victory are abysmal.\nEven so...",
+      "sourceUnit": "セイバールート十五日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to fight. I've got unfinished business with him.\nI can't back off, no matter what. I have to defeat Kotomine.\"",
+      "sourceUnit": "セイバールート十五日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I need to settle things with him.\nAs a survivor of the disaster ten years ago...\nAs one of the orphans...\nAs the son of Kiritsugu Emiya.",
+      "sourceUnit": "セイバールート十五日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then I'll give you this. It's meant for self-defense, but it's better than nothing.\"\nTohsaka reaches behind her and takes out a dagger.",
+      "sourceUnit": "セイバールート十五日目-15:page3:1"
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

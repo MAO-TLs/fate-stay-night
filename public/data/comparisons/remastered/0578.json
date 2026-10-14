@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0578",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nIf I'm being honest, it's hard to deal with her.\nStill, I know that Rider is on our side.\nRider being here isn't what bothers me. Rather...",
+      "sourceUnit": "桜ルート十日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Aren't you going to eat, Rider? Sakura and I are eating, so it's awkward if you just sit there.\"\n...I feel uncomfortable that Rider is the only one not eating.",
+      "sourceUnit": "桜ルート十日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I am not eating.\"\nOh. She's kinda upset.\n\"Why not? Servants get hungry, too. Saber didn't say so, but she ate a lot.\"",
+      "sourceUnit": "桜ルート十日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"She is different from the rest of us. I have no interest in human nutrition, and to begin with...your way of eating is not suited to me.\"",
+      "sourceUnit": "桜ルート十日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. If you can't use chopsticks, you should have just said so.\"\n\"Huh? Senpai?\"\n\"Hang on. I'm going to get Rider a spoon and some plates.\"",
+      "sourceUnit": "桜ルート十日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, I'll make an omelette, too. It'll just take a moment.\"\n\"Sakura.\"",
+      "sourceUnit": "桜ルート十日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay, Rider. This is our first meal together, you know. If you're going to be taking care of me, then it's the least we can do.\"\nSakura comes to the kitchen cheerfully.",
+      "sourceUnit": "桜ルート十日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Should we make her soup while we're at it? We have extra consommé.\"\n\"Oh, that's a good idea. There are tomatoes too, so let's get it done in a jiffy!\"",
+      "sourceUnit": "桜ルート十日目-03:page7:1"
+    },
+    "page8": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十日目-03:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

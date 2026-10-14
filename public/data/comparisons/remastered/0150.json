@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0150",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't leave Saber alone.\nRider's gone, and the book that acted as Shinji's Command Spell has burned to ash.\nShinji doesn't have a Servant anymore, and he's lost his Command Spells.\nThe contest is good as over.\nSaber is my priority now.",
+      "sourceUnit": "セイバールート十日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...!\"\nI rush to her.\nShe's not holding the golden sword anymore.\nIt's disappeared, and now there's just Saber, lying on the ground.",
+      "sourceUnit": "セイバールート十日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nSaber is in bad shape.\nBeads of sweat trickle down her brow, and her breath is shallow, labored. She looks like she's got a fever.",
+      "sourceUnit": "セイバールート十日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"No way... Hey, Saber! What's going on!?\"\nI call out to Saber nervously, but she doesn't respond.\n...She's out cold.",
+      "sourceUnit": "セイバールート十日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Sa...ber...?\"\nI touch her forehead.\n\"It's hot!\"\nI jerk my hand away.\nI-it's unnaturally hot!\nShe's got to be running a fever of over forty degrees!",
+      "sourceUnit": "セイバールート十日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber! Hey, pull yourself together!\"\nI call out to her, but her only response is shallow, anguished breathing.\n\"...Ngh!\"\nI don't know what the hell's going on.\nI don't know what to do, but I can't just stand around.",
+      "sourceUnit": "セイバールート十日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to take you home! I'll deal with any complaints later!\"\nI lift Saber up.\nShe's so light.\nI knew that, of course...but now she seems even lighter.\nNo, more than that, she's...",
+      "sourceUnit": "セイバールート十日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"She's warm. That means she's still alive.\"\nSaber is still the person I've known all this time.\nI'm pissed with myself for even hesitating.\nDamn! What's it matter if she's a hero?\nNo matter who Saber is, she's here, and she's still warm.\nHow much of an idiot was I for putting up this wall between us before!?",
+      "sourceUnit": "セイバールート十日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"We're going home quick. Just hold still, Saber!\"\nI start running, Saber in my arms.\nThere's no sense of triumph from this victory.\nAll I feel is Saber in my arms, barely breathing.",
+      "sourceUnit": "セイバールート十日目-06:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

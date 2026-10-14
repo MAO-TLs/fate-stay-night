@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0089",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Fools rush in where angels fear to tread.\nNo matter how pretty she is, Rider reeks of blood.\nThat alone should be enough to keep me on my guard.",
+      "sourceUnit": "セイバールート六日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Well, and...\nI really don't know where to look, so talking to her is really not a priority.",
+      "sourceUnit": "セイバールート六日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...What is it?\"\n\"Guh...!\"\nI quickly avert my gaze.\n\"N-nothing! Th-thanks for seeing me off!\"\nI start running to get away as fast as possible.",
+      "sourceUnit": "セイバールート六日目-04:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

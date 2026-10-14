@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0353",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'm out of breath.\nI don't know where I ran, but when I realize it, I see a familiar Western-style mansion towering in front of me.",
+      "sourceUnit": "凛ルート十一日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, over here...! Are you conscious? Can you walk?\"",
+      "sourceUnit": "凛ルート十一日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...I run, being pulled by someone.\nMy body is strangely light.\nIt must've gotten lighter after losing my insides, or did I lose my senses?\nThe only weight I feel is Fuji-nee's body that I'm holding with one arm.",
+      "sourceUnit": "凛ルート十一日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I can't see well.\nI'm not sure where I'm walking or what I'm doing.",
+      "sourceUnit": "凛ルート十一日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Lay Ms. Fujimura there... Hey, are you listening, Shirou!? It's safe here, so just let go...!\"",
+      "sourceUnit": "凛ルート十一日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Someone takes away the person I'm holding.\nThe important weight disappears.\nMy body becomes heavy in return.\nMy body that was once light turns into iron, and I collapse, unable to even stand.",
+      "sourceUnit": "凛ルート十一日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...! Archer, hurry...! Take him to my room so I can treat him...!\"",
+      "sourceUnit": "凛ルート十一日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I hear someone's voice.\nMy body is heavy and hot.\n...I imagine turning red.\nDoes it get this hot when you put steel in fire to make a sword?\nThe heat gradually cools down as I pass time uselessly.",
+      "sourceUnit": "凛ルート十一日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nA room I don't know.\nI look up at the ceiling with a boiling head.\n...That's all I can do.\nIt seems like I'm lying on a bed.",
+      "sourceUnit": "凛ルート十一日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't heal this wound. You probably can't fight any longer with this wound, but... You're not a Master anymore, so I guess there's no reason to fight either.\"",
+      "sourceUnit": "凛ルート十一日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...A voice that has regained its calm unlike earlier.\nThe person who brought me here and treated my wound...\n\"...This is it. You don't have to fight anymore, Shirou.\"\n...Said those words.",
+      "sourceUnit": "凛ルート十一日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nI try to say something and my vision turns black.\nMy eyelids fall.\nAnesthesia puts my body to sleep.\nI feel someone leaving and hear the sound of a door closing.\n...\nMy consciousness cut out there.",
+      "sourceUnit": "凛ルート十一日目-12:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0690",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "If I recall correctly...\nI think she asked me whether I would keep fighting until the end, no matter what.",
+      "sourceUnit": "桜ルート十五日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rider. I'll fight until the very end. I want to save Sakura, just like you want to protect her. I don't know how it'll turn out, but I can't run from this.\n...I'll fight to bring Sakura back. If you're going to stop me, then I'll do everything I can to eliminate you.\"\n\"...\"",
+      "sourceUnit": "桜ルート十五日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't answer.\nAfter an oppressive silence, Rider speaks.",
+      "sourceUnit": "桜ルート十五日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I understand your conviction. But that cannot save Sakura.\"\nShe gives me a curt reply, and vanishes.",
+      "sourceUnit": "桜ルート十五日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider...?\"\n\"Fight your war. I will do whatever I can to save Sakura.\"",
+      "sourceUnit": "桜ルート十五日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Her voice is distant, and it doesn't sound like she's coming back.\n...Rider's going off to fight on her own. She can't return to her Master, nor does she want to rely on us.",
+      "sourceUnit": "桜ルート十五日目-17:page5:1"
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

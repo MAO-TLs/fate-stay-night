@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0280",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't say for sure.\nI'm sort of in Tohsaka's debt. And really, I just don't want to fight her in the first place.",
+      "sourceUnit": "凛ルート五日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. I can't say for sure yet.\"\nThere still might be more even if we defeat the Master at school... There's that monster Berserker as well. We should work together for as long as we can.\"",
+      "sourceUnit": "凛ルート五日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. I will obey if my Master says so, but...that will only make it harder for you. Please do not regret your choice when the time comes.\"\nSaber takes a bow and dismisses herself.",
+      "sourceUnit": "凛ルート五日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Yeah, I know.\nThe more we cooperate, the greater the likelihood that there will be an inevitable fight in the end.",
+      "sourceUnit": "凛ルート五日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "It'd be easier if I just got over this mental hurdle and considered her my enemy from the get-go.\nOtherwise it'll cut deeper once we do part ways.\nBecause whether I win or Tohsaka wins, the survivor has to finish off the loser...",
+      "sourceUnit": "凛ルート五日目-17:page4:1"
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

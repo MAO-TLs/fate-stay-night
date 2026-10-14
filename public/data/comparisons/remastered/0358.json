@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0358",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Haah... Haah...\"\nAnd I fall.\nI can't even breathe properly.\nThe wound on my shoulder is red and swollen, and it hurts like crazy when I breathe.",
+      "sourceUnit": "凛ルート十一日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm unable to stay conscious.\nIf I let my guard down, I'll fall asleep immediately.\n...No, I'm not even sure if I'm awake in the first place.\nIt's not even clear how I made it back here from that rooftop or why I came home.",
+      "sourceUnit": "凛ルート十一日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...My thoughts become ambiguous.\nThe only certain thing is my beating heart.",
+      "sourceUnit": "凛ルート十一日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Tohsaka told me not to get involved.\nBecause I am powerless and don't have a reason to fight anymore.",
+      "sourceUnit": "凛ルート十一日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut, that's wrong.\nI knew more than anyone that I was powerless.\nI had a different reason for fighting.",
+      "sourceUnit": "凛ルート十一日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...I can't just let it become a scar.\nLosing against others is inevitable.\nI'm used to getting knocked down, and I know that it's vexing that I can't reach them no matter what I do.",
+      "sourceUnit": "凛ルート十一日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "But that is only when my opponent is someone else.\nI can't lose against myself.\nThere is no factor that would make me lose if our powers are equal.\nTo submit to an opponent like that would be like declaring that I'm wrong.",
+      "sourceUnit": "凛ルート十一日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh!\"\nMy wound distorts.\nThe blood seeps through my bandage.",
+      "sourceUnit": "凛ルート十一日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Ugh...!\"\nI hold it down with my right hand and glare at the darkness with my fading consciousness.\nThe memory from ten years ago.\nThe words of the man that was my father.",
+      "sourceUnit": "凛ルート十一日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Even if I was wrong from the start, there is nothing wrong with the path I took.\nI wanted to become a hero of justice so that incident wouldn't just become a sad past.\nA time where everyone would be happy.\nI held onto the ideal, where nobody would shed tears, for ten years.",
+      "sourceUnit": "凛ルート十一日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then...\"\nIt doesn't matter how much my mind doesn't function.\nWhat needs to be done had been determined from the start.\nI didn't fight because I became a Master.\nI decided to fight because I believed that since it was something I could do, it was something I must do.\nI finally remembered something that was so obvious.",
+      "sourceUnit": "凛ルート十一日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka. No matter how much you tell me...\"\nIf I believe it is right, I will believe in this path until the very end.\nI can't just quit like this, and I won't let her fight by herself.",
+      "sourceUnit": "凛ルート十一日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...For that sake, I'll sleep now.\nI won't let her call me a burden.\nI'll heal this wound in a night.\nAnd when I wake up in the morning...",
+      "sourceUnit": "凛ルート十一日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...When I wake up in the morning.\nI'll definitely catch up to her, and finally repay her for what she did that night...",
+      "sourceUnit": "凛ルート十一日目-14:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

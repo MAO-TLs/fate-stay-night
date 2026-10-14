@@ -1,0 +1,181 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0540",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I have to decide what I'm going to do next.",
+      "sourceUnit": "桜ルート九日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I chose to keep fighting.\nZouken Matou and Assassin...\nThe black Shadow roaming the town...\nMasters fighting each other over the Holy Grail...\nI decided I'd stop it all, even if I lost Saber.\nThis is not time to worry about appearances.\nI need Tohsaka's help if I want to prevent any further victims.",
+      "sourceUnit": "桜ルート九日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\nI've lost Saber and my Command Spells, so I'm not a Master anymore, right?\"",
+      "sourceUnit": "桜ルート九日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I forgot that important detail. You're not a Master anymore. You don't need to involve yourself with the Holy Grail War, and you're less likely to be targeted by the other Masters now.\"",
+      "sourceUnit": "桜ルート九日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. I wanted the Grail because Saber said she needed it. Now that she's gone, I'm not interested in it anymore.\"\n\"Okay. So you're going to stop fighting?\"",
+      "sourceUnit": "桜ルート九日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's eyes are stoic.\nShe asks me the question as a Master, evenly and without letting her own emotions cloud it.",
+      "sourceUnit": "桜ルート九日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's a warning, not a question.\nThis is my last chance.\nShe's giving me fair warning that it isn't too late to turn back.",
+      "sourceUnit": "桜ルート九日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...No.\"\nBut my answer was decided long ago.\nI'm going to remember how considerate she was for asking me.",
+      "sourceUnit": "桜ルート九日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. I won't forfeit this war, even if I'm not a Master. I decided I'd fight to put a stop to it.\"\n\"All right. Then we can continue our relationship.\nWe're mutual enemies, but we have a truce until we beat that 'Shadow' thing.\"",
+      "sourceUnit": "桜ルート九日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nTohsaka smiles suddenly.\nHer stoicness from a moment ago turns to friendliness, as if something nice just happened.\n...That's fine, I guess. It's not like I'd know why.",
+      "sourceUnit": "桜ルート九日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hang on. Why are we enemies?\nI'm not a Master anymore. I have no reason to compete with you.\"",
+      "sourceUnit": "桜ルート九日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? You might've lost your Servant and Command Spells, but that doesn't mean you aren't Saber's Master.\nYou were chosen by the Holy Grail, even if it wasn't according to plan. That means you have a right to it, too. You might be neutralized for now, but you're still a contender.\"",
+      "sourceUnit": "桜ルート九日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I am? Even if I don't care about getting the Holy Grail?\"",
+      "sourceUnit": "桜ルート九日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "That depends on the situation. It's completely possible that you might get the Holy Grail and find yourself in a situation where you need its power.\nPeople without greed are influenced by external factors precisely because they have no personal desires.\"",
+      "sourceUnit": "桜ルート九日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hrm. You're overthinking this, Tohsaka. Even if I needed the Grail, there's no way I'd get it.\"",
+      "sourceUnit": "桜ルート九日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"It's just hypothetical, but the possibility isn't zero.\nThat's why I consider us enemies. It's why mages who aren't Masters anymore flee to the church for sanctuary.\nEven if they've lost their Servants, they're still nuisances to the other Masters. You'd better be careful. Zouken isn't the only one gunning for you.\"",
+      "sourceUnit": "桜ルート九日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh...I'll accept your advice.\"\nI'm not happy about still being enemies with her.",
+      "sourceUnit": "桜ルート九日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What's the complicated expression for? I said we're enemies, but things will stay the same. What's there to worry about?\"\n\"Plenty. Because then I can't ask you for help.\"",
+      "sourceUnit": "桜ルート九日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nShe freezes.\nTohsaka stares at me like she's just seen a ghost.",
+      "sourceUnit": "桜ルート九日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "You want my help? Why...?",
+      "sourceUnit": "桜ルート九日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Because I definitely can't do this on my own. I need to defeat the other Masters to stop the war, but I don't have the power to do that.\"",
+      "sourceUnit": "桜ルート九日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...I know it sounds pathetic, but I can't worry about appearances. Out of the few options I have left, I think this is the best one.\nSo I can't be enemies with you, Tohsaka.\nI want you to help me, not just honor a truce.\"",
+      "sourceUnit": "桜ルート九日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on. Have you lost your mind?\"\n\"I'm completely sane. I'm not strong, and I might drag you down.\nYou don't have anything to gain by teaming up with me, and I have no way to repay you.\n...Yeah. Normally, there wouldn't be any reason to form an alliance.\"",
+      "sourceUnit": "桜ルート九日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hmph. So you understand that much.\nAs you said, equivalent exchange is a fundamental idea in magecraft. I can't help someone who has nothing to give in return, nor can I help someone who can't contribute to the team effort. You know as well as I do that it wouldn't be good for you.\"",
+      "sourceUnit": "桜ルート九日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I've been letting you consult me during our truce, but an alliance is a different story. If we're going to be friends who help each other, then there has to be something in it for both of us.\"",
+      "sourceUnit": "桜ルート九日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I knew that when I asked.\nHelp me, Tohsaka. I'll pay you back as long as I live.\"",
+      "sourceUnit": "桜ルート九日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"As long as you live, huh?\"",
+      "sourceUnit": "桜ルート九日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...I know what a burden I'd be to her.\nBut Tohsaka's the most reliable person I know, and if she's the one who gets the Holy Grail, I can trust that nothing will go wrong.\nSo she's the only one I can think of helping win as a Master.",
+      "sourceUnit": "桜ルート九日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I'd like to hear your answer.\"\nI meet her eyes.\n\"...I-it's obvious, isn't it? I'm not going to team up with someone who isn't a Master—\"",
+      "sourceUnit": "桜ルート九日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"I told you, even if you insist, I can't help you. To begin with—\"",
+      "sourceUnit": "桜ルート九日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"...It's like we're talking about a real contract, you know?\"",
+      "sourceUnit": "桜ルート九日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "There it is.\nTohsaka makes a show of looking down.\n\"Oh, fine! I get it! Here's my conditions, then!\"\nShe shoots a hard gaze right back at me.",
+      "sourceUnit": "桜ルート九日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"What conditions?\"\n\"My conditions for this deal!\n...I'm talking about a proper contract.\nIf you mean what you just said, then I can think of a way to make it work.\"",
+      "sourceUnit": "桜ルート九日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"??? Tohsaka, I've been saying this whole time that I don't have anything to pay you with.\"\n\"Just listen!\"\n\"...! O-okay, go ahead.\"",
+      "sourceUnit": "桜ルート九日目-06:page33:1"
+    },
+    "page34": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

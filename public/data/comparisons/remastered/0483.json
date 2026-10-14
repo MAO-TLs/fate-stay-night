@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0483",
+  "rows": {
+    "page0": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート六日目-21:page0:1"
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

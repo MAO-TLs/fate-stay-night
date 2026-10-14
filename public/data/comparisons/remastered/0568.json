@@ -1,0 +1,411 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0568",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not prepared to kill her. I came back here for Sakura.\nIf you're going to hurt her, then I'll stop you here.\"\n\"Ngh...\"",
+      "sourceUnit": "桜ルート九日目-28:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Then what do you plan to do with her!?\nListen to me—Sakura can't live unless she fights as a Master.\nAnd as long as she's a Master, her body is going to force her to take magical energy from innocent people!\nCan't you see what's going to happen, no matter what we do!? We have to kill her now, for her own good!\"",
+      "sourceUnit": "桜ルート九日目-28:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Like hell we have to! How can you condemn her before she's even done anything wrong!?\"",
+      "sourceUnit": "桜ルート九日目-28:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"She already has! If the problem was confined to Sakura, then there might still be hope. But it isn't, is it? That old bastard Zouken has her life in his hands, and as long as he's around, Sakura is his puppet.\nDo you think he'll just let her go?\"\n\"I...\"",
+      "sourceUnit": "桜ルート九日目-28:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"See, you do understand. Zouken won't leave Sakura in peace. Then...she'll keep suffering and suffering, unable to ever escape her fate. If we end it here, then nobody else will get hurt. It'll save the people that she would have killed.\"",
+      "sourceUnit": "桜ルート九日目-28:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't let the collateral damage spread for the sake of some slim hope, like you. Being too weak to make a decision is just going to make her suffer more.\"\n...",
+      "sourceUnit": "桜ルート九日目-28:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's correct.\nShe isn't saying that death would save Sakura, but she's making the right choice from the perspective of saving lives.\nAny other idea would just be a selfish compromise, doomed to failure.",
+      "sourceUnit": "桜ルート九日目-28:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "If we do nothing, ten people will die.\nBut if nine lives can be saved at the cost of one, that would be...\nThat would be...\n...the reality/past that I've always accepted, but always wanted to deny deep down.",
+      "sourceUnit": "桜ルート九日目-28:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"No. You're wrong.\"\n\"Emiya?\"\n\"I won't let there be any more victims.\nDoesn't that make you the weak one for giving up on her before you've even tried?\"",
+      "sourceUnit": "桜ルート九日目-28:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"A-are you kidding me!? Do you even understand what you're saying? You'll save Sakura, and all of the people she'll kill!? Don't make me laugh. There's no way you can do that on your own!\"",
+      "sourceUnit": "桜ルート九日目-28:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I can't do it. But I'll protect her. I'll think of a way.\"",
+      "sourceUnit": "桜ルート九日目-28:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...! Fine. Then you're my enemy.\n...Let go of me. If you don't, I'll blast you so hard you go flying outside.\"\n\"Go ahead and try it. Don't think it'll go the way you think, Tohsaka.\"",
+      "sourceUnit": "桜ルート九日目-28:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...I put more strength into my grip.\nBecause I'm nervous.\nTohsaka is—no, I want to believe she's nervous, too.\nDespite our tit for tat, we're at a stalemate because we each have things we can't compromise on—",
+      "sourceUnit": "桜ルート九日目-28:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What was that!?\"\n\"Huh, what!?\"\nIt came from outside the chapel.\nA noise from the room next door makes us both look at each other.",
+      "sourceUnit": "桜ルート九日目-28:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you hear that, Emiya...\"\n\"That was a window breaking. And then...\"",
+      "sourceUnit": "桜ルート九日目-28:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"The sound of running footsteps. While the only exits to the chapel are in the front and back, one might exit through a broken window.\n...Oh, I see. The church has many fixed fittings.\nShe might have accidentally broken the glass. How rough for a patient on the mend.\"",
+      "sourceUnit": "桜ルート九日目-28:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"A patient—wait, Sakura!?\"\n\"Who else could it be? Somehow, she heard what you were saying from the room she is resting in. She probably ran when you started saying frightful things about killing her.\"",
+      "sourceUnit": "桜ルート九日目-28:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\n\"Forgive me. It is a structural flaw in the building.\"\n\"Stop lying, you fraudster priest! You definitely let her go on purpose!\"",
+      "sourceUnit": "桜ルート九日目-28:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka shakes off my hand and starts running.\nShe's headed for the front door, not the back of the church.",
+      "sourceUnit": "桜ルート九日目-28:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka!\"\n\"We'll talk later! We need to catch Sakura, first! Darn it, where does she think she's going in that condition...!\"\nTohsaka rushes to the door, throws it open, and runs outside.\nShe sprints out into the rain without an umbrella.",
+      "sourceUnit": "桜ルート九日目-28:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't afford to linger here, either.\nI don't know where Sakura's gone, but I can't let her be alone right now!",
+      "sourceUnit": "桜ルート九日目-28:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. Go find Sakura Matou if you wish, but there is something I forgot to tell you.\"\n\"Rgh, what now? This isn't the time for long lectures...!\"\n\"Calm yourself. It is an important matter that I have an interest in making sure you know. Rin left before I could say anything, so I have to tell you.\"",
+      "sourceUnit": "桜ルート九日目-28:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Is it about Sakura?\"\n\"Yes. To be candid, she does not have much time left.\nEven now, the Crest Worms are continuing to invade her body.\nIt is simple enough to extract them, but her body wouldn't be able to handle the trauma of removing forty percent of the nerves from a living subject. She would die as a person even before the pain sent her into shock.\"",
+      "sourceUnit": "桜ルート九日目-28:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"But her fate will be the same even if nothing is done.\nEventually, Sakura Matou will lose her mind after having it sapped by her magical energy deficiency for so long. Once that happens, she will become an out-of-control Master.\nShe will attack more and more people to maintain her Servant, and eventually succumb to the damage.\nIn other words, no matter what you do, there is no saving her.\"",
+      "sourceUnit": "桜ルート九日目-28:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nFor a second, I feel dizzy, like a strobe lamp just went off in front of me.",
+      "sourceUnit": "桜ルート九日目-28:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"What is broken cannot be fixed, and what is lost will never return. If you wanted to save her, you should have begun eleven years ago.\nAnd you would still extend a hand to her, Shirou Emiya?\nShe will die days from now no matter what you do. What meaning is there in helping such a person?\"",
+      "sourceUnit": "桜ルート九日目-28:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't breathe.\nThe priest's words are so painful, it takes all my effort not to go weak in the knees.",
+      "sourceUnit": "桜ルート九日目-28:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't know. But you helped Sakura. Doesn't that show that it means something?\"\n\"Well. I treated her out of obligation. I cannot turn away those who come to me seeking help.\"",
+      "sourceUnit": "桜ルート九日目-28:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You liar. Nobody gives up their entire Magic Crest out of obligation. I don't know why you did it, but you wanted to help Sakura.\nYou didn't want her to die. Just like me.\"\nI glare at Kotomine.\n...He slightly inclines his head, as if accepting my words.",
+      "sourceUnit": "桜ルート九日目-28:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Indeed. Then hurry. If Rin finds Sakura Matou first, she will most assuredly attack her. You must shelter the lost lamb before that happens.\"\nI don't need him to tell me that.\nI turn my back on the priest and run out into the rain, the same way Tohsaka did.",
+      "sourceUnit": "桜ルート九日目-28:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "My breath mists white in the air.\nThe cold winter rain freezes the heat that escapes my lungs, and I can even feel it beading on my cheeks.",
+      "sourceUnit": "桜ルート九日目-28:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...\"\nThere's nobody on the street.\nI run aimlessly through the night, barely lit by the street lamps.\nI need to stop her.\nIt isn't just because I feel like she'll do something she can't take back unless I find her soon.\nRight now, I just want to take her hand and feel her warmth.",
+      "sourceUnit": "桜ルート九日目-28:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... haah, hah...\"\nI run back and forth through the cloudy night.\nI have no idea where she was headed.\nRight, now, Sakura has nowhere to go home to.\nAll she can do is wander through the night, now that she's lost both my house and the Matou home.",
+      "sourceUnit": "桜ルート九日目-28:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...She can't have gone far. Maybe she went somewhere to get out of the rain, somewhere out of sight...\"\nIt's a wild guess.\nBut right now, it's all I have to go on.",
+      "sourceUnit": "桜ルート九日目-28:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, haah, hah...ah...\"\nI cross the bridge.\nSakura isn't at the Shinto train station, and nobody there has seen anyone who might be her.",
+      "sourceUnit": "桜ルート九日目-28:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Even at this time of night, Shinto isn't completely free of foot traffic.\nThere are still a few people walking around.\nBut if nobody's seen Sakura, then she might have avoided Shinto and returned to Miyama.",
+      "sourceUnit": "桜ルート九日目-28:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "She would stand out in the rain, dressed in her school uniform.\nIf she wanted to avoid being seen, then she would have gone back to Miyama... I think that as I run through the rain.",
+      "sourceUnit": "桜ルート九日目-28:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura.\"\nI stop.\nUnder the bridge,\non a dim, lonely brick path, I see her standing all alone.",
+      "sourceUnit": "桜ルート九日目-28:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "I go down through the park.\n...Has she noticed me?\nSakura just stands there, getting soaked in the rain, not looking up.\n...\n...I can't think of anything to say to her.\nAll I can do is take her home with me.",
+      "sourceUnit": "桜ルート九日目-28:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\nI call out to her as I approach.\n\"No! Don't come any closer!\"\nWhen I do,\nSakura refuses, sounding more desperate than I've ever heard her.",
+      "sourceUnit": "桜ルート九日目-28:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop.\nSakura clutches her skirt tightly, not looking up at me.\nShe's in anguish, like a sinner ashamed of herself.\n...I can't get any closer.\nI get the sense that I shouldn't approach her until she looks at me of her own volition.",
+      "sourceUnit": "桜ルート九日目-28:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...\"\n\"Please...go home.\nI don't know...what I'll do if you come close to me right now.\"",
+      "sourceUnit": "桜ルート九日目-28:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Her voice quivers.\nSakura is shivering, both from the cold rain and her own sense of guilt.\n...I can't free her of that.\nAll I can do is...\n\"Let's go home, Sakura. You still have a cold, remember?\"\n...offer her a helping hand.",
+      "sourceUnit": "桜ルート九日目-28:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai...\"\nHer rain-soaked hair sways.\nFor a moment, she bites her lip.\n\"I can't go home. What home do I have left to return to?\"\nShe says in a biting tone tinged with self-hatred.",
+      "sourceUnit": "桜ルート九日目-28:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\n\"It's okay, Senpai. You don't need to force yourself to care about me.\"",
+      "sourceUnit": "桜ルート九日目-28:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"You know already, don't you? What I am, what's wrong with my body—you've heard it all. So, let's...\"\n\"End it all,\" she doesn't manage to say aloud,\nbut the white mist of her breath declares for me to see.",
+      "sourceUnit": "桜ルート九日目-28:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be silly. I don't care what I heard. The only version of you I know is the Sakura that's always been with me.\nWhy would I end it over this?\"",
+      "sourceUnit": "桜ルート九日目-28:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...Because it's going to end, anyway.\nSenpai, I'm not the girl you think I am. Ever since they adopted me when I was little, I've been touched by so many things I don't understand.\"",
+      "sourceUnit": "桜ルート九日目-28:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's nails dig into her skin.\n...It's like she's trying to punish herself for being impure.",
+      "sourceUnit": "桜ルート九日目-28:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"That's not all. I've been hiding the fact that I'm a Matou mage from you.\n...I hid it when I became a Master, and I pretended not to know anything even when you brought Saber home.\nSee? I lied to you because it would be better for me if you didn't get upset.\"",
+      "sourceUnit": "桜ルート九日目-28:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"",
+      "sourceUnit": "桜ルート九日目-28:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"But I'm actually so stupid. I thought I could trick you into not seeing something I couldn't even hide.\nI told myself it would be okay even if I became a nest for Grandfather's worms. I was so sure I'd stay true to myself and not lose, and then I gave in so easily.\n...That stuff that was splashed on me wasn't poison. Mixed in the liquid was a Whisper spell, basically something that can hypnotize. That's all it took for me to lose sight of myself and hurt you.\"",
+      "sourceUnit": "桜ルート九日目-28:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka-senpai is right. I'm a scaredy-cat, a crybaby, and a coward. I knew this would happen, but I couldn't even bring myself to disobey Grandfather or end it on my own.\nI'm afraid of pain, afraid of being afraid. I care about myself more than anyone else, and I don't even have the courage to die!\"",
+      "sourceUnit": "桜ルート九日目-28:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...She's crying.\nSakura is just sobbing.\nShe's weeping, and she doesn't know what to do, which makes her even sadder.",
+      "sourceUnit": "桜ルート九日目-28:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhen I realize that, I feel regret.\nI've never seen Sakura cry before.\nHow come I didn't realize it sooner?\nWhat must it mean for someone to only be able to cry when she criticizes herself?",
+      "sourceUnit": "桜ルート九日目-28:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't cry, Sakura.\"",
+      "sourceUnit": "桜ルート九日目-28:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"But...it's all my fault.\nI'm Grandfather's puppet, so I don't know when I might lash out again. I'm sure to do something I can't take back. What home could I possibly go back to, Senpai!?\"",
+      "sourceUnit": "桜ルート九日目-28:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "Sakura scolds herself.\n...Nobody else blames her.\nSo she has to do it herself.\n\"I'm a bad person, so I need to be blamed and punished.\"",
+      "sourceUnit": "桜ルート九日目-28:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"So...don't cry.\"",
+      "sourceUnit": "桜ルート九日目-28:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Sakura told me once,\nthat she's a coward, so she needs someone to pull her along by the hand.\nI finally know what she meant.",
+      "sourceUnit": "桜ルート九日目-28:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Who I want to protect.\nWho's precious to me.\nWho I can't bear the thought of losing.\nIf it means she won't cry anymore,\nthen I'll take her by the hand and bring her somewhere the sun shines. Right now, if I have to.",
+      "sourceUnit": "桜ルート九日目-28:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry, Senpai. I've been misleading you.\nBut I always thought to myself that I wasn't a good enough person to be next to you, so I'd just make an exception for one day, and pretend not to know you tomorrow.\nI'd brush past you in the hall at school, pretend not to know you after school, and go home by myself at night, forgetting everything that's happened...!\"",
+      "sourceUnit": "桜ルート九日目-28:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nIf she did that to me, I don't think I could take it.\nI'm sorry I didn't realize it sooner.",
+      "sourceUnit": "桜ルート九日目-28:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"But I couldn't! The thought alone scared me so bad I'd tremble. It made me more afraid than when I decided to die, so I couldn't stop coming over to your house. I was too afraid to stop lying to you, and everyone around me was so scary, I...I couldn't keep going, and I didn't know what else to do...!\"",
+      "sourceUnit": "桜ルート九日目-28:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I'm sure I would have been fine with that.\nSakura thinks it would have been better if I didn't know,\nso I kept her crying all this time.",
+      "sourceUnit": "桜ルート九日目-28:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm so dumb. Of course you would've figured it out eventually, but it would be too late by the time you did. I wouldn't be able to go back to that house. So every night, I thought that I should get away from you before that happened.\nI knew it would be better for you, and I'm sure it wouldn't make me any sadder, that I wouldn't cry anymore, but...\"",
+      "sourceUnit": "桜ルート九日目-28:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "And that's why I don't want to let her cry anymore.\nIf nobody blames Sakura so she has to do it herself...",
+      "sourceUnit": "桜ルート九日目-28:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"But...but I wanted to hide it!\nI wanted to protect our time together...!\nThat was the only thing that mattered to me, so why...!?\"",
+      "sourceUnit": "桜ルート九日目-28:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "...then I'll keep forgiving Sakura, even if no one else does.",
+      "sourceUnit": "桜ルート九日目-28:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI embrace her chilled body.",
+      "sourceUnit": "桜ルート九日目-28:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...The arms I use to hug her aren't reliable at all.\nI can't put much strength into them, so I can't even draw her in close.\n...I can't save Sakura.\nAll I can do is be by her side now, and ask her to be by mine.",
+      "sourceUnit": "桜ルート九日目-28:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, I...\"\n\"Don't cry anymore. I know you're a bad person.\"\n...\nI hear her gasp.\nHer confusion, mixed with guilt and regret.\nTo deny that feeling, I say as firmly as I can:",
+      "sourceUnit": "桜ルート九日目-28:page71:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"So I'll protect you. No matter what happens, even if you try to kill yourself, I will protect you, Sakura.\"\n\"Sen...pai...\"\n\"I promise. I'll be a hero just for you.\"",
+      "sourceUnit": "桜ルート九日目-28:page72:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "I put just a little force into the hug.\nTo announce that even if this is just a touch,\nthis oath is stronger than anything else.",
+      "sourceUnit": "桜ルート九日目-28:page73:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIs it working?\nIt's enough to make Sakura's cold, stiff shoulders relax.",
+      "sourceUnit": "桜ルート九日目-28:page74:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "No matter what Sakura says, she's still the same Sakura I know.\nHer touch through the hug and the warmth of her skin are the same.\nWe both exhale white clouds into the air, and the pouring rain weakens to a drizzle.",
+      "sourceUnit": "桜ルート九日目-28:page75:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "And then, in the freezing night...\n\"You can't. I'm sure you'll end up getting hurt.\"\nSakura speaks like it's a confession.",
+      "sourceUnit": "桜ルート九日目-28:page76:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe rain is stopping.\nThe night is as cold as the dead of winter, and I don't stop hugging her.\nAnd then...\n\"I'm going to hurt you...\"\nBut I want to stay here.\nSakura makes a choice, her cheeks wet.",
+      "sourceUnit": "桜ルート九日目-28:page77:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "That's one decision down.\nI think we just finished something critical.",
+      "sourceUnit": "桜ルート九日目-28:page78:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "I don't know if this is romance or love.\nI just know that it isn't going to be rewarded.\nIt's a certain premonition that's trapped in my chest.",
+      "sourceUnit": "桜ルート九日目-28:page79:1"
+    },
+    "page81": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

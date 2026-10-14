@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0514",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Once school ends, I quickly start to head home.\nSince all after-school club activities are suspended, students crowd around the campus gate.\nI take a cursory look around, and don't see anyone who might be Tohsaka.\nKnowing her, she must have gone straight to the Matou house.",
+      "sourceUnit": "桜ルート八日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? Are you trying to find someone?\"\n\"Hm? Nah, I was just looking around. It's not every day you see this many students leaving at the same time.\"",
+      "sourceUnit": "桜ルート八日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. But thanks to that, we can go home together today. Should we do some shopping before we head back?\"\n\"Yeah, let's pick up some stuff for dinner. Fuji-nee won't be coming over for a while, so we'll get enough for three: you, me, and Saber.\"",
+      "sourceUnit": "桜ルート八日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "After we buy groceries, we take the long way home, passing by the park.\nThe park is empty.\nThere aren't any kids in the playground, nor a silver-haired girl in a coat.",
+      "sourceUnit": "桜ルート八日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...The park is empty. Do people not come here often?\"",
+      "sourceUnit": "桜ルート八日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Not lately, I think. When I was a kid, there would usually be someone here during the day, but these days it's pretty much like this except on days off.\"\n\"I see. It feels kind of lonely.\"",
+      "sourceUnit": "桜ルート八日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I nod in agreement and look up.\nThe sky is tinged twilight.\nIt's a dark red expanse with no birds in sight. It feels lonely, just like the small park.",
+      "sourceUnit": "桜ルート八日目-00:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

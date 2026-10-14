@@ -1,0 +1,426 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0007",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei, are you in?\"\n\"I'm here. You're a little late this morning, Emiya.\"\nIssei glances up from his desk, looking like he's been studying some papers.",
+      "sourceUnit": "セイバールート一日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Is it just you, Issei? Where's the rest? They should all be at school by now.\"\n\"Well unfortunately, the rest of the members are all very on the clock.\nThey all have their set work hours, and they don't want to come in early or stay late.\"\n\"So that's why the student council president is doing busywork himself. Guess you've got your own problems to deal with.\"",
+      "sourceUnit": "セイバールート一日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I live for these sorts of problems. I don't need your sympathy, Emiya.\"\n\"What are you talking about? I'm not sympathizing with you.\"\n\"Hm. Well that's too bad. I'm going to pretend I didn't hear that. After all, the fact of the matter is that you still care.\"",
+      "sourceUnit": "セイバールート一日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Issei, who is gathering his papers into a single sheaf and tapping the edge against the table to square them neatly, is the big boss of the student council.\nHe's been working to reform the student council, which has grown quite lax, and he's been a friend of mine since our first year in school.\nHis full name is Issei Ryudou.\nDespite his old-fashioned-sounding name, he has elegant facial features, and he's popular with the girls.\nHe's also the student council president, so you'd think he would have the leg up over everyone else, but that's not exactly the case.",
+      "sourceUnit": "セイバールート一日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Nothing beats a scalding hot cup of tea in the morning.\"\nIt's saying stuff like that as he sips tea that prevents him from quite sticking the landing.",
+      "sourceUnit": "セイバールート一日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "As evidenced, Issei is quite plain.\nHe's prone to be misunderstood, yet he neither dabbles in relationships nor he does what typical students do for fun.\nHe's the heir of Ryudou Temple, which sits atop a mountain.\nHe himself understands that he will inherit the temple, and there's a strong possibility that he'll shave his head without so much as a complaint as soon as he graduates from school.",
+      "sourceUnit": "セイバールート一日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"So, what do you want me to do today?\"\n\"Hm? Well, I'd like to tell you to sit down and relax, but we really don't have time. I'll explain as we go, so grab your tools and follow me.\"",
+      "sourceUnit": "セイバールート一日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me get right to the point. Our school's spending habits are quite extreme.\"\n\"I know. The athletic clubs are favored, and there's not much money to go around in other places.\"\n\"Exactly. As a result, the culture clubs get the short end of the stick.\nI've been trying my best to establish a better budget for the arts, but the money trail has been pretty muddy, which is making my life harder, so the arts are suffering.\nThe lack of heaters during the winter is especially concerning, and I have no solution for that.\"",
+      "sourceUnit": "セイバールート一日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Hey, hand me the flathead screwdriver. The biggest one. Oh, and give me some conductors too. Yeah, this one looks salvageable.\"\n\"Conductors? Um...these? Sorry I don't really know my way around tools.\nYou can get mad if I'm wrong.\"\n\"It's fine, you got it right. So what about the lack of heaters? Is there anything else that's broken?\"",
+      "sourceUnit": "セイバールート一日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. The heating system in the second audiovisual room and the art club room might be on its last leg. Forms requesting to purchase new ones are piling up by the minute.\"\n\"And you're saying that there's no room in the budget. ...Well, this one's just corroded. Good thing the inside's still intact.\"",
+      "sourceUnit": "セイバールート一日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Is that one salvageable, Emiya?\"\n\"Yeah I can fix it. It's a good thing old machines are easy to figure out.\nThe wires just burnt out, so as long as those get replaced, this should last until the end of the year.\"\n\"Is that so!? Way to go Emiya. I'm glad you're so reliable and helpful.\"",
+      "sourceUnit": "セイバールート一日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"You say some weird stuff, Issei.\nOh hey. I'm almost done, so go ahead and step out.\"\n\"Got it. I won't get in your way.\"",
+      "sourceUnit": "セイバールート一日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Issei quietly steps out of the classroom.\nHe might be thinking that I'm going to start on some sensitive work.",
+      "sourceUnit": "セイバールート一日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I guess you can call it sensitive work...\"\nI put my hand to the old electric stove.\nNo matter how long someone's been fixing things, they can't usually figure out what's wrong by sight.\nSo the fact that I can means what I'm doing is not ordinary.",
+      "sourceUnit": "セイバールート一日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I close my eyes and \"look\" inside the stove by touch.\nAnd then suddenly...\nA single image pops into my head.",
+      "sourceUnit": "セイバールート一日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...There are two places where the wire's about to break... The electrical pipes should last a bit longer... The power cord should be fine with just insulation tape...\"\nGood. I should be able to fix it with just the tools I brought along.",
+      "sourceUnit": "セイバールート一日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "If the electrical pipes were broken, it wouldn't be fixable by an amateur.\nHad that been the case, a certain \"Strengthening\" would have to be done, which no amateur could manage, but I should be able to fix this one by sight.\nThis is the magecraft Kiritsugu taught me.",
+      "sourceUnit": "セイバールート一日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, let's begin.\"\nI take off the cover to begin my repairs.\nI already know where it's broken, so the rest of the work is easy.\n\"(Sigh) This is the one thing that I'm good at.\"",
+      "sourceUnit": "セイバールート一日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "That's right. I, Shirou Emiya, have absolutely no talent in magecraft.\nBut, for some reason, I have a knack for visualizing the structure of things or blueprints, like I did just now.\nMy old man once saw me imagine and recreate a blueprint. He looked surprised, then muttered, \"What a useless talent.\"",
+      "sourceUnit": "セイバールート一日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "My special talent appears to be pointless.\nAccording to my old man, the fact that I can visualize objects' structures isn't really helpful.\nA mage normally wouldn't need to survey an object's entire structure like I do.",
+      "sourceUnit": "セイバールート一日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "He claims the mage's struggle is to instantly seek out an object's center, or its core, and transform it as quickly as possible.\nThat's why reading blueprints is a waste of time, and even that only helps seek out areas for magical energy to pass through.",
+      "sourceUnit": "セイバールート一日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "And so, fixing broken stuff is one of the only things I'm good at.\nAfter all, I don't have to open the entire thing up to find the problem.\nIf I can find the problem quickly, I can fix most things as long as I have the know-how to repair it.\nThough, I only do that with things an amateur could reasonably be expected to fix.",
+      "sourceUnit": "セイバールート一日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, done. What's next?\"\nI put away the conductors, pick up the screwdriver and wrench, and head out to the hallway.",
+      "sourceUnit": "セイバールート一日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei, repairs are done.\"\nOh, hey.\nA female student is standing next to Issei in the hallway.",
+      "sourceUnit": "セイバールート一日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm a little surprised.\nThe girl talking to Issei is Rin Tohsaka, a second year, from class A.\nShe lives in a giant Western-style mansion up on a big hill, and she's an extraordinary honor student.\nShe's pretty, smart, athletic...no flaws at all.\nShe's intelligent and polite, and she never brags about her looks. She's truly the ideal girl to guys...apparently.",
+      "sourceUnit": "セイバールート一日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...Which is why the male students treat her like an idol.\nBut Tohsaka is just too good, and she's become...unattainable.\nThe guys all say the only people who can talk to Tohsaka are Issei and the teachers.",
+      "sourceUnit": "セイバールート一日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Well, okay, I'm also a guy.\nAnd I'm including myself in the list of her admirers.",
+      "sourceUnit": "セイバールート一日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka is looking at us, annoyed.\nI guess rumors are true that Issei and Tohsaka don't get along.",
+      "sourceUnit": "セイバールート一日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh sorry. I was the one who asked you for a favor, and made you do all the work. Forgive me.\"\nWhoa.\nIssei's pretty gutsy, talking to me and completely ignoring Tohsaka like that.",
+      "sourceUnit": "セイバールート一日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it. So what's next? There's not much time.\"\n\"Yeah, next is the audiovisual room. I hear it's been on its last leg for awhile, but apparently it's finally given out.\"",
+      "sourceUnit": "セイバールート一日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"If it's dead, I won't be able to fix it. It might be better to buy a new one.\"\n\"That might be true, but I'd appreciate it if you took a look at it anyway. I might think it's dead, but it might just be playing dead to you.\"",
+      "sourceUnit": "セイバールート一日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so? Then let me take a look.\"\nThere's only about thirty minutes until homeroom starts.\nI'll need to hurry and fix it or I'll run out of time.",
+      "sourceUnit": "セイバールート一日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I head to the audiovisual room.\nBut I realize completely ignoring Tohsaka would be rude.",
+      "sourceUnit": "セイバールート一日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I turn to face her, since she's been standing there the whole time.\n\"You're here early, Tohsaka.\"\nI blurt out the first thing that comes to mind, and then follow Issei.",
+      "sourceUnit": "セイバールート一日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"You made it just in time. Sorry for all the trouble, Emiya. I'm a bad friend for asking a favor from you and making you late for class.\"\n\"Don't sweat it. It won't be a problem if I'm late, where it might be an issue if you were late.\"\n\"That's true. But I'm glad we made it.\"\nIssei exhales a sigh of relief and heads to his desk.",
+      "sourceUnit": "セイバールート一日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "It's exactly eight o'clock.\nFive minutes after the bell for homeroom rings, Fuji-nee will enter the classroom.",
+      "sourceUnit": "セイバールート一日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Whew.\"\nMy breathing is labored, since I ran from the audiovisual room.\nI take a deep breath before I take my seat.",
+      "sourceUnit": "セイバールート一日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"What's with all the commotion so early in the morning, Emiya? Didn't realize you became Ryudou's whipping boy after you quit our club. Not that I care, but since you have no principles of your own, don't do anything to ruin our rep.\"",
+      "sourceUnit": "セイバールート一日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Ah.\nStanding in front of my desk is Shinji Matou. He's been a friend of mine since middle school.\nHis last name is Matou, and he's Sakura's older brother. He's one year older than her.",
+      "sourceUnit": "セイバールート一日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Yo. Things at the kyudou club going well, Shinji?\"\n\"O-of course! There's no point in telling an outsider like you, but the club's nice and peaceful now that there's one less member trying to hog all the attention. We're definitely going to make waves at the next tournament!\"",
+      "sourceUnit": "セイバールート一日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? I guess Mitsuzuri's working real hard.\"\n\"Huh? What the hell are you talking about? I'm the only reason the kyudou club is setting records. You've been an outsider for a long time, so stop acting like you know it all, or you're going to embarrass yourself.\"",
+      "sourceUnit": "セイバールート一日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I'll keep that in mind. Besides, I'm not involved with the club, so I won't really concern myself with it much.\"\nI put my bag on my desk and pull the chair back.",
+      "sourceUnit": "セイバールート一日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"What's that supposed to mean? Are you saying my kyudou club's boring to you?\"\n\"I'm not saying that. Just that I'm not involved and all. I'm not a part of the club anymore, so it's not right for me to just drop into the dojo.\nBut if there's anything you need, just let me know. I'll help whenever you need it. I remember you weren't good at fixing and stringing bows.\"",
+      "sourceUnit": "セイバールート一日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? Thanks. I'll give you a call if there are ever chores to be done.\nThough I doubt that'll ever happen.\"",
+      "sourceUnit": "セイバールート一日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Well that's good. A captain who leaves busywork behind wouldn't be much of a captain. Just try not to trouble Ms. Fujimura. She's terrifying if she gets mad.\"\n\"Hmph! Mind your own business. Just remember that you're not a member of the club anymore, so don't go near the dojo!\"",
+      "sourceUnit": "セイバールート一日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "And just like that, Shinji heads off to his seat, all self-important bluster, as ever.\nHuh. He does seem moodier than usual.",
+      "sourceUnit": "セイバールート一日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Unbelievable. How can he talk to you like that? He was the one who kicked you out.\"\n\"Oh Issei, were you there the whole time?\"\n\"What do you mean? How can you be so cold to me when I was listening attentively to the conversation out of concern for my friend!?\"",
+      "sourceUnit": "セイバールート一日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What does concern have to do with it? I haven't done anything worth worrying about.\"\n\"Fool, of course I'm concerned. You have a short fuse. Now granted, if you punched Shinji, that would've gotten you some applause, but it probably wouldn't make the girls happy. It wouldn't be right for me to put my friend in such an unpleasant position.\"",
+      "sourceUnit": "セイバールート一日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I get it. Yeah, good point. Thanks, Issei. I don't think that would ever happen, but I appreciate the concern.\"\n\"Good. As long as you understand. But I was surprised. You usually get mad at the drop of a hat, but you're pretty tolerant with Matou.\"\n\"Yeah, but Shinji's been like that for as long as I've known him. You get used to it.\"",
+      "sourceUnit": "セイバールート一日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess that's how it is.\"\n\"It is. Now come on, go back to your desk if you're satisfied. It's almost time for Ms. Fujimura to dash in.\"\n\"Hahaha. More like float in.\"",
+      "sourceUnit": "セイバールート一日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "The bell to start homeroom rings.\nNormally, the homeroom teacher comes into the classroom five minutes before homeroom starts, but our teacher isn't what you'd call typical.",
+      "sourceUnit": "セイバールート一日目-03:page50:1"
+    },
+    "page51": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I made it! Good morning every—\"\nGONK.\nFuji-nee tumbles, and I hear some kind of unnatural sound.",
+      "sourceUnit": "セイバールート一日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nContrary to the hectic sounds of a few seconds earlier, the classroom is now dead silent.\nThe mood shifts sharply.\nIt's no wonder Fuji-nee is called a human roller coaster.",
+      "sourceUnit": "セイバールート一日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "But honestly, the way she fell didn't seem like a laughing matter.\nFuji-nee hit her head against the podium, and she's still lying on the floor.\nSeeing her lying there, face down and unmoving has everyone imagining the worst.",
+      "sourceUnit": "セイバールート一日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, someone up front. Wake her up.\"\n\"No, I don't want to. She'll probably, like, bite me or something if I get too close.\"\n\"She's not a mimic. Ms. Fujimura wouldn't do that.\"\n\"Well, why don't you wake her up, then?\"\n\"Pass. I hate stuff like this.\"\n\"I don't like it either! And you were going to make a girl do it!? The boys should step up and take control!\"",
+      "sourceUnit": "セイバールート一日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "The students in the front row start to get rowdy.\nThose of us sitting in the middle rows can't see what's going on.\nSo we all stand up to get a look.",
+      "sourceUnit": "セイバールート一日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, she's not moving. Did she faint?\"\nSomeone brings up the obvious.\nBut the problem is, how would we get Fuji-nee to the infirmary?",
+      "sourceUnit": "セイバールート一日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "We're all like comrades in arms after our time dealing with Fuji-nee.\nProbably nobody's thrilled by the idea of taking a teacher to the infirmary.",
+      "sourceUnit": "セイバールート一日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura? Um...are you okay?\"\nA brave girl approaches.\nFuji-nee isn't moving.\nThe class grows more concerned.",
+      "sourceUnit": "セイバールート一日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"That didn't look good. Her head literally slammed the corner of the podium. If that didn't hurt her, she really is invincible.\"\n\"Hmmm, maybe we can recruit her for the baseball team?\"\n\"Th-that's more like a threat! The moment the Tiger becomes the head of the baseball team, we'll all bound for the big Koushien tournament.\"\n\"Ms. Fujimura. Ms. Fujimura! It's no use. She's not responding....!\"",
+      "sourceUnit": "セイバールート一日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, you're right next to her. Wake her up.\"\n\"What!? I don't want to! If she's dead, I'll be good as dead too!\"\n\"But things could get worse if we just leave her.\"\n\"But nobody wants to get near her.\"\n\"Fine. Then we have no choice but to go with our last resort.\"\n\"Yeah. That.\"",
+      "sourceUnit": "セイバールート一日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Everyone's on the same page.\nExcept Shinji and I. We keep quiet because the two of us dared not be a part of what was about to happen.",
+      "sourceUnit": "セイバールート一日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Ready... WAKE UP, TIGER!\"\nIt comes out a whisper, even with so many students speaking in unison.\nThe word \"Tiger\" is especially inaudible.\nAnd yet...\nTwitch.\nFuji-nee's previously motionless body reacts.",
+      "sourceUnit": "セイバールート一日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa, she moved! This might be working, everyone!\"\n\"Keep going! It's the punishment of the tiger!\"\nEveryone must be on edge, since midterm tests are approaching.\nIt's a terrible idea on their part, but some students start to wave their arms and chant Fuji-nee's nickname.",
+      "sourceUnit": "セイバールート一日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Wake up, Tiger! It's morning!\"\n\"You need to Tiger up!\"\n\"Don't give in, Tiger! Stand up, Tiger!\"\n\"Come on, wake up! Time to wake the sleeping tiger!\"\n\"TIGER! T-I-G-E-R!\"",
+      "sourceUnit": "セイバールート一日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah!\nDon't call me Tiger!!!\"",
+      "sourceUnit": "セイバールート一日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "Like a sudden bolt of lightning striking...\nFuji-nee stands valiantly, as if the fall hardly scratched her.",
+      "sourceUnit": "セイバールート一日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What are you all doing? You guys shouldn't get out of your seats during homeroom. Come on, get back to your seats and we'll begin.\"\nFuji-nee, back to her normal self, stands at the podium.\nIt appears she recalled nothing between the time she jumped into the classroom and the time she woke up.",
+      "sourceUnit": "セイバールート一日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tiger doesn't remember anything.\"\n\"Sweet. We're lucky this morning.\"\n\"I don't know if you can call this lucky, honestly...\"\nThe students shuffle back to their desks.",
+      "sourceUnit": "セイバールート一日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Did someone just mock me?\"\n\"No, absolutely not. Must be your imagination.\"\n\"Really? Then okay. We're going to start morning homeroom, so everyone listen up.\"",
+      "sourceUnit": "セイバールート一日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee casually starts homeroom.\nShe always goes on digressions between announcements, so it goes slowly.",
+      "sourceUnit": "セイバールート一日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Which is why everyone should go home at an appropriate hour.\nThe gates close at six, so everyone doing club activities shouldn't stay any longer than necessary.\"\n\"But six is so early. Taiga. Don't the athletic clubs get an exception?\"",
+      "sourceUnit": "セイバールート一日目-03:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"They will not. And Goto, you'd better call me 'Ms. Fujimura.' The next time you call me by my first name, I'll get mad, okay?\"\n\"Yes ma'am. I'll be careful next time.\"\nGoto sits back down. He doesn't seem particularly remorseful.",
+      "sourceUnit": "セイバールート一日目-03:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "Too easy.\nWhen Fuji-nee says she gets mad, she gets mad. Doesn't matter if it's with a teacher or a student.\nAnd that is as close to a serious warning as she's ever going to give, but Goto doesn't realize it.",
+      "sourceUnit": "セイバールート一日目-03:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"That's it for today's homeroom announcements. I'll see you all at third period's English class!\"\nFuji-nee waves and leaves.",
+      "sourceUnit": "セイバールート一日目-03:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "So that was Taiga Fujimura, the teacher of room 2-C.\nHer nickname: Tiger.\nThat might seem like a joke, but it isn't.",
+      "sourceUnit": "セイバールート一日目-03:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "She got the nickname because it sounds like her name, Taiga, but Fuji-nee hates it.\nAccording to her, it doesn't sound feminine.\nBut she got the nickname because of how she acts, so she kind of had it coming.",
+      "sourceUnit": "セイバールート一日目-03:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Class will begin. Class duty, lead the greeting.\"\nAs Fuji-nee exits the room, the first period teacher enters.\nBecause Fuji-nee takes up almost all the homeroom time, mornings are always like this for our class.",
+      "sourceUnit": "セイバールート一日目-03:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "And so, another day of classes ends.\nThere are many types of students: some immerse themselves in club activities, some hurry home, and some hang out in the classroom after class for no particular reason.\nI don't really fit in any of those categories.",
+      "sourceUnit": "セイバールート一日目-03:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you have a minute, Emiya? Picking back up with what we did this morning...do you have some more time?\"\n\"Well, it's not like I don't have any plans...\"\nIt's not as if I don't do anything at all.\nThe biggest reason I quit the kyudou club in the first place was that I wanted to prioritize my part-time job.",
+      "sourceUnit": "セイバールート一日目-03:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "It's been five years since I started part-time jobs to earn money for living expenses on my own after my old man died.\nAnd when you do so many different jobs, there are some requests you just can't say no to.",
+      "sourceUnit": "セイバールート一日目-03:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "Today is one of them.\nI was asked to help restock some product for a bar, since they wanted as many strong helping hands as they could get.\nThough I'm sure I don't have to go help. The bar's likely asking everyone as an excuse to gather some folks and hang out afterwards.",
+      "sourceUnit": "セイバールート一日目-03:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere are two options.\nI should...",
+      "sourceUnit": "セイバールート一日目-03:page83:1"
+    }
+  }
+}

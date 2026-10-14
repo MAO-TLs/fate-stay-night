@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0486",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Let's patrol Miyama.\nI do want to secure our home turf, but more importantly, Miyama doesn't have as many people as Shinto.\nI'm worried about what might happen to the helpless residents if they run into a Servant lurking in the night. They might fall victim without anyone even knowing they're gone.",
+      "sourceUnit": "桜ルート六日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"We'll check out the neighborhoods tonight... This is Tohsaka's territory, so it isn't easy for other Masters to operate here, but I just want to be careful.\"\n\"Understood. I have already ascertained that there are no enemies nearby, so let us investigate the hills yonder.\"",
+      "sourceUnit": "桜ルート六日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "By yonder, she must mean the European-style neighborhoods.\nSaber must have taken it upon herself to check out the area around our house while I was at school yesterday.",
+      "sourceUnit": "桜ルート六日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Aren't we going out on patrol?\"\n\"Y-yeah. Come with me, Saber.\"",
+      "sourceUnit": "桜ルート六日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I turn off the living room lights.\nSo as not to wake Sakura, I slip out of the house as quietly as I can.",
+      "sourceUnit": "桜ルート六日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...We fail to turn up anything out of the ordinary in Miyama.\nI went to the Matou house just in case, but the grounds were quiet, and we couldn't pick up any traces of Servants or magical energy.",
+      "sourceUnit": "桜ルート六日目-17:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nothing seems particularly amiss. It has been one day since Caster was eliminated. I suppose the other Masters must be monitoring the situation as well.\"\n\"...Yeah. I hope so.\"",
+      "sourceUnit": "桜ルート六日目-17:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "According to Saber, most of the magical threads that Caster had spread throughout town have disappeared.\nThere isn't a Master draining magical energy from people in the city anymore.\nSo...what is this vague sense of anxiety?",
+      "sourceUnit": "桜ルート六日目-17:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The town is quiet.\nNot a soul is out on the streets.\nIt was quiet yesterday night too, but the town feels so cold and devoid of life that it's like looking at a still painting.",
+      "sourceUnit": "桜ルート六日目-17:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us return, Shirou. There is nothing of note here.\nYou seem unwell, so you should rest tonight.\"\n\"Ah...yeah, you're right. It's almost midnight, too. Let's head back.\"\nAt Saber's urging, we take the path back up the hill.",
+      "sourceUnit": "桜ルート六日目-17:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0021",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Since I have some time, maybe I'll make another dish.\"\nI open the fridge.\nLooks like it's just cucumbers and potatoes.",
+      "sourceUnit": "セイバールート二日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm, I could cut the cucumbers into sticks and salt them, or I could cut the potatoes into thin strips to make a vinegared dish.\"\nEach only takes a few minutes, and they're both better if they're fresh.\nIt'll be another thirty minutes before Fuji-nee and Sakura show up. I might as well make the dishes right before I serve breakfast.",
+      "sourceUnit": "セイバールート二日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI really don't know what to do with the extra time.\nWhat can I make in thirty minutes?\n\"I have some chicken tenders set for dinner. So I can make...\"\nMaybe I'll wrap the meat and vegetables into bite-sized pieces and sauté them.",
+      "sourceUnit": "セイバールート二日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Or maybe I can filet the chicken and flatten it with a meat tenderizer.\nThe tenderizer is such a wicked-looking thing. It's a hammer with square sides, and the hammering surface is covered in spikes.",
+      "sourceUnit": "セイバールート二日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "If it were any bigger, it'd work pretty well as a torture device.\nUsing this frightening tool, I flatten the chicken, wrap it in carrots and green beans, cook it in a frying pan, and then add some sake to steam it up.",
+      "sourceUnit": "セイバールート二日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"(Gasp) Wait, what the hell am I doing!?\"\nI come to my senses after I reach this step.\n...I was supposed to make a simple small dish, since the saury fish that's supposed to be the main dish is still waiting to be broiled.\nBut now I've prepared a meat-wrapped veggie dish, which is like another main course!",
+      "sourceUnit": "セイバールート二日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, great. I must be out of it, making an unnecessary dish when I was only supposed to kill some time.\"\n\"Did you really make this just to kill time, Senpai?\"\n\"Yeah. But let me explain. I only wanted to make an extra side dish, but the next thing I knew, I was holding my knife. Honestly, habits are a scary thing...but I'm honestly just making excuses.\"",
+      "sourceUnit": "セイバールート二日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"But I think that's wonderful. It may be a bit extravagant for breakfast, but since you made it, I'm sure there won't be any leftovers.\"\n\"You think so? Well, that's not the issue here, though.\nA sky doesn't need two suns. We'll have to ask one to leave.\"\n\"What!? You're not going to eat it even though you went through all the trouble of making it?\"",
+      "sourceUnit": "セイバールート二日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll eat it. I didn't plan on it, but I'll make a bento for lunch today. That way the leftovers won't go to waste.\"\n\"Wow. Are you going to make a bento now?\"\n\"I might be cutting it kinda close, but I think I have enough time. If I'm just making it for myself, there should be enough rice—\"",
+      "sourceUnit": "セイバールート二日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Hold up.\nI finally realize there's someone behind me.",
+      "sourceUnit": "セイバールート二日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Senpai. Thank you for having me again today.\"\nSakura greets me with a smile.\nIt's not unusual for Sakura to come into the kitchen at this time.\nShe usually rings the doorbell and then comes in, but sometimes I'm too preoccupied to notice. Like today.",
+      "sourceUnit": "セイバールート二日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"M-morning, Sakura. Breakfast is ready so just sit at the living room table. Tea is ready.\"\nI call out as I keep my eyes on the frying pan.\nA pot of hot water, a teapot, and some snacks sit on the table.",
+      "sourceUnit": "セイバールート二日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, okay. You're always so thorough, Senpai.\"\nI'm not sure what's got her so happy, but Sakura is a lot more animated than usual.\nAnd then...\nSakura gleefully walks into the kitchen instead of to the table.",
+      "sourceUnit": "セイバールート二日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're going to make a bento, Senpai?\"\n\"Hm? Yeah, it's turning out that way. This will be perfect for a bento, so I thought I'd make a few more sides.\"\n\"Um, then would you mind if I made one too? I'll make mine myself.\"\n\"No, hold up. If you don't mind having the same thing, I can share some of my side dishes.\"\n\"Yes. I was watching, and I've been wanting to try that grilled dish.\"\n\"Got it. Then can you cook the rice, Sakura? I don't have enough rice for two bentos right now. That rice cooker over there has a quick cook setting.\"\n\"Yes, got it. You can count on me.\"",
+      "sourceUnit": "セイバールート二日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I hear the sound of soft footsteps and an apron's strings being tied.\n\"Senpai, is two cups of rice enough?\"\n\"Hm, that should be enough.\"\nWith unhurried yet efficient movements, Sakura joins me in the kitchen.",
+      "sourceUnit": "セイバールート二日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning! Food smells great as always, guys!\"\nIt's half past six.\nFuji-nee comes in, thirty minutes after Sakura arrived.",
+      "sourceUnit": "セイバールート二日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning. Please wait a bit longer for breakfast.\"\n\"Okay, no problem. Wait a minute. Sakura, are you making breakfast with Shirou?\"\n\"Senpai finished making breakfast on his own. We're making bentos for lunch.\"",
+      "sourceUnit": "セイバールート二日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's voice is unusually lively.\nThis isn't exactly an exciting task, so I'm not sure why she's in such a good mood.",
+      "sourceUnit": "セイバールート二日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I see. No wonder you're in a good mood this morning. Cooking with Shirou... Everything about that's fun. Good, good. You may not have much time, but savor the moment!\"\nFuji-nee laughs as she heads to the table and pours herself some tea.",
+      "sourceUnit": "セイバールート二日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a lotta nonsense you two are talking for so early in the morning. What's so fun about being in the kitchen right before school?\"\nI put the frying pan back on the shelf.\nThe side dishes are done, and all that's left is to pack them in the bento box.",
+      "sourceUnit": "セイバールート二日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry for making you do extra work right before you go to your club, Sakura.\nI made you do so much yesterday, so I wanted you to relax this morning.\"\n\"Eh? Oh, don't worry about it. Like Ms. Fujimura said, being in the kitchen is fun.\"",
+      "sourceUnit": "セイバールート二日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "She beams.\nI know Sakura likes to cook. But making bento so early in the morning must be tough.\nOn top of that, Sakura comes and makes dinner pretty often.\nMaking her cook in the morning would take away whatever small bit of free time Sakura might have.",
+      "sourceUnit": "セイバールート二日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I appreciate when you help and all, but you need to relax sometimes, Sakura. Maybe you should sleep in a bit, or go out and have some fun after school. You really don't have to come here and help me all the time.\"",
+      "sourceUnit": "セイバールート二日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I am taking it easy. You made breakfast this morning, and you shared your bento with me.\"",
+      "sourceUnit": "セイバールート二日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Sakura smiles warmly.\n(Sigh)\nIt's been a year and a half since Sakura started coming to help me here, and she still never listens to a word I say.",
+      "sourceUnit": "セイバールート二日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"That's different. You have your own life, and taking care of Fuji-nee and me is just a burden. If you keep spoiling me like this, you won't have any time for yourself.\"",
+      "sourceUnit": "セイバールート二日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehehe. I don't mind. Cooking and archery are my only hobbies anyway. By the way, my goal is to one day surpass you in your cooking, and I feel like I'm getting there.\"\nSakura proudly puffs her chest.\n...Gngh.\nI'd like to argue, but there's no denying that she's almost better than me in the kitchen.",
+      "sourceUnit": "セイバールート二日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"So please don't worry about me. I do enjoy cooking here, and I'm really happy to see myself improve.\nI want to pay you back for teaching me this joy, and I'm helping out with housework as a way to practice.\"",
+      "sourceUnit": "セイバールート二日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Does that mean you're trying to steal all my skills, Sakura?\"\n\"That's right. By helping you in housework, I improve in all the things I love to do. That's why you should watch out, Senpai. You'll have to admit defeat soon.\"\nWhoa.\nI don't believe it. Sakura said that with such conviction!",
+      "sourceUnit": "セイバールート二日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"(Sigh) If I'd known this was going to happen, I wouldn't have taught you to cook. You didn't even know what vegetable oil was when you first started. Now you're looking for the opportunity to strike at your master's throat. Why're you so adamant about beating me anyway?\nJust being able to cook should be enough.\"",
+      "sourceUnit": "セイバールート二日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I've set the bar high. It will be no good to allow your cooking to be better than mine.\"\nWhat's that supposed to mean?\nI don't know what exactly about that is no good, but whatever. We need to set out breakfast.",
+      "sourceUnit": "セイバールート二日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Hup.\"\nI take a look at the broiling saury fish.\nI stick my chopsticks in the fish's nicely colored belly to check how far it's cooked.",
+      "sourceUnit": "セイバールート二日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Looking good. Sakura, here, take it over to the table.\"\n\"Okay. Very nice work, Senpai.\"",
+      "sourceUnit": "セイバールート二日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I hand Sakura a plate with the fish.\nBut then...\nSakura suddenly stops in her tracks, as if she remembered something really important.",
+      "sourceUnit": "セイバールート二日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? Did you forget something?\"\nSakura may look like she's put together, but she can actually be really forgetful.\nIt's not unusual for her to suddenly remember something out of the blue, just like this.\nBut that doesn't seem to be the case this morning.",
+      "sourceUnit": "セイバールート二日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura?\"\n\"...\"\nSakura doesn't respond.\nShe stares, dumbfounded at my hand, but she seems to be unaware of her dazed state.",
+      "sourceUnit": "セイバールート二日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, what happened to your hand?\"\nWhat a strange question.",
+      "sourceUnit": "セイバールート二日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI pull my hand back.",
+      "sourceUnit": "セイバールート二日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...? Hey, it looks like I bruised the back of my hand. That's weird. I don't remember bumping it on anything.\"",
+      "sourceUnit": "セイバールート二日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sure why, but a large bruise is forming on the back of my hand.\nIt looks like it's a cut, and it's forming a big welt.\nPretty disgusting, if I say so myself.\nSakura looks ill, and she's fallen silent.",
+      "sourceUnit": "セイバールート二日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry but I'll leave the rest of breakfast to you. I'm going to find something to cover this.\"\nI leave Sakura to take care of breakfast, and head to the dojo.\nI might've hurt myself when I was sleeping, but either way I need to treat it.",
+      "sourceUnit": "セイバールート二日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut for some reason...\nI can't get the image of Sakura being so awkward and distraught out of my head.",
+      "sourceUnit": "セイバールート二日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll go on ahead, then.\"\n\"Sakura, are you sure you're okay? If you don't feel well, you don't have to go to your club.\"",
+      "sourceUnit": "セイバールート二日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I'll be fine. I just have a headache, so it's nothing to worry about. It's just your imagination. I'm actually full of energy right now.\"\nShe explains with a smile, but it's obvious she's just putting on a brave face.",
+      "sourceUnit": "セイバールート二日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Full of energy, huh? You didn't even take a single bite of your breakfast.\"\n\"Oh...\"\nShe averts her eyes, looking uneasy.",
+      "sourceUnit": "セイバールート二日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Sakura continues to look away, and says,\n\"I'll be going. You should get some rest.\"\nShe leaves.",
+      "sourceUnit": "セイバールート二日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "The dining table is neatly cleared.\nBut there is an entire set of dishes with breakfast for one person in the kitchen sink, untouched.",
+      "sourceUnit": "セイバールート二日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, what's gotten into Sakura?\"\nSakura was in high spirits this morning, but then she suddenly got all quiet when she saw my injury, and everything she did from then was one mistake after another.",
+      "sourceUnit": "セイバールート二日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "She overfilled her teacup, she drenched soy sauce over her omelet to the point that it turned black, and she sat down to eat with her apron still on.\nIn the end, she hardly took a bite of her breakfast, then headed off to school looking pale.",
+      "sourceUnit": "セイバールート二日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder if she caught a cold.\"\nI mumble as I finish cleaning up.\nWhatever it is, I've never seen Sakura act like that.\nI met Sakura four years ago in the summer, and it's been a year and a half since she started coming to my house to help with housework.\nIn all that time, I've never seen Sakura look the way she did today.",
+      "sourceUnit": "セイバールート二日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...\nFuji-nee should be at the archery range, so I don't think there will be an issue there, but I should go and check on her sometime after school.",
+      "sourceUnit": "セイバールート二日目-03:page50:1"
+    },
+    "page51": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

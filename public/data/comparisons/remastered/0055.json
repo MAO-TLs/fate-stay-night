@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0055",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...The battle is still going on.\nSaber is fighting to protect me.\nEven if there's nothing I can do, I should go.",
+      "sourceUnit": "凛ルート三日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The two Command Spells marking my left hand...\nI shook hands with Saber, vowing that I would fight as her Master, and I'm standing here now.",
+      "sourceUnit": "凛ルート三日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh, what I am doing...!\"\nI start running, shaking off my fear and hesitation.\n...I'm going to die.\nI call on every ounce of my willpower, my pride, everything I can...and I sprint up that hill as fast as I can.",
+      "sourceUnit": "凛ルート三日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Get back, Emiya. If you get any closer, you'll get in Saber's way.\"\nI stop as she grabs my shoulder.",
+      "sourceUnit": "凛ルート三日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you not hear me? I told you to just stay out of the way. Saber's winning. ...Well, I think you can work that out without me having to explain it.\"\nTohsaka is calm as she stops me. That she's hiding behind a tree is probably helping with the calm part.",
+      "sourceUnit": "凛ルート三日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What... Saber's winning...?\"\nAgainst that monster?\nShe's saying Saber is going to beat that thing she was barely surviving against just a moment ago?",
+      "sourceUnit": "凛ルート三日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't believe me, hmm?\n...Why don't you just watch? I hate to admit this, but your Servant is amazing in all respects. If nothing interferes, she's going to beat Berserker.\"\nTohsaka snorts, lurking behind the tree.",
+      "sourceUnit": "凛ルート三日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Blades clash.\nBerserker's attacks slash only empty air, tearing apart his surroundings like a tornado.\nBetween those attacks...\n...within the swirling whirlwind, flying clods, and rain of broken tombstones, Saber closes in on Berserker, without even scratching her armor.",
+      "sourceUnit": "凛ルート三日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is...divine. Like nothing I've ever seen.\nAfter witnessing a battle that is nearly impossible for humans, the fear I felt until just now disappears.\nIn fact, I'm fascinated.",
+      "sourceUnit": "凛ルート三日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The whole thing about the Holy Grail War hadn't really sunk in yet, and I was so anxious.\nBut after seeing her? All that just...fades away.",
+      "sourceUnit": "凛ルート三日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Swords dance around each other in violent, brutal arcs.\nAt the center of that whirlwind of fatal destruction, the knight challenges her enemy without hesitation.",
+      "sourceUnit": "凛ルート三日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Maybe this is what made me accept it all.\nNo matter what may wait in the future...\n...with Saber at my side, I could fight even a god.",
+      "sourceUnit": "凛ルート三日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...I thought so. I thought it was suspicious, but she blocked Berserker's sword on purpose.\"\nQuietly...\nTohsaka mutters without emotion.",
+      "sourceUnit": "凛ルート三日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Was that to lure Berserker here?\"\n\"Figured it out too, huh. Fighting that thing in the open, with no cover, is suicide. So Saber chose this place as their battlefield. She did it cleverly, too, drawing Berserker away from you while pretending to be on the back foot.\"",
+      "sourceUnit": "凛ルート三日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That would mean...\nSaber must have decided this was a good place to fight as far back as when we were walking down the hill.",
+      "sourceUnit": "凛ルート三日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Certainly, you can't expect backup in a battle like this.\nBut this monster nullifies even Archer's arrows.\nBackup would've been meaningless in the first place.\"\nTohsaka mutters while watching the battle between Saber and Berserker.",
+      "sourceUnit": "凛ルート三日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer's arrows...\"\nThose words get my attention.\nArcher is nowhere to be seen.\nIf he is a bowman as his name suggests, then close combat probably isn't his thing, but...",
+      "sourceUnit": "凛ルート三日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"She got him...!\"\nTohsaka snaps her fingers.\nJust as she said, either Saber must have struck Berserker, or he must have lost his footing...\nBerserker, who hadn't so much as faltered until now, loses his balance.",
+      "sourceUnit": "凛ルート三日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\nHe unleashes a wild attack in desperation.\nSaber dodges backward and grips her sword with both hands.",
+      "sourceUnit": "凛ルート三日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...This is it.\nAs his desperate attack is dodged, Berserker loses his balance completely...\n...and Saber bends her knees to rush in with all her might.",
+      "sourceUnit": "凛ルート三日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Then...\n\"...Huh, Archer...? What do you mean 'get away'?\"\nI notice the confusion in Tohsaka's voice as she tilts her head. Then I sense the lethal intent aimed in this direction...from far away.",
+      "sourceUnit": "凛ルート三日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nFrom behind.\nI see a knight in red holding a bow on a rooftop hundreds of meters away.",
+      "sourceUnit": "凛ルート三日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's either nausea or chills.\nHe's holding a bow.\nIt's no different from before.\nEven if he aims perfectly, it won't do any damage.\nSo there's no sense feeling so threatened by it...",
+      "sourceUnit": "凛ルート三日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\n...but I get chills anyway.\nHe's nocked...it's not an arrow. It's something else.\nThat intent to kill isn't directed solely at Berserker.",
+      "sourceUnit": "凛ルート三日目-05:page23:1"
+    },
+    "page24": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page25": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0079",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The gate is still locked.\n\"Oh right. It's been a while since I came home this early.\"\nI usually help out doing odd jobs or go to a part-time job, so it's rare for me to come straight home from school.",
+      "sourceUnit": "セイバールート五日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I usually find the gate unlocked and Sakura preparing dinner inside.\nI've gotten so used to that after a year, I've forgotten how important coming home early can be.\nEven the simple act of opening a locked gate makes me realize how thankful I should be for Sakura coming here.",
+      "sourceUnit": "セイバールート五日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home.\"\nI step into the hallway as I call out.\nThe moment I enter the living room, I see the blonde girl.",
+      "sourceUnit": "セイバールート五日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"You are back, Master.\"",
+      "sourceUnit": "セイバールート五日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nFor a split second...\n...as I see Saber, I feel like I've been hurled into a dream or some sort of fantasy.",
+      "sourceUnit": "セイバールート五日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Did you just get home?\"\nShe calls my name in a quiet voice.\nI finally come back to reality.",
+      "sourceUnit": "セイバールート五日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...S-Saber? Sorry, you surprised me, popping up so suddenly like that.\"\nJust for an instant, I mistook her for a normal girl, rather than Saber.",
+      "sourceUnit": "セイバールート五日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Your orders were for me to stay here. Was I mistaken?\"\n\"Oh, no...I just got confused. Don't worry about it.\nB-but how are you feeling, Saber? You said you were going to sleep a lot, so does that mean now you're...\"",
+      "sourceUnit": "セイバールート五日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no problem with me being awake now.\nWell, it would be ideal for me to sleep except when fighting, but that would leave me rusty.\nI should move around periodically, or my body will not be properly responsive when I most need it.\"",
+      "sourceUnit": "セイバールート五日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. You have a point there. You get a headache if you sleep all day, and I'm sure you're not sleeping because you're sleepy.\"",
+      "sourceUnit": "セイバールート五日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, that's true. I do not sleep because I get fatigued.\nBut Shirou, did you say you get a headache when you sleep too much?\"",
+      "sourceUnit": "セイバールート五日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you? People don't typically do well if they sleep a good chunk of the day. In my case, I'll get woken up by a headache, so I can't sleep for more than half a day.\"",
+      "sourceUnit": "セイバールート五日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"How strange. That never happened to me. I have always been able to sleep as much as I like, both now and in the past.\"",
+      "sourceUnit": "セイバールート五日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. That doesn't sound particularly efficient, Saber. Sleeping all day would be a waste. Wouldn't it be more fun to wake up and play if you weren't sleepy?\"",
+      "sourceUnit": "セイバールート五日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You may be right. You waste less time that way.\"\n\"Right? You may have been forced to do this because you're with me, but once your contract with me ends, you should go back to your normal lifestyle and cycle.\nIt may not be my place to say, but if this becomes a habit and you sleep all day, people might start thinking you're lazy.\"",
+      "sourceUnit": "セイバールート五日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"It may in fact be too late. Some may already see me that way.\"",
+      "sourceUnit": "セイバールート五日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "She thinks about it and furrows her brow.\nI thought this was just idle chitchat, but Saber doesn't really seem to get jokes.",
+      "sourceUnit": "セイバールート五日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "We move to the living room.\nSaber looks like she wants to know what happened today, so I decide to tell her about the Bounded Field at school Tohsaka warned me about.",
+      "sourceUnit": "セイバールート五日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That Master must be planning to use the people inside the school as a sacrifice.\"\n\"To be blunt, probably, yeah. Tohsaka said it needs more time though.\"",
+      "sourceUnit": "セイバールート五日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I agree. Completing a Bounded Field that large should take a considerable amount of time. It is possible to enclose a school building, so it was most likely chosen to function in a manner similar to a temple altar.\nI believe it would take at least ten days to fully activate a Bounded Field of that scale.\"",
+      "sourceUnit": "セイバールート五日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ten days...I felt something strange two days ago, on Saturday, so that means we still have about eight more days. That lines up with Tohsaka's estimate.\"",
+      "sourceUnit": "セイバールート五日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Whether that Bounded Field is meant to gather sacrifices or is intended to solidify the opponent's defenses, both will pose a problem for us if we permit its completion. We will need to find the Master who created this Bounded Field before that happens.\"",
+      "sourceUnit": "セイバールート五日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, Tohsaka said it would be challenging, but it should be easy to identify someone if they're lurking in the school. We need to do everything we can to find them and make them stop the Bounded Field.\"",
+      "sourceUnit": "セイバールート五日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "The chances of them being someone from school are pretty high, considering where they set up their Bounded Field.\nA student or teacher.\nStarting tomorrow, I'll search the school as thoroughly as I can during lunch and try to find anyone suspicious.",
+      "sourceUnit": "セイバールート五日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Other than that...we'll need to figure out what kind of Servant they have with them.\"\nThen again, we'll only learn that once we've found them.",
+      "sourceUnit": "セイバールート五日目-08:page24:1"
+    },
+    "page25": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート五日目-08:page25:1"
+    }
+  }
+}

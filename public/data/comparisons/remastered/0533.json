@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0533",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The room smells of stone.\nIt's lit by natural, not man-made, light.\nThe flickering lamplight illuminates the man's back and highlights the parchment in his hand.",
+      "sourceUnit": "桜ルート八日目-22:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sending a report to that Assocation of yours? You're a busy man, Kotomine.\"\nThe voice comes from behind, its source unclear.\nIt addresses a man sitting in a chair, who begins his second task without showing a hint of surprise.",
+      "sourceUnit": "桜ルート八日目-22:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"About the usurpers, I see.\nLet's see here... Fifty-seven casualties so far, including five deaths. Would you consider that a high number as the overseer?\"\n\"It's still unremarkable at this stage. This is the first mass coma incident on such a large scale, but it's no problem if it stops here. Both organizations are prepared to cover up something of this level.\nHowever...\"\n\"That's only true if it keeps to the current pace, yes? ...Hmph. Someone out there is being very bold.\nHave you realized it, yet? If you leave this be, the town will soon be uninhabited.\"",
+      "sourceUnit": "桜ルート八日目-22:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Kotomine doesn't answer.\nHe's well aware of what the young man behind him is saying.",
+      "sourceUnit": "桜ルート八日目-22:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The enigmatic shadow that appeared in town...\nSo far, it's only drained life energy, but the quantity increases by the day.\nThe number of bizarrely drained victims that began to appear two days ago has exceeded expectations in only a manner of days.\nSo far, it leaves the victims only in respiratory distress, but soon, not even a healthy adult male will be able to survive a night.",
+      "sourceUnit": "桜ルート八日目-22:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, there is no need to worry. They are no amateur, so they should know their limits.\"\n\"I wonder about that. That may not be true for the insect-user. Their type causes trouble if they aren't crushed quickly. I find this shameless slaughter of the townspeople repulsive.\"",
+      "sourceUnit": "桜ルート八日目-22:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "That statement comes as a surprise to Kotomine.\nThis man has no need for anyone other than himself, so why does he care about the people of Fuyuki?",
+      "sourceUnit": "桜ルート八日目-22:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"What a surprise. Has Hell frozen over, Gilgamesh?\"\n\"It's nothing to be shocked about. I do not approve of anyone other than myself taking human life. When the people kill each other, it makes for boring crime and punishment. There is nothing to enjoy about such suffering, and so they lose their way.\"",
+      "sourceUnit": "桜ルート八日目-22:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You are a Heroic Spirit, after all.\nYou grant death to save them from the pain of life. So, do you desire death after all?\"\n\"Naturally. This era is filled with meaningless and worthless people. It is only right to purge them all.\"",
+      "sourceUnit": "桜ルート八日目-22:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "His scornful voice brims with absolute confidence and majesty.\nThe priest continues working without pause as he listens.",
+      "sourceUnit": "桜ルート八日目-22:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I see what you mean.\nYou should use the Holy Grail, if that is your wish. As long as no one appears to defeat you, then it belongs to you.\"\n\"Hmm? Don't you have a wish, Kotomine?\"\n\"Nothing so specific as that. All I have is a desire for clear pleasure.\"\n\"Ha. Hahaha! Indeed? You desire pleasure!?\"",
+      "sourceUnit": "桜ルート八日目-22:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The young man laughs at the straightforward answer.\nA deep chuckle erupts from him, like he's proud of his partner.",
+      "sourceUnit": "桜ルート八日目-22:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. I kill because they digust me, while you kill because they entertain you. Our reasons may be different, but we seek the same grail. That is why you have my patronage!\"\n...\nThe priest doesn't answer.\nHe merely fulfills his duty, dispassionately.",
+      "sourceUnit": "桜ルート八日目-22:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. You may choose not to act, as well. Do as you please.\"\nThe young man's presence disappears.\nThe stone room returns to silence, and the priest glances at the entrance.",
+      "sourceUnit": "桜ルート八日目-22:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"He seems drunk, but is sane to the core. Even that mud failed to corrupt his soul.\"\nGilgamesh, the King of Heroes.\nThe golden Servant is the most powerful being in play right now.\nThis is acknowledged by all, and Kotomine, the game master, does not doubt it.\nBut...",
+      "sourceUnit": "桜ルート八日目-22:page14:1"
+    },
+    "page15": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート八日目-22:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

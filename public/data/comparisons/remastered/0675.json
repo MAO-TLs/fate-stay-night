@@ -1,0 +1,186 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0675",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We get through the forest.\nWe're in a circular clearing in the vast sea of trees.\nThe castle I saw through Illya's \"eyes\" towers over the forest, just as I remember.",
+      "sourceUnit": "桜ルート十五日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "There's no sign of anyone around.\nIt's strange that there's no guards on the castle walls, to say nothing of the castle, but I can't turn back now just because this might be a trap.",
+      "sourceUnit": "桜ルート十五日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine. Can we get to the second floor from that tree?\"\nEven if they know we're here, it would be suicide to go through the front door.\nI need to do whatever I can to get inside, even if it might not work.",
+      "sourceUnit": "桜ルート十五日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me see...\nI was thinking we could infiltrate via the aqueduct, but this enemy is not so easily approached.\nThey will detect us as soon as we enter the castle. We should take the most direct path to where Illyasviel is being held and extract her whether she agrees or not. But...\"",
+      "sourceUnit": "桜ルート十五日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The priest thinks aloud as he gazes up at the castle.\nHe narrows his eyes, seeming to peer through the walls, and examines each window carefully.",
+      "sourceUnit": "桜ルート十五日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...What a surprise. We seem to be underestimated, Emiya.\"\nKotomine smirks.\n\"Huh?\"\nI doubt my ears. This might be the first time I've ever heard him sound so delighted.",
+      "sourceUnit": "桜ルート十五日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what is it, Kotomine? Did you find something?\"\n\"I did.\n...By the way, do you have any rock climbing experience, Shirou Emiya?\"",
+      "sourceUnit": "桜ルート十五日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are you serious?\"\n\"Of course, I am talking about free climbing. It is a sheer wall with no overhangs, and plenty of footholds. It will be easy to scale it without any equipment. Like a walk in the park, compared to climbing a wall of ice.\"\n\"Wait—\"\nKotomine places his hand on the castle wall without waiting for my opinion.",
+      "sourceUnit": "桜ルート十五日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nThen he just starts climbing it, sticking to the surface like a spider.\nHe isn't going very fast, but his ascent is sure and steady.",
+      "sourceUnit": "桜ルート十五日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? If you're not sure where to step, then copy me. I know you're strong enough to climb a mere four stories.\nOh, and leave the Black Key. You can pick it up on the way back.\"\nWith that, the priest keeps climbing.",
+      "sourceUnit": "桜ルート十五日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Is that guy being serious?\"\nI drop the sword Kotomine lent me and approach the wall.\n...He must have picked an easier section of the wall to climb. The surface is uneven, and I find a place to grab on to.",
+      "sourceUnit": "桜ルート十五日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Free climbing is about more than just muscle strength.\nYou need to judge whether your next handhold is safe or not, whether a depression is deep enough to support your weight, whether you can use it to make it to the next step.\nAnd when climbing a nearly vertical wall, you're basically making it up as you go along.\nYou could be a meter from your destination, but if you can't find your next handhold, you'll have to go all the way back down to the ground and try a new route.",
+      "sourceUnit": "桜ルート十五日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Finding your way to the goal...\nOnly experienced climbers have the skill to constantly scan two to three steps ahead while scaling a wall.\nAnd I'm definitely not experienced, so all I can do is try to imitate Kotomine.\nOne slight misstep or failure to judge my strength could send me careening to the ground.",
+      "sourceUnit": "桜ルート十五日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't believe him. Who would make a beginner do this?\"\nI grumble while I climb.\n...It's a crazy plan, but not totally reckless.\nNormally, you'd only climb walls like these when you're more than halfway to a mountain summit.",
+      "sourceUnit": "桜ルート十五日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "And climbers need to worry about more than just climbing.\nJust as the deep ocean is an inaccessible abyss to humans, high altitudes are also sacred ground that we can't enter.",
+      "sourceUnit": "桜ルート十五日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "At 6000 meters above sea level, oxygen becomes critically thin, and untrained climbers can't last more than a few hours.\nThey'll suffer from nausea and dizziness, which will progress to cerebral edema before culminating in death.\nA mountain peak is an airless hell that becomes harsher the higher you go.",
+      "sourceUnit": "桜ルート十五日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Plus, the extreme cold—even the slightest scratch on frostbitten skin will lead to necrosis.\nClimbing in such extreme conditions means you have to worry about your bodily functions steadily declining as you ascend.\nCompared to the harrowing ordeal that real climbers face, scaling a castle wall doesn't sound impossible at all.",
+      "sourceUnit": "桜ルート十五日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Or so you'd think, but...\"\n...It's still hard.\nAll I can use are the very tips of my fingers.\nI cautiously scout out the thinnest of lips or crevices I can use to support my entire body weight.\nHe's asking me...to keep up with him...on a climb only an expert could do...!",
+      "sourceUnit": "桜ルート十五日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Wait, she moved. She's on a lower floor than I thought. Emiya, go down and enter through a third story window.\"\n\"Don't ask...the impossible...\"\nDo I look like a lizard to you!?",
+      "sourceUnit": "桜ルート十五日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Kotomine, I found a window! How do I get inside!?\"\n\"I don't care. Break it.\"\n\"Rrgh! You fake priest, if I'd known about this...\"\nIt would have been way easier to climb a tree to get inside, you moron!",
+      "sourceUnit": "桜ルート十五日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nI break into the castle.\nI shatter a window and dive through it, all in the same motion.\nI hang from a wall with both hands and swing my body like a pendulum to bust through the window with my legs.",
+      "sourceUnit": "桜ルート十五日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaah...!\"\nI roll on the floor...and onto an extravagant carpet.\nBy the time I swung my legs down, most of my body was already falling.\nIf I'd been even a tiny bit late kicking in the window, I might have kicked off the stone wall instead and fallen three stories on my back.",
+      "sourceUnit": "桜ルート十五日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap, anyone would die from a three-story fall on their head...\"\nBreaking the glass with my legs and rolling into the shards was dangerous, but I chalk it up as an acceptable risk.\n\"...Shirou?\"\nFor an instant...\nAll worldly trifles vanish from my mind.",
+      "sourceUnit": "桜ルート十五日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya.\"\nI even forget that I'm deep in enemy territory.\nI recall the events from my backyard.\nIllya said farewell to me with such a forced smile.",
+      "sourceUnit": "桜ルート十五日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't believe this. Why did you come, Shirou? I said that your role in this is over. Are you still going to waste your effort?\"\nHer voice is stony.\nShe's making the same cold expression she did when we first met.",
+      "sourceUnit": "桜ルート十五日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm used to it.\nI should be used to seeing her like this, but...",
+      "sourceUnit": "桜ルート十五日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you get it? You can let me take care of Sakura. It's my role, so you need to go home.\"\n\"Don't say it's your job to clean up this mess, idiot.\"\nI lose my patience and slap Illya's cheek.",
+      "sourceUnit": "桜ルート十五日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... H-how rude! No gentleman would slap a lady's cheek! D-don't think you can get away with this just because it's you, Shirou!\"\n\"You're the one who needs to apologize, stupid Illya! If you were a boy I'd give you a good punch, you little delinquent!\"",
+      "sourceUnit": "桜ルート十五日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "My blank mind suddenly flares with irritation, even though I'm happy to see Illya.",
+      "sourceUnit": "桜ルート十五日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh!? I didn't do anything wrong! I went along with Sakura to fulfill my duty. It's the best way to resolve this, and you don't have a say in—\"",
+      "sourceUnit": "桜ルート十五日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Shut up! I don't care!\nLook, I don't know anything about your role or your duty. I'm just here to take a misbehaving girl home.\nYou can't fool me, no matter how tough you try to act. As long as any part of you doesn't want to do this, I'm taking you home!\"",
+      "sourceUnit": "桜ルート十五日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... I'm not acting! I'm here because I want to be. My body was created as a Holy Grail. I don't want to be a key for them, but if the Holy Grail can be utilized, even Sakura—\"",
+      "sourceUnit": "桜ルート十五日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"That's the definition of acting tough!\nWho cares about the Holy Grail!? You're Illya. If you want to keep being yourself, forget about all that. Don't sacrifice yourself for anything or anyone else!\"",
+      "sourceUnit": "桜ルート十五日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nI look away.\nIllya bites her lip for a second.\n\"...You too, Shirou.\"\nShe whispers something I didn't quite hear.",
+      "sourceUnit": "桜ルート十五日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. Let's say I don't want to be here. So what? We can't win against Sakura. We can't even run away.\nIt's impossible to take me away from this castle. That's why Zouken's letting me do as I please.\nHe might let you leave on your own, but there's no way you're getting out of this forest with me.\"",
+      "sourceUnit": "桜ルート十五日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Her scarlet eyes urge me to leave.\nI...",
+      "sourceUnit": "桜ルート十五日目-04:page35:1"
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0016",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And that is how my day ends.\nJust before midnight, Shirou Emiya must perform the daily routine of utilizing magecraft.",
+      "sourceUnit": "セイバールート一日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI cross my legs, take my position, and regulate my breathing.\nI try to empty my mind.\nI ignore everything around me and turn my focus inward.",
+      "sourceUnit": "セイバールート一日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace On.\"\nI mutter the familiar incantation, as if putting myself in a spell.\nNo, this is a kind of hypnosis.\nWith no Magic Crest and no magical knowledge, the incantation I mutter is really just a way to focus myself and change my body.",
+      "sourceUnit": "セイバールート一日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Typically, humans do not have any lines which allow magical energy to pass through their body.\nTo temporarily change my body to create a pseudo version of the lines, I need enough concentration to unify my entire physical and nervous systems.",
+      "sourceUnit": "セイバールート一日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Magecraft is a battle with yourself.\nFor example, I insert a burning steel rod into my backbone.\nThe steel rod itself is the one and only Magic Circuit I can prepare for myself.\nBy passing this deep within my body and connecting it to my other nerves, I can finally be a mage.",
+      "sourceUnit": "セイバールート一日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "This is not a metaphor.\nAnd if you look closely, a series of metal rods, which cannot normally be seen or touched, pierce my backbone.",
+      "sourceUnit": "セイバールート一日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I'm a magician.\nKiritsugu Emiya was a mage.\nHe was a true mage who disciplined himself in a wide variety of Mystics, plumbed the deeper secrets of the world and its workings, and even performed miracles.\nAnd as a young child I admired Kiritsugu, and begged him to teach me magecraft.",
+      "sourceUnit": "セイバールート一日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "But you can't just become a mage; you have to be born with talent, and inherit a tremendous amount of knowledge.\nI obviously never had that inborn talent, and Kiritsugu never imparted any knowledge about magecraft to me.\nI was told it wasn't necessary for me... Something like that.",
+      "sourceUnit": "セイバールート一日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I still don't understand what he meant by that.\nBut it didn't matter to me as a child.\nI always thought learning magecraft would bring me that much closer to being like Kiritsugu.",
+      "sourceUnit": "セイバールート一日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I was blessed neither with talent—that is, an abundance of Magic Circuits within me—nor was generations of magecraft knowledge handed down to me.",
+      "sourceUnit": "セイバールート一日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "The magecraft Kiritsugu possessed...the Magic Crest passed down from the Emiya family, can only be passed on to a blood relative.\nA Magic Crest, which is proof one is a mage, rejects any not blood-related.\nAs an adopted son, I could not receive the Emiya family's crest.",
+      "sourceUnit": "セイバールート一日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Then again...\n...since I honestly don't have any idea what the hell a Magic Crest even is, it doesn't matter much whether I have one or not.",
+      "sourceUnit": "セイバールート一日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "It's just a matter of gaining the ability.\nIf I want to be a mage, I just have to learn magecraft that suits the traits that I do have.",
+      "sourceUnit": "セイバールート一日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Magecraft is, taken to its extreme, a skill supposedly meant to release magical energy.\nYou could say that magical energy is a life force.\nMagical energy is separated into two sources: mana, which comes from the world's atmosphere, and od, which is created within living creatures.",
+      "sourceUnit": "セイバールート一日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Obviously mana, which comes from the world itself, is superior to od.\nThe sheer power of the world's mana is simply not even comparable to the od one human can create.\nNo matter the form it takes, magecraft utilizing mana will always surpass anything created from an individual's od.",
+      "sourceUnit": "セイバールート一日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "So a powerful mage is one who excels at drawing magical energy from the world.\nIt's a lot like a filtration system.\nA mage will use their own body's circuits to draw in mana from outside and convert it into something usable.\nMages call the circuits they use to accomplish this \"Magic Circuits.\"",
+      "sourceUnit": "セイバールート一日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "This is the inborn talent part. The number of Magic Circuits one has is determined at the moment of birth.\nTypically, humans have hardly any Magic Circuits.\nThey're normally quite rare.\nThat's why mages will spend generations trying to ensure their descendants have a body more suitable for magic.\nSome families even go as far as to practice selective breeding in order to increase the number of Magic Circuits in their children.",
+      "sourceUnit": "セイバールート一日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "And since I was raised in a normal family, I never had a chance of having much in the way of Magic Circuits.",
+      "sourceUnit": "セイバールート一日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "That left me only one option.\nAccording to Kiritsugu, everyone is well-suited to one specific form of magecraft.\nHe also said something about drawing out magical energy based on the person's \"origin,\" but I never quite understood that part.\nWhat I do understand is that even someone like me can use at least one form of magecraft. If I can do that, then maybe I can be like Kiritsugu.",
+      "sourceUnit": "セイバールート一日目-15:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "And that's why I've only learned this one magecraft.\nThat was eight years ago.\nAfter a lot of thought, Kiritsugu took me on as his disciple, though...he never seemed happy about it.",
+      "sourceUnit": "セイバールート一日目-15:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Listen, Shirou. Learning magecraft means leaving behind common sense. You die when the end comes for you, and you kill when you must.\nLife isn't at the core of what we do, death is. Magecraft is walking the path of self-destruction.",
+      "sourceUnit": "セイバールート一日目-15:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "I guess I knew no fear as a child.\nKiritsugu smiled bitterly, placing a hand atop my head as I nodded enthusiastically.",
+      "sourceUnit": "セイバールート一日目-15:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "What I'm about to teach you is the sort of thing that could cause conflict.\nSo you should never use it in front of anyone, and you should never forget your training, because it's difficult.\nThen again, you don't really need to follow it either.\nThe most important thing is that you always remember that magecraft is to be used for others, and not for yourself. And that would make you simply a user of magecraft, rather than a mage.",
+      "sourceUnit": "セイバールート一日目-15:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I guess Kiritsugu didn't want me to be a mage.\nBut I didn't care about that.\nI admired Kiritsugu, not mages.\nAs long as I can be the sort of person who lives to help others, like Kiritsugu on that day of fire and nightmare...",
+      "sourceUnit": "セイバールート一日目-15:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh!\"\nI got distracted.\nI feel the uncomfortable sensation of the iron rod in my backbone moving where it shouldn't.",
+      "sourceUnit": "セイバールート一日目-15:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...guh...ugh!\"\nLosing control of my breathing now would be fatal.\nThe pseudo-Magic Circuits would overwhelm my body and shred it to pieces.\nAnd that would be the end of me.\nShirou Emiya would simply be a novice who died because he failed at an elementary step.\n\"Hnnnh.... Haaah... Hrrk...\"\nI grit my teeth and try to recover my connection.\nAfter pain like walking through a storm of needles, the iron rod finally sinks deep within my body and fuses with me.\nI've been working on this for a little over an hour.\nAnd after all that time, I'm finally able to create one pseudo-circuit...a circuit capable of creating magical energy using my own self.",
+      "sourceUnit": "セイバールート一日目-15:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Basic structure, analyze.\"\nAll that's left is to allow the magical energy to flow naturally.\nShirou Emiya is no mage.\nHe is just a user of magecraft who can only create magical energy within his body and channel it into objects.",
+      "sourceUnit": "セイバールート一日目-15:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "And that's why I can only do one thing with this magecraft.\nWhich is...",
+      "sourceUnit": "セイバールート一日目-15:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Composition, analyze.\"\nEnhancing objects.\nIt's just Strengthening magecraft, where I apprehend an object's structure and channel magical energy to temporarily reinforce its abilities.",
+      "sourceUnit": "セイバールート一日目-15:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Basic structure, alter.\"\nI hold a broken iron pipe.\nI pass magical energy through it to execute the most basic magecraft, to enhance its durability.",
+      "sourceUnit": "セイバールート一日目-15:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Passing magical energy into something other than yourself is like mixing poison.\nMy blood is a far cry from the blood of an iron pipe. Forcing an entirely different sort of blood through an object may well destroy it rather than enhance it.\nTo prevent that from happening, I need to properly understand an object's structure and pass magical energy into it between the small vacant spaces.",
+      "sourceUnit": "セイバールート一日目-15:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Composition, reinforce.\"\nThis may be easy for a skilled mage, but since I have a hard time generating magical energy in the first place, even a task like this is as difficult as shooting an arrow and hitting a target several hundred meters from you.\nA typical archery target is twenty-eight meters away.\nSo it goes without saying how hard it would be to hit a target at ten times that distance.",
+      "sourceUnit": "セイバールート一日目-15:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...gh!\"\nMy body temperature suddenly plummets.\nThe fiery pillar passing thorough my backbone disappears, and my lungs seize in desperate need of oxygen.",
+      "sourceUnit": "セイバールート一日目-15:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...ha...haaah!\"\nMy back arches in an effort to keep me from passing out.",
+      "sourceUnit": "セイバールート一日目-15:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...damn. I failed again.\"\nThe iron pipe is unchanged. The magical energy I passed into it appears to have dispersed.",
+      "sourceUnit": "セイバールート一日目-15:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. Adding to something that already has a set form is...hard.\"\nWhat I'm attempting to do is like adding an extra brushwork to a completed work of art.",
+      "sourceUnit": "セイバールート一日目-15:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Adding something extra to a completed object raises the risk of compromising the object's integrity.\nThe paintbrush, hoping to improve, may actually devalue the work instead.\nWhich is why, despite its simplicity, Strengthening magecraft is so difficult, and not many mages willingly use it.",
+      "sourceUnit": "セイバールート一日目-15:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...And it's not that I chose this, but it's really all I can do.\nIt would be much easier if I could make something from shapeless clay, but a substitute that just recreates its form is all show and no substance.",
+      "sourceUnit": "セイバールート一日目-15:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Which explains all the junk around.\nWhenever I fail at Strengthening magecraft, I try to make substitute objects to practice and calm down on, but they all end up empty.\nI can visualize the structure of an object easily, and I can recreate something very similar. But it's hollow, and obviously doesn't function at all.",
+      "sourceUnit": "セイバールート一日目-15:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nI wipe the sweat off my brow.\nI realize I'm absolutely dripping with sweat.\nIf this is as bad as it got, I should consider myself lucky.\nBut what happened earlier was really bad.\nHad I taken even a second longer to recover, my internal organs would probably be mush about now.",
+      "sourceUnit": "セイバールート一日目-15:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"If only pushing myself to the brink of death helped me improve, there'd be some hope here.\"\nBut nothing comes that easily.\nAt the same time, fear of death will stand in the way of improving my magecraft.",
+      "sourceUnit": "セイバールート一日目-15:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Learning magecraft means courting death at every turn.\nEven rudimentary, everyday magecraft can spin wildly out of control from a single mistake, ending the caster's life.",
+      "sourceUnit": "セイバールート一日目-15:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "The very first thing a mage must do is resolve to accept death.\nKiritsugu always looked sad whenever he brought that up.\nMaybe it was his way of saying that he didn't want me getting into any of this.",
+      "sourceUnit": "セイバールート一日目-15:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"'Saving one person means not saving someone else. Being a hero of justice means you need to be an extremely egocentric person.' That was always his line.\"\nKiritsugu always said that whenever I mentioned wanting to be like him.\nI still don't know what he meant by that.\nAll I'm certain of is that I want to save people—to be a hero of justice—like Kiritsugu Emiya.",
+      "sourceUnit": "セイバールート一日目-15:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"But I can't even manage the basics. I'm such an idiot for letting myself get distracted at the most crucial moment.\"\nIt's not enough for me to just grasp at the object's structure visually.\nA skilled mage would be able to focus only on the crucial areas and efficiently channel magical energy.",
+      "sourceUnit": "セイバールート一日目-15:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"My dream is to become a hero of justice.\"",
+      "sourceUnit": "セイバールート一日目-15:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "I remember what Fuji-nee mentioned at dinner.\nI never really thought of that goal as embarrassing or impossible.\nThat Shirou Emiya will succeed Kiritsugu Emiya has already been decided.",
+      "sourceUnit": "セイバールート一日目-15:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "That's why I've been doing everything I can despite how sorely I lack in experience.\nI don't know exactly what it means to be a hero of justice.\nBut because I don't know, I've trained myself to the best of my abilities in hopes I'll be useful to somebody.",
+      "sourceUnit": "セイバールート一日目-15:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I haven't taken my eye off that goal these past five years. But whenever things go wrong like this, I start to have doubts.\n\"Argh. I just don't get it, old man.\nWhat the hell do I have to do to be a hero of justice?\"",
+      "sourceUnit": "セイバールート一日目-15:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "I look up at the sky through a window.\nIt's not just about being good for someone out of the blue.\nSaving someone and being a hero of justice are two different things.\nI know that. But what do I have to do to differentiate them?\nI've yet to understand that crucial concept for the past five years.",
+      "sourceUnit": "セイバールート一日目-15:page49:1"
+    },
+    "page50": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

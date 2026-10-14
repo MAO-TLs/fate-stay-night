@@ -1,0 +1,1307 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0002",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And...\nAfter breakfast, I lay out my plans for the day.",
+      "sourceUnit": "プロローグ3日目:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"You're going to school?\"\n\"Yes. Do you have a problem with that, Archer?\"\n\"It's not a problem, but...\"",
+      "sourceUnit": "プロローグ3日目:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Archer looks reluctant, but doesn't protest.\nAfter spending a whole day with me, he probably understands now that Rin Tohsaka doesn't go back on her word once she's made up her mind.\nI can sense his disagreement even if he doesn't voice it, but I've also learned that Archer has a sincere side beneath all the sarcasm. He won't whine about a decision he's accepted.",
+      "sourceUnit": "プロローグ3日目:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Yup, he's loyal—and awkward—like that.\nThat's what my intuition says, at least, after watching him yesterday.",
+      "sourceUnit": "プロローグ3日目:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, now that you're a Master, you need to always be wary of enemy Masters. If you're ambushed at school, it'll be difficult to protect you.\"",
+      "sourceUnit": "プロローグ3日目:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Not necessarily. Listen here, Archer: I don't intend to alter my lifestyle just because of this. Besides, Masters fight out of public view, don't they? I don't think anyone would try to sneak up on me in front of everyone at school.\"",
+      "sourceUnit": "プロローグ3日目:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...If that's your choice, then I'll follow along.\nBut at least let me stand guard in spirit form. Surely you don't intend to go there without me.\"",
+      "sourceUnit": "プロローグ3日目:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. You'll stay with me whenever I'm outside, not just at school. That's a Servant's job, so I'm counting on you.\"\n\"I'm glad to hear it. A knight has a duty to repay his lord's trust. You won't be disappointed.\"",
+      "sourceUnit": "プロローグ3日目:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, hypothetically speaking...what would you do if the enemy was in a place you thought safe?\"\n\"Are we supposing that there's a Master at the school?\"\n\"Yes. While it's hard for anyone who isn't a student or teacher to enter, it could spell trouble if a Master has already infiltrated.\"",
+      "sourceUnit": "プロローグ3日目:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't think that's likely. The Tohsaka are the only functioning mage family left in this town. The other one's gone belly up, so they won't produce any Masters.\"",
+      "sourceUnit": "プロローグ3日目:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"How do you know?\"\n\"Hey, if there's any other mage families in Fuyuki besides the Tohsaka, you can bet I've looked into them already!\nHe isn't a Master; as the heir to that family, he can't wield the strength to become one. We can safely ignore them.\"",
+      "sourceUnit": "プロローグ3日目:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So there is another mage at your school, but they lack the magical energy to be a Master.\"",
+      "sourceUnit": "プロローグ3日目:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. Most of the other Masters will be coming from the outside. They wouldn't be at my school.\"\n\"...For now, perhaps.\nBut there are exceptions to every rule, Rin. What will you do if you encounter an unknown mage at school?\"",
+      "sourceUnit": "プロローグ3日目:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm telling you, it won't happen. Mages are sensitive to each other. I've spent a whole year at that campus, so I'd be able to sense any mage no matter how hard they try to hide.\nI'm certain that there are only two mages at school. Me, and that probie without enough power to be a Master.\nGet it now? You're just being paranoid. The scenario you're imagining won't happen.\"",
+      "sourceUnit": "プロローグ3日目:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Thus why I said hypothetical. But the unexpected has a way of happening.\nSometimes, destiny decides to make the impossible come about.\nIf we find ourselves in such a situation, I hope you'll remember not to take it out on me.\"",
+      "sourceUnit": "プロローグ3日目:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Archer chuckles dryly.\n...His smug attitude already makes me want to do exactly that, but I'll be late for school if I let him keep pushing my buttons.",
+      "sourceUnit": "プロローグ3日目:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, it won't happen. It's a 'what-if' because it would never happen in the first place. And if it does, it would just mean that I was too naive.\"",
+      "sourceUnit": "プロローグ3日目:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll remember you said that. Let's get going, then.\"\n\"It takes thirty minutes to get to your school, so you'd better leave soon if you want to be on time.\"",
+      "sourceUnit": "プロローグ3日目:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I am legitimately shocked. It really did happen.\"\n\"I'm surprised as well. Ah, it really does pay to be a pessimist.\"",
+      "sourceUnit": "プロローグ3日目:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "This is our exchange the moment we pass through the front gate.\nIt's almost time for homeroom, so there are students on their way to class\nall around us.\nArcher and I stand still like a pillar amid the swirling human sea.",
+      "sourceUnit": "プロローグ3日目:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"The air isn't just stagnant. Someone's set up a Bounded Field, don't you think?\"\n\"It isn't finished, but yes, prep work is already underway.\nThey must think they're a big shot to go about it this openly...\"",
+      "sourceUnit": "プロローグ3日目:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"More an unbelievable amateur. Only a third-rate mage would make such a conspicuous field. Someone with actual skills would conceal it until it was time to strike.\"\n\"And how would you rate this mage?\"",
+      "sourceUnit": "プロローグ3日目:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Who knows? I couldn't care less.\nMore importantly, trying such shoddy work in my territory is just gonna earn them a beating.\"",
+      "sourceUnit": "プロローグ3日目:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I let out an indignant huff as I cross through the grounds.\nAs a mage, there's no sugarcoating it. I won't be satisfied until whoever made this Bounded Field gets what's coming to them.",
+      "sourceUnit": "プロローグ3日目:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "I'm on my way back from the music room after second period.\nI spot a first-year floundering in the hallway.\nShe looks like she could use a hand with the large stack of documents she's carrying.",
+      "sourceUnit": "プロローグ3日目:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me help, Sakura.\"\n\"Huh?\"\n\"Ah. Tohsaka...\"\n\"Printouts? Our class is supposed to take care of World History. What is that Kuzuki thinking, making you carry all these? Here, I'll take half.\"",
+      "sourceUnit": "プロローグ3日目:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Thank you.\"\n\"It's fine. Are we taking these to your classroom?\"\n\"...No, to Mr. Kuzuki. He said he needs to take them back because there's a typo.\"",
+      "sourceUnit": "プロローグ3日目:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can believe that. Kuzuki's got such a huge stick up his butt, he once suspended an entire exam over a single typo.\"\n\"Hmm? You mean an exam here at this school?\"",
+      "sourceUnit": "プロローグ3日目:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, it was during midterms last year. It was near the end when everyone's answer sheets were already filled. He just came out and said there's a typo, the questions are incorrect, the exam is suspended, and we'll redo it tomorrow. The teachers were as surprised as we were, and people still talk about it.\"",
+      "sourceUnit": "プロローグ3日目:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"That does sound like Mr. Kuzuki. He's the type of person who believes teachers shouldn't make any mistakes.\"\n\"But he goes overboard. You'd better learn while you can that once Kuzuki's got his mind set on something, he's as hard to move as a mountain.\"",
+      "sourceUnit": "プロローグ3日目:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Hehe. You must like him. It's unusual to hear you talk about someone like that.\"\n\"Is it? I do wish he'd just relax...\"\n...Though he's all right just the way he is, ultimately.",
+      "sourceUnit": "プロローグ3日目:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "The faculty at our school is made up of both really nice teachers and some real scary ones.\nIt's a delicate balance that Mr. Kuzuki's an important part of. He's the stick to the carrot.",
+      "sourceUnit": "プロローグ3日目:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"You'll see more of him next year, since he teaches Ethics.\n...Oh right, Sakura. There's something I wanted to ask you.\"\n\"What is it?\"\n\"It's about yesterday. Were you talking to a foreigner?\"",
+      "sourceUnit": "プロローグ3日目:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Y-you saw that?\"\n\"I just happened to. What's going on? Is he someone you know?\"\n\"...No. I, um, don't really know who he was. It sounded like he was lost. He asked a lot of questions, but I couldn't really understand what he was saying...\"\nAh, and that's when she slipped away.",
+      "sourceUnit": "プロローグ3日目:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Sorry, I was just curious.\"\n\"No, I don't mind. Oh, it's just in here. I can get the rest, now.\"\n\"Okay. See you later, then.\"\nI return the printouts to Sakura.\nBut before I head back to my classroom, I find myself stopping.",
+      "sourceUnit": "プロローグ3日目:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"How are you lately, Sakura?\"\n\"Ah... I'm okay. I'm doing well.\"\n\"...I see. Let me know if Shinji's up to something. He doesn't know when to quit, so it'll just get worse if you keep quiet.\"",
+      "sourceUnit": "プロローグ3日目:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't have to worry. He's been nice lately.\"\nThere isn't much I can say to a smile like that.\nWe say our farewells again, and I leave my underclassman acquaintance.",
+      "sourceUnit": "プロローグ3日目:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "The school day is over.\nThe classrooms steadily empty, and the campus darkens by the hour.\nThe crimson sun will set soon.\nOnce night falls, there won't be anyone left around.",
+      "sourceUnit": "プロローグ3日目:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's begin, Archer. First we'll investigate the Bounded Field. Once we determine what type it is, we'll decide whether to erase it or leave it.\"\nI speak to my invisible partner.\nI feel him nod in acknowledgement.",
+      "sourceUnit": "プロローグ3日目:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Bounded Fields are meant to protect their casters.\nYou can consider them a terrain-based magecraft formed by weaving magical energy into a net and applying it to the earth to affect the inside of the field.",
+      "sourceUnit": "プロローグ3日目:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "There are countless types of effects they can have...\n...ranging from wards that isolate an area from the outside world to avoid detection, to fields that limit the type of magecraft that can be activated within.\nThe most offensive type suppresses biological functions inside the area of effect,",
+      "sourceUnit": "プロローグ3日目:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "and that's what's been applied to the school grounds.\nWhile it isn't finished, everyone in the school will collapse once it's activated.",
+      "sourceUnit": "プロローグ3日目:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Something like that wouldn't work on me, though.\nBounded Fields are, after all, targeted at the area I'm in, not me specifically.\nSuch indirect magical interference won't affect a mage with magical energy flowing through her body.\nSimilarly, the electrical charges that flow in the atmosphere won't disturb the electrical currents within my body.",
+      "sourceUnit": "プロローグ3日目:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "That means the Bounded Field has some other purpose.\nWhoever it is that put this thing here isn't trying to defeat a Master with it.\nI don't want to believe it, but they're targeting all the people within the school.\n...There's only one possible reason for that.\nIt's a thought I can't stomach.",
+      "sourceUnit": "プロローグ3日目:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "After checking all around campus, I finish my search on the roof.\nIt's thoroughly dark outside now.\nThe school gates shut at 6:00 PM, and it's now 8:00 PM.\nArcher and I are the only ones left, and Archer's in his spirit form.",
+      "sourceUnit": "プロローグ3日目:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...That makes the seventh one. Looks like this is the origin point.\"\nThere are eight symbols boldly drawn on the rooftop.\nThey're purplish-red marks that only a mage can see. I've never seen or heard of sigils like these.",
+      "sourceUnit": "プロローグ3日目:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, they've got me there. I don't know what to do about this.\"\nWhoever set up this Bounded Field did it recklessly.\nBut while imprudent, the magical working itself is an order of magnitude beyond my own skills.\nI could temporarily erase the energy of the curse, but I have no way to dispel the Bounded Field itself.\nAll the spellcaster needs to do is supply it with more energy to reactivate the curse's effects.",
+      "sourceUnit": "プロローグ3日目:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher doesn't comment.\n...He's probably remained silent since encountering the rooftop sigils because he too has realized their nature.\nThis Bounded Field does more than drain its victims' stamina.\nIt will literally melt everyone inside once it's turned on.",
+      "sourceUnit": "プロローグ3日目:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "There are Bounded Fields which rob victims of their life force and spiritual energy,\nbut the spell that's been applied to the school grounds is on a whole different level.\nThis is no less than a soul eater—a Blood Fort which melts the human bodies inside it and forcibly collects the souls that ooze out.",
+      "sourceUnit": "プロローグ3日目:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Since antiquity, souls have always been difficult to handle.\nThey're theorized to exist and are considered to be necessary components of magecraft, but only one mage has ever proven their existence.",
+      "sourceUnit": "プロローグ3日目:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Our definition of souls stops at \"that which examines within\" and \"that which is transferred between vessels.\"\nTo not only extract souls but then capture them in one place? It defies comprehension.\nWhat's a mage supposed to do with a bunch of energy we can't even convert?\nSo if I had to think of a purpose for it...",
+      "sourceUnit": "プロローグ3日目:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer. Is that what you and your kind are?\"\nIt comes out colder than I intended.",
+      "sourceUnit": "プロローグ3日目:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...You surmise correctly. I did say that we are fundamentally spiritual beings. That means we feed on the Second and Third Factors: the soul and the mind.\nJust as you sustain yourselves with the flesh of creatures, we Servants derive nutrition from the mind and soul.\nWhile said nutrition doesn't change our base abilities, acquiring more of it does make us more durable. It increases our reserve of magical energy, in other words.\"",
+      "sourceUnit": "プロローグ3日目:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...He's right.\nThe way to make your own Servant stronger is to indiscriminately attack human beings.",
+      "sourceUnit": "プロローグ3日目:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"So your own Master's magical energy isn't enough?\"\n\"It's sufficient, but it never hurts to have more. In war, some weaknesses can be compensated with material when one is lacking in fighting strength.\nIt's a basic strategy for a Master to take energy from the humans around them. In that sense, this Bounded Field is an efficient tactic.\"",
+      "sourceUnit": "プロローグ3日目:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher's saying that I should murder people and take their power if I want to win.\nIt's so simple.\nI've always known this to be true,\nand I know it's the path I'm supposed to walk.",
+      "sourceUnit": "プロローグ3日目:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"That really tees me off. Don't ever bring it up again, Archer.\"\nStaring at the sigils, I make my stance clear.\nOddly, Archer sounds just as put off.\n\"I agree. I'd never do such a thing.\"\nHis answer comes firm and resolute.",
+      "sourceUnit": "プロローグ3日目:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Time to erase this, then. It won't do much good, but I can at least slow it down.\"\nI approach the sigil and extend my left hand.\nThe Magic Crest engraved on my arm is like a grimoire passed down through the Tohsaka line.",
+      "sourceUnit": "プロローグ3日目:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "A mental switch is flicked.\nI pass magical energy through the Magic Crest, load a verse of Bounded Field erasure, take a deep breath, and activate it.",
+      "sourceUnit": "プロローグ3日目:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Abzug. (Erase.) Bedienung. (Surgical removal.) Mittelstand. (Verse two.)\"\nI then send a pulse of magical energy via my left hand.\nThat should wash away the sigil for now—\n\"What, you're gonna erase it? What a waste.\"\nSuddenly,\na third voice chimes in while I'm casting the spell.",
+      "sourceUnit": "プロローグ3日目:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI whirl around.\nA man is perched on top of the water tower,\nsome ten meters above, looking down at me.",
+      "sourceUnit": "プロローグ3日目:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "He's clad in a deep blue that blends into the night.\nHis mouth is drawn into a grin, and he has a bestial air about him.\n...The beast's gaze is sharp and clear.\nIn this bizarre situation, the man in blue watches me as if he's greeting a friend he hasn't seen in a decade.",
+      "sourceUnit": "プロローグ3日目:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...Did you do this?\"",
+      "sourceUnit": "プロローグ3日目:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Nah. It's a mage's job to play little tricks. We just fight whomever we're ordered to. Isn't that right, mate?\"",
+      "sourceUnit": "プロローグ3日目:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nHis tone is lethal yet carefree.\nThis man can see Archer!",
+      "sourceUnit": "プロローグ3日目:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"You're a Servant!\"\n\"That I am. And if you know that, lass, you must be my enemy.\"\n\"...\"\nMy spine tenses.\nThe man's voice is detached and nonchalant.\nBut it's colder than anyone I've ever heard—so scary it's nauseating.",
+      "sourceUnit": "プロローグ3日目:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\nWhat's the best move here? I don't know.\nBut my brain is still working enough to tell me that I absolutely must not fight him...!",
+      "sourceUnit": "プロローグ3日目:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh? I'm impressed. Here I was thinking you don't know heads from tails, but you figured out what really counts.\nUgh, I blew that. Shouldn't have gone outta my way to taunt you.\"\nThe man raises an arm.\n...\nIt appears in a flash.\nHis once empty hand now holds\na scarlet, two meter-long weapon.",
+      "sourceUnit": "プロローグ3日目:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...!\"\nMy legs throw me to the side before I can think.\nThere isn't time to even hesitate about jumping off the roof.\nWith all my might, I make a mad dash for the fence, intending to barrel right through it!",
+      "sourceUnit": "プロローグ3日目:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "A cyclone lifts my hair into the air.\nIt was by the skin of my teeth—\nIn that instant, something slices through the space I was just in, tearing the fence apart with it.",
+      "sourceUnit": "プロローグ3日目:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha. You've got a nice pair of legs on you!\"\nA blue whirlwind pursues me.\nThere's no way out.\nThe fence is behind me. My flanks are cut off. I won't make it...!",
+      "sourceUnit": "プロローグ3日目:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Es ist gros (Light mass), Es ist klein (heavy pressure)...!\"\nI react swiftly.\nMy Magic Crest surges to life so I can weave a single-count magecraft.\nThe spell lightens mass and manipulates gravity.\nLight as a feather, my body bounds into the air...",
+      "sourceUnit": "プロローグ3日目:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin!\"\n\"I know! I got this!\"\n...and I jump over the fence to plummet off the roof.",
+      "sourceUnit": "プロローグ3日目:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nAir resistance and gravity push and pull along my body.\nIt's about 15 meters to the ground, 1.7 seconds away—too slow, he's going to catch up to me!",
+      "sourceUnit": "プロローグ3日目:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Vox Gott (Cite precept), Es Atlas (the funeral returns to the earth)!\nArcher, handle the landing!\"",
+      "sourceUnit": "プロローグ3日目:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hah!\"\nI let Archer absorb the shock of the landing, and break into a dash as soon as we touch down.\nI couldn't stay on that rooftop.\nWe need a less cramped arena from which to maneuver freely.\nA battlefield without obstacles, where Archer and I can truly shine...!",
+      "sourceUnit": "プロローグ3日目:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, hah...!\"\nIt takes me less than seven seconds to escape from the roof to the schoolyard.\nA distance of over a hundred meters, crossed at a pace no normal person can manage, much less clearly see.",
+      "sourceUnit": "プロローグ3日目:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\n\"You really do have good legs. I almost feel bad about having to kill you here.\"\nAgainst a Servant, it's wasted effort.",
+      "sourceUnit": "プロローグ3日目:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer!\"\nAt the same time I draw back, Archer materializes before me.\nIt's a cloudy night.\nArcher's hand grips a shortsword that faintly reflects the moonlight.",
+      "sourceUnit": "プロローグ3日目:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh?\"\nThe man's lips twist into an ominous sneer.\n\"...Yeah, that's how this oughta be. Can't say I hate guys like you who are quick on the uptake.\"\nThe whirlwind howls.\nIt's the weapon he swung at me on the rooftop: a spear of blood-like crimson that came mercilessly for my head.",
+      "sourceUnit": "プロローグ3日目:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"A Lancer...\"\n\"That's me. That must make your Servant a Saber...\nnah, he doesn't feel like one. Who the hell are you?\"\nGone is his carefree ease from a moment ago.\nArcher stays silent, facing off against Lancer's unconcealed bloodlust.",
+      "sourceUnit": "プロローグ3日目:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "...There's just under five meters between them.\nLancer's weapon is nearly two meters long.\nIt doesn't feel like this beast of a man is going to be deterred by a mere three meter difference.",
+      "sourceUnit": "プロローグ3日目:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. I can tell you're not the type to settle things man-to-man. That must make you Archer.\"\nArcher doesn't take the bait.\nAn unusual clash of blue and red stare each other down.\nThe two knights, somewhat similarly dressed, mutually calculate the other's demise.",
+      "sourceUnit": "プロローグ3日目:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. All that's left is to throw down. Draw your bow, Archer.\nNot how I usually do this, but I'm polite enough to wait that long.\"\n...\nArcher doesn't answer.\nHis back, as steely as a sword, seems to convey that\nhe must not have anything to say to someone he must defeat.",
+      "sourceUnit": "プロローグ3日目:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's when I realize it.\n...I'm such a fool. Archer was waiting for my word.",
+      "sourceUnit": "プロローグ3日目:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer.\"\nI call out to him without getting any closer.\n\"Don't hold back. Show me everything you've got.\"\n\"...Heh.\"\nWas that a laugh?\nThe red knight surges forward, his lips curled in response.",
+      "sourceUnit": "プロローグ3日目:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Wind swirls.\nA scarlet bullet flies forth, blade in hand.\n\"Fool!\"\nA blue spear thrust intercepts him.\nIf the charging Archer is a gust of wind, then the speartip that rises to meet him is a divine storm.",
+      "sourceUnit": "プロローグ3日目:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "Streaking blades. Elegant parries.\nArcher is put on the defensive, fending off the swift thrusts with his short sword.",
+      "sourceUnit": "プロローグ3日目:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Rgh!\"\nThe man in red is stopped in his tracks,\nhis advance denied by the enemy.\nHe can't even breach the two-meter coverage of the spear.\nA polearm wielder can control his opponent's range.\nLancer, with his nearly two-meter reach, needs to simply engage his foe whenever he comes within range.\nIt's easier for him to stab an advancing opponent than it is for him to go after Archer himself.",
+      "sourceUnit": "プロローグ3日目:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "Despite this...\nLancer closes the distance himself to press the attack, all the while keeping Archer from advancing further.",
+      "sourceUnit": "プロローグ3日目:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"You're a damn fool of a bowman, trying to challenge me in close combat!\"\nLancer's snarl is fiery.\nWith each thrust, Lancer closes in, the assault never letting up for a second.",
+      "sourceUnit": "プロローグ3日目:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "...Moving in too close is suicide for a spear wielder.\nThe advantage of a spear is the ability to control the enemy's position.\nLancer shouldn't have a chance if he keeps closing in.",
+      "sourceUnit": "プロローグ3日目:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"No way.\"\nBut that's only according to conventional wisdom.\nUnerringly, unceasingly, Lancer's spear seeks to pierce Archer's throat, shoulder, forehead, heart.",
+      "sourceUnit": "プロローグ3日目:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "The strikes are too swift to even leave an after-image.\nArcher is forced to parry, block, or evade every move of the spear. Any strike, if true, would be a mortal blow.\nStill, Archer is a Servant, even if he specializes with the bow.\nHe won't be brought down so easily by mundane attacks!",
+      "sourceUnit": "プロローグ3日目:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Hngh!\"\nThe thrust at his forehead is quickly batted aside, and Archer renews his charge in spite of Lancer's spear.",
+      "sourceUnit": "プロローグ3日目:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "One might think that swordplay is all there is to Archer's attacks, but he's exploiting a weakness of spear tactics.\nAgainst a spear's considerable reach, neither retreat nor evasion are viable defenses for long.",
+      "sourceUnit": "プロローグ3日目:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "A half-hearted withdrawal isn't enough to get out of range, while probing attacks will lead to evisceration.\nA reckless charge will similarly end in impalement at the edge of the spear's range.\nArcher and Lancer have more or less the same physical stature.\nWithout heavy armor, it's difficult for Archer to penetrate the lethal storm of Lancer's attack radius.",
+      "sourceUnit": "プロローグ3日目:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "But Lancer's strikes are a different story.\nThe high-speed thrusts, intended to pierce vital points, are indeed terrifying.\nBut each strike has a set trajectory and target; if one can predict these, then there are ways to avoid harm.\nJust as Archer is doing, one can block the strikes aimed at vital points or just barely evade their arcs to create safe openings.",
+      "sourceUnit": "プロローグ3日目:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "Lancer probably underestimated him as a ranged specialist.\nThe advantage of a long weapon is the generous range at which one can engage the opponent. By giving that up, Lancer has assured his—",
+      "sourceUnit": "プロローグ3日目:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Ngh!?\"\nThe man in red stops in his tracks.\nI watch a nightmare unfold, as if time has rewinded.\nLancer's attacks become even faster than before.",
+      "sourceUnit": "プロローグ3日目:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nArcher's short sword is knocked aside, as he twists to avoid being skewered.\nLancer's spear doesn't allow retreat.\nOr rather, his endless attacks are so fierce and sharp that even Servants are doomed against them!",
+      "sourceUnit": "プロローグ3日目:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "...\nWe were the ones who underestimated our enemy.\nThat Servant, that Lancer and his spear can't be described in mundane martial terms.",
+      "sourceUnit": "プロローグ3日目:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "Who could possibly survive such a relentless barrage?\nArcher beats a desperate retreat while parrying strikes, creating slightly more distance between the fighters.\nIn that moment...\nLancer steps into the gap and unleashes an even more ferocious attack.",
+      "sourceUnit": "プロローグ3日目:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "The storm of attacks is little different from what he's already been doing,\nbut their execution is truly godlike.\nThey've already clashed ten times.\nNo. It's actually several times more than that.\nThe torrent of spear strikes increases again in intensity and number, threatening to take Archer's life a thousand times over.",
+      "sourceUnit": "プロローグ3日目:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "It isn't even a change in speed, but in precision.\nAt a steady pace, Lancer's spear comes down on Archer like a waterfall.\nHow can Archer get inside his guard?\nWith such a short weapon, all he can do is defend against the spear.\nHe has no way to close in on Lancer. In fact, he's being forced backwards.",
+      "sourceUnit": "プロローグ3日目:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe steel vacuum stretches out.\nI...I should be backing Archer up, but the right words die in my throat.\nMy magecraft isn't easy to aim precisely.\nI risk hitting Archer too if he can't get far away enough from Lancer.\nMeanwhile, Lancer's advantage will only deepen.",
+      "sourceUnit": "プロローグ3日目:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "And, to be honest...\nI'm captivated by their duel.\nSo this is a battle between Servants.\nThe Holy Grail War is a battle between familiars of the highest order: Heroic Spirits, beings that we mages can't begin to approach.",
+      "sourceUnit": "プロローグ3日目:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "Servants.\nFamiliars divided among seven classes and roles, serving seven Masters.\nSupreme familiars called forth by the Holy Grail itself.",
+      "sourceUnit": "プロローグ3日目:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Familiar\" is really a misnomer for them.\nFamiliars are supposed to be subservient minions who act on behalf of a mage.\nNormally, you'd imagine something like Puss in Boots,\nan elegant white bird,\nor a disobedient black dog. Something like that.",
+      "sourceUnit": "プロローグ3日目:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "Those sorts of familiars are what a typical mage can manage to command.\nFamiliars are just that. From the Latin for a menial servant.\nIt's inconceivable that a mascot used for menial labor would be stronger than its master.\nServants are a different story.\nThey're quite literally the most powerful examples of humanity.\nEven the five Magicians wouldn't be able to control them.",
+      "sourceUnit": "プロローグ3日目:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "It's difficult to summon a Servant, but not because Servants are more powerful than mages.\nServants are beings that surpass magecraft itself.",
+      "sourceUnit": "プロローグ3日目:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "To be clear...\nServants are heroes of the past.\nMyths. Legends. Fables. Histories.\nWe call the glorious superhumans from our traditions \"heroes,\" whether the tales are true or not.",
+      "sourceUnit": "プロローグ3日目:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "Immortalized by what humanity says about them, they cease to be merely human after death, and ascend to something greater.\n...People who work miracles, who save the multitudes, who accomplish great feats, are elevated to the status of heroes, either in life or after death.\nThey become a type of Elemental we call Heroic Spirits—guardians of the human race.",
+      "sourceUnit": "プロローグ3日目:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't matter whether they were historical people or characters from mythology.\nHeroes are created by the thoughts of the people.\nWe imagine them as the idols we wish they were and treat them as if they were real.\nObjective truth is irrelevant.\nFame and faith are sufficient to give form to these legends.",
+      "sourceUnit": "プロローグ3日目:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "They're humanity's ultimate ideals, the greatest among us.\nThat's what it means to be hero and a Heroic Spirit.\nNaturally, it's impossible for a mere human to control something greater than human.\nWhat mages usually do is borrow a portion of their power and imitate their feats.\nSummoning a complete Heroic Spirit is simply impossible.",
+      "sourceUnit": "プロローグ3日目:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "Yet the Holy Grail makes it possible.\nIt allows us to summon these spirits in the flesh and even bind them to our command.\nThe sheer absurdity of it proves the Grail's omnipotence.",
+      "sourceUnit": "プロローグ3日目:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "That's how Heroic Spirits are summoned from across time, whether from the Age of Gods or as recent as a century ago.\nThe seven Heroic Spirits serve and protect their seven Masters, and each Master sends their Servants out to defeat enemy Masters.\n...It's a deathmatch between heroes of every age and every land.\nThat's the story behind the ritual we call the Holy Grail War.",
+      "sourceUnit": "プロローグ3日目:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "...Of course, there are limits to what the Grail can do.\nEven the Holy Grail can't indiscriminately summon mythic beings akin to Elementals.\nJust as a form created by the people is required to materialize the Sixth Theoretical Factor known as Demons,\nHeroic Spirits need a material form to operate in this world.",
+      "sourceUnit": "プロローグ3日目:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "This is their temporary label, and the way they're allowed to exist in this world.\nThe Holy Grail provides vessels that Heroic Spirits can easily materialize in, called \"classes,\" and only Heroic Spirits that fit these classes can be summoned.\nA class is like a passport that lets a Heroic Spirit visit the modern era to act as a familiar. It's a material vessel that they temporarily possess.",
+      "sourceUnit": "プロローグ3日目:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "There are seven Masters, and seven Heroic Spirits to serve them.",
+      "sourceUnit": "プロローグ3日目:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "Each is assigned one of seven classes:\nSaber, the knight of the sword.\nLancer, the knight of the spear.\nArcher, the knight of the bow.\nRider, the cavalier.\nCaster, the mage.\nAssassin, the silent killer.\nBerserker, the mad warrior.\nOnly Heroic Spirits with attributes corresponding to the seven classes can be summoned to the modern world, and they become Servants whom the Masters command.",
+      "sourceUnit": "プロローグ3日目:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "That's the Servant system.\nHumans summon and make contracts with Heroic Spirits beyond our ability to handle, all in hopes of winning a miracle beyond our ken.\nIt's the greatest of battles that can only happen here in this land, like no other Holy Grail War!",
+      "sourceUnit": "プロローグ3日目:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThe duel reaches an even higher pitch.\nThe short sword goes flying from Archer's hand after blocking one of Lancer's strikes.\nLancer's skill is consummate.\nA seemingly straight thrust suddenly whipped into a disarming arc at Archer's wrist.\nIt was an attack that Archer couldn't have avoided, even if he saw it coming.",
+      "sourceUnit": "プロローグ3日目:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "There isn't an effective way to parry the spear with his sword.\nA forceful block is countered with an even keener strike, while defending with minimal force will never create an opening to exploit.\nThe clash between sword and spear is shaping up into an intense struggle to defeat an enemy outside of Archer's reach...",
+      "sourceUnit": "プロローグ3日目:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"You fool.\"\nThere's no hesitation in Lancer, even as he taunts Archer.\nHe pauses from the constant pressure he puts on Archer.\nDoes he intend to settle the duel in an instant?\nLancer takes a firmly rooted stance, trading a fiery glare\nwith the now unarmed Archer.",
+      "sourceUnit": "プロローグ3日目:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "It happens in an instant.\nIn the span of a breath, Lancer looses a flurry of blows that's no less than a flash of light.\nImperceptible.\nForehead, neck, and heart.\nThe spear moves to skewer all three!",
+      "sourceUnit": "プロローグ3日目:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nAnother flash of light counters the first that I couldn't even follow!",
+      "sourceUnit": "プロローグ3日目:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"...!?\"\nArcher's hand grasps a shortsword once more.\nLike the weapon he used earlier, it's a Chinese sword not dissimilar to a cleaver.\nBut the greatest difference between them is...\n\"Tch! A dual-wielder, eh!?\"\nBlade and blade.\nIn each hand he grips a sword, each clearly meant to complement the other.",
+      "sourceUnit": "プロローグ3日目:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha! Playing swordsman, are we!?\"\nLancer's spear sings through the air.\nIt becomes even faster, as if to herald Archer's certain death.",
+      "sourceUnit": "プロローグ3日目:page128:1"
+    },
+    "page129": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "The duel becomes a symphony of clashing blades.\nTwo steel instruments play a resounding chorus,\nthe sparks of their conflict rising to a never-ending crescendo.",
+      "sourceUnit": "プロローグ3日目:page129:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "Their battle is like a vacuum.\nIt sucks in all the air around it, making me feel like I'll be cut if I even dare to approach.\n...\nIt all happened in an instant, really.\nBut as I watched with bated breath, the moment seemed to stretch on.",
+      "sourceUnit": "プロローグ3日目:page130:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "Lancer keeps his foe out of his fatal pocket,\nwhile Archer attempts to close the gap with his shield of dual swords.\nThey've clashed over a hundred times already, Archer losing a weapon each time.",
+      "sourceUnit": "プロローグ3日目:page131:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "But instantly, another sword appears in Archer's empty hand, and Lancer is slightly driven back each time.\nLancer finally acknowledges his miscalculation.\nHe has no idea who he's fighting.\nBut it would be a mistake to keep dismissing his opponent as a bowman.",
+      "sourceUnit": "プロローグ3日目:page132:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "A space opens up between them.\nLancer puts significant distance between them. Maybe he intends to start over.\n...That agility isn't normal.\nArcher's charge defies human ability, but he's sluggish next to Lancer.\nThe swiftness of Lancer's retreat had the speed and grace of a leopard.",
+      "sourceUnit": "プロローグ3日目:page133:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"...Twenty-seven. I've disarmed you twenty-seven times, and you still have more?\"\nLancer sounds irritated.\nActually, he sounds more confused than upset.",
+      "sourceUnit": "プロローグ3日目:page134:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "...I feel the same way.\nAccording to my father, Servants typically only have one weapon.\nThey're supposed to be singular relics of unimaginable power, not expendable items to be drawn over and over like Archer's doing.",
+      "sourceUnit": "プロローグ3日目:page135:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "Servants are heroes whose spiritual rank are elevated to the magnitude of Elementals or Divine Spirits after death.\nIn a way, they're not unlike angels and demons.\nThey're powerful familiars on their own, but their greatest strength is the mighty weapons that prove they're heroes. We call these magic items Noble Phantasms.",
+      "sourceUnit": "プロローグ3日目:page136:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "They are the favored weapon or armor that a Servant used while it was a living hero, and it's literally the Servant's secret weapon.\nTo a Servant, a Noble Phantasm is a one-of-a-kind armament.\nIt's the Servant's indispensible ultimate weapon as well.",
+      "sourceUnit": "プロローグ3日目:page137:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "The same goes for Lancer's spear, it can exhibit its power as a Noble Phantasm if he so chooses.\nA Noble Phantasm is a formidable weapon on its own, but its true power is expressed by invoking its True Name.",
+      "sourceUnit": "プロローグ3日目:page138:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "Heroes' weapons are known to have slain dragons and gods; to have conquered the earth.\nServants activate Noble Phantams with their own magical energy.\nIt's not unlike magecraft, actually.\nServants use their Noble Phantasms as catalysts to recreate the destruction from their legends.",
+      "sourceUnit": "プロローグ3日目:page139:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "A Noble Phantasm is most certainly not a disposable tool.\nArcher has produced dozens of swords by now. Each seems like a masterwork unto itself, but they surely can't be his Noble Phantasm.\nHe's an Archer, after all.\nHis secret weapon must be some kind of bow.",
+      "sourceUnit": "プロローグ3日目:page140:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "\"What's the matter, Lancer? It's not like you to be so cautious. Where did all that fire go?\"\n\"Tch, sneaky bastard. Think you can bait me like that?\"",
+      "sourceUnit": "プロローグ3日目:page141:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "The cause of Lancer's irritation is obvious.\nLancer has been fighting as a spearman, while Archer has been fending him off as a swordsman.\nMeaning that Archer hasn't revealed his cards yet.\nThat must be frustrating to deal with.",
+      "sourceUnit": "プロローグ3日目:page142:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine, then let me ask you this: which land are you a hero from?\nI've never heard of a bowman who's also a dual-wielding swordsman.\"\n\"It's easy to tell who you are, though. They say that only the swiftest heroes are chosen as Lancers, but you're outstanding even among them.\nThere can't be three spear-wielders as fine as you in the world. And only one has such bestial agility.\"",
+      "sourceUnit": "プロローグ3日目:page143:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? Well said, Archer.\"\nFor a moment,\nthe bloodlust is so strong, I forget to breathe.",
+      "sourceUnit": "プロローグ3日目:page144:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "Lancer's arms move.\nIt's a deliberate stance, without any of the nonchalance he's shown thus far.\nHis speartip dips, as if to puncture the ground. But Lancer's eyes bore straight through Archer.\n\"Then will you taste my killer technique?\"\n\"I won't stop you. You're a foe we have to overcome sooner or later.\"",
+      "sourceUnit": "プロローグ3日目:page145:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "Lancer lowers his stance.\nSimultaneously,\na thorny, bitter cold overtakes the schoolyard.",
+      "sourceUnit": "プロローグ3日目:page146:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "...The air freezes.\nI don't mean that metaphorically; it's literally ice-cold.\nAll of the mana in the atmosphere freezes solid.\nOnly the warrior Lancer is allowed to breathe in this space.\nThe spear in Lancer's hands is undoubtedly magical.\nIt's true form eager to burst forth.",
+      "sourceUnit": "プロローグ3日目:page147:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "Oh, no.\nHe's going to die.\nI don't know what kind of Noble Phantasm that is, but Archer is finished.\nIt's the first time I've had this kind of premonition, and hard as it is to believe, I don't doubt it for a second.",
+      "sourceUnit": "プロローグ3日目:page148:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "If Lancer unleashes his spear, Archer will die.\nThat's absolutely certain.\nAs Lancer says, his spear means death.",
+      "sourceUnit": "プロローグ3日目:page149:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah.\"\nArcher will lose.\nLancer will stab him through the heart, and he'll die.",
+      "sourceUnit": "プロローグ3日目:page150:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "Despite that...\nDespite these premonitions, despite this insight, I can't even help Archer.\nI feel like if I so much as lift a finger, it'll signal the beginning of the end.",
+      "sourceUnit": "プロローグ3日目:page151:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "If there's a way to prevent Archer's defeat, then it can only be...\n\"WHO GOES THERE!?\"\n...the sudden appearance of a third party whom we've all overlooked.",
+      "sourceUnit": "プロローグ3日目:page152:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nLancer's ferocity disappears.\nI hear the sound of someone running away.\n...From behind, I can clearly make out a school uniform.",
+      "sourceUnit": "プロローグ3日目:page153:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "\"A student!? Someone was still on campus!?\"\n\"Apparently. And it saved our lives.\"\nArcher answers coolly.\nSure enough, the interruption did save our skin.",
+      "sourceUnit": "プロローグ3日目:page154:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "\"...I screwed up. I was so distracted by Lancer that I wasn't keeping an eye on our surroundings. Wait, what are you doing, Archer?\"\n\"Can't you tell? I'm resting because there's no one left to fight.\"\n\"That's not what I mean! What about Lancer?\"\n\"He went off to chase the witness. Probably to get rid of them.\"\n...\nFor a moment,\nmy thoughts grind to a halt.",
+      "sourceUnit": "プロローグ3日目:page155:1"
+    },
+    "page157": {
+      "status": "exact_japanese_text",
+      "text": "\"After them, Archer! I'll catch up!\"\n...\nArcher pursues Lancer immediately.",
+      "sourceUnit": "プロローグ3日目:page156:1"
+    },
+    "page158": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it! I'm such a dummy!\"\nI curse my own negligence.\nIt's standard mage policy to eliminate witnesses.\n...Until now, I've been careful not to allow anyone to see me as a mage to avoid that scenario. Why did it have to happen today, of all days!?",
+      "sourceUnit": "プロローグ3日目:page157:1"
+    },
+    "page159": {
+      "status": "exact_japanese_text",
+      "text": "The night feels oppressive, not letting even the moonlight through.\nI find Archer standing over the body of a student, collapsed on the floor of a terribly cold hallway.",
+      "sourceUnit": "プロローグ3日目:page158:1"
+    },
+    "page160": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHe looks wordlessly down at the student.\n...An odor reaches my nose.\nThe sight of slowly pooling blood makes me realize that it's the smell of death.",
+      "sourceUnit": "プロローグ3日目:page159:1"
+    },
+    "page161": {
+      "status": "exact_japanese_text",
+      "text": "\"...Follow him, Archer. Lancer should be running back to his Master. If we can at least catch sight of their face, then tonight isn't a total loss.\"\n...\nArcher goes off after Lancer.\nOnly the fallen student and I remain in the corridor.",
+      "sourceUnit": "プロローグ3日目:page160:1"
+    },
+    "page162": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't look him in the eye.\nBut I have to.\nThis is my fault.\nThis is my fault.\nThis is my fault.",
+      "sourceUnit": "プロローグ3日目:page161:1"
+    },
+    "page163": {
+      "status": "exact_japanese_text",
+      "text": "Since I was young...\nSince I made up my mind to inherit the Tohsaka legacy, I've been prepared for this.\nMages aren't governed by good or evil.\nI've known all along that this path would be a bloody one...!",
+      "sourceUnit": "プロローグ3日目:page162:1"
+    },
+    "page164": {
+      "status": "exact_japanese_text",
+      "text": "\"A single thrust from Lancer's spear. If he got you in the heart, there's no saving you.\"\nI don't know how many seconds ago Lancer killed him.\nIt's just a matter of whether he was unlucky enough to get stabbed through the heart.\nThe blood loss isn't as bad as I would expect for a destroyed heart, so maybe the injury isn't too deep.",
+      "sourceUnit": "プロローグ3日目:page163:1"
+    },
+    "page165": {
+      "status": "exact_japanese_text",
+      "text": "It might not be too bad, but he's still screwed if blood has been cut off to his brain.\nThough, yeah, if his heart was wrecked, then he would've died instantly.",
+      "sourceUnit": "プロローグ3日目:page164:1"
+    },
+    "page166": {
+      "status": "exact_japanese_text",
+      "text": "\"...Still not dead? You're really something.\"\nIt's hard to hear, but just barely...\nMy ears pick up faint breathing that might be a death rattle.\nBut it won't last more than a few seconds.\nI don't have the power to save him. I don't even have a way to heal my own wounds.",
+      "sourceUnit": "プロローグ3日目:page165:1"
+    },
+    "page167": {
+      "status": "exact_japanese_text",
+      "text": "\"I have to look him in the eye, at least.\"\nI start to reach for the face of the prone figure, when I realize that my fingers won't move.\n...They're shaking.\nBut...why?\nI'm used to this.\nI've made this choice countless times.",
+      "sourceUnit": "プロローグ3日目:page166:1"
+    },
+    "page168": {
+      "status": "exact_japanese_text",
+      "text": "I've lost so much thanks to my own mistakes, my own selfishness.\nThat's why I've always been ready for this day to come.\nThen...why am I so angry at myself?",
+      "sourceUnit": "プロローグ3日目:page167:1"
+    },
+    "page169": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry. I'll keep you company. You deserve that much.\"\nI use cold logic to still my trembling fingers and legs, and check the fallen student's face.\n...\nA great weight falls onto me.\nI feel like I've just been struck by a hammer.",
+      "sourceUnit": "プロローグ3日目:page168:1"
+    },
+    "page170": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't do this to me. Why did it have to be you?\"\nI grind my teeth.\nNo longer to brace myself against the shaking,\nbut because I'm truly angry.\nWhy did it have to be him?\nWhy him especially?\nI'm not upset with Lancer for silencing a witness, as a Servant should.\nBut at school today of all days, at this hour!? You fool, why would you of all people...!?",
+      "sourceUnit": "プロローグ3日目:page169:1"
+    },
+    "page171": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura's face comes to mind.\nI'm sure she'll cry.\nAnd I find myself recalling a day after school, some years ago.\n...The sky glowed a distant red.\nA boy that always ran.\nAnd a silly little girl watched him absently from afar.\n...That boy got involved in something he shouldn't have, and now his corpse is front of me.",
+      "sourceUnit": "プロローグ3日目:page170:1"
+    },
+    "page172": {
+      "status": "exact_japanese_text",
+      "text": "...\n...There's still a way.\nIf I fail, I might lose my trump card, but there's a way to save him.\nUgh, no. I'll lose it whether this works or not, so the outcome is the same to me.",
+      "sourceUnit": "プロローグ3日目:page171:1"
+    },
+    "page173": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis is a mistake.\nHis impending death is a foregone conclusion.\nIt's my fault for not paying enough attention to what was happening around me,\nand his fault for having the dumb luck to be here tonight.",
+      "sourceUnit": "プロローグ3日目:page172:1"
+    },
+    "page174": {
+      "status": "exact_japanese_text",
+      "text": "There's no need for me to go this far for him.\nMy father, who left me with nothing to remember him by, did in fact leave me this heirloom to help me.\nIt's a massive store of magical energy meant to be a trump card that helps me win this war.\nA precious, precious treasure, just for...",
+      "sourceUnit": "プロローグ3日目:page173:1"
+    },
+    "page175": {
+      "status": "exact_japanese_text",
+      "text": "\"...So what, stupid?\"\nI turn back and kneel by the dying boy.",
+      "sourceUnit": "プロローグ3日目:page174:1"
+    },
+    "page176": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, that's that.\"\nThe pendant in my hand gets lighter.\nMy father's keepsake is nearly empty.\nWith a clink, I drop it on the guy who was a second away from becoming a corpse.",
+      "sourceUnit": "プロローグ3日目:page175:1"
+    },
+    "page177": {
+      "status": "exact_japanese_text",
+      "text": "\"...Nothing else I could've done.\"\nThere really was no other way.\nI don't have the power or skill to bring someone back to life. Especially not someone with a destroyed heart, damaged blood vessels, and brain death mere seconds away.\nAll I can do is patch up his missing parts with brute force.",
+      "sourceUnit": "プロローグ3日目:page176:1"
+    },
+    "page178": {
+      "status": "exact_japanese_text",
+      "text": "\"You're lucky to still be breathing. If you were totally dead, then there would've been no bringing you back with any amount of magical energy.\"\nBut if he's still alive...\nThen I just need to help him the best I can.",
+      "sourceUnit": "プロローグ3日目:page177:1"
+    },
+    "page179": {
+      "status": "exact_japanese_text",
+      "text": "\"...I would've really hated myself if I failed, but it worked out, I guess... Yeah, I feel fulfilled, if I'm being honest. This wasn't such a bad experience.\"\nThough really, I'm lying to myself.",
+      "sourceUnit": "プロローグ3日目:page178:1"
+    },
+    "page180": {
+      "status": "exact_japanese_text",
+      "text": "\"...I should go. I did what I came to do. Better get out of here before he wakes up.\"\nYeah, there isn't any point hanging around.\nArcher's off tailing Lancer, so I should just go home.",
+      "sourceUnit": "プロローグ3日目:page179:1"
+    },
+    "page181": {
+      "status": "exact_japanese_text",
+      "text": "...On the way home, I remember.\nI left my father's memento at school. Though now it's just a pendant with all of its magical energy wrung dry.",
+      "sourceUnit": "プロローグ3日目:page180:1"
+    },
+    "page182": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, well.\"\nI don't suppose I need it anymore.\nIt might have a little bit of energy left in it, but it's less than the ten gemstones I'm carrying.\nWhat Father wanted was for me to have enough magical energy to win the Holy Grail War.\nNow that I've used that resource up, its container doesn't mean much.",
+      "sourceUnit": "プロローグ3日目:page181:1"
+    },
+    "page183": {
+      "status": "exact_japanese_text",
+      "text": "I arrive home without announcing my return and plop down on the sofa.\nArcher still isn't back yet.\nI heave a tired sigh and listen to the clock tick for a few minutes.",
+      "sourceUnit": "プロローグ3日目:page182:1"
+    },
+    "page184": {
+      "status": "exact_japanese_text",
+      "text": "\"...Argh, I need to get my head in the game.\nAfter a battle like that, what am I even spacing out for?\"",
+      "sourceUnit": "プロローグ3日目:page183:1"
+    },
+    "page185": {
+      "status": "exact_japanese_text",
+      "text": "I jump to my feet and make some black tea.\nI have plenty to think about.\nThe Servant we encountered most of all.\nI finally watched a battle between Servants, which, until today, I'd only known about through books.",
+      "sourceUnit": "プロローグ3日目:page184:1"
+    },
+    "page186": {
+      "status": "exact_japanese_text",
+      "text": "\"Lancer, huh...I panicked when he seemed about to use his Noble Phantasm, but at least it would have let us learn who he is...\"",
+      "sourceUnit": "プロローグ3日目:page185:1"
+    },
+    "page187": {
+      "status": "exact_japanese_text",
+      "text": "Learning a Servant's identity is key to defeating a Servant.\nWith the exception of the idiot who doesn't know his own name, a Servant's greatest weakness is their identity.\nOnce you learn a Servant's name and identity, then you can mostly deduce that Heroic Spirit's Noble Phantasm.",
+      "sourceUnit": "プロローグ3日目:page186:1"
+    },
+    "page188": {
+      "status": "exact_japanese_text",
+      "text": "It goes without saying that since Servants are Heroic Spirits, they have legends associated with them.\nUnraveling their history can reveal a lot about their abilities.\nMasters address Servants by their class names to hide their True Names.\nThe more famous a hero, the more likely their weapons and weaknesses are to be known.",
+      "sourceUnit": "プロローグ3日目:page187:1"
+    },
+    "page189": {
+      "status": "exact_japanese_text",
+      "text": "A Heroic Spirit who has become a Servant will never willingly divulge their identity.\nThat knowledge is reserved only for their Master.\nThere's a tacit understanding that a Master conceals their own Servant's identity while trying to figure out the identities of the other Servants.",
+      "sourceUnit": "プロローグ3日目:page188:1"
+    },
+    "page190": {
+      "status": "exact_japanese_text",
+      "text": "...Including this one, there have been five Holy Grail Wars thus far.\nEach Servant's quality depends on the caliber of the summoned Heroic Spirit.\nNaturally, a famous hero, or one with a legendary weapon, is powerful.",
+      "sourceUnit": "プロローグ3日目:page189:1"
+    },
+    "page191": {
+      "status": "exact_japanese_text",
+      "text": "Accordingly, it's difficult to summon such Heroic Spirits.\nFor that, a summoner needs a connection to the Heroic Spirit they're summoning, such as a weapon the hero wielded during their lifetime.\nEven the Mage's Association, with all its resources, only has a few such items in its possession.\nThat's why most mages, myself included, summon a Heroic Spirit whom we have an affinity with.",
+      "sourceUnit": "プロローグ3日目:page190:1"
+    },
+    "page192": {
+      "status": "exact_japanese_text",
+      "text": "A Servant's strength is determined by the caliber of the Heroic Spirit, or so the logic goes.\nBut reality isn't so clear-cut. Even a superior Heroic Spirit might struggle when the classes in play aren't favorable.\nClass-specific abilities can have a large impact on the outcome of a battle.",
+      "sourceUnit": "プロローグ3日目:page191:1"
+    },
+    "page193": {
+      "status": "exact_japanese_text",
+      "text": "Each of the seven classes comes with additional abilities, and the interaction between these can allow one to triumph over a stronger opponent.\nTo continue the example, it's said that great heroes were defeated by lesser-known heroes in each of the previous four wars.\nAs far as I know, the best Servant class is Saber.",
+      "sourceUnit": "プロローグ3日目:page192:1"
+    },
+    "page194": {
+      "status": "exact_japanese_text",
+      "text": "Saber fought until the very end in each of the last four wars.\nSaber, Lancer, and Archer are said to have powerful Magic Resistance.\nMagecraft isn't effective against these three classes.",
+      "sourceUnit": "プロローグ3日目:page193:1"
+    },
+    "page195": {
+      "status": "exact_japanese_text",
+      "text": "After all, they're warriors from ages of myth and legend, when magic was still prevalent.\nSpells cast by modern mages would probably fizzle out on contact.\n...That's why the first three classes are generally considered the most desirable.",
+      "sourceUnit": "プロローグ3日目:page194:1"
+    },
+    "page196": {
+      "status": "exact_japanese_text",
+      "text": "The other class to watch out for is Berserker.\nHeroic Spirits summoned in this class lose their sanity.\nAs the name suggests, they become crazed warriors and puppets of their Masters, but are strengthened beyond the powers they had in life.",
+      "sourceUnit": "プロローグ3日目:page195:1"
+    },
+    "page197": {
+      "status": "exact_japanese_text",
+      "text": "It's also worth noting that the stronger a Servant is, the greater its burden on its Master.\nIn the past, Masters who drew Berserkers couldn't control their Servants, and ultimately self-destructed due to running out of magical energy.\nNo exceptions.",
+      "sourceUnit": "プロローグ3日目:page196:1"
+    },
+    "page198": {
+      "status": "exact_japanese_text",
+      "text": "...In the vast majority of cases, Holy Grail Wars are won by the summoned Servants' abilities.\nOf course, there are plenty of ways for Masters to win battles, but it basically comes down to fighting between Servants.\nThat's why a Master needs to commit the utmost diligence and effort to summoning a Servant...",
+      "sourceUnit": "プロローグ3日目:page197:1"
+    },
+    "page199": {
+      "status": "exact_japanese_text",
+      "text": "...\nDiscontented, I decide to come up with projections for the battles to come.\nBefore long, it's 11:00 PM... Yes, I fixed the clocks already. Archer comes home.",
+      "sourceUnit": "プロローグ3日目:page198:1"
+    },
+    "page200": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome back. How'd it go?\"\n\"...Sorry, I failed. His Master must be a cautious one. I was at least able to tell that Lancer's Master isn't on this side of the city.\"",
+      "sourceUnit": "プロローグ3日目:page199:1"
+    },
+    "page201": {
+      "status": "exact_japanese_text",
+      "text": "Figures.\nLancer was all alone, and his Master didn't seem like the type to show themselves.",
+      "sourceUnit": "プロローグ3日目:page200:1"
+    },
+    "page202": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Well, we knew it wouldn't be that easy.\"\nEverything can't go according to plan.\nSo there's no use worrying over it.\nI'll just give up and treat tonight as a learning experience.",
+      "sourceUnit": "プロローグ3日目:page201:1"
+    },
+    "page203": {
+      "status": "exact_japanese_text",
+      "text": "\"You seem dispirited, Master. What happened to all that combativeness? Don't tell me you're cowed after a single skirmish. If you order it, I can go back out right now and reengage Lancer.\"",
+      "sourceUnit": "プロローグ3日目:page202:1"
+    },
+    "page204": {
+      "status": "exact_japanese_text",
+      "text": "Archer doesn't say it, but I can tell he thinks that's the right course of action.\n...Oh.\nI must look pretty depressed right now, huh?",
+      "sourceUnit": "プロローグ3日目:page203:1"
+    },
+    "page205": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not it at all. I'm not going back out there because I don't want to waste the effort.\"\n\"Hm? Waste what effort?\"\n\"The Masters aren't all accounted for yet. Tonight's fight was unavoidable, but we're not supposed to fight until the signal to start the war. Father told me that's a rule of the Holy Grail War.\"",
+      "sourceUnit": "プロローグ3日目:page204:1"
+    },
+    "page206": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So your father was a Master, too.\"\nArcher nods in understanding.\nActually...\n...he's making a rather mixed expression.",
+      "sourceUnit": "プロローグ3日目:page205:1"
+    },
+    "page207": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You got something to say to me?\"\n\"Yes, I forgot to ask you something.\nRin, you've been raised from a young age to be a Master and followed that lifestyle accordingly, yes? That means you always expected to become a Master.\"",
+      "sourceUnit": "プロローグ3日目:page206:1"
+    },
+    "page208": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I did. Some mages are appointed as Masters, but it doesn't work like that for me. I'm a Tohsaka. Winning the Holy Grail War has been our goal for generations.\"",
+      "sourceUnit": "プロローグ3日目:page207:1"
+    },
+    "page209": {
+      "status": "exact_japanese_text",
+      "text": "\"That makes sense. So you already had an objective in mind.\nThat's what I wanted to ask you about. I need to know my Master's wish before I offer my sword in service.\nSo, Rin. What is your wish?\"\n\"My wish? I don't really have one.\"\n\"...What?\"\nAha, Archer's making a funny face.",
+      "sourceUnit": "プロローグ3日目:page208:1"
+    },
+    "page210": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that can't be true! The Holy Grail can grant any wish. Mages only become Masters to obtain the Holy Grail. So what do you mean, you have no wish!?\"\n...\nArcher drops all pretense.",
+      "sourceUnit": "プロローグ3日目:page209:1"
+    },
+    "page211": {
+      "status": "exact_japanese_text",
+      "text": "...Ah, right.\nOnce the Holy Grail is won, the victorious Master's wish has nothing to do with the Servant.\nBut that's weird. Father mentioned that Servants have their own wishes too, but that's their own business.\nIt shouldn't matter to Archer whether or not I have a wish.",
+      "sourceUnit": "プロローグ3日目:page210:1"
+    },
+    "page212": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Since you don't have a specific wish, what about a general one? Like conquering the world, for example.\"\n\"Why? The world already belongs to me.\"",
+      "sourceUnit": "プロローグ3日目:page211:1"
+    },
+    "page213": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"You know, Archer, the 'world' is just the set of values that revolves around yourself. I've had that ever since I was born. I don't need to take over something that's always been inherently mine.\"",
+      "sourceUnit": "プロローグ3日目:page212:1"
+    },
+    "page214": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher looks at me with a strange expression.\nMan, he's stubborn.",
+      "sourceUnit": "プロローグ3日目:page213:1"
+    },
+    "page215": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't believe you. The Holy Grail has the power to grant wishes. You could obtain anything you want in the material world. How can you not desire anything at all?\"\n\"World domination sounds like a pain, and I wouldn't know what to do with it. Not everyone looks at things the way you do, you know.\"\n\"...I'm having trouble understanding this. What do you fight for?\"",
+      "sourceUnit": "プロローグ3日目:page214:1"
+    },
+    "page216": {
+      "status": "exact_japanese_text",
+      "text": "\"If there's a fight to be had, I just want in, Archer. I'll take whatever I find along the way. I don't really know how the Holy Grail works, but if I find that there's something I want, I can just use it on that. Not all people live to acquire things, you know.\"\n\"Meaning...\"\n\"That's right. I'm just fighting to win.\"",
+      "sourceUnit": "プロローグ3日目:page215:1"
+    },
+    "page217": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher sighs and shrugs.\nMaybe he's fed up with me, but he finally relaxes.",
+      "sourceUnit": "プロローグ3日目:page216:1"
+    },
+    "page218": {
+      "status": "exact_japanese_text",
+      "text": "\"...I give up. You truly are fit to be my Master.\"\n...Uh.\nI...don't know how to respond to comments like that, so I wish he'd stop making them...",
+      "sourceUnit": "プロローグ3日目:page217:1"
+    },
+    "page219": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Servants may not have the right to choose their Masters, but what makes you think I'm worthy of you?\"\n\"Do I need to spell it out? It's because you are, without a doubt, the strongest Master.\nI don't need any other reason than that.\"\n\"Oh. Well, thanks. That doesn't sound like flattery, coming from you.\"\n...I turn away to hide my embarrassment.",
+      "sourceUnit": "プロローグ3日目:page218:1"
+    },
+    "page220": {
+      "status": "exact_japanese_text",
+      "text": "Archer usually acts like a smartass, so this sincerity is blindsiding me.\n...Admittedly, I'm happy he feels this way.\nI've come to trust him, and he's come to trust me.\nI don't think this mutual sentiment is a bad thing.",
+      "sourceUnit": "プロローグ3日目:page219:1"
+    },
+    "page221": {
+      "status": "exact_japanese_text",
+      "text": "\"I suppose we should take a breather, then. The seventh Master has yet to appear, but it might not happen right—Wait, Rin. What happened to your jewelry?\"\n\"My jewelry? Oh, you mean the pendant? ...I forgot it back there. It doesn't have any power anymore, so I don't really need it, do I?\"",
+      "sourceUnit": "プロローグ3日目:page220:1"
+    },
+    "page222": {
+      "status": "exact_japanese_text",
+      "text": "\"I suppose not. If you say so.\"\n\"Yeah. It's a keepsake from Father, but it's hardly the only memory I have of him—\"\n\"Don't say that. You don't always have to act so strong, Rin.\"\nAs he nags me,\nArcher holds out the pendant I left at school.",
+      "sourceUnit": "プロローグ3日目:page221:1"
+    },
+    "page223": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. You picked it up for me.\"\n\"...Don't lose it again. It really belongs with you, Rin.\"\nArcher avoids eye contact as he passes the pendant to me, looking almost bashful.",
+      "sourceUnit": "プロローグ3日目:page222:1"
+    },
+    "page224": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. Thanks.\"\nI accept it.\nTo be honest, I'm not sure whether to be embarrassed or play it off right now.",
+      "sourceUnit": "プロローグ3日目:page223:1"
+    },
+    "page225": {
+      "status": "exact_japanese_text",
+      "text": "The pendant is as I left it.\n...As I thought, it really doesn't have any energy left.\nIt's just an expensive jewel now that it's empty.\nBut to put it in Archer's terms...\nMaybe it still has meaning as a memento of my father, even without its power.\nI suppose I can laugh this off as a net win, since I spent my trump card to save someone's life.",
+      "sourceUnit": "プロローグ3日目:page224:1"
+    },
+    "page226": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait a second.\"\nI jolt up in my seat.\nI wasn't thinking straight while I lamented what I lost, but as I pull myself together, it strikes me.",
+      "sourceUnit": "プロローグ3日目:page225:1"
+    },
+    "page227": {
+      "status": "exact_japanese_text",
+      "text": "He saw us, so I ought to alter his memories.\nMeanwhile, Lancer prioritized eliminating witnesses over fighting us.\nLancer's thinking should reflect that of his Master.\nWhich means...if a Master who went out of their way to kill a witness finds out that he survived...",
+      "sourceUnit": "プロローグ3日目:page226:1"
+    },
+    "page228": {
+      "status": "exact_japanese_text",
+      "text": "\"They won't let him live.\"\nI stand up from the sofa.\n...It's already been three hours.\nI might not make it in time,\nbut I can't let this happen, not after all the trouble I went through!",
+      "sourceUnit": "プロローグ3日目:page227:1"
+    },
+    "page229": {
+      "status": "exact_japanese_text",
+      "text": "I sprint through the night.\nFortunately, I know where he lives.\nNot because I bothered to find out, but because someone I happen to know goes over to his place often. I've never been there personally.",
+      "sourceUnit": "プロローグ3日目:page228:1"
+    },
+    "page230": {
+      "status": "exact_japanese_text",
+      "text": "\"...Good grief. You're really making this harder on yourself.\"\nArcher gripes unenthusiastically.\nIt's going to be as much of a struggle to rescue the guy now as it was to save him earlier.",
+      "sourceUnit": "プロローグ3日目:page229:1"
+    },
+    "page231": {
+      "status": "exact_japanese_text",
+      "text": "It's midnight. The sky is shrouded in clouds.\nI arrive at an old samurai estate.",
+      "sourceUnit": "プロローグ3日目:page230:1"
+    },
+    "page232": {
+      "status": "exact_japanese_text",
+      "text": "The building closest to the outside shows no signs of life.\nThere aren't many neighboring houses, so it's unlikely anyone would come even if they noticed something was amiss.",
+      "sourceUnit": "プロローグ3日目:page231:1"
+    },
+    "page233": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy breath mists white.\nThe wind picks up.\nIt must be pretty strong, because the clouds are starting to move.\nI find myself trembling despite the temperate Fuyuki weather, and a chill runs down my spine.",
+      "sourceUnit": "プロローグ3日目:page232:1"
+    },
+    "page234": {
+      "status": "exact_japanese_text",
+      "text": "People call Fuyuki a warm place, but you can feel the winter chill from the hilltops.",
+      "sourceUnit": "プロローグ3日目:page233:1"
+    },
+    "page235": {
+      "status": "exact_japanese_text",
+      "text": "The air is bitingly cold.\nThe chill presses in and makes it hard to hear.\nIn the midst of this air that seems conquered by the cold, I keenly sense the enemy.",
+      "sourceUnit": "プロローグ3日目:page234:1"
+    },
+    "page236": {
+      "status": "exact_japanese_text",
+      "text": "\"He's here. The Lancer from earlier!\"\nI bite my lip.\nSomething's on the other side of the outer wall.\nLancer must have already infiltrated the house, waiting for its witless owner to come home to his death.",
+      "sourceUnit": "プロローグ3日目:page235:1"
+    },
+    "page237": {
+      "status": "exact_japanese_text",
+      "text": "\"...We'll just have to jump over. I'll think about what happens when it happens!\"\nJust as I'm about to order Archer to go in...\nA flash.\nFrom the house emerges a radiant white light bright as the sun.",
+      "sourceUnit": "プロローグ3日目:page236:1"
+    },
+    "page238": {
+      "status": "exact_japanese_text",
+      "text": "...\nIts presence is all-consuming.\nThe power radiating from Lancer is being washed away by the newcomer's even greater aura.\n...An instantaneous explosion of ether gives the spirit physical form,\nand the summoned being overpowers Lancer.",
+      "sourceUnit": "プロローグ3日目:page237:1"
+    },
+    "page239": {
+      "status": "exact_japanese_text",
+      "text": "\"No way...\"\nAll I can do is whisper in awe.\nBut the truth is staring me in the face.\nAs if to prove the point, Lancer bounds over the wall, fleeing the compound.",
+      "sourceUnit": "プロローグ3日目:page238:1"
+    },
+    "page240": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Archer. Is that one of your hypotheticals?\"\n\"Perhaps. But now all seven of them are here, Rin.\"\nArcher is calm.\nMeanwhile my rational thought goes flying out the window.\nWhat happens next should have been obvious, but I'm not thinking straight.",
+      "sourceUnit": "プロローグ3日目:page239:1"
+    },
+    "page241": {
+      "status": "exact_japanese_text",
+      "text": "There's a strong gust of wind.\nThe clouds cover the sky like an umbrella.\nDarkness shrouds the lightless outskirts of the town.\nA Servant leaps over the wall and lands gracefully, like an unworldly bird.",
+      "sourceUnit": "プロローグ3日目:page240:1"
+    },
+    "page242": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nArcher reacts.\nI fail to even twitch in response.\nThat's my fault.\nThe fight ends before even a second passes.\nOne second might be a brief instant to me,\nbut it's a massive opening to a Servant.",
+      "sourceUnit": "プロローグ3日目:page241:1"
+    },
+    "page243": {
+      "status": "exact_japanese_text",
+      "text": "A bladed wind closes in on me.\n\"Huh? Archer...?\"\nArcher lunges in front of me,\nwhile the Servant cuts him deeply.\nIt really was just an instant.\nIs Archer, who so gracefully fended off Lancer's brutal assault, going down in one hit...?",
+      "sourceUnit": "プロローグ3日目:page242:1"
+    },
+    "page244": {
+      "status": "exact_japanese_text",
+      "text": "\"Vanish, Archer!\"\nI made it in time.\nBefore the Servant's next strike takes off Archer's head, I force him to retreat.\nPain throbs in my right hand.\nBecause it was such an extreme order, it used up one of my Command Spells.",
+      "sourceUnit": "プロローグ3日目:page243:1"
+    },
+    "page245": {
+      "status": "exact_japanese_text",
+      "text": "...Now I only have one left.\nBut this was for the best.\nIt's worth losing a Command Spell or two to make sure Archer doesn't die.",
+      "sourceUnit": "プロローグ3日目:page244:1"
+    },
+    "page246": {
+      "status": "exact_japanese_text",
+      "text": "...\nWithout skipping a beat, the Servant comes for me next.\n\"...Don't underestimate me!\"\nI pull out a wind-imbued topaz, and feed magical energy directly into it without any extra steps.",
+      "sourceUnit": "プロローグ3日目:page245:1"
+    },
+    "page247": {
+      "status": "exact_japanese_text",
+      "text": "It's a cluster of wind spells that I've been feeding into it day after day, and they're enough to blow away a house or two without leaving a trace.\nThis is one of ten jewels I've been building up for the last seventeen years, without skipping a single day.\nEven if I can't beat this thing with it, it should be enough to slow—\n...Or not.\nIt didn't work at all.\nThe moment it touches the Servant, what ought to have been a tempest that would hew apart anything in its path disappears like a simple stage magic trick.\nWhat terrifying Magic Resistance.\nAre you telling me that a mage doesn't have enough magical energy to hurt this Servant!?",
+      "sourceUnit": "プロローグ3日目:page246:1"
+    },
+    "page248": {
+      "status": "exact_japanese_text",
+      "text": "Oh, no.\nMy magecraft doesn't work, and I've lost Archer's protection. I have no way to stop this Servant.\nEven if I barely manage to dodge the first attack, I'm finished.\nI look up at the night sky.\nIn it, I imagine a ruthless reaper coming for me, sprawled pitifully on the ground...",
+      "sourceUnit": "プロローグ3日目:page247:1"
+    },
+    "page249": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nThe wind blows.\nThrough a break in the clouds, the moon peeks out through the spiral-like sky.\nThe moonlight highlights her elegant profile.\nSo this is the face of the Servant who drove off Lancer,\ntook down my Archer in one blow,\nand shrugged off my magecraft like it was nothing.",
+      "sourceUnit": "プロローグ3日目:page248:1"
+    },
+    "page250": {
+      "status": "exact_japanese_text",
+      "text": "\"That was an admirable display of magecraft, mage.\"",
+      "sourceUnit": "プロローグ3日目:page249:1"
+    },
+    "page251": {
+      "status": "exact_japanese_text",
+      "text": "The girl's voice rings clear like a bell.\nYet her voice is the stuff of nightmares at this moment.",
+      "sourceUnit": "プロローグ3日目:page250:1"
+    },
+    "page252": {
+      "status": "exact_japanese_text",
+      "text": "\"But this is the end for you, Master of Archer.\"",
+      "sourceUnit": "プロローグ3日目:page251:1"
+    },
+    "page253": {
+      "status": "exact_japanese_text",
+      "text": "The sword she's thrust at me seems to shine.",
+      "sourceUnit": "プロローグ3日目:page252:1"
+    },
+    "page254": {
+      "status": "exact_japanese_text",
+      "text": "I know that this is my dying moment.\nOne glance is enough to figure that out.",
+      "sourceUnit": "プロローグ3日目:page253:1"
+    },
+    "page255": {
+      "status": "exact_japanese_text",
+      "text": "This is the card I wished to draw,\nthe sword-wielding hero said to be the most powerful Servant.",
+      "sourceUnit": "プロローグ3日目:page254:1"
+    },
+    "page256": {
+      "status": "exact_japanese_text",
+      "text": "...\nI look up at the moon, prepared to die.\nThere's no room to beg for my life, no time to escape.\nWith my death, Rin Tohsaka's Holy Grail War will have ended on the third day.\nYou'd think I'd go out hating my foe, feeling nothing but shame and regret.",
+      "sourceUnit": "プロローグ3日目:page255:1"
+    },
+    "page257": {
+      "status": "exact_japanese_text",
+      "text": "...But I don't feel that way at all.\nSomething's seriously wrong with me.\nI'm one moment away from certain death, and here I am, entranced by my killer.\n...Yeah.\nIt's frustrating, to be sure.",
+      "sourceUnit": "プロローグ3日目:page256:1"
+    },
+    "page258": {
+      "status": "exact_japanese_text",
+      "text": "But there's nothing I can do now.\n...The strongest Servant is going to kill me.\nShe looks all at once heartless, utterly noble, and so very beautiful...",
+      "sourceUnit": "プロローグ3日目:page257:1",
+      "recoveredDelimitedTail": true
+    },
+    "page259": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

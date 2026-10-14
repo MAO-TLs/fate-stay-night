@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0131",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't block them.\nWell, I can at least manage to avoid them.\nBut I'm not sure I can dodge them and attack Shinji.",
+      "sourceUnit": "セイバールート九日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The three sharp blades approach.\n\"...Nnh, fuh!\"\nI stop in my tracks, and concentrate on evading, keeping an eye on Shinji.",
+      "sourceUnit": "セイバールート九日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I take a step to the left to dodge the blade that rushes towards my stomach.\nI twist my upper body to avoid the second blade coming towards my chest from the left after I avoid the first blade, and then I rush forward to pass the third blade flying at my unprotected forehead!",
+      "sourceUnit": "セイバールート九日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Not a problem. I can see where they're going!\"\nCompared to Saber's attacks, this is like a game of dodgeball.",
+      "sourceUnit": "セイバールート九日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Tch!!! You conceited fool!\"\nThree more shadows rush toward me.\nI don't even need to see where these are going.\nThe first attack showed me how far and fast these can go, so I have no trouble avoiding this attack.",
+      "sourceUnit": "セイバールート九日目-05:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page6": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

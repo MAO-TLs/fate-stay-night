@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0324",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I clench my teeth to bear my unease.\nI can only brace myself now.\nIf Mr. Kuzuki is innocent, I just have to remove the curse with all my might.",
+      "sourceUnit": "凛ルート九日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm shooting now...!\"\nShe takes in a small breath.\nA black shot is released, followed by the sound of something piercing the air.",
+      "sourceUnit": "凛ルート九日目-02:page1:1"
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

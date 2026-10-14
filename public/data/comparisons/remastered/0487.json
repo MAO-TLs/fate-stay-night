@@ -1,0 +1,331 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0487",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't leave Sakura alone tonight.\nMy presence alone won't make her any better, but I want to be able to help right away in case she needs it.",
+      "sourceUnit": "桜ルート六日目-23:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Saber. We're not going out on patrol tonight. I'm worried about Sakura.\"\n\"...I understand. I will follow your orders, Master.\"\n\"Huh?\"",
+      "sourceUnit": "桜ルート六日目-23:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "T-that's a surprise.\nI was sure Saber would be against it, but she simply accepted what I said without protest.",
+      "sourceUnit": "桜ルート六日目-23:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Lest you misunderstand, Sakura is not the only person who feels unwell. I know you are tired as well, so you should rest tonight.\nYour magical energy has yet to recover fully. Neither you nor Sakura should overexert yourselves.\"\n\"...Thanks, Saber.\"",
+      "sourceUnit": "桜ルート六日目-23:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I do not require your gratitude. I am your Servant, Shirou. Your safety comes first of all.\"\nWith that, Saber sits down in the living room and pours herself a cup of warm water.",
+      "sourceUnit": "桜ルート六日目-23:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Shirou...what will you do to reward such an understanding attendant?\"\nSaber asks me a question, her tone adorably mixed with petulance and anticipation.",
+      "sourceUnit": "桜ルート六日目-23:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. Hang on, Saber.\"\nI divine her desire for a midnight snack, and assemble a tray of tea and cookies that Fuji-nee bought just for her, grinning wryly all the while.",
+      "sourceUnit": "桜ルート六日目-23:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy Magic Circuit closes.\nOnce the red-hot rod leaves my spine, I sigh in relief.",
+      "sourceUnit": "桜ルート六日目-23:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "My daily routine, which I've been neglecting lately, goes off without a hitch, to my surprise.\nMaybe it's thanks to my contract with Saber. I've always had a hard time forming my Magic Circuit, but it's easy now.",
+      "sourceUnit": "桜ルート六日目-23:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Still...it isn't of much use if it takes me a whole minute to do it.\"\nAll I can do is Strengthen something into a weapon.\nIf I'm taken by surprise, I'd still be in desperate straits with no way to defend myself.\nIf I could at least shorten it by half, to about thirty seconds...",
+      "sourceUnit": "桜ルート六日目-23:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe I'll ask Tohsaka for advice next time. I bet she knows a more efficient way to create a Magic Circuit.\"\nI don't know what she'll want in return though, so I can't just ask her on a moment's notice.",
+      "sourceUnit": "桜ルート六日目-23:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI hear footsteps on dirt.\nThey're slow and unhurried.\n...It's midnight.\nThe person who comes to the shed, letting the moonlight guide her path, is...\n\"Senpai...? Are you still awake?\"\nSakura. The color of her face looks a little better.",
+      "sourceUnit": "桜ルート六日目-23:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut my mind goes blank.\n...Sakura's wearing something I haven't seen before.\nI take incomprehensible damage.\nThey're clothes that Fuji-nee gave her, but seeing Sakura out of her school uniform sends my head spinning...",
+      "sourceUnit": "桜ルート六日目-23:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Senpai?\"\n\"Uh, yeah. I'm awake. Are you sure you should be up? It's cold outside.\"\n\"Yes, my fever is better now. I went out for a walk to clear my head, and I heard some sounds that I thought were you.\"",
+      "sourceUnit": "桜ルート六日目-23:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. Well, make sure you warm yourself up and get some sleep later. Glad to see you're feeling better.\"\nI light the stove I just fixed.",
+      "sourceUnit": "桜ルート六日目-23:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Good, it turns on.\nIt'll warm us up a little.",
+      "sourceUnit": "桜ルート六日目-23:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on over. It's cold here too, but still better than outside.\n...If you want someone to talk to before you go back to bed, I'm here for you.\"\n\"Okay. If you don't mind.\"",
+      "sourceUnit": "桜ルート六日目-23:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Sakura makes her way towards me with sure steps.\n...I'm glad. She really does look like she's feeling better.",
+      "sourceUnit": "桜ルート六日目-23:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"It's warm. You really fixed this?\"\n\"Somehow. It was so worn out when I first worked on it that I just about gave up.\"",
+      "sourceUnit": "桜ルート六日目-23:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I remember you got mad. 'This is like asking me to fix the VCR that Fuji-nee cut in half!'\nBut you still brought it home in the end.\"",
+      "sourceUnit": "桜ルート六日目-23:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, this piece of junk isn't the only one who doesn't know when to give up.\"\nThe stove was broken, but once I saw that it could be fixed, I just couldn't leave it alone.",
+      "sourceUnit": "桜ルート六日目-23:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"That's because you're persistent, Senpai. You're a sympathetic person and you're incredibly stubborn. Do you realize that now?\"\n\"...Mrgh. I'm stubborn, huh?\"",
+      "sourceUnit": "桜ルート六日目-23:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"You are! And pushy, too.\nEven just earlier, you weren't listening to me at all.\"",
+      "sourceUnit": "桜ルート六日目-23:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Well then.\nSakura's in an oddly good mood, even though she's scolding me.\n...Not that I'm unhappy to see her in good spirits again.",
+      "sourceUnit": "桜ルート六日目-23:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. I got a little intense back there, so I wasn't thinking straight.\"\n\"That's right. You looked really scary when you were upset at both me and yourself... I know I'm always being a burden on you, but I hope you realize that you were out of line earlier.\"",
+      "sourceUnit": "桜ルート六日目-23:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura is so gentle.\nShe's still getting over her illness, but, how do I put it, it isn't the usual Sakura that's trying to do her best in front of me. It's like I'm seeing the real Sakura.",
+      "sourceUnit": "桜ルート六日目-23:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"It reminded me a little of my childhood.\nI was always shut in at home when I was younger, and I could never say the things I wanted to say. I thought that it would be better for everyone else if I kept my true feelings to myself, so I never said anything.\"",
+      "sourceUnit": "桜ルート六日目-23:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...But I know that can't work. I kept quiet because I didn't want to make anyone worry, but that only made my father and brother worry even more.\"",
+      "sourceUnit": "桜ルート六日目-23:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh. But you only did it because you care about your dad and Shinji, so I'm sure your feelings got through to them. Not everything needs to be said out loud.\"",
+      "sourceUnit": "桜ルート六日目-23:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I hope you're right.\n...What about you, Senpai? You've never spoken much about your childhood.\"",
+      "sourceUnit": "桜ルート六日目-23:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, me? Hmm...it wasn't really any different from my life now. I ran around town during the day, cooked for my old man, and fixed junk in here at night.\"\nFeeling bashful, I scratch my cheek.\n...It's a little embarrassing as a man to admit that my life hasn't changed since childhood.",
+      "sourceUnit": "桜ルート六日目-23:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. You had to run around town?\"\n\"Mm... I was playing patrol. I always wanted to be someone strong who helps the weak.\"",
+      "sourceUnit": "桜ルート六日目-23:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "My main battlefield was the park.\nI recall spending a lot of time there with other kids my age, picking fights with slightly older kids.\n...I vaguely recall one of the kids who was really clever for their age, whom I saw as a devilish nemesis.",
+      "sourceUnit": "桜ルート六日目-23:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You protected the town from bullies. So that's the kind of person you've always been.\"\n\"Sakura, when you say that with a smile, it just makes me regret everything I've ever done. You're embarrassing me.\"",
+      "sourceUnit": "桜ルート六日目-23:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"It's nothing to be ashamed of. If I'd known you as a child, I would've asked to be one of your henchmen.\nYou know how shy I am. I've always needed someone to drag me out into the open.\"",
+      "sourceUnit": "桜ルート六日目-23:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"My henchman...?\"\n...Ah, actually, I bet Sakura would've trained with me daily if we'd known each other as kids.\nI can definitely imagine my younger self shouting motivational phrases at her as we ran along the riverbed or meditated in the dojo.",
+      "sourceUnit": "桜ルート六日目-23:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Anyone watching us would have seen us as boss and minion.\nThen, Sakura would have grown up big and strong under my guidance,\nlike this...\n...or a devil in girl's clothing like this.",
+      "sourceUnit": "桜ルート六日目-23:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Urgh...\"\nI feel a sudden chill.\nThank goodness she turned out so modest and graceful.",
+      "sourceUnit": "桜ルート六日目-23:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Senpai?\"\n\"Hm? Sorry, just spaced out for a second. Don't mind me, I'm just talking to myself.\"",
+      "sourceUnit": "桜ルート六日目-23:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, then... But may I ask you a question?\"\n\"Sure. What is it?\"",
+      "sourceUnit": "桜ルート六日目-23:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...I heard from Ms. Fujimura that you were adopted into the Emiya household. Is that true?\"\n\"Hm? Didn't I mention it before? Yeah, Kiritsugu adopted me.\"",
+      "sourceUnit": "桜ルート六日目-23:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"U-um, Senpai? Is that...\"\n\"It isn't really a secret. It's just what it is. Why do you ask?\"",
+      "sourceUnit": "桜ルート六日目-23:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Doesn't it bother you? Being given to a family you don't know, and having to endure a lot of things you didn't like?\"",
+      "sourceUnit": "桜ルート六日目-23:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh, Fuji-nee must have put that idea in your head.\n...Well, it might have looked that way during the first year, but I don't think it was that bad, and there wasn't anything I truly disliked.\"\n\"S-so, did you enjoy it?\"",
+      "sourceUnit": "桜ルート六日目-23:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Hm.\nThis is the first time anyone's ever asked me that.\nAfter the fire...\nMy first year with Kiritsugu was a difficult one, spent mostly recovering from my injuries.",
+      "sourceUnit": "桜ルート六日目-23:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "After that...\nAfter that, I've just been on the move day after day, like I still am now.\nI followed Kiritsugu's footsteps to learn magecraft,\nfound meaning in helping as many people as I could, and spent my days roaming the town.",
+      "sourceUnit": "桜ルート六日目-23:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Can I truly say I enjoyed it?\nI've never had the luxury of considering that question.",
+      "sourceUnit": "桜ルート六日目-23:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. I'm not sure. I don't know if I can say it was fun. I just wanted to be like my old man.\"",
+      "sourceUnit": "桜ルート六日目-23:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"You wanted to be a hero, like Ms. Fujimura mentioned?\"\nSakura timidly asks.\nAnd I answer,\n\"Yeah. Is that weird?\"\nI feel bashful about it, but I say how I really feel.",
+      "sourceUnit": "桜ルート六日目-23:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"No. That isn't wrong. I admire how straightforward you are.\"\n\"...\"\nHer words are calm.\nNormally, they'd make me so embarrassed that I couldn't look her in the eye. But the sentiment goes straight to my heart, and I feel like thanking her.",
+      "sourceUnit": "桜ルート六日目-23:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, I have another question for you. If I become a bad person, would you forgive me?\"",
+      "sourceUnit": "桜ルート六日目-23:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI'm taken aback by the sudden question.\nBut if I consider it seriously...\n\"No. Sakura, if you do something bad, then I'll be angry. I think I'd be twice as mad as I'd be at anyone else.\"\nI'd probably push everything else from my mind and scold Sakura in that case.",
+      "sourceUnit": "桜ルート六日目-23:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thank goodness. As long as it's you, Senpai.\"\nSakura nods in apparent relief.",
+      "sourceUnit": "桜ルート六日目-23:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nSeeing her smile, I feel like this has happened before.",
+      "sourceUnit": "桜ルート六日目-23:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going back to my room. Good night, Senpai.\"\nSakura returns to her bedroom.\nI watch her leave, and get the odd feeling that I'm forgetting something.",
+      "sourceUnit": "桜ルート六日目-23:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "I go back to my bedroom.\nI slip into bed quietly to avoid waking Saber, and close my eyes.",
+      "sourceUnit": "桜ルート六日目-23:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"I remember.\"\nFinally, I realize what's been nagging at my mind.\nThat's right, it was...",
+      "sourceUnit": "桜ルート六日目-23:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "It was in the shed back then, too.\nTwo years ago...no, a year and half, to be exact.",
+      "sourceUnit": "桜ルート六日目-23:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "It was two summers ago.\nSakura had come over several times asking to help out around the house, and I'd turned her down each time.\nBut she wouldn't back down. She showed up here every day, showing more stubbornness than I'd known she had.",
+      "sourceUnit": "桜ルート六日目-23:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Eventually, I gave in. Her tenacity impressed me, and one day, I called her over to the shed to declare my surrender.\n\"You win, Sakura. So I'm giving you this.\"\nIt was an old key.\nKiritsugu used to use it, and it had been put away in the shed for years. I handed it over to Sakura.",
+      "sourceUnit": "桜ルート六日目-23:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "Sakura was shocked, and vehemently refused it, saying she didn't deserve to have it.\nIf memory serves, she insisted that she was too much of a stranger to hold on to even a duplicate of the key.",
+      "sourceUnit": "桜ルート六日目-23:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, you're not a stranger. You come over and help me every day.\nUse this to come and go whenever you want... It would help me out a lot.\"",
+      "sourceUnit": "桜ルート六日目-23:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "I didn't take no for an answer, and pushed it into her hands.\nThat's when I saw it.\n\"...Okay. Thank you, Senpai. This is the second time someone important to me has given me something.\"\nSakura nodded, looking elated.",
+      "sourceUnit": "桜ルート六日目-23:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. So that was it.\"\nThat's what I was struggling to remember.\nSakura always tries her best, and her smile is always kind and gentle...\nBut I haven't seen her look this content since that summer day.",
+      "sourceUnit": "桜ルート六日目-23:page63:1"
+    },
+    "page64": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

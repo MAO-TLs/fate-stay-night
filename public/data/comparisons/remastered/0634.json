@@ -1,0 +1,271 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0634",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I take Illya outside.\nI can't afford to go out shopping frequently anymore, so we'll have to stock up for about three days at a time.",
+      "sourceUnit": "桜ルート十二日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess I'll buy a lot. Is there anything you want, Illya? I'm thinking about the lunch menu.\"",
+      "sourceUnit": "桜ルート十二日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Weren't we going to have stew for lunch? You just said so earlier.\"\n\"Oh... Right, I did. I just wanted to double check. Sakura likes white stews, so we'll look at some chicken.\"",
+      "sourceUnit": "桜ルート十二日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We head to the butcher's shop I usually visit.\nWe're going to stock up for three days, in any case.\nI can't waste money, so I need to maximize value and quality.",
+      "sourceUnit": "桜ルート十二日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "We spend a brisk thirty minutes shopping.",
+      "sourceUnit": "桜ルート十二日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Aha, you bought so much!\nIllya looked bored while we were shopping, but she seemed to enjoy herself once I gave her some bags to hold.",
+      "sourceUnit": "桜ルート十二日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. I bought too much. Are the bags heavy for you?\nI can trade you for some lighter ones.\"\nI hand her the lightest grocery bag out of the seven I'm holding.",
+      "sourceUnit": "桜ルート十二日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I'm okay. It isn't heavy.\nI can take one more, actually. You're holding so many in one hand, it looks like a bunch of grapes.\"",
+      "sourceUnit": "桜ルート十二日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm okay too. That's a funny example, though.\"\n\"Yeah. I was actually thinking you're like a clown holding a bunch of balloons, but grapes are cuter!\"",
+      "sourceUnit": "桜ルート十二日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Illya runs through the street, talking happily.\n\"Wait up, Illya. They aren't that heavy, but I can't really run right now.\"",
+      "sourceUnit": "桜ルート十二日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Rather than the weight, I'm afraid that the eggs and tofu in the bags might get crushed.\nI sigh and fast-walk after Illya.\nThis is the greatest concession I can give as the designated grocery shopper.",
+      "sourceUnit": "桜ルート十二日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...And so I follow Illya, making a lot of noise as I hold my groceries carefully.\nThat seems to tickle Illya, and she\nlooks like she's having a lot of fun.",
+      "sourceUnit": "桜ルート十二日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Once we leave the shopping district and arrive at the intersection, Illya stops and turns to me.",
+      "sourceUnit": "桜ルート十二日目-09:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Illya starts singing, supermarket grocery bags in hand.\nThe melody sounds familiar, like I might have\nheard it in school when I was a child.",
+      "sourceUnit": "桜ルート十二日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\" ~Die schänste Jungfrau sitzet\nDort oben wunderbar.\nIhr goldnes Geschmeide blitzet,\nSie kämmt ihr goldenes Haar~ \"",
+      "sourceUnit": "桜ルート十二日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I'm walking next to Illya, so I don't know what face she's making.\nI have no way of telling\nWhat expression she's singing with,\nor how she feels as she walks home.",
+      "sourceUnit": "桜ルート十二日目-09:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "It's a nostalgic melody.\nThe tune is simple and gentle, yet lonely.\nI'm sure that Illya is happy.\nOtherwise, she wouldn't be singing on the way home.",
+      "sourceUnit": "桜ルート十二日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "On the other hand, I can't help but think...\nMaybe Illya sings to herself a lot.\nWith no one to talk to and no father waiting to greet her at home, perhaps this is the only way she can express herself when no one else is around.",
+      "sourceUnit": "桜ルート十二日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\" ~lch glaube, die Wellen verschlingen\nAm Ende Schiffer und Kahn\nUnd das hat mit ihrem Singen\nDie Lorelei getan~ \"",
+      "sourceUnit": "桜ルート十二日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "At the edge of the road,\nI look up at the tall, curved traffic mirror.\nIt reflects me, holding a lot of bags, and a girl singing with her eyes closed, as if in a dream.",
+      "sourceUnit": "桜ルート十二日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's nothing else to say.\nWe're just a brother and sister on the way home after buying groceries.\nThe sight is so natural, so ordinary, that I can't help but imagine...\nHow wonderful it would be to see Kiritsugu there,\nin between the boy with the groceries and the lively little girl.",
+      "sourceUnit": "桜ルート十二日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya.\"\nI hold my breath.\n\"Hm? What, Shirou?\"",
+      "sourceUnit": "桜ルート十二日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "She innocently turns around.\n...She must be hiding how she really feels.",
+      "sourceUnit": "桜ルート十二日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Illya's shutting off her own feelings.\nEver since Archer disappeared, she's become sullen at times.\nThat's how we can have moments like this.\nBecause if she doesn't hide how she really feels, then she can't smile.",
+      "sourceUnit": "桜ルート十二日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat goes for me, too.\nI've known it all along, but I kept putting off thinking about it.\nTurning away from what needs to be said.\nIllya let things be this way, so I joined in on the lie.",
+      "sourceUnit": "桜ルート十二日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou?\"\n...Illya must have given up.\nShe stopped pursuing it, and decided to keep us company at our end.\nThat's okay.\nIf Illya's happy with our current relationship and willing to ignore it all, then it'll end without her losing anyone else.\nBut, still...",
+      "sourceUnit": "桜ルート十二日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. After this war ends, if you have nowhere to go home to...\"",
+      "sourceUnit": "桜ルート十二日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I'm crazy.\nI'm saying something that doesn't need to be said.\nBut I have to say it while I still can.\n...I'm going crazy.\nThat's all the more reason...",
+      "sourceUnit": "桜ルート十二日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, do you want to keep living with me?\"\n...I need to say it now, properly, before I completely lose my mind.",
+      "sourceUnit": "桜ルート十二日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...She stops.\nWith a flat voice, Illya asks,\n\"Do you mean that as Kiritsugu's son?\"\nShe watches me quietly.",
+      "sourceUnit": "桜ルート十二日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\nKiritsugu's son.\nWhat Kiritsugu couldn't do. What he left behind.\nI must carry on that responsibility as his son, even if we aren't related by blood.\nI have to settle things with this girl, not because Shirou Emiya wants it, but because Kiritsugu's son owes it to her.",
+      "sourceUnit": "桜ルート十二日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "That's what Illya is asking me.\nYeah, and my answer is, of course...",
+      "sourceUnit": "桜ルート十二日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I'm my father's son, and I like you. That's the only reason I want you to live with me.\"\n\"...Are you serious? You think you can be his replacement?\"\n\"No. I can't be Kiritsugu, nor can I replace him. We're two different people. I can't give you back what he owes you.\"",
+      "sourceUnit": "桜ルート十二日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"But I love my old man. I want to finish what he couldn't.\nSo, if you can find it in your heart to forgive him, even a little bit, then...\"",
+      "sourceUnit": "桜ルート十二日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Then I want to live with you, Illya.\nIs it wrong to try and take back the things you couldn't do until now? Is it wrong for us to live together, even if we're only starting now?\"",
+      "sourceUnit": "桜ルート十二日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...She doesn't answer.\nIllya looks down for a while, and then slightly shakes her head.",
+      "sourceUnit": "桜ルート十二日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"It's impossible. I don't have long to live and neither do you. So we can't live together.\"\nShe rejects me with a smile like a pretty flower.",
+      "sourceUnit": "桜ルート十二日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"You...don't have long to live?\"",
+      "sourceUnit": "桜ルート十二日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"You know that, don't you?\n...Yes, if one of us makes a sacrifice, the other might be able to live a little longer. But I don't think we can both do that. If I live once this war is over, you won't be around anymore.\"",
+      "sourceUnit": "桜ルート十二日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"See? That's why it can't happen. Because there's no place for me in the Emiya house, if you aren't there too.\"",
+      "sourceUnit": "桜ルート十二日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\nIllya's words are filled with certainty.\nThe silver-haired girl describes a grim future, like a prophet.",
+      "sourceUnit": "桜ルート十二日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eheh. It's too bad, though. I wish you'd said this a little bit sooner.\nIf you had...then our destinies might have changed just a little bit. Yeah.\"",
+      "sourceUnit": "桜ルート十二日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't understand what she's saying.\nNot her declaration that one of us has to die, or how she can say it all with a smile.",
+      "sourceUnit": "桜ルート十二日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're talking crazy. That won't happen.\nZouken might come after you, but we'll defeat him first. That's why you're working together with Tohsaka, isn't it?\"",
+      "sourceUnit": "桜ルート十二日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. But that's also the problem.\nDon't mention this to Rin, Shirou.\nAbout the plan to Project the Jeweled Sword and replicate the Tohsaka relic...Rin's way won't work.\"",
+      "sourceUnit": "桜ルート十二日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Because your Projections aren't Projection magecraft.\nNormally, Projection magecraft, can supplement a Projection that resembles the original to a degree.\nBut your Projections don't work that way. You can't give them form unless you create them from A to Z in your own mental image.\nAfter all...your magecraft isn't Projection, but a manifestation of your own mind.\"",
+      "sourceUnit": "桜ルート十二日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Illya, how...\"\nHow does she know that Archer's magecraft is a manifestation of his mind's shape?",
+      "sourceUnit": "桜ルート十二日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's why it won't work. The only way to make what Rin needs is for you to use Archer's arm. But I'm sure you know what that entails.\n...It'll take more than a fleeting fragment of his memories. You'll stop being Shirou once you use it.\"",
+      "sourceUnit": "桜ルート十二日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Right now, you're a little confused because you keep thinking lots and lots of things about yourself, Sakura, and me.\nSo, I'll forget that you asked me this.\nYou know as well as I do that you can only choose to save one person, not everyone.\"",
+      "sourceUnit": "桜ルート十二日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Illya turns away and starts up the hill.\nThe nostalgic tune is gone. Illya's words linger in my ears.",
+      "sourceUnit": "桜ルート十二日目-09:page51:1"
+    },
+    "page52": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

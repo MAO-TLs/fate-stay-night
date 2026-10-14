@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0519",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Slumber falls over the town.\nEven though it's just past 10:00 PM, it feels like it's three in the morning.\nIt must be because of the serial coma incidents.\nNight falls like a veil over town. The lights go out, and there aren't any people outside.",
+      "sourceUnit": "桜ルート八日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Archer's Master unreasonably demanded that we find and investigate the Shadow.\"\n\"Yeah. We don't really have a choice, though. Are you against it, Saber?\"",
+      "sourceUnit": "桜ルート八日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...I told you my position on it this morning.\nNow, Shirou, what leads do we have? Wandering aimlessly through the town at night could prove counterproductive.\"",
+      "sourceUnit": "桜ルート八日目-02:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

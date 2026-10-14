@@ -1,0 +1,156 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0603",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. Sakura, this is Illya.\nHer Berserker got taken out, but we managed to save her. She's going to be staying with us like Tohsaka, so try to get along.\"\nI introduce Sakura and Illya to each other.",
+      "sourceUnit": "桜ルート十日目-32:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hi, Sakura. I heard you're a daughter of the Makiris, but I won't hold that against you. You seem like you know Shirou, so I'll give you special treatment.\"\n\"...Okay. Then I'll treat you the same way.\"",
+      "sourceUnit": "桜ルート十日目-32:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nThat's the extent of their greetings.\nIllya leaves Tohsaka and walks to the living room.\nAs she does...\n...\nI see Sakura watching her with somewhat cold eyes.",
+      "sourceUnit": "桜ルート十日目-32:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Dinner comes and goes like a sudden storm.\n...Okay, to call it a storm would be misleading.\nIt was more like a doldrum where you lose track of time because there's no wind, and then it ends before you know it.\nAnyway, it was a dinner fraught with tension.",
+      "sourceUnit": "桜ルート十日目-32:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Should I make dinner, then? It'll be like having soba noodles for housewarming.\"\nWith that, Tohsaka starts cooking on her own, and I'm forced to admit that she's better at it than me. Sakura's Western-style cooking might barely measure up.",
+      "sourceUnit": "桜ルート十日目-32:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka-senpai, you're good at cooking.\"\nSakura was stunned, but she still ended up eating the food too.\nI was so stressed out by everything happening, like Tohsaka's home cooking, eating together with Tohsaka, and Sakura looking downtrodden, not to mention the awkward vibe between her and Illya, that I couldn't really move much.",
+      "sourceUnit": "桜ルート十日目-32:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "As a result, I couldn't enjoy Tohsaka's excellent cooking, and spent the hour being reminded of what a flawless overachiever Rin Tohsaka is.",
+      "sourceUnit": "桜ルート十日目-32:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"I've got some stuff to prep in my room, so I'll turn in for the night.\nWe can hash out the details tomorrow morning. Get some rest, everyone.\"\nShe even washes all the dishes until they're spotless before she excuses herself.",
+      "sourceUnit": "桜ルート十日目-32:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to my room, too. Everyone's tired after the forest today, so we'd better sleep early.\"\nI don't know if that was a dig at Sakura, but Illya leaves without looking at her.",
+      "sourceUnit": "桜ルート十日目-32:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. Seriously, what is going on...\"\nIn a sense, everything's going just as Tohsaka predicted, although Illya's attitude has been weird.\nThe way she's treating Sakura is similar to the icy demeanor she had when we first met.",
+      "sourceUnit": "桜ルート十日目-32:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Why is Illya being so gruff with her when it's their first time meeting? The Einzberns and Makiris must not get along.\"",
+      "sourceUnit": "桜ルート十日目-32:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "According to Kotomine, the Einzberns, Makiris, and Tohsakas were prestigious mage families that founded the Holy Grail War.\nApparently, the Einzberns had the most authority, so maybe Illya thinks of Tohsaka and Sakura as beneath her.",
+      "sourceUnit": "桜ルート十日目-32:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. I hope she doesn't give you the wrong impression, Sakura. Illya can be difficult when she's in a bad mood, but I'm sure you'll get along once you talk to her.\nShe's just shy towards strangers—hey, Sakura?\"\nSakura doesn't answer.\nI watch her head waver, until she falls limply backward—",
+      "sourceUnit": "桜ルート十日目-32:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...!\"\nI catch her by the shoulders.",
+      "sourceUnit": "桜ルート十日目-32:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh, Senpai? What's wrong? Why are you making such a scary face?\"\n...Sakura didn't even realize it.\nShe's asking me what's happening, as if she wasn't about to faint.",
+      "sourceUnit": "桜ルート十日目-32:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, it's nothing.\"\nI let go of her shoulders.\n\"Ah...\"\nLooks like that was enough to make her notice.",
+      "sourceUnit": "桜ルート十日目-32:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry. I was a little tired, so I fell asleep.\"\nShe apologizes for something she doesn't even understand.",
+      "sourceUnit": "桜ルート十日目-32:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I bet you haven't had much rest for the last two days. You heard Tohsaka. Let's just go to sleep. You don't need to make yourself stay awake.\"",
+      "sourceUnit": "桜ルート十日目-32:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"R-right. I'll take you up on that, then. I should feel better tomorrow if I get a good night's sleep.\nSince Tohsaka-senpai took care of us tonight, I'll make breakfast tomorrow morning. I'll cook the things you like for breakfast.\"",
+      "sourceUnit": "桜ルート十日目-32:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "She stands up with a mischievous grin.\n...Her gait is steady.\nAccompanying her to her bedroom would backfire right now.\nIf Sakura's trying to convince me that she's okay, then I should believe her.",
+      "sourceUnit": "桜ルート十日目-32:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Go ahead and show her who's boss.\nYou're our last line of defense, Sakura. To be honest, we need to hit back at Tohsaka, or we're done for.\"\n\"You can count on me. I'll knock her out in one punch!\"",
+      "sourceUnit": "桜ルート十日目-32:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "That sounds promising... Mm, I'll do what little I can to help, too.\nLet's sleep early tonight, then meet up in the kitchen at six in the morning?\"\n\"Yes. I'll be waiting, Senpai.\"",
+      "sourceUnit": "桜ルート十日目-32:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Sakura gives me a polite bow, and then leaves for the side hallway.\nJust before she's gone...\n\"...Um, Senpai. Please don't tell my sister what happened just earlier.\"\nShe says in a strained voice, without turning around.",
+      "sourceUnit": "桜ルート十日目-32:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. You just dozed off. It isn't worth mentioning.\"\n\"...Right. Good night, Senpai.\"\nShe slides the door shut.\nSakura goes off to the guesthouse without looking back.",
+      "sourceUnit": "桜ルート十日目-32:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe must mean her fainting spell.\nSakura isn't recovering as well as she hopes.\nKotomine said that she only has days left.\nRegardless of what Zouken wants to do with her, she isn't stable.",
+      "sourceUnit": "桜ルート十日目-32:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "That's why she's been trying to put on a strong front.\nShe'll be fine.\nThat's what she insists on telling us because she doesn't want us to worry.",
+      "sourceUnit": "桜ルート十日目-32:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Her sister, huh?\"\nSakura never refers to Tohsaka that way except when we're alone.\nAnd then only when something's weighing on her mind.\n...When she can't stop herself from wishing for help, she calls Tohsaka her big sister.\nTheir complicated family background is what led to a wall being built between sisters.",
+      "sourceUnit": "桜ルート十日目-32:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "If we can destroy that wall, then they can go back to being regular siblings.\nI think that might be the best thing I can do for Sakura.",
+      "sourceUnit": "桜ルート十日目-32:page27:1"
+    },
+    "page28": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page29": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

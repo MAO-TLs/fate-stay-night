@@ -1,0 +1,47 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0132",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"SHINJI!!!\"\nI close in on him.\nHe has no shadows protecting him.\nJust a few more steps...maybe three more meters, and I can—",
+      "sourceUnit": "セイバールート九日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"S-stop! Don't come near me!\"\nShinji turns and runs.\nThe moment I reach out to grab his back...\n\"Gh—!?\"\nI feel a chill run through my entire body, and I quickly jerk my arm back.",
+      "sourceUnit": "セイバールート九日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Something cuts through the air.\nA black blade slices through the space I'd been occupying just an instant before.",
+      "sourceUnit": "セイバールート九日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nI stop.\nI don't know where she came from, but standing in front of me now...",
+      "sourceUnit": "セイバールート九日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...I see the woman dressed in ominous black so dark even the most venomous shade of crimson seems pale in comparison.",
+      "sourceUnit": "セイバールート九日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nMy mind goes blank with fear.\nI'm going to die.\nI don't want to think about it, but the image of my own brutal death fills my head.\nI sense it.\nI sense only death... The shadows earlier were nothing like this.",
+      "sourceUnit": "セイバールート九日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"G-good, Rider! Don't hold back. You can do whatever you want with him!\"",
+      "sourceUnit": "セイバールート九日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Rider's form blurs.\nI need to...",
+      "sourceUnit": "セイバールート九日目-06:page7:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

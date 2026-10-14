@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0465",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The lights go out in the house.\nIt's past 11:00 PM, and the town is fast asleep.",
+      "sourceUnit": "桜ルート五日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"There's a Master at Ryudou Temple?\"\n\"According to Tohsaka, at least. She said not to mess with them because they're trouble, but they're apparently behind the comas happening all over town... I don't know if it's true, but I think it's worth checking out.\"",
+      "sourceUnit": "桜ルート五日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes...I do feel that the leylines leading to Ryudou Temple are being deliberately manipulated. There's little doubt that a Master has taken up refuge there.\"\n\"Hm? What's wrong, Saber? Somehow, you don't seem very enthusiastic compared to yesterday.\"",
+      "sourceUnit": "桜ルート五日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It's best if Servants avoid that mountain.\nI would rather not make a hasty assault on it.\"",
+      "sourceUnit": "桜ルート五日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hrm. Then should we hold off patrolling tonight and gather a little more intel on Ryudou Temple? Cause you're right, it would be reckless to go in there without knowing anything about the Servant or Master.\"",
+      "sourceUnit": "桜ルート五日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that won't be necessary. A Master who has made Ryudou Temple their base is unlikely to expose themself. If you wish to settle accounts with them quickly, the only way is a frontal assault.\"",
+      "sourceUnit": "桜ルート五日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...If Saber says so, then we probably have a chance of victory. I'd also like to stop the Master from putting any more townspeople into comas as soon as possible.",
+      "sourceUnit": "桜ルート五日目-16:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Let's go to Ryudou Temple.\nBut Saber, we're only going there to scout it out.\nOnce we learn who the Master is and which Servant they have, we'll fall back... I know it's lame, but I can't back you up out there. I'd rather err on the side of caution.\"",
+      "sourceUnit": "桜ルート五日目-16:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I can't let Saber get hurt, like that time with Berserker.\nBut since I can't help her in a fight, I have to protect her a different way.",
+      "sourceUnit": "桜ルート五日目-16:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. I will leave the final decision of whether to fight or retreat up to you.\"\n\"...Mrgh. I'm happy to hear that, but it's scary. Even if the enemy turns out to be someone we can beat, I'm liable to turn tail and run.\"",
+      "sourceUnit": "桜ルート五日目-16:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That could indeed happen. You lack combat experience, after all.\"\n\"Yeah, no denying that. I'd like to avoid stepping into a figurative minefield, so I'd appreciate it if you gave me fair warning.\"",
+      "sourceUnit": "桜ルート五日目-16:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. Then I will warn you if you make a wrong decision.\nOf course, that alone won't help you grow, so in the event that you do make a mistake, why don't we consider some sort of penalty?\"\n\"Mrgh. What kind of penalty, specifically?\"",
+      "sourceUnit": "桜ルート五日目-16:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Why, telling you would spoil the surprise. It is one of the few pleasures I have, so I will keep it to myself for now.\"\n...Urgh.\nSaber seems to be making a joke. Maybe it's Fuji-nee's influence.\nI sure hope it's a joke, anyway.",
+      "sourceUnit": "桜ルート五日目-16:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"However, Shirou...will Sakura be all right? Her discomfort was rather considerable.\"\n\"Yeah, I thought so too. I took her temperature, but her fever wasn't actually that high. I'll just let her get a good night's rest for now and see how she holds up.\"",
+      "sourceUnit": "桜ルート五日目-16:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then we can go to battle without reservations.\"\nI nod, and look out towards the guesthouse.\nSakura's room is on the second floor of the building.\nWe need to leave and return to the house without her noticing.",
+      "sourceUnit": "桜ルート五日目-16:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go, Saber. From here on out, I'm a Master. I won't think about anything else.\"",
+      "sourceUnit": "桜ルート五日目-16:page15:1"
+    },
+    "page16": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

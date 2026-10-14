@@ -1,0 +1,611 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0001",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail War.\nIt's a grand ritual that's been repeated for hundreds of years,\na fight to the death between seven participants, of which only one can survive.",
+      "sourceUnit": "プロローグ2日目:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's said that a Holy Grail exists in the land of Fuyuki, and that a number of mages fought over it in the past.\nTheir one and only objective was to obtain the relic called the Holy Grail.",
+      "sourceUnit": "プロローグ2日目:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "However, the Grail's origins are unclear.\nWe're sure it isn't the chalice that held the blood of God, but its power is fearsome enough to be compared to the genuine article.\nThat's right.\nThey say the Holy Grail can grant any wish.",
+      "sourceUnit": "プロローグ2日目:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Only one person can possess it.\nThe Holy Grail can only grant one wish for one person.\nDespite that, seven mages are needed to summon the Grail to this land.\nSeven collaborators to create one miracle.\nSo, as you might imagine...\nIt was only a matter of time before they started fighting over the Grail.",
+      "sourceUnit": "プロローグ2日目:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Like so many conflicts, it started as a competition over property rights.\nThe seven mages equally use the power of the Holy Grail to summon their respective familiars, then do battle over the Grail itself.",
+      "sourceUnit": "プロローグ2日目:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Only one mage can obtain the Grail.\nAs a result, seven people who started as colleagues ended up in a ferocious battle to the death.\nThat's the gist of the ritual known as the Holy Grail War—a struggle for ownership between mages.",
+      "sourceUnit": "プロローグ2日目:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The mages chosen by the Holy Grail are called Masters,\nwho use the blessing of the Grail to acquire powerful familiars known as Servants.\nTwo things serve as proof that one has become a Master:\nThe summoning and command of a Servant,\nand the mark of Command Spells to compel the Servant's servitude.",
+      "sourceUnit": "プロローグ2日目:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The first goes without saying.\nThe Archer I summoned yesterday—no, a few hours ago, to be exact—is Rin Tohsaka's Servant.\nAs for the second...\nA Master must closely guard the Command Spells that control one's Servant.\nThis is probably the most critical aspect of being a Master.",
+      "sourceUnit": "プロローグ2日目:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "When I summoned Archer, symbols appeared on my right hand.\nNamely, Command Spells—\nstigmata bestowed by the Holy Grail upon the summoning of a Servant that mark one's new status as a Master.",
+      "sourceUnit": "プロローグ2日目:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "A massive amount of magical energy is compressed into these seals, whose power is fleeting rather than long-lasting.\nThey disappear once they're used, and as their shape suggests, each mark represents a single use.\nIn other words, one only gets three shots.\nA Master who has used up all three Command Spells can no longer control a Servant, and is as good as dead.",
+      "sourceUnit": "プロローグ2日目:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Therefore...\nCommand Spells must be handled with care until the very end, since they're as valuable as one's own life.\nIt pains me to no end that I burned one right off the bat, but it wasn't a total waste so I'll chalk it up as a win.\nAfter all, a Servant could turn on its Master at any time.\nIf one Command Spell is what it takes to put a collar on him, then I consider it a fair trade.",
+      "sourceUnit": "プロローグ2日目:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...That's about it for the broader strokes of this business.\nOnce seven Servants have been summoned, the Holy Grail War will begin.\nTonight's sleep will be a fitful one.\nI don't know when the final Master will appear, but they could be right around the corner...",
+      "sourceUnit": "プロローグ2日目:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm. Is it morning already...?\"\n...I feel sluggish.\nMy bleary gaze goes up to the window, only to see that it's already bright outside.",
+      "sourceUnit": "プロローグ2日目:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"It's after nine... This doesn't even count as being tardy...\"\nAfter a drowsy check of the clock, I make up my mind to skip school today.",
+      "sourceUnit": "プロローグ2日目:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Body's heavy... Feels like that business mostly drained me.\"\nSitting up in bed, I heave a long sigh.\n...Not being a morning person isn't enough to explain why I feel so dull.\nI think Archer mentioned something about it—\na Master would be out of commission after summoning a Servant.",
+      "sourceUnit": "プロローグ2日目:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right.\nI summoned Archer, not Saber.\"\nI remember it all clearly now.\nI'd rather not, to be honest, but it's not as if denying the facts will let me do it over.",
+      "sourceUnit": "プロローグ2日目:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...It'll take a day or so to recover my power. I'll just treat today like a break-in period.\"\nI drag myself out of bed.\n...A mental boxing match rages between the outside air—which is quite warm for winter—and the comfort of my bedsheets.\nIt concludes in a three-second knockout against the temptation of going back to sleep. I check my body in the mirror.\nNothing out of place, aside from the loss of half my usual magical energy.",
+      "sourceUnit": "プロローグ2日目:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Not that it's a problem.\"\nI review the situation:\nI summoned the Servant Archer,\nwho doesn't have an ounce of respect for his Master.\nTo make matters worse, he doesn't even know who he is.\n...Wow. Talk about a headache.",
+      "sourceUnit": "プロローグ2日目:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess that means his trump card is off the table until his memories come back... Can't expect him to use a power he doesn't even remember.\"\nServants are strong familiars all on their own, but what makes them truly formidable is the secret weapon they each possess.\nFrustratingly, Archer claims to have forgotten what his is.",
+      "sourceUnit": "プロローグ2日目:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's my fault he's in this state, so we'll just have to make it work.\"",
+      "sourceUnit": "プロローグ2日目:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "We're both in the same boat, then.\nI can only pray that he'll sort his memories out, but who knows how long that might take?\n...Good grief.\nI've really got my work cut out for—",
+      "sourceUnit": "プロローグ2日目:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whoa. I might have to reevaluate my opinion of him.\"\nThe parlor is completely back to normal.\nI thought he'd maybe just clear away the detritus, but the room is so spotless I can't help but be impressed.",
+      "sourceUnit": "プロローグ2日目:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "He must have felt bad for wrecking the place—I doubt he would've gone to the trouble otherwise.\nI guess I ought to commend him for being a more decent guy than I—",
+      "sourceUnit": "プロローグ2日目:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Still taking your sweet time, I see. Need I remind you that we're wasting daylight?\"\n\"...\"\nI retract my statement.\nThere isn't a remorseful bone in his body!",
+      "sourceUnit": "プロローグ2日目:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning. You seem to have made yourself right at home.\"\n\"I did spend the night, after all. Oh, I took the occasion to tidy up the kitchen. I expected it to be inadequate, but it's rather thoughtfully furnished. Quite well-kept for a girl living alone in a mansion.",
+      "sourceUnit": "プロローグ2日目:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI have a headache.\nWhy do I have to put up with a Servant judging my interior decoration?\nI thought Servants all cared only about fighting. Are we sure this guy isn't defective?",
+      "sourceUnit": "プロローグ2日目:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I see you aren't in your best condition. You were so feisty last night, but the fatigue must have caught up with you.\nHm. I'll pour you some tea. I hope black is fine.\"\nActing like he owns the place...\nWithout missing a beat, Archer produces a teacup and fills it with the expensive reddish tea he's been brewing.",
+      "sourceUnit": "プロローグ2日目:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's a lot I want to say right now, but oddly enough, I can't work up the indignation to.\nThe way he does it all is so refined, I've got to admit he might be rather cultured.",
+      "sourceUnit": "プロローグ2日目:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I am pretty exhausted, so I'll have some.\"\nI sit down on the chair.\nThe teacup is placed soundlessly in front of me. I take a sip.\nOh. It's delicious.",
+      "sourceUnit": "プロローグ2日目:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I expected as much, since it's my favorite Chinese tea—a spring harvest hongcha. I'd be upset if it didn't taste good.\nOn that note, I'd normally be upset if someone used my favorite tea leaves without asking.\n...Mhm.\nIt makes me mad, but the tea was brewed so exquisitely that the pleasure it brings overcomes my anger.",
+      "sourceUnit": "プロローグ2日目:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Mm-hm.\"\n\"...Hey, what's so funny?\"\n\"Well, I was going to ask how you like it, but your face tells me enough.\"\n\"...!\"\nI set the teacup down with a forceful thud.",
+      "sourceUnit": "プロローグ2日目:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, what a waste. You should enjoy it while it's still hot. I can leave if I'm spoiling the mood.\"\n\"No need. Thanks for the tea. I didn't become a Master to be a tea snob, and I didn't ask you to do that, either.\"",
+      "sourceUnit": "プロローグ2日目:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I agree—I didn't make a contract with you to be your tea brewer. I'll show more restraint in the future, if that's what you want.\"\n\"Yeah. You're only here to be a combat familiar.\nI've never heard of a Servant that does household chores, nor do I particularly need one.\"",
+      "sourceUnit": "プロローグ2日目:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean by 'particularly'?\"\n\"Interpret that however you want.\nMore importantly, do you remember who you are yet?\"",
+      "sourceUnit": "プロローグ2日目:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Archer shakes his head in the negative.\n...That doesn't bode well.\nIf he can't remember after a single night, then his memories probably won't return easily. There are some measures I can try today, but...",
+      "sourceUnit": "プロローグ2日目:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll think of some solutions for your memory issue.\nFor now, get ready to head out, Archer. You probably don't know the lay of the land yet, do you? I'll give you a tour of the city.\"\n\"Get ready? There's no need for that, surely. If we're leaving, we should go right now.\"",
+      "sourceUnit": "プロローグ2日目:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you plan to walk around town in that outfit? Anyone can see that you aren't a normal person, and if another Master spots you, they'll know you're a Servant right away.\nI don't plan on announcing our presence to the world.\"",
+      "sourceUnit": "プロローグ2日目:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, so that's your concern.\nThere's no problem. While I'd need to change clothes to blend in, that's only while I'm materialized.\nServants are fundamentally spiritual beings. When we're out of combat, I can take an incorporeal state to reduce the burden on my Master.\"",
+      "sourceUnit": "プロローグ2日目:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, okay. That's what makes you a Heroic Spirit. You need your Master's magical energy to form a body, so if I cut that supply...\"",
+      "sourceUnit": "プロローグ2日目:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"We naturally return to spirit form.\nIn this state, Servants are more like guardian angels. We can only be observed by Masters connected to a leyline.\nOf course, we're still capable of conversation or reconnaissance.\"",
+      "sourceUnit": "プロローグ2日目:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, that's handy. That would make it really hard for other Masters to locate you.\"\n\"Yes. But just as mages can sense other mages, Servants can sense other Servants.\nA Servant who is skilled in magecraft may even be able to locate other Servants from afar.\"",
+      "sourceUnit": "プロローグ2日目:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...Archer has it in one.\nMasters are supposed to be capable mages.\nAnd the more magical energy the mage has, the better they are at detecting traces of magical energy.\nAs far as I know, however, there isn't anyone else around with that degree of power.",
+      "sourceUnit": "プロローグ2日目:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... So what about you? Can you tell where the other Servants are?\"\n\"Master, have you forgotten which class I am? Do you expect a knight to be able to scry faraway enemies?\"\n...He has a point.\nArcher's magical energy isn't on that level.\nIt's likely that only the magically powerful Caster is capable of easily locating distant foes.",
+      "sourceUnit": "プロローグ2日目:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Then follow me, Archer.\nI'll show you the world you've been summoned to.\"\n\"I doubt it'll be particularly new to me.\nMoreover, Master—haven't you forgotten something important?\"\n\"Huh? Something important?\"\n\"...My goodness. You really aren't at the top of your game. We still haven't exchanged the most critical point of our contract.\"",
+      "sourceUnit": "プロローグ2日目:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"The most critical point...?\"\nIs he demanding equivalent exchange?\nNo, that can't be it—the chance to take part in the Holy Grail War is already reward enough for a Servant.\nThere shouldn't be anything else left to trade—",
+      "sourceUnit": "プロローグ2日目:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wow. You really aren't a morning person.\"\nArcher sounds exasperated.\nHis oh-so-sardonic manner of speech finally gives me an idea.\nCome to think of it...\nhe's never once called me by my name.",
+      "sourceUnit": "プロローグ2日目:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, crap. My name.\"\n\"Finally caught up, are we? I suppose it isn't too late. So, Master—what is your name? What shall I call you?\"\nArcher sounds...sulky.",
+      "sourceUnit": "プロローグ2日目:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Oh, man. He really is a decent person.\nI'm sure of it now.\nAfter all, there's no tangible benefit to exchanging names.\nServants are forcefully bound to their Masters by the Command Spells.\nWhile names are key to contracting with a regular familiar, there's no need for a Master and a Servant to be so intimate.",
+      "sourceUnit": "プロローグ2日目:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "But it's important to Archer—\nhe's clearly trying to establish trust between comrades-in-arms, regardless of the Command Spells.",
+      "sourceUnit": "プロローグ2日目:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm Rin Tohsaka. You can call me whatever you want.\"\nI answer in a clipped tone, unwilling to let slip any admiration.",
+      "sourceUnit": "プロローグ2日目:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...He'll probably just call me something impersonal like \"Master\" or \"hey you,\" which works out just fine for me.\nExcept...\nArcher chews on \"Rin Tohsaka\" for a moment.\n\"Then, 'Rin.' Yes, the sound of that suits you very well.\"\n...he says something really forward.",
+      "sourceUnit": "プロローグ2日目:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"What's wrong, Rin? You look unwell.\"\n\"S-shut up! We're leaving, Archer! T-this is no time to be sitting around!\"",
+      "sourceUnit": "プロローグ2日目:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "I turn on my heel and storm away, huffing.\nThis is so infuriating. I'm not even sure why.\nDamn that Archer. Did he say that just to mess with me?",
+      "sourceUnit": "プロローグ2日目:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"I bet he did. Definitely sounds like something he'd do...\"\nYeah, I'm sure that's it.\nMust be all part of his plan to get me all flustered.\nI'd better be careful.\nGotta work with this wise guy from here on out.",
+      "sourceUnit": "プロローグ2日目:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I take Archer outside.\nFuyuki City, my hometown, is broadly divided into two halves.\nThere's Miyama, which is left over from the village the city grew out of,\nand Shinto, the developing modern region across the river.\nMy house is in Miyama, the old part.",
+      "sourceUnit": "プロローグ2日目:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "Miyama is itself split into two areas:\nThe European-style neighborhoods, originally inhabited by immigrants from abroad,\nand the old Japanese-style houses, set against a mountainous backdrop.\nBoth areas are situated on hilltops along the outskirts of town.\nThe street dividing the two residential areas is fairly normal, by comparison.\nHow normal, you ask?",
+      "sourceUnit": "プロローグ2日目:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "This normal.\nThis is the crossroads of Miyama. On one side lies the road going up the hill to the European neighborhoods where I live.\nOpposite it is the road to the Japanese houses, and between them is the path leading into Shinto,\nwhere my school and the shopping areas are, as well as Ryudou Temple in the mountains.",
+      "sourceUnit": "プロローグ2日目:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "We come to the bridge connecting Shinto and Miyama.\nYears ago, a big train station went up in Shinto, bringing with it frenzied urbanization.\nThey may belong to the same municipality, but Miyama and Shinto couldn't be more different.",
+      "sourceUnit": "プロローグ2日目:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "The name \"Fuyuki,\" written with the kanji for \"winter tree,\" is supposedly inspired by the long winters here.\nWhich, by the by, are pretty long.\nDespite that, temperatures are warm; February here is only about as cold as the very start of winter elsewhere.\nI bet if you randomly started digging, you'd turn up a hot spring or two.",
+      "sourceUnit": "プロローグ2日目:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Though of course, our temperate weather disqualifies this town as a hot spring resort location.\nWe've got an odd climate where the mild winters suddenly turn to springtime bloom come April.",
+      "sourceUnit": "プロローグ2日目:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "This is what Shinto looks like.\nA number of tall buildings have been erected as if in a hurry, giving the hastily-developed city a distinctly artificial feel.\nIt all happened in the last decade or so, too.\nTen years ago, there was a large fire that wiped out a residential area.\nSomeone built a bunch of glass and metal buildings on the depopulated land.",
+      "sourceUnit": "プロローグ2日目:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "And here...\n...is the center of it all.",
+      "sourceUnit": "プロローグ2日目:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"This is Shinto's park. What are your thoughts now that we've been to all the key spots?\"\nI ask Archer, who's next to me.\nOf course, he's invisible.",
+      "sourceUnit": "プロローグ2日目:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's a big park. Is there a reason why nobody's here?\"\n\"Feels that way, doesn't it? There's a story behind it, actually.\"",
+      "sourceUnit": "プロローグ2日目:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I look out over the park.\nYou'd think that a wide-open space like this would have children playing in it, even on a weekday.\nBut instead, there are only a handful of people. The place feels dull and lifeless.",
+      "sourceUnit": "プロローグ2日目:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"It was ten years ago. Apparently, there was a big fire that burned for an entire day and only went out once it rained.\nAlthough the town was rebuilt, this place stayed basically the same.\nThe burnt meadow eventually got turned into a park.\"",
+      "sourceUnit": "プロローグ2日目:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher says nothing.\nBut I can tell he's sensed something odd, even if I can't see him.",
+      "sourceUnit": "プロローグ2日目:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Noticed, have you? That's right—this is where the last battle of the previous Holy Grail War was fought. It all ended here.\"\n\"...I see. So that's why there are so many...grudges here.\"",
+      "sourceUnit": "プロローグ2日目:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. You can tell?\"\n\"Servants are spirits first. Our very existence is similar to grudges or obsessions. That makes us sensitive to lingering emotions such as these. There were other areas around town that felt dense with such a feeling, but this is on a different level. From our point of view, it's almost like a Reality Marble.\"\nTohsaka mutters under her breath.\nArcher's inflectionless voice mentions an unusual bit of magical jargon:",
+      "sourceUnit": "プロローグ2日目:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "Innate Bounded Fields. Mages call them Reality Marbles.\nReality Marbles are considered one of the apexes of magecraft. They're said to be infinitely close to True Magic.\nFor the last few centuries, Bounded Fields have served as mages' defensive barriers.\nTo put it in simple terms, they're like a home security system with real teeth.",
+      "sourceUnit": "プロローグ2日目:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Bounded Fields are conventionally erected on a piece of land or a building to guard against outside threats.\nThey're merely an alteration of an area that already exists.",
+      "sourceUnit": "プロローグ2日目:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "Reality Marbles, however, are something else entirely.\nYou can think of them as a space that consumes reality itself.\nWhen a mage materializes their imaginary world—a representation of their mind—and overwrites the real world with it, we call the resulting field a Reality Marble.\nIt's a large-area magecraft that twists—no, rebuilds the world according to a mage's wishes.",
+      "sourceUnit": "プロローグ2日目:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin? Is something on your mind?\"\n\"Huh? No, I was just a little surprised.\nI didn't expect to hear the words 'Reality Marble' from an Archer.\"\n\"Is it so strange that I'd know it?\"",
+      "sourceUnit": "プロローグ2日目:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, yeah. To mages, Reality Marbles are a taboo among taboos, some of the most esoteric arts out there. It doesn't make sense that an Archer would know what they are.\"\nI shoot a quizzical gaze in his general direction.\nIn reply, I feel an incorporeal sigh.",
+      "sourceUnit": "プロローグ2日目:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. The word 'hero' implies someone familiar with both martial and magical arts.\nYou're free to assume that your Archer only knows how to use a bow, but I hope you don't hold the same illusions about the other Servants.\"\n...Oof.\nThat does make sense, when he puts it like that.",
+      "sourceUnit": "プロローグ2日目:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"O-okay, I get it. I didn't think that through, and I'll be more careful next time. That good enough for you?\"\n\"...Rin, let me be blunt. You are certainly talented, but that makes you tend to underestimate other people. You should break that habit before you become an adult.\"",
+      "sourceUnit": "プロローグ2日目:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"...! Y-you really don't know when to stop, you know that!?\"\nB-b-break my habit!? He's talking about me like an unruly racehorse!",
+      "sourceUnit": "プロローグ2日目:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, forgive me. I didn't mean to suggest you're a horse, but it did feel like an appropriate choice of words.\"\n\"Hey, that's just as bad—Ow!\"\nMy right hand suddenly flares with pain.",
+      "sourceUnit": "プロローグ2日目:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin?\"\n\"...Quiet down for a sec, Archer.\"\nThe Command Spells on my right hand hurt.\nThey're throbbing, almost like a dull alarm warning their owner.\n\"...Someone's watching us.\"\n\"Mrgh.\"",
+      "sourceUnit": "プロローグ2日目:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "...I scan my surroundings.\nI mentally weave a detection web and cast it out over the park.\n\"...I can't find them.\nAny luck, Archer?\"",
+      "sourceUnit": "プロローグ2日目:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"...Doesn't look like it. I can't even sense them spying on us.\"\n\"Which means it's a Master.\"",
+      "sourceUnit": "プロローグ2日目:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "I don't know who it is, but if Archer can't tell, then it must be a Master.\nWe don't have all seven yet, but the fighting could still start at any time.\nMaybe whoever's watching me is up for an early skirmish.",
+      "sourceUnit": "プロローグ2日目:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Command Spells react to other Command Spells. If we're dealing with a Master, then you should be able to identify them if we come across them. Would they be able to do the same to you?\"",
+      "sourceUnit": "プロローグ2日目:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. But advanced spellcasters can hide their energy signatures. Our Command Spells may react to each other, but it still takes magical energy to activate them. As long as the Master keeps their Magic Circuits shut, it'll be hard to find them.\"",
+      "sourceUnit": "プロローグ2日目:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's troubling. Does that mean we're broadcasting our position?\"\n\"Pretty much. If I looked around at home, I'm sure I could dig up a way to mask my power, but...\"\n\"You don't need to?\"\n\"Yup. They'll just come to us first, right? Saves us the trouble of looking.\"\n...\nArcher doesn't respond. Maybe he's irritated with me.",
+      "sourceUnit": "プロローグ2日目:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? Are you going to tell me not to get cocky?\"\nI ask, a little defensive, thinking of our earlier exchanges.\nArcher mentally brushes the question aside.\n\"You're at your best when you're like this.\nYes...let the small fry come to us.\"\nI can feel the smirk in his tone.",
+      "sourceUnit": "プロローグ2日目:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "...I'm not saying I like what he said, but it is enough of an olive branch, I suppose. We start walking around town again.",
+      "sourceUnit": "プロローグ2日目:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "I spend the day taking him to all the important places, and even drop by some less significant spots that might be useful to know. After dinner, I make for our final stop.\nIt's now after seven in the evening.\nThis is a good chance to show him the best vantage point in the city.",
+      "sourceUnit": "プロローグ2日目:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "The wind howls.\nWe're atop the tallest building in Shinto.\nThe commanding view of the city makes for a fitting end to our tour.",
+      "sourceUnit": "プロローグ2日目:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"So? Pretty great view, isn't it, Archer?\"\n\"...Hah. I feel sorry for any future boyfriends. You really know how to run a guy ragged.\"\n\"Huh? What did you just say, Archer?\"\n\"Just an honest thought... It is a good position, though. If you'd taken me here first, it would have spared you the effort of all that walking.\"",
+      "sourceUnit": "プロローグ2日目:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? It's nice, sure, but you need to visit places to really get the lay of the land. This only gives you a bird's-eye view of the city.\"\n\"Not necessarily. You think too little of the Archer class. One can't be a good bowman without good eyes.\"",
+      "sourceUnit": "プロローグ2日目:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? Can you see my house from here, then?\"\n\"Not quite that far—just to the bridge or so. I can count the number of tiles there, at least.\"",
+      "sourceUnit": "プロローグ2日目:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"No way! The tiles on the bridge!?\"\nI didn't expect his vision to be as good as the telescopes I often see on rooftops. \"Sharp-eyed\" doesn't begin to cut it!",
+      "sourceUnit": "プロローグ2日目:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm surprised. You really are an Archer.\"\n\"...Rin, are you mocking me?\"\n\"Of course not. I just didn't take you for the bow-and-arrow type. My mistake.\"\n\"That's a misconception we'll have to address once we go home.\"",
+      "sourceUnit": "プロローグ2日目:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "With that, Archer goes quiet for a while. He must like the landscape from up here.\nHe's probably considering the layout of the city.\n...I shouldn't interrupt him while he's thinking.\nI step away from Archer and approach the edge of the rooftop.",
+      "sourceUnit": "プロローグ2日目:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "...\nAll I can see from here are the lights below.\nHeadlights flow through the streets, and I can make out people on the way home from work.\nI can't tell what kinds of cars they are, or who exactly is walking.",
+      "sourceUnit": "プロローグ2日目:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "I can see them...but not clearly.\nIt's not unlike how I could tell someone was watching me earlier, even if I couldn't pinpoint them.",
+      "sourceUnit": "プロローグ2日目:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"At the very least, I know someone's made their base in Shinto.\"\nI squint down toward the ground.\n...There are seven Masters in total.\nI don't know who they are, nor which Servants are with them.\nAt this point, every Master is probably gathering intelligence on their rivals.",
+      "sourceUnit": "プロローグ2日目:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nSuddenly, I feel someone's eyes on me.\nThere's no reaction from my Command Spells.\nI simply sense that someone else is looking at me.",
+      "sourceUnit": "プロローグ2日目:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Down there?\"\nI peer down.\n...People are walking on the street.\nBut one in particular...\n...is gazing up at me, as if staring at the moon.",
+      "sourceUnit": "プロローグ2日目:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI'm not sure exactly who that is.\nI can't say for certain, and yet I know exactly who.\n...I can't believe that guy.\nWhat's he doing out this late?",
+      "sourceUnit": "プロローグ2日目:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Have you found an enemy, Rin?\"\nArcher calls out to me. Maybe he can make out my rising hostility.",
+      "sourceUnit": "プロローグ2日目:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Not really. It's just someone I know. A normal person who has nothing to do with us.\"\nUnable to clamp it down, I irritably snap back at him and step away from the roof's edge.\nHe couldn't have seen me from the ground.\nI'm sure it was just a coincidence.\nI haven't given myself away.",
+      "sourceUnit": "プロローグ2日目:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "And yet...\nMy mage side is screaming at me for allowing an eyewitness to catch sight of me.",
+      "sourceUnit": "プロローグ2日目:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "By the time I get back to Miyama, it's 9:00 PM.\nUnlike Shinto, Miyama is mostly residential.\nAfter 9, there isn't really anyone outside, and the streets are silent as if it's much later at night.",
+      "sourceUnit": "プロローグ2日目:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"That's it for the tour. Did you get a good look at the city?\"\n\"...Hm? Yeah, I understand the layout. I'll pick up more details along the way.\"\n\"Then we're done for today. I'm still not feeling great, so I'm going home to rest.\"",
+      "sourceUnit": "プロローグ2日目:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "I start up the hill at a relaxed pace.\nWhen...\nI notice someone up ahead.\n\"Is that...Sakura?\"\nUh oh.\nNow would not be a good time to run into her.",
+      "sourceUnit": "プロローグ2日目:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, why are you hiding?\"\n\"Quiet! ...Uh, there's someone I know up ahead. I skipped school today, so I don't want her to see me.\"\nAs I answer, I keep an eye on her.",
+      "sourceUnit": "プロローグ2日目:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "In the middle of the street,\nthere's the first-year student I know,\nand a foreigner I don't.",
+      "sourceUnit": "プロローグ2日目:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "They're talking.\n...No, it looks more like he's trying to pick her up, while she'd rather be anywhere else.",
+      "sourceUnit": "プロローグ2日目:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you acquainted with the foreigner?\"\n\"No, I don't know who that is. There are a lot of European houses here, so maybe he's a tourist.\"\nEven as I finish the sentence, I'm mentally telling myself off for being so soft on that girl.",
+      "sourceUnit": "プロローグ2日目:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer. Is he human?\"\n\"Who knows? I can tell he has a human body, so that makes him no Servant, at least.\"\n\"...Yeah. He isn't a Master either, so it's probably just some lover's tiff.\"\n...Though, even I know that she isn't the sort to get caught up in something like that.",
+      "sourceUnit": "プロローグ2日目:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"They're gone. The girl's going up the hill.\nThe man...\"\nThe blond-haired man descends via the street we came by.",
+      "sourceUnit": "プロローグ2日目:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"You can use this room. Any questions before I go to bed?\"\n\"None in particular. It was wise of you to avoid a premature battle. You should let your strength recover tonight.\"\n\"Yeah. I'll see you tomorrow. Make me that tea again.\"",
+      "sourceUnit": "プロローグ2日目:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "Once I'm back in my room, the fatigue washes over me.\n\"...Oh, yeah. I need to call Kirei first.\"\nThat annoying priest left me a message.\nBy now, he's probably sent for the backup mage.\nIt isn't my problem, but he is my legal guardian. I owe him a phone call, at least.",
+      "sourceUnit": "プロローグ2日目:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Phone, phone...\"\nI punch his number into the telephone.\nBefore long, the fake priest picks up.",
+      "sourceUnit": "プロローグ2日目:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "\"Kirei? It's me. I contracted a Servant yesterday, so you can register me as a Master now.\"\n\"...\"\nThere's a brief pause.\nKirei's silence is deafening—I can feel its weight even through the earpiece.",
+      "sourceUnit": "プロローグ2日目:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. What will you do next? You should stop by. I have something for you from your parents. They asked me to pass it on to you only if you became a Master before adulthood.\"",
+      "sourceUnit": "プロローグ2日目:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, are you talking about Father's will? I already decrypted that. I'll drop by the church if I feel like it. Bye.\"\n\"Wait, Rin. Now that you are a Master—\"\nI hang up before he finishes.\nIf I have to listen to Kirei's nagging while I'm this tired, I have a feeling my magical energy will drain away instead of recover.",
+      "sourceUnit": "プロローグ2日目:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, I should be ready...\"\nAll that's left is to sleep.\nOnce I open my eyes, it'll be a brand new day.\nTen years ago...\nMy father fought as a mage in the Holy Grail War, and lost.\nNow it's my turn to risk it all for the same prize.",
+      "sourceUnit": "プロローグ2日目:page119:1"
+    },
+    "page120": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

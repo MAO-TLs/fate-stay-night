@@ -1,0 +1,186 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0266",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is dead serious.\nThere's no place to run, even if I retreat back to the hallway. I'll jump down the stairs in front of me...!",
+      "sourceUnit": "凛ルート五日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, guh...!\"\nI kick off the floor with full force.\nThere's about a meter and a half down. I can easily land from this kind of height...!",
+      "sourceUnit": "凛ルート五日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "A running long jump from a height of a meter and a half, a meter wide.\nI was able to land the way that I had imagined, without twisting my ankle.",
+      "sourceUnit": "凛ルート五日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Haa...\"\nI was able to get an advantage of one floor from Tohsaka.\nSo now, I just have to go down to the first floor without stopping and get out of the building—",
+      "sourceUnit": "凛ルート五日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nWhat...just...happened...?\nIt came from above.\nIt feels like a giant glob of jelly fell on top of me...\nI can't move my legs.\nThe jelly is anchoring my feet.\nAs soon as I realize that, I try my best to pull out of this sensation of weight.",
+      "sourceUnit": "凛ルート五日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Immediately, a wave of nausea overcomes me.\n...It's cold.\nI have goosebumps all over, my joints creak, my muscles are heavy, and it feels like my insides grind to a halt.",
+      "sourceUnit": "凛ルート五日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap... This...is...\"\nMy legs aren't still because of some gelatinous substance.\nIt's like...I'm ill.",
+      "sourceUnit": "凛ルート五日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's magecraft.\nI've been hit with a Gandr Shot, which infects the target with flu symptoms.\nThe curse drags my body down into a sensation of illness, leaving me paralyzed.",
+      "sourceUnit": "凛ルート五日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Just as I expected. I figured that you would go there if I prepared an easy escape route.\"",
+      "sourceUnit": "凛ルート五日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...I hear Tohsaka's voice from afar, as if she's contacting me from the distant moon.",
+      "sourceUnit": "凛ルート五日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let me apologize first. What I'm going to do now is as bad as taking away your life.\"",
+      "sourceUnit": "凛ルート五日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Her cold finger digs into the back of my neck.\nWhen I realize it's Tohsaka's finger and try to fling it away—",
+      "sourceUnit": "凛ルート五日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Goodbye.\nI don't think you knew, but I've had my eye on you for a long time now.\"",
+      "sourceUnit": "凛ルート五日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "As if it snapped...\nMy consciousness shorts out.",
+      "sourceUnit": "凛ルート五日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh...? It's morning already?\"\nI rouse my hazy mind and fight the urge to go back to sleep.\nIt's already past 6 AM. I should be preparing breakfast right now.",
+      "sourceUnit": "凛ルート五日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Senpai. Breakfast is already prepared.\"\n\"Oh, okay. Sorry, I made you do it by yourself again. I was so sleepy for some reason and couldn't wake up. I'll make dinner to make it up.\"",
+      "sourceUnit": "凛ルート五日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you can't do that. It's my turn to cook dinner tonight, so please let me.\"\n\"Ugh. But I'd be relying on you too much if I made you cook breakfast and dinner. Please let me cook tonight. I want to make it up to you for sleeping in.\"",
+      "sourceUnit": "凛ルート五日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm, let's see. Then, let's cook dinner together.\nI'll help too, so please come home early.\"\n\"All right. I'll leave work early today.\"",
+      "sourceUnit": "凛ルート五日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I apologize to Sakura and sit at the dining table.\nBreakfast is on the table, and Fuji-nee runs in at the last second, as always.",
+      "sourceUnit": "凛ルート五日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning! Everyone is doing well this morning... Wait, huh...? What is this, Shirou?\"\n\"Huh? What do you mean? Did you forget something at your house?\"",
+      "sourceUnit": "凛ルート五日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Huh? Huh? Wait, that's weird. I knew something was strange, but nothing's strange at all.\n...But something still bothers me... Shirou, aren't you forgetting something?\"\n\"What? Forgetting something? Like what?\"",
+      "sourceUnit": "凛ルート五日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"D-don't ask me. I can't figure it out so I'm asking you.\nHey, don't you think something is off, Sakura? Like something is missing, or you're forgetting something.\"",
+      "sourceUnit": "凛ルート五日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I think it is your imagination, Ms. Fujimura.\nI can't think of anything or anyone that's missing...?\"",
+      "sourceUnit": "凛ルート五日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm... Oh well. If I can't remember, then it must not be that important.\"\nFuji-nee seems satisfied since she sits down and starts eating.\nWithout a doubt, this is a normal morning.",
+      "sourceUnit": "凛ルート五日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Thirty minutes after Fuji-nee and Sakura leave...\nAs usual, I make my way out at a leisurely pace.",
+      "sourceUnit": "凛ルート五日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I go up the hill that leads to school.\nIt's past 7:30 AM, and the school road is crowded with students in the same uniform.\nA familiar scene.\nI breathe in the morning air with nothing missing.",
+      "sourceUnit": "凛ルート五日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...Then...\nI make eye contact with a female student passing by.\nShe must've found it awkward that our eyes met, as she starts walking up the hill briskly.",
+      "sourceUnit": "凛ルート五日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"What, Emiya? Were you glaring at Tohsaka just now?\"\n\"Huh...? Oh, morning, Issei.\nI wasn't glaring at her or anything. We just made eye contact.\"",
+      "sourceUnit": "凛ルート五日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? That's fine then, but make sure not to pick a fight with Tohsaka. It's her belief to respond to provocation twofold, so you'll be throwing away your last year of school.\"",
+      "sourceUnit": "凛ルート五日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I don't know how serious he is, but Issei murmurs a Buddhist sutra.\nBut, that's a needless worry.",
+      "sourceUnit": "凛ルート五日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you stupid? I wouldn't pick a fight when I don't even know her.\n...Well, she is really beautiful, but I didn't even realize...someone like that was at our school...?\"\n\"Yes, that is the correct way to deal with her. That thing is too much for us humans to handle. It is our way as humans to not get involved.\nWell, I was worried for a second, but that settles it!\"",
+      "sourceUnit": "凛ルート五日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Issei goes up the hill.\n\"...\"\nI watch him go as I stand there.",
+      "sourceUnit": "凛ルート五日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "A morning scene with nothing missing.\nMy left hand hurts slightly.",
+      "sourceUnit": "凛ルート五日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Settles what? What happened and what ended, Issei?\"\nThe first bell rings from the top of the hill.",
+      "sourceUnit": "凛ルート五日目-05:page33:1"
+    },
+    "page34": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page35": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

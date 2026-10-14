@@ -1,0 +1,187 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0192",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"What is the matter? Are you not going to eat, Illyasviel?\nYou have eaten less than a third of what you did yesterday.\"\n\"I just can't eat this. I can't eat spicy food.\"\n\"Hm. I do not think it is particularly spicy...the spices used go well with the chicken.\"",
+      "sourceUnit": "セイバールート十三日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I don't like mustard! Just eat this for me, will you? In return, I'll eat your strawberry for you!\"\n\"Wh-what are you doing, Illyasviel!?\nHey! Return that this instant! You may not have that! If you want something sweet, there's apple pie!\"",
+      "sourceUnit": "セイバールート十三日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIllya and Saber sit next to each other, bickering like two close sisters.\nIt's just past noon.\nThe three of us sit and face each other, eating lunch together just like yesterday.",
+      "sourceUnit": "セイバールート十三日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Oh right. It's not just lunch that's the same as yesterday.\nOur training today was as well.",
+      "sourceUnit": "セイバールート十三日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Today, though, is even more awkward.\nI don't know how to explain it, but something in my chest stirs whenever I face Saber, and I find myself unable to rush at her with the same desperation I used to.",
+      "sourceUnit": "セイバールート十三日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "It's not just me. Saber has been acting weird too. It used to be that she never let an opening go by. The last couple days, she's just waited for me to make a move, which has meant the two of us just kind of ended up staring at each other for a while.",
+      "sourceUnit": "セイバールート十三日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"What's going on with you two? You're not very fun to watch now.\"\nIllya's criticism helped us get back into the swing of things. I managed to go after Saber, but it ended pretty much the same.",
+      "sourceUnit": "セイバールート十三日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "She batted aside my half-assed attack, but didn't bother countering.\nSince she didn't follow up, I whirled on Saber, lunged again, and was once more repelled, though she again didn't counterattack.\nOur lackluster session ended about ten minutes ago.",
+      "sourceUnit": "セイバールート十三日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Once again, it was at Saber's suggestion we began our lunch break.\nWe're having the same thing we did yesterday: sandwiches.\nI figured it wouldn't do to make them exactly the same as yesterday, so I used a few other ingredients. Everyone seems happy.",
+      "sourceUnit": "セイバールート十三日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Illya is excited over the colorful sandwiches, and Saber takes a deep breath, preparing for her meal.\nI think that's Saber's way of showing her enthusiasm.",
+      "sourceUnit": "セイバールート十三日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It's much rowdier than yesterday.\nIt's raining, and the hardwood floor is cold, but this also feels like a picnic.",
+      "sourceUnit": "セイバールート十三日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh, that is enough, Illyasviel.\nIf you eat like that, you will dirty your clothes. Honestly, this is what happens when you mimic Shirou and try to eat it in one bite. Your mouth is small, so you should eat more daintily.\"",
+      "sourceUnit": "セイバールート十三日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph! You're the one who doesn't understand, Saber. It's even less polite to worry about manners with a meal like this.\nThis is a picnic, so this is how you should be eating, right, Shirou!?\"",
+      "sourceUnit": "セイバールート十三日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Illya happily munches on a sandwich.\n...And Saber reluctantly wipes Illya's mouth with a napkin.",
+      "sourceUnit": "セイバールート十三日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Kya...! Haha, that tickles, Saber!\"\n\"...\"\nWell, I didn't see this coming.\nSaber and Illya seem to have warmed up to each other.",
+      "sourceUnit": "セイバールート十三日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"This is a surprise. Are you not going to push me away, Illyasviel?\"",
+      "sourceUnit": "セイバールート十三日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would I? I love when people are nice to me.\nYeah, if anyone else tried to touch me, I'd kill them, but Saber's pretty, so I'll allow it.\nAnd we are sharing a meal now. If Saber likes me, I like her too.\"\nIt's so simple for Illya.",
+      "sourceUnit": "セイバールート十三日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber, clearly taken aback, stares at Illya, dumbfounded.\nEven I, just a spectator as this unfolds, am caught off guard by Illya's smile.",
+      "sourceUnit": "セイバールート十三日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You don't think this is fun, Saber?\"\n\"Oh...no, I...don't...\"",
+      "sourceUnit": "セイバールート十三日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm having tons of fun. It's raining outside...this place is so simple and bleak...and there's nothing here that I've ever wanted.\nBut just being here is fun. It's much nicer than being all alone. Are you not having fun, Saber?\"",
+      "sourceUnit": "セイバールート十三日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nSomething in Illya's smile must have struck Saber.\nSaber sighs deeply and looks back at her.",
+      "sourceUnit": "セイバールート十三日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"You are correct. I am also enjoying being here.\"\nShe sounds...bright.\nAnd then Saber smiles in a way I've never seen from her.",
+      "sourceUnit": "セイバールート十三日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know why, but I'm getting emotional.\nThat smile was great.\nIt was for herself, and herself alone.\nIt's not the usual smile I see from her whenever she's protecting someone.\nIt's a smile of sheer happiness, for her, from her.",
+      "sourceUnit": "セイバールート十三日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? What is that look for? Did something good happen?\"\n\"Eh? No, nothing... Was I making a funny face?\"",
+      "sourceUnit": "セイバールート十三日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep, you were. You made a face like a father—like you're watching over us from afar.\nI don't like it..\"\n\"Huh, why?\"\nI don't understand what she's talking about, but I guess I was just smiling.",
+      "sourceUnit": "セイバールート十三日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"I see...well, something good happened, so I guess I didn't realize I was smiling.\"\n\"Huh. Something good, was it?\"",
+      "sourceUnit": "セイバールート十三日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep, I like the way you smiled just now, Saber. Seeing it made me happy.\"\n\"...What an odd thing to say. That makes you happy, Shirou?\"",
+      "sourceUnit": "セイバールート十三日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. I guess I like seeing you smile like that, Saber.\"\nSaber nods, though she doesn't seem convinced.",
+      "sourceUnit": "セイバールート十三日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nI don't know what came over her, but she smiles and lifts her head.",
+      "sourceUnit": "セイバールート十三日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then it must be the other way around, Shirou.\"\n\"Huh? What do you mean, the other way?\"\n\"I am happier to see you smiling. If you keep smiling, that is good enough for me.\"",
+      "sourceUnit": "セイバールート十三日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't meet Saber's gaze.\nThat smile would make anyone lightheaded.",
+      "sourceUnit": "セイバールート十三日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nI manage to calm myself down and glance sidelong at Saber.",
+      "sourceUnit": "セイバールート十三日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "She calmly resumes eating her picnic lunch.\nNothing to worry about there.\nThere should be nothing to worry about, yet something is bothering me.",
+      "sourceUnit": "セイバールート十三日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I am happier to see you smiling.",
+      "sourceUnit": "セイバールート十三日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "In that smile I saw for the first time...\n...it seemed like she was contradicting herself.",
+      "sourceUnit": "セイバールート十三日目-06:page34:1",
+      "recoveredDelimitedTail": true
+    },
+    "page35": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

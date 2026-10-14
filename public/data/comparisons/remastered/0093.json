@@ -1,0 +1,211 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0093",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll go on the offensive.\nThere's a Master at Ryudou Temple, and I need to stop them from sucking up magical energy from everyone in town as soon as possible.",
+      "sourceUnit": "セイバールート六日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I agree with Saber. I'm not thrilled to be the one making the move here, but it depends on the opponent, too.\nIf we want to find out what sort of Master we're dealing with, we should go to Ryudou Temple as soon as possible.\"",
+      "sourceUnit": "セイバールート六日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Then it is time to head out, Shirou. I am very glad to see you be so proactive.\"\n\"Fine. There's nothing I can do or say since you've already decided, but just be careful.\"",
+      "sourceUnit": "セイバールート六日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka?\"\n\"I'm going to rest. I have no interest in a battle I can't win. If you aren't back tomorrow, I'll at least go collect your remains, in the spirit of our alliance.\"",
+      "sourceUnit": "セイバールート六日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell? Why would she say something so ominous?\"\n\"That is likely Rin's way of warning us.\nWe are certain to face defenses meant to ward off intruders into Ryudou Temple. We will need to pass through the enemy traps and beat the Master, the lord of this stronghold.\"\n\"Mm. Well, you're right, but...\"",
+      "sourceUnit": "セイバールート六日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I'm not so enthusiastic and confident that I think I'm going to go in there and beat the Master.\nI just want to learn their identity and motives.\nIf all goes well, we might be able to avoid battle, and if things get hairy, we can retreat.",
+      "sourceUnit": "セイバールート六日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I won't ever let her suffer or look so pained again.\nWe'll just have to retreat right away if it starts to look too dangerous.",
+      "sourceUnit": "セイバールート六日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The clouds zip by overhead.\nMust be a strong wind up there.",
+      "sourceUnit": "セイバールート六日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Master. It is almost midnight.\"\n\"Yeah. The town's gone to sleep, so it's a good time to head out.\"",
+      "sourceUnit": "セイバールート六日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I nod as I grab my shinai bag.\nInside, I've packed a bamboo sword I found in the shed.\nIt's not the greatest weapon for going up against a Servant, but as long as my strengthening magecraft works, I should be able to survive at least one attack.",
+      "sourceUnit": "セイバールート六日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. We're only going to Ryudou Temple just to check things out.\nWe're going to see who the Master is, and what class their Servant is. We're not here to start a fight.\"",
+      "sourceUnit": "セイバールート六日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understood. But if the enemy desires a fight, or if I determine you are in danger, I will not hold back.\nAs long as we are heading into enemy territory, please prepare yourself for the possibility of death.\"",
+      "sourceUnit": "セイバールート六日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The possibility of death...\nThe scales of fate weigh on one end the Master at Ryudou Temple, and on the other, us, the intruders.\nThe scales are balanced right now, but they may tip one way or the other tonight.",
+      "sourceUnit": "セイバールート六日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "We head west from the intersection, and hurry along the empty road.\nRyudou Temple is located at the end of the gently sloping mountain path opposite the more developed Shinto.",
+      "sourceUnit": "セイバールート六日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's a long set of stairs.\nThe road that leads up to one of the tallest mountains in Fuyuki is all but swallowed up in an ominous darkness.",
+      "sourceUnit": "セイバールート六日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...\nDo you sense any Servants around?\"\n\"Yes. I cannot be certain of anything specific, but I can definitely sense a  Servant.\"\nSaber's detection abilities seem to be weakened, probably by the Bounded Field set up over Ryudou Temple.",
+      "sourceUnit": "セイバールート六日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...It is an ill-favored wind tonight. Shirou, do not leave my side, even for a moment.\"\n\"...\"\nI just nod in answer, then start up the stone stairs.",
+      "sourceUnit": "セイバールート六日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "The air feels tense.\nShrouded in the dark of night, the forest echoes with soft rustling sounds.\n...\nWith every step I take, worry gnaws at my stomach.",
+      "sourceUnit": "セイバールート六日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The temple gate finally comes into view.\nNothing's happened so far.\nThere's no sign of the enemy, and the temple gates are wide open, as if inviting us inside.",
+      "sourceUnit": "セイバールート六日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Stop.\"\n\"Huh? Is it an enemy, Saber?\"\n\"Yes. But it is not a Servant. Their presence is too weak. It is likely a familiar tasked to surveillance. We can ignore it, but...\"",
+      "sourceUnit": "セイバールート六日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "There must be something about that surveillance familiar that makes her hesitate.\nSaber frowns, then glares at the temple gates just a few steps ahead of us.",
+      "sourceUnit": "セイバールート六日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? Is something bothering you?\"\n\"I do not know. I cannot tell if I am feeling this chill because of the familiar, or if it is whatever is protecting this temple gate.\nThere seems to be a gatekeeper of some sort, but they appear to be absent at the moment.\nI do not want to admit it, but it seems we are lucky, that I am...fortunate not to have to confront whoever is protecting this gate.\"",
+      "sourceUnit": "セイバールート六日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"So there's a gatekeeper, but they're not here right now?\"\n\"Yes. They already know we are here.\nThere could be only two reasons the gatekeeper has been pulled back. Do you know what those reasons might be, Shirou?\"",
+      "sourceUnit": "セイバールート六日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\n...The gatekeeper was either pulled back to hide from us, or they're going to let us through the gates but don't intend to let us leave.\n...Either way, we're not going to accomplish anything unless we get inside.",
+      "sourceUnit": "セイバールート六日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"It's a trap, Saber. Can you tell what's going on in there?\"\n\"No. All I can say is that I can sense the presence of a Servant.\"",
+      "sourceUnit": "セイバールート六日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Got it. I guess we won't be learning anything unless we go inside.\"\nSaber nods.",
+      "sourceUnit": "セイバールート六日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. Whatever they do to us, we're not getting anything out of this trip until we see our opponents' faces.\"\nSaber and I approach the temple gate.",
+      "sourceUnit": "セイバールート六日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "For a brief moment, the clouds drift across the moon, swallowing up its light.\nOur vision falls into darkness.\n\"...Eh?\"\nIn the darkness, I thought I saw a beautiful snake slithering between the trees.",
+      "sourceUnit": "セイバールート六日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait, Saber. I thought I just...\"\nI stop Saber, who's trying to walk through the temple gate.\n\"Shirou?\"\nHer golden hair whips around.\nBut suddenly...",
+      "sourceUnit": "セイバールート六日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Forced transportation!? But that's impossible! There's no such thing as transference magecraft in this age—ah, but Caster...!\"\nSaber's figure distorts.\nWhat kind of magecraft is this?\nSaber becomes distorted like a mirage, and—\n\"This is bad! Pull back, Saber! Your body's fading...!\"\n\"No, Shirou! You are the one who is being transported...! Hurry...take my hand...!\"\n\"Gh—!?\"\nT-transport!? L-like teleportation!?\n\"Shirou, reach out! You're being pulled i—\"\nSaber kicks the ground and grabs hold of my arm.\nBut then...\n\"Kn...ungh!?\"\nThe dark figure of a Servant cuts in from the side.\n\"You let your guard down, Saber. Your resistance to magecraft has backfired.\nIf you weren't so powerful, you would have been able to protect him.\"\n\"Wha... You are...a Servant!\"\nBlack and silver figures clash.\nSaber versus Rider.\nThe two confront one another at the top of the stone steps.\n\"Wha... Saber. SABER!!!\"\nI feel myself pulled through dimensions, twisted out of mine and through others, then deposited back into reality.\n\"Ah...ur, argh...!\"\nMy blood flows backward.\nFor a moment, my organs flip inside out, and I'm overwhelmed by nausea...",
+      "sourceUnit": "セイバールート六日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh my. I meant to hook a dragon, but I seem to have caught something much smaller in my net.\"\n\"What...!?\"\nI turn around to face whatever is behind me.",
+      "sourceUnit": "セイバールート六日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh...ahck!\"\nI don't have time to figure out who it is.\nI swing the wooden sword behind me, not even taking it out of the shinai bag.",
+      "sourceUnit": "セイバールート六日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"\"\n\"Ah...!\"\nI'm blown away.\nSomething strikes the side of my chest, and my body sinks into a watery surface.",
+      "sourceUnit": "セイバールート六日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...what the...?\"\nThe liquid turns red.\nMy body...the whole right side of my chest is gone.",
+      "sourceUnit": "セイバールート六日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"What a stupid boy. You walked into my temple equipped with barely anything in the way of magic resistance... It appears Saber was not blessed with a proper Master.\"",
+      "sourceUnit": "セイバールート六日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe purple-robed figure snickers.\nI'm dizzy... I need to get up and take Saber's hand, but I'm shaky and my body...",
+      "sourceUnit": "セイバールート六日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Worried about Saber? Don't. I'll take Saber. I need her Noble Phantasm to defeat Berserker. You'll die here and now, but she will live on as my slave.\"",
+      "sourceUnit": "セイバールート六日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...ah...rgh...!\"\nI don't have any strength in me.\nMy...fingers...\nThey're cold as ice. My consciousness fades...into darkness and...mud...",
+      "sourceUnit": "セイバールート六日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Goodbye, boy. You're not even worth keeping as a slave, weak as you are. But I will take your Command Spells and use them far better than you ever would have.\"",
+      "sourceUnit": "セイバールート六日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "A crooked blade glints in the darkness and begins cutting out my Command Spells.\nI'm in black, murky water.\nThe only thing my motionless eyes see is the clouds swallowing up the moon.",
+      "sourceUnit": "セイバールート六日目-06:page39:1"
+    },
+    "page40": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0633",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Then,\nI find Tohsaka's face right in front of mine. I wonder when she came back.",
+      "sourceUnit": "桜ルート十二日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? What are you doing, Tohsaka?\"\n\"                            \"\n\"                            \"\n\"        , I bet. Doesn't he look        ?\"\n\"        Anyway,        lunch Between Rin and Sakura        Sakura's is more        \"",
+      "sourceUnit": "桜ルート十二日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...That's weird.\nWhat are they whispering about right in front of me?",
+      "sourceUnit": "桜ルート十二日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Illya?\"\n...?\nI can't raise my voice. Something must be wrong with my throat.\n\"Mm-hrm. One more time...\nHEY! WHAT ARE YOU TWO TALKING ABOUT!?\"",
+      "sourceUnit": "桜ルート十二日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "They suddenly stop whispering.\n\"Aah. Aah, aah?\"\nOh, my voice is back.\nIt seems like yelling helped clear up my throat.",
+      "sourceUnit": "桜ルート十二日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"You were just talking about how my seasoning style was fresh and novel. Do you actually not like spicy food, Shirou?\"",
+      "sourceUnit": "桜ルート十二日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Your food isn't spicy, it's numbing.\nWe already decided that Sakura would make lunch, so give it up already. Shirou said he prefers Sakura's stew, too.\"",
+      "sourceUnit": "桜ルート十二日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Apparently, they were talking about lunch.\n\"Hey, this isn't really—\"\n\"the time,\" I almost say.\nI look at the clock and see that it's almost noon.",
+      "sourceUnit": "桜ルート十二日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Something nags at me.\nNothing's particularly wrong, but I feel a strange chill in the familiar dojo.\nBecause",
+      "sourceUnit": "桜ルート十二日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "it was just after nine o'clock when Tohsaka left\nknowledge I don't know in my head\nwhy are we talking about food\nI join the conversation\nspeaking of which, what\ndetails of every weapon     already    in my head\nIllya's worried\nthat white-hot pain in my arm\nforty, then twenty-six times\nmemories disappear, and I'm back to normal.",
+      "sourceUnit": "桜ルート十二日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nI tap a finger on my forehead.\nI'm okay.\nAnyway, the dizziness is going away.",
+      "sourceUnit": "桜ルート十二日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? You said you were going shopping with Illya, right?\"\nI search my memory.\nI frown for a bit before remembering that I did say I'd go shopping with Illya.",
+      "sourceUnit": "桜ルート十二日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Let's go, Illya.\"\nI shake my head and start walking.\n\"...Hang on. What's wrong with you? You seemed fine when we put the shroud back on, but do you feel tired now?\"",
+      "sourceUnit": "桜ルート十二日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Uh... Yeah, I feel a little confused. But it's no big deal.\"",
+      "sourceUnit": "桜ルート十二日目-08:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

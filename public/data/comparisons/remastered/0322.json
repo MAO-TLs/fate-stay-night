@@ -1,0 +1,92 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0322",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's 7 PM.\nTohsaka came right on time.",
+      "sourceUnit": "凛ルート九日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry to keep you waiting. It took a while since I was getting the necessary things.\nHow's your preparation?\"\n...\nI hand her the practice sword bag.\nThere's a bokutou, a wooden sword, inside.\nThis is all the preparation I can do.",
+      "sourceUnit": "凛ルート九日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, I guess that makes sense. Anyway, we have Saber for hand-to-hand combat. You might just end up watching.\"",
+      "sourceUnit": "凛ルート九日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's true. As long as Saber is here, all I have to do is back her up.\"\n...Well, I find it hard to think of a situation where I actually need to watch her back.",
+      "sourceUnit": "凛ルート九日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin. Why is Archer not here?\"\nThen...\nWith a sharp look, Saber asks a question.",
+      "sourceUnit": "凛ルート九日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Tohsaka, you didn't bring Archer?\"\n\"...Yes, I left him home. We're doing a surprise attack tonight, so we don't need him if we have Saber, right? To be honest, I don't want him anywhere near Caster.\"",
+      "sourceUnit": "凛ルート九日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka starts walking.\n...I don't know what she's thinking, but that means that we won't have the help of Archer this time.",
+      "sourceUnit": "凛ルート九日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...Time passes.\nWe have to cross this intersection to get to Ryudou Temple from school.",
+      "sourceUnit": "凛ルート九日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "It's already taken an hour to set up our territory.\nThe simple Bounded Field set up by Tohsaka...\n\"We're screwed if we're seen, but the soundproofing is perfect.\nNobody would even notice if a missile exploded here.\"\nAccording to Tohsaka.",
+      "sourceUnit": "凛ルート九日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The surrounding area is too quiet.\nIt might also be because Tohsaka's field is working, but everything feels too lifeless.\nIt's already been seven days since the Holy Grail War started.\nIt seems like the town's spirit is being slowly stripped away without anyone noticing.",
+      "sourceUnit": "凛ルート九日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...He's here. Hide, Emiya.\"\n\"Hnn...\"\nI move to the wall.\n...I can't even hear the footsteps.\nThere's a figure beneath the streetlight.",
+      "sourceUnit": "凛ルート九日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "A tall and lean physique...\nThat familiar figure is definitely Souichirou Kuzuki.\nMr. Kuzuki passes by in front of us with his usual orderly footsteps.",
+      "sourceUnit": "凛ルート九日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe's too defenseless.\nI'm assaulted with the feeling that Mr. Kuzuki might be innocent.",
+      "sourceUnit": "凛ルート九日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Tohsaka. Don't you think Mr. Kuzuki might be innocent after all?\"\n\"...Well, we'll find out soon.\"\nTohsaka seems to be half in doubt as well.\nIt seems like she's still carrying on with her plan, as she points her index finger towards Mr. Kuzuki.",
+      "sourceUnit": "凛ルート九日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Gandr.\nIt is a curse that lowers the target's physical ability, considered to be a simple magecraft.\nTohsaka's is more like a gunshot instead of a Gandr, but I'm sure she'll lower the intensity this time.",
+      "sourceUnit": "凛ルート九日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you ready, Emiya?\"\nShe whispers.",
+      "sourceUnit": "凛ルート九日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's still time.\nThe possibility that Souichirou Kuzuki is innocent.\nIsn't there another way other than Gandr to check if he's a Master or not...?",
+      "sourceUnit": "凛ルート九日目-00:page16:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0130",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...No, I can't stop. Not now.\nNo matter how strong it may be, if it doesn't hit me, it won't matter.",
+      "sourceUnit": "セイバールート九日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The three blades come at me like a blast of wind.\n\"YOU'RE the idiot, Shinji!!!\"\nThis attack is nothing compared to Saber's—",
+      "sourceUnit": "セイバールート九日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI pass through the gaps between the three overlapping shadows.\nI don't feel any danger from the shadows.",
+      "sourceUnit": "セイバールート九日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "There's no problem then.\nSaber taught me that I shouldn't hesitate as long as I don't sense that the attack will be fatal.",
+      "sourceUnit": "セイバールート九日目-04:page3:1"
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

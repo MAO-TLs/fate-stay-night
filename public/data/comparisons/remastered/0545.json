@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0545",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh... Of course I won't betray you, but I can't say yes to that last part.\nHow bad, exactly?\"",
+      "sourceUnit": "桜ルート九日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"That's obvious. You could die or be on the verge of death. It's the least you should be ready for, since you don't have any collateral to offer.\nOr, what? You expect to make this deal empty-handed?\"",
+      "sourceUnit": "桜ルート九日目-11:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0527",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's clear that the longer I wait, the greater my disadvantage will become.\nThat means I should escape these dire straits while I can still move.\nI'll charge in and cut the old mage down before the bugs surrounding me on all sides can crawl up my body!",
+      "sourceUnit": "桜ルート八日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It doesn't feel like I got him.\nMy diagonal slash slices easily through him like a tomato, and the pieces fall to the floor.",
+      "sourceUnit": "桜ルート八日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh! I see, I see. You're very decisive, boy!\"\nThe fallen pieces of the old mage laugh at me.",
+      "sourceUnit": "桜ルート八日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh...!\"\nThe kyousaku stick rots and crumbles in my hands.\nHe got me.\nThat old devil gave up his body to destroy my Strengthened stick...!",
+      "sourceUnit": "桜ルート八日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You're cornered. In your passion, you lost your only weapon. The young ones are always so impatient.\"\n\"...!\"",
+      "sourceUnit": "桜ルート八日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I run.\nBugs squish and crunch under my feet as I move.\nI feel death closing in from behind,\nand in a desperate bid to avoid the buzzing wave of insects,\nI throw my shoulder against one of the dark walls leading outside...!",
+      "sourceUnit": "桜ルート八日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I got out...!\"\nI roll out of the room, preserving my momentum.",
+      "sourceUnit": "桜ルート八日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...!\"\nThe bugs don't follow me.\nIn my dazed sprint to escape the shrine, I ended up on the opposite side of the temple yard.",
+      "sourceUnit": "桜ルート八日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow...\"\nI feel pain throughout my body. Maybe I hit something when I fell out of the building.\n\"But so what? More importantly, right now...\"",
+      "sourceUnit": "桜ルート八日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I need to find Saber as soon as possible.\nA feeling of dread hangs over me.\nThe anxiety gets worse and worse. I need to see Saber's face soon, or...",
+      "sourceUnit": "桜ルート八日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThe water ripples.\nSensing danger, I leap away from it.",
+      "sourceUnit": "桜ルート八日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The moist ground lets go of my feet.\n\"Ngh...!?\"\nBut I only manage to jump back briefly.",
+      "sourceUnit": "桜ルート八日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Dull pain.\nSomething feels wrong with my heels, and I look down.",
+      "sourceUnit": "桜ルート八日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nThey're all red.\nWhen I jumped, both of my feet fell off, like discarded shoes...",
+      "sourceUnit": "桜ルート八日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Those things back there...\"\nWhen I escaped the shrine room, I trampled on countless bugs.\nI recall how my Strengthened stick rotted away when I used it to cut Zouken's body.\nIt stands to reason that my feet, which stepped on those same bugs, would meet the same fate.",
+      "sourceUnit": "桜ルート八日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ergh, guh...!\"\nOn my hands and knees, I try to escape the bog on the remaining stumps of my feet.",
+      "sourceUnit": "桜ルート八日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Haha. So close, boy. Your decision wasn't wrong, but you lacked the power to back it up.\"\nThe insect-user's voice resonates.\n—The ground is muddy.\nSpiders have always lived in wet places.",
+      "sourceUnit": "桜ルート八日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, I have Saber.\nSuch a pity. You've lost the only reason for me to keep you alive.\"",
+      "sourceUnit": "桜ルート八日目-07:page17:1"
+    },
+    "page18": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

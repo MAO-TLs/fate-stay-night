@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0014",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I haven't thanked Sakura for cooking dinner yet, so I should talk to Sakura.",
+      "sourceUnit": "セイバールート一日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"It's getting late, so I should walk her home.\"",
+      "sourceUnit": "セイバールート一日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Sakura just finished cleaning up, and she's in the living room getting ready to go home.\n\"Oh, Senpai. I thought you were taking your bath.\"\n\"I'll take my bath later, after I walk you home.\"",
+      "sourceUnit": "セイバールート一日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? You're going to walk...me home?\"\n\"Yeah. It's been dangerous at night lately so I'll walk you home. Your house is a pretty long walk, so let me at least do this, since you go out of your way to come here.\"",
+      "sourceUnit": "セイバールート一日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura purses her lips awkwardly.\n...Did I say something wrong?",
+      "sourceUnit": "セイバールート一日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry. I appreciate your concern, but you should rest. I know my way home from here, and I should be fine alone.\"\n\"Maybe so, but it really hasn't been safe recently. I'll walk you home at night for a while.\"",
+      "sourceUnit": "セイバールート一日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...But, well...it will cause trouble for you if my brother sees you.\"\n\"Ah...\"",
+      "sourceUnit": "セイバールート一日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I forgot.\nSakura's older brother Shinji doesn't really like Sakura coming over to my place.\nHe can't say much because Sakura says she goes to Fuji-nee's house, but me taking her home might cause problems.\nI don't care if Shinji accuses me of something I didn't actually do, but I don't want him taking it out on Sakura.",
+      "sourceUnit": "セイバールート一日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"But it wouldn't be a problem if I only walked you halfway, right? There's no way we'll see Shinji at the intersection.\"\n\"...\"",
+      "sourceUnit": "セイバールート一日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Sakura is uncomfortably silent.\nKnowing Sakura, she probably couldn't even lie about the fact that I walked her home.\n\"Hey, then how about—\"",
+      "sourceUnit": "セイバールート一日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Want me to walk her home?\"\nAn English teacher wearing tiger stripes suddenly pokes her head through the door.",
+      "sourceUnit": "セイバールート一日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"That really doesn't fix anything. My concern is that a girl's walking alone at night, so adding another girl would be—\"\n...Wait a minute.\nCalling Fuji-nee a girl may be a bit of a misnomer.\nThere is a reason Fuji-nee is the teacher in charge of the kyudou club.\nShe was trained by Old Man Fujimura in kendo, and her fifth rank designation makes her deadly, literally and figuratively.",
+      "sourceUnit": "セイバールート一日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess it wouldn't be a problem if you went, Fuji-nee. I bet you could beat the crap out of any perverts who might try to strike.\"\n\"Of course I can. And that's why walking Sakura home is not a problem. Are you good with it, Sakura?\"\nYes. As long as it's okay with you.\n\"That settles it. Let's get going. I was just thinking I should go home, too.\"\nFuji-nee takes Sakura's hand and starts to leave.",
+      "sourceUnit": "セイバールート一日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, hold on a minute, Sakura.\"\n\"What is it, Senpai?\"\n\"Dinner was good. Thank you.\"\n...\n\"Of course. As long as you don't mind, I will keep working on my cooking, Senpai.\"\nSakura beams and leaves the living room.",
+      "sourceUnit": "セイバールート一日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can tell my cheeks are burning red.\nHonestly, Sakura takes me by surprise a lot lately. It's...perplexing.\nTime sure flies. Not so long ago, she was just my friend's little sister. Now, I find sometimes I can't quite look away from her.",
+      "sourceUnit": "セイバールート一日目-13:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

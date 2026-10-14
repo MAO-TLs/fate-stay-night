@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0592",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The Shadow shudders.\nThe red knight is drenched in blood. Tohsaka is sitting on the ground in shock.\nFive meters away from them stands a silver-haired girl holding hands with Shirou Emiya.",
+      "sourceUnit": "桜ルート十日目-28:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...The Shadow shudders.\nIt shrinks like a withered tree, and then expands like a pufferfish.\nNo, its venomous nature resembles a more wicked deep-sea creature.\nIt keeps swelling, growing shamelessly and endlessly, until it covers the entire forest in deep black.",
+      "sourceUnit": "桜ルート十日目-28:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "In an instant...\nThe red knight dies protecting Rin Tohsaka, and Shirou Emiya is saved by sheer luck.\nHe was fortunate that the forest terrain is filled with crags and valleys.\nShirou Emiya evaded the Shadow in a ditch.\nBut his exposed left arm was not so lucky...",
+      "sourceUnit": "桜ルート十日目-28:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nShe awakens from a dream.\nIt's been half a day since she sent Rider to protect Shirou.\nSakura had been sharing her Servant's perception so that she could keep an eye on things from the Emiya house. The shocking scene jolted her back to reality.",
+      "sourceUnit": "桜ルート十日目-28:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ah, ugh...!\"",
+      "sourceUnit": "桜ルート十日目-28:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "She feels nauseous.\nShe's hit by the vertigo of suddenly severing her senses from that of her Servant.\nHer sleeping body is covered in sweat, and if she even tries to breathe, she suddenly—\n\"Ugh...hah...!\"\nThe contents of her stomach rise to her throat.",
+      "sourceUnit": "桜ルート十日目-28:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "She runs to the changing room.\nClinging to the sink, she covers her mouth with her hand, not breathing.\n\"Ugh...urgh...!\"\nShe can't contain the bile in her chest, and it spills out.",
+      "sourceUnit": "桜ルート十日目-28:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nHer shoulders heave up and down.\nHer long hair sways like a curtain, concealing her face from the mirror.",
+      "sourceUnit": "桜ルート十日目-28:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"It can't be... Senpai's hand...\"\nShe recalls the nightmare with horror.\n...Those images were real.\nShirou Emiya protected the silver-haired girl, and the Shadow swallowed his arm.\nIt was devoured down to its socket.",
+      "sourceUnit": "桜ルート十日目-28:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What...have I done...\"\nSakura berates herself, as if she's thought something she shouldn't have.\nShe feels both chills and a strange sense of exultation, and can't quite process what happened or what she should do next.\nAll she knows for sure is that she hates herself.\nBefore, she had a similar invasive thought:\nIf she injured Shirou Emiya so that he couldn't go outside, then he wouldn't be in danger anymore.",
+      "sourceUnit": "桜ルート十日目-28:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No...that's wrong.\"\nYes, it was wrong.\nIt wouldn't solve anything.\nHow fickle of her to wish that he'd get hurt enough not to go outside.\nAnd now, she'd hurt Shirou Emiya in a way that had nothing to do with her wish.\nHis life was in danger, never mind his ability to leave the house.",
+      "sourceUnit": "桜ルート十日目-28:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Both of these things actually happened.\nThat was what it really meant to hurt him.\nHow could she have wished for something so awful?",
+      "sourceUnit": "桜ルート十日目-28:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Urgh... Argh, ugh, ah...!\"\nThe nausea won't go away.\nShe's already vomited everything in her stomach, but the retching won't stop.\nBlood and bile.\nIt's almost as if the mangling pain in her stomach and the searing in her throat are meant to punish her, she thinks to herself.",
+      "sourceUnit": "桜ルート十日目-28:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...Several dozen minutes pass.\nAfter running out of even her stomach bile, the nausea passes, and she finally regains her composure.\nShe pants roughly.\nHer shoulders heave, her breathing ragged.\nShe grips the sink in both hands, trying to catch her breath like she's just finished running a marathon.\n\"...Now Senpai can't fight anymore.\"\nHer honest feelings slip out in a rapturous tone.",
+      "sourceUnit": "桜ルート十日目-28:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

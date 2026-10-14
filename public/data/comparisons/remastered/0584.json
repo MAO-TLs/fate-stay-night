@@ -1,0 +1,102 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0584",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It'd be dangerous for me to leave this spot without first figuring out what's going on.",
+      "sourceUnit": "桜ルート十日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm staying. Are you set on going...?\"\n\"Yeah. But you're making the right choice. I have Archer, but you're alone.\nIt isn't wrong to be cautious.\"",
+      "sourceUnit": "桜ルート十日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Don't get careless just because Archer's here.\"\n\"Of course not. I'll be right back if it looks dangerous.\"",
+      "sourceUnit": "桜ルート十日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka runs into the woods without looking back.\n...The air continues rumbling.\nTohsaka said that Berserker is fighting.\nHe must be up against Zouken and Assassin.\nBerserker won't lose in pure fighting strength.\nThere's no tactic that Assassin or Zouken could use to overcome him.\nBut...wasn't that true for Saber, too?",
+      "sourceUnit": "桜ルート十日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I have an ominous hunch that I might be making the same mistake as before...",
+      "sourceUnit": "桜ルート十日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...!?\"\nDarkness falls.\nIt isn't the darkness that comes from an absence of light.\nInstead, a dark light is seared into my retinas, like I've just looked directly into the sun.",
+      "sourceUnit": "桜ルート十日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh?\"\nMy worsening sense of dread is accompanied by a new worry.\nI'm in complete darkness. I can't tell up from down or left from right.\nIt's like an awful, sudden hallucination that I've been swallowed into a world of nothingness.",
+      "sourceUnit": "桜ルート十日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"No...it can't be...!\"\nWithout my vision, I feel my way through the lightless forest.\nThud. Thump.\nI bump into tree trunks.",
+      "sourceUnit": "桜ルート十日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... hah, hah, hah, ah...!\"\nI push my way forward clumsily.\nBlood trickles from my shoulders.\nMy forehead slams into a hard tree trunk. The pain is intense.\nStill, I want the feedback.\nGetting injured from bumping into things is more comforting than nothing at all.",
+      "sourceUnit": "桜ルート十日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... hah, hah, hah.\"\nIt'll be okay.\nI'll be all right. It's just temporary blindness from seeing a sudden bright light.\nThe forest is still there, and I can feel the ground beneath my feet.\nEverything's just gone dark in my eyes.\nI'll recover with time.",
+      "sourceUnit": "桜ルート十日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...It should take just a little longer before my eyes work again.\nI don't know what that light was, and I'm worried about Tohsaka, but I'd just be a burden to her if I rushed in.\nI need to concentrate on recovering my eyesight and escaping this darkness.",
+      "sourceUnit": "桜ルート十日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n......\n.........\n............\n...............Just a little more.\nI'm sure my eyesight will return soon.\nThere's nothing to worry about.\nMy eyesight will return. I can say that for sure.",
+      "sourceUnit": "桜ルート十日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut I am worried about the noises around me.\nThe gusts of wind stopped at some point.\nThe thumping noises are gone, too.\nI wonder what it means that I've stopped bumping into all those trees.",
+      "sourceUnit": "桜ルート十日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Almost there. Just a little more.\"\nJust a little longer until my eyesight is back.\nI need to wait in this dark void until then.\nI'll focus on that for now.\nI can ponder later why I'm not touching the forest anymore.\nI can wonder later why it's dark even though my eyes are working again and my vision is back to normal.",
+      "sourceUnit": "桜ルート十日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Right. Just gotta get out of this darkness as soon as I can.\"\nStill feeling nothing, I walk through the darkness.\n...I know I'm in the middle of a forest, but it's so dark that my imagination goes to bad places.",
+      "sourceUnit": "桜ルート十日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "For example...\nMaybe I got trapped in a world of shadows with no exit.\nA bad joke like that, maybe.",
+      "sourceUnit": "桜ルート十日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...haha, ha...\"",
+      "sourceUnit": "桜ルート十日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I chuckle bitterly at how lame it sounds, and keep going.\nI can't feel anything.\nBut it's just a little longer.\nA little longer.\nA little longer.\nA little longer.\nJust a little longer until my eyesight returns,\nand I see the place I was just in earlier...",
+      "sourceUnit": "桜ルート十日目-10:page17:1",
+      "recoveredDelimitedTail": true
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

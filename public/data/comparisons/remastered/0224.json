@@ -1,0 +1,536 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0224",
+  "rows": {
+    "page0": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh...haaa haaa haaa...\"\nThe sound of my ragged breathing fills my ears.\nMy fever's so hot, it'd burn anyone who touched me. It feels like my brain is melting and oozing right out of my skull.",
+      "sourceUnit": "セイバールート十五日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Stop stop stop",
+      "sourceUnit": "セイバールート十五日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaa...haaa...haaa...\"\nIt's like everything has melted away, but every nerve in my body still screams with agony.",
+      "sourceUnit": "セイバールート十五日目-19:page3:1"
+    },
+    "page4": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaa...haaa...haaa...\"\nMy mind's burned out.\nThere's a hole in my heart and a void in my stomach.\nI want to vomit, but there's nothing left in me. The twisted feeling of nausea only grows stronger for my inability to vomit.\nAll I can do is bite down on the pain.\nSomehow, in spite of it all, I still cling to consciousness. Pain is an old friend. I know how to endure it.",
+      "sourceUnit": "セイバールート十五日目-19:page5:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaa...haaa...haaa...\"\nBut the voices don't stop.\nThey fill every corner of the emptiness left in me after the pain has burned everything else out.\nI know who those voices belong to.",
+      "sourceUnit": "セイバールート十五日目-19:page7:1"
+    },
+    "page8": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh...haaa...haaa...\"\nI'm going mad.\nWith each echo, a stabbing pain shoots through my chest.\nI'm not afraid.\nI just...have no answer. No way to respond. No way to make it right.",
+      "sourceUnit": "セイバールート十五日目-19:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Aaah...ah...haaa...haaa...\"\nThey beg and plead and cry, but there's nothing I can do. I so desperately want to help, but I can't.\nI can't even ask them to stop.\nNo matter how much they beg, I can't respond.\nI'm sure...\nI really will go mad if this doesn't stop.",
+      "sourceUnit": "セイバールート十五日目-19:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh...aaah...\"\nThey repeat it again and again and again, and I can't do anything about it.\nAll I can do is give them an end.\nAll I can do is fix this paradox of life and death.\nAll I can do is punish the architect of this hell.\nAnd...\nI can't reverse all the sadness and death.",
+      "sourceUnit": "セイバールート十五日目-19:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "That's my limit.\n\"A champion of justice is someone who can only clean up a mess that's already been made. You'll never be able to save the very people you're hoping to save.\"\n...Who said that again?\nI refused to believe it, but now I'm being confronted with that very truth.",
+      "sourceUnit": "セイバールート十五日目-19:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I want to get out of here.\nI can't save them.\nI can't do anything but take it in. I have nothing to give back. No miracle to grant.\nI'm not strong enough to defy those words saying that a champion of justice can only go so far.\nBut...\nIf I did have a miracle at the ready...would I...",
+      "sourceUnit": "セイバールート十五日目-19:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. She has arrived. Awaken, Shirou Emiya. Your Servant awaits.\"\nI hear a voice.\nIt's right behind me.\nBut I can't make out what it is saying.",
+      "sourceUnit": "セイバールート十五日目-19:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "My vision is blurry.\nI can't make out what's in front of me either.\nThere are only the voices crying out for help. There is only a room choked with the bodies of those who have died.",
+      "sourceUnit": "セイバールート十五日目-19:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"He's good, but no match for Saber. Regardless, I require another Servant. I do not care whether it be Saber or Lancer, but I shall make a selection before that.\"",
+      "sourceUnit": "セイバールート十五日目-19:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I can't hear the words...\n...but his voice echoes in my head.",
+      "sourceUnit": "セイバールート十五日目-19:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"It is your turn. Let us begin, Shirou Emiya.\"\nSomething pulls my head upward.\nHe grabs me by the back of my head and drags me forward.",
+      "sourceUnit": "セイバールート十五日目-19:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "I can feel who it is now.\nThis man has been consumed by the darkness.\nHis heart is ashen. He's draped in shadow.\nThis corruption creeps into him, and it has tethered itself to him.",
+      "sourceUnit": "セイバールート十五日目-19:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know what has happened.\nBut I do know...\nThis man, Kirei Kotomine... He's like me.\nHe's suffered a fatal wound, but somehow still remains in the world.\nAs Saber's power lets me regenerate...\nKirei Kotomine preserves his body with this darkness.",
+      "sourceUnit": "セイバールート十五日目-19:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"That is far enough, Saber. Lower your blade if you wish to save your Master.\"\n...What's going on?\nI still can't make out what's going on. I can't even lift my own head.",
+      "sourceUnit": "セイバールート十五日目-19:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You as well, Lancer. We all seek the Holy Grail. It should not devolve into indiscriminate killing. If Saber is here to retrieve this one, I will allow it.\"\nHe laughs ominously.",
+      "sourceUnit": "セイバールート十五日目-19:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"You expect me to believe the words of the man who killed Lancer's Master and seems just as ready to kill mine? Do you think me a fool?\"\n...Who is that?\nI can't tell, but like the sound of a tuning bell, the voice helps refocus my mind.",
+      "sourceUnit": "セイバールート十五日目-19:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"You may trust me. I have no wish to fight. Though the situation is dire, I will not refuse you your right to seek the Holy Grail.\nMy role has always been overseeing the rightful claim to the Holy Grail.\nYou are both qualified. If you truly desire it, I could give it to you right now.\"",
+      "sourceUnit": "セイバールート十五日目-19:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you saying the Holy Grail is here!?\"\n\"It is. It exists in the ether.\nIn the beginning, it has no form. The completed form is dependent on where it is summoned, when, and what form the vessel takes. It can manifest in this church.\"",
+      "sourceUnit": "セイバールート十五日目-19:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, the Grail would be incomplete with more than one Servant left alive, but it should be sufficient to grant most wishes. If you feel that is inadequate, then continue your battle.\nI will accompany you either way, though this is not entirely as I would like it. What say you, Lancer?\"",
+      "sourceUnit": "セイバールート十五日目-19:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Sounds like a pain in the ass. We can fight it out here.\"\n\"Truly? You are at a disadvantage here. Meanwhile, Saber cannot fight at her fullest while she is consumed by worry for her Master. I cannot imagine that would be a satisfying fight.\"",
+      "sourceUnit": "セイバールート十五日目-19:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Someone spits.\nThe other man must've given in.",
+      "sourceUnit": "セイバールート十五日目-19:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Whatever. So I've got a question: What is the Holy Grail?\nI thought it was supposed to manifest when there's only one Servant left. That a lie, then?\"",
+      "sourceUnit": "セイバールート十五日目-19:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that much is true. The Holy Grail will not manifest until only one Servant remains.\nHowever, the vessel itself is another matter.\nIts form is preprepared. The energy then flows into it until the Grail is fully summoned.\"",
+      "sourceUnit": "セイバールート十五日目-19:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"As there are only two Servants remaining, it should have already acquired a significant portion of its nature as the Holy Grail.\nWouldn't you agree, Saber? You are a finalist from the previous war. You must have seen the truth. You know what kind of Grail manifests here.\"",
+      "sourceUnit": "セイバールート十五日目-19:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"Yes. The Grail's true form stands ready. It waits patiently, its cup ready to be filled with the blood of the sacrifices.\nA tragic tale, no? You need not wait any longer. It should be able to grant what you desire now.\nSo there is nothing to be gained from wanton slaughter now.\"",
+      "sourceUnit": "セイバールート十五日目-19:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...What you claim has at least some sense to it.\nBut if that is all true, what of you? Do you not wish for the Holy Grail?\"",
+      "sourceUnit": "セイバールート十五日目-19:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I can make a selection. I will gladly hand over the Grail to the right person.\nSo, to that end, I want to hear from you, Shirou Emiya.\"",
+      "sourceUnit": "セイバールート十五日目-19:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "I'm...moving?\nSomeone grabs my head and jerks me up.\nIt...hurts.\nThe wound in my chest rips open.\nMy world goes white with pain.",
+      "sourceUnit": "セイバールート十五日目-19:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop!\"\n\"Oh, relax. I only need his answer.\nThe Holy Grail only responds to those who have a wish. Surely you must be curious as to whether your Master actually wants the Grail.\"",
+      "sourceUnit": "セイバールート十五日目-19:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I already know that he does not. Shirou has no need of it.\nMy Master is nothing like you.\"",
+      "sourceUnit": "セイバールート十五日目-19:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"He did say that.\n...But dig deeper and you will see that is not so. Dark desires fester in every man. He is no exception.\nIs he so free from sin that he does not curse that day ten years ago? Does he not tremble when he thinks of what it means for his future?\"",
+      "sourceUnit": "セイバールート十五日目-19:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...\nNo, wait.\nWhat the hell is he talking about?\nThe fire ten years ago has nothing to do with this.\nThis is meaningless.\nThere's nothing here.",
+      "sourceUnit": "セイバールート十五日目-19:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, I will open your wound.\nMay God hear your confession, Shirou Emiya.\"",
+      "sourceUnit": "セイバールート十五日目-19:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "My body buckles.\nPain shoots down my spine like lightning. In its wake, I feel my mind separating from my body.\nMy vision goes red.",
+      "sourceUnit": "セイバールート十五日目-19:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "Stop.\nStop.\nStop.\nStop. Stop. Stop.\nStop stop stop stopstopstopstopstopstop!!!\nThere's nothing here!\nRemembering this saves no one!",
+      "sourceUnit": "セイバールート十五日目-19:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Everyone died.\nAll of them.\nI was the only one left, lost amidst the flames.\nAshen corpses beneath smoldering rubble, crying out from every direction.\n...",
+      "sourceUnit": "セイバールート十五日目-19:page45:1"
+    },
+    "page46": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I alone continued on.\nI needed help. I needed someone to save me. I kept on, never once looking down.\nStop.\nThe entire time...\n...there were others calling out for help the moment they saw someone still moving.\nStop.",
+      "sourceUnit": "セイバールート十五日目-19:page47:1"
+    },
+    "page48": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "I knew.\nOf course I knew!\nAnd I pushed through anyway!",
+      "sourceUnit": "セイバールート十五日目-19:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "I turned my back on those voices.\nI turned my back on the sounds of all those trying so frantically to escape.\nI turned my back on those pleading not to die.\nI turned my back on mothers begging me to take their children.",
+      "sourceUnit": "セイバールート十五日目-19:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "I turned my back on the dying gazes of those too weak to ask for help.\nI kept pushing forward, alone, desperate for someone to save me!",
+      "sourceUnit": "セイバールート十五日目-19:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Wait wait wait.",
+      "sourceUnit": "セイバールート十五日目-19:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "I couldn't stand seeing their bodies.\nI couldn't stand seeing people suffer and die.\nI was sure I couldn't save them.\nI was sure they'd die no matter what I did.\nSo I kept pushing on.\nStop.",
+      "sourceUnit": "セイバールート十五日目-19:page53:1"
+    },
+    "page54": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "That's why I never stopped. I thought I had to live, even if just for another second.\nIf people died without being able to do anything,\nso long as I could make it... I thought I had to live.\nStop.",
+      "sourceUnit": "セイバールート十五日目-19:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "But I was destroyed in the process.\nI held back tears and pushed on. I sought escape.\nAnd each step was harder than the last as I ignored every plea for help.\nIt would've been easier...\nIt would've been easier to go on if I asked for forgiveness. So...I never did.",
+      "sourceUnit": "セイバールート十五日目-19:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "Maybe...\nMaybe it was the only way I could own up to the truth. That I was actually helpless to do anything.\nStop.",
+      "sourceUnit": "セイバールート十五日目-19:page57:1"
+    },
+    "page58": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Just as I wished...I alone was saved.\nThe only other children at the hospital were those that had been in areas near the fire.\nI didn't need to know, but the man in the white coat told me anyway.\nIn the depths of those flames...\n...I alone survived.\nPlease, stop.",
+      "sourceUnit": "セイバールート十五日目-19:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I bore witness to so much death and pain.\nI bore witness to endless sorrow.\nSo many died that they had to hold mass funerals.\nI bore witness to so much grief, to so many different sentiments for the dead.\nI thought...\nJust end it already.",
+      "sourceUnit": "セイバールート十五日目-19:page60:1"
+    },
+    "page61": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "I thought I had to remember all of it.\nI had to.\nSo many wanted help, and not one of them got their wish.\nAnd since my wish was granted...it followed that I should take on the weight of their deaths.",
+      "sourceUnit": "セイバールート十五日目-19:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "No.\nI had to. I couldn't go on if I didn't.\nNo more.",
+      "sourceUnit": "セイバールート十五日目-19:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Return return return return.",
+      "sourceUnit": "セイバールート十五日目-19:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "That's why I desperately tried to follow in Kiritsugu's steps.\nFor those I couldn't save...for all I couldn't do...I looked to a hero who could be a savior.\nEverything I once was fell away when I ignored those cries for help.\nI kept moving forward, void of all reason.\nNo more...",
+      "sourceUnit": "セイバールート十五日目-19:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "Please please please.",
+      "sourceUnit": "セイバールート十五日目-19:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "And so, those I could not save passed on one last lesson: go on.",
+      "sourceUnit": "セイバールート十五日目-19:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "...What was lost in all of that?\nAll I thought about was going forward on behalf of the dead.\nI took all the memories I had before that...\n...and locked them away, never to think of them again.",
+      "sourceUnit": "セイバールート十五日目-19:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "The kindness of neighbors.\nBeing with my parents.\nI sealed all that up so I'd never think about it again.\n...As if I were already dead.\nDon't open it up.",
+      "sourceUnit": "セイバールート十五日目-19:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "I was no longer in pain.\nKiritsugu Emiya adopted me, and I was finally happy.\nAnd that's why...",
+      "sourceUnit": "セイバールート十五日目-19:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"So...\nYou never thought just how wrong it was?\"",
+      "sourceUnit": "セイバールート十五日目-19:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "I'm telling you, don't open it!",
+      "sourceUnit": "セイバールート十五日目-19:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh!\"\nAgony and pain.\nPure agony rips through my chest and drags me back to reality.",
+      "sourceUnit": "セイバールート十五日目-19:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...aaah...guh...\"\nThe nausea simply doesn't end.\nMy arms and legs are numb. My head burns.\nI can't breathe.",
+      "sourceUnit": "セイバールート十五日目-19:page74:1"
+    },
+    "page75": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "Their voices continue echoing in my head.",
+      "sourceUnit": "セイバールート十五日目-19:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaagh...ghrrrk!\"\nI vomit blood.\nWas that because I'm on the brink of death...or because my psyche can't endure the voice any longer?\nMy chest hurts.\nMy heart hurts.\nIt hurts so much.\nBut I can't contain it.\nThe wound deep inside me is the source of the pain.\nIt will continue to hurt as long as I have those memories. It will swell up and never heal.",
+      "sourceUnit": "セイバールート十五日目-19:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm seeing things.\nFor a moment, I think I see her. But no, she shouldn't be here.\n\"Agh! Guh...!\"\nBite down on the pain.\nBegging for death is no longer an option.\nEven if she's just some dying dream, I can't let her see me like this... She has to think I'm okay...",
+      "sourceUnit": "セイバールート十五日目-19:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Your wound is deep. It will continue to torment you so long as it remains. Do not end your life still bearing it.\"\nI can make out the priest's voice.\nIt doesn't sound like him. It's too warm, too compassionate.",
+      "sourceUnit": "セイバールート十五日目-19:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"You said you do not need the Holy Grail.\nWas that true? If you could undo what happened ten years ago, would you not seek that power?\nWith it, you can save all that was lost on that day.\nEliminate that calamity, no longer be bound to Kiritsugu Emiya, be what you were originally meant to be.\nDo you not want that? Is that not your salvation?\"",
+      "sourceUnit": "セイバールート十五日目-19:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "Undo what happened ten years ago?\nRemake the person I am now, who survived at the cost of everyone else that day?\nNo, even beyond that... If I could make everything as if it never happened, and no one would be hurt...",
+      "sourceUnit": "セイバールート十五日目-19:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would I...\"\nI shake my head.\nFevered as I am, and completely unable to think, I still reject the idea and the images it raises.\nI curse this very weakness.\nBecause they're...",
+      "sourceUnit": "セイバールート十五日目-19:page82:1"
+    },
+    "page83": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "The voices echo in my head.\nMy fingers desperately claw at the wet floor.\nHelp me.\nEvery single one of them cries out that they want to go back.",
+      "sourceUnit": "セイバールート十五日目-19:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "...\n...And I wanted that too. Even if my life was nowhere near as horrific as theirs.\nAfter Kiritsugu adopted me...\nI still returned to that empty field many times.\nI still returned, though there was nothing there. I opened a front door that no longer existed. I walked halls that had burned to ash years before. And I smiled at my departed mother.",
+      "sourceUnit": "セイバールート十五日目-19:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "...I wanted to go back to before it all disappeared...\n...and wait for dawn to come and wake me from this nightmare.\nNo such miracle happened. Instead, I was left with this painful reality.\nBut if I could live in a world where that never happened, where nobody was hurt...surely I...",
+      "sourceUnit": "セイバールート十五日目-19:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, answer. If you so wish, I will grant you the Grail.\"\nThe priest with the miraculous chalice makes his offer.",
+      "sourceUnit": "セイバールート十五日目-19:page87:1"
+    },
+    "page88": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "These voices will go away...if I wish for it.\nOrphaned children. If fate had taken even a slightly different turn, I would be here with them.\nI shouldn't even need to think about it.\nI shouldn't need to... So why...?",
+      "sourceUnit": "セイバールート十五日目-19:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I can't wish for that.\"",
+      "sourceUnit": "セイバールート十五日目-19:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "I face the corpses.\nAs I refuse, I grit my teeth.",
+      "sourceUnit": "セイバールート十五日目-19:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "My response is to deny them.\nWhatever the Holy Grail is...\nI'm not going to wish the dead return or to change the past.",
+      "sourceUnit": "セイバールート十五日目-19:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"...You can't change the past.\nThe dead won't come back. What's done is done. I can't wish for that.\"",
+      "sourceUnit": "セイバールート十五日目-19:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "Tears sting my cheeks.\nI scream to the world that a miracle is impossible, and every time, my own conclusion makes me cry.\nWhy is the \"miracle\" of wanting ordinary happiness too much to ask for?",
+      "sourceUnit": "セイバールート十五日目-19:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"But the Holy Grail would make it possible. Everything will be as you make it.\"\nSo he claims.\nBut I can't agree.",
+      "sourceUnit": "セイバールート十五日目-19:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "Even if I could change the past, I shouldn't.\nI can't. If I do, everything becomes a lie.\nEvery tear.\nAll that agony.\nThe memory of what was.\n...Even that cold reality, wretched as it is in my heart.",
+      "sourceUnit": "セイバールート十五日目-19:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "Everyone who died, screaming in agony.\nEveryone who risked their lives to help another.\nEveryone who mourned the fallen.\nIf I were to just...make it as though none of that happened, where would all of that go? What would I be doing to them?",
+      "sourceUnit": "セイバールート十五日目-19:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "The dead wouldn't return.\nReality can't be overturned.\nTo continue onward, bearing the weight of all that pain...isn't that the very mark that proves something was there once?",
+      "sourceUnit": "セイバールート十五日目-19:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "Everyone dies eventually. And sorrow fills the void they leave behind.\nBut...pain isn't the only thing left behind.\nIt's the suffering that makes the goodness shine all the brighter.\nThose deaths, they shaped me.\nMy memories of Kiritsugu protect me.\nAnd those memories form the path that eventually intertwines with others.",
+      "sourceUnit": "セイバールート十五日目-19:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "Even though...\nEven though all of that will eventually be forgotten.",
+      "sourceUnit": "セイバールート十五日目-19:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"...This path...isn't wrong.\"\n\"I see. Then—\"\n\"I don't need the Holy Grail. I can't stray from this path, for all those who were left behind, who laid it.\"",
+      "sourceUnit": "セイバールート十五日目-19:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "I speak firmly, even from the depths of this torment.\nWilling myself to hold onto this conscious thought, I force myself to remain upright.",
+      "sourceUnit": "セイバールート十五日目-19:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "And it's then that I realize...\nI can't hear the voices.\nThey're not echoing in my head anymore.\nI wonder...what they thought of my answer.",
+      "sourceUnit": "セイバールート十五日目-19:page103:1"
+    },
+    "page104": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page105": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

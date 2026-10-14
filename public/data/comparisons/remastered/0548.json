@@ -1,0 +1,102 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0548",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... I have a bad feeling about this, but I don't have a choice if that's your condition. I'll do what you want.\"\nI convince myself to say yes, even if it's heartbreaking.",
+      "sourceUnit": "桜ルート九日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I give her my answer...\nIs it just me, or does Tohsaka look displeased?",
+      "sourceUnit": "桜ルート九日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What, Tohsaka? Was that the wrong answer?\"\n\"No. You gave the ideal answer, even if it's a little lacking. We'll go ahead with that, since you agree.\nI'm going to cast a spell on you, then. It'll make your words true.\"",
+      "sourceUnit": "桜ルート九日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Make my words true?\"\n\"A Geass—a magical compulsion. It's one of the strongest curses there are, and not to be used lightly.\nWith your consent, even I can secure this agreement.\"",
+      "sourceUnit": "桜ルート九日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"A curse of compulsion...like a Servant's Command Spell?\"\n\"Yeah, but less versatile.\nIt's more like restriction of movement, and I can't force you to give up your life. I'll make it last until the end of the Holy Grail War. You don't have a problem with that, do you?\"",
+      "sourceUnit": "桜ルート九日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...sure, that's fine.\"\n\"Then close your eyes and don't move for a bit. Don't activate your Magic Circuits, either.\"",
+      "sourceUnit": "桜ルート九日目-14:page5:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "A fire lights up in my very core.\nTohsaka's chant permeates not just my body but my heart, intertwining with my nerves.",
+      "sourceUnit": "桜ルート九日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I hear a sound like a bottle shaking.\nNext to my heart,\na smaller heart comes into being.",
+      "sourceUnit": "桜ルート九日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The bell rings to announce the end of lunch time.\nLunch went by in a flash. Tohsaka's magecraft must have had me in a trance.",
+      "sourceUnit": "桜ルート九日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, done. Our contract is active.\"",
+      "sourceUnit": "桜ルート九日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's meet up at the front gate after school, then.\nI'm going to have you do club activities at my house for the time being.\"\n\"Um. Club activities? At your house?\"",
+      "sourceUnit": "桜ルート九日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Since we're teaming up, I should teach you to be able to fight on your own as much as I can, right?\n...I already know you're an amateur since the other night, though, so we'll need to have you come over multiple days.\"",
+      "sourceUnit": "桜ルート九日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't mind. I'd appreciate that, actually.\nUm, are we starting today?\"",
+      "sourceUnit": "桜ルート九日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously. We need to gauge your abilities first, then figure out how to proceed from tonight.\nYou'll be getting home pretty late, but that's fine since you live alone anyway, right?\"\n\"Huh? Oh, right.\"",
+      "sourceUnit": "桜ルート九日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka leaves with a casual wave.\nA chime announces the end of lunch.\nToday's Friday. Classes run until sixth period, and we get out after 3:00 PM.",
+      "sourceUnit": "桜ルート九日目-14:page15:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, man. I told Sakura I'd come home early, but I can't just cancel on Tohsaka the very first day.\"\nI'm sorry to Sakura who I'm taking care of at home, but I'll need to join Tohsaka today.",
+      "sourceUnit": "桜ルート九日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...Well, Tohsaka isn't a monster.\nIf I explain Sakura's situation, then there's a chance she'll let me go home early just for today... Yeah. I'm pretty sure she will.",
+      "sourceUnit": "桜ルート九日目-14:page18:1",
+      "recoveredDelimitedTail": true
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

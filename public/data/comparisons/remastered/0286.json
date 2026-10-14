@@ -1,0 +1,41 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0286",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There are only two sets of shoes at the entrance.\nFuji-nee's heels and Saber's loafers.",
+      "sourceUnit": "凛ルート六日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm worried, so I go to the living room without announcing that I'm home.\nBriskly, I make my way down the hall.\nAs expected, Sakura isn't in the living room.\nInstead, I spy someone that looks suspiciously like Fuji-nee doing something that might be cooking in the kitchen.",
+      "sourceUnit": "凛ルート六日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, welcome back, Shirou. What's with that surprised face?\nDid something happen?\"\nShe puts down what appears to be flour. If I didn't know any better, she looks like she's been mixing something.",
+      "sourceUnit": "凛ルート六日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Well, yeah. I am surprised.\nUm, everything's so different than usual.\"\nActually, I don't remember how many years it's been since I last saw Fuji-nee doing something like cooking.",
+      "sourceUnit": "凛ルート六日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Different than usual...? Oh, you must mean Sakura.\nShe went home. Someone from her home called her to come back.\"",
+      "sourceUnit": "凛ルート六日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Shinji must've called her.\"\nHe didn't need to worry, but I guess he wanted to take care of it as soon as possible.\n\"Shinji? Hmm, whatever.\"\nAfter tilting her head as if she's not satisfied, she goes back to what she was doing.",
+      "sourceUnit": "凛ルート六日目-00:page5:1"
+    },
+    "page6": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

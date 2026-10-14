@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0371",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Now is the chance.\nIt's not just an unexpected intrusion.\nTohsaka and Archer, Caster and Kuzuki. If their powers are equal, then even I can be of help.",
+      "sourceUnit": "凛ルート十二日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I can let Archer take care of Caster, so if I can stop Kuzuki even a little, Tohsaka can shoot him from a distance...!",
+      "sourceUnit": "凛ルート十二日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Idio—Shirou...!?\"\n...\n...",
+      "sourceUnit": "凛ルート十二日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I run down the stairs.\nI have Strengthened the bamboo sword in my hand.\nI obviously subdued the pain from my wound.\nTohsaka aside, I can't let Caster and the others know that I'm injured.",
+      "sourceUnit": "凛ルート十二日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you serious...!? Why are you here...!?\"\n\"What are you saying? You're the one who said to go to the church.\nI didn't think I'd come across such a bad situation either.\"",
+      "sourceUnit": "凛ルート十二日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka bites her tongue in spite of herself.\nAll right. I said that on a whim, but it seems like I was able to convince Tohsaka more than I expected.",
+      "sourceUnit": "凛ルート十二日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, I'm going to help. I should be of use in this situation, right?\n...Complain after we defeat Caster.\"\nI cautiously approach Kuzuki so that I can protect Tohsaka.",
+      "sourceUnit": "凛ルート十二日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...You fool. You and Rin would have survived if you had just watched quietly.\"",
+      "sourceUnit": "凛ルート十二日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nHe mutters to himself, as if he has given up.\nBefore I realize what that means...\n\"Caster, this makes three against three. You should have no complaints. Get Saber.\"",
+      "sourceUnit": "凛ルート十二日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n...Saber's bindings are released.\nThe blond girl that was crucified falls powerlessly\nto the ground, and...",
+      "sourceUnit": "凛ルート十二日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No way...!? Saber shouldn't be under control yet...!\"\n\"Yes. That is why I used my Command Spell and ordered her to kill you all. That was my command as her Master. I did not want to use it, but I have to, right?\"",
+      "sourceUnit": "凛ルート十二日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...Saber stands up.\nHer body is covered with silver armor, and in her hands is a golden sword that I've never seen before...",
+      "sourceUnit": "凛ルート十二日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Good grief, you got me, boy. Now I only have one Command Spell left. This is for my protection, so I cannot force Saber to do things anymore.\n...My plan to make the Holy Grail eternal is now foiled. Now I can only make one wish come true, but...\"",
+      "sourceUnit": "凛ルート十二日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"But before that, I shall at least have some fun.\nNow, Saber. Show your true powers to these kids who ruined my wish.\"",
+      "sourceUnit": "凛ルート十二日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Saber, holding her golden sword, steps towards us.",
+      "sourceUnit": "凛ルート十二日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nNow that things have come to this, Archer is silent.\nInstead of telling Tohsaka to run away, he stands in front of Saber.\nThat is...\nThe final act of loyalty from the knight who understands that he can't protect his Master no matter what he does.",
+      "sourceUnit": "凛ルート十二日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Saber and Caster ready their attack.\nThere's no way to counterattack nor is there time to run away.\nHow can a mere human defend against it when there is only an instant of life expectancy left, and even Archer has abandoned all hope?",
+      "sourceUnit": "凛ルート十二日目-05:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

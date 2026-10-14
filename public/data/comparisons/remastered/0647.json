@@ -1,0 +1,151 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0647",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "This is clearly a trap.\nI'm curious about what Zouken has to say, but I can't leave Sakura right now.",
+      "sourceUnit": "桜ルート十三日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse. I don't trust you. Tell him to come here if he wants to talk.\"\n\"I see. Then I shall relay your message.\"",
+      "sourceUnit": "桜ルート十三日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "That's all Assassin says before he disappears.\nHe's probably on the way back to Zouken by now.",
+      "sourceUnit": "桜ルート十三日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Good. I made the right choice.\"\nEven if I got to meet Zouken alone, I have no way to defeat him.\nAnd he's a monster that can't be reasoned with.\nI shouldn't face Zouken until we have all of our weapons at the ready.",
+      "sourceUnit": "桜ルート十三日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...The Jeweled Sword, huh.\"\nIt's the name of the trump card that Tohsaka and Illya are trying to make.\nArcher's arm contains records of a thousand or more famous, magical swords, but this isn't among them.",
+      "sourceUnit": "桜ルート十三日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...But we can win if I replicate this. I can believe in that, right, Tohsaka?\"\nI rest my heavy body on the ground.\n...I'm a little tired. I should sleep.\nOnce I wake up, I can check on Sakura, make some food, and help Tohsaka and Illya with their work...",
+      "sourceUnit": "桜ルート十三日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm...mm.\"\nI awaken to the presence of dinner.\nDinner has a \"presence\", of course. It's the sound of a chef knife on a cutting board, the low chatter of the TV, and the smell of delicious food in the making.",
+      "sourceUnit": "桜ルート十三日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh?\"\nI find Sakura's pajamas, an empty bowl, and a wet towel in the room.",
+      "sourceUnit": "桜ルート十三日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nI search my memory.\nBased on the situation, I checked on Sakura sometime in the afternoon.\nI try to recall the details, but stop.\nThat doesn't matter now.\nIt just slipped my mind, so it isn't worth thinking about now.",
+      "sourceUnit": "桜ルート十三日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka must be making dinner.\nSakura and Illya aren't here.\nSakura must be in her bedroom, while Illya's in the tatami room.",
+      "sourceUnit": "桜ルート十三日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You're back? You said you were going to take a break since you're tired.\"\n...\nMy face stiffens for an instant.\n\"Nah, I'll help. You must be tired, too. Sorry for dumping it all on you.\"\nI respond as naturally as I can to avoid suspicion.",
+      "sourceUnit": "桜ルート十三日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Dummy. I appreciate the thought, but you can't even hold a knife with that arm. I've got tonight, so go and rest.\"\nI hear the satisfying sound of knife on cutting board.\nTohsaka's finely slicing a lot of bell peppers. Maybe we're having vegetable stir-fry tonight.",
+      "sourceUnit": "桜ルート十三日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, I should get ready to take a bath. I'll take care of the laundry too, so can I take in your clothes?\"\n\"O-of course not, you idiot! I'll do that myself!\"\nThe sound of the knife becomes fierce and gallant.\nTohsaka's cutting beef into chunks. Maybe we're having beef for dinner.",
+      "sourceUnit": "桜ルート十三日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder which it is.\"\nI grumble as I start to make my way to the bathroom.\nWhatever we're having, I'm looking forward to the final—",
+      "sourceUnit": "桜ルート十三日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...?\"\nThe lights go out on their own.\n\"Is it a power outage...?\"",
+      "sourceUnit": "桜ルート十三日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Looks like it. I didn't touch the light switch.\"\n\"...Yeah. There was no response from the Bounded Field, so it can't be an intruder.\"\n\"Yeah. Even if Zouken attacks, we'd at least hear an alarm—\"",
+      "sourceUnit": "桜ルート十三日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "No, we wouldn't.\nRemember what happened this morning.\nAssassin might be able to breach the Emiya house's Bounded Field without setting it off!",
+      "sourceUnit": "桜ルート十三日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Stay here, Tohsaka. I'm going to check on things, just in case.\"\n\"Huh...? Hold on, I should go too. It's dangerous on your own.\"",
+      "sourceUnit": "桜ルート十三日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right... No, you should go to Sakura. I'll join you once I get Illya.\"\n\"Okay. I got Sakura.\"",
+      "sourceUnit": "桜ルート十三日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I go to Illya's tatami room.\nIt's quiet, but the house feels the way it always does.\n\"Maybe I'm overthinking it. It's just a blackout.\"\nStill, I should wake Illya up while I'm at it.\nEven if the power's out, it's almost time for dinner.",
+      "sourceUnit": "桜ルート十三日目-02:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, are you awake?\"\nI slide open the door.\n...\nI'm greeted by a vicious mural of bloodstains.",
+      "sourceUnit": "桜ルート十三日目-02:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...\"\nIllya isn't here.\nAll I see in the room is blood.\nI think I see something that looks like a bundle of silver thread in the corner of the blood-drenched room, but that isn't Illya.\nIt's not Illya anymore.",
+      "sourceUnit": "桜ルート十三日目-02:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I run out of the room.\nMy mind has gone stone cold, and I head for the guestrooms.\nSakura's in danger.\nI grasp the situation in a second without really understanding anything at all, and take the shortest path through the backyard.",
+      "sourceUnit": "桜ルート十三日目-02:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "There...\nI see something that shouldn't exist.",
+      "sourceUnit": "桜ルート十三日目-02:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh.\"\nIt's like the story about that ghost under a willow tree.\nWhy didn't the Bounded Field react?\nWhat is this thing doing here?\nBefore I even process my own question,\nI lose any chance to flee, any avenue of escape.\nShadows already cover the entire house.\nIt's made of shadow, so there's no getting away from it in the lightless night.",
+      "sourceUnit": "桜ルート十三日目-02:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I learned that last night.\nThe second I run into this thing, my life is over.",
+      "sourceUnit": "桜ルート十三日目-02:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "The ribbon-like tentacles impale me through the chest like a crowbar.\nIt easily tears me open,\nlike a blooming red flower.\nThis must be how Illya stopped being Illya.",
+      "sourceUnit": "桜ルート十三日目-02:page26:1"
+    },
+    "page27": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十三日目-02:page27:1"
+    },
+    "page28": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

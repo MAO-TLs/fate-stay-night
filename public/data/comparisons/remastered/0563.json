@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0563",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm sure I'll regret it if I keep lying to myself, even if I keep going.",
+      "sourceUnit": "桜ルート九日目-36:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Where responsibility lies. Good and evil.\nThe thought of losing Sakura weighs heavier on me than any of those concerns.\n...It's not even about making up my mind.\nI just want to protect Sakura.",
+      "sourceUnit": "桜ルート九日目-36:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. It's just natural to protect the girl I love. Even I know that.\"\n\"Right? And I'll be on your side because that's how you are.\"",
+      "sourceUnit": "桜ルート九日目-36:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Illya laughs happily.\n...\nHer innocence gives me courage.\n...I don't know if this choice is wrong or not.\nBut I'm sure I won't regret it.",
+      "sourceUnit": "桜ルート九日目-36:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Illya. I need to go.\"\n\"Yeah. I'll forgive you, because you're making a face like that. See you next time, Shirou.\"\n\"Yeah. Bye, Illya. And thanks.\"",
+      "sourceUnit": "桜ルート九日目-36:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I leave the park.\nShaking off my doubts, I run to the church.",
+      "sourceUnit": "桜ルート九日目-36:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I've decided on my answer.\nI don't know how much Sakura has supported me since my old man died.",
+      "sourceUnit": "桜ルート九日目-36:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I've always thought of her as my kouhai, and tried not to see her as a member of the opposite sex.\nI kept lying to myself because I wanted her to stay by my side.\nBut this isn't a situation I can lie my way through anymore.",
+      "sourceUnit": "桜ルート九日目-36:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Shirou Emiya doesn't want to lose Sakura Matou.\nThat's all.\nIf I can't think of anything, then I can just trust in my one, sure feeling.",
+      "sourceUnit": "桜ルート九日目-36:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Even so, in the depths of my mind...\n\"If you try to protect a single person...\"\nI can't shake off Archer's prophetic words, no matter how hard I try.",
+      "sourceUnit": "桜ルート九日目-36:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It begins to rain.\nThe winter rain mercilessly pelts me as I run.",
+      "sourceUnit": "桜ルート九日目-36:page10:1"
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

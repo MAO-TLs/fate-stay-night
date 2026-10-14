@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0214",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe laughter draws near.\nAs soon as I try pushing myself up, lightning courses through my spine.\nThe pain screams through every fiber of my being that I can't fight anymore.",
+      "sourceUnit": "セイバールート十四日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can't get up.\nEven if I could, I'm too much of a mess. I can't beat him.\nAnd in that moment of realization, my body, so hell-bent on survival, finally gives up.",
+      "sourceUnit": "セイバールート十四日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The power that had been protecting me all this time fades.",
+      "sourceUnit": "セイバールート十四日目-03:page2:1"
+    },
+    "page3": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

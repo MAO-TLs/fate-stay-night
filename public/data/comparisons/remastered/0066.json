@@ -1,0 +1,396 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0066",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can already feel myself getting less and less stressed once Tohsaka leaves.\nMy feverish body is suddenly overcome with exhaustion, and I collapse to the floor.\n...\nI lie on my side to try to ignore the nausea creeping back over me.",
+      "sourceUnit": "セイバールート四日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The ticking of the clock echoes throughout the quiet living room.\n\"A battle between Masters, huh?\"\nI still don't understand what the heck that is.\nAll I know is that I don't know much.\nIt may have felt more real to me if I was even a little more interested in the Holy Grail.",
+      "sourceUnit": "セイバールート四日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know what it is, but the only thing I can feel for the Holy Grail is disgust.\"\nA Grail that supposedly grants wishes.\nI don't know what it is exactly, but it's an artifact powerful enough to summon Servants.",
+      "sourceUnit": "セイバールート四日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "It may not grant every wish, but it's more than valuable enough for a mage.\nAnd yet, I have no interest.\nI might be skeptical because it doesn't feel real to me, but I also feel it's not fair to take a shortcut like that.",
+      "sourceUnit": "セイバールート四日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Plus it doesn't sit well with me, knowing that the selection process is just battle.\"\nYet, this is a game of musical chairs.\nNo matter how I feel about it, I'll need to overcome my competition to survive, now that I'm involved.\nAnd one of the methods to get rid of competition could be to involve and harm other innocent people.",
+      "sourceUnit": "セイバールート四日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "That's why...\nRejoice, Shirou Emiya.\nMy reason to fight in the Holy Grail War is not to survive and win.\nYour wish will finally be granted.\nIt's to do everything I can to stop those who will try to win by any means necessary.",
+      "sourceUnit": "セイバールート四日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI feel dizzy again.\nThat's not surprising.\nNo matter how much my body appears healed, it was nearly split in half just a few hours ago.\nThis feeling isn't going anywhere anytime soon. Honestly, I wouldn't be surprised if I felt this way for the rest of my life.",
+      "sourceUnit": "セイバールート四日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I was very nearly killed three times in one day.\nThere's no denying that someone with no power will wind up hurt if they participate in battle.\nMy own ineptitude nearly cost me my own body.\nThen that girl got hurt trying to protect me.",
+      "sourceUnit": "セイバールート四日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Ugh!\nI try to sit back up.",
+      "sourceUnit": "セイバールート四日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Right! Her!\"\nI can't believe myself.\nI completely forgot about her because Tohsaka had settled herself in my living room.\nMaybe it's more that I was just avoiding thinking about her.\nI'm such a coward.\nI was avoiding thinking about the girl who was bleeding miserably...\n...even though I was the reason she got hurt in the first place.",
+      "sourceUnit": "セイバールート四日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't believe Tohsaka left out the most crucial point...!\"\nI shove myself back up to my feet.\nTohsaka never said anything about Saber.\nThe only thing she said was that she and Saber brought me home, but she didn't elaborate.\nThe very first thing I should've asked was whether the girl was safe, since Berserker wounded her.",
+      "sourceUnit": "セイバールート四日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...\"\nI suppress my nausea as I make my way through the mansion.\nSaber is nowhere to be found. I even checked the detached guest rooms, but I can't find her.",
+      "sourceUnit": "セイバールート四日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That's weird. That armor isn't exactly camouflage...\"\nEven so, a fully armed and armored Saber still eludes me.\nSupposedly Servants can turn into spirit forms, but unfortunately she can't with me.\nNo, first of all...",
+      "sourceUnit": "セイバールート四日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Even though I'm called a Master, I don't know anything about her.\"\nI don't even know what Saber is or how Servants are able to exist.\nIt's like a new soldier suddenly gets awarded with a tank.",
+      "sourceUnit": "セイバールート四日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "But what's fortunate is that this tank has an autopilot. Even if the soldier is incompetent, the tank will run on its own.",
+      "sourceUnit": "セイバールート四日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nI bang my head against the pillar, frustrated by my own thoughts.",
+      "sourceUnit": "セイバールート四日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"What's with these negative thoughts, you idiot. You're whining.\"\nI apologize to the blonde girl internally.\nRight now, I need to find her and see if she's okay.",
+      "sourceUnit": "セイバールート四日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"She's not here either...\"\nI've looked around the entire house.\nIt's the size of a traditional Japanese inn, but I played hide-and-seek with Fuji-nee when I was a kid, so I know the most efficient way to search it.\nShe must be in the dojo or the shed if she isn't in the house itself.",
+      "sourceUnit": "セイバールート四日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"The yard, the shed, or...\"\nShe told me she was going to protect me.\nSo she's not likely to leave the house.",
+      "sourceUnit": "セイバールート四日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, maybe she's...\"\nI suddenly remember another place.\nIf she's not in the house, the yard, or the shed where we first met...\nThere's another big building within the compound.",
+      "sourceUnit": "セイバールート四日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"That's where she'll be.\"\nI head over, as quick as I can.\nMy destination is the kendo dojo in a detached building.",
+      "sourceUnit": "セイバールート四日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm getting a little nervous.\nIf she's not there, I'll have to accept that she's just disappeared.",
+      "sourceUnit": "セイバールート四日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI realize something.\nI have no clue who she is, but I still want her to be here.",
+      "sourceUnit": "セイバールート四日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "I enter an enclosed room, completely absent any ornamentation.\nIt's not a room to live in, and it's a dojo designed only for training.\nWithin the tranquil room, lit by the sun...",
+      "sourceUnit": "セイバールート四日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...she sits, as if she's always belonged there.",
+      "sourceUnit": "セイバールート四日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe place is hushed, serene.\nThe sunlight coming in is white and untainted, allowing the girl to be one with the dojo.",
+      "sourceUnit": "セイバールート四日目-06:page25:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "It's the same girl who wielded her sword without hesitation, protecting me from Lancer last night under the moonlight.\nThat golden mane of hers, which had soaked in the blue-white moonlight now glitters in the sunlight.",
+      "sourceUnit": "セイバールート四日目-06:page26:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd then I remember.\nThis is exactly how I felt when I first saw her.\nShe was clad in armor, wielding her sword, and silently overwhelming the enemy.",
+      "sourceUnit": "セイバールート四日目-06:page27:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "The extraordinary sight of her isn't what surprised me.\nIn fact, it didn't matter how she looked. Even if she'd been covered in mud, I don't think my reaction would have been different.\nThe girl who had so moved me is still right here, in front of me.",
+      "sourceUnit": "セイバールート四日目-06:page28:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nI just...admire her, forgetting even to breathe.\nTo hell with being a Master and the Holy Grail War.\nIn this moment, I have completely accepted the girl called Saber.",
+      "sourceUnit": "セイバールート四日目-06:page29:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I don't know how much time elapsed.\nSaber opens her eyes, as if waking from a slumber.\n\"Oh...\"\nI sound disappointed, and my voice echoes through the dojo in the silence.\nSaber notices, and stands up without making a sound.",
+      "sourceUnit": "セイバールート四日目-06:page30:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe walks toward me, before I can think of what to say.",
+      "sourceUnit": "セイバールート四日目-06:page31:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"You are awake, Shirou.\"\nHer voice is serene.\nSomething rich and calm about her voice hangs in the air.",
+      "sourceUnit": "セイバールート四日目-06:page32:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I just woke up.\"\nI managed to answer, at least.",
+      "sourceUnit": "セイバールート四日目-06:page33:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Is something the matter? Perhaps you're still not fully recovered...?\"\n\"Uh...n-no! I'm fine! I feel real good!\"\nI recoil from her.",
+      "sourceUnit": "セイバールート四日目-06:page34:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI avert my eyes and try to get my heartbeat under control before my chest bursts.",
+      "sourceUnit": "セイバールート四日目-06:page35:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Get a hold of yourself! Why are you getting worked up like this...!\"\nI take a deep breath.\n...But I don't think this feeling is going away anytime soon.",
+      "sourceUnit": "セイバールート四日目-06:page36:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...Man, why did she have to change...?\"\nSaber's appearance is drastically different from yesterday.\nHer outfit now is so ordinary, in stark contrast to her armor.\nHer appearance takes me by surprise. She seems more...real, which confuses the hell out of me.",
+      "sourceUnit": "セイバールート四日目-06:page37:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...Seriously, she's drop-dead gorgeous.\nI mean I saw that yesterday, but it's actually setting in now.",
+      "sourceUnit": "セイバールート四日目-06:page38:1"
+    },
+    "page41": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\nAs soon as we make eye contact I can feel my nervousness grow.\nThen again, I wasn't looking everywhere for her just to stay silent.\nIt's uncomfortable, but I can't let it be awkward forever.",
+      "sourceUnit": "セイバールート四日目-06:page39:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...right? This is actually the first time we've sat down to talk...\"\nI bite the bullet.\nBut then...",
+      "sourceUnit": "セイバールート四日目-06:page40:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Before that, there is something that I would address regarding last night.\"\nShe interrupts me, obviously displeased, making her earlier calm hard to fathom.",
+      "sourceUnit": "セイバールート四日目-06:page41:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Sure. What is it?\"\n\"As I said: last night.\nYou are my Master. It is troubling if you take such actions. Combat is my territory, so please stay behind me and out of the direct line of fire. I cannot protect you when you go out on your own, apparently determined to die in vain as you so nearly did.\"",
+      "sourceUnit": "セイバールート四日目-06:page42:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Saber doesn't mince words.\nHer clipped tone is enough to make me forget my anxiety.",
+      "sourceUnit": "セイバールート四日目-06:page43:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what the hell! If I hadn't intervened, you'd have been cut in half!\"\n\"Perhaps I would have died. But you would not have been hurt. Let me repeat myself. Do not do that again. My Master need not defend me, nor is there any reason to do so.\"",
+      "sourceUnit": "セイバールート四日目-06:page44:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "The girl speaks frankly.\nShe's very...clerical.\n\"Wha... Don't be stupid! I don't need a reason to protect a girl!\"\nThe words just pop out before I can think about it.",
+      "sourceUnit": "セイバールート四日目-06:page45:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Saber stiffens, as if surprised to see me upset at her.",
+      "sourceUnit": "セイバールート四日目-06:page46:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...\"\nI find myself taking a step back under her severe expression.\nNow I just feel embarrassed, like I've said something incredibly tone-deaf.\n\"A-anyway, thanks for taking me home. I appreciate that.\"",
+      "sourceUnit": "セイバールート四日目-06:page47:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"You are most welcome. It is a Servant's duty to protect their Master, but it is still nice to be acknowledged. You are very courteous, Shirou.\"\n\"I don't think I'm particularly polite, actually.\"",
+      "sourceUnit": "セイバールート四日目-06:page48:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "There's something more pressing that I need to bring up.\nSomething I should have asked as soon as I got home yesterday.\nIs she willing to be my Servant, and is she really all right with\nfighting with me in this war?",
+      "sourceUnit": "セイバールート四日目-06:page49:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's get back on topic, Saber. Oh, um, I can call you Saber, right?\"",
+      "sourceUnit": "セイバールート四日目-06:page50:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. As a Servant who has formed a contract with you, I am your sword. I shall follow your orders, attack your enemies, and protect you.\"",
+      "sourceUnit": "セイバールート四日目-06:page51:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "Saber does not hesitate in the slightest to give her answer.\nHer tone leaves no room for doubt.",
+      "sourceUnit": "セイバールート四日目-06:page52:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"You are my sword, huh? To win the Holy Grail thing?\"\n\"Is that not why you summoned me?\"\n\"No. I wound up summoning you because—\"",
+      "sourceUnit": "セイバールート四日目-06:page53:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...I couldn't just tell her it was a big, weird coincidence.\nAnd actually, I didn't even summon her.\nSaber just appeared when I was in trouble and saved me.",
+      "sourceUnit": "セイバールート四日目-06:page54:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "And here we are.\nI became Saber's Master, and I got looped in this battle to the death...this Holy Grail War.\nI didn't choose any of this.\nI'm still just an apprentice mage who just got caught up in a battle way beyond my abilities—",
+      "sourceUnit": "セイバールート四日目-06:page55:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. So what about it?\nI'm already resolved to fight, no matter what. There's no point in me crying over my situation now.\"",
+      "sourceUnit": "セイバールート四日目-06:page56:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "I shake my head, trying to stop myself from whining.\nNo more of that.\nI've already said I'd fight.\nI can't just drop everything and run.\nThis will be the last time I whine aloud or think negatively.\nNo matter how I get involved, I've decided to fight.",
+      "sourceUnit": "セイバールート四日目-06:page57:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou?\"\n\"...Uh, it's nothing.\nBut I'll need to warn you: your chances of winning are pretty slim with me. I don't have any knowledge or power like Tohsaka. We could very well end up in another situation like last night. Are you still okay with that?\"",
+      "sourceUnit": "セイバールート四日目-06:page58:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you saying you have no intention of fighting?\"\n\"I have the will to fight. I'm only asking if you still want to team up with me, knowing how slim the odds are.\nHow I got to this conclusion doesn't matter...all that matters is that I've decided to fight this battle.\nThat's why...\"",
+      "sourceUnit": "セイバールート四日目-06:page59:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "I don't think it's right for someone to get hurt on my behalf.\nEven if I'm weak, having Saber fight and...\n...having her get hurt like that...\nI can't stand that happening again.",
+      "sourceUnit": "セイバールート四日目-06:page60:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"You are my Master, Shirou. That is an immutable fact. Servants do not have the freedom to choose their Masters.\"",
+      "sourceUnit": "セイバールート四日目-06:page61:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's right.\nThat is the whole reason Saber is my Servant.\nIf it's true, I'll need to respect Saber's needs and actions as best I can.",
+      "sourceUnit": "セイバールート四日目-06:page62:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. Then you're okay with me being your Master.\"\n\"Yes. But I also want you to know that I will not allow my Master to be defeated.\nIf you have no chance for victory, I must create one.\nI will utilize every opportunity available for you to obtain the Holy Grail.\"",
+      "sourceUnit": "セイバールート四日目-06:page63:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "To obtain the Holy Grail...\nTohsaka said Servants also have a wish they want granted.\nSaber is no exception.\nThat's why she hasn't hesitated up to this point.\nBut it's also why...",
+      "sourceUnit": "セイバールート四日目-06:page64:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on, Saber.\nYou said any means possible, right? Does that mean you'll stop at nothing to win? Like, you might even attack people to gain power—\"",
+      "sourceUnit": "セイバールート四日目-06:page65:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I can't finish my sentence.\nSaber looks at me as if she's looking at an enemy.",
+      "sourceUnit": "セイバールート四日目-06:page66:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, that is not what I mean by any means possible.\nI can only do things I allow myself to. It is impossible for me to betray my own beliefs. Harming unarmed innocents goes against a knight's oath.\"",
+      "sourceUnit": "セイバールート四日目-06:page67:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"However, I must obey if you order so. In that case, you will have to use one of your Command Spells in compensation.\"\nI get overwhelmed by the edge in her voice.",
+      "sourceUnit": "セイバールート四日目-06:page68:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nAt the same time, I feel relief flooding through me.\nSaber seemed like a robot because of her extraordinary power and lack of hesitation, but I know now she's not some cold-blooded killer.",
+      "sourceUnit": "セイバールート四日目-06:page69:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I wouldn't make you do anything like that.\nJust as you say, we have to do our best with what we can do. ...I'm really sorry. What I've said must've been insulting.\"",
+      "sourceUnit": "セイバールート四日目-06:page70:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... No, I also failed to grasp your intentions and jumped to conclusions. You are not at fault, so may you please raise your head...?\"",
+      "sourceUnit": "セイバールート四日目-06:page71:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh, I bowed without realizing it.\"\nI raise my head.\n...\nI don't know what's so funny, but Saber has a small smile on her face.",
+      "sourceUnit": "セイバールート四日目-06:page72:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI'm glad she seems happy, so I don't press her.",
+      "sourceUnit": "セイバールート四日目-06:page73:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, I forgot to bring this up.\nIn addition to doing everything we can, I've decided to team up with Tohsaka for the time being. Remember her? The girl who was with us last night, Archer's Master.\"",
+      "sourceUnit": "セイバールート四日目-06:page74:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"You mean Rin? That is certainly a wise decision. I am sure there are many things you can learn from her until you become a full-fledged Master.\"",
+      "sourceUnit": "セイバールート四日目-06:page75:1"
+    },
+    "page79": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0011",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We relax after dinner, and it's almost nine o'clock.",
+      "sourceUnit": "セイバールート一日目-09:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

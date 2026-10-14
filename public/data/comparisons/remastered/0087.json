@@ -1,0 +1,166 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0087",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nI won't be a part of that.\nActually, I can't.\nIf Shinji really wanted to protect himself, he would have asked Tohsaka too. Not just me.\nBesides...",
+      "sourceUnit": "セイバールート六日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Do you know there's someone overseeing this Holy Grail War?\"",
+      "sourceUnit": "セイバールート六日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. The priest at the church, right? I heard he was a survivor of the previous war, but I haven't met him. He seems annoying.\nI'm not a mage, so I don't want anyone to push their rules on me.\"",
+      "sourceUnit": "セイバールート六日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nShinji's contradicting himself.\nIf he really wanted to stop fighting, he should've gone straight to Kotomine.",
+      "sourceUnit": "セイバールート六日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji, did you know there's a Bounded Field set up over the school?\"\n\"Yep. I didn't notice, but Rider told me. What about it?\"",
+      "sourceUnit": "セイバールート六日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Isn't it your doing? Tohsaka said it was the work of a Master at school.\"",
+      "sourceUnit": "セイバールート六日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Well, it's not me. I know there's another Master at our school, so it's probably them.\"\n\"Huh? Tohsaka said there's only one other Master.\"",
+      "sourceUnit": "セイバールート六日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I wouldn't recommend just blindly trusting Tohsaka. Either way, she's wrong.\nTohsaka's trying to trace Masters by sensing their Magic Circuits, right?\nIf so, I wouldn't be one of the Masters she could detect, since I don't have Magic Circuits to begin with.\nFrom the very beginning, I wouldn't even be a blip on the other Masters' radars.\"",
+      "sourceUnit": "セイバールート六日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nThe presence of mages or Command Spells ultimately activates through magical energy.",
+      "sourceUnit": "セイバールート六日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "But if someone without magical energy becomes a Master, the only way to identify them would be seeing them directly.\nTohsaka's method of seeking out people with their own magical energy wouldn't lead her to Masters like Shinji.\nShinji doesn't have a single one of the traits Tohsaka is expecting in a Master.",
+      "sourceUnit": "セイバールート六日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So Tohsaka must be sensing a different Master.\"\nI should warn Tohsaka about this when I get home.\nWith that settled, there's no point in me staying here any longer.",
+      "sourceUnit": "セイバールート六日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Emiya! What about our partnership?\"",
+      "sourceUnit": "セイバールート六日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll have to refuse. I'm not going to help you defeat Tohsaka.\nBesides, she hasn't done anything.\nI know I'll have to...fight her one day, but I trust her right now, and I want to keep on trusting her.\"",
+      "sourceUnit": "セイバールート六日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. When something does happen, it'll be too late. But if that's how you feel, I'm not gonna push it. I'll wait it out and see, just like you.\"",
+      "sourceUnit": "セイバールート六日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Surprisingly, Shinji gives up.\nHe doesn't try to stop me from going home and he doesn't send Rider to attack me.",
+      "sourceUnit": "セイバールート六日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Shinji really is a complicated guy.\nHe may act like a jerk, but he seems to try to play fair in his own way.",
+      "sourceUnit": "セイバールート六日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Shinji. I know I'm harping on this, but does Sakura know about you?\"",
+      "sourceUnit": "セイバールート六日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"She doesn't, and I don't intend on telling her. I'm the heir of the Matou family. Sakura can just remain my little sister and be none the wiser.\"",
+      "sourceUnit": "セイバールート六日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That would be great. I don't want Sakura's life to change.\"",
+      "sourceUnit": "セイバールート六日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha.\"\n\"Fine. Since I'm her big brother, I should be thanking you for being so concerned about Sakura. Okay. Let me tell you something good, Emiya.\nI don't know who it is, but one of the Masters has set up a nest for themselves in the temple.\"",
+      "sourceUnit": "セイバールート六日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? The temple? You mean Ryudou Temple!?\"\n\"Yeah. According to my Servant, there's a witch living in the mountains. She's supposedly collecting a bunch of souls, so things are going to get ugly if nobody does anything about her.\"",
+      "sourceUnit": "セイバールート六日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!\"\nIf that's true, that makes five Masters.\nAnd if this witch is collecting a massive amount of souls, there's a high probability it's the cause of what came up in the news this morning.",
+      "sourceUnit": "セイバールート六日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all I've got for you.\nRider, see him out. You're not to harm Emiya, since he's on our side.\"\nShinji orders Rider, and she walks closer to me.",
+      "sourceUnit": "セイバールート六日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"No...well, that's...\"",
+      "sourceUnit": "セイバールート六日目-01:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about it. I'm responsible for your safety as long as you're in my house. It wouldn't do for you to get hurt or anything like that.\nOh, Rider. You only have to see him as far as the front door. Once he's out of the house, he's not my concern. But treat him well until then.\"\nShinji retreats to the back room.",
+      "sourceUnit": "セイバールート六日目-01:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI silently look towards Rider.",
+      "sourceUnit": "セイバールート六日目-01:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe black-garbed Rider says nothing.\nWhat surprises me though, is that when I take a closer look, I notice she has a graceful and innocent-looking face.",
+      "sourceUnit": "セイバールート六日目-01:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Her floor-length purple hair exudes a foul odor of blood, but at the same time, she is unbelievably beautiful.\n...Er, I realize I'm staring because of her appearance, and I'm embarrassed for a moment, but I feel like her face and her outfit just don't match at all.",
+      "sourceUnit": "セイバールート六日目-01:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "If I had to boil her down to a single phrase... She's like a priestess dripping in blood.\nShe is both holy and evil... Rider is a walking contradiction.",
+      "sourceUnit": "セイバールート六日目-01:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually...\"\nWhy are all Heroic Spirits so beautiful?\nAs I think this, I find myself looking up at Rider's face out of sheer curiosi—wow she's pretty tall for a woman.\nShe's easily a hundred seventy centimeters tall.",
+      "sourceUnit": "セイバールート六日目-01:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nThis really isn't the time for calm observation.\nBeing alone with her is a problem in itself. I should hurry out of the Matou mansion.",
+      "sourceUnit": "セイバールート六日目-01:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Rider sticks with me all the way to the entrance.\nI don't know about this...\nShe doesn't even seem alive, but maybe she'll answer if I try talking to her.",
+      "sourceUnit": "セイバールート六日目-01:page31:1"
+    }
+  }
+}

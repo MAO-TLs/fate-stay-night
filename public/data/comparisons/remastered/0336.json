@@ -1,0 +1,197 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0336",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I cut the cod with gusto.\nThe Napa cabbage is cut and I've grated a ton of daikon radish.\n\"...All right. All I have to do is put the ingredients in and put it on the stove...\"",
+      "sourceUnit": "凛ルート十日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The pot boils.\nIt's an easy meal to make, mostly dependent on making the stock.\nThat went well, so all that's left is to prepare the number of plates needed.",
+      "sourceUnit": "凛ルート十日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm home! Man, it's so cold, it started snowing.\"\nFuji-nee comes home.\n\"Welcome back. It's snowing outside?\"",
+      "sourceUnit": "凛ルート十日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It looks light, but it feels like it's gonna pile up. Wow, we're having hot pot for dinner? As always, you know how to hit the mark. Mm, I'm in a good mood, so maybe I'll drink tonight.\"\nFuji-nee goes inside the living room, saying dangerous sounding things.",
+      "sourceUnit": "凛ルート十日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hello, Ms. Fujimura.\"\n\"Oh, it's Tohsaka. What's going on? It's rare to see you here.\"",
+      "sourceUnit": "凛ルート十日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...?\nFuji-nee naturally accepts Tohsaka's greeting.\nShe hums as she goes past the living room and into the kitchen.",
+      "sourceUnit": "凛ルート十日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow, that's good cod. They say that eating cod while watching snowfall is the best, so it must go with sake even better.\"",
+      "sourceUnit": "凛ルート十日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee opens the refrigerator.\nAnd...\nAfter retrieving her favorite Baumkuchen and taking a bite...",
+      "sourceUnit": "凛ルート十日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"WAIT, WHY IS TOHSAKA AT SHIROU'S PLACEEE!!!???\"",
+      "sourceUnit": "凛ルート十日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka! It's not 'hello,' what are you doing here at this time!?\"\nFuji-nee stuffs the Baumkuchen down and marches into the living room.",
+      "sourceUnit": "凛ルート十日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya is treating me to dinner. As for you, aren't you lacking a bit of common courtesy to come in without even ringing the doorbell?\"\nIn response, the Tohsaka army calmly makes her counterattack.",
+      "sourceUnit": "凛ルート十日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well... I-I am the supervisor of this household!\nShi—Emiya's father put me in charge here, so I'm like family!\"",
+      "sourceUnit": "凛ルート十日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then allow me to make a formal greeting.\nHello, Ms. Fujimura. I have been spending the whole day here. I will continue to study for an exam with Emiya after dinner, but please do not mind us.\"",
+      "sourceUnit": "凛ルート十日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—Shiro... I mean, Emiya! What is this!? Since when did you decide to hold a study session with Tohsaka!?\"",
+      "sourceUnit": "凛ルート十日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura? Please do not push yourself if it is hard to address him that way.\nIt does not concern me whether how you call Emiya. Whether you call him by his first name or by a nickname, I respect people's privacy.\"",
+      "sourceUnit": "凛ルート十日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Uuuh... Tohsaka, did you hear from Sakura...?\"\n\"Who knows? Unfortunately, it would be improper to say what I've discussed with Miss Matou, since I must respect her privacy. But, I wish it is as you imagine.\"",
+      "sourceUnit": "凛ルート十日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee falters at Tohsaka's smile.\n...I understand how Fuji-nee feels well.\nWhen she smiles like that, it makes you feel overwhelmed and cornered...",
+      "sourceUnit": "凛ルート十日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...I guess the match has been decided. I'll just leave them be.\"\nActually, it wasn't even a match to begin with.\nIt's only a matter of time until Tohsaka talks Fuji-nee down.\nI'll let Tohsaka take care of it and focus on preparing dinner.",
+      "sourceUnit": "凛ルート十日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "It stops snowing outside once we finish the pot.\nIt only snowed for about two hours, so I bet there's only a bit of snow left in the yard.",
+      "sourceUnit": "凛ルート十日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I put the dishes in the sink.\"\n\"Oh, thanks. I'll go wash them real quick.\"\nI get up and head to the kitchen.",
+      "sourceUnit": "凛ルート十日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"The dishes? Should I wash them? It doesn't seem fair if I'm the only one getting treated.\"\nTohsaka and Fuji-nee switch spots.\nThe offer is nice, but I can't let a guest do the dishes.",
+      "sourceUnit": "凛ルート十日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine, you'll just owe me one. You should rest since you just ate. And Fuji-nee, you go prepare the bath.\"\n\"Yeah yeah, I know.\"\nIt must be because she's full now, as Fuji-nee is compliant.\nEverything would be so much easier if she were like this all the time. Though I suppose it'd also be boring.",
+      "sourceUnit": "凛ルート十日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nI dropped another plate.\nIt's been twenty minutes since I started doing the dishes. This is the second plate I dropped.",
+      "sourceUnit": "凛ルート十日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh.\"\nThere's no excuse even if my left hand is numb. I'm really dropping the proverbial ball if I'm being a klutz just from this.",
+      "sourceUnit": "凛ルート十日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nIf I'm being honest with myself, I should stop until my arm no longer feels this way, but I quickly shake that thought off.",
+      "sourceUnit": "凛ルート十日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I roll up my sleeve and continue washing the dishes.\nIf this were from something else I could maybe excuse it, but I refuse over something coming from me.\nThere's no way I'm going to lose to myself. I refuse to admit defeat.",
+      "sourceUnit": "凛ルート十日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh...\"\nAnd as a result, the damage taken increases.\nThis is the third plate now.\nFortunately, it didn't break since I put a bath towel on the floor after I dropped the first one.",
+      "sourceUnit": "凛ルート十日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "So it shouldn't be a problem, but...\n...\nIt's really awkward feeling Tohsaka's eyes on me whenever I drop a plate.",
+      "sourceUnit": "凛ルート十日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ms. Fujimura. Is Emiya always like that?\"\nI hear Tohsaka's voice from the living room.",
+      "sourceUnit": "凛ルート十日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be ridiculous. Shirou has never broken a plate before. He must be nervous since you're here.\"\nBECAUSE YOU'RE THE ENEMY.\nLeave it to Fuji-nee to hit a bullseye on the dig.",
+      "sourceUnit": "凛ルート十日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka ignores that and stares at me.",
+      "sourceUnit": "凛ルート十日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...This is hard.\nHalf of my body is already numb, so it distracts me when she watches me that earnestly... Oh, shoot.",
+      "sourceUnit": "凛ルート十日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, damn it.\"\nI click my tongue and look down at the broken plate.\nThis is the fourth one now. I could see it coming, but my left hand didn't move fast enough.\n\"...\"\nI slowly look behind me.",
+      "sourceUnit": "凛ルート十日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\n...She's watching me.\nTohsaka scrutinizes me from her place at the table.",
+      "sourceUnit": "凛ルート十日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nShe suddenly gets up and walks over to me.",
+      "sourceUnit": "凛ルート十日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya. I'll do it, so you go and rest.\"\n\"But—\"\n\"Be careful not to step on the broken plates. I can figure out where to put what, so you can go drink some tea.\"\nTohsaka rolls up her sleeves and stands by the sink.",
+      "sourceUnit": "凛ルート十日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I don't think I can do anything about this.\nIt's a herculean task to stop Tohsaka once she makes up her mind, and to be honest...\n...It's frustrating, but there's something strangely picturesque about Tohsaka standing there doing something so mundane.",
+      "sourceUnit": "凛ルート十日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Once I get out of the bath, Fuji-nee is the only one in the living room.\nTohsaka's shoes are still at the entrance, and I assume Saber's in the dojo.\nIt's almost 9 PM.\nNow...",
+      "sourceUnit": "凛ルート十日目-00:page37:1",
+      "recoveredDelimitedTail": true
+    }
+  }
+}

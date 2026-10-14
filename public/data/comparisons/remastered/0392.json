@@ -1,0 +1,32 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0392",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I refuse. I can't trust you.\"\nIt's not only Lancer.\nI don't want to go along with the ulterior motive of Lancer's Master, whose identity is still unknown, and is offering to help at this particular time.",
+      "sourceUnit": "凛ルート十三日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's what your partner is saying, but what about you, young lady? You said you would go along with his plan?\"",
+      "sourceUnit": "凛ルート十三日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...My plan doesn't change. If Emiya can't trust you, then it's meaningless to cooperate with you.\"\n\"I see, you're right... This is really disappointing. You really were my type.\"",
+      "sourceUnit": "凛ルート十三日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Lancer turns away.\nHis blue back doesn't look back at all and disappears like the wind, just as he appeared.",
+      "sourceUnit": "凛ルート十三日目-09:page3:1",
+      "recoveredDelimitedTail": true
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

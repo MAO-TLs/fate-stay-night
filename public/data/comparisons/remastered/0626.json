@@ -1,0 +1,166 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0626",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Morning.\nSlowly, my mind\n...",
+      "sourceUnit": "桜ルート十二日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm...\"\nMorning.\nSlowly, my mind wakes up, and I sluggishly sit up.",
+      "sourceUnit": "桜ルート十二日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The clock reads after 8 o'clock.\nI'm late.\nOkay, I'm not exactly \"late\" since I'm not going to school, but I definitely overslept.",
+      "sourceUnit": "桜ルート十二日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh no, I need to make breakfast.\"\nI get up and change.\nWhile changing from my pajamas to my regular clothes, I'm forced to look at my left arm whether I like it or not.",
+      "sourceUnit": "桜ルート十二日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hup.\"\nI try lifting my left arm during my morning stretches.\nNo problem here.\nI can lift it up to shoulder level, exactly as I intend.\nIt's improving day by day.\nI still can't feel anything through it, but at this rate, by tomorrow it should—",
+      "sourceUnit": "桜ルート十二日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing, Shirou? Breakfast is already over.\"\n\"Huh? Wuh? Wait, what?\"",
+      "sourceUnit": "桜ルート十二日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Illya's in front of me.\nI meant to go to the living room, but I somehow ended up in the shed.",
+      "sourceUnit": "桜ルート十二日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you hear me, Shirou? I asked you what you're doing here.\"\n\"Y...yeah, I heard you. Morning, Illya. Funny running into you here.\"",
+      "sourceUnit": "桜ルート十二日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Hm.\nMy answer sounds absurd even to me.\nI must not be fully awake yet.",
+      "sourceUnit": "桜ルート十二日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Are you not feeling well?\"\n\"Eh? No, I'm fine. I'm just still a little sleepy. Hold on.\"\nI shake my head.\nI'm still physically exhausted, but the drowsiness is gone.",
+      "sourceUnit": "桜ルート十二日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...There. To answer your question, I'm not here for any particular reason. I just took a wrong turn while I was half-asleep.\"\n\"Okay. Well, come to the living room. I'll make you breakfast.\"\nIllya cheerfully runs back into the yard.",
+      "sourceUnit": "桜ルート十二日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "It's a clear day.\nThe sky is a bright blue, washing away yesterday's gloom.\nI take a deep breath, filling my lungs with comfortably cool air.",
+      "sourceUnit": "桜ルート十二日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm? Did Illya say she's making breakfast?\"\nShe did.\nThe first thought that comes to my now-operational mind is her last remark.",
+      "sourceUnit": "桜ルート十二日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Illya's breakfast... I'm looking forward to it, but the notion makes me very uneasy.\nI can say with confidence that Illya has never been in a kitchen before, much less picked up a chef's knife.",
+      "sourceUnit": "桜ルート十二日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh... I should probably go supervise her.\"\nI head towards the living room, feeling the prickly grass beneath my feet.\nI'm shocked again.\nTalk about sleepwalking!\nWhat was I thinking, coming out here barefoot?",
+      "sourceUnit": "桜ルート十二日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I arrive in the living room almost four minutes later,\nafter taking the time to clean the dirt off my feet.\n\"Oh, Senpai.\"\nI nearly bump into Sakura when I enter the living room.",
+      "sourceUnit": "桜ルート十二日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning, Sakura... Sorry about this morning. I overslept until after eight.\"\n...\n...?\nSakura stares at me. I wonder if she didn't hear me.",
+      "sourceUnit": "桜ルート十二日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura?\"\nI reach out to her, thinking her fever might have come back.\nBut...\n\"G-good morning, Senpai!\"\nShe greets me at full volume, making my concern unwarranted.",
+      "sourceUnit": "桜ルート十二日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, you're in good spirits this morning. Does that mean your body's feeling better?\"\n\"Y-yes, thanks to you, I'm full of energy. B-because you gave me some of yours.\"",
+      "sourceUnit": "桜ルート十二日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nSakura speaks haltingly.\n...Hmm. I'm glad she's upbeat, but the fact she doesn't look calm makes me worried, too.",
+      "sourceUnit": "桜ルート十二日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? Sakura? You're being kinda weird. What do you mean, I gave you some of my energy?\"\n\"Ah, uh... I mean, er, last night...\"\n\"In your bedroom,\" she trails off.\nSakura mumbles bashfully.",
+      "sourceUnit": "桜ルート十二日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh.\"\nNow I remember.\nHow could I forget?\nLast night,\nI held Sakura.",
+      "sourceUnit": "桜ルート十二日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Or rather, she embraced me.",
+      "sourceUnit": "桜ルート十二日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh... Oof.\"\nHeat suddenly rises to my head.\nIt instantly reaches boiling point, as if all of my blood below my neck was pumped there.",
+      "sourceUnit": "桜ルート十二日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Sakura, last night, that...\"\nReally happened, right? It wasn't a dream?\nBlushing and with an expression that seems to blame me somehow, she nods.",
+      "sourceUnit": "桜ルート十二日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"~~~~~~~~~\"\nWow.\nJust when I thought my face couldn't get any hotter, it does.\nMeaning that last night...",
+      "sourceUnit": "桜ルート十二日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Shirou Emiya's rational mind labeled everything that happened\nas a dream, and filed it away—wait, not that!",
+      "sourceUnit": "桜ルート十二日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, um. S-sorry about that.\"\nI clumsily apologize to her, holding my dizzy head in my hand.\n\"...Yes, but I was happy, Senpai.\"\nHer shy smile is like a mortal blow to the heart.",
+      "sourceUnit": "桜ルート十二日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...urgh.\"\n...She got me.\nShe's so lovely. I want to hug her again right now.",
+      "sourceUnit": "桜ルート十二日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "If Illya wasn't around and I didn't hear the TV on in the living room, I'd…\n\"Shirou! Breakfast is ready!\"\nIf Illya hadn't chimed in right on cue, I might have charged straight into super-mushy mode again.",
+      "sourceUnit": "桜ルート十二日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, I'm here to eat breakfast. Let's talk later!\"\nI make a sharp turn like a robot and head for the living room.\nI desperately move my sluggish arms and legs, taking control of my mind and driving the desire into a corner of it.",
+      "sourceUnit": "桜ルート十二日目-05:page30:1"
+    },
+    "page31": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0405",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There's only silence.\nNo one could utter a sound, even I am at a loss for words.\nSouichirou Kuzuki is dead.\nHe died on the path he chose, like a ghost who left behind no words of longing, nor feelings of regret or hope.",
+      "sourceUnit": "凛ルート十四日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...My head hurts.\nI'm not sure if it's because my stressed Magic Circuit is pressing against my nerves,\nor because I can't forgive Archer for killing Kuzuki without even batting an eye, or because I'm mad at myself for being utterly powerless to oppose.\nWithout knowing the cause, the sharp pain in my head gets even sharper.",
+      "sourceUnit": "凛ルート十四日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nI turn my head towards the sound.\nWith Caster gone, the binding curses should be undone.\nIn front of the altar at the back of the church, Saber hits the floor.",
+      "sourceUnit": "凛ルート十四日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"ah...hn...\"\nStill lying on the floor, Saber's breathing is labored and in pain.\nSeeing her like that makes me forget about my headache.",
+      "sourceUnit": "凛ルート十四日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...!\"\nI rush towards her.\nI am annoyed that even the few meters between me and her feels so far away.",
+      "sourceUnit": "凛ルート十四日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou.\"\nSaber looks up.\nSeeing me running towards her, Saber lets out a sigh of relief...",
+      "sourceUnit": "凛ルート十四日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\n\"Huh?\"\nShe suddenly tackles me and sends me flying.",
+      "sourceUnit": "凛ルート十四日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "A sudden blow from the side, I was knocked down without resisting.\nMy body is sent flying and bounces hard against the floor.",
+      "sourceUnit": "凛ルート十四日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ack...!\"\nMy back lands first on the floor.\n\"Ugh...!\"\nI am still confused by what just happened, but just as I look up...\nIn that moment...\nI hear the sound of metal clashing again.",
+      "sourceUnit": "凛ルート十四日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nWhat I see is Saber armoring up.\n...And.\nRight in front of her, on the ground where I had stood, there are multiple swords piercing the floor.",
+      "sourceUnit": "凛ルート十四日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Tch... I missed.\"\nIt's him.\nHe lets out a sound of disappointment as he keeps his sight on Saber.",
+      "sourceUnit": "凛ルート十四日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nNot even able to stand upright, Saber glares at Archer.",
+      "sourceUnit": "凛ルート十四日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...The, bastard.\"\nI don't have to guess the reason.\nHe fired his sword and tried to kill me from behind my back.\nSaber noticed what he was trying to do and instantly covered for me.",
+      "sourceUnit": "凛ルート十四日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka stands there looking at him dumbfounded, while Saber wields her sword as she's gasping for breath.\nEven if their positions are different, they harbor the same question:\nNow that Caster is defeated, why is Archer trying to kill Shirou Emiya?",
+      "sourceUnit": "凛ルート十四日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nOnly Archer and I stood unfazed by the interaction.\n...That's right, I'm not surprised at what just happened.\nWe have despised each other from the very beginning.\nWe have stood against each other knowing we will never get along.\nWe both reject each other's existence, not even knowing why.",
+      "sourceUnit": "凛ルート十四日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...Why?\nThe reason behind why we must reject each other—If it's really what I think it is.\nOf course he would want to kill me.",
+      "sourceUnit": "凛ルート十四日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh...\"\nI try to stand up after being knocked to the floor.\nSaber was pretty desperate.\nShe probably charged into me without being able to hold back. Because of that, she can barely catch her breath.",
+      "sourceUnit": "凛ルート十四日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...That's why I must stand up.\nIf the Saber I knew were to tackle me, it wouldn't be this weak.\nRight now she barely has enough strength to even face me.\nIf she's to go up against Archer in that body of hers, it would be no different than suicide.",
+      "sourceUnit": "凛ルート十四日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, what were you thinking!?\"\nTohsaka approaches Archer.\n...Of course she's confused.\nArcher only sided with Caster so he could betray her at the end and kill her.\nNow that he's succeeded, there's no reason for Archer to attack me.",
+      "sourceUnit": "凛ルート十四日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Your little act is over now, right? Caster is defeated so I won't allow you to act on your own anymore!\"\n\"Won't allow? I don't get it, why must I seek your approval to do anything? Especially when you're not my Master anymore.\"",
+      "sourceUnit": "凛ルート十四日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What...? Archer...?\"\n\"My contract with you has ended. Now that I'm free, do you think I would choose to lower myself to be a human's lackey?\"",
+      "sourceUnit": "凛ルート十四日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka looks upon Archer like she still can't believe what she's just heard, but then a sudden realization hits her.\n\"Don't tell me... Archer...\"",
+      "sourceUnit": "凛ルート十四日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I only act for my own goal.\nHowever, it'll be a bit troublesome for you to be there.\"\n\"...!\"",
+      "sourceUnit": "凛ルート十四日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka jumps back.\nShe distances herself from Archer, and starts running towards me while I am still trying to stand up.\nBut Tohsaka was not able to do that.",
+      "sourceUnit": "凛ルート十四日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "A storm of swords two meters tall is raining down.\nThe swords come down in a circular pattern, stabbing the floor to create a cage.",
+      "sourceUnit": "凛ルート十四日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh!\"\nA circular cage with barely enough space for a single human.\nThe instant the cage is formed, Tohsaka is trapped in the middle of it.",
+      "sourceUnit": "凛ルート十四日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Now that I've come this far, I won't let you interfere. The contract is severed, so the Command Spell you've used on me no longer works.\nThat's the only reason I sided with Caster. In order to void the Command Spell you've used on me, I must also void the contract.\"",
+      "sourceUnit": "凛ルート十四日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Archer starts walking, turning his back on Tohsaka who's now trapped in a cage of swords.\nHe's not walking towards Saber, but towards me while I still have my knee on the floor.",
+      "sourceUnit": "凛ルート十四日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I knew it... Why, Archer!? Are you still trying to kill Shirou!?\"\n\"...That's right. I will kill Shirou Emiya with my own hands.\nThat is my only wish, the wish of a man who's fallen to become a Guardian.\"",
+      "sourceUnit": "凛ルート十四日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\nStrength is returning to Saber's body.\nShe collects her thoughts, focuses her strength, and shifts herself between Archer and myself.",
+      "sourceUnit": "凛ルート十四日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer... Don't tell me.\"",
+      "sourceUnit": "凛ルート十四日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...That reminds me. Saber, I think you've once said to me that I don't have the pride of a hero.\nOf course not. It's impossible for me to harbor such emotion. The only thing that I harbor is the feeling of regret.\n...You see, Saber. I wish... I never became a hero.\"",
+      "sourceUnit": "凛ルート十四日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber's will to fight is leaving her body.\n...Maybe she has suddenly understood something. Whatever it may be, she no longer has any animosity towards Archer.",
+      "sourceUnit": "凛ルート十四日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I've said enough. Now step aside, King of Knights. You don't have a Master anymore so if you do anything reckless, you will disappear.\nShirou Emiya no longer has the right to be a Master. Your wish will not be fulfilled even if you help him.\"",
+      "sourceUnit": "凛ルート十四日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't do that. Even if he's not a Master anymore, my pact with him still stands. I swore that I would protect him, that I would be his sword.\n...He didn't know anything about the Holy Grail War, yet he has answered my one-sided wish. I cannot easily betray that trust.\"\nShe holds up her invisible sword.\nBut the brave and gallant knight is nowhere to be seen.",
+      "sourceUnit": "凛ルート十四日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. In that case, you can die here along with your false lord.\"\nSwords appear in Archer's hands.\n\"...Guh.\"\nWha...! Saber can't even withstand Archer's attack as she is right now!",
+      "sourceUnit": "凛ルート十四日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...You idiot, Saber, run!\"\nI stand up and try to reach out for Saber.\nMaybe she's trying to stay away from my reach,\n\"Hah!\"\nSaber focuses all her strength to her feet and rushes toward Archer.",
+      "sourceUnit": "凛ルート十四日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...The fight is over after a few rounds of trading blows.\nThe old Saber would've undoubtedly overpowered Archer, but now she can barely swing her sword for seconds before she's down on her knees.",
+      "sourceUnit": "凛ルート十四日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...Saber doesn't even have a sword in her hand anymore.\nIn an effort to resist Caster's curse, she used up all of her magical energy.\nFor Saber now, even taking in air is an effort. She's facing down, all fours on the floor, and trying her hardest just to maintain her existence.",
+      "sourceUnit": "凛ルート十四日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher raises his arms.\nHe swings his swords down upon the defenseless Saber.\nI rush in,\n\"Haaaaaaahhhhh!\"\nand muster up all my strength to block Archer's attack.",
+      "sourceUnit": "凛ルート十四日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI hold up my two swords.\nWith the weapons I instantly Projected in my hand, I fix my sight on the red knight.",
+      "sourceUnit": "凛ルート十四日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, well. I thought you'd behave for a little bit longer. I guess you really can't stand a woman being killed in front of you.\"",
+      "sourceUnit": "凛ルート十四日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shut up. The person you really want to kill is me. Then point your swords at the right person.\"\nThe two of us continue to face off with each other.\nWe both hold twin swords in our hands.\nEven though our stature may differ, our stance is absolutely identical.",
+      "sourceUnit": "凛ルート十四日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"If you mimic someone long enough, eventually no one can tell you apart. However, can that body of yours withstand using this much magecraft?\"\nA clear mockery.\n...But like he said, I am at my limit.\nMy headache won't stop, and my accelerated Magic Circuits are at their limit because of my repeated Projection.\n...In my current state, if I continue to trade blows with him while maintaining the swords, my brain will explode before he cuts me down.",
+      "sourceUnit": "凛ルート十四日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\n\"I told you already, you are not fit to use Projection. Using a magecraft not fit for you will only lead to your own destruction. It seems you are paying the price for performing miracles until this point, Shirou Emiya.\"\nArcher is charging towards me.",
+      "sourceUnit": "凛ルート十四日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... Shut the hell up, you piece of—\"\nAt that moment.\nI meet Archer's swords with my own, with such intensity as if it will make me forget about my headache.",
+      "sourceUnit": "凛ルート十四日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "I swing my weapons.\nMy movement is simply a mimicry of my opponent's.\nIf my swords are borrowed, so is the skill to wield them.\nThat's why there's no way I can match him.\nEven if I'm at my peak condition, I'm not able to defeat him.",
+      "sourceUnit": "凛ルート十四日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "A fake can come close to the real thing, but it will never surpass it.\nThat's why I didn't have a chance to stand up to this man from the beginning.",
+      "sourceUnit": "凛ルート十四日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "He told me to drown holding on to my ideals.\nHe also told me my life was a lie.\n...I couldn't say anything to him, because he was my ideal.\nThe power to realize the impossible.\nA man who became a Heroic Spirit after saving so many others.\nI am the one who wished to become like that.",
+      "sourceUnit": "凛ルート十四日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "That's why I can't win.\nThe man standing in front of me is one who has reached the end of my ideal.\nIf this man is truly the same person who wanted to become stronger to save others, the embodiment of Shirou Emiya's ideals...",
+      "sourceUnit": "凛ルート十四日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ngh...!\"\nThe swords shattered.\nWhile I was able to block his attack, I lost my swords in the process.",
+      "sourceUnit": "凛ルート十四日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...My consciousness...is...fading.\nMy body is uninjured, but what's inside of my body is bleeding, slowly withering away…",
+      "sourceUnit": "凛ルート十四日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Now do you understand? This is the limit of Shirou Emiya. It is a fitting end for someone who's been pushing himself past his limits until today.\"\nHe raises his sword.\n...\nJust when I try to discern which side the sword is going to cut down from with my fading consciousness...",
+      "sourceUnit": "凛ルート十四日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Heed my words!\nMy will creates your body, and your sword creates my destiny! If you heed the Grail's call and obey my will and reason—\"",
+      "sourceUnit": "凛ルート十四日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's dignified voice echoes in the church.",
+      "sourceUnit": "凛ルート十四日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"—!\"\nMaybe he was distracted by that.\nThe sword strike loses its momentum, if that's the case...\n\"Gnh...hah!\"\nEven in my current body, I can dodge that attack!",
+      "sourceUnit": "凛ルート十四日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "I rolled away on the floor to create some distance.\n\"Tch!\"\nArcher clicks his tongue. He doesn't go after me, and looks at Saber on the floor.",
+      "sourceUnit": "凛ルート十四日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"—Then answer me! Thus I shall place my fate by your sword!\"\nTohsaka is reaching her hand out to Saber from her cage of swords.\nResponding to her call, Saber rushes to Tohsaka with all her strength...",
+      "sourceUnit": "凛ルート十四日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Upon my name as Saber, I hereby accept your oath...!\nRin, I will acknowledge you as my Master!\"\nThis is the contract that should've happened.\nSaber is finally able to get the Master she deserves.",
+      "sourceUnit": "凛ルート十四日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Winds gather and whirl around Saber.\nPerhaps it's because she's gotten her real power back now that she has a proper Master.\nThe Saber facing Archer now is not the same person as before.",
+      "sourceUnit": "凛ルート十四日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...What is this?\"\nI'm not the only one stunned by this sight.\nEven Archer is enchanted by what's happening.\nA surge of magical energy and a set of armor that's impervious to damage.\nThat enormous magical energy, which is enough to overwhelm anyone, is truly infinite.\nTHAT is Saber.\nThe Heroic Spirit of the Sword that is said to be the most powerful of Servants!",
+      "sourceUnit": "凛ルート十四日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tch. I'd intended to have her forge another contract with Rin, but this isn't quite how I thought it would go.\"\nMaybe he can't spare any effort on me anymore, but Archer is only focusing on Saber.",
+      "sourceUnit": "凛ルート十四日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"And? What are you going to do, Saber?\nNow that you've formed a contract with Rin, what happens with Shirou Emiya going forward is irrelevant to you...\"\n\"I have told you, Archer. My oath with Shirou stands.\"\nSaber says with determination.\nIrritated by her words, Archer grips his swords.",
+      "sourceUnit": "凛ルート十四日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I could ask the same of you, Archer. What are you going do? If you still want to kill Shirou, then you will have to go through me.\nNow is your chance to rethink your decision. Should you go against me now, well, I am sure even you understand how slim your chances are.\"",
+      "sourceUnit": "凛ルート十四日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "Saber's words are true.\nSaber in her condition now could go against Berserker one-on-one and still walk away victorious.\nIt doesn't matter who Archer is, he can't win against Saber.\nHe understands that better than anyone, yet...",
+      "sourceUnit": "凛ルート十四日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Look at you, brimming with confidence simply because you regained some magical energy...!\"\nNot letting her respond, Archer charges at Saber.",
+      "sourceUnit": "凛ルート十四日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "Swords clash.\nA bolt of crimson rushes toward Saber, and Archer swings with all of his might.",
+      "sourceUnit": "凛ルート十四日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hah!\"\nSaber blocks that attack without even flinching.\nTheir difference in stature and even Archer's sudden burst of speed make no difference.\nSaber parries Archer's attack with ease.",
+      "sourceUnit": "凛ルート十四日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Yet Archer is the one who falls back despite being on the offense.\nA single strike with utmost power and precision...\n\"Hngh...ugh...\"\nNot only was it blocked, he even lost his balance in the process.",
+      "sourceUnit": "凛ルート十四日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh!\"\nArcher falls back without hesitation.\nSeeing an opening,\nSaber attacks Archer with a fierce onslaught.",
+      "sourceUnit": "凛ルート十四日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "There's nothing Archer can do, other than block Saber's attacks.\nIf he tries to counter, Saber's sword will split his skull in that opening.",
+      "sourceUnit": "凛ルート十四日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "No, he doesn't even have the spare effort to think about countering.\nThe only resistance allowed for Archer is blocking Saber's attack until he runs out of strength.",
+      "sourceUnit": "凛ルート十四日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "Even then, that won't last long.\nThe magical energy embued in Saber's sword is chipping away at Kanshou and Bakuya.\nThe twin swords can't stand any more of Saber's attacks, nor does Archer have much strength left.",
+      "sourceUnit": "凛ルート十四日目-03:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "The end came sooner than expected.\nNot able to withstand Saber's assault, Archer falls down on his knee.\nSaber stops for a short moment, then swings down her sword.",
+      "sourceUnit": "凛ルート十四日目-03:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "That decisive strike, Archer stopped it with the cross formed by his swords.\nThe fight ends there.\nWhile Archer did stop Saber's attack, he can't move another inch.\nIf he lets go even an ounce of his strength, Saber's sword will cut him in half from the skull down.",
+      "sourceUnit": "凛ルート十四日目-03:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...Hm...\"\nPouring all his strength into his arms, Archer stops Saber's strike.\nSweat is dripping down Archer's forehead, and he's gasping for breath.",
+      "sourceUnit": "凛ルート十四日目-03:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn contrast, Saber is calm and collected.\nIn close range combat, it's impossible for an Archer-class Servant to win against a Saber-class Servant.",
+      "sourceUnit": "凛ルート十四日目-03:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the end for you, Archer.\"",
+      "sourceUnit": "凛ルート十四日目-03:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"You were worrying about me earlier, but I shall return those words to you. With Caster gone and the rate you've been using your Noble Phantasm, you shouldn't have much magical energy left.\nOn top of that, you don't have a Master, an anchor to stay manifested in this world. You can't even replenish your magical energy. Just what exactly can you do in your current state now?\"",
+      "sourceUnit": "凛ルート十四日目-03:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah. You don't have to worry about that, Saber.\nArcher-class Servants have a unique skill that let them stay manifested independently. They can survive for at least two days even without a Master. That's plenty of time for me to kill him.\"",
+      "sourceUnit": "凛ルート十四日目-03:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you still talking about that nonsense! Are you saying your wish is not for the Grail but to kill Shirou!?\"\n...\nArcher didn't respond.\nHis cold eyes simply stare at the baffled and troubled Saber.",
+      "sourceUnit": "凛ルート十四日目-03:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"...How can you wish for something like that? Archer your wish is mistaken.\nWhy...Why would you wish for an end like that? Even if you do something like that, you won't...\"\n...be saved.\nSaber bites down on her lips before she can finish her sentence.",
+      "sourceUnit": "凛ルート十四日目-03:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. My wish is mistaken... Huh?\"\nArcher puts more strength into his arms.\nHe stares back at Saber,\n\"Right back at you, Saber.\nJust how long are you still going to cling on to that mistaken wish of yours?\"\nA brief moment of sadness flickers in Archer's eyes as he asks Saber.",
+      "sourceUnit": "凛ルート十四日目-03:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...\"\nSaber's grip on her sword weakens.\n\"Hngh!\"\nArcher seizes the opportunity to free himself, and uses the opening to kick Saber off!",
+      "sourceUnit": "凛ルート十四日目-03:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...!\"\nSaber was sent backward from that kick, but she lands with grace.\nThe situation doesn't change from a minute ago.\nA stalemate between Saber who is protecting me, and Archer who has his back turned to the caged Tohsaka.\nThe distance between the two has extended to about five meters.",
+      "sourceUnit": "凛ルート十四日目-03:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. I didn't think I could match your sword skills, but to think it would be this obvious.\"\nThe swords in his hands disappear, and he faces Saber empty-handed.",
+      "sourceUnit": "凛ルート十四日目-03:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer, I take that gesture to be you retreating—\"\n\"No, and I would stop your assumption. I am an Archer-class Servant. There are no archers who would prefer to fight with swords.\"\nAfter saying that,",
+      "sourceUnit": "凛ルート十四日目-03:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"I am the bone of my sword.\"",
+      "sourceUnit": "凛ルート十四日目-03:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "In a whisper, Archer starts with the incantation.",
+      "sourceUnit": "凛ルート十四日目-03:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop it, Archer! We still have—\"\n\"Saber. One day, someone will be here to liberate you.\nIt seems that time has yet to arrive. But I'm sure I will be part of it the next time you are involved.\"",
+      "sourceUnit": "凛ルート十四日目-03:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"Unknown to death. Nor known to life.\"",
+      "sourceUnit": "凛ルート十四日目-03:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "The incantation echoes in the church.\n...Nothing changes in the surrounding.\nAn incantation that long will most certainly affect the environment.\nMagecraft is something that works by exerting influence on the world itself.\nHowever, his incantation doesn't do it, but...",
+      "sourceUnit": "凛ルート十四日目-03:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that's a topic for next time. I only have one goal right now, and that's to kill Shirou Emiya.\nIf you are to stand in my way... Then this world I'm creating won't hold back on destroying you.\"",
+      "sourceUnit": "凛ルート十四日目-03:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "He raises his left arm.\nDoes that mean he's completing his incantation?",
+      "sourceUnit": "凛ルート十四日目-03:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "\"Unlimited Blade Works!\"",
+      "sourceUnit": "凛ルート十四日目-03:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "With a clear phrase, he starts to exert his influence on the world.",
+      "sourceUnit": "凛ルート十四日目-03:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "...Flames erupting.\nThe flames trace across the floor, as if drawing a line.\nDoes that mean the flames are creating a boundary around the church?\nThe bright luminescence generated by the flame envelops the church.\nIn an instant, the church was replaced by a strange landscape.",
+      "sourceUnit": "凛ルート十四日目-03:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy headache is overpowering my thoughts.",
+      "sourceUnit": "凛ルート十四日目-03:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "...I can understand.\nI can understand this magecraft...this bizarre scenery.\nIt shouldn't be possible for me to understand, but I was able to decipher what is happening in front of my eyes naturally.\nAnd that fact...\nThat fact is hurting my head more than anything.",
+      "sourceUnit": "凛ルート十四日目-03:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "To sum it up in one word, this is a forge.\nBurning flames and rotating gears in the sky.\nSwords with no wielders are scattered across this wasteland.\nEvery blade across the landscape is a famed sword.\nEven the Kashou and Bakuya he uses were weaved from this world.",
+      "sourceUnit": "凛ルート十四日目-03:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "A seemingly infinite Projection of weapons.\nThe countless weapons make this place look like a junkyard.\nAnd standing in the middle of this wasted kingdom, is the red knight.",
+      "sourceUnit": "凛ルート十四日目-03:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"What is...this?\"\nThere is obvious confusion in Saber's voice.\nStanding in the cold phantom flame, she looks at the red knight, bewildered.",
+      "sourceUnit": "凛ルート十四日目-03:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"...Reality Marble.\nA forbidden spell that corrodes the world by materializing someone's mental landscape over it.\nThat means not only were you not a swordsman nor a bowman.\"",
+      "sourceUnit": "凛ルート十四日目-03:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I was a mage before becoming a Heroic Spirit, when I was alive.\"\nTohsaka speaks calmly.\nDoes that mean...she already knew?\nMaybe she has already discerned Archer's identity?",
+      "sourceUnit": "凛ルート十四日目-03:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then Archer, your Noble Phantasm is—\"",
+      "sourceUnit": "凛ルート十四日目-03:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't have anything of the sort.\nThat's because I never possesed any blessed swords or cursed ones. This world is the only thing I have.\nIf a Noble Phantasm is what represents the essence of a Heroic Spirit, then this magecraft, this Reality Marble, is my true Noble Phantasm.\nAs long as it categorizes as a weapon, I can replicate it and store it in this world simply by looking at the original. That is my ability as a Heroic Spirit.",
+      "sourceUnit": "凛ルート十四日目-03:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber can't believe what she's heard.\nShe looks around, bewildered, seeing only swords in this wasteland, swords that feel no different than unmarked gravestones.\nThis place filled with wasteland and iron, covered by a lonely gray sky.",
+      "sourceUnit": "凛ルート十四日目-03:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you telling me... This is your world, Archer?\"\n\"Indeed. Would you like to give it a try, Saber?\nI will replicate your sacred sword with absolute detail.\"",
+      "sourceUnit": "凛ルート十四日目-03:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"My sacred sword... Are you saying you know what it is, Archer?\"\n\"Of course. I might not be able to perfectly replicate a sword like that, but I can make one that's close to the real thing.\nWhat will happen then? When two sacred swords clash, do you think the bystanders will live to tell the tale?\"",
+      "sourceUnit": "凛ルート十四日目-03:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"You...! Archer, how could you!?\"\n\"Now you're getting it. So don't go waving around that sword too much, Saber. If you unleash its power, then I will have no choice but to counter it.\nIf that were to happen, it wouldn't be us who would perish, but the bystanders around us.\n...Knowing you, you would sacrifice yourself to protect that boy. I probably won't survive after Projecting a sacred sword.\nThat means only a single person, Shirou Emiya, would survive. Then everything would be for naught.\"",
+      "sourceUnit": "凛ルート十四日目-03:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "Archer raises his left arm.\nAt the signal, swords start to levitate behind him.",
+      "sourceUnit": "凛ルート十四日目-03:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't resist.\nYou won't die if you're lucky. Just ask your Master to heal you after my business here is finished.\"\nArcher's finger points at Saber.\nCountless swords turn and point at Saber.\nEvery single one of those swords is capable of delivering a killing blow.",
+      "sourceUnit": "凛ルート十四日目-03:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"...Feel free to dodge if you'd like. But just know the man behind you won't be so lucky.\"\nHe gives his command to the swords.",
+      "sourceUnit": "凛ルート十四日目-03:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "\"......!\"\nThe infinite amount of swords start their assault.\nSaber can't afford to move a single inch from her spot.\nKnowing a single mishap could be fatal, Saber grips the sword in her hand and strikes down each and every sword that rains down.",
+      "sourceUnit": "凛ルート十四日目-03:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"...Trace, on.\"\nMy headache is taking away my ability to think.\nMy Magic Circuits will only last for one more try.\nMy devastated insides are scorched beyond recognition and on the verge of melting.\nBut all of that stopped mattering from the moment I saw his world.\nNext thing I know, I'm focusing my strength and running up next to Saber, fixing my eyes on those annoying swords.",
+      "sourceUnit": "凛ルート十四日目-03:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou!? You can't be here, step back!\"",
+      "sourceUnit": "凛ルート十四日目-03:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "Who cares?\nIf my eyes can't keep up with the flurry of swords, then what I need to do now is let my senses take over and analyze them.\nEven if my head can't process any faster, I'm still pushing it beyond its limit.",
+      "sourceUnit": "凛ルート十四日目-03:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "The next wave of swords is coming.\nIt feels as if the hammer of a gun knocks down on the back of my head.",
+      "sourceUnit": "凛ルート十四日目-03:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't—\"\nI reach out my left arm.\nI don't have a shred of doubt.\nI copied so many up until now.\nIf the logic and the method behind what I did was correct,\n\"—give me that bullshit, you bastard!!!\"\nthen there's no way I can't copy the flurry of swords before me!",
+      "sourceUnit": "凛ルート十四日目-03:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "...Fragments shatter around us.\nWhen I opened my eyes, his Reality Marble or whatever it's called was gone.\nWhat remain are the scattered fragments of swords and...\n\"Hah...hngh...ah...hah...!\"\nA hellish feeling of nausea that makes me gag as if I'm about to throw up my own organs.",
+      "sourceUnit": "凛ルート十四日目-03:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe stares at me with animosity.\n\"Wait... What do you think you're doing!? Archer!\"\nArcher grabbed Tohsaka out of her cage of swords and restrained her.",
+      "sourceUnit": "凛ルート十四日目-03:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh! Hmm! Nnnngh!\"\nTohsaka violently moves her body, trying to get away from Archer's grasp.\n\"Ah...eh...?\"\nI don't know what he's done, but Archer put his hand on the back of Tohsaka's neck, and her consciousness is gone.",
+      "sourceUnit": "凛ルート十四日目-03:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "...After that, he decides to leave the church.\nHe holds Tohsaka in his arms as he leaps up the stairs that lead to the ground above.",
+      "sourceUnit": "凛ルート十四日目-03:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"...Where do you think you're going, Archer?\"\n\"To a place that won't be interfered with by anyone.\nBesides, I ran out of magical energy. I don't have the strength left to finish that boy when you're protecting him.\"",
+      "sourceUnit": "凛ルート十四日目-03:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why are you taking Rin with you? Is she your hostage?\"\n\"I wouldn't put it like that. As long as she's with me, that boy has no choice but to follow me.\nOn top of that, Rin is now your Master. You might think highly of that boy but your Master's life is irreplaceable.\"",
+      "sourceUnit": "凛ルート十四日目-03:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I am trying to fight this nausea.\nTrying hard to hold on so I don't pass out, I respond to his nonsense.\n\"...Outside of the town.\"\nAnd then...\nExhausted, I tell him without even looking at him.",
+      "sourceUnit": "凛ルート十四日目-03:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"What?\"\n\"...I just told you, head to the forest outside of the town. There's an abandoned castle and if it's there, we won't bother anyone.\"\n\"Shirou...!?\"",
+      "sourceUnit": "凛ルート十四日目-03:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "\"You have something you want to say to me, right? Fine, let's hear it.\nThere are things I want to say to you, too.\"\nI am fading in and out of my consciousness.\nDespite the nauseating sickness, I told him as much.",
+      "sourceUnit": "凛ルート十四日目-03:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"The forest outside of the town... I see, Einzbern Castle.\nIndeed, no one would interfere with us in that castle.\n...Hmph, quite a resolve you have there, Shirou Emiya.\"\n\"...Shut up. That's not important.\"\nI don't want to hear his flattery.\nIf I have to listen to any more of it, my innards might burst out of my body from the unbearable pain.",
+      "sourceUnit": "凛ルート十四日目-03:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"...I dare you to try to lay a finger on Tohsaka.\nIf you do, I will kill you even if I have to ask Saber for help.\"\nA sharp pain attacks me.\nI warn him in rage and claw at my head to fight my headache.",
+      "sourceUnit": "凛ルート十四日目-03:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. As your reward for the location, I will guarantee her safety for a day.\n...But I would advise you to hurry up. I don't have much time since I don't have a Master anymore. I won't last even two days.\nIf I don't get to kill you before that, who knows? I might kill the hostage out of resentment.\"",
+      "sourceUnit": "凛ルート十四日目-03:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "...His annoying laughter lingers in my ear as he leaves.",
+      "sourceUnit": "凛ルート十四日目-03:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "...\nI fell down on my knee before I can see him leave.",
+      "sourceUnit": "凛ルート十四日目-03:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...! No matter how much you force yourself, even with your skills, it's too early for you to perform the same level of Projection as Archer!\"\nShe holds me as I fall down.",
+      "sourceUnit": "凛ルート十四日目-03:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry, Saber. I let him take Tohsaka.\"\nI try to stand up while holding my head.",
+      "sourceUnit": "凛ルート十四日目-03:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou... Don't worry about that. Rin is fine. I don't think Archer would lay his hand on her.\nWhat you should really worry about is your body. Leave Rin to me, you should just go home and rest.\"",
+      "sourceUnit": "凛ルート十四日目-03:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, we don't have time...for...\"\nI feel like passing out as I try to finish that sentence.\n...Damn it.\nI can't believe this. It seems I don't even have strength left to form words.",
+      "sourceUnit": "凛ルート十四日目-03:page136:1"
+    },
+    "page137": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page138": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

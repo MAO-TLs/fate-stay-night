@@ -1,0 +1,176 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0507",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...ya! Emiya!\"\n\"Agh...\"\nAt the voice, I open my eyes.\n...My body feels hot.\nThe nausea won't go away, my head feels woozy, and I can't even stand up on my own.\n\"Are you awake? It's okay now! Do you recognize me!?\"\nI feel someone slapping my cheeks.",
+      "sourceUnit": "桜ルート七日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Only you would slap me at a time like this, Tohsaka.\"\n\"...Thank god. If you can snark, then you must be fine.\"\n...I wasn't trying to be flippant. It's just how I feel.",
+      "sourceUnit": "桜ルート七日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you laughing at, stupid? ...Just so you know, I'm not thanking you. Never pull something like that again. If you die, I won't be able to repay my debt.\"",
+      "sourceUnit": "桜ルート七日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She shoots me a glare.\nEven so, Tohsaka has one hand supporting my back, while the other is holding my hand as if to check my temperature.",
+      "sourceUnit": "桜ルート七日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka? Um, did something weird happen?\"\n\"You disappeared. You stepped on the shadow, and I thought you fell, but you were just gone. I think it came from over there.\"",
+      "sourceUnit": "桜ルート七日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks to the southern sky—no, the southwest, and grinds her teeth.",
+      "sourceUnit": "桜ルート七日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. But I felt like I was wrapped up in there forever.\"\n\"...Really? It's been less than ten seconds since you jumped into that thing. I'll prove it, look—\"",
+      "sourceUnit": "桜ルート七日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou!\"\nSaber comes running.\n\"Why did you attempt such folly again!?\"\nSaber supports me on her shoulder, and takes me from Tohsaka.",
+      "sourceUnit": "桜ルート七日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Stand away, Master of Archer. If you approach my Master again, I will consider it hostile action.\"\n\"Wait, what? Are we enemies?\"",
+      "sourceUnit": "桜ルート七日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. You are a Master, and you brought Archer with you.\nI don't know what Shirou's motive was for protecting you, but I cannot allow anyone to so easily approch my Master.\"",
+      "sourceUnit": "桜ルート七日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Saber glares at Tohsaka.\n...Oh, no. Come to think of it, I never updated Saber on the situation.",
+      "sourceUnit": "桜ルート七日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not like that, Saber. Tohsaka and I have a truce right now. Until we defeat Caster, that is.\"\n\"Shirou!? Stop, you must rest!\"\n\"I said she isn't our enemy. We have a deal.\"",
+      "sourceUnit": "桜ルート七日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. If you say so, then I won't fight her. So please...\"\n\"...Yeah, sorry. To be honest, I can't...talk...\"",
+      "sourceUnit": "桜ルート七日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "I desperately cling to consciousness as my mind strains under chills and nausea.\nI can pass out once I get home.\nUntil then, I need to keep my mind together, at least.",
+      "sourceUnit": "桜ルート七日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"He survived? Well, he didn't touch the main body. Someone with a physical body might get off with only a fever.\"\nArcher comes over.\nHis expression is neutral, even though he let Zouken escape. He's the calmest one here.",
+      "sourceUnit": "桜ルート七日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer. Do you know something about that shadow?\"\n\"...Not really. But one thing is for certain: that is what's been taking magical energy from people around the city ever since Caster died.\"",
+      "sourceUnit": "桜ルート七日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Archer sounds indifferent.\nThen, he directs his attention to me on the ground.",
+      "sourceUnit": "桜ルート七日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"It appears this is no longer the time to settle personal grievances. Isn't that right, Shirou Emiya?\"\n\"...Huh?\"\n\"Your instincts are correct about what that thing is.\n...Hmph. To think I'd be summoned as a Servant, but end up fighting that.\"",
+      "sourceUnit": "桜ルート七日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...? What are you...\"\nAh, right. You aren't a Guardian yet. You won't have faced its kind before... Good grief. The job never changes, no matter where I go.",
+      "sourceUnit": "桜ルート七日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "The red knight leaves, beckoning Tohsaka to go with him.\nBut before he does...",
+      "sourceUnit": "桜ルート七日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Your prospects aren't so grim quite yet.\nNothing has happened yet. Will you survive and clean up the aftermath, or nip this in the bud? There are still avenues open to you.\"\nHe murmurs, gazing up at the stars.",
+      "sourceUnit": "桜ルート七日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...The flickering repeats.\nFever permeates my body, and I can't feel myself walking.",
+      "sourceUnit": "桜ルート七日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Someone said something about catching a fever.\nIt feels like mosquitoes carrying fever are spreading through my body and swarming around my fingertips.",
+      "sourceUnit": "桜ルート七日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Senpai!?\"",
+      "sourceUnit": "桜ルート七日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "In my daze, I can't distinguish dreams from reality.\nIt's like I'm already asleep and trying my damnedest to escape from the dream back to my bedroom.",
+      "sourceUnit": "桜ルート七日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...? Weren't you asleep?\"\n\"Please move out of the way. The way you're holding him, it'll just be more painful for him.\"",
+      "sourceUnit": "桜ルート七日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"No, this is my duty.\nBesides, if he's contracted some disease, it could spread to you.\"\n\"...That's not what I mean.\nSaber, I don't know what you've been doing with Senpai. I know you won't tell me, so I haven't bothered to ask.\"",
+      "sourceUnit": "桜ルート七日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"But every day since you arrived, Senpai has looked like he's suffering.\n...If that was all, I would tolerate it. But he came back injured tonight!\"\n\"Sakura, I—\"",
+      "sourceUnit": "桜ルート七日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know what your circumstances are. But there has to be a better way than this!\nIf you can't even manage that, then don't involve him any further!\"",
+      "sourceUnit": "桜ルート七日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...I'm brought back to my room.\nSomeone's next to me, putting me to bed, I think.",
+      "sourceUnit": "桜ルート七日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"..., ...\"",
+      "sourceUnit": "桜ルート七日目-13:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I think they whispered into my ear, but I couldn't make it out.\nDid they say they were reckless?\nDid they apologize to me?",
+      "sourceUnit": "桜ルート七日目-13:page31:1"
+    },
+    "page32": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート七日目-13:page32:1"
+    },
+    "page33": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

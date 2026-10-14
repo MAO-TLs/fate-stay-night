@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0496",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A breeze enters the damp room.\nTwo sets of footsteps come from the opened door.\nOne is a hurried stomping, while the other sounds like it's being pulled along.",
+      "sourceUnit": "桜ルート七日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on. It's ready.\"\nThere's a thud.\nThe noise echoes through the dark, hidden room.\nShinji Matou pushes the other person he roughly dragged into the room.",
+      "sourceUnit": "桜ルート七日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Something is slithering and squirming on the floor.\nShinji Matou knows what they are.\nThey're the mysterious, vile creatures that his grandfather Zouken Matou has been breeding.",
+      "sourceUnit": "桜ルート七日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Shinji pushes someone into the room full of them.",
+      "sourceUnit": "桜ルート七日目-18:page3:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"There we go. Let's finish this quickly.\"\nHe speaks from atop the stairs.\nThe chamber is full of the creatures' musk. The moment any normal person steps foot into this room, they would be overcome by terror.",
+      "sourceUnit": "桜ルート七日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "But this person is an exception.\nThe things shy away from the figure who just entered.\nAre they afraid, or just sick of its presence?\nThe unseen monsters refuse to approach.\nThey writhe and tremble in a perimeter around the figure.",
+      "sourceUnit": "桜ルート七日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Make me a new book. You still have two left, don't you?\"\nThe presence reacts to Shinji's voice.\nIt creaks and scratches.\nThe darkness billows and rolls, as if eager to carry out the order.",
+      "sourceUnit": "桜ルート七日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Do what I say, then you can go back. That's what you want, don't you?\"\nThere's no answer.\nOnly the ear-grating chittering of the bugs fills the room.",
+      "sourceUnit": "桜ルート七日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. We'll have to fight him sooner or later. If you keep being selfish...\"\n\"Then you're the one who will have to fight him,\" Shinji finishes.\nThe figure trembles.\nIt can't do that.\nThe old man whom Shinji calls his teacher won't allow it.",
+      "sourceUnit": "桜ルート七日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But the figure knows that Shinji doesn't always follow his teacher's directions.\nRight now, he's filled with hatred for Shirou Emiya.\nHis mind has long since lost any patience for rejection.\nThe old man is keeping him away from the conflict for his own safety, but to Shinji, it's an unacceptable humiliation.",
+      "sourceUnit": "桜ルート七日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"......\"\nAfter a long silence, a change occurs in the room.\nAnother figure appears in a flash of light.\nThe creatures' presence is driven from the room by her appearance.\nEven these vermin of low intelligence know to fear her enormous, monstrous aura.",
+      "sourceUnit": "桜ルート七日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Good. You can leave everything else to me.\"\nHer body is slender and supple. Her hair, long enough to reach the floor.\nClad in a single black garment, she is the Servant Rider.",
+      "sourceUnit": "桜ルート七日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me ask you a question, Shinji.\nWill you only use me to protect yourself?\"\nIn the depths of the chamber,\ngazing up from the bottom of the pen, the dark Servant inquires.",
+      "sourceUnit": "桜ルート七日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I need you to keep me safe if anything crazy happens.\"\nShinji, a Master once again, fails to contain his delight. He's so ecstatic that he blurts out an answer which can only be a lie.",
+      "sourceUnit": "桜ルート七日目-18:page16:1"
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

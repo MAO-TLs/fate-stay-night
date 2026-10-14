@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0317",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah. I need to tell Tohsaka that Issei is innocent before she attacks him.\"\nI should hurry.\nBefore their relationship suffers beyond repair, I have to let my hot-headed partner know.",
+      "sourceUnit": "凛ルート八日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Tohsaka left a while ago.\"\nThen...\nAfter searching everywhere else first, I stopped once more at classroom 2-A, where the final blow was dealt.",
+      "sourceUnit": "凛ルート八日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"This sucks... She was so punchy earlier yet she went home already...\"\n...This is starting to feel stupid.\nI can just call her once I get home...",
+      "sourceUnit": "凛ルート八日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I check the school directory as soon as I get home and call Tohsaka's.\nThe phone rings.\nAfter calling dozens of times, right before I'm ready to give up, she picks up.",
+      "sourceUnit": "凛ルート八日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, this is Tohsaka.\"\nThe voice on the other end is definitely Tohsaka's.",
+      "sourceUnit": "凛ルート八日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hello? It's Emiya. Do you have time right now?\"\n\"Huh? Stop fooling around, Ar—Wait, no way, is it actually you...!?\"\n\"...Hey. I don't have the free time to be playing around with you.\"",
+      "sourceUnit": "凛ルート八日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... No, that's not it... Sorry, I was just a little surprised. Did something happen for you to call?\"",
+      "sourceUnit": "凛ルート八日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"It's about Issei. I promised you that I would get it cleared up today. Issei wasn't a Master. He didn't have a Command Spell anywhere, so there's no doubt.\"",
+      "sourceUnit": "凛ルート八日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? ...I'm surprised that you actually looked into it today. So Issei is innocent, huh? ...Well, we're out of leads now, but I guess that's fine.\"\nI can't tell whether she's disappointed or relieved. I can't grasp Tohsaka's reaction that well through the phone.",
+      "sourceUnit": "凛ルート八日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, good work. We'll think about what to do about the search for the Master tomorrow. So is that all? If so, I have to go.\"\n\"...\"\nI don't have anything else to say.\nBut, there is one other thing that bothers me.",
+      "sourceUnit": "凛ルート八日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. You seemed surprised earlier. Did something happen?\"\n...\nI can feel Tohsaka's bewilderment through the phone.\nAfter a brief moment of silence...",
+      "sourceUnit": "凛ルート八日目-04:page10:1"
+    },
+    "page11": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

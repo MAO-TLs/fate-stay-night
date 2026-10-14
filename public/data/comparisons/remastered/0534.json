@@ -1,0 +1,282 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0534",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Morning.\nI wake up to sunshine filtering through the paper windows, and notice my neck feels weirdly sluggish.",
+      "sourceUnit": "桜ルート九日目-26:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm...\"\nMy neck feels this way because my shoulders are stiff.\nI probably strained my neck muscles because I fell asleep on my stomach.",
+      "sourceUnit": "桜ルート九日目-26:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "On the other hand, my back injuries seem a lot better.\nThey don't hurt anymore, so they shouldn't get in the way of daily life.\n\"Oh, crap. It's already past seven.\"",
+      "sourceUnit": "桜ルート九日目-26:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh, ow.\"\nI feel a sudden sting in my abdomen.\nThe area where I was punched feels fine when I'm staying still, but sudden movements make it ache.",
+      "sourceUnit": "桜ルート九日目-26:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"It'll probably leave a bruise. This is gonna smart for a while.\"\nStill, it's nothing I can't put up with.\nThe pain isn't bad enough to keep me from moving, so this injury shouldn't get in the way of daily life, either.",
+      "sourceUnit": "桜ルート九日目-26:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I change clothes and leave my bedroom.\nThe smell of breakfast wafts out from the living room, so Sakura must be getting things ready for us.",
+      "sourceUnit": "桜ルート九日目-26:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning. Sorry I overslept. Do you still need any help?\"\n\"Good morning, Senpai. It's unusual for you to sleep in.\"\n\"Oof. My bad. Feels like morning came as soon as I went to bed.\"",
+      "sourceUnit": "桜ルート九日目-26:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You're hurt, so there's no helping that. I went to go wake you up earlier, but you didn't respond at all. You must've been exhausted.\"",
+      "sourceUnit": "桜ルート九日目-26:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Wow.\nI don't even remember Sakura trying to wake me up.\nNot only are my shoulders stiff, my brain isn't even fully awake, apparently.",
+      "sourceUnit": "桜ルート九日目-26:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I'm going to go wash my face. Just hang on, I'll be right back.\"\n\"No, please take your time in the bathroom. I'll set up for breakfast by myself today.\"\nSakura really is upbeat today.",
+      "sourceUnit": "桜ルート九日目-26:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nWell, if she insists, then I shouldn't protest any further. It's fine.\n\"Okay, well, I'll take my time washing up, then.\"",
+      "sourceUnit": "桜ルート九日目-26:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. I'm happy with how the miso soup turned out, so look forward to that!\"\nI nod, then cross the living room into the hallway.",
+      "sourceUnit": "桜ルート九日目-26:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, wait.\"\nThat was strange.\nI just passed by, glad to see her doing well, but still, something was off about—",
+      "sourceUnit": "桜ルート九日目-26:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI hear something fall.\nI immediately recognize it as the sound of a person collapsing. Maybe I've gotten used to hearing it lately.",
+      "sourceUnit": "桜ルート九日目-26:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura!\"\nI run back to the living room.\nSakura is drowsily getting up, as if she'd just fallen on the floor.",
+      "sourceUnit": "桜ルート九日目-26:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\nI support her unsteady body.",
+      "sourceUnit": "桜ルート九日目-26:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can feel the heat off her body, just like I did before.\nHer ragged breathing and the sweat soaking through her shirt are obvious symptoms of a fever.",
+      "sourceUnit": "桜ルート九日目-26:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...S-Senpai.\"\nShe finally notices me.\nSakura looks at me with unfocused eyes.",
+      "sourceUnit": "桜ルート九日目-26:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I said you could take your time, but you came so quickly. Um, hold on just a minute. I'll get breakfast ready.\"\nBeaming at me, she untangles herself from my arms.",
+      "sourceUnit": "桜ルート九日目-26:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, you...\"\nRather than pushing herself to do it, Sakura doesn't seem to have noticed her own fever.",
+      "sourceUnit": "桜ルート九日目-26:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. Don't worry about breakfast. You need to go back to your room and lie down. You have a really bad fever.\"\n\"Huh...? Me?\"",
+      "sourceUnit": "桜ルート九日目-26:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Damn it, the fact you didn't even notice is a bad symptom! Damn it, why...\"\nWhy didn't I notice it sooner?\nEven if I'm sad about Saber, I should have paid more attention to Sakura's condition who's still right by me. What's wrong with me?",
+      "sourceUnit": "桜ルート九日目-26:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Senpai? I'm okay, really. I just tripped, I'm not really dizzy or anything...\"",
+      "sourceUnit": "桜ルート九日目-26:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be stupid! You have a really high fever! I can tell even without using a thermometer!\"",
+      "sourceUnit": "桜ルート九日目-26:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"",
+      "sourceUnit": "桜ルート九日目-26:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I lead her to the guestroom.\nI need to let Sakura rest.\nI'll let the school know she's out sick, make something easy to digest for breakfast, and for lunch...right, I'll ask Grandpa Fujimura to send a caretaker over.",
+      "sourceUnit": "桜ルート九日目-26:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"U-um, Senpai, where are you going? You should make sure to eat before you leave for school.\"",
+      "sourceUnit": "桜ルート九日目-26:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Sakura still doesn't understand what's happening.\nMaybe she's so excited because her fever is making her delirious.",
+      "sourceUnit": "桜ルート九日目-26:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You're taking the day off. I want you to stay in your room all day. I'll let the school know. I'm going to see Fuji-nee there anyway, so I can just tell her then.\"",
+      "sourceUnit": "桜ルート九日目-26:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? I'm not going to school today?\"\n\"That's right. Who else would I be talking about? I...might still be hurt, but I feel fine. I don't have any reason to be absent.\"\n...",
+      "sourceUnit": "桜ルート九日目-26:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...No, I don't have a good reason to make myself go to school, either. Without Saber, it's too risky to go alone.\nBut still, I need to be there today.\nI need to report what happened with Zouken and Assassin to Tohsaka. I can't stay holed up here.",
+      "sourceUnit": "桜ルート九日目-26:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, you need to rest, Sakura. You're always working hard, so you should rest hard, too. I'll be home as soon as I take care of some business.\"",
+      "sourceUnit": "桜ルート九日目-26:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. N-no, I'm okay, really!\nSo let's have breakfast and go to school together. If we do that, my fever will get well right away!\"\n\"Of course it won't, silly. You're acting crazy, Sakura.\"",
+      "sourceUnit": "桜ルート九日目-26:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not crazy!\nYou're the one being unreasonable. I feel fine and I don't have a fever, but you're still injured! So I can't be the only one...resting...\"\n\"Eh, whoa, Sakura!\"",
+      "sourceUnit": "桜ルート九日目-26:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? That's weird. It's kinda...hard to breathe...\"\nSakura nearly falls to the floor, panting.",
+      "sourceUnit": "桜ルート九日目-26:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "...Her body feels strangely heavy in my arms.\nDoes she lack the strength to stand, or is she collapsed because she suddenly got so heavy?\nEither way, she has a fever that prevents her from walking around on her own, even if she believes otherwise.",
+      "sourceUnit": "桜ルート九日目-26:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Idiot. Listen, I'm making you rest at home today, no matter what. Be mad at me if you want, but if you strain yourself this much, you'll end up needing to stay home tomorrow, too.\"",
+      "sourceUnit": "桜ルート九日目-26:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...But Senpai, I need to go to school.\"\nSakura mumbles incoherently, her breathing unsteady.\n...\nI ignore it and carry her to her bedroom.",
+      "sourceUnit": "桜ルート九日目-26:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "By the time we arrive, Sakura's already asleep.\nOr rather, she's still in a half-conscsious state, her breathing labored.\nJust once, she firmly grabs hold of the arms I'm carrying her with.",
+      "sourceUnit": "桜ルート九日目-26:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnyway, I'll tuck her into bed.\n\"Ah...Sen...pai...?\"\nHer voice is unfocused.\nHer eyes are on the ceiling, not seeing me.",
+      "sourceUnit": "桜ルート九日目-26:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura.\"\nHer ragged breathing, her flushed cheeks, her damp shirt sticking to her skin, the anguished rise and fall of her chest with each breath.",
+      "sourceUnit": "桜ルート九日目-26:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh.\"\nThe sight is so enchanting, I turn away in a hurry.\nSakura's the one suffering from a fever, so why am I acting so inappropriately!?",
+      "sourceUnit": "桜ルート九日目-26:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I'd better call for a caretaker.\"\nI can't change Sakura's clothes, much less clean her body.",
+      "sourceUnit": "桜ルート九日目-26:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Thankfully, her breathing stabilizes once she's in bed, so now I just need to wait for her fever to break.\nOnce she can walk on her own, I'll take her to the hospital and get some medicine prescribed.",
+      "sourceUnit": "桜ルート九日目-26:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. I'm going to call someone to come help, so get some sleep. I think you'll be comfortable with one of the caretakers from Fuji-nee's place.\"\n...\nShe doesn't answer.\nHer breathing is still labored, but at least she's sleeping.",
+      "sourceUnit": "桜ルート九日目-26:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Phew. You were so assertive today. Why do you want to go to school so badly?\"\nI talk out loud to myself.\nSakura's asleep, so I know she won't answer.",
+      "sourceUnit": "桜ルート九日目-26:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"See ya. I'm off to school.\"\nI get up and head for the door.\nJust as I do...\n\"...I want to go to school with you, Senpai.\"\nI hear a reply.",
+      "sourceUnit": "桜ルート九日目-26:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...?\"\nI turn around.\nSakura's still asleep, but with a worried frown.\n\"...Oh, you were just sleep-talking.\"",
+      "sourceUnit": "桜ルート九日目-26:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I leave the guestroom this time.\nBut as I do...",
+      "sourceUnit": "桜ルート九日目-26:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...I have to protect you, Senpai.\"",
+      "sourceUnit": "桜ルート九日目-26:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "I hear her say something in her fever dream.",
+      "sourceUnit": "桜ルート九日目-26:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "On the way to school, I stop by Fuji-nee's house and ask for a caretaker.\nI sometimes forget because Fuji-nee doesn't make a big deal out of it, but the Fujimura residence is one of the most extravagant homes in our neighborhood.",
+      "sourceUnit": "桜ルート九日目-26:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "It isn't a company, yet there are dozens of fierce-looking men who call themselves \"employees.\"\nMost of them live in a separate building on the compound, but anyway, it's a huge family.\nThey also employ an appropriate number of workers, so I can ask them to lend me a caretaker who's available.",
+      "sourceUnit": "桜ルート九日目-26:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nI have them send over an emergency housekeeper that's helped me a number of times in the past before Sakura started coming around.\nSakura's acquainted with them too, so I feel comfortable leaving her to them.",
+      "sourceUnit": "桜ルート九日目-26:page53:1",
+      "recoveredDelimitedTail": true
+    },
+    "page54": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

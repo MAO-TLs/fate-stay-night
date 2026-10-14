@@ -1,0 +1,251 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0006",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Breakfast is lined up neatly on the table.\nA perfectly balanced meal of chicken with parsley salad, grilled salmon, blanched spinach, miso soup with radish and carrots, and grated yam soup.",
+      "sourceUnit": "セイバールート一日目-06:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The gentle tapping of chopsticks is the only sound in the room.\nSakura isn't typically talkative, and I hardly have anything to chat about during meals.",
+      "sourceUnit": "セイバールート一日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "So, we eat in silence.\nNormally it's much rowdier than this, but the person who usually causes the commotion...\n...must have watched a spy movie or something last night, because she's eyeing the two of us through a newspaper she propped up in front of her food.",
+      "sourceUnit": "セイバールート一日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura, it may not be wise to read while you eat.\"\n\"...\"",
+      "sourceUnit": "セイバールート一日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Sakura remarks diffidently, but Fuji-nee ignores her.\nFuji-nee's acting weird, but her being weird at breakfast isn't...really all that weird for her.\nSakura's used to it too, and she's eating as if nothing's the matter.",
+      "sourceUnit": "セイバールート一日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Sakura typically cooks up Western dishes.\nShe really only began learning to cook Japanese dishes since she started coming here to help me out.\nSakura learned to cook simple Japanese dishes, at least for breakfast, because Fuji-nee and I prefer them.",
+      "sourceUnit": "セイバールート一日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Now, Sakura's cooking skills have improved to the point she's better than me, and I'm the one who was teaching her.\nHer miso soup is flavorful and refined now, and she's even gotten to the point where she can grate yams to make yam soup.\nActually, I think today's the first time she's served yam soup.",
+      "sourceUnit": "セイバールート一日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. Sakura, could you pass the soy sauce?\"\n\"Here—oh my, Senpai. You've run out of the soy sauce you usually use.\"\n\"Then I can use Fuji-nee's. Pass it over.\"",
+      "sourceUnit": "セイバールート一日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura, do you mind?\"\nFuji-nee nods.\nThe newspaper shuffles.",
+      "sourceUnit": "セイバールート一日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Here you go. Are you going to use it for your yam soup?\"\n\"Yeah. Everyone puts soy sauce on grated yams.\"\nA line of soy sauce streams from the bottle onto the grated white mound.\nI stir the mixture up, pour it over my rice, and take a bite.",
+      "sourceUnit": "セイバールート一日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Mmm. The stickiness of the grated yam combined with the intense flavor of the soy sauce...\n\"(Cough)! What the...!? This isn't soy sauce! It's...it's...oyster sauce!\"",
+      "sourceUnit": "セイバールート一日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh..ahahahahaha!!!\"\nFuji-nee tosses her newspaper onto the table with an enthusiastic flick of her wrists.",
+      "sourceUnit": "セイバールート一日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What'd you think of my little stunt switching the oyster sauce and soy sauce labels first thing in the morning!?\"\nThe not-so-mysterious spy punches the air in victory.",
+      "sourceUnit": "セイバールート一日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Who pulls a stunt like that first thing in the morning!? You're going to turn twenty-five this year, but you're still the same childish Fuji-nee I've always known!\"\n\"Heh heh! That'll teach you a lesson after yesterday!\nYou and everyone else who ganged up on me deserve divine justice!\"",
+      "sourceUnit": "セイバールート一日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"People can't enact divine justice! I knew you were weirdly quiet! I can't believe you've been plotting this since yesterday! You have entirely too much free time on your hands!\"",
+      "sourceUnit": "セイバールート一日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right! And because of that, I really need to get to work grading tests. So I need to skedaddle, or else I'm in real trouble!\"\nFuji-nee sits back down and shovels her breakfast into her mouth.",
+      "sourceUnit": "セイバールート一日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for the meal! Breakfast was great as usual, Sakura.\"\n\"Oh...it was my pleasure.\"\n\"And now I'm heading off! You two will be in trouble if you're late for school!\"",
+      "sourceUnit": "セイバールート一日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "And off she goes, stomping out in a rush.\nThere's something terribly wrong with a world that allows someone like her to be a teacher.",
+      "sourceUnit": "セイバールート一日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...Senpai?\"\n\"Sorry that Fuji-nee hardly savored the breakfast you took so much work into making.\"\n\"No, it's not that. Um...what did you do to Ms. Fujimura yesterday? She wouldn't usually go so far as to mess with someone's meal.\"",
+      "sourceUnit": "セイバールート一日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Well, I accidentally called her by her nickname.\"\n\"Well I guess there's no avoiding her getting angry again. And you didn't apologize?\"\n\"Sorry. I forgot, but only because that kind of stuff happens all the time.\"",
+      "sourceUnit": "セイバールート一日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Still not good. You know how much Ms. Fujimura hates being called by her nickname. You made her cry again, didn't you?\"\n\"Not only did I make her cry, she also ran away like a scared rabbit. And thanks to that incident, yesterday's English class ended up being a study hall.\"\nIn fact, everyone in class worked together to make an award for me from their notebook paper because of that. I threw it away, obviously.",
+      "sourceUnit": "セイバールート一日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh my. Sounds like you brought that on yourself then, Senpai.\"\nFuji-nee is like an older sister to Sakura, so she's typically on Fuji-nee's side.\nWhich is fine on its own, but I wish she would consider the fact that I have to deal with Fuji-nee all day long.",
+      "sourceUnit": "セイバールート一日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee was originally an acquaintance of my old man, and she's swung by the house pretty frequently since I was adopted.\nShe kept on coming over even after my old man died, and now she acts like a freeloader, eating breakfast and dinner every day.",
+      "sourceUnit": "セイバールート一日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Actually...\nIt might have been thanks to Fuji-nee that I was able to make it on my own after my old man died.\nAnd now, it is me, Fuji-nee, and Sakura who are the residents of this Emiya house.",
+      "sourceUnit": "セイバールート一日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "But at the same time, I'm the only one who knows that my old man was a mage.\nThey say mages have to keep that part of their lives secret.\nWhich is why I've also been hiding from others that I'm learning magecraft after I became my old man's apprentice.",
+      "sourceUnit": "セイバールート一日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Learning\" may be a bit of a stretch, really, since I can barely use magecraft properly.\nSo it wouldn't make much of a difference whether I hide magecraft or not, but since it was my old man's dying wish, I've been training in secret.",
+      "sourceUnit": "セイバールート一日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "I finish breakfast and get ready for school.\nI put away the dishes with Sakura as I listen to the news on TV in the background.",
+      "sourceUnit": "セイバールート一日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura is looking blankly at the TV.\nA flashy caption reading \"Gas Leaks Continue\" pops up on the screen.",
+      "sourceUnit": "セイバールート一日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "There seems to have been a big accident in the neighboring city of Shinto.\nIt happened in a building in the business district. Apparently everyone on one of its floors lost consciousness from oxygen deprivation.\nAuthorities have been calling it an accident resulting from gas leaks, but for some reason these incidents have been happening often.",
+      "sourceUnit": "セイバールート一日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you worried about the incident, Sakura?\"\n\"Eh...well, not really. I was just thinking that this happened in Shinto, which is very close to us. Senpai, your part-time job is in Shinto, right?\"\n\"Yeah, but the shop's not that big. I don't think an accident like that would happen there.\"",
+      "sourceUnit": "セイバールート一日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "But I can't entirely ignore the idea, either.\nGas leaks can happen in any building, and it especially pains me to think that hundreds of people have fallen victim.",
+      "sourceUnit": "セイバールート一日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Some say that these accidents are happening because of faulty construction work done during the rapid development projects in Shinto.\nEither way, I hope there won't be any more victims.",
+      "sourceUnit": "セイバールート一日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"It's a disturbing story. We need to be careful too.\"\n\"Well don't worry about that, Senpai. I always make sure to check that the gas is turned off properly. Twice.\"",
+      "sourceUnit": "セイバールート一日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Sakura proudly proclaims.\n\"No, that's not my point.\"\nYep. I've always known Sakura is a little off, too.",
+      "sourceUnit": "セイバールート一日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, did you lock the back door?\"\n\"I bolted it. Is that a problem?\"\n\"Not at all. Then I'll lock all the doors. What time are you planning to be home today, Senpai?\"",
+      "sourceUnit": "セイバールート一日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I think I'll be a home a little late. What about you, Sakura?\"\n\"I should be back at the usual time. I think I will be back before you, so I'll make preparations for dinner.\"\n\"Yeah, that'll be great. I'll try to come home as soon as possible too.\"",
+      "sourceUnit": "セイバールート一日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "The gate is locked tight.\nSakura and Fuji-nee both have keys to the house, and the rule is that whoever leaves last is in charge of locking everything up.\n\"Let's go. You'll be late for morning practice if you don't hurry.\"\n\"Okay. Then let's hurry then, Senpai.\"",
+      "sourceUnit": "セイバールート一日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Sakura and I walk into town.\nWe walk downhill, along a long wall, to reach a more populated residential area.\nThe Emiya house is located on top of a hill, away from the center of town.",
+      "sourceUnit": "セイバールート一日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "Heading down the hill leads us to the residential area.\nGoing further down, we reach the intersection at the center of town.",
+      "sourceUnit": "セイバールート一日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Several roads lead out from the center of town: there's a large bridge that connects to the neighboring town,\na hill that leads to Ryudou Temple,\na residential area located opposite my house,\na shopping district that both Sakura and I often go to,\nand finally, there's a path that leads to our school.",
+      "sourceUnit": "セイバールート一日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "We head straight to school without taking any detours.\nIt's barely seven o'clock, so there's hardly anyone around.\nStudents making their way to their morning club activities are the only ones to be found along our route.",
+      "sourceUnit": "セイバールート一日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"See you later. Good luck at practice.\"\nI see Sakura off at the school gate as usual.\nSakura's in the kyudou club, so this is where we usually split off.",
+      "sourceUnit": "セイバールート一日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd yet...\nSakura doesn't budge this morning.",
+      "sourceUnit": "セイバールート一日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? Are you not feeling well or something?\"\n\"No...it's not that... Senpai, maybe it's time you come visit the dojo?\"",
+      "sourceUnit": "セイバールート一日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I don't really have any business at the dojo. Besides, Issei asked me to do something, so I need to go to the student council room.\"",
+      "sourceUnit": "セイバールート一日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I suppose you're right. I'm sorry for bringing it up.\"\nSakura quickly bows her head.\n\"Hm?\"",
+      "sourceUnit": "セイバールート一日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be going, then. Please look forward to dinner tonight.\"\nSakura runs towards the dojo, seeming almost apologetic.\n\"What was that?\"\nI wonder what that was all about...",
+      "sourceUnit": "セイバールート一日目-06:page47:1"
+    },
+    "page48": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

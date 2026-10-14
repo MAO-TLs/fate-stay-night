@@ -1,0 +1,396 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0265",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Hup...!\"\nJust by instinct, I leap without looking.\nI use Tohsaka's blind spot, the corner of the hallway as a shield, and jump sideways with all my might...!",
+      "sourceUnit": "凛ルート五日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Just barely, I slide into the hallway.\n\"Damn...!\"\nI hear her click her tongue irritatingly and something heavy hit the wall.\n\"Wait... What did she...!?\"\nI look behind me as I stand up.",
+      "sourceUnit": "凛ルート五日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The wall...\nThe wall that was behind me has something sizzling and smoking coming out of it.\nAnd...\nTo be more specific, there are three fist-sized burn marks on the wall.",
+      "sourceUnit": "凛ルート五日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nA projectile weapon... No, that is a curse that infects the target with illness.",
+      "sourceUnit": "凛ルート五日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I think the Gandr Shot that Tohsaka was talking about is from Northern European Rune magecraft. It's an indirect curse that can worsen the condition of a person by pointing at them.\nBut that should just be a curse that makes a person feel sick. It shouldn't be anything like physically striking something with a projectile.",
+      "sourceUnit": "凛ルート五日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "And yet...Tohsaka's Gandr is so packed full of magical energy, it manifests like a bullet.\nLike, it doesn't just appear similar to a bullet, but strikes like one too...!",
+      "sourceUnit": "凛ルート五日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Wow, as expected of Tohsaka.\nThere's usually a limit to how much force one can use to turn a slow curse into an immediate curse.",
+      "sourceUnit": "凛ルート五日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Man, is she trying to kill me...!?\"\n\"That's what I've been telling you!\"\nHer descending footsteps echo behind me.",
+      "sourceUnit": "凛ルート五日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nI regain my balance and take off at full speed.\nNo time. I have no time. I have to get out of here!",
+      "sourceUnit": "凛ルート五日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"The hallway. No, the hallway is stupid...!\"\nCan't do that. There's no cover.\nTohsaka's weapon is a projectile, so if I just run down the hallway, it'll just funnel the shots right into my back.",
+      "sourceUnit": "凛ルート五日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't move...!\"\nTohsaka leaps out from around the corner.\nAnd just in time, a hair ahead of her...\nI dive into the classroom beside me, room 2-F.",
+      "sourceUnit": "凛ルート五日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Gandr shots fill the hall.\nIt seems like Tohsaka fired the moment she cleared the staircase.",
+      "sourceUnit": "凛ルート五日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What a joke, I can't fight something like that...! How can she tell me to fight!? I'm no match for her...!\"\nI urgently look around the classroom.\nI need protection.\nIs there some shield or clothes or bulletproof vest that would protect me even if I got shot...!?",
+      "sourceUnit": "凛ルート五日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap, she's here...!\"\nTohsaka's footsteps stop at the entrance of the classroom.\n...I'm sure she saw me run in here.\nMaybe she's wary of a counterattack so she froze just outside...",
+      "sourceUnit": "凛ルート五日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah right, idiot...!\"\nI run.\nAs I dart from one side of the classroom to the other, sprinting towards the exit up front...\nA hail of bullets mercilessly fly through the air!",
+      "sourceUnit": "凛ルート五日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Oh god, she's shooting like crazy...!\nThe bullets penetrate the wall, shooting radially inside the classroom.",
+      "sourceUnit": "凛ルート五日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...! One must've grazed my back!\"\nIf I hesitated for a moment longer I'd have been hit center mass.",
+      "sourceUnit": "凛ルート五日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh!? No way, how are you still standing!?\"\nRin Tohsaka springs into the classroom.\nThere are about four meters between us, as we stand at both entrances in the front and the back of the classroom. We glare at each other again... But I have to...!",
+      "sourceUnit": "凛ルート五日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I jump out to the hallway.\nEscaping through the classroom is not an option.\nAt this point, I can only sprint towards the stairs!",
+      "sourceUnit": "凛ルート五日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh!\"\nMan, she really is merciless!\nI think it scraped my temple just now! My side...! My side too!",
+      "sourceUnit": "凛ルート五日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow, owwww! Damn, are you serious!? That's going to screw me right over if I get hit by that!\"\n\"That's the point, you jackass!\nIf you don't want to get hurt, stop and I'll make it nice and quick!\"",
+      "sourceUnit": "凛ルート五日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "The bullets fly through the air.\nAnd just why does it sound even more like actual bullets now!?",
+      "sourceUnit": "凛ルート五日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, aren't you shooting Gandr!?\nThat sounds more like a freaking gun that'll kill me!\"",
+      "sourceUnit": "凛ルート五日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Shut up! Then don't run away! It's your fault I have to focus my fire! A moving target's harder!\"\nThe gunshots echo even louder.\nBut in the nick of time...\nI barely make it to the stairs by the 2-A classroom.",
+      "sourceUnit": "凛ルート五日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha... Haah, haah, ha...!\"\nI run down the stairs.\nMaking it this far brings me closer to victory.\nI reach the landing to the second story.\nIf I can get to the first floor, even Tohsaka won't go through the trouble to follow me...",
+      "sourceUnit": "凛ルート五日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "I'm speechless.\nTohsaka took a shortcut by jumping over the stairway handrail.",
+      "sourceUnit": "凛ルート五日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "By which I mean...\nIn order to get down to the first floor from these stairs, I now have Tohsaka barring the way in front of me. She smiles confidently.",
+      "sourceUnit": "凛ルート五日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm surprised. You're pretty agile. Even though you were saying you had some extra weight before.\"\n...\nAh.\nYeah, I think I can see a vein pop on her forehead.",
+      "sourceUnit": "凛ルート五日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "It's scary how I'm getting used to this.\nThe instant I realize it's coming, my legs send me jumping sideways as I hear the sound of bullets hitting the wall.",
+      "sourceUnit": "凛ルート五日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I flee in the opposite direction.\nThe good news is I'm down to the second floor hallway.\nIf I'm able to make good time, I can get to the first floor, where I'm sure even Tohsaka won't—",
+      "sourceUnit": "凛ルート五日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Really, still? You're persistent, Tohsaka! Give it up already!\"\n\"You also don't know when to give up...! I won't kill you, so give it up already...!\"",
+      "sourceUnit": "凛ルート五日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I don't know if it's because she's seriously serious, or because she's just lost it from the goose chase I've given her...\nBut if Tohsaka's shots get any louder, someone's gonna call the cops on us for sure.\n\"Eek...!\nI really gotta stop worrying about stuff like that...!\"\nWith the power increase comes bigger bullets, too.\nThe near misses from this so-called curse felt hot before, but now they're torching everything in their path.",
+      "sourceUnit": "凛ルート五日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow...!\"\nOne Gandr just faintly scrapes my leg.\nMy speed drops immediately.\nThe instant I know she'll catch up to me before I make it to the stairs, I fling myself into the nearest classroom.",
+      "sourceUnit": "凛ルート五日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...\"\nInside, I make for a window.\nSo now...\nI should be able to manage a jump out from this second story window.\nI'll get shot if I go back into the hall, so this looks like the better choice.",
+      "sourceUnit": "凛ルート五日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Das Schließung (Prepare). Vogelkäfig, Echo (Soundproof, Termination).\"\nI hear Tohsaka's voice in the hallway.\nSomething like a thin membrane envelops the classroom.",
+      "sourceUnit": "凛ルート五日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...A Bounded Field...?\"\nThe moment I realize that it is a Bounded Field with some sort of soundproofing effect, I know exactly what she's going to do.",
+      "sourceUnit": "凛ルート五日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Agh!!!\"\nI dive toward the wall by the windows.",
+      "sourceUnit": "凛ルート五日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "I can feel a strong magecraft being activated.",
+      "sourceUnit": "凛ルート五日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Quickly, I upend a desk and crouch behind it.",
+      "sourceUnit": "凛ルート五日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "This isn't like the Gandr she's fired until now.",
+      "sourceUnit": "凛ルート五日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I close my eyes and place my hand on the underside of the desk.",
+      "sourceUnit": "凛ルート五日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "She's making an incantation.\nEven though she has the help from her Magic Crest, Tohsaka is chanting a spell.",
+      "sourceUnit": "凛ルート五日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Will I make it? No, I have to make it.\nI skip all stages of the process of creating a second set of nerves in my spine, and pour as much magical energy as possible into the desk...!",
+      "sourceUnit": "凛ルート五日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Fixierung (Aim), Eile Salve (Volley Fire)...!\"",
+      "sourceUnit": "凛ルート五日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on!\"",
+      "sourceUnit": "凛ルート五日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Light and sound explode.\nIt's an ordinary day after school, and this mundane, everyday classroom is suddenly a dance floor.",
+      "sourceUnit": "凛ルート五日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "The desks dance.\nThe magical energy being released here is nothing like the pistol fire from before.\nThis is more like a machine gun in terms of coverage and speed.",
+      "sourceUnit": "凛ルート五日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I don't know exactly what effect this curse filled with magical energy has, but it's strong enough to be visible to the human eye.\nAs it has mass, it destroys everything it touches.\nThe desks that are lined up in the classroom go wild like a person set ablaze.\nMy eardrums are already screwed from the sounds of the dancing desks and the echoing bullets.",
+      "sourceUnit": "凛ルート五日目-06:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "A battlefield might actually be a more apt description.\nDespite that, there is not a single crack in the windows.\nIt must be the power of the Bounded Field that Tohsaka put up.\nRight now, this classroom is an enclosed space.\nEven if one can enter, they can't leave.",
+      "sourceUnit": "凛ルート五日目-06:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "The dozens of bullets fired in here are no exception, and even these loud sounds don't escape this room.\n...Damn.\nEven when she looks like she's going apeshit, Tohsaka is a calculating mage through and through!",
+      "sourceUnit": "凛ルート五日目-06:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nI put as much energy as I can produce into my makeshift shield.\nThe desk is under the effects of Strengthening—the one kind of magecraft I'm any good at—giving me a defense against this magical rain.",
+      "sourceUnit": "凛ルート五日目-06:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nBut, that's only for a brief moment.\nMy Strengthening can only endure three seconds from the rain of bullets.\nAs a result, I redo the spell the instant that it wears off and have to repeat this for as long as my magical energy lasts, but...",
+      "sourceUnit": "凛ルート五日目-06:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn, does she have infinite energy...!?\"",
+      "sourceUnit": "凛ルート五日目-06:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "The rain does not stop.\n...Maybe Tohsaka knows what's going on in this classroom.\nShe might still be attacking since she knows that I'm still blocking her attacks like this.\nIn that case, this rain would stop when...",
+      "sourceUnit": "凛ルート五日目-06:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...When my magical energy runs out, huh...?\"\nWhile focusing my energy on the desk, I slump my shoulders.\n...Then let's compare our stamina.\nWe'll just have to see who concedes first!",
+      "sourceUnit": "凛ルート五日目-06:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh, even so...\"\nIt's like the match has already been decided.\nI feel like I got KO'd fifteen seconds into the first round.\nI'm not wounded and I've still got stamina to spare. But I'm stuck and can't do anything if I run out of magical energy.",
+      "sourceUnit": "凛ルート五日目-06:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...And, man.\"\nI peek from behind the desk.\nThe smoke filling the classroom makes everything hazy.\nI hear a clanging sound.\nMy hand bumps into some kind of rod on the floor.\n\"A chair leg, huh... She really destroyed this place.\"\nWell, I guess it can be used as a makeshift weapon.\nThe rod is about twenty centimeters long. I take hold and pour what remaining magical energy I can into it.\n\"...It worked. Guess I never miss when it's the real thing.\"",
+      "sourceUnit": "凛ルート五日目-06:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "I try a practice swing with the Strengthened club.\n...Well.\nThings won't get better if I just sit here. I'll just be full of holes if she attacks again.\nMaybe I used too much magical energy, as I can't even stand.",
+      "sourceUnit": "凛ルート五日目-06:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Hrrk... Gah, kah...\"\nAnd I can't even breathe in this smoke.",
+      "sourceUnit": "凛ルート五日目-06:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Smoking me out, huh? She's got it all planned out.\"\nTohsaka is experienced in fighting.\nShe'll just corner me if I stay here.\n...I'm sure she's waiting for me in the hallway, but I can't escape from the window because of that weird Bounded Field.",
+      "sourceUnit": "凛ルート五日目-06:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "...\nI make up my mind and go to the hallway.\nWith the numbness of my feet still there, I push past the wreckage of desks, and I crawl forward into the white smoke before me.\nThen beyond the scorched ruins...",
+      "sourceUnit": "凛ルート五日目-06:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. You finally came out, Emiya.\"\nTohsaka is waiting for me, with her shoulders heaving.",
+      "sourceUnit": "凛ルート五日目-06:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI glare at her and manage to pull myself up.\nGuess the numbness is temporary and I can move my legs if I really try.",
+      "sourceUnit": "凛ルート五日目-06:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "Not that mobility will be enough.\nTohsaka is only winded from all the running around. She's got plenty of magical energy to spare.\nI've got no magical energy left. She's just a bit low on stamina.\nThe moment we resume this battle, I'm gonna be shot down for sure.",
+      "sourceUnit": "凛ルート五日目-06:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"It's over. Come on, throw away that silly weapon. You don't have a chance at winning.\"\nRin Tohsaka gloats over her victory.",
+      "sourceUnit": "凛ルート五日目-06:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThat pisses me off.\nHonestly, I know I have no chance in hell, but I can't help but feel insulted.",
+      "sourceUnit": "凛ルート五日目-06:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, you never know. And I don't think you have any room to say that while huffing and puffing like an asthmatic, stupid.\"\nI point the leg of the chair at Tohsaka as a sign that I'm gonna go down swinging.",
+      "sourceUnit": "凛ルート五日目-06:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm, I see.\nFine, I was going to be nice if you were going to give up, but it seems like that's casting pearls before swine. So let me apologize in advance, Emiya.\"\nShe grins.\nI wish she wouldn't make such an ominous smile.",
+      "sourceUnit": "凛ルート五日目-06:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Apologize for what? Even if you apologize now, I'm not going to forgive you for this.\"",
+      "sourceUnit": "凛ルート五日目-06:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm apologizing for what's about to happen, Emiya.\nI can't hold back if you resist, right? If I accidentally kill you, it'll be too late to offer any apologies then, you know.\"",
+      "sourceUnit": "凛ルート五日目-06:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nShit, she's serious...!\nEr, not that she hasn't been serious up to now, but this seems like she's had her last breaker flipped. I now realize I'm truly just a sitting duck, and earlier she was just getting her ducks in a row...",
+      "sourceUnit": "凛ルート五日目-06:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you finally understand? Good, if you said something brainless I'd have had to really do something about it.\"\n\"Ugh... What do you mean by 'something'?\"",
+      "sourceUnit": "凛ルート五日目-06:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe glares at me.\n...Er, okay.\nSomething brainless like that, yeah, I got it.",
+      "sourceUnit": "凛ルート五日目-06:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is your final warning.\nThrow away that silly weapon of yours and give me your Command Spells. Worst case scenario, it'll rip off your arm's nerves, but that's better than losing your life, right?\"",
+      "sourceUnit": "凛ルート五日目-06:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...\nGive up my Command Spells?\nThose aren't something I can afford to give, and most of all...",
+      "sourceUnit": "凛ルート五日目-06:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. I can't do that.\"\n\"...I see. Let me ask: Why?\"",
+      "sourceUnit": "凛ルート五日目-06:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"If I were to give you my Command Spells, that'd be the same as betraying Saber.\"\n\"...All right. I'll give you three seconds. It's your life, so you decide.\"",
+      "sourceUnit": "凛ルート五日目-06:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka raises her left arm.\nI bet she'll fire a Gandr the moment I refuse.\nI...",
+      "sourceUnit": "凛ルート五日目-06:page77:1"
+    }
+  }
+}

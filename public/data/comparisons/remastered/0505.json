@@ -1,0 +1,321 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0505",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The moon wanes.\nA strong wind brings clouds that cover its pale brilliance.",
+      "sourceUnit": "桜ルート七日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I step outside quietly, to let Sakura rest.\nIt's 10:00 PM. We're starting our patrol early to make up for yesterday.",
+      "sourceUnit": "桜ルート七日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "After we beat Caster, I got complacent, and that led to more innocent casualties.\nIf she's still alive and going after more civilians, then I need to settle this for good tonight.",
+      "sourceUnit": "桜ルート七日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We go down the hill and arrive at the intersection.\nThe question is where to go from here...",
+      "sourceUnit": "桜ルート七日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I sense a Servant.\"\n\"...! Are they close, Saber?\"\n\"Distance is of no concern. Even taking your speed into account, we can catch up to them in about five minutes if we hurry.\nWhat are your orders, Master?\"",
+      "sourceUnit": "桜ルート七日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Saber's asking me whether we should pursue or observe the enemy.\nI don't even need to think about it.",
+      "sourceUnit": "桜ルート七日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. Lead the way, Saber.\"\nSaber starts running.\nIt looks like she's headed east, toward the big bridge connecting Miyama and Shinto.",
+      "sourceUnit": "桜ルート七日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nThe instant I step foot into the park, I'm assailed by a nauseating aura.\nThe air feels tainted.\nA rotting odor reaches my nostrils.",
+      "sourceUnit": "桜ルート七日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\nJust being here is enough to turn my stomach.\nLight dizziness and a discomfort in my throat tears at my consciousness.",
+      "sourceUnit": "桜ルート七日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, over there!\"\n\"Guh...!\"\nI fight down the nausea and look across the park.\nThere, I see...",
+      "sourceUnit": "桜ルート七日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"E-Emiya!?\"\nTohsaka and Archer, their backs to us, and...\n\"Hm? It seems we have visitors.\"\nThat old man: Zouken Matou.",
+      "sourceUnit": "桜ルート七日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nOne look is enough to understand the situation.\nTohsaka and Zouken are fighting.",
+      "sourceUnit": "桜ルート七日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Dozens of small, indistinct things are scattered at Tohsaka's feet.\nSeveral times their number surround Archer.\nZouken must be using some kind of magecraft to attack them.",
+      "sourceUnit": "桜ルート七日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? If it isn't the Master of Saber.\nWell, good heavens. The Tohsaka girl is a smart one, to have reinforcements at the ready.\"",
+      "sourceUnit": "桜ルート七日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously not. Archer and I are enough to hold you down and make you spill your guts.\nThat's just an observer. He has nothing to do with me.\"\nTohsaka stays focused on Zouken, not paying us a second thought.",
+      "sourceUnit": "桜ルート七日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...Or so I expected.\n\"What the heck are you doing here at a time like this? Are you trying to get yourself killed!?\"\nShe hisses a fresh round of complaints at me.",
+      "sourceUnit": "桜ルート七日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou.\"\n\"...I know. This isn't the time to fight Tohsaka and Archer.\"\nI feel danger from the old man, just as Tohsaka won't take her eyes off him.",
+      "sourceUnit": "桜ルート七日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...He's a monster that lives off human blood.\nA descendant of the Makiris trying to acquire the Holy Grail, and the person who made Shinji into a Master.\nI can't just stand aside and let this fight play out.",
+      "sourceUnit": "桜ルート七日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. I hoped to keep this secret, but you leave me little choice. I doubt I can survive a battle against two Servants, after all.\"",
+      "sourceUnit": "桜ルート七日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "The cane in his hand rings out.\nWith a thud, he plants his arcane-looking cane onto the brick ground,\nand instantly, something that should be dead appears to defend the old man.",
+      "sourceUnit": "桜ルート七日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster! Damn it, she's really still alive!\"\n\"Stand back, Shirou. That thing is Caster, yet not Caster... Its appearance and abilities remain, but I don't feel a soul giving it thought.\nIt is merely an imitation wearing Caster's corpse.\"",
+      "sourceUnit": "桜ルート七日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Saber steps forward,\ninvisible sword at the ready.",
+      "sourceUnit": "桜ルート七日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Impressive, Saber. You figured out my puppet in a single glance. No wonder Shinji and Rider didn't stand a chance.\nJust as Caster fell to you with little resistance, I doubt Archer would fare much better.\"",
+      "sourceUnit": "桜ルート七日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that all you have to say?\nYou have done more than deceive us.\nThough we may be foes, Caster was a Heroic Spirit chosen to be a Servant. You must be prepared for the consequences of humiliating her corpse.\"",
+      "sourceUnit": "桜ルート七日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, now. I simply picked up something that was no longer in use.\nYou might consider that abhorrent, Saber, but I have something even more fiendish in store for you.\nYou are the supreme Servant.\nThat makes you a far greater prize to break than this pile of bones. I will feed your flesh to my worms and give you a fate just like her corpse.\"",
+      "sourceUnit": "桜ルート七日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"You wretch...\"\n\"Ha ha ha. Why so angry? Servants are ultimately tools to be used as their lord sees fit! It is no different from being bound by Command Spells after death. Why, you should thank me for turning you into mindless puppets!\"",
+      "sourceUnit": "桜ルート七日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Both Servants charge.\nAs if in unspoken agreement, Saber and Archer race forward to cut down the cackling fiend.",
+      "sourceUnit": "桜ルート七日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Two bladed gusts descend upon Caster.\nThe result was obvious from the start.",
+      "sourceUnit": "桜ルート七日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Caster can't beat Saber.\nEven if Zouken pulls her strings, her disadvantage is still clear.\nUnscathed by Caster's magecraft, Saber finishes off her opponent for the second time.",
+      "sourceUnit": "桜ルート七日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "The dead Servant's husk collapses.\nSaber stands over Caster's remains, observing her final moments.",
+      "sourceUnit": "桜ルート七日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "She makes absolutely sure that Caster is gone, back from whence she came,\nso that her corpse will never be misused by a mortal mage.",
+      "sourceUnit": "桜ルート七日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...!\"\nThat's Tohsaka's voice.\nI turn to see that Zouken has disappeared.\nHe must have sacrificed Caster as a distraction to aid his escape.\nBut...",
+      "sourceUnit": "桜ルート七日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmgh!?\"\nSaber saw it coming and was ready for Caster.",
+      "sourceUnit": "桜ルート七日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Archer was never after Caster to begin with.\nHe was focused on her puppeteer, instead.\n\"That's enough.\"\nWithout hesitation, he cleaves through Zouken's body.",
+      "sourceUnit": "桜ルート七日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Mgh!\"\nZouken's upper body crumples to the ground.",
+      "sourceUnit": "桜ルート七日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Mngh, ugh, oh my...!\"\nI hear a slithering sound.\nThe old man, missing his body from the waist down, slithers along the ground, leaking some gruesome substance.",
+      "sourceUnit": "桜ルート七日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"You're finished, mage. I've been around long enough to know that fiends like you need to be dealt with quickly.\"",
+      "sourceUnit": "桜ルート七日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Archer's short sword cuts upward in a second arc.\nThat'll finish Zouken.\nNo matter how immortal he is, he'll die if you crush his head. He was already on the verge of death, anyway.",
+      "sourceUnit": "桜ルート七日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Without natural healing abilities like those of a servant, severe wounds hasten his death by the second.\nArcher goes in for a killing blow to make absolutely certain the mage is dead.",
+      "sourceUnit": "桜ルート七日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nNo—he tries to, but he freezes in his tracks.",
+      "sourceUnit": "桜ルート七日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher isn't the only one who senses it.\nEverybody here does.\nTohsaka and Saber...\nArcher and I...\nEven the dying Zouken trembles in astonishment at its sudden appearance.",
+      "sourceUnit": "桜ルート七日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "The park becomes inky black.",
+      "sourceUnit": "桜ルート七日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "The damp air freezes over instantly.\nEven my pounding heart begins to slow.\nSomething bad is nearby.\nI have to run.\nI can't be around it.\nMy body understands this even better than my brain, but it rejects my commands to flee.",
+      "sourceUnit": "桜ルート七日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "It knows that running is futile.\nIt rules out escape as an option, because there's no getting away once you run into that thing.",
+      "sourceUnit": "桜ルート七日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nI tremble. My paralyzed neck begins to move.\nMy eyes track to the park entrance.\nThere...\n...stands a Shadow.",
+      "sourceUnit": "桜ルート七日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nSpace twists.\nI'd like to believe that I'm just hallucinating, that I'm losing my grip on reality due to extreme distress.",
+      "sourceUnit": "桜ルート七日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Whatever that is, I've never seen anything like it.\nThe Shadow stands there, upright and ethereal.\nIt seems light enough to be blown away by a breeze.\nBut its gravity is more commanding than anything else here.",
+      "sourceUnit": "桜ルート七日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "It has no intellect, no reason. It isn't even a living creature.\nThe black Shadow stays where it is, piercing the night like a skyscraper.\nAnd for some reason...",
+      "sourceUnit": "桜ルート七日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I find the sight...nostalgic.",
+      "sourceUnit": "桜ルート七日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Impossible.\"\nI hear a hoarse, wizened voice.\nThe only person who manages to talk is the dying old man.",
+      "sourceUnit": "桜ルート七日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Impossible. Inconceivable. This cannot be!\"\nHe crawls away, wailing.\nZouken Matou flees from Archer's sword and leaves the park as fast as he can.",
+      "sourceUnit": "桜ルート七日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...It isn't because he had stamina to spare.\nIt's simple...\nHis wholehearted fear of the sinister Shadow was enough to whip his wasted carcass into action.",
+      "sourceUnit": "桜ルート七日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "...\nNobody can move.\nTohsaka and I tremble.\nSaber and Archer are frozen still, as if mesmerized by something.\nIt's a monster of the deep sea.\nIn the completely stopped, silent world, only the shadow sways.",
+      "sourceUnit": "桜ルート七日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "And for the first time,\nit shows signs of having a will.",
+      "sourceUnit": "桜ルート七日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nIt has no eyes, no limbs, no body.\nAnd yet, a shadow stretches out from its \"feet.\"\nIt casts a long, long shade under the moonlight.\nSlowly, it turns to point at Tohsaka, like a snake that just discovered prey.",
+      "sourceUnit": "桜ルート七日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka can't move. She hasn't noticed the change in the Shadow.\nSaber is too far. Archer starts running,",
+      "sourceUnit": "桜ルート七日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Toh—\"\nThe Shadow stretches.\nSuddenly and without warning, it covers dozens of meters.",
+      "sourceUnit": "桜ルート七日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"—saka, look out!!!\"\nI frantically shove her aside.",
+      "sourceUnit": "桜ルート七日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"......ya!?\"\nI can't hear her voice.\nThe instant I push Tohsaka, something incomprehensible swallows me.\nI hear a splash and feel something crushing my body.",
+      "sourceUnit": "桜ルート七日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"..., ...Ah...\"",
+      "sourceUnit": "桜ルート七日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "So my hunch wasn't wrong.\nA torrent of liquid, like having a dump truck emptied on me, submerges me from head to toe. I'm in the deep ocean now.",
+      "sourceUnit": "桜ルート七日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "But it's hot.\nThis is way too hot for seawater.\nIt's boiling coal tar.\nIt sticks to my skin, shutting me off from my basic life functions. Rather than being underwater, it's like...",
+      "sourceUnit": "桜ルート七日目-11:page61:1"
+    },
+    "page62": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート七日目-11:page62:1"
+    }
+  }
+}

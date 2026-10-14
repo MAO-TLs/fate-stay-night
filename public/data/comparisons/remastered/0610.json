@@ -1,0 +1,236 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0610",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, I've finished washing the turnips. How are the chicken wings doing?\"\n\"...Yup, just finished blanching them. Cut those into fourths, and we'll stew them.\"",
+      "sourceUnit": "桜ルート十一日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Senpai, what are you doing with that curry powder?\"\n\"Making a sauce. I'll use it to glaze the sardines before I grill them. Illya doesn't like fish, but I bet she'll eat it if it's curry-flavored.\"",
+      "sourceUnit": "桜ルート十一日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a great idea! Um, I'll trim the fish, so please\nkeep an eye on the stew.\"",
+      "sourceUnit": "桜ルート十一日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Oh, that's okay, since I don't need a knife to trim sardines. I'll ask you when it's time to scrape out the bones, so use the dashi and soy sauce to braise the kabocha squash in the meantime. We should have at least one sweet dish.\"\n\"Roger that. Oh, you look like a sushi chef trimming fish with one hand, Senpai.\"",
+      "sourceUnit": "桜ルート十一日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Sakura cheerfully reaches into the refrigerator.\nMaybe she feels better after a full night's sleep, because she's in a great mood this morning.",
+      "sourceUnit": "桜ルート十一日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm.\"\nAnd I'm having fun in the kitchen with her, too.\nSakura thoughtfully anticipates what I'm trying to do and preps everything I need.\nCooking together with her is so comforting.",
+      "sourceUnit": "桜ルート十一日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? Sushi chef? You stopped moving.\"\n\"Hm? Oops, spaced out for a second. We'd better hurry. It's almost seven.\"",
+      "sourceUnit": "桜ルート十一日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I sigh quietly so that Sakura won't hear, and resume trimming the sardines.\nSardines have soft flesh, so it's better to trim them with fingers than a knife. It's something I can just barely manage to do with my only working hand.",
+      "sourceUnit": "桜ルート十一日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"When did you learn that skill? I don't think it's very common to trim fish with only your right hand.\"\n\"It isn't a skill. I'm just doing the best I can with what I got. You could learn to do it too.\"",
+      "sourceUnit": "桜ルート十一日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. That's all?\"\n\"That's all. When people say kitchen skills, they mean stuff like ice carving or butchering a cow with a single knife.\nThere, you can handle the rest. We'll grill them after you debone them, so put them in a bowl.\"",
+      "sourceUnit": "桜ルート十一日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I step away from the cutting board and move in front of the stove.\nI turn on the heat under the frying pan, and add half a teaspoon of oil.\nI'm more or less on autopilot thanks to muscle memory, so I start looking up at the sky.",
+      "sourceUnit": "桜ルート十一日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, Senpai?\"\n\"Mm.\"\nI grunt absently.",
+      "sourceUnit": "桜ルート十一日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...This might not be any of my business, but did something happen with Illya?\"\n...\nMy hand holding the pan freezes.\nBut only for an instant.\nSakura probably didn't notice.",
+      "sourceUnit": "桜ルート十一日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, a little. We talked before I came to the kitchen. Illya is who she is, and this isn't easy for me. I have no idea how I'm supposed to deal with her.\"\n\"...As a Master, you mean?\nDid Illya say she's going to keep fighting, or something like that?\"",
+      "sourceUnit": "桜ルート十一日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Nah. She doesn't seem like she wants to fight right now... Or maybe she never wanted to, to begin with. She was trying to get the Holy Grail as the Einzbern Master, but she has another goal aside from that.\nBut...\"",
+      "sourceUnit": "桜ルート十一日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...She lost it long before this war ever started.\nThe person she wanted to see, Kiritsugu Emiya,\ndied five years ago.\nSo...what can I do for her in his place? What should I do?",
+      "sourceUnit": "桜ルート十一日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Sakura. If Illya says that she doesn't want to go back to her country, can she live here with us?\"",
+      "sourceUnit": "桜ルート十一日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...um. This is your house, Senpai. My opinion doesn't really matter.\"\n\"What are you talking about? This is your house, too. I'd definitely need to consult my partner before letting in a new housemate.\"",
+      "sourceUnit": "桜ルート十一日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"A-am I your partner!?\"\n\"Yeah. Who else?\"\nIllya or Tohsaka would never help me so perfectly in the kitchen.",
+      "sourceUnit": "桜ルート十一日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, the pan's ready.\"\nI ask her for the deboned sardines.\nSakura gives them to me with an unsteady motion.\n...?\nWhat's wrong?\nIs her fever back?",
+      "sourceUnit": "桜ルート十一日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"R-right, got it! I'll do my best to get along with Illya!\"\n\"...Yeah, I'd be happy to see that. Illya says she doesn't dislike you, so I bet you'd get along if you talked.\"",
+      "sourceUnit": "桜ルート十一日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah. That would make me really happy.\nOnce the Holy Grail War and our relationship as Masters ends, I'd love to have Sakura and Illya live here. We can make breakfast together without a care in the world, just like today.\nI'd pay any price to make that happy future come true.",
+      "sourceUnit": "桜ルート十一日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Morning. You two are up early for a Sunday.\"\nSuddenly, an incredible sight\nwalks by.",
+      "sourceUnit": "桜ルート十一日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Senpai, did you just see a strange person walk by?\"\n\"...Well, if you saw it too, then I guess I’m not hallucinating.\"\nWe timidly peek into the living room.",
+      "sourceUnit": "桜ルート十一日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "With a loud thump, the newcomer violently plants herself on the floor to stake her territory. Then, she grumpily pours herself a cup of tea, and turns on the TV with a sour expression.",
+      "sourceUnit": "桜ルート十一日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Wow. So Tohsaka-senpai isn't a morning person...\"\n\"...\"\nUm, Sakura.\nIsn't that term usually reserved for more endearing behavior?",
+      "sourceUnit": "桜ルート十一日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "We start eating breakfast.\nI'm sitting next to Sakura at the dining table, while Tohsaka is next to Illya.",
+      "sourceUnit": "桜ルート十一日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. This is seasoned so tastefully, Sakura. I suppose I'll eat this.\"\nI can't tell if Illya's praising or attacking her.",
+      "sourceUnit": "桜ルート十一日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, I lose. I don't normally eat breakfast, though.\"\nIn classic Tohsaka fashion, she grumbles even as she munches on the tamagoyaki.\n\"Mm.\"\nOne grunt, and she focuses on her food without saying anything else.",
+      "sourceUnit": "桜ルート十一日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBreakfast passes in silence.\nThe only noise comes from the TV as it alternates through topic after topic.",
+      "sourceUnit": "桜ルート十一日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...?\"\nI see a familiar backdrop on the screen.\nThere's no doubt about it.\nThey're talking about mysterious bloodstains found this morning in the Shinto park.",
+      "sourceUnit": "桜ルート十一日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Missing people in the central park... Large numbers of bloodstains in the vicinity...?\"",
+      "sourceUnit": "桜ルート十一日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "It was a rather graphic incident.\nAn older man out on a morning run found bloodstains at the park and reported them.\nPolice officers responding to the scene discovered enough spilled blood to account for a single person, as well as partial human remains.\n...Apparently, there were enough remains for up to four victims.",
+      "sourceUnit": "桜ルート十一日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Police are looking into the background of four... Wait, why four victims? I thought they only found enough blood for one.\"",
+      "sourceUnit": "桜ルート十一日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Because the body parts pointed to that many people, probably.\nEven if they only found parts of the bodies, they could figure out that much.\"",
+      "sourceUnit": "桜ルート十一日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka.\nDo you think a Servant—that Zouken did this?\"\n\"Maybe. I don't know whether Zouken was responsible, but the Shadow definitely did it. Look at the edge of the video. The plants are all black and withered, just like when it showed up in the forest.\"",
+      "sourceUnit": "桜ルート十一日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka analyzes it casually.\nBut there's still two things I don't understand.",
+      "sourceUnit": "桜ルート十一日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"But why? It's never done anything like this before. Even if it was taking magical energy from the people in town, it never, um...\"\nIt didn't need to murder them like this.",
+      "sourceUnit": "桜ルート十一日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. If I had to come up with a reason, it could be because it doesn't have any enemies to oppose it anymore. There aren't any Masters left that can beat it in a straight fight. Now it can just do whatever it wants without worrying about being watched, right?\"\n\"...You mean he's just killing discriminately now?\"",
+      "sourceUnit": "桜ルート十一日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe. But personally, it doesn't seem that way. Even if Zouken and the Shadow are connected, I think this might have been an unforseen accident.\nI'll bet you a tamagoyaki that this came as a surprise to Zouken.\"",
+      "sourceUnit": "桜ルート十一日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...Not that Tohsaka even has any tamagoyaki left to hold up her end of the bet.\nAnd now, her eagle eyes are eyeing my plate.",
+      "sourceUnit": "桜ルート十一日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why do you think it was an accident?\"\n\"Because he can't clean this up. There's the bloodstains, but Zouken wouldn't have left bodies at the scene. Which means that Zouken wasn't there while that spooky Shadow was having a meal.\"",
+      "sourceUnit": "桜ルート十一日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I see... One more question. How do they know that there are four victims? There's only enough blood for one, and they said that they only found enough body parts to make up one person.\"",
+      "sourceUnit": "桜ルート十一日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not body mass, but shape. What if they found four body parts that each person can only possess one of? You can count those to figure out how many victims there are.\nThink about it. If you found four left shoes in a pool of blood, how many people would that add up to?\"",
+      "sourceUnit": "桜ルート十一日目-07:page43:1"
+    },
+    "page44": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page45": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

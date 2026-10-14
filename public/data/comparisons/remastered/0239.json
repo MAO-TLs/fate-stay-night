@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0239",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm going to Strengthen Saber, right here where I summoned her.\nI'm not sure I can do that, but it's worth trying.",
+      "sourceUnit": "セイバールート十五日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"You are going to perform Strengthening...on me?\"\n\"Yeah. I know how hard it is to pass magical energy through humans other than yourself. But this is all I've got. The only thing I can really do is try to make you stronger, Saber.\"",
+      "sourceUnit": "セイバールート十五日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nEven if I try making a new weapon with Projection, I won't be able to make anything stronger than Excalibur.\nWith Gilgamesh's Noble Phantasm overwhelming the sacred sword, there's no point in giving Saber a new weapon.\nSo there's no other option but to make Saber herself stronger.",
+      "sourceUnit": "セイバールート十五日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Probably not a great chance of success here, and it might be uncomfortable for you. But I at least want to try.\nI feel bad for treating you like a thing, talking about Strengthening you. Please forgive me.\"",
+      "sourceUnit": "セイバールート十五日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"That is unnecessary. I will not feel any displeasure from this.\nIf you are doing this for my benefit, I will gladly offer myself to you.\"\nSaber takes my hand and agrees to my plan.",
+      "sourceUnit": "セイバールート十五日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I trust you, Master. I will temporarily lower my Magic Resistance, so please use your magecraft on me.\"\nSaber entrusts her body to me while she still holds my hand.",
+      "sourceUnit": "セイバールート十五日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. Bear with me for a little bit, Saber.\"\nI concentrate and read Saber's body, her blueprint.\nI have a less than ten percent chance of success.\nI cast off my indecisiveness and activate the Strengthening magecraft with unprecedented clarity.",
+      "sourceUnit": "セイバールート十五日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "The magecraft spell ends.\nI used almost all of my remaining magical energy to Strengthen Saber…",
+      "sourceUnit": "セイバールート十五日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you think, Saber? Do you feel anything?\nI know the magical energy flowed into you, and I think you've gotten stronger...\"",
+      "sourceUnit": "セイバールート十五日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Can you not see the end result? Can you not tell that my speed and destructive power have increased?\"",
+      "sourceUnit": "セイバールート十五日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...no, I can't tell.\nIt might be called Strengthening, but we won't know unless we actually try it out. With magical energy flowing through you, all we have to do is see the end result.\"",
+      "sourceUnit": "セイバールート十五日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I see. Even if you Strengthen a wooden sword, it does not simply shout that it has gotten stronger, nor does it look any different.\nHm, I am embarrassed to admit that I have not noticed any changes either. Honestly, I do not feel any different.\"",
+      "sourceUnit": "セイバールート十五日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. I guess I wasted both our time.\"",
+      "sourceUnit": "セイバールート十五日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it was by no means a waste.\nYour magecraft was functioning properly. Even if I am not stronger, I feel a warm sensation in my chest now.\nAs long as this warmth remains, I will not be defeated. You have made me stronger, mentally.\"",
+      "sourceUnit": "セイバールート十五日目-09:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

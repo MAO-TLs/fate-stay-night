@@ -1,0 +1,341 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0350",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We get off the bus.\nIt's about to start raining right as we reach the usual intersection.",
+      "sourceUnit": "凛ルート十一日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you have fun today?\"\nJust as we got off the bus and were about to head to the hill...\nTohsaka suddenly asks me that.",
+      "sourceUnit": "凛ルート十一日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI don't even need to answer.\nThere's no doubt it was fun.\nIt's like an extraordinary feat of strength, as if I was thrown into a washing machine and spun round.\nI feel like my nervousness and confusion were washed away along with the stains.\nBut, that is...",
+      "sourceUnit": "凛ルート十一日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Well? Was it fun, Shirou?\"\n\"Yeah, you got me. It's been a long time since I've hung out this much. Man, you really pulled me around everywhere.\"\nUm, the more fun it is...\nThe more uncomfortable I get, feeling like I'm unworthy of such a thing.",
+      "sourceUnit": "凛ルート十一日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. I don't know what's going on in your mind, but you should just honestly say it's fun if you're having fun. It's rude to the one who escorted you.\"",
+      "sourceUnit": "凛ルート十一日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? No, that's not what I meant...\"\n\"Yes, it is. You're unconsciously putting the brakes on... Humph. I don't know what happened to you before, but if it's so painful, isn't it better to just forget about it?\"",
+      "sourceUnit": "凛ルート十一日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...My breath stops.\nIt's like she stuck a knife deep into my affected area with unexpected agility.",
+      "sourceUnit": "凛ルート十一日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, that is...\"\n\"Now, it's none of my business. Well, I fulfilled my initial objective, so the rest is your problem.\"\nTohsaka heads towards the hill, with her hair flowing in the wind.\nNot in the direction lined with Western-style houses, but the slope where the Japanese-style houses are.",
+      "sourceUnit": "凛ルート十一日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI stand there in a daze.\n\"Shirou, are we not going home? It will start raining soon.\"\n\"Y-Yeah. That's true, let's go.\"\nBeing urged by Saber, I turn towards the hill.",
+      "sourceUnit": "凛ルート十一日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wha...\"\nAs soon as I return home, I'm overwhelmed by a strong sense of discomfort.\nNothing is missing, yet I feel a sense of loss like nothing is right.",
+      "sourceUnit": "凛ルート十一日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Both their faces stiffen. So does mine.\nThe identity of this feeling.\nIt's the same, yet the building is stripped of something important.\nThe thing missing from the house is...",
+      "sourceUnit": "凛ルート十一日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"The Bounded Field is gone...\"\nThe Bounded Field that my old man set up.\nThe Bounded Field that notifies us if something hostile intrudes, has been forcefully cut off…",
+      "sourceUnit": "凛ルート十一日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...It seems like someone broke in while we were away... I guess it was fortunate we were out.\"",
+      "sourceUnit": "凛ルート十一日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, where is Taiga...!?\"\n...\nAfter being astonished, I start running.\nThere's no time to think.",
+      "sourceUnit": "凛ルート十一日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Idio—Wait...! The enemy might still be inside...!\"",
+      "sourceUnit": "凛ルート十一日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I hear a sound.\nI feel stagnation in the air once I open the door.\nThe aftermath of someone intruding.\nThe air is heavy like silk with a small amount of impurity in place of the Bounded Field.",
+      "sourceUnit": "凛ルート十一日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I run with my shoes still on.\nI have no time to take them off, or even think to do so.",
+      "sourceUnit": "凛ルート十一日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "I enter the living room.\nThe light isn't on.\nUnder the gray sky, in the dark living room...\n\"Oh. I was just going to take her away, but you showed up at the right time, boy.\"\nThere, was an unconscious Fuji-nee, and Caster, the enemy.",
+      "sourceUnit": "凛ルート十一日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Caster...!\"\nI hear Saber's voice behind me.\nThe two rush over and stop, seeing Caster.\nIt must be because Fuji-nee is being held hostage.\nIf Saber and Tohsaka were to attack, Caster would cast a spell.",
+      "sourceUnit": "凛ルート十一日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "It would be faster than any of us.\nEven if Saber were to charge forward,\nor Tohsaka were to cast a spell,\nCaster's fingertip would light up first.",
+      "sourceUnit": "凛ルート十一日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "That position...\nIf that happens, -----'s head will definitely splatter like a tomato.",
+      "sourceUnit": "凛ルート十一日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind freezes.\nI'm furious.\nMy blood is boiling with anger, so much that my vision is about to turn red.\nYet, my mind is awfully objective.\nI didn't know that you become calm once your anger surpasses a certain limit.",
+      "sourceUnit": "凛ルート十一日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"You're too careless, boy. If you are a mage, you need to put more effort into your Bounded Field.\"\nShe snickers.\nI accept even that, as if it's happening to someone else.",
+      "sourceUnit": "凛ルート十一日目-08:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"What an admirable attitude, Caster. Did you come to our territory on your own to surrender?\"\nYes, I have similar business. However, it would be you people asking for forgiveness.",
+      "sourceUnit": "凛ルート十一日目-08:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Their voices are enough to create sparks between them.\nTohsaka keeps glaring at Caster without doing anything.\nIf she moves, ----- will die.\nIf she were to move, then I'll ----- Tohsaka before Caster.",
+      "sourceUnit": "凛ルート十一日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...So. What are you trying to do using that hostage?\"\n\"I do not have any business with you. I am interested in that boy.\"",
+      "sourceUnit": "凛ルート十一日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, do you remember the offer I made?\"\nThe incident at the temple.\nCaster told Archer and I to be her subordinates.",
+      "sourceUnit": "凛ルート十一日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...! You're so persistent about it...!\"\nTohsaka's angry.\n...That's unexpected. Archer must've actually reported to Tohsaka.",
+      "sourceUnit": "凛ルート十一日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Persistent? Yes, I usually would not be interested in a human who has refused already. But, that depends on the person, young lady.\"\nCaster is looking only at me.",
+      "sourceUnit": "凛ルート十一日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"You are interesting, boy. This is the fifth Holy Grail War, but I do not think a case like you has existed before.\nIt is easy to kill you. But you are a valuable sample, so I would like to obtain you alive if possible.\nDo you understand? I am doing such an inelegant thing because I want you to be on my side alive.\"",
+      "sourceUnit": "凛ルート十一日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "That means...\nIf I refuse, she will k-ll -----.",
+      "sourceUnit": "凛ルート十一日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I came here disobeying my Master. I am appraising you that much, so can you not feel my enthusiasm?\"",
+      "sourceUnit": "凛ルート十一日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop saying selfish things...! You're just doing whatever you like without obeying your Master...!\"",
+      "sourceUnit": "凛ルート十一日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, are you jealous? But that's too bad. I'm sorry, but I'm not interested in you. You seem to be skilled as a Master, but you are nowhere near my level. What I want is not complete omnipotence, but an incomplete unique ability.\n...In that regard, that boy is ideal. He is an amateur mage, so it shall be easy to control him.\"",
+      "sourceUnit": "凛ルート十一日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "A charming, derisive laughter.\nCaster presses for my answer while digging her fingers into the back of -----'s neck.",
+      "sourceUnit": "凛ルート十一日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...How troubling. You should not need to think about it.\nNobody other than me will obtain the Holy Grail. This town is already mine. No matter how skilled Saber may be, she cannot defeat me as I have an inexhaustible supply of magical energy.\"",
+      "sourceUnit": "凛ルート十一日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber's presence moves.\nShe's ready for war. She would immediately charge at Caster if she sees an opening.",
+      "sourceUnit": "凛ルート十一日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. I am telling you it is useless, Saber.\nThe nice thing is that it is only my shadow here doing this.\nThe source of my power supply is every person living in this town. It is like having a thousand Masters.\nDo you understand what that means?\"",
+      "sourceUnit": "凛ルート十一日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... No way, you...\"\n\"Yes, even if humans don't have magical energy, their souls themselves are something entirely different, right?\nWe are soul eaters to begin with. If we take away the magical energy called \"life\" from our Master, then we can get as much magical energy as we want.\n...I can even use your monstrous Noble Phantasm as many times as I want now.\"",
+      "sourceUnit": "凛ルート十一日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "An almost inexhaustible source of supply.\nMagical energy sucked out from the people in the city.\n...Is she saying she will win because she has that?\n...Is she boasting that she's invincible because she uses innocent people like -----?\nIt's the same as that time.\nShe is still laughing while sacrificing others...?",
+      "sourceUnit": "凛ルート十一日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe firing hammer rises.\nHeat returns to my mind that was frozen from being too objective.",
+      "sourceUnit": "凛ルート十一日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, let me hear your answer, Shirou Emiya.\nYou have no chance at winning. Will you obey me along with Saber?\"",
+      "sourceUnit": "凛ルート十一日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let go of Fuji-nee.\"",
+      "sourceUnit": "凛ルート十一日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"...Were you not listening to what I was saying? I told you to come under my control.\"",
+      "sourceUnit": "凛ルート十一日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Shut up. Let go of Fuji-nee.\"\nThere is nothing else.\nI don't have a single thing to hand her.",
+      "sourceUnit": "凛ルート十一日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "...\nA grinding sound.\nAfter Caster grits her teeth in irritation, she sighs as if to calm herself down.",
+      "sourceUnit": "凛ルート十一日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...I understand. So the negotiation is broken off. Only one Master can obtain the Holy Grail. So you have no intention of cooperating with another Master?\"",
+      "sourceUnit": "凛ルート十一日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"No, this has nothing to do with the Holy Grail. I just won't cooperate with you.\"\n\"I see. I must really be despised.\"\nThere is no contempt in her quiet voice.\nIn return, it is only filled with anger.",
+      "sourceUnit": "凛ルート十一日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...That is very unfortunate. Especially since I genuinely liked you.\nIf you had cooperated with me, I could have shared the Holy Grail with you.\"",
+      "sourceUnit": "凛ルート十一日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"That's unnecessary. I decided to fight so that I can stop people like you. The Holy Grail has nothing to do with this.\nMore importantly, let go of Fuji-nee.\"",
+      "sourceUnit": "凛ルート十一日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "I glare at Caster.\nReceiving my stare filled with enmity, Caster...\n\"Hehe... Haha, hahahahahaha!\"\nShe laughs as if it's funny for some reason.",
+      "sourceUnit": "凛ルート十一日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...You...\"\n\"Oh, did I get on your nerves? But it's your fault too, since you said something you do not actually mean.\"\n...\nI never said anything I don't mean...",
+      "sourceUnit": "凛ルート十一日目-08:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail has nothing to do this? Hehe, is that really so? You are a victim of the Holy Grail.\nBy saying that the Holy Grail has nothing to do with this... Doesn't that mean you detest the Holy Grail?\"\n...\nFor a moment...\nMy heart froze.",
+      "sourceUnit": "凛ルート十一日目-08:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shirou?\"\nI'm frozen and can't understand anything.\nNot even Tohsaka's eyes that look at me with worry, nor Saber's face that's lowered in pain.\n...\nNot even the extremely unpleasant nausea that rises up to my throat.",
+      "sourceUnit": "凛ルート十一日目-08:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I know, Shirou Emiya. The previous war was ten years ago, right? You lost everything then. You were left alone in the flames, awaiting death, and Kiritsugu Emiya found you.\nTherefore, you are not actually a child from this household.\nYet, you were forced to become a mage against your will, and you have suffered all this time, right?\"",
+      "sourceUnit": "凛ルート十一日目-08:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"...No way. Emiya, is that...\"",
+      "sourceUnit": "凛ルート十一日目-08:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. The Holy Grail was an enemy you detested. How ironic it is that you are participating in this war.\"\n...",
+      "sourceUnit": "凛ルート十一日目-08:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"I understand how you feel. Anyone would hold a grudge if their own happiness was wrongfully taken away.\n...Yes. What I like is your past, Shirou Emiya.\"\n...",
+      "sourceUnit": "凛ルート十一日目-08:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"You are qualified to take revenge. You have the right to obtain the Holy Grail and settle what happened ten years ago. That is why I considered having you on my side.\"\n...",
+      "sourceUnit": "凛ルート十一日目-08:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"...Now, think it over, boy.\nI do not wish for battle either. Killing each other is foolish, right? If the Holy Grail has an infinite abundance of wealth, then it should not run out no matter how much we split it.\nThen, can you not share the Holy Grail with those you trust?\"",
+      "sourceUnit": "凛ルート十一日目-08:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere are no lies in those words.\nCaster must genuinely think so.",
+      "sourceUnit": "凛ルート十一日目-08:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Take revenge, Shirou Emiya.\nThe Holy Grail is practically in my hands already. It will be easy to grant your wish.\"\n\"That is nonsense, Caster...! The Holy Grail will not appear until there is only one Servant left. Do not insult my Master with such sweet talk...!\"",
+      "sourceUnit": "凛ルート十一日目-08:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"No, there are ways to obtain the Holy Grail without fighting, Saber. Even if it is not possible for other Servants, I, as Caster, can read the tricks of the Holy Grail.\nYes, if you, with enormous magical energy output, help me, it should be possible to summon the Holy Grail at this very moment.\"",
+      "sourceUnit": "凛ルート十一日目-08:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\nThat creates a crack in Saber's spirit.\nBecause Saber herself can feel that there are no lies in Caster's words.",
+      "sourceUnit": "凛ルート十一日目-08:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, this is your final warning, boy.\nYou want to avoid useless battles, right? Then obey me. I shall give you the Holy Grail if you hand over Saber and cooperate with me.\"",
+      "sourceUnit": "凛ルート十一日目-08:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "The final negotiation.\nSaber is perplexed.\nBattles should be avoided if they can be avoided, so it would be impeccable if it were possible to obtain the Holy Grail that way.",
+      "sourceUnit": "凛ルート十一日目-08:page65:1"
+    },
+    "page66": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

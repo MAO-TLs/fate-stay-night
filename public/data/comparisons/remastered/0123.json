@@ -1,0 +1,277 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0123",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I finish preparing dinner; it's past seven.\nSaber and Fuji-nee are in the living room, and Tohsaka, who's usually here by now...isn't.",
+      "sourceUnit": "セイバールート七日目-25:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"I hope nothing's happened to her.\"\nI don't think Tohsaka is the type to get into trouble, but I also know she sometimes makes huge mistakes.\n\"I guess I'll go check it out.\"\nIf it's just looking around the house, I should be fine alone.",
+      "sourceUnit": "セイバールート七日目-25:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I head out to the hallway.\nAs I'm about to leave the house, Tohsaka walks in wearing her coat.",
+      "sourceUnit": "セイバールート七日目-25:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"I'm home. What, greeting me with your apron on? It's a good look for you.\"",
+      "sourceUnit": "セイバールート七日目-25:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka jokes casually, but her face is completely expressionless.\n...That's scary.\nThe people who can joke like that with such a straight face are the most terrifying sort of people.",
+      "sourceUnit": "セイバールート七日目-25:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, what were you...\"\nThe moment I try to ask her what happened, I spot blood on her hand.\nIt's a small bloodstain, and her index finger is swollen.\nDoes that mean...?",
+      "sourceUnit": "セイバールート七日目-25:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I have a bad feeling, and I can't keep it quiet.\"\n\"What? I'm not listening if it's stupid.\"\n\"Uh, actually. Did you maybe punch somebody?\"",
+      "sourceUnit": "セイバールート七日目-25:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Bingo. I gave that annoying Shinji a piece of my mind...at the end of my fist.\"\nTohsaka huffs and passes right by me.",
+      "sourceUnit": "セイバールート七日目-25:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nOkay. So she gave him a knuckle sandwich.\nThen the bloodstain and swollen finger would make sense—Hey wait!!!",
+      "sourceUnit": "セイバールート七日目-25:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold up, hold up, hold up! What do you mean, you hit Shinji, Tohsaka!?\"\n\"Why're you interrogating me about this? He pissed me off, so I beat him to a pulp.\"",
+      "sourceUnit": "セイバールート七日目-25:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"To a pulp...when you mean with your fists... You did it with your bare fists?\"\n\"Bare as can be. Bear like a grizzly.\"\nTohsaka snorts again.",
+      "sourceUnit": "セイバールート七日目-25:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"...\"\nA brief silence.\nI don't know what to say, so I keep my mouth shut. An awkward silence stretches between us.",
+      "sourceUnit": "セイバールート七日目-25:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me get back to the point.\nYou said you punched Shinji. Why did you have to do that?\"",
+      "sourceUnit": "セイバールート七日目-25:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"He deserved it. He was saying things like I should team up with him, and that I should abandon Shirou because he's useless.\nHe wanted to talk to me about a bunch of stupid stuff, so I had to quiet him down. By punching him.\"",
+      "sourceUnit": "セイバールート七日目-25:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nUh...isn't that shortsighted, even for you, Tohsaka?\nOr maybe...\nMaybe Shinji said something so stupid that he actually pissed Tohsaka off, even though she's usually so level-headed?",
+      "sourceUnit": "セイバールート七日目-25:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Why're you looking at me like that? I'm the victim here.\"\n\"Uh, I think it goes both ways.\nBut why would Shinji talk to you about something like that? He asked me if I wanted to team up with him.\"",
+      "sourceUnit": "セイバールート七日目-25:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Who knows? He might actually think of you as competition. He's been acting pretty weird ever since I told him we were living together.\"",
+      "sourceUnit": "セイバールート七日目-25:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? You told him we were living together? You told Shinji about us!?\"",
+      "sourceUnit": "セイバールート七日目-25:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I did. Yesterday morning, Shinji called me up to tell me, all proud, about how he became a Master, like some kind of hotshot. It kind of pissed me off, so I told him you were a Master too.\nI thought that put him in his place, but then I found him waiting outside the house just now.\"",
+      "sourceUnit": "セイバールート七日目-25:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"So I told him that I'm living at your house, and that I had no intention of working with a half-assed Master like him. Do you think that was bad?\"",
+      "sourceUnit": "セイバールート七日目-25:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nYeah, that's pretty bad.\nShinji was already smitten with Tohsaka, so what she told him is just adding fuel to the fire.",
+      "sourceUnit": "セイバールート七日目-25:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Well, but still...now it all makes sense.\nI figured out why Shinji's been hostile only towards Tohsaka, and why he's being so persistent about asking her to team up with him.\nMeaning he—",
+      "sourceUnit": "セイバールート七日目-25:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"But that's strange. Why would he be so obsessed with me? A guy like him would never think about working with anyone.\"\nUh, actually...\nIt's because Rin is special to Shinji.",
+      "sourceUnit": "セイバールート七日目-25:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing strange about any of this. I think you're special to Shinji.\nHe's originally from a mage family, right?\nI think he admires you, since you're also from a mage family, but you still have power and a proper lineage.\"",
+      "sourceUnit": "セイバールート七日目-25:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "That's why he's so persistent with Tohsaka.\nI think Rin's been a target for Shinji's affections since long before the Holy Grail War started.",
+      "sourceUnit": "セイバールート七日目-25:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"What!? Well yeah I'm flattered that he likes me, but...\"\nIt must have been a real surprise; Tohsaka looks completely bewildered.",
+      "sourceUnit": "セイバールート七日目-25:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Now that you mention it, Shinji asked me out when we were first-years.\"\nFor a moment, her expression as she realizes what she'd obviously forgotten is almost comical.\n...Ugh. I sympathize with Shinji...just now.",
+      "sourceUnit": "セイバールート七日目-25:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Whoa. No wonder he's so persistent. I finally get it.\"\n\"Well, whatever. So, how did you reply?\"",
+      "sourceUnit": "セイバールート七日目-25:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. I guess I rejected him.\nI'll have you know that I have to be the first to win.\nIf I'm going to do something, it needs to be my own idea, and if someone challenges me to something, I don't really feel up to it.\"",
+      "sourceUnit": "セイバールート七日目-25:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka thinks really hard, but she's acting as if she really doesn't remember.\nI'm astonished.\nShe might be entirely driven by her emotions.",
+      "sourceUnit": "セイバールート七日目-25:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I bet you're really bad at rock, paper, scissors.\"\n\"What!? H-how do you know that!?\"\nI knew it.\nIf she likes to make the first move, she's probably not great when she has to react to someone else.",
+      "sourceUnit": "セイバールート七日目-25:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Use the soy sauce for that, Saber. Don't you dare try putting mayonnaise on it.\"\n\"If you say so. I witnessed Taiga doing it, so I thought I should try it as well.\"",
+      "sourceUnit": "セイバールート七日目-25:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"",
+      "sourceUnit": "セイバールート七日目-25:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee's just clowning around. She's hardly a good role model, so be careful from now on.\"",
+      "sourceUnit": "セイバールート七日目-25:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? I was referencing Sakura before, and you took no issue with that, so...\"\n\"Well I'm not mad about it. I took the time to make the meal, so I just want you to enjoy it. So, back to our conversation...\"",
+      "sourceUnit": "セイバールート七日目-25:page34:1"
+    },
+    "page35": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, another helping. Fill my soup bowl up! Gimme a bit of everything!\"\n\"Got it. What about you, Saber? We trained harder than usual today, so you might be hungrier.\"",
+      "sourceUnit": "セイバールート七日目-25:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Not especially. But, just to be sure, I will take another serving.\"\n\"Got it. If I find you woke up in the middle of the night and raided the fridge because you were too hungry to sleep, I might die of shock.\"",
+      "sourceUnit": "セイバールート七日目-25:page37:1"
+    },
+    "page38": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Why would you bring that up? That wasn't me. It was some burglar who came in and raided the fridge!\"",
+      "sourceUnit": "セイバールート七日目-25:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Then go tell that burglar to eat her vegetables as well as meat. And tell her not to eat all the dessert in the fridge, if that's what she was really after. Honestly, you're not like a hungry wild beast or anything...\"\n\"What did you just say!? Argh! Don't call me a tiger!\"\n\"Whoa, I didn't say anything about you! Yow! Who in their right mind would throw a piping hot daikon radish at me, you idiot!\"",
+      "sourceUnit": "セイバールート七日目-25:page40:1"
+    },
+    "page41": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, it appears a pot in the kitchen is boiling over.\"\n\"Eh? Oh, hold on, Fuji-nee. I need to turn the fire off.\"\n\"Very well. Hurry up and bring the soy sauce braised chicken and egg.\"\n\"On it. I'm leaving Fuji-nee in your hands, Saber.\"\n\"Yes. Please do not rush. Focus on the cooking, Shirou.\"",
+      "sourceUnit": "セイバールート七日目-25:page42:1"
+    },
+    "page43": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "I get up.\nOh that reminds me.\nWhy has Tohsaka been so quiet this whole time?",
+      "sourceUnit": "セイバールート七日目-25:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Are you not liking dinner?\"\n\"It's not that. It's nothing, so don't talk to me.\"\nShe turns her head away, grimly.\nHm. She's not the type to dwell on things like Shinji for so long, so there must be something else bothering her.",
+      "sourceUnit": "セイバールート七日目-25:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee goes home satisfied after dinner.\nSaber and Tohsaka are in the living room.\nAt first, that had been awkward, but after training with Saber for the last two days, it doesn't feel that way anymore.",
+      "sourceUnit": "セイバールート七日目-25:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, you can go to bed. I'll do the rest.\"\n\"No. I will stay awake until you go to sleep. I would also like to hear from Rin about your skills in magecraft.\"",
+      "sourceUnit": "セイバールート七日目-25:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it. Then let's go to Tohsaka's room early. You don't mind, Tohsaka?\"",
+      "sourceUnit": "セイバールート七日目-25:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I don't mind. I have to say, you sure have gotten friendly with Saber.\"\nHuh?\nFor some reason, Tohsaka say this with the same miffed tone she had when we were eating dinner.",
+      "sourceUnit": "セイバールート七日目-25:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be waiting in my room, so come by after you finish cleaning up.\n...And I'll take the day off school tomorrow too. Come to my room in the afternoon.\"",
+      "sourceUnit": "セイバールート七日目-25:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. What did you do to Rin? She seems to be very angry.\"\n\"You think that too, Saber?\n...I don't know. I don't think I've done anything to make her mad.\"",
+      "sourceUnit": "セイバールート七日目-25:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Saber and I face each other and tilt our heads.\nWe have no idea why Tohsaka's so angry.",
+      "sourceUnit": "セイバールート七日目-25:page52:1",
+      "recoveredDelimitedTail": true
+    },
+    "page53": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

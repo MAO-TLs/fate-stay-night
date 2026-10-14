@@ -1,0 +1,101 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0662",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji.\"\nShinji's corpse is on the bed.\nThat's all.\nWhat happened here?\nIt shouldn't be possible to glean what happened, but...\n\"...Sakura.\"\nI know she killed him.",
+      "sourceUnit": "桜ルート十四日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI can't think straight.\nShinji's body.\nSakura's whereabouts.\nIt hasn't even been half a day since I held Sakura last night, so how...why...",
+      "sourceUnit": "桜ルート十四日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, if it isn't the Emiya boy.\nI'd say you did well coming here, but you're a tad late.\"",
+      "sourceUnit": "桜ルート十四日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI whirl around at the sudden voice.",
+      "sourceUnit": "桜ルート十四日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nNobody's behind me.\nI know that there isn't anyone in this mansion.\nThis is just Zouken's voice, transmitted from somewhere else.",
+      "sourceUnit": "桜ルート十四日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Zouken! What did you do to Sakura!?\"",
+      "sourceUnit": "桜ルート十四日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing at all. As you can see, she turned the tables on my incompetent grandson. It's hardly anything to make a fuss about.\nAlthough... Hm, perhaps I shouldn't call him incompetent anymore.\nHe was useless, but he did serve his purpose in the end.\"",
+      "sourceUnit": "桜ルート十四日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "He chuckles.\nI can't see the old mage, but it's clear that he's enjoying this.",
+      "sourceUnit": "桜ルート十四日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji's purpose...?\"\n\"Oh, yes. I could not have driven Sakura to such lengths. She despised me a bit too much for that. I needed you or Shinji to break the seal on that dam.\nSakura could only accept her own shadow once she lost all faith in the world.\"",
+      "sourceUnit": "桜ルート十四日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\n\"This was my mistake, I admit. I underestimated her willpower.\nI never expected her to grow into such a patient girl.\"",
+      "sourceUnit": "桜ルート十四日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...What...\"\nMy nerves condense.\nBefore I can even comprehend his rambling, my right hand balls into a fist and I instantly open my Magic Circuit—",
+      "sourceUnit": "桜ルート十四日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I would have most preferred it if the betrayal had come from you, though. Then, she wouldn't have awakened only halfway, and would have fully become the Shadow in both body and mind!\nStill, it is only a matter of time.\nWith Shinji's death, she has finally accepted her position. All I need to do now is watch. She will follow her instincts and attack people, and destroy herself with her gluttony.\nMy task comes after—\"",
+      "sourceUnit": "桜ルート十四日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I punch him.\nI punch the voice in the darkness, where there should only be a wall, with all my might.\nMy punch, unconsciously powered by all the magical energy I could ram into it, blasts through the wall, sweeping away the darkness staining the room.",
+      "sourceUnit": "桜ルート十四日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, how fearsome. You've crushed all the bugs I left there to monitor the room. Haha, soon, my voice won't be able to reach you.\"\n\"Shut up and show yourself, Zouken! I'll rip you apart!\"",
+      "sourceUnit": "桜ルート十四日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Unfortunately, I can't do that. I am on the cusp of achieving the Makiris' five-hundred-year old dream.\nI can't afford to let you kill me, nor am I ungrateful enough to kill you.\"",
+      "sourceUnit": "桜ルート十四日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungrateful...? Bullshit, when have I ever helped you!?\"",
+      "sourceUnit": "桜ルート十四日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"But you have. You raised her splendidly. You taught her how it feels to want someone else.\nI thank you, Shirou Emiya. The ritual will finally succeed thanks to you.\nThus, I will not kill you. I want you to see the fruits of your labor...!\"",
+      "sourceUnit": "桜ルート十四日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh...Zouken...\"\n\"Haha, no one can stop her now. Now that she's killed her brother, she cannot stop.\nThe Einzbern Grail. Once she absorbs that little girl and the Archer she took, Sakura will unlock the gate.\nThen it will be checkmate. The Makiris will finally achieve our long-cherished dream, and recreate the Third Magic...!\"",
+      "sourceUnit": "桜ルート十四日目-03:page17:1"
+    },
+    "page18": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十四日目-03:page18:1"
+    }
+  }
+}

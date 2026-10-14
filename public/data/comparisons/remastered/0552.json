@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0552",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'm more worried about Sakura.\nI need to make that clear to Tohsaka, even if I feel guilty about it.",
+      "sourceUnit": "桜ルート九日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Can we do that at my place?\"\n\"Home? You mean your house?\"",
+      "sourceUnit": "桜ルート九日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Sakura has a cold, so I need to look after her. If I'm going to be staying over here a few nights, then I can't rest easy unless I check in on her beforehand.\"",
+      "sourceUnit": "桜ルート九日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, crap. You're right.\"\n...She's fed up with me.\nOf course she would be. I came to her for help, and here I am saying I want to go home because it doesn't fit my schedule—",
+      "sourceUnit": "桜ルート九日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You idiot! If you'd said that sooner, I wouldn't have kept you here so long!\"\n\"...Wha?\"\nShe jolts to her feet, storms over to the coat rack, and dons her coat.",
+      "sourceUnit": "桜ルート九日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. I've done what we came to do, and we can finish the rest at your house. We'll pick this up once you take care of Sakura, so hurry up and get home.\"\n\"Uh...y-yeah. I appreciate that.\"",
+      "sourceUnit": "桜ルート九日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph! Also, I might forget to say it later, so I'll tell you this now.\nYour real specialty isn't Strengthening, but Projection.\nI don't know when or how you mixed that up, but you're supposed to be a mage who creates things.\"\nTohsaka walks briskly down the hallway.",
+      "sourceUnit": "桜ルート九日目-16:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

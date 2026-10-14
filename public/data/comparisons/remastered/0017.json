@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0017",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I awake to darkness.\nI guess I'm not much for dreaming. Unless something big happens, I always have the same dream anyway.",
+      "sourceUnit": "セイバールート二日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I always envision a sword.\nI have no idea why, but that's the only thing that pops into my head.\nThere's no rhyme or reason to it.\nPerhaps this is what defines me as, well, me...as Shirou Emiya.",
+      "sourceUnit": "セイバールート二日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I don't have any dreams of my own.\nThe only things on my mind while I sleep are what others taught me long ago.\nFor example, on how to be a mage.\nEven if I'm not a full-fledged mage, it's only natural for a mage to be aware of the world they're in.",
+      "sourceUnit": "セイバールート二日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Put simply, a mage is an irregular, an outcast from society.\nBut even outcasts need to band together to survive.\nMy old man told me there is a society of mages called a \"Mage's Association.\"\nHe also told me I shouldn't ever get involved with them.",
+      "sourceUnit": "セイバールート二日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The Mage's Association is said to conceal the existence of magecraft and manage mages.\nThe Mage's Association watches over mages and makes sure their magecraft doesn't affect society. But the strange thing is that they don't really prohibit mages from abusing magecraft either.",
+      "sourceUnit": "セイバールート二日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "According to Kiritsugu, the Mage's Association is only interested in concealing Mystics.\nEven if, say, a mage carried out an experiment that sacrificed, let's say a lot of citizens, the Association wouldn't punish them.\nTheir priorities are expressly in preventing the public from becoming aware of magecraft, which does not mean magecraft is completely banned.\nHonestly, anything goes as long as the truth doesn't come out...at least that seems to be how that insane bunch conducts themselves.",
+      "sourceUnit": "セイバールート二日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Whatever it is, the Mage's Association's surveillance is absolute.\nTypical magecraft research sacrifices the lives of ordinary humans, which in turn risks revealing the existence of magecraft to the world.\nAs such, the Mage's Association doesn't permit research that would harm society.",
+      "sourceUnit": "セイバールート二日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Ultimately, mages conduct their research in their privacy of their homes while the world is none the wiser.\nSo, mages sometimes go into hiding to escape the Association's scrutiny and oversight.\nSo there may be some mages living in this town, and I just don't know it.",
+      "sourceUnit": "セイバールート二日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I also hear Fuyuki is a spiritual hotspot, of sorts.\nThat probably means there's some prestigious mage with a storied history living here.\nThey're called \"Second Owners,\" elite mages the Association entrusts to watch over territory.\nOther mages who live in the same area must visit these Second Owners first to get permission to build their workshops.",
+      "sourceUnit": "セイバールート二日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "My old man was an outlaw who cut ties with the Association and moved here without the consent of Fuyuki's Second Owner.\nSo in a way, our family is a bunch of trespassers living in a house without permission from the landlord.",
+      "sourceUnit": "セイバールート二日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "Which means the Second Owner doesn't know that Kiritsugu Emiya was a mage.\nSo I tend to feel like our family's status as mages is kind of unclear.",
+      "sourceUnit": "セイバールート二日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "But then my old man, the bona fide mage, died...\n...and even though I'm his disciple and son, I don't know a thing about the Mage's Association, and have no real knowledge about being a mage.\nI have a feeling the Association would want to dispose of someone like me, but they haven't made any sort of move.\nApparently, the Mage's Association doesn't have many eyes in Japan, so that's probably why I haven't been found yet.",
+      "sourceUnit": "セイバールート二日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But that doesn't mean I can let my guard down.\nThe eyes of the Mage's Association are said to be everywhere, and if someone commits a crime using magecraft, the Church's heretic hunters will make their move.\nUsing magecraft, however half-assed you may be about it, makes you enemies.\nSo with all that in mind, I honestly just want to study being a mage on my own.",
+      "sourceUnit": "セイバールート二日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI wake up as the sunlight starts to pour in through the window.\nLooks like the sun's just now coming up; it's still dark out.\n\"It's cold. Waking up in the morning is getting tough.\"\nI get up, trying not to let the morning cold discourage me, and quickly fold up my futon.",
+      "sourceUnit": "セイバールート二日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "It's five-thirty.\nI've always been an early riser, no matter how late I go to bed. I might mess up once in a while, like yesterday, but that's rare.",
+      "sourceUnit": "セイバールート二日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, breakfast.\"\nI let Sakura do all the work yesterday, so it would look kind of bad if I didn't return the favor this morning.\nI should hurry up and finish making breakfast before Sakura comes.",
+      "sourceUnit": "セイバールート二日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I cook rice and make miso soup.\nYesterday the soup had daikon radish and carrots, so I'm making onion and potato miso soup today.\nI make the egg omelet, and use the leftover konnyaku to simmer it with bonito flakes.\nI make incisions into the saury fish, which will be the main dish, and sprinkle it with a little salt. All I have to do is to broil it, but that can wait until the last minute.",
+      "sourceUnit": "セイバールート二日目-13:page16:1"
+    },
+    "page17": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

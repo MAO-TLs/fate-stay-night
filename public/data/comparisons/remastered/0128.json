@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0128",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll just wait here quietly.\nTohsaka must have gone out for a reason, and I just have to do the assignment I was given.",
+      "sourceUnit": "セイバールート九日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Given what happened yesterday, I'll need to succeed as many times as I can today.\"\nI face the lamps with renewed spirit.\nThere are twenty left. I should go through them before Tohsaka comes back.",
+      "sourceUnit": "セイバールート九日目-02:page1:1"
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

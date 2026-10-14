@@ -1,0 +1,57 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0485",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Let's patrol Shinto.\nWe can't let our guard down, even if Caster has been defeated.\nI need to find the still-unknown Master of Lancer and determine their intent.",
+      "sourceUnit": "桜ルート六日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"We're going to Shinto. Come with me, Saber.\"\n\"Understood. Is the plan the same as yesterday?\"\n\"Yeah. I'll act helpless until we lure out an enemy.\"",
+      "sourceUnit": "桜ルート六日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I turn off the living room lights.\nSo as not to wake Sakura, I slip out of the house as quietly as I can.",
+      "sourceUnit": "桜ルート六日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We spend about an hour patrolling the town, but fail to turn up anything of note.",
+      "sourceUnit": "桜ルート六日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "According to Saber, the magical energy threads that Caster had throughout Shinto have largely thinned out, but I can't sense such subtle changes.\nSince there's no obvious traces of energy in Shinto, it looks like there isn't another Master there...",
+      "sourceUnit": "桜ルート六日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What is the matter, Shirou? You seem unhappy about something.\"\n\"Huh...? Oh, not really. I just thought the train station feels pretty empty. It's almost like...\"",
+      "sourceUnit": "桜ルート六日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...a ghost town, I almost say.\n...It's probably just a fluke.\nNothing out of the ordinary happened tonight. There are just fewer people out than usual.",
+      "sourceUnit": "桜ルート六日目-16:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go home, Saber. I don't think we'll learn anything else walking around aimlessly.\"\n\"...Yes. You still aren't feeling well, so let us retire early tonight.\"",
+      "sourceUnit": "桜ルート六日目-16:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "We leave Shinto behind.\nThe hollow echo of our footsteps is the only sound in the terminal.",
+      "sourceUnit": "桜ルート六日目-16:page8:1",
+      "recoveredDelimitedTail": true
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

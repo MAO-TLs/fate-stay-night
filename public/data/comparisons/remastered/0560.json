@@ -1,0 +1,526 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0560",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Sakura seems to be in serious condition.\nShe collapsed after being exposed to the liquid that splashed on her from the earrings. Kotomine is cleansing her of it while we wait.",
+      "sourceUnit": "桜ルート九日目-35:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka doesn't speak.\nArcher isn't present, and Rider is gone, too.\nIt's just Tohsaka and I in the church, waiting for Kotomine.",
+      "sourceUnit": "桜ルート九日目-35:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\nFrom my seat, I call out to her.\n\"What?\"\n\"I want to ask you something.\"",
+      "sourceUnit": "桜ルート九日目-35:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sure you do. Fine, I'll talk. There's no point hiding anything now, nor do I have a choice.\nYou want to know about Sakura, right?\"",
+      "sourceUnit": "桜ルート九日目-35:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I nod.\nTohsaka sighs quietly, and then begins explaining in her usual tone.",
+      "sourceUnit": "桜ルート九日目-35:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...It started a long time ago. The Matou bloodline thinned out, meaning that the magical energy...and the Magic Circuits they were born with kept decreasing.\nThey originally aren't from here, so the land of Japan probably wasn't suited to them.\nTheir decline began when they put down roots in this town, culminating in Shinji, their latest descendant, who was born without any Magic Circuits at all.\"",
+      "sourceUnit": "桜ルート九日目-35:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...That was the end of the Matous' history.\nIf their goal had been to keep up their traditions, then they would've had options, like adopting an apprentice. But the Matous are an elite family who never accepted outsiders.\"",
+      "sourceUnit": "桜ルート九日目-35:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"As a result, their magical power declined with each generation, until they finally lost it completely.\n...They tried taking in a disciple after that, but no mage wanted anything to do with a fallen house. That's how the centuries-long history of the Matous—the Makiris—came to an end.\"",
+      "sourceUnit": "桜ルート九日目-35:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"But that didn't mean they gave up. Shinji's father adopted a child from another family and trained her in the family magecraft.\"",
+      "sourceUnit": "桜ルート九日目-35:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"So...\nYou probably don't know this given your background, but only one child per generation is taught magecraft. Zouken told you that, right?\nIf there are siblings, then one becomes the successor, while the other is raised to live a normal life.\"",
+      "sourceUnit": "桜ルート九日目-35:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nThey don't need two heirs.\nSo if there was a brother and a sister...no, two sisters, then what would happen to the child who wasn't chosen?",
+      "sourceUnit": "桜ルート九日目-35:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I'm sure that families raise the sibling while hiding magecraft from them.\nBut that's difficult and inefficient.\nA lineage that has cultivated its blood and Magic Circuits for generations might produce children with excellent genes. Even if they aren't chosen as the heir, it would be wrong to let those talents go to waste.\nThen, they would...",
+      "sourceUnit": "桜ルート九日目-35:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"Yeah. I had a sister one year younger than me.\n...The fallen Matous didn't have any mages to adopt, remember?\nIt makes sense that they'd ask the Tohsakas, their ancient allies, for help.\"",
+      "sourceUnit": "桜ルート九日目-35:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know which of us my father wanted to choose as his heir. I just know I remained as a Tohsaka, and he gave my sister to the Matous.\nThat was eleven years ago.\nI haven't really gotten to know her well since then. That was part of the deal. I was told not to interact with her carelessly, since she would be the Matou heir.\"",
+      "sourceUnit": "桜ルート九日目-35:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So that's you and Sakura.\"\n\"We're blood sisters... Though, we've never addressed each other as such.\"",
+      "sourceUnit": "桜ルート九日目-35:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...I can't know the depth of the feelings behind those plain words.\nBut, it all makes sense now.\nHow she's always asking after Sakura.\nWhy she didn't let Archer use his Noble Phantasm.",
+      "sourceUnit": "桜ルート九日目-35:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm glad to hear that, Tohsaka. You were on Sakura's side all along.\"\nThe revelation is like a beacon in the darkness.\n...I don't know what's going to happen to Sakura, or what we should do with her.\nBut in this dark labyrinth of indecision, knowing that Tohsaka cares about Sakura is a ray of hope.",
+      "sourceUnit": "桜ルート九日目-35:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I'm not on her side at all.\"\nBut then,\nTohsaka says something in a hard tone, as if reading my mind.",
+      "sourceUnit": "桜ルート九日目-35:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You're not...?\"\n\"No. If Sakura doesn't get better, then I'll treat her like any other enemy. I can't overlook a mage that indiscriminately attacks civilians. If Kirei can't heal her, then I'll dispose of her.\"",
+      "sourceUnit": "桜ルート九日目-35:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... What the hell are you saying!? She's your little sister, isn't she!? How can you even talk about killing her!?\"",
+      "sourceUnit": "桜ルート九日目-35:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura is the Matous' daughter. She hasn't been my sister for the last eleven years.\"\n\"Tohsaka, you...\"",
+      "sourceUnit": "桜ルート九日目-35:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Even if we're related by blood, it doesn't change the facts. It isn't any of your business.\"",
+      "sourceUnit": "桜ルート九日目-35:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Then that makes you...\"\n...no different than Shinji.\nI can't bring myself to make the awful comparison aloud.",
+      "sourceUnit": "桜ルート九日目-35:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? The surgery is finished, but the patient is still in danger. If you're going to make a commotion, go do it outside.\"\nKirei Kotomine emerges from the church's inner rooms.",
+      "sourceUnit": "桜ルート九日目-35:page23:1"
+    },
+    "page24": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...\"\n\"H-hmph! You're just getting the wrong idea.\"",
+      "sourceUnit": "桜ルート九日目-35:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then sit. I will explain Sakura Matou's condition.\"",
+      "sourceUnit": "桜ルート九日目-35:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nWe sit separately, our attention mutually trained on the priest's next words.",
+      "sourceUnit": "桜ルート九日目-35:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"To put it briefly, there are foreign bodies—insects—throughout Sakura Matou's body. They are called Crest Worms. One might compare them to artificial versions of the Three Corpses from Taoist theory. Does that ring a bell?\"",
+      "sourceUnit": "桜ルート九日目-35:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I shake my head.\nHe explains that the Three Corpses are demonic parasites that live in a human's body, reporting their evil deeds to Hell.\nThat does sound familiar, but I've never heard of Crest Worms before.",
+      "sourceUnit": "桜ルート九日目-35:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't know? Well, they are normally harmless parasites.\nThey're familiars that feed on their host's magical energy and carry out their functions. They are the lowest order of familiars, which serve only to transmit their host's vital status.\"",
+      "sourceUnit": "桜ルート九日目-35:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh. So they're like monitoring devices made from magecraft.\nIs Zouken using them to monitor Sakura?\"\n\"Oh? Whoever said that the Crest Worms serve Zouken Matou?\"",
+      "sourceUnit": "桜ルート九日目-35:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm really not in the mood for your games right now. Who else other than that old geezer would plant those things inside her?\"\n\"You have a point. Shinji Matou cannot handle the Crest Worms. That leaves only that bloodsucking worm to control them.\"",
+      "sourceUnit": "桜ルート九日目-35:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Right? So get to the point. Can you save Sakura or not?\"",
+      "sourceUnit": "桜ルート九日目-35:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"You're so impatient, Rin. I'm sure you have some idea of her condition, but the young man does not. Shouldn't I explain for his benefit?\"\n\"Rgh...\"\nTohsaka looks away uncomfortably.\n...That tells me she doesn't want me to know what's wrong with Sakura.",
+      "sourceUnit": "桜ルート九日目-35:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you, Shirou Emiya? Do you want me to skip to the conclusion, like Rin?\"\n\"...No. Explain it to me from start to finish, Kotomine.\"",
+      "sourceUnit": "桜ルート九日目-35:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...I feel bad for Tohsaka.\nBut I won't budge on this point. If Sakura's life is at stake, then I need to know everything.",
+      "sourceUnit": "桜ルート九日目-35:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll continue, then.\nThe Crest Worms I mentioned are eating away at Sakura Matou's nerves.\nIt is because they have been growing inside her body for the last eleven years. The Crest Worms now resemble Magic Circuits, fusing throughout her body with her original nerves.\nThe worms have become a Magic Crest that is normally dormant, having no impact on her daily life.\"",
+      "sourceUnit": "桜ルート九日目-35:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"But once active, they consume her nerves, and keep feeding off her magical energy to operate.\nThat was the cause of her earlier condition. The Crest Worms were roaming through her body, stealing her magical energy, basically her very life force.\"",
+      "sourceUnit": "桜ルート九日目-35:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Had that continued, she would have died in half a day.\nOnce the Crest Worms run out of magical energy to feed on, they will turn to Sakura Matou herself for sustenance. Deprived of magical energy, her physical body would be taken over by the worms.\"",
+      "sourceUnit": "桜ルート九日目-35:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"You have a Magic Crest yourself, so you must know how severe the pain is.\nIntroducing even the slightest foreign element into a human body is enough to cause discomfort, and at times interfere with vital functions. Now imagine the agony of having some alien creature intertwine its 'nerves' with your own. The distress you would feel every time they moved would be enough to kill you.\"",
+      "sourceUnit": "桜ルート九日目-35:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...On that note, I was surprised that Sakura Matou managed to keep her consciousness intact.\nPerhaps it is because she is strong-willed, or perhaps she has built some tolerance to having the Crest Worms gnaw at her. You would have to ask her yourself.\"",
+      "sourceUnit": "桜ルート九日目-35:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\nI hear a noise.\nIt turns out I've been grinding my teeth.\nHe thinks I can understand her pain if I have a Magic Crest?",
+      "sourceUnit": "桜ルート九日目-35:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "How the hell am I supposed to know that?\nI break out into a full-body sweat every time I insert a single Magic Circuit.\nSakura's ordeal is many times worse.\nSomeone like me could never even imagine the depths of her pain.",
+      "sourceUnit": "桜ルート九日目-35:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wait. You said it's only if they're activated. So the Crest Worms aren't usually active?\"",
+      "sourceUnit": "桜ルート九日目-35:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. The drug she was exposed to was designed to awaken the worms.\nThey are only meant for surveillance.\nThey would only begin feeding as punishment once their host violates some predetermined rule.\"",
+      "sourceUnit": "桜ルート九日目-35:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't think I can listen to the priest talk any longer.\nI know it isn't his fault, but hearing him describe this makes me wanna punch him.",
+      "sourceUnit": "桜ルート九日目-35:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I struggle to suppress the impulse, and ask,\n\"Like what?\"\nI press him to get to the point.",
+      "sourceUnit": "桜ルート九日目-35:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura Matou collapsed, and Rin tried to save her. But Rider prevented her from doing so, correct?\nThat makes the rule clear: she had to continue to fight as a Master. That condition kept the Crest Worms in check.\"",
+      "sourceUnit": "桜ルート九日目-35:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Previously, she had consented to letting Shinji Matou command Rider. But now that she refuses, the Crest Worms are attacking her. They've calmed down for now, but the more time passes, the more they will harm her.\nAs if they're demanding, 'what are you doing?\nIf you're a Master, hurry up and kill them.\nIf you can't, then we'll devour you.'\"",
+      "sourceUnit": "桜ルート九日目-35:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...So she was bound by that rule?\"\n\"It appears to be the only likely possibility.\"\n\"Then...! Then she can just stop being a Master. If she uses up her Command Spells and nullifies her pact with her Servant, she won't be a Master anymore, so...\"",
+      "sourceUnit": "桜ルート九日目-35:page50:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"That is inadvisable.\nI told you that the condition which activates the Crest Worms is if she abandons her duties as a Master.\nIf she were to sever her contract with Rider, then the Crest Worms would most certainly consume her.\"",
+      "sourceUnit": "桜ルート九日目-35:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Right now, Sakura's only options are to fight and survive, or not fight and let the Crest Worms kill her.\"",
+      "sourceUnit": "桜ルート九日目-35:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"It appears so. As long as the Holy Grail War continues, the Crest Worms will continue to attack their host.\nIf that continues, Sakura Matou's mind won't remain intact, never mind her body. She has Magic Crests distributed throughout her body, after all.\nI'm sure you know how absurd that is, Rin.\"",
+      "sourceUnit": "桜ルート九日目-35:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I should be used to it by now, but sometimes I want to cut off my whole dang arm.\nIt's bad enough having it only in my left arm. If I had crests throughout my whole body, then my bodily functions would erode.\nThat would make someone more like a clump of Magic Circuits than a mage. The waves of magical energy would rewrite your brain.\"",
+      "sourceUnit": "桜ルート九日目-35:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Then, Sakura is...\"\n\"If her current condition continues, it will endanger her life.\nI don't know how long she'll last, but the Crest Worms encroach more with each passing day. She'll die if they can't be removed before they spread throughout her entire body, though they may cause permanent damage before then.\"",
+      "sourceUnit": "桜ルート九日目-35:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"All I've done is cleanse her.\nThe next procedure will aim to restore her lost magical energy and mind, but the chances of success are low.\nThat's all I have to say.\nMy conclusion is that at this rate, Sakura Matou cannot be saved. Can you accept that, Shirou Emiya?\"",
+      "sourceUnit": "桜ルート九日目-35:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe hell I can.\nWe can't save Sakura?\nThat's crazy.\nShe was doing just fine until yesterday, so why is this happening now...!?",
+      "sourceUnit": "桜ルート九日目-35:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"You said we need to eliminate the worms. You can't extract them?\nIf you know there's something foreign inside her, shouldn't you take it out!?\"",
+      "sourceUnit": "桜ルート九日目-35:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Extraction would be difficult. The Crest Worms have already become Magic Circuits which are part of her body. I am trained in Crest transplantation, but I cannot dispel her of those things.\n...Ah, yes. If you still want to extract them, then you will need to rely on a miracle.\"",
+      "sourceUnit": "桜ルート九日目-35:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh...\"\nThe Holy Grail.\nSo it all comes back to that.\nSakura has no choice but to fight as a Master,\nand only the power of the grail can save her?",
+      "sourceUnit": "桜ルート九日目-35:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"We've got the gist of things, Kirei. Thanks.\"\nTohsaka gives the priest a perfunctory bow of gratitude.",
+      "sourceUnit": "桜ルート九日目-35:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"But isn't this happening way too fast? It isn't like the worms got implanted today or yesterday. Why is she suddenly at her breaking point?\"",
+      "sourceUnit": "桜ルート九日目-35:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Must you ask?\nThe Crest Worms were given to her years ago. She even lost her Tohsaka eye and hair colors, so the modifications must have begun at an early age. The changes did not start recently.\"",
+      "sourceUnit": "桜ルート九日目-35:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Though, they must not have been as destructive as what we're seeing now.\nIt appears that Zouken did not intend to use Sakura in this war. They aren't configured for combat, to begin with. I can only presume that some unforeseen conditions must have aligned for him to treat her this way.\"",
+      "sourceUnit": "桜ルート九日目-35:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Unforeseen conditions, huh... I don't know what those are, but are you saying that Zouken didn't favor Sakura until the last few days?\"",
+      "sourceUnit": "桜ルート九日目-35:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Most likely. I believe that Zouken noticed some unexpected change in Sakura.\nBut it is only one reason. There must be other causes for her sudden changes.\nOnce she began using a Servant, it would have constantly consumed her magical energy. If she became unable to feed her Crest Worms as well, what do you think the starved worms would do?\"",
+      "sourceUnit": "桜ルート九日目-35:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So her body's deteriorating because she lacks magical energy, regardless of the condition not to fight as a Master.\nSo if she at least stops using Rider and reduces that energy cost...\"",
+      "sourceUnit": "桜ルート九日目-35:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, she may be able to continue her daily life.\nOf course, I doubt the old man would allow it.\"",
+      "sourceUnit": "桜ルート九日目-35:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. He wouldn't have implanted Crest Worms in her otherwise.\nThey'll take over her body if she doesn't fight,\nbut if she does fight, she'll use magical energy and her body will erode away.\n...And that's not all. Zouken can use Sakura any way he wishes, if he so chooses.\"",
+      "sourceUnit": "桜ルート九日目-35:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Use Sakura...?\"\n\"Yeah. Her life is in his hands. So, the only way to save Sakura is to defeat Zouken.\nBut, Emiya...\nIf you want to defeat Zouken, you'll have to fight Sakura, too. She's like his puppet. You can count on Zouken using her as a shield if he's cornered.\"",
+      "sourceUnit": "桜ルート九日目-35:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. Sakura Matou is a convenient pawn to Zouken. He will manipulate her, just as he did Shinji Matou.\nIn fact, her powers as a Master exceed his. She can be driven by the worms to go on a rampage, just as Zouken desires.\"\n\"...Rrgh.\"",
+      "sourceUnit": "桜ルート九日目-35:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...However, the thought of playing into his hands doesn't sit well with me either.\nI will continue to perform surgeries on Sakura Matou. Right now, I've purged her of the drug and given her anesthesia. Next, I will focus on extracting the worms and helping her body recover.\"",
+      "sourceUnit": "桜ルート九日目-35:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Wait, Kirei, you...\"\n\"They are desperate measures, but I will do what I can. I cannot let Sakura Matou die this way. It would sully my image as a priest seeking a divine miracle.\"",
+      "sourceUnit": "桜ルート九日目-35:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm right there with Tohsaka.\nI haven't known Kotomine as long, but I didn't expect this from him at all.\n...It's not just a hunch.\nI can tell that Kotomine sincerely and seriously intends to save Sakura.\nIt might be a matter of course for a priest, but I still feel like I'm witnessing something inconceivable.",
+      "sourceUnit": "桜ルート九日目-35:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"...Did hell just freeze over? I've never seen you go to such lengths for someone else.\"\n\"It is no mere whim. It would frustrate me to see her die.\nOf course, perhaps you would prefer it if there was one less person to deal with.\"",
+      "sourceUnit": "桜ルート九日目-35:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "The priest answers dispassionately.\nTohsaka glares at him for a moment.\n\"I'll leave that to you. I'll be back once the surgery is done.\"\nShe remarks, and leaves the church.",
+      "sourceUnit": "桜ルート九日目-35:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "The church returns to silence, now that Tohsaka's gone.\nThe priest silently watches her go, while I stay seated, with nothing else to do.",
+      "sourceUnit": "桜ルート九日目-35:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing? You won't be useful here. I don't want you in the way, so go kill some time until the surgery is finished.\"\n\"I won't get in your way. I trust you with the surgery. You healed that woman before.\"",
+      "sourceUnit": "桜ルート九日目-35:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. The scale of the work to be done can hardly be compared to before.\nSakura Matou stopped her rampage by attacking herself. She likely poisoned herself after she attacked you. To put it simply, she attacked her own mind to stop Zouken from controlling her.\"",
+      "sourceUnit": "桜ルート九日目-35:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"This surgery is akin to restarting a stopped heart... However, the stalled Crest Worms are keeping the body alive. If I can revive her mind, I will consider it a success.\"",
+      "sourceUnit": "桜ルート九日目-35:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"But if you are there, it will hinder my work. It would be a problem if you blundered into the room upon hearing her suffer, and first of all, you have no obligation to bear that burden. Sakura Matou is a stranger to you.\"",
+      "sourceUnit": "桜ルート九日目-35:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"A stranger?\"\n\"You should not sympathize with her.\nThere is nothing you can do. Just as Rin did, it's best if you leave quickly.\"",
+      "sourceUnit": "桜ルート九日目-35:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? If I can't do anything to help, at least I can pray that she'll be all right.\"\n\"That would be a sin. You do not have the right to share in her pain.\nYou still don't understand? I'm saying that if you are here, it will cause the surgery to fail. To Sakura Matou right now, Shirou Emiya is nothing but an enemy.\"",
+      "sourceUnit": "桜ルート九日目-35:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh...\"\nI can't even ask why.\nThe priest's heavy words point out a sin that I didn't even realize.",
+      "sourceUnit": "桜ルート九日目-35:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura Matou feels guilt towards you. She will refuse to wake up if you are by her side.\"\n\"She feels...guilty?\"",
+      "sourceUnit": "桜ルート九日目-35:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Although it is more like repentance than guilt.\n...As the Matou heir, she has been subject to years of experimentation.\nIt isn't difficult to imagine what sort of education Zouken had in store for her. Sakura Matou is not the chaste maiden you wish her to be, but a foul witch sullied by his worms.\"",
+      "sourceUnit": "桜ルート九日目-35:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...That doesn't surprise me.\nI know the feeling now.\nThe moment I found out Sakura is a Master.\nWhen the Command Spell appeared on her hand, I silently accepted reality.",
+      "sourceUnit": "桜ルート九日目-35:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"While she tried to keep the truth from you, she always sought salvation.\nI don't know how long she has had to endure such torture in the name of magical inheritance.\"",
+      "sourceUnit": "桜ルート九日目-35:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"But what could people close to her do, knowing nothing of her plight?\nThat is why you are not even qualified to pray for her. If you still care about Sakura Matou, then leave. That is all you can do right now.\"",
+      "sourceUnit": "桜ルート九日目-35:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I stand up.\nIt's not because I lost an argument with this guy.\nI'm just acknowledging that what he says is true.\nIf I really care about Sakura, then I shouldn't be here.\nThis thoughtless brain of mine shouldn't try to care for Sakura.",
+      "sourceUnit": "桜ルート九日目-35:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "I turn my back on the priest and start walking out of the church.\n\"Good. One more thing, though it may not need saying...\"\nI don't bother turning around.\nI stop in front of the exit.",
+      "sourceUnit": "桜ルート九日目-35:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"You mentioned the female victim from before, when Shinji Matou still commanded Rider. She was basically a dead woman, but your quick thinking saved her.\"",
+      "sourceUnit": "桜ルート九日目-35:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy temper rises.\nWhy do I immediately realize the reason he's telling me this?",
+      "sourceUnit": "桜ルート九日目-35:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. I don't need to spell out whose wrongdoing it was. When a Servant attacks a human, the responsibility lies with its Master.\"",
+      "sourceUnit": "桜ルート九日目-35:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"You're...you're saying that it was Sakura's fault?\"\n\"Not at all. I am merely assigning responsibility, not discussing morality. You saved the woman, and that is a fact.\"",
+      "sourceUnit": "桜ルート九日目-35:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "But if...\nIf I had made the wrong choice back there, Rider would've killed the woman.",
+      "sourceUnit": "桜ルート九日目-35:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "And that would be...\n\"Let us discuss this another time, Shirou Emiya.\nEven if Sakura Matou recovers, the outcome will not change.\nEven if she regains her sanity, the same thing will happen again.\nWhen it does...who will you protect?\"\nI don't know when Sakura will do that again.",
+      "sourceUnit": "桜ルート九日目-35:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't have an answer for him.\nI walk quickly to the exit, like I'm running away from his words.",
+      "sourceUnit": "桜ルート九日目-35:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou Emiya. Do you remember why you became a Master?\"",
+      "sourceUnit": "桜ルート九日目-35:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "I gnash my teeth as I walk.\nHis words are an ultimatum.",
+      "sourceUnit": "桜ルート九日目-35:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"You said that you would do the right thing.\nThen you must make a decision.\nWill you kill yourself to stay true to your ideals and convictions...just as Kiritsugu Emiya did?\"",
+      "sourceUnit": "桜ルート九日目-35:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "I shut the door.\nThe door to God's house is as heavy as the cross He bore.",
+      "sourceUnit": "桜ルート九日目-35:page103:1"
+    },
+    "page104": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

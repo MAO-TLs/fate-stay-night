@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0158",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ungh!\"\nThere's no time for me to hesitate.\nI can't possibly fight like this, so I need to be careful until I've recovered.\nMaybe I can hide in that bed for now!?\nI hop into the bed and tug the sheets over me to hide.\nThe door grinds open.\nCould it be Illya? Or someone else from the castle?\nWhoever it is will probably shocked that the prisoner has vanished, and will only pay attention to the empty chair.",
+      "sourceUnit": "セイバールート十一日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nTh-this bed is so fluffy...and perfect...\nWhoever came to check on me should be struck speechless by my disappearing act, and they'll...\n\"Shirou, what are you doing? This is no time to play around.\"\nThe exasperated voice is addressing me...directly?",
+      "sourceUnit": "セイバールート十一日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI poke my head out from the fluffy bed.",
+      "sourceUnit": "セイバールート十一日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I am asking what you are doing here.\nPlease do not tell me that was an attempt to hide.\"\n\"Uh...well, um...\"\nI crawl out from the bed.",
+      "sourceUnit": "セイバールート十一日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I was hiding. Yes.\"\nI look at her, guiltily.\n\"That was a poor hiding spot. Had I been your enemy, I would have cut you down without hesitation.\"",
+      "sourceUnit": "セイバールート十一日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ar...gh...\"\nI cower, not really having any counterargument.\n...I think I've really embarrassed myself here.",
+      "sourceUnit": "セイバールート十一日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...well, Saber...why are you here?\"\n\"Wh-why? I should hardly need to tell you. Servants need not explain their need to protect their Masters. It is my duty to come to your aid, knowing you have been captured.\"",
+      "sourceUnit": "セイバールート十一日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...well... But how did you know I got captured? Or actually, why are you here, Saber? This is Illya's hideout. You shouldn't be coming anywhere near here right now.\"",
+      "sourceUnit": "セイバールート十一日目-05:page7:1"
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

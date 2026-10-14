@@ -1,0 +1,146 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0632",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, then...\"\nThe two sisters leave the dojo and enter the yard.\n\"What do you think you're doing, Sakura? I thought you're supposed to be resting in your room because of your health.\"\nRin Tohsaka looks down on the girl, with an icy glare, rather than concern.",
+      "sourceUnit": "桜ルート十二日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura Matou uneasily drops her gaze.\n...\n...\nNeither of them exchange any words.\nRin sternly scolds Sakura for poking her nose where it doesn't belong,\nwhile Sakura can't find the will to say anything due to her feelings of indebtedness and inferiority.",
+      "sourceUnit": "桜ルート十二日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. If you came to see Emiya because you're worried about him, then go back. If that's your only reason for being here, then I'll pretend this never happened.\"\n\"...\"\nSakura trembles slightly.\nThe older sister's rebuke is severe.\nShe knows full well how insecure and gloomy Sakura is, even as she drives at her.",
+      "sourceUnit": "桜ルート十二日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not it, Nee-san, I just...\"\nEven as she feels pressured by Rin, Sakura works up her resolve to stand up to the big sister whom she looks up to so much.\nHowever...\n\"I don't need an explanation. Just go back to your room.\nI'm not letting you into the dojo, no matter what you say.\"\nRin cuts her off midsentence.",
+      "sourceUnit": "桜ルート十二日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What... Why can't I go inside?\"\n\"It doesn't matter why. When we're acting as Masters, we only see you as our enemy.\nLook, Sakura. You're still Zouken's pawn, even if you're protecting this house with Rider instead of taking part in the war. That's why we can't train him in front of you.\"",
+      "sourceUnit": "桜ルート十二日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nAll Sakura can do is stand there and take the cold lecture.\nRin genuinely believes what she says.\nUnlike Shirou, she's constantly on guard against Zouken's next move.\nOr perhaps,\nshe's absolutely sure that Sakura will turn on them.",
+      "sourceUnit": "桜ルート十二日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura bites her lip in frustration.\nAs Rin says, they don't know when Zouken will take action.\nWith each passing day, her body becomes harder to control, and her memories more scattered.\nEven her sleep is plagued with nightmares and no longer the peaceful respite it once was.\nShe could indeed lose her mind at any moment.",
+      "sourceUnit": "桜ルート十二日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. You're just causing more trouble for us by moving around when you don't have enough magical energy.\nYou might collapse at any time. Okay, you might not right now when nothing's going on, but the more you push yourself, the more Emiya will worry about you.\n...It's just going to stress him out even more. I'm sure you don't want that, Sakura.\"",
+      "sourceUnit": "桜ルート十二日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nRin's logic is completely sound.\nFrustrated by her own powerlessness, Sakura stares at the ground again.",
+      "sourceUnit": "桜ルート十二日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Get it, now? Then hurry up and go back. We'll come get you when it's lunch, so make sure you rest until then.\"\nShe nods meekly.\nRin turns her back on her little sister.\nThe gesture seems to declare that\nSakura Matou is a nuisance.",
+      "sourceUnit": "桜ルート十二日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wait... Wait, Nee-san!\"\n\"What? Was there anything else?\"\n\"Yes. I understand what you're saying. I'm going to go back to my room.\nBut, please let me ask a question. What are you going make Senpai do?\nYou know he can't fight anymore, don't you?\nThen why did you summon him again today to do even more things to him...!?\"",
+      "sourceUnit": "桜ルート十二日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nRin stops in her tracks.",
+      "sourceUnit": "桜ルート十二日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"We're giving him a lecture on magecraft, what else? Right now, we can't beat Zouken, Saber, or that Shadow.\nThat's why we need Shirou to draw out Archer's magecraft. Archer's arm contains his accumulated experience. If we loosen the holy shroud, that experience will flow into Shirou even if he's asleep, forcing him to level up.\"",
+      "sourceUnit": "桜ルート十二日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nSakura's a mage too, so she understands how reckless of an idea that is.\nWhat her sister is trying to do to Shirou is nothing but torture,\nlike trying to force a hundred liters of fuel into his ten-liter tank.\nOf course, the excess gasoline is bound to spill out, and even if they pour ten thousand points of experience into him, he can only retain ten.",
+      "sourceUnit": "桜ルート十二日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "It will only cause him suffering.\nAll Shirou will gain is less than a tenth of the agony he's forced to taste.\nAnd more importantly, a normal mind could never endure such an experience.\nIf a mud doll faces a tidal wave, it will be washed away without a trace.\nThat's what it means to loosen that holy shroud.",
+      "sourceUnit": "桜ルート十二日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"That's reckless! If you keep doing that, his body won't last!\nNo, that's not all! He trusts you! He's letting you do these things to him because of his faith in you.\nBut you know him—all it'll take is one word from you to make him take off that shroud!\"",
+      "sourceUnit": "桜ルート十二日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura.\"\nShe doesn't look down this time.\nSakura glares defiantly at her sister, her ideal.",
+      "sourceUnit": "桜ルート十二日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. But he's already been taking the shroud off, even though I haven't told him to. I realized that when I was talking to him earlier.\n...Seriously, what's wrong with him? No matter how many times I warn him, he just ends up doing it anyway like it's no big deal.\"",
+      "sourceUnit": "桜ルート十二日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Nee-san?\"\n\"It's because I know him that I suggested a plan that wouldn't involve him using the arm.\nIf he knows that we have a fighting chance even if he doesn't take the shroud off, then he'll barely keep himself in check. So, my job is to have him make us a tool while staying on the right side of that line.\nOnce we're finished, Shirou can rest. I'll even confine him and make him behave, and not let him fight again until the Holy Grail War is over.\"",
+      "sourceUnit": "桜ルート十二日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nHer sister is telling the truth.\nRin Tohsaka is being as considerate as she can.\n...But that's only within her own heart.\nSakura is the heir to an equally old lineage, so she knows her sister has other priorities.",
+      "sourceUnit": "桜ルート十二日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Nee-san. I know that you're worried about Senpai.\nBut that's all. Once you realize that your method can't defeat Grandfather, then you're sure to use it.\nYou're a Tohsaka mage. If it helps you win...to safeguard the laws that govern mages, you'll use Senpai as a tool if you have to.\"",
+      "sourceUnit": "桜ルート十二日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "It's not a question, just a statement of fact.\nThe Tohsaka heiress closes her eyes.\n\"...Yes. If this method fails, and Zouken and the Shadow repeat last night's atrocity again...then I'll make Shirou use Archer's arm. It's the obvious choice to make, since all it will cost is his life.\"\nShe lays it out boldly.",
+      "sourceUnit": "桜ルート十二日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's selfish. Senpai has never wanted the Holy Grail. It's just a coincidence that he became a Master! So it's wrong to keep forcing him to fight.\"\n\"...Haah. You seem to have the wrong idea, Sakura.\"",
+      "sourceUnit": "桜ルート十二日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. I'm not forcing Shirou to do anything,\nnor do I have the right to order him around. My Archer's arm saved his life.\nSince then, he's continued to keep the arm while putting up with its effects.\nSo, his life has been mine ever since that moment.\nAs long as he has that arm, he's my Archer.\"",
+      "sourceUnit": "桜ルート十二日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you understand? Shirou's my familiar until this war is over.\nYou have no right to interfere with that. I want him to fight, so I'll borrow his power as much as I need to.\"\n\"Ngh...\"\nShe can't come up with a retort.\nAwed by her sister's confidence, the girl stands there, unable to say anything in reply.",
+      "sourceUnit": "桜ルート十二日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are we finished here? Then go back to your room. You're being a nuisance by staying here.\"\nRin Tohsaka turns and goes back to the dojo.\nThe girl watches her go as if gazing at a distant landscape.",
+      "sourceUnit": "桜ルート十二日目-07:page25:1"
+    },
+    "page26": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page27": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

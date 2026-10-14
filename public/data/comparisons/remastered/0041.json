@@ -1,0 +1,241 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0041",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "As soon as I leave, the weight on my shoulders seems to lift.\nIt might be because I'm away from the priest.\nBut it might also be because I see Tohsaka, conspicuous in her uniform,\nand the blonde girl in a raincoat. The slightly mismatched sight of those two standing together relieves whatever pressure I felt.",
+      "sourceUnit": "セイバールート三日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber is still silent.\nShe looks at me, and seems to want to know what I decided.",
+      "sourceUnit": "セイバールート三日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. We're going in the same direction until we reach town.\"\nTohsaka starts walking, her pace brisk.\nSaber and I follow suit, and the three of us leave the church grounds.",
+      "sourceUnit": "セイバールート三日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "We walk down the hill.\nWe hadn't talked much on the way here, but there's even less conversation on the way back.\nEven someone as dull as me knows why.\nAfter our visit to the church, I accepted my position as a Master.\nThat must be why Tohsaka is keeping her distance.",
+      "sourceUnit": "セイバールート三日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nI get it.\nBut I don't like the idea of seeing Tohsaka in that light.",
+      "sourceUnit": "セイバールート三日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. How's your Servant?\"\n\"Eh?\"\n\"Oh. If you're wondering, Archer's fine. The injury he sustained from Saber won't be easy to heal, so he won't materialize for a while though.\"\n\"Does that mean he isn't by your side?\"",
+      "sourceUnit": "セイバールート三日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. He's cooped up in my house. He'd be at a disadvantage if he was ambushed by other Servants, so I'm having him prepare to fight by recuperating somewhere safe.\"",
+      "sourceUnit": "セイバールート三日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I see.\nUnlike my house, I'm sure Tohsaka's house is well-fortified against enemies.",
+      "sourceUnit": "セイバールート三日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "A mage's home is like a fortress. There's not much chance of defeating them there.\nWhich means enemies tend not to try attacking them at home.\nHm...\nThe Bounded Field around our house just notifies us of intruders, but even having that makes a big difference.",
+      "sourceUnit": "セイバールート三日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way, Tohsaka. The priest mentioned he was the overseer of the Holy Grail War. Does that mean he knows who your Servant is?\"\n\"He shouldn't know. I've never told him.\"",
+      "sourceUnit": "セイバールート三日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You guys seem to get along, so I thought you had.\"\n\"Emiya. I'm going to give you a little advice. Never tell anybody your Servant's identity. No matter how much you trust the other person, you should keep quiet. Otherwise, you'll end up dropping out early.\"",
+      "sourceUnit": "セイバールート三日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? What do you mean, Saber's identity?\"\n\"I'm talking about which hero your Servant is.\nNo matter how strong they are, revealing their strength to others will just lead to a knife in the back. Just ask Saber her True Name later.\nYou'll understand when you learn about her. Actually... It might be better if she doesn't tell you because you're...you know...\"",
+      "sourceUnit": "セイバールート三日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Why not?\"\n\"You can't keep secrets. You might have the best chance at keeping the secret if you just don't know.\"\n\"Who do you think I am? I can at least follow a strategy like that.\"",
+      "sourceUnit": "セイバールート三日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sure? Does that mean there's something you're hiding from me?\"\n\"Uh...something I'm hiding from you? Well...\"\nI feel a hot blush in my cheeks as she looks at me.\nI shouldn't feel guilty, but I wonder if secretly idolizing her even counts in this context.",
+      "sourceUnit": "セイバールート三日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"See? I don't know what it is, but your face tells me you're hiding something. And that's why you're not fit for this.\nThere's plenty of other good things about you, so stop thinking of silly tactics like these.\"",
+      "sourceUnit": "セイバールート三日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh-huh. Then what about you? If you're mum about your Servant even to that priest, does that mean you don't trust him?\"",
+      "sourceUnit": "セイバールート三日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Kirei? Of course not. I'm not naïve enough to trust him. He's a big hypocrite who switched sides from the Church to the Mage's Association, yet he still has a seat at the Church. He'd spill it to the other Masters the second he felt like it.\"",
+      "sourceUnit": "セイバールート三日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka huffs, obviously annoyed.\nI guess Tohsaka really doesn't trust that priest.\nI'm a little relieved. But at the same time, her tone of voice also conveys a sort of closeness with the priest.",
+      "sourceUnit": "セイバールート三日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "We cross the bridge.\nThere's nothing else to talk about.\nOur frosty white breath hangs in the winter air.\nThe faint sound of flowing water bubbles up from beneath the bridge where we walk in the streetlights' illumination.\nAll of those small details etch themselves onto my memory.",
+      "sourceUnit": "セイバールート三日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Oddly, I don't think to look at Tohsaka's face.\nIt feels like more of a rarity to be walking beside her like this than it does to see her face.\nMe, Tohsaka, and the girl called Saber, about whom I know nothing...\nThe three us, without doing anything in particular, walk back to our homes.",
+      "sourceUnit": "セイバールート三日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "We reach the intersection.\nIt is where we will have to separate, as our homes are in opposite directions.",
+      "sourceUnit": "セイバールート三日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"We should split up here. I've done my duty, and things would get complicated if we stuck together any longer. We should part ways amicably, and tomorrow we'll become enemies.\"\nI think she's trying to bring closure to our ambiguous relationship.\nTohsaka starts talking, but suddenly cuts off.",
+      "sourceUnit": "セイバールート三日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Then I realize something.\nShe didn't explain the rules to me out of obligation.\nShe was only trying to help me, as I knew absolutely nothing, to make things fair for me.\nAnd that's why, the moment things have been explained, everything goes back to normal.\nAll that's left is for us to fight each other as Masters.",
+      "sourceUnit": "セイバールート三日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nBut that would make her last words to me strange.\nTohsaka must have meant it would be hard to fight if she feels empathy for me.\nFor Tohsaka, everything that happened tonight was unnecessary.\n\"...things would get complicated if we stuck together any longer.\"\nIf that's how she feels, she shouldn't have gotten involved with me to begin with.",
+      "sourceUnit": "セイバールート三日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "She's smart enough to know that.\nBut she helped me, even knowing it wouldn't benefit her in any way.",
+      "sourceUnit": "セイバールート三日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "That's how I know she had had no ulterior motive for doing what she did tonight... She did it purely out of the kindness of her heart.\nTohsaka is totally different now than she usually is at school.\nShe's harsh and unfriendly at school, and that's putting it mildly. But seeing her right now? I want to ask why the hell she acts the way she does at school.",
+      "sourceUnit": "セイバールート三日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Honestly? The difference is on the level of fraud.\nBut either way...\nRin Tohsaka is also exactly what everyone thinks she is.",
+      "sourceUnit": "セイバールート三日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"You know. You're a good person, Tohsaka.\"\n\"Huh? Where'd that come from? Flattery won't make me go easy on you.\"\nI know that.\nShe had to tell me it would be a pain to be empathetic BECAUSE she isn't going to go easy on me.",
+      "sourceUnit": "セイバールート三日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. But I would rather not be enemies with you, because I like people like you.\"\n\"Wha...\"",
+      "sourceUnit": "セイバールート三日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I heard Tohsaka's house is in the residential district with all the Western houses, in the opposite direction of my house.\nShe took care of me up until now, so I'd like to walk her home.",
+      "sourceUnit": "セイバールート三日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, don't forget to run to that church the moment your Servant is killed. You'll at least live if you do that.\"\n\"I'm not sure about that, but I'll still take your advice. Anyway, I don't think that will happen, since I'm likely to die before Saber.\"",
+      "sourceUnit": "セイバールート三日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I've calmly assessed the situation.\n\"Hnn...\"\nTohsaka's reaction is once again puzzling.\nAfter that weary sigh, she glances at Saber.",
+      "sourceUnit": "セイバールート三日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. I won't warn you anymore. At this point, it would really just be an act of empathy.\nJust be careful. Saber may be strong, but it's all over if you, the Master, wind up dead.\"\nShe turns around and starts walking.",
+      "sourceUnit": "セイバールート三日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd yet...\nShe stops dead in her tracks, as if she's seen a ghost.",
+      "sourceUnit": "セイバールート三日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka?\"\nThe moment I call out to her, a stinging pain shoots through my left hand.",
+      "sourceUnit": "セイバールート三日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "“Are you two done chatting?”",
+      "sourceUnit": "セイバールート三日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "A young voice echoes in the night.\nThe singsong tone comes unmistakably from a young girl.\nMy eyes are drawn to the top of the hill.\nI hadn't noticed the clouds parting. Now the brilliant moon illuminates the sky.\nAnd there...",
+      "sourceUnit": "セイバールート三日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...a shadow looms.\nIt's a strange shape that seems out of place in the darkened town.",
+      "sourceUnit": "セイバールート三日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Berserker.\"\nI'm not familiar with the word Tohsaka whispers.\nI don't even need to ask.\nIt's definitely a Servant.\nIt gives off an overwhelming aura of death that surpasses even the fire from ten years ago.",
+      "sourceUnit": "セイバールート三日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Good evening, brother. This is the second time we've met.\"\nThe girl smiles.\nHer innocence sends a chill up my spine.",
+      "sourceUnit": "セイバールート三日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nNo, the chill goes deeper than that.\nIt's not just my body. Even my mind freezes.\nThat thing is a monster.\nI'm not even looking into its eyes, but its intimidating presence paralyzes me.",
+      "sourceUnit": "セイバールート三日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "My instincts tell me I'm dead the instant I move.\nIt feels like someone is pressing a knife against my exposed stomach.",
+      "sourceUnit": "セイバールート三日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. He's definitely in a different league.\"\nWhile all I manage to do is stand there, paralyzed, Tohsaka is composed enough to brace herself.\nEven that seems futile.\nI can only see her back, but I still sense her despair.\n\"Huh? Oh, your Servant's resting. That's no fun. I thought I would get rid of two at once.\"\nThe young girl seems displeased as she stands at the top of the hill looking down on us.\nThis is even worse.\nThat girl knows that Tohsaka's Servant is not here.\nAnd then...\nThe girl bows gracefully, which seems wildly out of place given the current mood.\n\"Very nice to meet you, Rin. My name is Illya.\nPerhaps you might recognize the name Illyasviel von Einzbern better.\"\n\"Einzbern...\"\nTohsaka trembles lightly, seeming to recognize the name.\nThe girl smiles, seemingly delighted by Tohsaka's reaction.\n\"Then here we go. Kill them, Berserker.\"\nIn a singsong voice, the girl orders the monstrosity behind her.\nThe giant jumps.\nIn a single leap, this Berserker sails all the way from the top of the hill to its bottom, where we stand.\n\"Shirou, get back!\"\nSaber surges forward. Her raincoat flutters off her shoulders, blocking my view for a moment.\nSaber runs towards where Berserker is about to land.\nBerserker lands, kicking up a small torrent of air in his wake. The two meet almost simultaneously.\n\"...!\"\nThe very air shakes.\nSaber stops Berserker's rocklike sword with her invisible sword.\n\"...ng!\"\nSaber's mouth twists as she strains.\nAnd then...\nBerserker's giant sword moves in a flash, creating a whirlwind.\nThunder.\nThe clash of swords, almost tearing the air, ends in Saber's defeat.\nI hear something skidding.\nSaber blocks Berserker's giant sword with her own, but the impact pushes her backwards.\n\"Gngh!\"\nSaber buckles.\nThe copper-skinned Servant follows her.\nThe monster swings its giant sword again and again, as if it knows how to do nothing else.\nSaber continues to block it with her sword, unable to dodge the strikes.\nSaber's sword being invisible doesn't matter.\nShe needs to put all her strength into blocking his attacks, or she's dead for sure.\nSaber's left with no choice but to remain on the defensive.\nThe only chance Saber has of winning is to find an opportunity to strike between Berserker's attacks.\nAnd yet...\nThat's only if Berserker leaves her an opening.\nHis massive black rock sword moves like a raging storm.\nHe is enormous.\nDespite his size and unwieldy weapon, Berserker is faster than Saber.\nHis unrelenting attacks just smash whatever is in his way. That's all.\nBut it's enough to be effective.\nAs long as he retains his overwhelming speed and power, he doesn't really need technique.\nHumans devised technique to compensate for their own weakness.\nThat giant? That monster? He has no weakness.\n\"Run!\"\nIt's the only thing I can manage to say. My body is completely frozen.\nThat thing cannot be beaten.\nSaber is going to die.\nThat's why she needs to run.\nIt'd be easy if it was just her that needed to flee.\nOf course, she knows that perfectly well.\n\"Oh...\"\nThat's not good.\nMy body may be paralyzed, but my mind is still working.\nThe raging storm of death simply won't let up.\nSaber retreats, unable to block it all.\nAnd then, the final unblockable blow comes.",
+      "sourceUnit": "セイバールート三日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Saber hangs in the air.\nTwisting her body impossibly, Saber manages to defend against Berserker's titanic swing.",
+      "sourceUnit": "セイバールート三日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "It's all she can do to defend herself from the fatal blow.\nBut because she can't completely brace against the giant's tremendous swing, his attack sends her flying.",
+      "sourceUnit": "セイバールート三日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "After sailing in a wide arc, she falls to the ground.\nJust before her back hits the ground, Saber turns in midair and lands on her feet.\n\"...Ungh!\"\nShe manages to compose herself.\nBut crimson blood stains her chest.\n\"She...!\"\nI'm such an idiot.\nI've completely forgotten something crucial.\nI don't know how many times Servants can fight in a day, but this is Saber's third battle.\nOn top of that, Saber still hasn't healed from the wound Lancer inflicted on her chest earlier.\n\"Ungh...gh...\"\nSaber shifts her guard to protect her chest.\nBerserker moves in, like a violent wind, striking at Saber while she's hampered by her wound.\nHis blows rain down on her back.\n\"Vier Stil Erschießung...!\"\nI don't know what kind of magecraft Tohsaka used, but something bursts against Berserker's body.\nFrom the amount of magical energy I can feel, the impact must have been equivalent to a large caliber pistol.\nEven that is meaningless.\nIt barely even scratches him.\nHe isn't nullifying magical energy, like what Saber does.\nThe attack just...doesn't affect him.\n\"What!? This guy is ridiculously durable!!!\"\nDespite that, Tohsaka continues to cast her spell.\nBerserker just ignores Tohsaka's spells and charges at Saber.\n\"...Nngh!\"\nSaber painfully lifts her head.\nShe readies her sword, intent on continuing the fight.\nThe sight of her in so much pain gets me moving again.",
+      "sourceUnit": "セイバールート三日目-05:page45:1"
+    },
+    "page46": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0015",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I haven't thanked Sakura for cooking dinner yet, so I should talk to Sakura.",
+      "sourceUnit": "セイバールート一日目-14:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"It's getting late, so I should walk her home.\"",
+      "sourceUnit": "セイバールート一日目-14:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Sakura just finished cleaning up, and she's in the living room getting ready to go home.",
+      "sourceUnit": "セイバールート一日目-14:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Senpai. I thought you were taking your bath.\"\n\"I'll take my bath later, after I walk you home.\"\n\"Eh? You're going to walk...me home?\"",
+      "sourceUnit": "セイバールート一日目-14:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It's been dangerous at night lately so I'll walk you home. Your house is a pretty long walk, so let me at least do this, since you go out of your way to come here.\"\n\"...\"\nSakura purses her lips awkwardly.\n...Did I say something wrong?",
+      "sourceUnit": "セイバールート一日目-14:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry. I appreciate your concern, but you should rest. I know my way home from here, and I should be fine alone.\"",
+      "sourceUnit": "セイバールート一日目-14:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe so, but today's special. I'll walk you home at night for a while.\"\n\"...But, well...it will cause trouble for you if my brother sees you.\"",
+      "sourceUnit": "セイバールート一日目-14:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah—\"",
+      "sourceUnit": "セイバールート一日目-14:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "No matter what Shinji might say, letting Sakura go home alone during these dangerous times would be much worse.",
+      "sourceUnit": "セイバールート一日目-14:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"It's no trouble, really. I don't want you to worry about that. It's been dangerous out there, so I'm going to walk you home.\"\n\"Um, but I would hate for you to go out of your way, so...\"\n\"It's not an issue. You do so much for me every day, so let me at least walk you home. Or are you really hell-bent on going home by yourself, Sakura?\"",
+      "sourceUnit": "セイバールート一日目-14:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...um, well that's not exactly what I meant...\"\n\"That settles it then. I'm pretty confident in my skills. I think I can deal with any ordinary attacker, so you should make use of me at times like this. I'll protect you, no matter what.\"\nI nudge Sakura towards the hallway with a glance.",
+      "sourceUnit": "セイバールート一日目-14:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? Are you sure about this? You might have another argument with my brother.\"\n\"I don't care. Guys fight all the time, and it's healthy for Shinji and I to say what's on our minds.\nHe may not show it, but he hates when people hide things from him. If he and I have something to complain about, it's best we get it off our chests.\"\nWhen I say that...\nSakura looks surprised for some reason.",
+      "sourceUnit": "セイバールート一日目-14:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? Did I say something weird?\"\n\"No, no. I'm just glad you're friendly with my brother.\"\n\"Really? Actually, calling it friendly might be a bit of a stretch. I'm the only one who feels better after our spats; Shinji might feel the opposite.\"",
+      "sourceUnit": "セイバールート一日目-14:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You may be right. But have you noticed my brother still speaks to you no matter how many times you two fight? I have a feeling he does not get along with you, but he still likes you more than most, and that's why he's always mindful of you. He doesn't wear his heart on his sleeve, and he likes people he dislikes.\"",
+      "sourceUnit": "セイバールート一日目-14:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, I really don't know how to respond to that.\"\n\"Well, I'm a bit jealous of you, so I wanted to say something that might make you a little uncomfortable.\"\nSakura smiles gently.",
+      "sourceUnit": "セイバールート一日目-14:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...um...\"\nSeeing her smile makes my breath catch in my throat.\nIt's like she's beaming.\nI think this is the first time I've seen Sakura smile like that.",
+      "sourceUnit": "セイバールート一日目-14:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, I'm going to walk you home. I don't care if Shinji sees us. He shouldn't have anything to complain about since I'm just walking his sister home.\"",
+      "sourceUnit": "セイバールート一日目-14:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. It might be better that way rather than hiding it. Okay, I accept your offer, Senpai.\"\n\"Got it. I should act like your elder once in a while, you know.\"\nI pound my chest to demonstrate my determination.\nSakura nods with a smile when she sees my conviction.",
+      "sourceUnit": "セイバールート一日目-14:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "We walk downhill and reach the intersection.\nThere's no one else around, and the familiar residential area feels oddly desolate.",
+      "sourceUnit": "セイバールート一日目-14:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's only a little before ten o'clock, but the entire town is sleeping.\n...The silence feels unnatural.\nIt may have to do with all the recent incidents, but it's hard to believe the town could lose so much spirit just because it's dark out.",
+      "sourceUnit": "セイバールート一日目-14:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? Um, my home is this way.\"\n\"Eh? Oh, sorry. I got distracted. Your house is at the very top of that path.\"\n\"No, the house at the very top is Miss Tohsaka's home. The Matou home may be high up, but not that high.\"",
+      "sourceUnit": "セイバールート一日目-14:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"It isn't? Hey wait, is Tohsaka...THE Tohsaka?\"\n\"That's right. Miss Rin Tohsaka, the second year. Do you not get along with her?\"\nSakura speaks as if she read my mind.\nUgh. Was I really so obvious?",
+      "sourceUnit": "セイバールート一日目-14:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it's not that I don't get along with her... I don't really talk to her in the first place. I just don't really know her. She's just a popular honor student. She stands out, so I only know as much about her as anyone else.\"\n\"...\"",
+      "sourceUnit": "セイバールート一日目-14:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"What about you? You two both live in Western houses in the same neighborhood, so do you ever talk?\"\n\"We do not. We may live close to each other, but Miss Tohsaka's home is higher up on the hill.\nBut how did you know Miss Tohsaka's home is a Western house?\"\nSakura asks, in a slightly muffled tone.",
+      "sourceUnit": "セイバールート一日目-14:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I heard a rumor about Tohsaka's house being a haunted mansion or something. And you would think a haunted mansion would be more of a Western house.\"",
+      "sourceUnit": "セイバールート一日目-14:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. I believe Miss Tohsaka likes to keep to herself, and when I was little, I was told that there was a scary magician living on top of the hill.\"",
+      "sourceUnit": "セイバールート一日目-14:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"A scary magician, huh? I think I heard that rumor too. Though, all the Western houses on that side of town seem like there would be magicians living in them. So did you believe those rumors, Sakura?\"",
+      "sourceUnit": "セイバールート一日目-14:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"I did. I was a child, after all. That's why I always avoided going all the way up the hill.\"\nSakura's response is entirely serious.\nI was only asking half-jokingly, but her response seems to have been in earnest.",
+      "sourceUnit": "セイバールート一日目-14:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "We walk up the hill.\nThe residential area here may be on the opposite side of town from where I live, but its layout is similar.",
+      "sourceUnit": "セイバールート一日目-14:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "The higher you go up the hill, the fewer buildings there are, and the denser the thickets of trees grow.\nMost of the town is at the bottom of the hill, so it's only natural to have less and less homes as you go uphill.\nAnd one of the few buildings near the top of the hill is Sakura's house, the Matou residence.",
+      "sourceUnit": "セイバールート一日目-14:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nSakura suddenly stops.\n\"Hm? What's wrong? Did you forget something?\"\n\"No, I didn't forget anything...but do you see someone near my home?\"\nSakura peers ahead, looking concerned.",
+      "sourceUnit": "セイバールート一日目-14:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI look around, but there's nobody except the two of us.",
+      "sourceUnit": "セイバールート一日目-14:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't see anyone. Do you?\"\n\"It's nothing. If you don't see anyone, it's fine. It's just that lately I've been seeing someone I don't recognize around my home, so I thought they might be here today too.\"",
+      "sourceUnit": "セイバールート一日目-14:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"What? That sounds dangerous.\nWhat do they look like?\"\n\"Um...blond, good looking. They look like they could be a model. I'm sure you would be surprised if you saw them.\"\nSakura blushes as she describes them, almost as if she is embarrassed.",
+      "sourceUnit": "セイバールート一日目-14:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSakura...\nI wonder if this is something I should be concerned about.",
+      "sourceUnit": "セイバールート一日目-14:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"So it's not someone suspicious.\"\n\"I'm not sure. But nobody's moved here recently, so I thought it was a bit strange...\"",
+      "sourceUnit": "セイバールート一日目-14:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Well, I guess it is a bit fishy. Okay, if they wander around your house again, tell me or Shinji about it. We'll catch them and get whatever it is they're up to out of them.\"",
+      "sourceUnit": "セイバールート一日目-14:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. That's reassuring. But please don't do anything rash. I would hate for you to end up in a fight.\"\nSakura smiles as she says that.",
+      "sourceUnit": "セイバールート一日目-14:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...i-it'll be okay. We'll start with a peaceful discussion, so there'll be nothing for you to worry about.\"\nI avert my gaze from Sakura's smile, realizing what I'm saying sounds pretty lame.",
+      "sourceUnit": "セイバールート一日目-14:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis is bad.\nI've been finding myself captivated by everything Sakura does lately.\nI thought nothing of it a while back, but now even I think there's something wrong with me lately.",
+      "sourceUnit": "セイバールート一日目-14:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's that Sakura's matured, or maybe it's just that I've gotten more aware of her.\nI really do think she's become very beautiful.\nAnd that's good, but I don't think it's a good look if I keep just awkwardly looking away from her all the time.",
+      "sourceUnit": "セイバールート一日目-14:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Good night, Senpai. Thank you for walking me home.\"\n\"Y-you bet. And you really don't need to thank me. You cook dinner for me, so I should be the one thanking you.\"\nSakura smiles, looking pleased.",
+      "sourceUnit": "セイバールート一日目-14:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, simple as this has been, I'm going to make a habit of doing it every day from now on.\"\n\"Please do. I would really enjoy you walking me home, even if just once in a while...when you feel like it. I'm sure it'll make my brother mad, but the bottom line is that I prefer to be with you.\"",
+      "sourceUnit": "セイバールート一日目-14:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"See you tomorrow, Senpai! Thanks again for today!\"\nSakura shouts those final words at me, full of energy, and disappears inside the Matou manor.",
+      "sourceUnit": "セイバールート一日目-14:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay then.\"\nGuess I should get home too.\nI left Fuji-nee at the house, and that's frankly worrying.\n\"...Huh?\"\nDid I hear something?",
+      "sourceUnit": "セイバールート一日目-14:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "I hear it.\nThe sound of a swing creaking.\nIt takes me a while to realize the sound is actually a bug chirping.",
+      "sourceUnit": "セイバールート一日目-14:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder what kind of bug that is. It's really not the season for that sort of thing right now.\"\nI imagine a longhorn beetle hiding in the dark, under the crisp winter sky.",
+      "sourceUnit": "セイバールート一日目-14:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Huh.\n\"I see three lights on.\"\nThe light that just turned on is Sakura's room.\nThe light in the first floor is Shinji's room. Which means...I wonder whose room is the third one?\"",
+      "sourceUnit": "セイバールート一日目-14:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"I thought Shinji and Sakura were the only ones living in that house.\"\nMaybe they have a guest. Or maybe Shinji's in that other room.\nEither way, I've been in the Matou mansion numerous times, but it's the first time I've ever seen the lights on in that room.",
+      "sourceUnit": "セイバールート一日目-14:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"......\"\nWell, it's a big house.\nIt's not really all that strange for the lights to be on in any particular room.\nIt shouldn't be strange, yet...\n\"I don't know why, but I have a bad feeling all of a sudden.\"\nIt's like...a premonition, or some kind of negative presence.",
+      "sourceUnit": "セイバールート一日目-14:page49:1"
+    },
+    "page50": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page51": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

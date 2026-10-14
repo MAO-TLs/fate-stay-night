@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0557",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "There's no time to think.\nMy legs move, and my arms still work.\nI just need to move up and pull Tohsaka back...",
+      "sourceUnit": "桜ルート九日目-20:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka!\"\n\"Huh?\"\nTohsaka doesn't even twitch when I grab her arm.\nShe's heavier than she looks.",
+      "sourceUnit": "桜ルート九日目-20:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh. Damn, you're heavy!\"\nI can't budge her even with two hands.\nSo all I can do...\n\"Come on, just get back!\"\n...is shoulder tackle her out of the way!",
+      "sourceUnit": "桜ルート九日目-20:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ow.\"\nI hear a dull impact.",
+      "sourceUnit": "桜ルート九日目-20:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"You—what the heck you are you doing!?\"\n\"Toh...\"\nI can't hear Tohsaka's voice.",
+      "sourceUnit": "桜ルート九日目-20:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...My body is hot.\nMy vision gets all soft and twisty, like I've caught a serious fever.\n\"Senpai?\"\n...I think I hear a familiar voice, far away.\nI'm losing my grip on reality.\nIn my white, hazy mind, the blood coming from my left arm mixes like paint on a canvas.\n\"No...\"\nWith her hands clenched at her chest, Sakura stares in shock at me on the ground.\n\"NOOOOOOOOOOO!!!\"\nI see her fall like a puppet with its strings cut.\n\"How are you feeling? Have you calmed down?\"\n\"...\"\nSitting on one of the church pews, I nod wordlessly.",
+      "sourceUnit": "桜ルート九日目-20:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Then you don't need healing. You'll recover along with your physical stamina, so try to rest for now.\"",
+      "sourceUnit": "桜ルート九日目-20:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka takes a seat a slight distance from me.\n...But our emotional distance is many times wider.\nWe're just waiting in the chapel for Kotomine, not making small talk.",
+      "sourceUnit": "桜ルート九日目-20:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh.\"\nWhen I try to clench my left hand, it twitches numbly.\nThe pain feels like a nail was driven through my palm.\nMy left hand hurt more from gripping the knife than the dull pain of Rider's beating or Sakura stabbing me through the left arm.",
+      "sourceUnit": "桜ルート九日目-20:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Dark clouds obscure the night sky.\nThey seem like rain clouds announcing an imminent shower.",
+      "sourceUnit": "桜ルート九日目-20:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...The spear-like thing that attacked Tohsaka was apparently Sakura's magecraft.",
+      "sourceUnit": "桜ルート九日目-20:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The Matous pass down Absorption magecraft through their family.\nSakura unconsciously unleashed her magecraft because she was suffering from magical energy deficiency.\nShe targeted Tohsaka because she had the most magical energy there.\nWhen I pushed Tohsaka out of the way and that thing touched me, it caught my left arm and drained me dry of my power.",
+      "sourceUnit": "桜ルート九日目-20:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Magical energy is life energy.\nIt stands to reason that one would collapse if it was taken away.\nAlready exhausted from fighting Rider, I fainted right away, and then Tohsaka brought us to the chruch.\n...She says that Sakura lost consciousness at the same time I did.",
+      "sourceUnit": "桜ルート九日目-20:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

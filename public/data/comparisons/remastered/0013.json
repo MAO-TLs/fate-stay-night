@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0013",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I suppose...\nI should take a little break before my evening training.",
+      "sourceUnit": "セイバールート一日目-12:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

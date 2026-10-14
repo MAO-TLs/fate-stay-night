@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0235",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "How should I spend those remaining hours?\nI thought a lot about it, but wound up here in the end.",
+      "sourceUnit": "セイバールート十五日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"This place...always remains the same. I enjoy the peace of the living room, but I am more comfortable here.\"",
+      "sourceUnit": "セイバールート十五日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. For a Western knight, you look so natural with a bamboo sword. Plus, you like sitting seiza. We should've put on some kendo gear and had a match while we had the chance.\"",
+      "sourceUnit": "セイバールート十五日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Wear protective gear? Why did you not say so earlier? I would have worn my armor while you put on protective gear for a mock match.\n...Yes, we really should have done that.\nIf only you had mentioned it earlier, I could have gone all out in a match with you, Shirou.\"",
+      "sourceUnit": "セイバールート十五日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Ack...\"\nSaber's so cute when she pouts like that.\nCute as she is, her actual words are pretty terrifying.",
+      "sourceUnit": "セイバールート十五日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"You're not really serious about going all out, are you? If you fought me without holding back, I'd wind up bedridden for a week.\"",
+      "sourceUnit": "セイバールート十五日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is not true.\nYou underestimate yourself. You really have grown as a swordsman these past few days. At this point, you may even be able to land a hit on me.\"\n\"Eh? Really?\"",
+      "sourceUnit": "セイバールート十五日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Even if she's only flattering me, I'm delighted.\nHow could I not respect Saber when it comes to swordsmanship?\nBeing able to land a hit on my mentor is like proof of my growing skill.",
+      "sourceUnit": "セイバールート十五日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"For real? So...you're saying that if the conditions and timing were right, I might actually be able to land a hit on you?\"\n\"That is correct. You have grown strong, Shirou. You should be proud of that. I am very pleased.\"",
+      "sourceUnit": "セイバールート十五日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can tell she's being honest as she smiles at me.\nWhen I see her face like that, my determination starts to waver.\nAfterwards...\nWe won't be able to come back. If only we could just run away instead of facing a battle we have such a slim chance of actually winning.",
+      "sourceUnit": "セイバールート十五日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Why have you gone quiet?\nAre your wounds still hurting you? If so, you must rest in your room...\"\n\"No, I'm fine. Nothing's hurting.\"",
+      "sourceUnit": "セイバールート十五日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I push my hesitation aside.\nI can't run away, and this isn't how I want to spend my final moments with Saber.",
+      "sourceUnit": "セイバールート十五日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Saber. Since we're here, want to have a quick spar? Not a serious bout, just a fun, lighthearted match.\"\nI bury my feelings and try to put on as strong a face as I can.",
+      "sourceUnit": "セイバールート十五日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well.\nThen I will fight in my own style, rather than kendo. Shirou, you can fight me in whatever style you want as well.\"",
+      "sourceUnit": "セイバールート十五日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "She must have understood what I had in mind.\nTrading blows with a sword rather than words suits us better.",
+      "sourceUnit": "セイバールート十五日目-05:page14:1"
+    },
+    "page15": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

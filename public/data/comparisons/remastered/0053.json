@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0053",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is right.\nSaber risked her life to draw Berserker away.\nI need to escape from here and wait for Saber to return.",
+      "sourceUnit": "凛ルート三日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Haah... Haah...\"\nI hurry across the bridge from Shinto and run home.\nI never once look back.\nWhether out of fear of a nonexistent pursuer or guilt over leaving Saber behind, I'm not sure.\nEither way, I run for my life, my eyes fixed on the road ahead of me.",
+      "sourceUnit": "凛ルート三日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\n...The living room is just as I left it.\nThe air has remained still since Lancer's attack and Tohsaka coming over.\nI go over to the repaired window.\nI find two small pieces of glass on the floor. Tohsaka must have missed them.",
+      "sourceUnit": "凛ルート三日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...There's no crack in the window... I wonder how she made up for the missing pieces.\"\nI mutter to myself.\n...For some reason, I don't feel like turning on the light.\nI hide in the darkness as if to conceal my weakness.",
+      "sourceUnit": "凛ルート三日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWhat I should be thinking about...\nWhat I should be saying... I'm running away from these things.\n...The person who was here in this room until a few hours ago.\nThe person who was beside me until a few minutes ago.\nI should be asking myself whether it was right to leave those two behind, but I can't seem to do anything but hide in this darkness.",
+      "sourceUnit": "凛ルート三日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The clock strikes 3 AM.\n...It's been 30 minutes since then.\nWhatever the outcome, the battle's probably over by now.",
+      "sourceUnit": "凛ルート三日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI should go back.\nI pull myself together and look up to turn on the light...\nSuddenly, a sharp pain sears the back of my left hand, then disappears.",
+      "sourceUnit": "凛ルート三日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...The Command Spell is getting lighter...?\"\nThe color has faded from the Command Spell.\nThe shape remains, but the bright red that proves I am Saber's Master has disappeared.\nI know, instinctively, what that means.\n\"No, Saber...!\"\nI follow my instincts and run out of the darkness where I've been hiding.",
+      "sourceUnit": "凛ルート三日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I run outside.\nI know I'm too late.\nEven so, I run as fast as I can back to where I left Saber...\nSomething I can't see lashes from ahead and impales my heart.",
+      "sourceUnit": "凛ルート三日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...I can't hear too well.\nThere's something in front of me. Something's protruding from my chest. I just...can't make out what.",
+      "sourceUnit": "凛ルート三日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nThe...something in front of me sneers and tells me I'm an idiot.\nIt's laughing at me and saying there's no reason for me to be alive after I lost my Servant.",
+      "sourceUnit": "凛ルート三日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nThat's right...\nShirou Emiya dies the moment that he loses Saber.\nWithout Saber, I have no means of protecting myself. I can't possibly survive.",
+      "sourceUnit": "凛ルート三日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "I'm all alone now. I hadn't realized it, but I am.\nAnd this is where that's brought me.\nThis would have happened the same whether I was at home, or wherever I might have tried to run.",
+      "sourceUnit": "凛ルート三日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hrrk...\"\nMy consciousness fades away...\nI don't know who it is, and I don't care whether that thing piercing my heart is a spear or an arrow.\nIt doesn't matter whether I die here and now or tomorrow.",
+      "sourceUnit": "凛ルート三日目-02:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

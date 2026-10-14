@@ -1,0 +1,271 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0075",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And...\nBreakfast begins as usual, like nothing happened.",
+      "sourceUnit": "セイバールート五日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Here you go Senpai. And would you like some too, Miss Tohsaka?\"\nSakura hands me my bowl of rice. She's acting like her usual self.\nI don't know what happened while I was gone, but the tension between the two seems to have dissipated.\nAt least...on the surface.",
+      "sourceUnit": "セイバールート五日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, okay. I'll take a bowl.\"\nTohsaka hesitates a little before accepting a rice bowl.\nSakura smiles as she puts bowls of miso soup, egg omelet, and other dishes on the table.\nTohsaka watches the table filling up, looking utterly flummoxed.",
+      "sourceUnit": "セイバールート五日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. I thought you didn't eat breakfast?\"\n\"If someone makes it for me, I'll eat it. It's only polite, you know.\"",
+      "sourceUnit": "セイバールート五日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Well as long as you're okay with it. Then, let's eat. And sorry I made you get everything ready, Sakura.\"\n\"Please don't worry about it. This is my job. I'll start eating too.\"",
+      "sourceUnit": "セイバールート五日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Lucky you, making your junior classmen prepare breakfast for you... Who died and made you king, to deserve that kind of treatment? Well, I'll grill you about that later. For now, let's eat.\"\nThe three of us bow politely and begin breakfast.",
+      "sourceUnit": "セイバールート五日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\n...\n...Damn. Nobody's talking.",
+      "sourceUnit": "セイバールート五日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI guess the mood isn't that tense. Our breakfasts are usually pretty light on conversation.\nSakura and I aren't really all that talkative, so it's no shock meals are so quiet.\nBut why does breakfast feel so chaotic every day?",
+      "sourceUnit": "セイバールート五日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm?\"\nWait a minute.\nI get another nagging feeling...",
+      "sourceUnit": "セイバールート五日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai? Um...was the fish too salty for you this morning?\"\n\"Uh, that's not it. But I just have this bad feeling, like I'm forgetting something...\"",
+      "sourceUnit": "セイバールート五日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "What could it be...?\nI try to convince myself that it's probably not important since I can't remember, but I feel like that's a terrible mistake.\nI'm gripped by this sense of dread, like I'm ignoring a fatal disease or something.",
+      "sourceUnit": "セイバールート五日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well. I bet it's not that big a deal.\"\nI try to just shove the thoughts from my mind as I go back to eating.\nJust then...\n\"Morning!!! Aw man, I overslept!\"\nFuji-nee comes bursting in.",
+      "sourceUnit": "セイバールート五日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI forgot.\nHow could I have forgotten this!?\nI guess I tried to just forget my problems rather than deal with them.",
+      "sourceUnit": "セイバールート五日目-04:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Here you go, Ms. Fujimura. It's not much, but please dig in.\"\nSakura hands her a rice bowl with her usual smile.",
+      "sourceUnit": "セイバールート五日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nFuji-nee takes the bowl and tilts her head in confusion.\nShe senses something's strange, but doesn't know what exactly it is.\nFuji-nee quietly chews her food.\nAnd after finishing a whole bowl of rice, she leans over to whisper in my ear...",
+      "sourceUnit": "セイバールート五日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Shirou... Why is Tohsaka here?\"\n\"She's going to stay here for a while starting today.\"\nI stick to the facts.",
+      "sourceUnit": "セイバールート五日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Tohsaka does some pretty weird stuff.\"\n\"Yeah. She's a strange one. The way she is at school, she's like a wolf in sheep's clothing.\"",
+      "sourceUnit": "セイバールート五日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? So she's gonna be spending the night here from today on?\"\nFuji-nee seems to accept this, and takes a big gulp of her miso soup.",
+      "sourceUnit": "セイバールート五日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"PFFFT! WHAT DO YOU MEAN, STAYING WITH YOU!!!???\"",
+      "sourceUnit": "セイバールート五日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "The table suddenly flips violently.\nLuckily, Sakura is sitting out of the path of the flying food, while Tohsaka had already moved away, apparently predicting what was about to happen. So...I'm the only one who ended up splattered.",
+      "sourceUnit": "セイバールート五日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Yow, that's hot!!! Wh-wh-wh-what the hell, Fuji-nee!? Don't you realize there's hot miso soup, piping hot rice, and scorching meatballs in a pot!? You'd burn me if you spilled those on me... Hey! Why are we having food from a hot pot for breakfast anyway!?\"",
+      "sourceUnit": "セイバールート五日目-04:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Shut your mouth! What are you thinking, Shirou!? What, are you hoping to be the protag of a romcom, letting a girl stay over at your house!? Arrrgh! Even I can't laugh at a joke this sick!\"",
+      "sourceUnit": "セイバールート五日目-04:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I wasn't trying to make you laugh! And...ow! This really stings! I'm actually getting burned here! Sakura, get me a towel!\"\n\"Here you go. I've got you a cold, wet towel, Senpai.\"\n\"Thanks. Whoa, I just found a chicken meatball in my shirt...and it's freakin' hot!!!\"",
+      "sourceUnit": "セイバールート五日目-04:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Forget the towel! You need to explain yourself, Shirou! This isn't some sick joke, is it!?\"\n\"Of course not. You know I don't like to kid around about these things, right!?\nAnyway, Tohsaka's staying here. Complain all you want, but it's already been decided, so there's not much point!\"",
+      "sourceUnit": "セイバールート五日目-04:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"OBJECTION! I-I-I don't know what your intention is, but I can't allow it! Big sister will not allow you to l-l-live with a girl under your roof!\"\nFuji-nee roars.",
+      "sourceUnit": "セイバールート五日目-04:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Well...that went about how I expected.\nFuji-nee's my guardian, and she's also a school teacher.\nI don't think I'm getting out of this situation with a hundred whacks from a wooden sword, or even a hundred cuts from a real one.\nBut unfortunately, I have to find a way to live with this.",
+      "sourceUnit": "セイバールート五日目-04:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Can you just let this go? I'm not doing anything wrong, and Tohsaka and I aren't in that kind of relationship. It's just...we kind of ended up in this situation by accident, and I'm letting her use one of the rooms here for now.\"",
+      "sourceUnit": "セイバールート五日目-04:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"SHUT UP!!! I WILL NOT ALLOW IT!!!\nI won't allow her to stay! I don't know what's going on with Tohsaka, but send her home, stat!\"\nUgh. She's not even willing to listen.\nThis is bad. I guess she's not as easy to convince as I thought!",
+      "sourceUnit": "セイバールート五日目-04:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura. You say you do not approve of me staying here, but I already stayed over last night.\nTohsaka is so casual about how she puts it.\nHer words seem to be like cold water dumped over Fuji-nee's head.",
+      "sourceUnit": "セイバールート五日目-04:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Come again?\"\n\"Like I said, Emiya let me stay over last night.\nWell actually, I've been here since Saturday evening, so I've technically stayed over two nights already. Right now I am staying in one of the guest rooms in the outbuilding, and my luggage is already there.\nWhat do you think, Ms. Fujimura? I'm already staying here at this point.\"",
+      "sourceUnit": "セイバールート五日目-04:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe color drains from Fuji-nee's face.",
+      "sourceUnit": "セイバールート五日目-04:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Sh-Sh-Shirou! How dare you!? Did you not even consider how Kiritsugu would have reacted if he was around!?\"\n\"What he would have thought? My old man would've definitely been happy about it. Something about a man's worth or whatever.\"",
+      "sourceUnit": "セイバールート五日目-04:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...I can't even argue that. Kiritsugu was definitely a ladies' man. I get it... So he passed his bad habits down to you. Shirou, you goddamn idiot!!!\"\nFuji-nee grabs my collar and shakes me.\nWell, my old man did always teach me to protect girls.\nI'm not as chivalrous as my old man was, but I still agree.",
+      "sourceUnit": "セイバールート五日目-04:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "Even so...\n\"What? You want me to help you out?\"\nGuys have it pretty tough though. Because of my chivalrous upbringing, I do have to keep in mind that, coldhearted as she is, Rin is still a girl.",
+      "sourceUnit": "セイバールート五日目-04:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I beg of you...I can't get out of this myself. I need your silver tongue here.\"\nI nod in Tohsaka's direction while Fuji-nee shakes me.\n\"Okay. I'll make this quick.\"",
+      "sourceUnit": "セイバールート五日目-04:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Ms. Fujimura, the only thing you'll get from shaking Emiya is a weak squeak, so please stop. If you keep it up, you might even shake the breakfast out of him.\"\n\"Hmph. If you think that look on your face is going to scare me, you've got another thing coming, Tohsaka. I'm an educator, and Shirou's instructor, so I will never approve of you staying over at this house.\"",
+      "sourceUnit": "セイバールート五日目-04:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee takes her hands off of me and turns toward Tohsaka.\nIt must be her feral instincts kicking in.\nShe must have thought Tohsaka would pounce on her if she kept her full attention on me.",
+      "sourceUnit": "セイバールート五日目-04:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Why? There are plenty of students in our school who live in boarding houses. Isn't developing and nurturing students' independence part of our school's mission?\"",
+      "sourceUnit": "セイバールート五日目-04:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't try to lean on fancy words to intimidate me. Besides, using this place like a boarding house isn't going to nurture your independence.\nThis place is practically a dream house, with food always magically being served to you, practically sparkling clean, and the bath always full of warm water. Staying here will just spoil you.\"\n\"...Fuji-nee.\"\nThat hardly seems appropriate coming from a teacher...",
+      "sourceUnit": "セイバールート五日目-04:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, students who live far away are the only ones who typically live in boarding houses. Your house, while it's further than here, is still close enough to commute. Even Sakura commutes from your side of the neighborhood, so there's no need for you to stay here, boarding house or not.\"",
+      "sourceUnit": "セイバールート五日目-04:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Well you see, my house is currently undergoing a major renovation.\nIt's an old building, so a lot of places are practically falling apart. I was thinking of staying in a hotel until the renovations were finished, but I ran into Emiya and told him about my situation. He mentioned that it would be a waste of money, and offered to let me stay here.\"",
+      "sourceUnit": "セイバールート五日目-04:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm, that does sound like something Shirou would say.\"\n\"Yes. I was surprised by his offer since I hardly know him, but living in a hotel really would be a waste of money, and that would be especially unstudentlike of me. So, I thought it would be more beneficial and educational for me to stay at Emiya's house instead.\"",
+      "sourceUnit": "セイバールート五日目-04:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm...hmmmmmmmmmmmmmmm.\"\nFuji-nee groans.\nTohsaka's answer and mannerisms are textbook; there's no room for Fuji-nee, teacher that she is, to object.",
+      "sourceUnit": "セイバールート五日目-04:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I understand now. But there is still one issue. You and Shirou are the opposite sex, and I still don't love the idea of the two of you staying under the same roof.\"\n\"And what are you concerned about, Ms. Fujimura?\"",
+      "sourceUnit": "セイバールート五日目-04:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"W-well...you know, you're pretty, and Shirou is a guy...so I wouldn't want anything inappropriate to happen...\"\n\"That should not be an issue. My room is at the far end of the outbuilding, while Emiya's room is the Japanese-style room near the shed. Our rooms are about twenty meters away, and that distance shouldn't really create any issues.\"",
+      "sourceUnit": "セイバールート五日目-04:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...ummm...well, the outbuilding does lock from the inside, and it's like a separate house...\"",
+      "sourceUnit": "セイバールート五日目-04:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"You see? Or do you not trust Emiya? You mentioned that you're Shirou's instructor, that would mean you know him better than I do. If you say he is the type of character who might do something like that, I may need to reconsider staying here...\"",
+      "sourceUnit": "セイバールート五日目-04:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be silly! Shirou is an upright gentleman! He would never make a girl cry!\"\n\"Then there's nothing to worry about. I believe I can stay here without needing to worry because I trust Emiya too.\"\n\"Hnnnnnngh...\"",
+      "sourceUnit": "セイバールート五日目-04:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee starts losing steam.\nCheck and mate, Tohsaka.\nThere are a few things Fuji-nee could have responded to, but I'm sure Tohsaka would've had no trouble talking her way out of them.\nAnyway, it looks like Tohsaka has officially gained citizenship in this house.",
+      "sourceUnit": "セイバールート五日目-04:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...And then breakfast ends.\nAs expected, Fuji-nee gave up after Tohsaka talked her down.\nIn the end, we agreed to keep our living arrangements a secret at school, while Fuji-nee would supervise us at home.\nWith that decided, Fuji-nee got really excited knowing that there were going to be more people in the house, and she left for school in a good mood.",
+      "sourceUnit": "セイバールート五日目-04:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "After breakfast ended, I called out to Saber before I leave for school.\nSaber, calm as always, says,\n\"Follow Rin's directions at school.\nAnd please seek me out if you are ever in danger. That is how I will know my Master is in a dire situation.\"\nShe returns to her room.",
+      "sourceUnit": "セイバールート五日目-04:page51:1"
+    },
+    "page52": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

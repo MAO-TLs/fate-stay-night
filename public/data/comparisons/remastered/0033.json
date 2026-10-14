@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0033",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Soon after Fuji-nee leaves, I lock up and Sakura and I leave as well.",
+      "sourceUnit": "セイバールート三日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Sakura? What's wrong? You don't look good. Are you still feeling sick?\"",
+      "sourceUnit": "セイバールート三日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Oh, no. I'm feeling better. What about you? You didn't look well this morning, and the injury you had from yesterday might have gotten worse.\"\nYesterday's injury?\nOh, the bruise on my left hand.",
+      "sourceUnit": "セイバールート三日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, the bruise hasn't changed much. My hand just swelled up, so it should get better soon.\"\n\"...\"\nSakura continues to stare at me, looking concerned.",
+      "sourceUnit": "セイバールート三日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, I'm fine. Really. It's nothing.\"\n\"...\"\n\"What's going on? You've been acting weird since yesterday, Sakura. This is just a bruise. Or what... Is this your way of admitting it happened because you came in the middle of the night and stomped on my hand while I was sleeping?\"",
+      "sourceUnit": "セイバールート三日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"S-Senpai! I'm not that heavy! I was just...well...\"\n\"Just, what?\"\n\"...I just hope it's just my mistake...\"",
+      "sourceUnit": "セイバールート三日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI don't get what Sakura's saying.\nSakura may be quiet, but she generally speaks her mind.\nIt's not like her to beat around the bush so much.",
+      "sourceUnit": "セイバールート三日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai. I would like to ask you a favor.\"\n\"Sure, as long as it's within something I can do. What's up?\"\n\"Well, I can't come help you tonight and tomorrow. So...at least for then, will you try to stay in your home as much as possible?\"",
+      "sourceUnit": "セイバールート三日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Are you saying I need to skip work on Sunday, too?\"\n\"Yes. I would like you to stay in your house as much as you can. Um, I'll come back and help once I'm done with my errand.\"",
+      "sourceUnit": "セイバールート三日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. Well, I guess skipping one day of work wouldn't hurt.\nOkay. I'll just hang around the house all day over the weekend. Is that what you want, Sakura?\"\n\"Yes. That would be a really big help.\"",
+      "sourceUnit": "セイバールート三日目-10:page9:1"
+    },
+    "page10": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート三日目-10:page10:1"
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

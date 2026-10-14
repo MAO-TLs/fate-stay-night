@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0450",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I go up the stairs.\nI managed to get Saber to stay home while I went to school, though my head is a little foggy.",
+      "sourceUnit": "桜ルート五日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh? Emiya!?\"\n\"Oh...\"\nThere she is.\nLuckily, the one person I can ask about anything suddenly strolls right up to me.",
+      "sourceUnit": "桜ルート五日目-00:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

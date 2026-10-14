@@ -1,0 +1,311 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0375",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...\"\n...My wound hurts.\nThe sweat that formed on my forehead drips down into my eyes, and my vision becomes cloudy.",
+      "sourceUnit": "凛ルート十二日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Guh.\"\nEven just walking hurts my wound too?\nMy shoulder hurts every time I take a step, and my strides are getting shorter before I realize it.",
+      "sourceUnit": "凛ルート十二日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Emiya?\"\nShe looks back at me, as I am falling behind.\n...Then...\nTohsaka suddenly looks at me with a straight face.",
+      "sourceUnit": "凛ルート十二日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's rest a bit. It should be hard for you to even walk, Shirou.\"\n\"Huh...? No, I'm fine. I can bear this much. But more importantly, we should get home as soon as we can.\"",
+      "sourceUnit": "凛ルート十二日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Either my place or her place.\nIt doesn't matter which one, but for now, I should get Tohsaka back to her home ground as soon as possible.",
+      "sourceUnit": "凛ルート十二日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about my wound. It's not like it has poison in it.\"\nI ignore Tohsaka's stare and start walking.\n\"Ungh...\"\n...Ugh. How pitiful. My knee's about to snap just as I say that.",
+      "sourceUnit": "凛ルート十二日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"See! Ugh, you push yourself too much. It's suicidal to fight Kuzuki with that wound of yours. Take a rest. They won't come after us.\"",
+      "sourceUnit": "凛ルート十二日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'd think so. But, we should get back as fast as we can. It's not that painful.\"\n\"Hey now...! Don't say that it's not painful when you're bleeding that much! I don't know why you want to go home so much, but you should rest first!\"",
+      "sourceUnit": "凛ルート十二日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "She yells at me.\n...Yeah, she's not quite back to her normal self yet.\nShe's lacking her usual calmness.\nShe's an emotional person to start with, so I'm sure her anger will be unstoppable if her brakes give way.",
+      "sourceUnit": "凛ルート十二日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you listening!? You're not Kirei, so it's a nuisance to have you leaving a trail of blood!\nFirst of all, how did it even end up like this!? I did tell you to go to the church, but couldn't you tell that it was dangerous right away!?\"",
+      "sourceUnit": "凛ルート十二日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, don't make fun of me. I could understand that at least. I could tell that it was a helpless situation since I first saw the church.\"",
+      "sourceUnit": "凛ルート十二日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh! Then go home right away, idiot! Not only that, you burst in with that unhealed wound of yours, and on top of that, Projection!? Of course your wound would get worse! And you're saying it's not painful? Ugh, what's wrong with you!? Why do you push yourself that much...!!!???\"",
+      "sourceUnit": "凛ルート十二日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka goes off intensely.\n...No, but...\nIt really isn't that painful; besides...",
+      "sourceUnit": "凛ルート十二日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's more painful for you, right?\"\n\"...\"\n\"So let's go home. You can complain once we get home.\"",
+      "sourceUnit": "凛ルート十二日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah, that's why I wanted to get home as soon as possible.\nThere's no need to act that strong.\nTohsaka can complain without constraint once she's back in her room at home.",
+      "sourceUnit": "凛ルート十二日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\n\"Ungh!\"\nShe wipes her face as if she messed up and turns away.",
+      "sourceUnit": "凛ルート十二日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Huh... Um.\"\nI-I can't think of what to say.\nThat was...",
+      "sourceUnit": "凛ルート十二日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...I can't believe it. A guy... made me cry.\"\nShe murmurs while looking down.\nThen...",
+      "sourceUnit": "凛ルート十二日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...! T-Tohsaka, your hand...! You're holding my hand...!\"\n\"...Shut up. Take responsibility, idiot.\"\n\"Huh... Hey, m-my wound hurts...! Don't pull on my left hand...!\"",
+      "sourceUnit": "凛ルート十二日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "This place was a foreigners' cemetery from sometime ago.\nOnce Tohsaka walks down to the grassy area, she finally lets go of my hand.",
+      "sourceUnit": "凛ルート十二日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Tohsaka.\nNow's not the time to be taking a detour—\"\n\"Sit down. Just sit.\"\n\"...\"\nHer intensity doesn't let me object, so I sit down for now.",
+      "sourceUnit": "凛ルート十二日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Turn your back to me, and don't turn around no matter what. I'm gonna get pissed off if you look at my face.\"\nI hear a sound behind me.",
+      "sourceUnit": "凛ルート十二日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nWe sit down back to back on the grass.\n...I can't grasp what meaning there is to this.\nTohsaka is silent now, and she told me not to turn around.\nThere's nothing to do, so I look up at the night sky for now.",
+      "sourceUnit": "凛ルート十二日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nI gasp at how vast it is.\nIs it because we were underground for a long time, or is it just because the starry sky is clear tonight?\nEither way, the winter night sky is so beautiful that it makes me forget my pain.\nI don't mind Tohsaka's body heat that I feel through my back either.\nI gaze blankly at the dark sky, forgetting everything for now.",
+      "sourceUnit": "凛ルート十二日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "How long have we been sitting like this?\nThe person next to me talks to me in a calm voice.",
+      "sourceUnit": "凛ルート十二日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm just talking to myself.\"\n...I see. I can't reply if she's just talking to herself. I'll keep watching the stars in silence.",
+      "sourceUnit": "凛ルート十二日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"I might've made a bit of a mistake.\nI should've done what Archer said and defeated Caster in the beginning without caring how I did it.\nI was trying to find an opening since I was worried about making small sacrifices, but in the end, I might be sacrificing the whole town the way things are now, right?\"",
+      "sourceUnit": "凛ルート十二日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "She keeps talking.\nThis must be her whining.\nShe's not confessing because of what I said earlier.\nIn short, Tohsaka didn't want to reflect on her actions by herself, but wanted someone else to do it.",
+      "sourceUnit": "凛ルート十二日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't mean to complain. I always screw up when it counts most. I can handle the second or third most important thing with ease, but I have problems with the most important thing.\"",
+      "sourceUnit": "凛ルート十二日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "The winter sky is clear.\nBut, on the other hand, the temperature is freezing cold.\nI don't care about myself, but isn't Tohsaka cold without a jacket?\n...I'm a little worried about that.",
+      "sourceUnit": "凛ルート十二日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not only Archer's responsibility that he went over to that side either. In the end, I'm the one who let Caster be.\nBut, yeah... Man, I said that earlier, but I got cornered all of a sudden.\"",
+      "sourceUnit": "凛ルート十二日目-13:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She sighs deeply.\nI can't see it, but her breath must be white.",
+      "sourceUnit": "凛ルート十二日目-13:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey. I think you're supposed to ask why here.\"\n\"Oh. So what were you cornered by, Tohsaka?\"",
+      "sourceUnit": "凛ルート十二日目-13:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I'm saying I don't want to regret anything.\nHe said I'm not the type to regret my actions, but it seems like it's a crucial moment right now. Since you said such a thing, I feel depressed that I made a mistake even more.\"",
+      "sourceUnit": "凛ルート十二日目-13:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nI don't really get what she's talking about, but what Archer said is correct.\nTohsaka is not the type to regret anything.",
+      "sourceUnit": "凛ルート十二日目-13:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That's only now. It's irritating, but I agree with Archer's opinion. There's nothing for you to regret.\"\n\"Why? Caster is doing what she wants, and even Archer became fed up with me. This is because I didn't go about this the right way, right?\"",
+      "sourceUnit": "凛ルート十二日目-13:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"You weren't wrong, just unsuccessful. As long as you're not in the wrong, it's OK to be proud, even if things don't go your way.\"",
+      "sourceUnit": "凛ルート十二日目-13:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "In the process...\nIf you walk down the path that you believe is right, you cannot be wrong.\n...Most people would realize that the path they chose itself was wrong, but she's different.\nAny path that she chooses should be something she is proud of.",
+      "sourceUnit": "凛ルート十二日目-13:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. To be honest, you've always shined.\n...I won't regret anything either. I believe what I've been doing is correct. But, it's full of patches.\"\nI won't regret anything.\nI want to make the tragedies that happened into meaningful things by believing that the path I took is correct.\n\"But you're different, right?\nWhenever you regret something, I bet you're the type to deliver twice as much payback. I conceal my regrets with patches, but you go and destroy yours to pieces with a straight face.\nYou come out on top. I bet you only get depressed once in a while, but what comes after is scary in your case. I think you would make whoever made you depressed several times more depressed.\"\n\"...Oof. What is that, are you trying to finish me off?\"\n\"Yeah. I figured I'd say it while you're down.\nBut well, isn't it true? You don't intend to give up now, right?\"",
+      "sourceUnit": "凛ルート十二日目-13:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "I also say as if I'm talking to myself, while looking up at the sky.\nTohsaka doesn't answer.\nBut, somehow...\nI feel like she smiled, as though she pulled herself together.",
+      "sourceUnit": "凛ルート十二日目-13:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd silence follows.\nTohsaka must've said everything she wanted to say, as she goes silent again.",
+      "sourceUnit": "凛ルート十二日目-13:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "I aimlessly look up at the night sky.\n...We should be going home, but neither of us can stand up, so we just keep our backs together.",
+      "sourceUnit": "凛ルート十二日目-13:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh yeah. Why did you come help me, Shirou?\"\n...\nI can't explain.\nThere are many reasons.\nI feel like it's silly to explain each one.\nThat's how I feel, so I decide to tell her what I need to tell her most.",
+      "sourceUnit": "凛ルート十二日目-13:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"This pendant is familiar to you, right?\"\nI show her the pendant.",
+      "sourceUnit": "凛ルート十二日目-13:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\n...That's what I thought. I bet she tried to hide it, but she made a mistake again.",
+      "sourceUnit": "凛ルート十二日目-13:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey... Why do you have that?\"\n\"I found it in your room. Oh... You might be surprised when you get home, sorry. I knocked down your dressing table.\"\nI return the pendant to Tohsaka from behind her.",
+      "sourceUnit": "凛ルート十二日目-13:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So, what about it?\"\n\"Well, I have the same pendant at home.\nI picked it up when I almost got killed by Lancer at school.\"",
+      "sourceUnit": "凛ルート十二日目-13:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "I innocuously hint about that night.\nThen...\n\"...You have the same thing...?\"\nTohsaka gasps, as if she saw something she shouldn't have seen.",
+      "sourceUnit": "凛ルート十二日目-13:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Did I say something strange?\"\n\"Oh... No, not really...More importantly, why would that be the reason you helped me? Who cares about that pendant?\"",
+      "sourceUnit": "凛ルート十二日目-13:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right... Yeah, that was just an afterthought.\nTo confess, I've admired Rin Tohsaka for a long time.\nAnd this is a problem, but I got to like you even more after talking to you. So I didn't want you to die, and I just jumped down without thinking before I realized it.\"",
+      "sourceUnit": "凛ルート十二日目-13:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Hnng... H-Hey you, don't say it so directly! Y-You'll give me the wrong idea if you talk without thinking!\"",
+      "sourceUnit": "凛ルート十二日目-13:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh. Why would I? I really like you.\"\nI become obstinate and immediately reply.\nIt's not a lie, so there's no misunderstanding to be had.",
+      "sourceUnit": "凛ルート十二日目-13:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I-Idiot...! That's why you jumped in suicidally, you big idiot!\"",
+      "sourceUnit": "凛ルート十二日目-13:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka repeatedly calls me an idiot.\nShe's criticizing me mercilessly, but it doesn't make me feel bad at all.\nThe night sky is beautiful, and I feel calm.\nMost of all, I'm really happy that Tohsaka is back to her usual self.",
+      "sourceUnit": "凛ルート十二日目-13:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Let's go home like you said.\"",
+      "sourceUnit": "凛ルート十二日目-13:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Here, give me your hand. It should be hard to even stand with that wound of yours.\"\nI grab her hand with my right hand.\nTohsaka lets out an energetic sound and pulls me up.",
+      "sourceUnit": "凛ルート十二日目-13:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"So we don't owe each other anything anymore now. Let's not count today's incident.\"",
+      "sourceUnit": "凛ルート十二日目-13:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nYeah, that helps.\nI don't know what that pendant meant to Tohsaka.\nI bet I would feel more indebted to Tohsaka if I found out.\nTohsaka didn't want that and said the incidents offset each other.\nThat's why Tohsaka shouldn't feel indebted about being helped earlier either.",
+      "sourceUnit": "凛ルート十二日目-13:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "And we leave the foreigners' cemetery.\nOn the way back, quietly...\n\"...Thanks for saving me, Shirou. Um, it really did help me out.\"\nTohsaka adds with embarrassment.",
+      "sourceUnit": "凛ルート十二日目-13:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "We go down the hill.\nWhen we're about to go back to our home ground where we can be at ease...\nTohsaka heads for my place instead of hers, as if it's natural.",
+      "sourceUnit": "凛ルート十二日目-13:page59:1"
+    },
+    "page60": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

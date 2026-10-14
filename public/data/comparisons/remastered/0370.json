@@ -1,0 +1,341 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0370",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ungh.\"\nI hold my breath.\nI push my body against the wall and watch while keeping myself hidden.\n...It's still too early.\nIt's too reckless to attack when I don't yet have a grasp of what kind of situation it is.",
+      "sourceUnit": "凛ルート十二日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "More importantly, I don't have much at hand.\nThe only weapon I have is this Strengthened bamboo sword. It's too reckless to confront Caster with only this weapon and without a plan.\nNo, that's wrong.\nI do have another weapon.",
+      "sourceUnit": "凛ルート十二日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...No way. What am I thinking?\"\nI can't use Projection.\nHalf of my body got numb just by using it once.\nArcher said so too that it'll end up worse if I use it again.",
+      "sourceUnit": "凛ルート十二日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Magecraft beyond one's capabilities destroys the user first.\nIf I use Projection magecraft in this state, it's only natural that I'd die on the spot.\n\"...The chance will come. For now...\"\nI just have to suppress my body that wants to run out and prepare for that chance.",
+      "sourceUnit": "凛ルート十二日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So you killed Kirei?\"\nThere is only intent to kill in her tense voice.\nTohsaka is glaring at the enemy in front of her with a coldness I've never seen before.",
+      "sourceUnit": "凛ルート十二日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I got rid of him. He did not seem like the type of person that would amenably hand me the Holy Grail. It would be troublesome if he got in the way later on.\"\nOn the other hand, Caster is composed.\nThe witch declares loudly that she has killed him herself.",
+      "sourceUnit": "凛ルート十二日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nA gritting sound echoes through the sanctuary.\n...That man was more like the devil than a saint to me, but to Tohsaka, that priest was a fellow senior apprentice.\nAnd he was killed.\nEven if he was involved and prepared as a mage, it's not something she can take in so easily.",
+      "sourceUnit": "凛ルート十二日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. That's fine. Kirei should have been prepared for such a thing. But Caster, let me ask you one thing. Did you check his corpse?\"",
+      "sourceUnit": "凛ルート十二日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "I don't know if she was suppressing her anger, or if I was mistaken and she had held no anger from the start.\nTohsaka questions, as if it doesn't concern her, and Caster dodges her question, completely changing.",
+      "sourceUnit": "凛ルート十二日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...What are you saying? That has nothing to do with you.\"",
+      "sourceUnit": "凛ルート十二日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it doesn't. But it's not totally unrelated to me. I just wanted to make sure, since I'll be relieved if he really is dead.\"\n\"...What do you mean by that, young lady?\"",
+      "sourceUnit": "凛ルート十二日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Just as it sounds, Caster.\nAs if he's the type to die that easily. I just thought that he's definitely alive if you didn't clearly check the corpse.\"",
+      "sourceUnit": "凛ルート十二日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, you're useless too. If you're going to attack Kirei, you should at least make sure he's dead.\nWhatever. I have something to do now, so let's get this over with, Caster. There's no hostage this time, so we can fight freely.\"",
+      "sourceUnit": "凛ルート十二日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "A signal to start.\nTohsaka or Caster.\nIf either of them steps forward, the sanctuary will immediately be covered in flames of magecraft...",
+      "sourceUnit": "凛ルート十二日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You talk big. Do you think you can win against us in this situation?\"",
+      "sourceUnit": "凛ルート十二日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"It depends on how I do it. Fortunately, it seems like you haven't controlled Saber yet, so the conditions are the same.\nAnd I know about Mr. Kuzuki. Saber was taken by surprise, but he's no match for Archer now that we've watched him fight.\"\nTohsaka gestures towards Archer while staring at Caster.",
+      "sourceUnit": "凛ルート十二日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"You heard it, Archer.\nI'll take on Caster. She might break your contract too if you get too close to her.\"\n\"...Hm. So my opponent is that man?\nI don't mind, but... Do you understand that a mage is no match for Caster, Rin?\"",
+      "sourceUnit": "凛ルート十二日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't worry, I wouldn't suggest anything I didn't have a chance at winning.\nI'll defeat Caster here for sure. Then Saber can go back to normal, and Shirou can make a contract with her again, right?\"\nTohsaka gets ready to fight.\nI feel a sense of urgency like a wild animal about to attack its prey.",
+      "sourceUnit": "凛ルート十二日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "As if to stop that...\n\"That's wishful thinking. It'd be difficult to defeat her here.\nShe is the expert at running away. She even tore apart her own younger brother for the sake of escaping.\"\nArcher nonchalantly steps in between Tohsaka and Caster.",
+      "sourceUnit": "凛ルート十二日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer...? What are you doing?\"\n...\nHe does not answer Tohsaka.\nThe red knight confronts Caster silently, just like last time.",
+      "sourceUnit": "凛ルート十二日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "That scenery...\nI think... I remember seeing it somewhere...",
+      "sourceUnit": "凛ルート十二日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tore apart my own younger brother you said...?\nYou talk as if you know me, Archer. Do you know my true identity?\"",
+      "sourceUnit": "凛ルート十二日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I hear that humanoid spirits bound to dragon fangs were King Colchis' magecraft.\nI hear that his daughter, Princess Medea, was famed to be an extraordinary witch.\"\nThe air freezes.\nCaster's composure disappears and enmity like fire is directed at Archer.",
+      "sourceUnit": "凛ルート十二日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes.\nThen, you should know which one of us is at an advantage, right?\"\n...\nArcher does not answer.\nHis expression is stony, as if he is accepting everything that is happening. As if there is no good or evil.",
+      "sourceUnit": "凛ルート十二日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Resistance is pointless, Archer.\nYou cannot take Saber back no matter who you may be. She still has the will to go against me, but that should not last for another day.\nBesides... I can make her into my puppet now if I use my Command Spell.\"",
+      "sourceUnit": "凛ルート十二日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nI strain to keep myself from getting up.\n...Not yet.\nEven if that's true, I need to endure.\nIf I want to save Saber, I can't jump out now...",
+      "sourceUnit": "凛ルート十二日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. Saber will be able to withstand it even if you use a Command Spell. I don't know if it'll be a minute or two.\nBut, it should be enough time to beat you.\"",
+      "sourceUnit": "凛ルート十二日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Caster and Tohsaka glare at each other, using Archer as the fulcrum.\nStanding in between them...",
+      "sourceUnit": "凛ルート十二日目-06:page27:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"That's impossible. Even if we attack you, we can only take away half your powers at most.\nWhat awaits us is a disadvantageous situation where we would be fighting both you and Saber.\"\nYes, he defied his own Master's expectations.",
+      "sourceUnit": "凛ルート十二日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, that is—\"\n\"You should know, Rin. We have no chance at winning if that happens.\nSaber's abilities were limited because of her incomplete Master. Now that she does not have that limitation anymore, she is the strongest Servant. Only Berserker can match her.\"",
+      "sourceUnit": "凛ルート十二日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "He speaks in a matter-of-fact manner.\nTohsaka stares at Archer, stunned.\nEven Caster is puzzled by her sensible enemy.",
+      "sourceUnit": "凛ルート十二日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "But not me.\nI've experienced something similar like this before.",
+      "sourceUnit": "凛ルート十二日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Could he be...?\"\nA bad feeling occupies my thoughts.\nThat time at the temple...\nWhen he was confronting Caster and she told him to join her, how did he turn her down?",
+      "sourceUnit": "凛ルート十二日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't.\"\nI mutter without realizing.\nDon't do it.\nIt's not because the situation will get worse.\nYou're Tohsaka's partner.\nSo don't do it.\nIf that happens... I don't... know what kind of expression she'll make.",
+      "sourceUnit": "凛ルート十二日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Archer steps forward.\nHe is only empty-handed.\nHe steps forward without any enmity or intent to kill, and...",
+      "sourceUnit": "凛ルート十二日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't resent me, brat.\nThere's no other option at this point, right?\"",
+      "sourceUnit": "凛ルート十二日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "He looks and smiles at me as if he noticed that I was peeking.",
+      "sourceUnit": "凛ルート十二日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, Caster. Let me ask you one thing. Do you have room for one more Servant?\"\n\"Archer, you...!\"",
+      "sourceUnit": "凛ルート十二日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh... Hehe, haha, hahahahahahahaha!\"\nCaster laughs like it's the funniest thing she's heard, and Archer's back is like steel.\nAt that, Tohsaka...",
+      "sourceUnit": "凛ルート十二日目-06:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "Doesn't look away.\nIt should be fine for her to break down at a time like this, but she tries her best to act strong and clenches her teeth.",
+      "sourceUnit": "凛ルート十二日目-06:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, of course. I have the capacity for not only one, but to handle all Servants. You know where I am replenishing my magical energy from, right?\"",
+      "sourceUnit": "凛ルート十二日目-06:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "Magical energy that allows her to sustain seven Servants.\nThat is the life being pumped from the people of this town.",
+      "sourceUnit": "凛ルート十二日目-06:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Then this should be easy. I shall accept that offer you made before, Caster.\"\nHe holds out his hand to Caster in assent.",
+      "sourceUnit": "凛ルート十二日目-06:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...\nI thought I was going to break down.\nI can't forgive him.\nFor betraying Tohsaka.\nAnd for approving of Caster and joining her.",
+      "sourceUnit": "凛ルート十二日目-06:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "A hero...\nEven if the hero that saved many people and embodies my ideals is a man like that...",
+      "sourceUnit": "凛ルート十二日目-06:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Even though you turned it down that time? You act rather quickly.\"",
+      "sourceUnit": "凛ルート十二日目-06:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"The situation changed.\nIf Saber is on your side, you have a chance of winning this Holy Grail War. It is a natural course of action to go to the winning side, right?\"",
+      "sourceUnit": "凛ルート十二日目-06:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Archer walks to Caster, defenseless.\nThat means he's leaving Tohsaka.\nTohsaka doesn't stop him and stares at the enemy in front of her on full alert.",
+      "sourceUnit": "凛ルート十二日目-06:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\nI recognize her appearance.\nThe red classroom.\nShe tried to hide her shaking legs and continued to be Rin Tohsaka, even with the collapsed students in front of her.",
+      "sourceUnit": "凛ルート十二日目-06:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "...That is her strength and weakness.\nShe always tries to act brave in any situation, so those around her get the wrong idea that she's a strong person.",
+      "sourceUnit": "凛ルート十二日目-06:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Now, use your contract breaker. Rin still has her Command Spell. She will attack you if you don't hurry.\"",
+      "sourceUnit": "凛ルート十二日目-06:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "His banter doesn't change.\nHe betrayed Tohsaka in front of her, yet he's still acting like before.\nShe must've felt wariness towards the opponent.\nCaster takes out that oddly shaped dagger, but does not try to stab Archer with it.",
+      "sourceUnit": "凛ルート十二日目-06:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"What is it? You are able to obtain a loyal subordinate without effort.\nWhy do you need to hesitate?\"\n\"...I don't know about that. I do not trust traitors. If your words are correct, then isn't Saber the only piece I need?\"",
+      "sourceUnit": "凛ルート十二日目-06:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"You don't trust traitors, huh?\nIt is true that I may betray you. I am going to your side for my own sake. I have not accepted you as my Master. But—\"",
+      "sourceUnit": "凛ルート十二日目-06:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Command Spells are to punish traitors, right?\n...Fine. I need to prove to the world that I am great enough to take you in. I was interested in your Noble Phantasm from the start, so I shall go with your plan.\"",
+      "sourceUnit": "凛ルート十二日目-06:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Caster raises her arm.\nThe dagger in her hand that breaks contracts is thrust at Archer's chest in a single line.",
+      "sourceUnit": "凛ルート十二日目-06:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...!\"\nTohsaka grimaces.\nIt must be a reaction to having the contract broken by force.\nBut, this isn't the time to be hesitating over something like that.\nThis has become the worst possible situation.",
+      "sourceUnit": "凛ルート十二日目-06:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka slightly retreats, still staring at them.\n...Tohsaka is calm.\nShe understands that it would do no good to fight them now.\nIf she wants to keep on fighting, she has to retreat for now.",
+      "sourceUnit": "凛ルート十二日目-06:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut, there are six meters between Tohsaka and the stairs.\nIs it possible for her to run that distance all at once?",
+      "sourceUnit": "凛ルート十二日目-06:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "It's impossible.\nIt's obvious, looking from above.\nKuzuki, who has been silent up to now, focuses his attention towards Tohsaka.\nIf she turns around and sprints full speed, would she be able to reach the stairs and get to the exit while dodging Kuzuki?",
+      "sourceUnit": "凛ルート十二日目-06:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka snorts, still staring at them.\nHer face...\n\"Heh... Of course that's impossible.\"\n...Seems to be muttering that sarcastically.",
+      "sourceUnit": "凛ルート十二日目-06:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe'll die.\nShe'll be killed like this.\nIf I try to help her, I also won't be able to go back.",
+      "sourceUnit": "凛ルート十二日目-06:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "The area just a few steps below me is a land of death.\nThe Master called Kuzuki and two enemy Servants.\nThere's no way I'd get out of there alive.",
+      "sourceUnit": "凛ルート十二日目-06:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy throat is dry.\nMy fingers are frozen from nervousness.\nIt's all or nothing.\nEven before I can think...\nTohsaka moves.",
+      "sourceUnit": "凛ルート十二日目-06:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "She runs towards the stairs at the speed of an arrow without any warning.\nBehind her...\nThe slim figure's shadow catches up to her at a speed that makes Tohsaka look stagnant.",
+      "sourceUnit": "凛ルート十二日目-06:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "Kuzuki's fist will most likely hit the back of Tohsaka's head.\nHe's the one who hurt Saber through her armor.\nIt would be easy for him to crush a human's skull.\n...\nI can't save her.\nI can't help her by myself.\nI can't save her just with this bamboo sword.",
+      "sourceUnit": "凛ルート十二日目-06:page66:1"
+    },
+    "page67": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

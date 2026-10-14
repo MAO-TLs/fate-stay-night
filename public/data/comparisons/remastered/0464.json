@@ -1,0 +1,87 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0464",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Right.\nIf I burst into the room while Sakura's changing, I won't hear the end of it from Fuji-nee for an entire year.",
+      "sourceUnit": "桜ルート五日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"No, the point is that it would be wrong to do that to Sakura!\"\nYup, now is the time for patience.\nFor all I know, she could already be done and drying her hair off.",
+      "sourceUnit": "桜ルート五日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You look unsettled, Shirou.\"\n\"Huh? N-no I don't. I'm eating mandarins and drinking tea.\"\n\"Haah. You've barely laid a hand on the fruit or tea, and you keep glancing at the clock. Is that what you call resting?\"",
+      "sourceUnit": "桜ルート五日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oof. Well, I'm full, so I don't have much of an appetite.\"\n\"Indeed? If you say so, Shirou. I don't believe in excessive self-restraint, however.\"",
+      "sourceUnit": "桜ルート五日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Saber takes a graceful sip of tea.\n...God, I'm pathetic.\nIt hasn't even been five minutes, but I can't stop thinking about Sakura.",
+      "sourceUnit": "桜ルート五日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it, I don't care what Fuji-nee says!\nSaber, I'm going to the bathroom!\"\nI grit my teeth and stand up.\nJust as I do,\nFuji-nee comes hurtling out of the hallway.",
+      "sourceUnit": "桜ルート五日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee...? What's the rush? Weren't you getting Sakura's clothes ready?\"\n\"I just finished. Never mind that, Shirou. Look after Sakura. I'm going home to get some fever medication.\"\n\"!? What do you mean? What happened?\"",
+      "sourceUnit": "桜ルート五日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I wish I knew. I found Sakura collapsed on the floor of the dressing room, and her temperature was almost 38 degrees.\"",
+      "sourceUnit": "桜ルート五日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—Sakura collapsed!?\"\n\"She's sleeping in the guestroom now. It looks like she only caught a cold, you can relax.\nBut don't let her push herself. I'll bring a bunch of stuff from home, so you stay with her. That alone will make Sakura feel better.\"",
+      "sourceUnit": "桜ルート五日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee snaps off a series of orders, then heads home to the Fujimura estate.\nFuji-nee's house hosts a lot of young, hot-blooded people, so it's well-equipped to handle the sick and wounded.",
+      "sourceUnit": "桜ルート五日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh...!\"\nI can't freeze now.\nI don't know what happened, but I need to check on Sakura first!",
+      "sourceUnit": "桜ルート五日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Your fever's a tad over 37 degrees. Huh. That's lower than I expected.\"\nI shake the thermometer and look at Sakura, who's lying in bed.\nIt's been thirty minutes.\nLike Fuji-nee said, Sakura's condition isn't too serious. It seems like she passed out in the dressing room because she had a light cold, took a long bath, and got lightheaded when she stood up.",
+      "sourceUnit": "桜ルート五日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry... I must have gotten dizzy after getting into the bath in such a nervous state.\"\nSakura guiltily hides her face under the covers.",
+      "sourceUnit": "桜ルート五日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, there's no helping the fact that you're sick. A cold like this should heal with medicine and some rest, so try and take it easy for tonight.\nI'll leave water on this chair. Try not to go outside, all right? You'll get a chill.\"\nJust in case, I put on another blanket over her and turn off the lights.",
+      "sourceUnit": "桜ルート五日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"See ya tomorrow. I'll come wake you up, so take it easy.\"\nI give Sakura an affectionate pat on the head and make for the door.\n\"...Okay. Good night, Senpai.\"\nSakura sounds apologetic.\nI reciprocate her good-night, and leave the guestroom.",
+      "sourceUnit": "桜ルート五日目-15:page14:1",
+      "recoveredDelimitedTail": true
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

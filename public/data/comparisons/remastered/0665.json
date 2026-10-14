@@ -1,0 +1,216 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0665",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The girl looks up at the sky.\nThe gray sunlight clouds her hair, and her red eyes are steeped in shadow.\n\"...Yeah. I'd better tell Shirou once he comes home.\"\nIllyasviel talks out loud, to no one in particular.",
+      "sourceUnit": "桜ルート十四日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The Emiya house is quiet.\nShirou and Rin both went looking for Sakura.\nRider doesn't show herself, as usual, so Illya's all by herself.\n\"The Cup of Heaven, erected in a cave on this very first promised land, two hundred years ago. I can feel it activating already.\"\nThis is the fifth Holy Grail War to take place in the town of Fuyuki.\nThe Holy Grail descends on a different location each time, but this time, it's returned to where it began.",
+      "sourceUnit": "桜ルート十四日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "It's only natural.\nThey use the four gates in this land, and each time it fails they pick a new one.\nThe first was Ryudou Temple.\nThe second was the Tohsaka house.\nThe third was the church on the hill.\nThe fourth was that burned field.\nAnd this time, it will return to the land it first appeared in.\nTo the land where it all started.\nTo the false utopia where they first enacted this ritual called the Holy Grail War.",
+      "sourceUnit": "桜ルート十四日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail is filled with the souls of Heroic Spirits.\nThe miracle they sought was to use these and open the gate... But I never thought there would be something living inside, even when it isn't open.\"\nShe finds it rather comical.\nWith things as they are, the Einzberns' wish will be for naught.\nThey failed.\nWhatever happens next, whatever will soon be born, will be a catastrophe far removed from what they desired.",
+      "sourceUnit": "桜ルート十四日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...I should leave it alone. My job is only to open the way. No one told me to close it.\"\nEven if she was willing to try, it's too late now.\nSakura now surpasses her as a Holy Grail.\nThe Einzbern Grail cannot interfere with the gate that the Makiri Grail has opened.\nZouken Matou meant to open the same thing, but he opened something different.\nOnly Illya understands this, along with the other girl turned into a Holy Grail, Sakura.",
+      "sourceUnit": "桜ルート十四日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I wonder if Shirou will make it back in time. If he does, we could run someplace far away.\"\nShe peers up at the sky, absently.\nThe girl has been having doubts.\nShe's having trouble choosing between her duty, and the newfound desires in her.",
+      "sourceUnit": "桜ルート十四日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou, no matter what you do, I'm still going to die.\"\nThe outcome won't change.\nOnly death awaits her, whether she faces the gate as a Holy Grail or runs away.\nThat's why she keeps asking herself what she really wants, as she looks up at the gray expanse.",
+      "sourceUnit": "桜ルート十四日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nAnd that's why she doesn't notice.\nA shadow creeps through the entrance to the house, saying \"I'm home.\"\nDid it infiltrate the Bounded Field around the home, or did the barrier fail to identify her as an intruder?",
+      "sourceUnit": "桜ルート十四日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSlowly...\nShe moves from the living room to the backyard without making a sound, and reaches for the girl's shoulder—\n\"That was a long walk, Sakura. Where'd you go?\"",
+      "sourceUnit": "桜ルート十四日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Nee...san...\"\nThe intruder—Sakura Matou freezes.\nShe looks away from Illya who is right in front of her, and at Rin Tohsaka waiting in the yard.",
+      "sourceUnit": "桜ルート十四日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Get away from Illya. I'll shoot you where you stand if you get any closer to her.\"\nEveryone here knows that it isn't an idle threat.\n\"It won't work, Rin. But if it makes you feel better, then go ahead.\"\nIllyasviel walks out, not looking surprised in the least.\nShe goes to the edge of the yard, as if to spectate the face-off between Sakura and Rin.",
+      "sourceUnit": "桜ルート十四日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, you must have been waiting here for me this whole time, Nee-san. You predicted that I'd come invite Illya.\"\n\"Pretty much. Unlike Shirou, I don't have any reason to save you. It was obvious that you'd come to take Illya once things started rolling. Even if you didn't, you had plenty of reason to be cautious of her.\"",
+      "sourceUnit": "桜ルート十四日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "The way she says \"Shirou\" makes Sakura twitch.\nShe doesn't like it.\nThe open loathing on her face would be utterly alien to anyone who knew her before.",
+      "sourceUnit": "桜ルート十四日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're terrible, Nee-san. You're always like that, deciding everything on your own and making a fool out of me. You look down on me for being dirty because you're so clean.\n...I hate people like you. Hey, Nee-san. Am I that bad of a girl?\"\nHer voice contains no emotion.\nRin takes the question in stride.",
+      "sourceUnit": "桜ルート十四日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously. You're a huge moron, beyond saving from the moment you left this house, because you never put any faith in the one guy who wanted to protect Sakura Matou.\"\nShe snaps back at Sakura.",
+      "sourceUnit": "桜ルート十四日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nSakura drops her gaze.\nThe truth of the remark seems to make her genuinely realize her error.",
+      "sourceUnit": "桜ルート十四日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"But, I...\"\n\"Don't tell me you thought it was for the best. We told you not to go outside. If you didn't agree, you should have talked to us first.\nBut you just left without telling anyone, all by yourself. You keep making the same mistakes.\nI'm amazed, honestly. People take advantage of you because you can't even do that part right.\"",
+      "sourceUnit": "桜ルート十四日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. You're right, that's how it's always been.\nBut Nee-san, I'm not weak anymore. Please, go hide in your house. I'll protect Senpai now.\"\nAn ominous shadow spills out in concert with her icy gaze.\n\"Rrgh...\"\nExpecting this, Rin takes a slight step back.",
+      "sourceUnit": "桜ルート十四日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She doesn't realize that her moment of weakness\nis the last push Sakura needs.",
+      "sourceUnit": "桜ルート十四日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's wrong, Nee-san? The way you're backing up almost makes you look like you're scared of me.\"\n\"...\"\nRin clicks her tongue, realizing her mistake, but it's too late.\n...No.\nShe was never ready to begin with.\nFrom the moment Sakura reached for Illya, it was already over.",
+      "sourceUnit": "桜ルート十四日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. So you're not going to go back to your room?\"\n\"Yes. I won't do what you say anymore.\"",
+      "sourceUnit": "桜ルート十四日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Because...I'm stronger than you.\"",
+      "sourceUnit": "桜ルート十四日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Shadows leap.\nInnumerable jet-black streams rush out from Sakura's feet and cover the yard.\nAnd from within that thick, inky black...\n\"Sakura, you...\"\nA knight weilding a dark, tainted sword emerges.",
+      "sourceUnit": "桜ルート十四日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, capture the Holy Grail. I don't mind if you get rough with it if it resists.\"\n...\nThe dark Saber obeys without a word.\n...There's no longer any doubt.\nIt's clear what the Shadow is now.\nAnd the fate of any Servant it devours is in plain sight before them. Rin bites her lip.",
+      "sourceUnit": "桜ルート十四日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "But then...\n\"!\"\n\"Ngh, hah...!\"\nSomething shadowy, far surpassing Rin's magical energy\nlashes out at her in a merciless, lethal shot!",
+      "sourceUnit": "桜ルート十四日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nShe hits the ground rolling.\nThe shadow that was shot out is on the same level as that black Shadow.\nIf she touches it, she's finished.\nEven the slightest graze will cause it to stick to Rin's skin and engulf her in the blink of an eye.\nAnd once that happens...\nIf she's swallowed by the Shadow that not even Servants can escape from, then Rin, a bundle of Magic Circuits, would be absorbed entirely without being able to resist at all.",
+      "sourceUnit": "桜ルート十四日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it, you...!\"\nThe tentacles shoot out at her in rapid succession.\nRin realizes that this isn't coming from the Shadow, but from Sakura's own magecraft.\nThe Matous' magecraft specializes in binding others.\nBut originally, Sakura was a Tohsaka—a shadow-wielder aligned with imaginary numbers.\nShe can manifest the Shadow to this extent because of her two alignments!",
+      "sourceUnit": "桜ルート十四日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...!!!\"\nThey catch up to Rin easily.\nThe difference in their magical energy is overwhelming.\nRight now, Sakura's magical energy is limitless.\nHer capacity is one hundred million units.\nFrom the perspective of Rin's three hundred units, Sakura is a monster with a bottomless reserve.",
+      "sourceUnit": "桜ルート十四日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "She controls Saber, who boasts the highest magical energy among the Servants, and can freely use the Shadow.\n...It isn't clear if even a Servant could overcome this extraordinary mage.",
+      "sourceUnit": "桜ルート十四日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Crap. Her spells are simple, but the quantity is just overwhelming.\"\nRin watches the transformed Sakura, her shoulders heaving with exertion.\nShe has no chance of victory, and no way out.\nIt would be a different story if she had a power source on par with Sakura—the Holy Grail itself—but she doesn't.",
+      "sourceUnit": "桜ルート十四日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...In terms of being a power source, there isn't anything in this world on the same level as the Holy Grail, anyway.\"\nShe sighs and drowns her anxiety with grumbling.\n\"Oh no, Nee-san. It's dangerous to stop there.\"\nSakura doesn't hesitate to aim her palm at Rin.",
+      "sourceUnit": "桜ルート十四日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She has no mercy.\nHer lips curl into an arrogant sneer.\n\"Now...let's play some more, Nee-san.\nI'll catch you in the end, but try to be adorable and run around, okay?\"\nShe smiles at her beloved sister.",
+      "sourceUnit": "桜ルート十四日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Rin knows this will end the way Sakura says.\nThere's no escaping the Shadow.\nIf Sakura felt like it, she could engulf the entire lot, not just the yard.\nRin's completely helpless against Sakura, who expands the Shadow little by little.",
+      "sourceUnit": "桜ルート十四日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...ahh...Ahh...\"\nThe Shadow wraps around Rin.\nThe gel-like mud binds her body, squeezes her tight, and infiltrates her Magic Circuits like a bloodborne parasite.",
+      "sourceUnit": "桜ルート十四日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, is that all? You weren't as strong as I thought.\"\nSakura gleefully looks down at her captured sister.\nHer breathing is ragged, and her cheeks are flushed.\nThe sight of her sister smeared with thick oil excites Sakura, even though she's female.",
+      "sourceUnit": "桜ルート十四日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Saku...ra...\"\nThe mud doesn't cover her face, as if to let Sakura enjoy her suffering.\n\"You...little...\"\nRin glares at Sakura, enduring the humiliation.\nBut it only lasts for a few seconds.\nThe mud working its way through her body oozes its way into her organs.",
+      "sourceUnit": "桜ルート十四日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Kugh...! Nn-nngah, haah...\"\n\"Hehe. I'll be eating you now. I've been looking forward to this. It's my first time eating magical energy from a mage.\"\nThe gel-like shadows bind Rin tightly.\nThe \"meal\" doesn't even last a few seconds.",
+      "sourceUnit": "桜ルート十四日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Ngh...\"\n\"Delicious... I'm not even close to full, but that was satisfying, Nee-san.\"\nRin's remaining magical energy disappears.\nIt's over.\nSlumped over and struggling to breathe, Rin doesn't have the strength to resist.\nShe has no way to resist, but...",
+      "sourceUnit": "桜ルート十四日目-06:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't let that happen. Unless I kill her here, next time...\"\nShe'll lose to her sister again.\n...She doesn't have anything to base this hunch on.\nRin has no way of overcoming this power gap.\nBut somehow, Sakura is sure that the next time they fight, Rin will kill her for sure.",
+      "sourceUnit": "桜ルート十四日目-06:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "So she needs to finish her off here.\nIt would be too easy to simply neutralize her by taking her energy.\nShe needs to end her here, because Rin Tohsaka would do the same.\nThat's what Sakura tells herself as she spreads her trembling hand.",
+      "sourceUnit": "桜ルート十四日目-06:page39:1"
+    },
+    "page40": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page41": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

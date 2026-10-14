@@ -1,0 +1,326 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0666",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it, what's going on...!?\"\nClearly, something is happening in the backyard.\nSo much of the nauseating, spiteful vortex of energy is leaking out that I can even touch it.\nYou don't need to be a mage to know that something's wrong.",
+      "sourceUnit": "桜ルート十四日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nI thought I was ready, but I'm dumbstruck by what I find.\nTohsaka's covered in the Shadow that looks like coal tar.\nIllya's watching from the edge of the yard, and Saber's standing in front of her.\nAnd in the very middle, Sakura has a hand thrust out at Tohsaka...",
+      "sourceUnit": "桜ルート十四日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"SAKURA!!!\"\nI dash into the yard.\nI can't neglect any of them, but right now, Tohsaka's in the most danger.\nShe looks deathly pale beneath the coal tar, and her life will be in danger unless she gets help right away.",
+      "sourceUnit": "桜ルート十四日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...! Hey, get a grip, stupid!\"\n...\nI lift her up, but she doesn't respond.\n\"Kuh! Hold on, I'll get this stuff off you!\"",
+      "sourceUnit": "桜ルート十四日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I tear at the mud covering her.\nBut despite being a liquid, the mud behaves like elastic rubber.\nI can't get a decent handhold on it, and it bounces back as soon as I tear it off...!",
+      "sourceUnit": "桜ルート十四日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh...! What it this!? It can touch Tohsaka, so why can't I...!?\"\nI can't tear the mud off, no matter how hard I try.\nIn the chaos and confusion, I keep trying to pull the mud off Tohsaka.",
+      "sourceUnit": "桜ルート十四日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "And then...\n\"It's no use, Senpai. Only I can dispel my own shadow. With your skill level, it'll only consume you, instead.\"\n\"Sakura?\"\nSakura speaks in a cold voice I don't know.",
+      "sourceUnit": "桜ルート十四日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...your face.\"\nMy scattered mind grinds to a halt.",
+      "sourceUnit": "桜ルート十四日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Sakura's neck...\nSomething that looks like a tattoo is spreading over it.\nIt doesn't look like it at all, but that's...a Command Spell.\nSakura's body is writhing with Command Spells I don't understand.",
+      "sourceUnit": "桜ルート十四日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...What a surprise. You came so quickly, Senpai.\nBut you must be panicking. You saw what happened to Nii-san, but you aren't scolding me.\"\n\"Rgh... not now. We don't need to talk about Shinji right now. It can wait until you calm down.\"",
+      "sourceUnit": "桜ルート十四日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nI need to talk to Sakura now.\nZouken said all kinds of stuff, but he was lying.\nSakura is still Sakura.\nSo if we can just talk, she'll go back to—",
+      "sourceUnit": "桜ルート十四日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I don't want to talk about that, and I don't want to talk to you. I'm the only one who needs to speak.\nYou, Nee-san, my brother, and all the people in this town can't speak out against me anymore.\"",
+      "sourceUnit": "桜ルート十四日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy hair stands on end.\nThis is worse than any chill.\nA sharp spike of extreme cold runs from my medulla down to the bottom of my spine, like a knife opening up my back.",
+      "sourceUnit": "桜ルート十四日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, Senpai. Why are you protecting my sister?\"\n...\nFor an instant, my vision goes blank.\nA shadow rises behind Sakura.",
+      "sourceUnit": "桜ルート十四日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nThe chill running down my back crystallizes into ice-cold terror encasing my entire body.\nThat's...Sakura.\nWhen people told me that she's the Shadow, I was able to bear it.\nBut I can't deny what I just saw.",
+      "sourceUnit": "桜ルート十四日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "All it took was a touch to melt my left arm.\nThat emotionless killing machine slaughtering people all over town was...Sakura.",
+      "sourceUnit": "桜ルート十四日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Saku...ra...\"\nMy throat feels tight.\nMy eyeballs spasm, and the world seems to\nwarp and twist around me.\nEvery cell in my body screams in warning, and I desperately try to snap myself out of my frozen terror.",
+      "sourceUnit": "桜ルート十四日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "But I can't.\nSakura's presence. It's no longer human. No longer Sakura.\nI haven't been swallowed by this titanic magical energy yet.\nThere's only one reason I can't move:\nSakura's boundless bloodlust is directed at me.",
+      "sourceUnit": "桜ルート十四日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You've always been like that. You said you would protect me, but you never had eyes only for me.\nIt's all right, though. I wanted you because that's the kind of person you are.\"",
+      "sourceUnit": "桜ルート十四日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "My vision warps.\nMy mind is crumbling as I hear the words of this Sakura I don't know.\nIt creaks in denial.\nIt protests that this isn't Sakura.\nForbidden thoughts bury themselves in my mind.",
+      "sourceUnit": "桜ルート十四日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Is it painful to see me here, Senpai?\nI know how much of a burden I am to you. You'll keep suffering as long as I'm here.\nThat's why I needed to disappear in front of you.\"",
+      "sourceUnit": "桜ルート十四日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Shadows dance.\nThe ground of the backyard reminds me of a shadow puppet stage.",
+      "sourceUnit": "桜ルート十四日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"But I can't. You're the only thing that's ever made me happy.\nAnd you can't stay away from me, either. You can't betray yourself any further.\"",
+      "sourceUnit": "桜ルート十四日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. So I'll kill you, for your own good. That way, we can be together forever...\nAnd you won't have to suffer anymore.\"",
+      "sourceUnit": "桜ルート十四日目-11:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "The shadows reach for me.\nThey swell into a wave bent on swallowing both me and Tohsaka.",
+      "sourceUnit": "桜ルート十四日目-11:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "In my battered mental state, I shove Tohsaka away.\nThe black wave descends on me.\nI don't even try to evade it.\n...\nI was terrified.\nThe mere instant I thought that this Sakura isn't Sakura anymore,\nthe realization stopped me from moving my body.",
+      "sourceUnit": "桜ルート十四日目-11:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...I know this.\nI've bathed in this darkness before.\nIt'll shatter me. I couldn't withstand it for even one second last time.\nIf it covers me while my mind is still blank, my mind will disappear before my body.",
+      "sourceUnit": "桜ルート十四日目-11:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...ah.\"",
+      "sourceUnit": "桜ルート十四日目-11:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "My body withers.\nMy body temperature drops to zero in an instant.\nIt's more suffocating and scary than I expected, so I move my body to try and get out.\nBut I can't jump.\nThere's no ground to push off of.\nI'm going to...",
+      "sourceUnit": "桜ルート十四日目-11:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...eh?\"\nI come to my senses in the backyard.\nPurple hair fills my field of view.",
+      "sourceUnit": "桜ルート十四日目-11:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider, you...\"\n\"This was your command, Sakura. You told me to protect Shirou Emiya, no matter what.\"",
+      "sourceUnit": "桜ルート十四日目-11:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Ri...der...\"\nRider rescued me from the black wave.\n\"Try not to move. If you stand up in that condition, you will lose consciousness.\"\n...\n...Um, I'm not even thinking about that.\nOn my hands and knees, the act of breathing threatens to knock me out.",
+      "sourceUnit": "桜ルート十四日目-11:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. So you're going to oppose me, Rider.\nThen I'll take you, too. I ate something I didn't expect earlier, so I don't need any more Servants...\nBut I'll do to you what I did to Saber.\"",
+      "sourceUnit": "桜ルート十四日目-11:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...Shadows rise.\nSakura shrouds the entire yard in darkness. She isn't holding back anymore, after Rider's betrayal.",
+      "sourceUnit": "桜ルート十四日目-11:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...The area around us is already covered in black.\nRider makes no sign of running. She just watches the creeping shadows approach, like a criminal awaiting execution.",
+      "sourceUnit": "桜ルート十四日目-11:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"That's enough. You don't need to do all this, Sakura.\nThere's no going back if you swallow anything else.\"",
+      "sourceUnit": "桜ルート十四日目-11:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya.\"\nThe shadows' encroachment pauses.",
+      "sourceUnit": "桜ルート十四日目-11:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...What do you mean, Illyasviel?\"\n\"Exactly what I said. You can consume Rider, kill Shirou, and neutralize Rin, but it's pointless to you right now. You're just wasting time, so why don't you stop the temper tantrum already?\"",
+      "sourceUnit": "桜ルート十四日目-11:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...What is she doing?\nIllya is walking towards Sakura.",
+      "sourceUnit": "桜ルート十四日目-11:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"You're here for me, right? Then let's get this over with. I'll come along peacefully, so leave them alone.\"",
+      "sourceUnit": "桜ルート十四日目-11:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you insane? All I want is your heart.\nYou're saying that you don't mind me killing you.\"\n\"I know that. But I'm going to get killed regardless, so it's pointless to resist. For now, you're the strongest one here.\"",
+      "sourceUnit": "桜ルート十四日目-11:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "Illya is calm.\n...\n...It's vexing.\nI muster my body and every shred of my frayed mind to try and understand what Illya's saying, but I can't.",
+      "sourceUnit": "桜ルート十四日目-11:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"So you're offering yourself up as a sacrifice, Illyasviel?\"\n\"Yeah. It's my job.\nBut my dress isn't here. If you want to open the gate as a successor, you'll need to take me to my castle.\"\n...",
+      "sourceUnit": "桜ルート十四日目-11:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"And you've settled your scores, haven't you?\nThere's no need to kill Shirou.\nYou let that part of you in because you didn't want to kill anyone else, but now you're saying you have to kill them all. You're contradicting yourself, Sakura.\"\n\"Ngh...\"",
+      "sourceUnit": "桜ルート十四日目-11:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...The shadows recede.\nEven the mud covering Tohsaka fades away as if it was never there.",
+      "sourceUnit": "桜ルート十四日目-11:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. It saves me the trouble of looking for it myself.\nI don't know what you're playing at, but I'll go along with it.\"\nHer long hair sways.\nSakura turns her back on us, as if she's completely lost interest in me and Rider. She starts to leave.",
+      "sourceUnit": "桜ルート十四日目-11:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura...!\"\nStill on my knees, I call out to her.\n\"...\"",
+      "sourceUnit": "桜ルート十四日目-11:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't come to me anymore.\nIf I see you in front of me...I'll have to kill you, Senpai.\"",
+      "sourceUnit": "桜ルート十四日目-11:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Sakura grows distant.\nI can't follow her or call out to her.",
+      "sourceUnit": "桜ルート十四日目-11:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura's right. Your role in this is done, Shirou.\nIt's my duty to take care of the rest. Sakura's going to take me away, so you can rest now.\"",
+      "sourceUnit": "桜ルート十四日目-11:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "I can't even help Illya.",
+      "sourceUnit": "桜ルート十四日目-11:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye. It's been fun, big brother.\"",
+      "sourceUnit": "桜ルート十四日目-11:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "I hear her bid me a sad farewell.",
+      "sourceUnit": "桜ルート十四日目-11:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "...\nFinally, I unfreeze.\nMy uncontrollable shaking in front of the Shadow,\nand my guilt for thinking Sakura was someone else finally stop.",
+      "sourceUnit": "桜ルート十四日目-11:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "It's infuriating.\nI was so pathetic that I couldn't even take Sakura's hand.\nAnd that's not all.\nAt the very end, I let Illya make such a face when she called me her big brother!",
+      "sourceUnit": "桜ルート十四日目-11:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"YOU DUMBASS!!!\"\nI run.\nI chase after them with reckless abandon, pushing through the nausea, the chill, and my soup-like brain.",
+      "sourceUnit": "桜ルート十四日目-11:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Do not follow them. I'll kill you if you go any further.\"\n\"Ngh...!\"\nA black-armored Servant stands in my way.\nShe's been silent this entire time, and now she overwhelms me with her grim presence, sword pointed at me.",
+      "sourceUnit": "桜ルート十四日目-11:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Move, Saber. I can't let them leave.\"\n\"And I can't let you go. I will not allow you to follow them... What could you do anyway, even if I did move?\"",
+      "sourceUnit": "桜ルート十四日目-11:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"...This is my last warning. One way or another, Sakura will obtain the Holy Grail. It is the only way to set her free.\nShe will be saved, even if she dies as a result.\"",
+      "sourceUnit": "桜ルート十四日目-11:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"If you want to help Sakura, then stand down.\nBut if you still intend to chase her...then I will remove your head.\"",
+      "sourceUnit": "桜ルート十四日目-11:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "The dark Saber disappears.\nSakura and Illya are gone.\nThey vanish from sight, as if sinking into her shadow.",
+      "sourceUnit": "桜ルート十四日目-11:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Kuh...\"\nI run out of the will to move my body.\nMy arms and legs go limp, like a puppet with its strings cut.\n\"Damn...\"",
+      "sourceUnit": "桜ルート十四日目-11:page61:1"
+    },
+    "page62": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page63": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0311",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nNo, it'll be too dangerous to keep on talking about this.\nIssei lives at Ryudou Temple after all.\nIf I make him suspicious about this woman, then he might get curious and do something.\nAnd... If that woman is a Master, Issei would be in danger.",
+      "sourceUnit": "凛ルート八日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis is it for today.\nI'll call it good since I found out that Issei has nothing to do with the Holy Grail War.",
+      "sourceUnit": "凛ルート八日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh yeah, Emiya. Shinji's sister wasn't here today, right?\"\n\"Huh...? Sakura is absent today?\"",
+      "sourceUnit": "凛ルート八日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji is absent as well. They were both absent without notice today, so the teachers are wondering if something happened at home.\"\n...\nI'm at a loss for words, being confronted with a problem that I had forgotten about.",
+      "sourceUnit": "凛ルート八日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, lunch break is over. Let's go back to the classroom.\"\nIssei ushers me out of the student council room.\n...All the while...\nThe thoughts of Sakura being absent and what happened to Shinji after losing Rider swirl in my head.",
+      "sourceUnit": "凛ルート八日目-10:page4:1"
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

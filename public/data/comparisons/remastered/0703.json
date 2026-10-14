@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0703",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I can't abandon Rider.\nI ignore the pain in my left arm and my eroding memories,\ndraw the Azoth Blade, and dash at the black swordsman.",
+      "sourceUnit": "桜ルート十六日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "My decision and movement are swift.\nMy feet hurl me forward like a bomb blast,\nand my body flies through the air like a bullet.",
+      "sourceUnit": "桜ルート十六日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "My blood flows backward. My senses flow backward. Poison flows backward.",
+      "sourceUnit": "桜ルート十六日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "My left arm and my body are one.\nThe novice Shirou Emiya transforms into a superman.",
+      "sourceUnit": "桜ルート十六日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nOne second feels like ten.\nI can take her.\nRight now, I can fight against Saber, if I pay the broken Shirou Emiya as a price!",
+      "sourceUnit": "桜ルート十六日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Run, Rider...!\"\nI slash from the side at the two clashing, dark figures.\n\"Ngh... Shirou!?\"\nRider kneels on the ground.\n\".........\"\nSaber reacts to me only with her eyes.",
+      "sourceUnit": "桜ルート十六日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I got her.\nI bring the Azoth Blade down on Saber's defenseless left arm.",
+      "sourceUnit": "桜ルート十六日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Wha—\"\nIt shatters.\nThe dagger should have pierced her body, but it completely shattered as soon as it touched her.\nA lightspeed attack slashes me in response.\nI'm sliced open.\nJust as I intended, an arm goes tumbling to the ground.",
+      "sourceUnit": "桜ルート十六日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nRider jumps back, while Saber stands calmly.\n\"Ah... Aaargh, gah......!\"\nI kneel, trying desperately to stop the blood fountaining from my left shoulder.",
+      "sourceUnit": "桜ルート十六日目-02:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah, ugh, guh, aaaaahhhhh!\"\nI writhe in agony.\n\"I did not fail to react. I simply did not need to, Shirou,\"\nThe black swordsman declares, in a stone-cold voice.\nI hear footsteps approaching.\nI'm helpless. She's be...behind me.",
+      "sourceUnit": "桜ルート十六日目-02:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I've plucked out your fangs. ...Sakura does not say it, but she wants you to live. She would prefer that I render you harmless and bring you to her.\nBut...\"",
+      "sourceUnit": "桜ルート十六日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "A sword bites into my back.\nThe cold weight of death pushes in only a few centimeters, stopping just short of my heart.",
+      "sourceUnit": "桜ルート十六日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Choose. You can die here to my sword, or I can deliver you to Sakura, where you'll meet a fate worse than death. The choice is yours, Shirou.\"\n...My consciousness fades.\nI feel my blood leaving my body, and the weight of the blade in my back.",
+      "sourceUnit": "桜ルート十六日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I don't know which option I chose.\nAll I know is one thing:\nThere's nothing I can do to save Sakura anymore.",
+      "sourceUnit": "桜ルート十六日目-02:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

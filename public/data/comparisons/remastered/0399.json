@@ -1,0 +1,182 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0399",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"We don't have much time. We'll beat Caster before Lancer and Archer settle their match.\"\n\"I know. We shouldn't waste our breath.\nSo, are you sure I can leave Caster to you, Tohsaka?\"",
+      "sourceUnit": "凛ルート十四日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I'm sure I'll be thoroughly cornered, but don't help me. You can just try to keep Mr. Kuzuki away as long as possible.\"\nWe go past the chapel and head to the door leading to the courtyard.",
+      "sourceUnit": "凛ルート十四日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I won't hesitate if Tohsaka says so.\n...Most of all, I don't know if I could back Tohsaka up even if she were in trouble.\nMy opponent is Kuzuki. I wouldn't even be able to dodge his first attack if I'm paying attention to Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Caster's presence is getting closer.\nShe must not even be hiding her powers, as the church is surrounded by Caster's magical energy.\nWith this amount, she must already know about our raid.",
+      "sourceUnit": "凛ルート十四日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Trace, on.\"\nI knit together the illusion as carefully as I can using the eight steps.\nI got used to it, as his swords are in both hands within a minute.",
+      "sourceUnit": "凛ルート十四日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ungh...\"\nI feel a light headache.\nEven though I'm getting used to it, it takes some sort of toll on my body after all.\nProjection is certainly affecting my body without me realizing it.",
+      "sourceUnit": "凛ルート十四日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Hm?\"\nIs it my imagination?\nFor a moment, I thought Tohsaka had hung her head in sorrow while running next to me.",
+      "sourceUnit": "凛ルート十四日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "We go down through the darkness.\nWe run down the stairs that go underground and go out to the open area.\nAnd after that, we jump off of the railing of the stairs down to the sanctuary like before.",
+      "sourceUnit": "凛ルート十四日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. You guys are like monkeys, jumping down like that.\nI don't know why you're in such a hurry, but at least use the stairs if you're human.\"",
+      "sourceUnit": "凛ルート十四日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "We land in the sanctuary.\nThis is supposed to be a surprise attack, but Caster greets us with composure.",
+      "sourceUnit": "凛ルート十四日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere is Souichirou Kuzuki standing beside Caster.\n...I feel no enmity or bloodlust from him.\nThat is his battle posture. His clear murderous intent is even hiding the dreadfulness of that man.\nIn that regard, he's even more like an assassin than the Servant Assassin right now.",
+      "sourceUnit": "凛ルート十四日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Saber is at the altar.\nThe situation is the same as two days ago.\nSaber is still tied from the ceiling with her head hanging down.",
+      "sourceUnit": "凛ルート十四日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm relieved we made it, but at the same time, it worries me how awfully quiet she is.\nI feel like Saber was a bit more in pain before.\nShe was shaking slightly, as if breathing with her whole body to go against Caster's magical energy.\nBut she's silent now like she's frozen.",
+      "sourceUnit": "凛ルート十四日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI have a bad feeling.\nIt's good Assassin is not here, but we won't be able to get out of here alive if my worries are true...",
+      "sourceUnit": "凛ルート十四日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"We're here, Caster. I thought things through, but I've decided to have you eliminated.\nYou're an eyesore, you're in my way, you're troublesome, and I don't like the way you dress. You look like you came from the countryside with that purple robe in this day and age.\"",
+      "sourceUnit": "凛ルート十四日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka insults Caster, who is full of composure, as if refusing to lose against her.\nEven though she's saying such things, she must actually be feeling the opposite from the way she's slowly closing in on her.",
+      "sourceUnit": "凛ルート十四日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Now's not the time for me to be concerned about Saber either.\nIf Tohsaka is going to close in on Caster counterclockwise, I'll close in clockwise.\nCaster and Kuzuki. If we're going to separate them, we have to attack them from both sides and isolate our enemies.",
+      "sourceUnit": "凛ルート十四日目-18:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. You seem to be making a big misunderstanding as someone who was let go. Are all mages nowadays so reckless? No wonder Archer gave up on you.\"\nTohsaka's insults must've worked on her, as Caster is glaring only at Tohsaka.",
+      "sourceUnit": "凛ルート十四日目-18:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I use that opening to move.\nI move to the other side of Tohsaka, where I can attack Caster from the other side.\n...\nKuzuki watches that in silence.",
+      "sourceUnit": "凛ルート十四日目-18:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...I knew it.\nThere's no way that man won't notice something like this.\nHe's aware of everything.\nThe fact that we're trying to defeat them one by one, and the fact that Tohsaka has some kind of plan.",
+      "sourceUnit": "凛ルート十四日目-18:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Even with that in mind, Kuzuki is letting Caster do as she wishes.\n...It's not like Kuzuki is being manipulated by Caster.\nHe became Caster's Master of his own free will.\nBut, still... Based on his passivity, Kuzuki is close to a puppet.",
+      "sourceUnit": "凛ルート十四日目-18:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "A Servant who is skilled in providing backup using magecraft,\nand a Master who is skilled in hand-to-hand combat.\nTheir roles are reversed, and I feel like their way of being is reversed as well.\nCaster who persistently seeks the Holy Grail, and the Master protects Caster without his own will.",
+      "sourceUnit": "凛ルート十四日目-18:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat makes me think without a reason.\nThat if Caster was a Master and Kuzuki was just a Servant who protected her, then they wouldn't have fallen so low.",
+      "sourceUnit": "凛ルート十四日目-18:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka looks over at me.\nIt means our positions are perfect.\nThen... The match will be settled if either of us attacks.\nWhether Tohsaka and I get defeated or Tohsaka defeats Caster before that, our battle with Caster will end here.",
+      "sourceUnit": "凛ルート十四日目-18:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us start then. This is the third time I'm fighting you. I'll settle this for the last time.\"\nTohsaka steps in closer to Caster.",
+      "sourceUnit": "凛ルート十四日目-18:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"You're talking big. I doubt it, but do you seriously think you can win against me, young lady?\nIn that case, we don't even need to fight. I shall let you go again this time, so that you can go fix that personality of yours.\"",
+      "sourceUnit": "凛ルート十四日目-18:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I can win.\nIsn't that right? There's no way a first-class mage can lose to a third-class mage like you.\"",
+      "sourceUnit": "凛ルート十四日目-18:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"..Is that so? Then I suppose it can't be helped.\nIt seems that I need to discipline that arrogant mouth of yours, young lady.\"",
+      "sourceUnit": "凛ルート十四日目-18:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "They brace themselves at the same time.\nWith a few meters between them, they look like mirror images.",
+      "sourceUnit": "凛ルート十四日目-18:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "That is the signal.\nI attack the defenseless Caster...\n\"...!\"\nAnd of course, I'm blocked by Kuzuki's blow.",
+      "sourceUnit": "凛ルート十四日目-18:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...The ghost-like assassin is in front of me.\nI don't have the composure to watch over Tohsaka and Caster's fight.\nHe already knows my intentions.\nHe will not let me buy time.\nLetting out the snake that cornered even Saber, Souichirou Kuzuki comes to take my life.",
+      "sourceUnit": "凛ルート十四日目-18:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "I can hold him off for one minute at most.\nThat should be the same for Tohsaka.\nOriginally, this was a battle with no chance of victory had the roles not been reversed.\nThere is no way we could win against enemies who surpass us in both hand-to-hand combat and magecraft.",
+      "sourceUnit": "凛ルート十四日目-18:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "But looking at it the other way, we can at least put up a fight.\nTohsaka would be killed in an instant if she fought Kuzuki,\nand Caster would end me just by pointing at me if I fought her.\nOn the other hand, we might not be able to win, but at least we won't get killed in an instant.",
+      "sourceUnit": "凛ルート十四日目-18:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...In other words...\nThis battle is not about how we can defeat them, but...\nA battle like walking on a tightrope to see how long we can hold off an opponent who is superior to us.",
+      "sourceUnit": "凛ルート十四日目-18:page33:1",
+      "recoveredDelimitedTail": true
+    },
+    "page34": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

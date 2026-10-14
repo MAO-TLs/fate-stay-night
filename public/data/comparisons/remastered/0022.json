@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0022",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning, Senpai. Did you finish preparing breakfast already?\"\n\"Yeah. It's all done. All that's left to do is to set the dishes and grill the fish.\"\n\"Oh, I'll help. Leave the dishes to me.\"",
+      "sourceUnit": "セイバールート二日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Sakura is clearly eager in her reply.\nAnd coming in behind the ever-dependable Sakura...\n\"I smell Shirou's omelet. So he handled breakfast this morning, huh?\"\nFuji-nee casually heads to the table.",
+      "sourceUnit": "セイバールート二日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, let's just ignore her for now.\"\nI need to grill the prepared fish.\n\"Sakura, use the middle set of plates. The food will look better on those.\"\n\"Eh? The plates with bumps on the surface?\"",
+      "sourceUnit": "セイバールート二日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, those. Grilled meals tend not to look good if you don't plate them well. And I've already grated the daikon—\"\nSakura reaches far to take out the plates.\n...\nAs she reaches out, I think I see a faint bruise on the back of her hand.",
+      "sourceUnit": "セイバールート二日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura, hold on a minute.\"\n\"Yes? What is it?\"\n\"What's that bruise on your hand?\"\n\"Oh—\"\nShe averts her eyes, looking uneasy.\nHer reaction makes how she got the bruise clear.",
+      "sourceUnit": "セイバールート二日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Is it Shinji again? I can't believe he beats his own sister.\"\n\"Th-that's not it, Senpai! Um, well...I got this when I fell. You know how clumsy I am.\nIt's why I'm always falling and getting myself hurt.\"\n\"How stupid do you think I am? Nobody gets bruises like that just from falling. Seems like Shinji needs some sense smacked into him.\"",
+      "sourceUnit": "セイバールート二日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no, Senpai! My brother really has nothing to do with this. I just hurt myself, so there's no need for you to be angry for me.\"\n...\nSakura falls silent.\nSakura may seem docile, but she's surprisingly stubborn. It's no use saying anything to her now.",
+      "sourceUnit": "セイバールート二日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. If you say so, I'll leave it at that.\"\n\"Yes. I'm sorry, Senpai.\"\n\"Why are you apologizing? Shinji's the one in the wrong.\"\n\"...\"\nThe moment I say Shinji's name, Sakura awkwardly looks away.",
+      "sourceUnit": "セイバールート二日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "It can only mean he is the cause of the bruise on her hand.\nShinji Matou has a bad habit of treating his younger sister like crap.\nI noticed it about a year ago.\nEvery now and then, I'd see Sakura injured, and she always made excuses when I asked what happened.\nWhen I asked Shinji about it, he revealed to my shock that he'd been the one who hit Sakura.",
+      "sourceUnit": "セイバールート二日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I asked why, and he told me it was because she'd done something he hadn't liked.\nI got pretty pissed off, so I did to Shinji what he'd done to Sakura.\nWe haven't been on great terms since then.",
+      "sourceUnit": "セイバールート二日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, have you made up with my brother?\"\n\"Huh? Yeah, sure. We never fought in the first place, so there's not much call for making up.\"\n\"Well, that may be how you see it, but my brother doesn't see it the same way. He thinks you're still fighting. So...you should be careful.\"",
+      "sourceUnit": "セイバールート二日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nWhat Sakura says strikes me as odd.\n\"Be careful? Of Shinji?\"\n\"Yes. He's angry with you, and I hear he was the very reason why you quit the club.\"",
+      "sourceUnit": "セイバールート二日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji had nothing to do with me quitting. Well, he might've been a factor, but it's nothing that you should worry about. And Shinji's right; this is a little unsightly.\"\nI point at my left shoulder.\nThere's a little scar there.",
+      "sourceUnit": "セイバールート二日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "It happened about a year and a half ago.\nSomething fell on me during one of my jobs, injuring my left shoulder. I ended up with just a broken bone, but I also came away with a burn to my shoulder.",
+      "sourceUnit": "セイバールート二日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "After the accident, I quit the kyudou club.\nOur school's kyudou club, out of respect for formalities, allows students to perform sacred shooting rituals.\nMale students participating in this expose their left shoulder.\nShinji pointed out that it may be disrespectful for someone performing a sacred shot to expose a scar. And since I was getting busy with my various jobs, I decided to quit the club.",
+      "sourceUnit": "セイバールート二日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm, Senpai. I may ask this often, but are you never going to shoot again? Ms. Fujimura even said your injury shouldn't affect your performance.\"\n\"Hah! Fuji-nee would say that even if I'd broken every bone in my body!\"",
+      "sourceUnit": "セイバールート二日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai, I'm being serious.\"\n\"Hm.\"\nI know I should give her a serious answer, but unfortunately I can't give Sakura the answer she's looking for.",
+      "sourceUnit": "セイバールート二日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't have time to do club activities. I like kyudou, but it's not something I should prioritize, so I think I'll give it a rest for a while.\"\n\"How long is 'a while'?\"\n\"However long I feel like. Or, maybe until it's time for you to graduate. I'm looking forward to having you look after me then, Sakura!\"\nI pat Sakura's shoulder.",
+      "sourceUnit": "セイバールート二日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, okay! I'll be waiting when that time comes!\"\nShe nods so violently, it looks like she might drop the plates.",
+      "sourceUnit": "セイバールート二日目-15:page18:1"
+    },
+    "page19": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

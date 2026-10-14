@@ -1,0 +1,136 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0029",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Unlike Shinto, there is no sign of people anywhere in Miyama.\nThere is nobody around after eight at night, and the town is silent and still.",
+      "sourceUnit": "セイバールート二日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The house I saw this morning stands across the intersection.\nThere are no signs of life, and a \"No Trespassing\" sign hangs over the front door.",
+      "sourceUnit": "セイバールート二日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "In just a single day, the house has fallen quiet, almost like an abandoned building.\nA girl and her parents were killed by a burglar.\nI wonder what life awaits now for the single child who survived.",
+      "sourceUnit": "セイバールート二日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI bite my lip, frustrated by my powerlessness.\nI promised I'd be just like Kiritsugu, but I couldn't do anything, even when something like this happens so close to home.\nI want to help people, but I don't even know what I CAN do.",
+      "sourceUnit": "セイバールート二日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "I reach the top of the hill where my house sits.\nThe lights are on, so Fuji-nee or Sakura are still inside.",
+      "sourceUnit": "セイバールート二日目-01:page4:1"
+    },
+    "page5": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"You're home late again. Didn't I tell you to come home earlier since it gets dark so fast in winter?\"\n\"I AM home early. I had work until eight, so get off my back about that.\nSo where's Sakura? I see dinner's already prepared.\"",
+      "sourceUnit": "セイバールート二日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura went home early. She said she had something to do today, so she just came and made dinner.\"\nFuji-nee cheerfully replies.\nAs far as she's concerned, anyone who makes her food is a good person.",
+      "sourceUnit": "セイバールート二日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's probably a good thing for now. It's been dangerous lately, so maybe I'll take over making dinner until the new school term starts.\"\n\"Uh...objection! You come home so late, if you make dinner when you get back, I won't get to eat until after ten!\"",
+      "sourceUnit": "セイバールート二日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, couldn't you just eat at home?\"\n\"What are you talking about? This is my home.\"\nFuji-nee tilts her head, puzzled.\nHonestly, I'm not sure if a response like that should make me happy or sad.",
+      "sourceUnit": "セイバールート二日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Sheesh, fine. I know it's pointless asking you to make dinner.\nBy the way, what's that you've got there? You didn't bring over more junk, did you?\"",
+      "sourceUnit": "セイバールート二日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee has a tendency to leave a bunch of junk here.\nShe'll bring stuff like bowls from restaurants that are too big to be functional, an unnecessarily heavy earthen teapot, or a weird guitar that plays itself. She must think this place is convenient storage or something.",
+      "sourceUnit": "セイバールート二日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Show it to me. I'm going to toss it if it's trash.\"\n\"This thing? It's just a poster.\"\nFuji-nee hands me the poster.\nIt's probably a poster of some no-name singer.",
+      "sourceUnit": "セイバールート二日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's see...\"\nI knew it. It's a poster of a young man wearing a military uniform smiling with his thumbs up, all in front of a cheap-looking blue sky background.\nThe caption on the poster, in bloody font:\n\"Love's Lovely Ranger Land.\nCome to the Self-Defense Meet-Up\"\nHey, this is a recruitment poster for a youth group!",
+      "sourceUnit": "セイバールート二日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't want it, so you can have it.\"\n\"I don't want this either!\"\nI quickly roll the poster back up and try to whack Fuji-nee on the head with it.",
+      "sourceUnit": "セイバールート二日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh heh. You missed!\"\nHowever...\nFuji-nee counters mercilessly with another poster she'd been holding.\nKonk.\nHer poster-sword bops me lightl—",
+      "sourceUnit": "セイバールート二日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Gah!\"\nStars! I see stars!",
+      "sourceUnit": "セイバールート二日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Heh heh heh. You thought you were going to hit me? You'll need to up your game, if you ever hope to do that.\"\n\"Ugh. Th-that's not the issue here! How the hell does a paper poster make a sound like that!?\"\nDid she manage some sort of technique only a true poster master can execute!?",
+      "sourceUnit": "セイバールート二日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Oh sorry, sorry. My poster's a collector's edition, made of fancy plate steel.\nIs your head okay, Shirou?\"\n\"...Fuji-nee. You're going to end up killing someone one of these days.\"",
+      "sourceUnit": "セイバールート二日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh heh heh. If that time ever comes, it'll all be good because you'll sweep in and marry me!\"\n\"Yeah. Not a chance. I'm not marrying a natural born killer.\"",
+      "sourceUnit": "セイバールート二日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What? I don't think I'm that violent.\"\n\"You would be that unaware of your actions.\"\nPray that I survive.\nI'll have to be very careful from now on if I am going to have any hope of avoiding being murdered.",
+      "sourceUnit": "セイバールート二日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Keep talking big. But now I'm hungry, Shirou. I've been waiting for so long, so let's hurry and EAT already.\"\nFuji-nee gets up.\nWhat's up with Fuji-nee? She must be really hungry if she's offering to help...even if it's just help setting the table.",
+      "sourceUnit": "セイバールート二日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. Then you take out the plates and bowls. You can at least scoop the rice into bowls, right?\"\n\"Of course I can. Hey, do you think it'll be okay if I use a bigger rice bowl?\"\n\"That shouldn't be a problem. Sakura's not here today, so we'll definitely have leftovers.\"\n\"Good, good. Then you and I will have matching bowls today.\"\nFuji-nee scoops mounds of rice into the two large bowls.",
+      "sourceUnit": "セイバールート二日目-01:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWhatever. I was going to go for a second helping anyway, and if I meddle in what Fuji-nee does now, we may really not have any dinner.\nBesides...\nThis is the kind of chaotic scene dinner at my home has been for years.",
+      "sourceUnit": "セイバールート二日目-01:page23:1"
+    },
+    "page24": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート二日目-01:page24:1"
+    },
+    "page25": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0345",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It bothers me that there's no response whatsoever, but Tohsaka could be a rare species that sleeps with earplugs in.\n...Well knowing her, she might be sleeping because she stayed up all night for reasons that I can't comprehend, so I guess I can let her be.",
+      "sourceUnit": "凛ルート十一日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... First of all, you can't enter a girl's room without permission, idiot.\"",
+      "sourceUnit": "凛ルート十一日目-09:page1:1"
+    },
+    "page2": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十一日目-09:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

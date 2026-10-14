@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0116",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...go straight home.\nSaber's looking forward to lunch, and I am really not in any position to make a detour. I don't have the time.",
+      "sourceUnit": "セイバールート七日目-19:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "So I make the shrimp balls, one of my specialties.\nIt's not really a proper meal. If anything, it's more like a snack to have with alcohol or something. I learned to make it while working at an izakaya bar.",
+      "sourceUnit": "セイバールート七日目-19:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. This is very hot.\"\nSaber tries to put the fried ball—which is between the size of a golf ball and a tennis ball—into her mouth.",
+      "sourceUnit": "セイバールート七日目-19:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Saber, do you not like hot foods, or do you not like food that looks so crude?\"",
+      "sourceUnit": "セイバールート七日目-19:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No, neither is an issue. The dish being served so hot is interesting, and while the flavoring seems simple, I can still tell care and effort went into its making.\"",
+      "sourceUnit": "セイバールート七日目-19:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah? Well I'm glad you like it.\"\n\"Yes. It is a shame that we cannot share this with Rin and Taiga.\"",
+      "sourceUnit": "セイバールート七日目-19:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Saber continues eating in silence.\nShe's eating more than usual, so I figure she worked up an appetite training this morning.",
+      "sourceUnit": "セイバールート七日目-19:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis may not be very manly, but I really like having people eat food I prepare. All the more so when they say it's delicious.\nI'm a poor excuse for a Master, so if I can do something like this to make Saber happy, I should work harder on my cooking... Huh?",
+      "sourceUnit": "セイバールート七日目-19:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Saber is staring intently at her empty plate.",
+      "sourceUnit": "セイバールート七日目-19:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? If it's not enough, I can make more.\"\n\"Eh...? N-no, I have enjoyed plenty. I-I-I am not saying that I did not have enough...!\"",
+      "sourceUnit": "セイバールート七日目-19:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? Then let's have our after-meal tea. I'll go make it real quick, so wait here.\"\nI pick up the empty plates and head to the kitchen.\nAfter I've put the dirty dishes in the sink, I put the kettle on to get the tea started.",
+      "sourceUnit": "セイバールート七日目-19:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh hey. How about we try a different tea—\"\nI stick my head out from the kitchen.\nBut then I hear something.",
+      "sourceUnit": "セイバールート七日目-19:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is becoming a problem. Shirou's cooking is just too delicious.\nIf he were to stop cooking, I may find my will to fight slipping.\n...I am still too soft. I have experienced this many times in the past, but I had no idea starvation tactics could be so terrifying.\"",
+      "sourceUnit": "セイバールート七日目-19:page12:1"
+    },
+    "page13": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

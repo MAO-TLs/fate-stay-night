@@ -1,0 +1,316 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0190",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sky is gray, the hill crimson with corpses.\nThe heavy clouds drift away, heralding the battle's end.",
+      "sourceUnit": "セイバールート十三日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I know this scene. I've seen it so many times now.\nThis is one of Saber's battles.\nShe fought and won so many victories, scenes like this are almost commonplace for her.\nAfterwards, she will return to her castle, where her victory will be praised and celebrated. Then she will prepare for the next battle.",
+      "sourceUnit": "セイバールート十三日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "This is just...life for her.\nIt is only one of the twelve great battles she fought.\nAnd so she does not truly remember victory, so much as she just accepts it as a fact.\nI think she's misguided.",
+      "sourceUnit": "セイバールート十三日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "This is not a dream.\nIt's just a cold reality... Her past that can't be changed.",
+      "sourceUnit": "セイバールート十三日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The moment she drew the sword, she stopped being human.\nShe took over for her father as a feudal lord, and became a king with many knights.\nShe was known as King Arthur, and Altria. The life of the girl who once aspired to be a knight changed so radically.",
+      "sourceUnit": "セイバールート十三日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "No.\n\"Was forced to end her life as she knew it\" might be a better way to put it.\nIn that instant, the girl who still had such childlike features ceased to be, and became the King of Knights.",
+      "sourceUnit": "セイバールート十三日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "She acted like she was the king's son.\nThe ruler of territories and knights had to be male.\nOnly her father and the mage knew the king was female.\nShe covered herself in iron and hid that truth for the rest of her life.",
+      "sourceUnit": "セイバールート十三日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I don't know why I never realized the implications until now.\nAs much public exposure as she had, she managed to pass herself off as male the whole time.\nThe sheer suffering she likely endured must have been incredible. But a simple observer could never really understand.",
+      "sourceUnit": "セイバールート十三日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...Time passes.\nTen years' worth of memories as king.\nAnd there was only one common thread that entire time...\nEven when she's on the throne...\nEven when she's walking through the hallway...\nEven when she's on the battlefield...\nNot a soul spoke to her.\nEven the Round Table, filled as it was with knights boasting of their valor, always fell silent the moment the king appeared.",
+      "sourceUnit": "セイバールート十三日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "So that's what it meant.\nShe was merely tolerated as an idol.\nMany knights looked down on Altria, with her boyish appearance, and were ultimately not comfortable entrusting her with their blades.",
+      "sourceUnit": "セイバールート十三日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "But because she managed to draw the sacred sword that no one else could, they had to obey, even if only to keep up appearances.\nThey just accepted the disgrace, believed it would pass.",
+      "sourceUnit": "セイバールート十三日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Sacred sword or no, the king was merely a child.\nEven with Merlin's support, the king would surely fail eventually.\nWhen that happens, they need only take the sacred sword from her and select a new king.\nThat's probably what most of the knights thought.",
+      "sourceUnit": "セイバールート十三日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "But that's not how it went.\nThe knight, only just reaching adulthood, was a flawless king.\nShe enforced peace among the squabbling lords, and fought off invaders as well.\nOf course, this wasn't due to the sacred sword's powers.\nThe sacred sword only protects the king.\nThe king, on the other hand, protects their nation.",
+      "sourceUnit": "セイバールート十三日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "And through her deeds she was always able to maintain control of her knights.\nThe sacred sword protects her only from her enemies.\nIt does nothing to help her hold sway over the hearts of her subjects.\nShe worked herself to the bone to be the ideal king to all.",
+      "sourceUnit": "セイバールート十三日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "At that point, the knights had no choice but to obey.\nThey held their dissatisfaction for the young king in check, because the king was truly perfect.\nShe strived to be an ideal king.\nThe only condition for the knights' support was that their king be exactly that: the ideal king.\nThere was no room for Altria to be a human being.",
+      "sourceUnit": "セイバールート十三日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "She could be a king, and only a king.\nThe peerless knight who drew the sacred sword, who stopped aging from that moment, and who went on to win twelve great wars.\nThe more perfect she became, the more people stayed away from her.\nAs this continued, the king grew more and more isolated.\nThat was who she was.",
+      "sourceUnit": "セイバールート十三日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "But she did well.\nIn fact, she did too well.\nShe defeated her enemies and minimized her own side's casualties.\nNo matter the battle, sacrifices must be made.\nSo she believed it was her duty to make sacrifices, to bolster her army, and to defeat the enemy without wasting lives.",
+      "sourceUnit": "セイバールート十三日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "She would strip the resources from one village to prepare her army, then defeat the invaders before they could strike her land, saving perhaps ten villages.\nThat was the king's approach, and it proved the best strategy at the time.",
+      "sourceUnit": "セイバールート十三日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "But the knights must not have been happy.\nTo them, only the foreign invaders should have died, and the only true victory is made without any such sacrifices.\nThere shouldn't be any need to sacrifice a territory before battle.\nThey were going to win regardless, so the sacrifices were pointless.\nThere wouldn't be any sacrifices, so the king's actions were a waste.",
+      "sourceUnit": "セイバールート十三日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "It was, of course, total nonsense.\nOnce battle began, the knights spared not a thought for those little villages. No one thought twice about trampling the villages. Protecting them was never a consideration.\nThe knights claim there's nothing to be done when the enemy destroys such villages. But to let them be destroyed is a great crime.",
+      "sourceUnit": "セイバールート十三日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Obviously she knew that.\nBut a king cannot worry about their personal feelings.\nShe had to kill her emotions to make her decisions, and her knights had to suppress their own feelings to obey.\nAnd so sacrifices are made, and that string of victories stabilizes the nation.",
+      "sourceUnit": "セイバールート十三日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "And in return, animosity for the king grew.\n\"King Arthur just doesn't understand how people feel.\"\nSo one knight was heard to say as they left the castle.\nWhat a ridiculous story.\nShe was expected not to be human, but they hated her precisely because she didn't have human emotions.",
+      "sourceUnit": "セイバールート十三日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "The age of war continued.\nThe animosity of the knights who had been dissatisfied with the king only grew more so after that knight left.\nThey forced her to deal with every foreign and domestic enemy in hopes of pushing her over the edge.",
+      "sourceUnit": "セイバールート十三日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Collapse was imminent.\nIf these many problems confronting the nation were never resolved, it would crumble.\nEven if all of them were to be resolved, what awaits is more of the same.",
+      "sourceUnit": "セイバールート十三日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "But that did not concern the king.\nEven should she be abandoned, feared or betrayed, she will remain steadfast.\nBecause she had long since made up her mind.\nShe abandoned her emotions the moment she decided to draw that sword.",
+      "sourceUnit": "セイバールート十三日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "This happened long, long ago.\nKnights from across the nation gathered to try to draw the sword from the stone.\nBut none of them could do it, and the knights instead showcased their skill on horseback, eager to crown the best among them king.\nThe knights flocked to the arena in droves. The sword in the stone lay outside, forgotten.",
+      "sourceUnit": "セイバールート十三日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "From afar, it looked more like a festival.\nEven in the distance, the sound of valiant cavalrymen clashing is audible.\nThe knights clashed in the distance, and the rock lay forgotten.\nWhat was going through the girl's mind as she stood in front of the rock?\nBefore she realized it, an unknown mage stood behind her.",
+      "sourceUnit": "セイバールート十三日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Think before you take hold of that.\"",
+      "sourceUnit": "セイバールート十三日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "He tries to stop her, for her own good.",
+      "sourceUnit": "セイバールート十三日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"The moment you take that sword, you will cease to be human.\"",
+      "sourceUnit": "セイバールート十三日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "He also warned her that many would hate her, and that she would die a gruesome death.",
+      "sourceUnit": "セイバールート十三日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "She must have been terrified.\nThe mage showed her the future.\nHe showed her the end she would meet if she drew that sword.",
+      "sourceUnit": "セイバールート十三日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"No...\"",
+      "sourceUnit": "セイバールート十三日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "It only made her all the more determined.\nEven after seeing that future, she only gave a firm nod.\nThe mage asked again if that was what she wanted.",
+      "sourceUnit": "セイバールート十三日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"I saw many people smiling.\nSo this cannot be a mistake.\"",
+      "sourceUnit": "セイバールート十三日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "She took the sword in her hand.\nThe mage looked troubled, and turned away.\n\"Miracles come at a price. You will pay with what is most precious to you.\"\nHe departed with those prophetic words.",
+      "sourceUnit": "セイバールート十三日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nShe just wanted to protect everyone.\nBut to do so, she had to abandon her desire to protect people.\nShe cannot protect her country as its king if she still has a human heart.",
+      "sourceUnit": "セイバールート十三日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Even knowing this, she drew the sword.\nEven knowing this, she vowed to live as a king.\nSo no matter what happens, she will remain steadfast.\nShe abandoned her human heart.\nShe was willing to give that up to protect her nation.",
+      "sourceUnit": "セイバールート十三日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Who could have known the girl made such a noble oath?\nShe was determined to fight.\nCome what may, and however might end...\nShe still decided to fight.\nEven if an inevitable, solitary doom awaited her.",
+      "sourceUnit": "セイバールート十三日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "And her end did come.\nThe Battle of Camlann.\nKing Arthur set out on a campaign, and one of her knights usurped her throne, splitting the nation in two...and sparking a terrible conflict.\nLegend has it that this battle brought an end to knighthood and chivalry.",
+      "sourceUnit": "セイバールート十三日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "She killed every knight who once served her, and invaded the land she'd fought to defend.\nAll the knights who followed her were gone, and her own body lay injured and immobile.",
+      "sourceUnit": "セイバールート十三日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "There was no one left around her.\nAs ever, nothing has changed.\nAll she had in her heart was the pride of a king.\nShe'd known about this ending.\nStill, she believed there was something to be gained from this failure, which is why she kept fighting without ever failing or disgracing herself.",
+      "sourceUnit": "セイバールート十三日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "She had not regrets.\nIf she were to have one, it would be seeing her nation in ruin.",
+      "sourceUnit": "セイバールート十三日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "She raised her gaze.\nMaybe she would be able to see her castle in the distance from this hill.\nShe saw only the aftermath of the battle, a dense forest, and a lake to which she must return.",
+      "sourceUnit": "セイバールート十三日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nThe hill she'd meant to charge over has become a wall she can't climb.",
+      "sourceUnit": "セイバールート十三日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Strength left her body.\nFor the first time, she loosened her grip on the sacred sword.",
+      "sourceUnit": "セイバールート十三日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "And that's where it ended.\nIt was only natural that the dream would end here.\nSince there is nothing beyond that moment in her memories.",
+      "sourceUnit": "セイバールート十三日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "And that is why this end cannot be rewritten.\nShe worked so hard, and she was resented, betrayed.\nNobody understood that she loved her people more than her nation. She came to be known as a merciless king.\nShe was never rewarded or understood.\nOn top of the crimson-stained, sword-strewn hill, the girl sat on the edge of death, isolated and betrayed...",
+      "sourceUnit": "セイバールート十三日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "I wake to the sound of rain.\n\"It's morning...\"\nI grip my spinning head and sit up.\nIt's just before six o'clock.\nThe rain patters softly outside.",
+      "sourceUnit": "セイバールート十三日目-03:page48:1"
+    },
+    "page49": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...That dream I just had...\"\nNo, there's no doubt about it.\nIt was Saber's past.\nIt was the end of her life a long, long time ago. Nothing can change it now.",
+      "sourceUnit": "セイバールート十三日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "...\nI grit my teeth.\nI can hear them grinding.\nI don't know why, but I'm so mad.",
+      "sourceUnit": "セイバールート十三日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn. What the hell was that?\"\nJust thinking about it pisses me off.\nHer past...the fact that she didn't think anything of it...me thinking the dream was nothing before...",
+      "sourceUnit": "セイバールート十三日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Arrrgh!\"\nI hate it.\nI don't even understand why, but it's making me angry.",
+      "sourceUnit": "セイバールート十三日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I don't like it.\nI don't like it one damn bit.\nNo matter how you slice it, her life was unfair.\nSo, so unfair.\nShe only wanted to help people. She wanted nothing for herself.\nBut, as hard as she worked, nobody understood her, not even at the very end. That...really pisses me off.\nIt's so unfair...",
+      "sourceUnit": "セイバールート十三日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's right.\nIf she worked harder than anyone, and she doesn't receive any reward, it's all just a bunch of crap.\nShe should be rewarded for everything she's done.",
+      "sourceUnit": "セイバールート十三日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut...\nHow could that happen at this point?\nI...what, just tell her she did a good job?\nDo I tell her how wonderful she was?\nOf course not.\nNothing so simple could do her justice.",
+      "sourceUnit": "セイバールート十三日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. There's only one answer.\"\nThat's right...\nIf she's to be rewarded, the work she devoted her life to should be repaid.\nAltria needs happiness to match all the battles she fought.",
+      "sourceUnit": "セイバールート十三日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "But then, what can I do?\"\nI'm out of ideas.\nI don't have any idea how to make people happy.",
+      "sourceUnit": "セイバールート十三日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "I'm so useless at this kind of thing.\nMy entire life, I've wanted to be a champion of justice, but all I ever did was lend a hand here and there.\nI believed everyone around me would be happy if I just helped people.\nOr rather...\nI couldn't face myself if I didn't believe that.",
+      "sourceUnit": "セイバールート十三日目-03:page59:1"
+    },
+    "page60": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page61": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

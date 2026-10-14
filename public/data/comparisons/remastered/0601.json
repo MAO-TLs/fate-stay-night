@@ -1,0 +1,21 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0601",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"That settles that. I'm coming in.\nCome on, Shirou, take me to a guestroom. I saw a separate guesthouse on the way here. Oh, where do you want to sleep, Illya?\"",
+      "sourceUnit": "桜ルート十日目-21:page0:1"
+    },
+    "page1": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page2": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0074",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I feel the warm glow of the sun.\nI wake up, my head hazy, to the sensation of cold air on my cheek. Must be a draft.",
+      "sourceUnit": "セイバールート五日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? I'm in the shed...\"\nI get up and shake my head two, three times in an effort to wake myself.\n\"Oh right. I just fell asleep like this.\"\nAfter my nightly routine, training to fortify my senses, I must have been too lazy to go back to my room.",
+      "sourceUnit": "セイバールート五日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"From how light it is, it must be just before six. Crap, I need to get breakfast ready.\"\nI fold my blanket up, pick up all the broken shards from my failed strengthening attempts last night, and head back to the house to wash my face.",
+      "sourceUnit": "セイバールート五日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...So cold.\"\nThe moment I step outside the shed, I realize just how chilly it is out.\nMiyama is typically warm even in the winter, but the temps here on the mountainside still get chilly.",
+      "sourceUnit": "セイバールート五日目-00:page3:1"
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "And...\nI wash my face with ice-cold tap water, which finally gets my mind going.",
+      "sourceUnit": "セイバールート五日目-00:page4:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"All right.\"\nI'm completely awake now.\nOnce my mind's woken up, all the things I'd rather not be thinking about—like my current situation—come rushing back.",
+      "sourceUnit": "セイバールート五日目-00:page5:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, right. I don't have time to putter around washing my face.\"\nThe time is five fifty-five.\nThere's a ton to do, but first I need to head back to my room and check on Saber.",
+      "sourceUnit": "セイバールート五日目-00:page6:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...I did leave my room without telling her. I should at least explain myself.\"\nI wouldn't want to upset Saber.\nGoing to the shed in the middle of the night is a ritual for me, so I'm sure she'll understand as long as I explain myself.",
+      "sourceUnit": "セイバールート五日目-00:page7:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Once I talk to Saber, then I should start making breakfast. Tohsaka said she doesn't eat breakfast, so I just need to make extra for Saber.\"\nOh, I should go buy more ingredients now that I'll be cooking for more people. I should write that down before I forget.",
+      "sourceUnit": "セイバールート五日目-00:page8:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm? Forget...?\"\nHuh.\nI have this nagging feeling that I'm forgetting something really important...",
+      "sourceUnit": "セイバールート五日目-00:page9:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh crap. It's already six. I need to hurry or I won't make it.\"\nWell, if I can't remember whatever it is, it's probably not important.",
+      "sourceUnit": "セイバールート五日目-00:page10:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI slowly open the door.\nThe room is just as I left it.\nThere's no sign of Saber waking up in the middle of the night and searching my room.\nIt doesn't seem like she noticed I snuck out.",
+      "sourceUnit": "セイバールート五日目-00:page11:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that's a letdown. I thought Saber would have noticed.\"\nUnless she was just in that deep of a sleep because she requires a lot of rest.",
+      "sourceUnit": "セイバールート五日目-00:page12:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right. Maybe that's what she meant when she said she needs to sleep often.\"\nAnd she's sleeping as close to me as possible so she can rush right over if something does happen.",
+      "sourceUnit": "セイバールート五日目-00:page13:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWhatever the case, it shouldn't make much of a difference as long as I'm in the compound.\nThe Bounded Field would detect any enemy intruders.\nI should be able to defend myself for at least a moment, which should give Saber enough time to get to me.",
+      "sourceUnit": "セイバールート五日目-00:page14:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...and the shed has plenty of places for me to hide.\"\nAnyway, I don't think I'll get scolded for what I did last night.\nI thought I would explain myself to Saber, but that doesn't seem to be necessary now. Besides, I'd hate to wake her up if she's still sleeping.",
+      "sourceUnit": "セイバールート五日目-00:page15:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. I'm going to go prepare breakfast. I'll make some for you too, but you don't need to get up if you're still sleepy.\nI'll come back, so keep resting if you need to.\"\nAfter speaking softly to her, I head out of my room as quietly as I can.",
+      "sourceUnit": "セイバールート五日目-00:page16:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "There's nobody in the living room.\nI open the refrigerator and plan out what I can make for breakfast.",
+      "sourceUnit": "セイバールート五日目-00:page17:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "And then.\n\"Morning. You sure get up early.\"\nTohsaka walks in, looking obviously cranky.",
+      "sourceUnit": "セイバールート五日目-00:page18:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka? What's going on? Did something happen!?\"\n\"Nothing. I'm always like this in the morning. Don't worry about it.\"\nTohsaka staggers through the living room like a drunken ghost.",
+      "sourceUnit": "セイバールート五日目-00:page19:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you okay? Your eyes don't look right.\"\n\"I said don't worry about it. I'll wake up once I wash my face. Um...how do I get to the bathroom again?\"",
+      "sourceUnit": "セイバールート五日目-00:page20:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Take that hallway. If you're just going to wash your face, there's a washroom in the hallway near the entrance.\"\n\"Oh. Right.\"\nI don't know how much she heard, but Tohsaka just waves a hand and walks away.",
+      "sourceUnit": "セイバールート五日目-00:page21:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "And then.\nThe doorbell rings, announcing a guest's arrival.",
+      "sourceUnit": "セイバールート五日目-00:page22:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Someone's here...\"\nI hear Tohsaka's voice from the hallway.\n\"Oh don't worry about it! The only people who ever come at this hour are family!\"\nIt's got to be Sakura.\nShe has a spare key, so I don't need to go to the door.",
+      "sourceUnit": "セイバールート五日目-00:page23:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly. I keep telling Sakura she doesn't need to ring the bell.\"\nSakura's like family, so she can just come in without bothering about the doorbell.\nBut she's always polite enough to ring the doorbell to let me know she's here.\nI think that's one of the good things about Sakura, but one of these days she's going to wear herself out from politeness—",
+      "sourceUnit": "セイバールート五日目-00:page24:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHold on.\nSakura...is here...",
+      "sourceUnit": "セイバールート五日目-00:page25:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"CRAP!!!\"\nI run through the hallway.\nBeing angry at my own stupidity is going to have to wait.\nRight now I need to rush to the entrance and send Sakura home before she runs into Tohsaka...!",
+      "sourceUnit": "セイバールート五日目-00:page26:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...haaah...\"\nBut it's too late.\nAt the entrance...",
+      "sourceUnit": "セイバールート五日目-00:page27:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka is greeting the guest, even though I didn't ask her to, and...\n\"...Eh?\"\nSakura looks surprised.",
+      "sourceUnit": "セイバールート五日目-00:page28:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Sakura stands at the entrance and Tohsaka is in the hallway.\nThe two of them are staring at each other, the air growing tense.",
+      "sourceUnit": "セイバールート五日目-00:page29:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Good morning Miss Matou. Are you surprised to see me here?\"\nTohsaka looms in the doorway, appearing to look down at Sakura.",
+      "sourceUnit": "セイバールート五日目-00:page30:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Miss...Tohsaka.\"\nSakura is utterly bewildered.\nShe looks up at Tohsaka, fear in her eyes.",
+      "sourceUnit": "セイバールート五日目-00:page31:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis is bad.\nI can't manage to get a word out.\nThe two of them ignore me as they continue to stare at each other.\nThere's no room for me to butt in here.",
+      "sourceUnit": "セイバールート五日目-00:page32:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "The only thing I can do right now is try to think how to explain this situation to Sakura, but before I can come up with a good excuse...\n\"Senpai...um, what is the meaning of this...?\"\nSakura looks over to me, almost begging for help.",
+      "sourceUnit": "セイバールート五日目-00:page33:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...yeah. It's kind of a long story...\"\n\"It's not that complicated. I just started living here.\"\nTohsaka's response is extraordinarily blunt.\nShe just cuts me off and gets right to the point.",
+      "sourceUnit": "セイバールート五日目-00:page34:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai...is this true?\"\n\"The short answer is, yes. Things happened, and now Tohsaka's going to be staying here for a while.\nSorry for not telling you this earlier. And sorry you got blindsided first thing in the morning.\"",
+      "sourceUnit": "セイバールート五日目-00:page35:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, please do not apologize. Um, I was certainly surprised, but do not worry about it. But what you said earlier...is that...\"\n\"That's right. This is something Shirou and I agreed on together. The head of the household agreed, so it's pretty much a done deal.\nDo you understand what that means, Miss Matou?\"",
+      "sourceUnit": "セイバールート五日目-00:page36:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Understand what?\"\n\"You seem to have been taking care of Shirou for a while now, but that won't be necessary now. I'd rather you not come here. For your own good.\"",
+      "sourceUnit": "セイバールート五日目-00:page37:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura looks down and falls silent.\nAnd after a chilling silence...\n\"...I do not know.\"",
+      "sourceUnit": "セイバールート五日目-00:page38:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Come again?\"\n\"I said, I do not know what you mean, Miss Tohsaka.\"",
+      "sourceUnit": "セイバールート五日目-00:page39:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wait. Sakura, you...\"\n\"Please excuse me. Senpai, I will be using your kitchen.\"\nSakura bows to me, and walks into the house. She heads towards the living room, heading right past Tohsaka and flatly ignoring her.",
+      "sourceUnit": "セイバールート五日目-00:page40:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!\"\nTohsaka just stands there, aghast.\nI'm no different. I've never seen Sakura act like that, and I don't know what to say.\n...Well, that comes as a surprise, but it isn't the only one.",
+      "sourceUnit": "セイバールート五日目-00:page41:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Tohsaka. How did you know Sakura always came to my house? I never told you she came by to help me out with housework.\"",
+      "sourceUnit": "セイバールート五日目-00:page42:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Oh...well, I just heard rumors. That was just a coincidence.\nWhat's more surprising to me is that she's so energetic and happy here. She's completely different here than when she's at school.\"",
+      "sourceUnit": "セイバールート五日目-00:page43:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka must be really surprised, given how annoyed she sounds.\nWhich means Tohsaka knows Sakura pretty well at school.",
+      "sourceUnit": "セイバールート五日目-00:page44:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Sakura seems to know Tohsaka too, and the two of them appear to have a good senior and underclassmen relationship I was unaware of.\nBut that aside...",
+      "sourceUnit": "セイバールート五日目-00:page45:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Actually I'm surprised too. I've never seen Sakura so snappy before. Sakura is no different here than when she's at school. I'd say what we just saw was out of the ordinary.\"\n\"Huh. Okay. Well that was bad. I didn't know Sakura was so stubborn. If I'd known, I would've made you explain everything to her, Shirou.\"",
+      "sourceUnit": "セイバールート五日目-00:page46:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Obviously.\nCompared to Tohsaka's merciless \"explanation,\" I would have handled that a lot better.",
+      "sourceUnit": "セイバールート五日目-00:page47:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"But what's done is done. And what do you mean, this is bad?\"",
+      "sourceUnit": "セイバールート五日目-00:page48:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course this is bad. This house might turn into a battlefield. I was harsh with Sakura to try and drive her from the house so innocent people like her won't get caught up in this war. Now it's going to be a lot harder to get her out of here.\"\n\"That was you being harsh? I thought you were just bullying her.\"",
+      "sourceUnit": "セイバールート五日目-00:page49:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey! Is that slander I hear!?\"\n\"I was just being honest. But what should we do about Sakura? At this point, she's not going to leave easily.\"",
+      "sourceUnit": "セイバールート五日目-00:page50:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, we have to do something. So, does Sakura only come for breakfast? Or do you force her to come for dinner too?\"\n\"Stop trying to make it sound bad. Yes, she comes every morning, but not as often for dinner.\"",
+      "sourceUnit": "セイバールート五日目-00:page51:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Now she's going to want to come every night.\"\n\"Huh? Every night? For what?\"\nAs I tilt my head in confusion, Tohsaka sighs in disbelief.",
+      "sourceUnit": "セイバールート五日目-00:page52:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "Soon after...\nTohsaka remains in the living room, while Sakura begins preparing breakfast in silence.\nI was a little worried about leaving Tohsaka and Sakura alone in the same room, but I'm not stupid enough to forget about Saber.",
+      "sourceUnit": "セイバールート五日目-00:page53:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "It seems like Sakura is mad about Tohsaka being here, so things will just get worse if Saber comes out too.\nWhich is why I decide to explain the situation to Saber.",
+      "sourceUnit": "セイバールート五日目-00:page54:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...So there you have it.\nSakura...oh, the girl who's here is named Sakura...but she's an ordinary girl, not a mage or anything, so we can't have her getting dragged into the Holy Grail War. If possible, I'd like her to stay away from the house for a while without ever knowing why...\"\nWhat the hell!? I didn't come here to consult her on how to get Sakura away from here!",
+      "sourceUnit": "セイバールート五日目-00:page55:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, Sakura's acting real strange this morning.\nTohsaka's the reason, but I don't want to upset her even more. Well, you see...Sakura's surprised because some stranger's here, so she'll get even angrier if she sees you here... Err...am I being rude or something, Saber?\"",
+      "sourceUnit": "セイバールート五日目-00:page56:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Not at all. I understand what you are trying to say, Shirou. You want me to wait here, correct?\"\n\"Yeah! I'd really appreciate that! I'll come back for your right after I see Sakura off, so you can eat breakfast then.\"\nSaber nods quietly.\nI'm so glad Saber is so understanding.",
+      "sourceUnit": "セイバールート五日目-00:page57:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Okay.\nI'm worried about what's happening in the living room, so I should hurry back.\n\"...Shirou.\"\n\"Hm? What's up, Saber?\"",
+      "sourceUnit": "セイバールート五日目-00:page58:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"You have no obligation to explain yourself in situations like this, but you should calm down a bit. Your words and behavior are noticeably...disordered.\"\n\"Eh? Am I panicked?\"",
+      "sourceUnit": "セイバールート五日目-00:page59:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, you are. If you intend to return to the living room, I suggest you calm yourself before you do so.\"\nSaber's advice is given in her usual tone.",
+      "sourceUnit": "セイバールート五日目-00:page60:1",
+      "recoveredDelimitedTail": true
+    },
+    "page62": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

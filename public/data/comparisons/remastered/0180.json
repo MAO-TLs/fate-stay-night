@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0180",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Illya's here too, so let's have lunch early today.\"\nI agree to Saber's suggestion, and lower my shinai.\nAnd then...\nSaber's shoulders sag in relief.",
+      "sourceUnit": "セイバールート十二日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "What's really going on?\nShe's acting so weird.\nMaybe I should at least ask why.",
+      "sourceUnit": "セイバールート十二日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What a relief. Then let us all head to the living room.\nShirou's cooking is delicious, but takes a while to prepare.\"",
+      "sourceUnit": "セイバールート十二日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Do you think the time I spend working on lunch is wasted time?\nI guess I should have made bento for lunch every day. That would've been much easier and less time-consuming. And I wouldn't have to be in the kitchen every time, either.\"\nI put all that work into lunch as a way of thanking her, but if Saber doesn't like me spending so much time on that, so be it.",
+      "sourceUnit": "セイバールート十二日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...? What are you doing? Let us head to the living room.\"\n\"What? Oh, yeah... Lunch, right?\"\nI lean my shinai against the wall and set three cushions on the floor.",
+      "sourceUnit": "セイバールート十二日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, lunch! We will be taking a break afterwards, but we will have a problem if you don't head to the kitchen right away!\"\n\"Why? We don't need to go back to the living room, and we don't need to rush. What would be the problem?\"",
+      "sourceUnit": "セイバールート十二日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...\"\nSaber stops so suddenly, I can practically hear gears grinding.",
+      "sourceUnit": "セイバールート十二日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"And how come today, of all days, you're so insistent about stopping on time?\nWhat's got you in such a hurry?\"\n\"N-no. It's not that I'm in a rush, but...\"",
+      "sourceUnit": "セイバールート十二日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Then we can enjoy a nice, leisurely lunch since we have time.\"\n\"Um...well, that may be true, but...\"",
+      "sourceUnit": "セイバールート十二日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"A-anyway, w-we must move to the living room! If we do not eat lunch, it will affect our afternoon training!\"\n\"And I said I already prepared it. If you've got the time, then you can go to the living room and bring back the bento I made this morning!\"",
+      "sourceUnit": "セイバールート十二日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Bento...?\"\nI nod as I open the windows to let in the cool air.\nAnd then...\n...our stomachs growl, signaling that we're both hungry.",
+      "sourceUnit": "セイバールート十二日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh right. We always let out stomachs growling be our meal alarm. No wonder it seemed weird.\"\nI turn to Saber.",
+      "sourceUnit": "セイバールート十二日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What's wrong, Saber? Did opening the window make it too cold?\"\nWe should at least ventilate the room since we're eating here, though.",
+      "sourceUnit": "セイバールート十二日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no! It is nothing! D-did you say lunch is in the living room?\"\nSaber dashes out of the dojo.",
+      "sourceUnit": "セイバールート十二日目-05:page13:1"
+    },
+    "page14": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,877 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0048",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says this as she turns to look at Saber.",
+      "sourceUnit": "凛ルート三日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So, from what I hear from Emiya here, you must not be in your full form, Saber. You were summoned by a mage apprentice that has no idea of how to be a Master.\"",
+      "sourceUnit": "凛ルート三日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yes. Just as you say, I am not in my best form.\nSince Shirou has no magical energy to give me form, it will be difficult to return to spirit form or restore my magical energy.\"",
+      "sourceUnit": "凛ルート三日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm surprised. I mean, I'm surprised it's that bad, but I'm even more surprised you would be so open with me. I was even thinking about how I can try to find out your weaknesses.\"",
+      "sourceUnit": "凛ルート三日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I do not wish for others to know my weakness, but I do not think I can fool you. It would be meaningless to hide our situation from you.\nIn that case, it's better for you to know, so Shirou can better understand the current situation.\"",
+      "sourceUnit": "凛ルート三日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. And you're real nice too, too... Ugh, this really sucks! If I was your Master, I would have definitely won!\"\nTohsaka clenches her fists in frustration.",
+      "sourceUnit": "凛ルート三日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. Are you saying that I'm not fit to be her Master?\"\n\"That's right. You're useless.\"\nWow. Said the quiet part out loud without hesitation. Heartless.",
+      "sourceUnit": "凛ルート三日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Still have questions?\"\nShe doesn't even realize it, either.\nThe model student impression that I had of her from school is crumbling apart.\n...Issei really knows what's up. Tohsaka really is a demon underneath it all.",
+      "sourceUnit": "凛ルート三日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, then. Now that we're done talking, let's get going.\"\nAnd...\nTohsaka suddenly says something that doesn't make sense.",
+      "sourceUnit": "凛ルート三日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Go where?\"\n\"To go see someone that knows a lot about this Holy Grail War that you've been dragged into. Emiya, you want to know the reason behind the war, right?\"",
+      "sourceUnit": "凛ルート三日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course. But, where is that? It's already late, so we shouldn't go that far.\"\n\"It'll be fine. It's over in Shinto, so we can make it back by dawn if we hurry. And besides, tomorrow is Sunday, so staying out late shouldn't be a problem.\"",
+      "sourceUnit": "凛ルート三日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not really worried about that.\"\nI'm just tired from everything that happened today, so I want to rest and organize my thoughts.",
+      "sourceUnit": "凛ルート三日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What, you're not going? If you say so. What about you, Saber?\"\nTohsaka asks Saber her opinion for some reason.\n\"Hold on, Saber has nothing to do with this. Don't pressure her.\"",
+      "sourceUnit": "凛ルート三日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, so you already have the self-awareness as a Master? Do you not want me talking to Saber?\"\n\"T-that's not it! It's just that if what you're saying is true, then Saber is a hero from the past, right? She wouldn't know how to get around in this day and age.\nThat's why—\"",
+      "sourceUnit": "凛ルート三日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, that is incorrect. As long as it is the human world, I can adjust to any era. I am already familiar with this time period.\"\n\"Wait... Really?\"\n\"Yes. This is also not the first time I have been summoned in this era.\"",
+      "sourceUnit": "凛ルート三日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—\"\n\"No way, what are the chances...!?\"\nOh, Tohsaka is surprised, too.\n...So what Saber is saying must be truly incredible.",
+      "sourceUnit": "凛ルート三日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I agree with her. You lack knowledge as a Master. As a Servant who made a contract with you, I need you to become stronger.\"\nSaber looks at me silently.\n...Her gaze was gentle, as if to say that she was worried not for herself, but for me.",
+      "sourceUnit": "凛ルート三日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. I'll go, then.\nSo, where is that place, Tohsaka? It's somewhere close enough where we can get back, right?\"\n\"Of course. The destination is Kotomine's church in Shinto. That's where the fake priest who is overseeing this battle is located.\"",
+      "sourceUnit": "凛ルート三日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka makes a devious smile.\nIt looks like she's having fun having me wrapped around her finger.\n\"...\"\nCall me crazy, but...\nI feel like something is wrong with her personality...",
+      "sourceUnit": "凛ルート三日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "We make our way through town at night.\nIt's past 1 AM in the morning and there is absolutely nobody out.\nThe lights from the houses are off, leaving only the street lights to illuminate the quiet town.",
+      "sourceUnit": "凛ルート三日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. This may be a silly question, but are you planning on walking the entire way?\"\n\"Yeah. The trains and buses have stopped running. A nighttime walk is good every now and then, no?\"\n\"I see. Just wondering, but do you know how long it takes to get there?\"\n\"Let's see, it should take an hour by foot. Well, if it gets late, we can always take a taxi.\"",
+      "sourceUnit": "凛ルート三日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not gonna waste that kind of money. Anyway, what I'm trying to say is that it's dangerous for a girl to be out at night. You know how it's been recently. If something happens, I may not be able to do anything about it.\"\n\"Don't worry, no one's gonna mess with us. You seem to have forgotten, but Saber is really strong.\"",
+      "sourceUnit": "凛ルート三日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nThat's right.\nEven if someone at random attacked us, they wouldn't know what hit them in return.",
+      "sourceUnit": "凛ルート三日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin, what did Shirou mean? I could not understand.\"\n\"Huh? Eh, it's nothing, he's just being stupid. He was suggesting if some pervert or something showed up he'd step in.\"",
+      "sourceUnit": "凛ルート三日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Shirou is my Master. It should be the other way around.\"\n\"He isn't thinking about that sort of thing. Like he doesn't care about mages or Servants or anything. There's definitely some screws loose in there.\"\n\"...\"",
+      "sourceUnit": "凛ルート三日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka and Saber seem to now know each other well enough to talk to one another.\nSaber has been quiet ever since I stopped her from going out dressed as-is.",
+      "sourceUnit": "凛ルート三日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "She became even more silent ever since I made her wear a rain coat, since she refused to take off her armor.\nNow she's following behind me and only talking with Tohsaka.",
+      "sourceUnit": "凛ルート三日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait, where are you going, Emiya? Isn't that the wrong way?\"\n\"We just have to get to the bridge, right? It's faster this way.\"\nIt feels awkward walking all bunched up together, so I quickly made my way to the side street ahead.\nThey're both following me without complaint.",
+      "sourceUnit": "凛ルート三日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "We come out to a park by the riverside.\nWe have to cross that bridge to go to the neighboring town, Shinto, but...",
+      "sourceUnit": "凛ルート三日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh, I didn't know there was a path here. I see... So since we can also get to the bridge from the park, we can just head for the park.\"\nTohsaka's voice is full of energy as she looks up at the bridge.",
+      "sourceUnit": "凛ルート三日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Maybe it's just because we're at a park at night.\nTohsaka's profile as she peers up at the bridge looks even more beautiful than when I see her at school. I've sure got it bad.",
+      "sourceUnit": "凛ルート三日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. We didn't come here to play around.\"\nI hurry her along and lead her to the stairs.\nIf we take the walkway next to the bridge, then we can get straight to Shinto.",
+      "sourceUnit": "凛ルート三日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Nobody's on the bridge.\nIt's not particularly busy even during the day though, so it's to be expected.\nPeople usually commute by bus or train, so foot traffic is pretty rare.",
+      "sourceUnit": "凛ルート三日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "It's long enough and seems unsupported such that there's probably a fear of collapse that plays into that.\nI'd guess that's why nobody uses it even on dates, despite being the perfect view.",
+      "sourceUnit": "凛ルート三日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's stupid. What am I thinking?\"\nTohsaka keeps next to me while Saber follows behind us silently.\nI try to ignore them as I hurry across the bridge.",
+      "sourceUnit": "凛ルート三日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "After crossing the bridge, Tohsaka guides us into the suburbs.\nWhen I think of Shinto, what comes to mind is the always-under construction office buildings. But beyond the station, the streets of yesteryear remain.",
+      "sourceUnit": "凛ルート三日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "Within that, the suburbs are the oldest of them all.\nThere are gradual slopes and a view overlooking the ocean.\nAs we go farther up the hill, there are fewer and fewer buildings, and the foreigner cemetery built on the slope comes into view.",
+      "sourceUnit": "凛ルート三日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"The church is up here. You must have been here at least once, right?\"\n\"No, I haven't. I know that it used to be an orphanage, though.\"\n\"I see, it'll be your first time here. In that case, you should brace yourself a bit. The priest here is real difficult.\"",
+      "sourceUnit": "凛ルート三日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka starts up the hill.\n...I look up and see what looks like a cross cresting the hill.\nA church atop a hill.\nI never thought I would end up visiting God's house for the first time over something like this.",
+      "sourceUnit": "凛ルート三日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Woah, this is amazing.\"\nThe church is rather impressive.\nThe grounds seems to cover most of the hilltop, as I am welcomed by a flat and open space.\nThe church itself is not particularly big, but it is overpowering in the way it seems to tower over visitors.",
+      "sourceUnit": "凛ルート三日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, I will stay here.\"\n\"Huh? Why? I can't just leave you here after coming all this way.\"",
+      "sourceUnit": "凛ルート三日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I did not come for anything from the church. I came to protect you. If this is your destination, then I trust you will not stray far. I shall wait here for your return.\"\nSaber says clearly.\nIt doesn't seem like she's going to budge on this, so I'll just have to respect her decision.",
+      "sourceUnit": "凛ルート三日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll be right back.\"\n\"Yes. But please be on guard no matter who it is, Master.\"",
+      "sourceUnit": "凛ルート三日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "It is a spacious, solemn chapel.\nWith this many seats, there must be quite a few attendees during service.\nThe priest must be distinguished to be entrusted with a church like this.",
+      "sourceUnit": "凛ルート三日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, what kind of person is the priest here?\"\n\"That's hard to explain. I've known him for about a decade, but I still don't quite get him.\"\n\"You've known him ten years...? That's quite a long relationship. Is he a relative of yours or something?\"",
+      "sourceUnit": "凛ルート三日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Not a relative, but my guardian. Not to mention he's also my senior as an apprentice and second instructor.\"\n\"Huh... Senior apprentice, you mean as a mage!?\"",
+      "sourceUnit": "凛ルート三日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Why are you so surprised?\"\n\"But he's a priest right!? It's a taboo for a priest to be using magecraft!\"\nMages and the Church should be mutually exclusive.",
+      "sourceUnit": "凛ルート三日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "The large organization that mages belong to is called the Mage's Association,\nand behind the world's largest religion, the side of Christianity that you wouldn't see if you're living a normal life, is an organization that is ostensibly called the Holy Church.\nThese two seem similar yet different. They cooperate together on the surface, but they have a dangerous relationship where they're always trying to kill each other when given the chance.",
+      "sourceUnit": "凛ルート三日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "The Church hates heretics.\nThey eliminate the inhuman, which includes those who use magecraft.\nFor the Church, miracles are only granted to and utilized by saints.\nAny others who perform miracles are all heretics.",
+      "sourceUnit": "凛ルート三日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "There are no exceptions, whether they belong to the Church or not.\nAlso, the higher the position, the more forbidden it is to use the impurity of magecraft.\nIt goes without saying that for a true believer, the stronger the divine protection, the farther one stays away from magecraft, but...",
+      "sourceUnit": "凛ルート三日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...First of all, is the priest one of your kind?\"\n\"Yes. He's the Overseer of the Holy Grail War, after all; an active Executor dispatched by the Church. Well, it's questionable whether he has divine protection or not, though.\"",
+      "sourceUnit": "凛ルート三日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka walks towards the altar.\nIt's bad manners to do that without the priest present, but it's so late at night.\nI can't imagine he'd be in the chapel. If he's anywhere it'd be somewhere in the back.",
+      "sourceUnit": "凛ルート三日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. So, what is that priest's name? You were saying something like Kotomine before.\"\nI ask, following after her.\nShe comes to stand before the altar and turns to me with a conflicted expression.",
+      "sourceUnit": "凛ルート三日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"His name is Kirei Kotomine. He was my father's student, and I suppose he's been an important person in my life. But, well, if I had a choice, I'd have never met him.\"\n\"I feel the same way. I would not have wanted an apprentice who does not respect her instructor.\"",
+      "sourceUnit": "凛ルート三日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "I hear footsteps.\nHe appears from somewhere behind the altar, slowly making his way over. He must have heard us come in.",
+      "sourceUnit": "凛ルート三日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"You didn't answer my repeated calls, and now you've brought a strange guest. Hmm, so he's the seventh one, Rin?\"",
+      "sourceUnit": "凛ルート三日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. He's a mage, but he's a complete amateur, so I couldn't leave him be.\n...I believe that the rule was to report here when one becomes a Master, right? You guys made that all up, but in this case I'll play along.\"",
+      "sourceUnit": "凛ルート三日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"That is sufficient. I see, I must be thanking this young man.\"\nThe priest called Kotomine slowly turns to me.",
+      "sourceUnit": "凛ルート三日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Without realizing, I take a step back.\n...There's no reason for me to be scared.\n...It's not like feel any hostility from this man, either.\nYet, he still had this intimidating presence that makes it feel like lead weights were just heaved onto my shoulders.",
+      "sourceUnit": "凛ルート三日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"My name is Kirei Kotomine, the one who is in charge of this church.\nWhat is your name, seventh Master?\"\n\"...Shirou Emiya. Though I haven't agreed to this 'Master' thing yet.\"\nI glare at the priest, trying to match his intensity.",
+      "sourceUnit": "凛ルート三日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...Emiya.\"\n\"Huh...?\"\nThe weight I'm feeling changes to a chill.\nThe priest smiles silently, as if he's come across something pleasant.\nThat smile...\nI can't think of anything that would compare—",
+      "sourceUnit": "凛ルート三日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Thank you for bringing Rin here, Emiya. If it were not for you, she would have never come.\"\nThe priest walks towards the altar.\nTohsaka steps away from the altar with a bored expression and moves to stand next to me.",
+      "sourceUnit": "凛ルート三日目-10:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Let us begin, then. Shirou Emiya, you are Saber's Master, correct?\"\n\"That's wrong. Yes, I made a contract with Saber. But I don't know anything about Masters or the Holy Grail War or anything.\nIf Masters are supposed to be established mages, then you should choose another Master.\"",
+      "sourceUnit": "凛ルート三日目-10:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see, this is serious. Does he really not know anything, Rin?\"\n\"I told you he's an amateur. Teach him right from step one. You're good at that, right?\"\nTohsaka urges the priest unenthusiastically.",
+      "sourceUnit": "凛ルート三日目-10:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah. I see, I see. So, that's what this is all about.\nVery well. This is the first time you've so willingly come to me.\"\nI can't thank you enough, Shirou Emiya.\"\nFather Kotomine laughs.\nTheir conversation is making me uneasy.",
+      "sourceUnit": "凛ルート三日目-10:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"First of all, let me correct your misunderstandings.\nYou see, Shirou Emiya, the role of the Master is not something that you can give to another person, nor is it something that you can forfeit once you have been chosen.\nNo matter who they are, those who have a Command Spell on their arm cannot quit. You must first accept that fact.\"",
+      "sourceUnit": "凛ルート三日目-10:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"...Why can't I quit?\"\n\"Command Spells are sacred marks. Being a Master is a trial blessed to you. It's not something that you can give up just because it is inconvenient.\nYou won't be liberated from that pain until you get the Holy Grail.\"",
+      "sourceUnit": "凛ルート三日目-10:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"If you wish to retire from being Master, then you have no other choice but to win the Holy Grail and fulfill your wish. If that happens, then everything will go back to normal, Shirou Emiya.\nYour every desire, even the cleansing of your soul from the filth of this world, is possible... That's right, one could start everything over from the beginning.\"",
+      "sourceUnit": "凛ルート三日目-10:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "As such, you should find your wish.\nIf that time comes, you will be thankful for the luck that made you a Master. If you want to erase the unseen that has scorched your heart, all you have to do is accept the holy mark.\"",
+      "sourceUnit": "凛ルート三日目-10:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nI feel dizzy.\nThe priest's words don't make any sense.\nThe more I hear, the more I get confused.\n...But still, his words seem to soak into my chest and clot like blood...",
+      "sourceUnit": "凛ルート三日目-10:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Kirei, don't go off topic. I asked you to explain the rules to him. No one asked for you to open old wounds.\"\nA voice interrupts the priest's words.\n\"...T-Tohsaka?\"\nThat clears my head.",
+      "sourceUnit": "凛ルート三日目-10:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. It may be pointless to explain such things to this kind of person, but I thought I could still clear his conscience of moral compunctions while he still misunderstood.\n...Hmm, perhaps it is true that such pity is unbecoming. My apologies, it seems I am enjoying myself too much.\"\n\"What, does it do any good for you to help him?\"",
+      "sourceUnit": "凛ルート三日目-10:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Absolutely. Helping others leads to one's own salvation. Though, I suppose at this point there is no reason to try and explain it to you.\nBack to the original topic, Shirou Emiya.\nThe battle that you have been dragged into is called the 'Holy Grail War.'\nHave you heard from Rin already that this is a free-for-all between seven Masters using seven Servants?\"",
+      "sourceUnit": "凛ルート三日目-10:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"...I heard. Seven Masters killing each other is ridiculous.\"\n\"Indeed. However, we do not wish such atrocities to be carried out.\nIt is all a ritual to determine who is the most suitable to receive the Holy Grail.\nDue to its importance, it is necessary to conduct several trials to determine the owner.\"",
+      "sourceUnit": "凛ルート三日目-10:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...Trials my ass.\nIf I squint I might be able to see it like that, but for sure this priest doesn't think of it as a trial.",
+      "sourceUnit": "凛ルート三日目-10:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. You've been repeating 'Holy Grail' over and over again, but what even is that? You can't possibly mean that it's actually that Holy Grail, right?\"",
+      "sourceUnit": "凛ルート三日目-10:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "The Holy Grail.\nA chalice that is said to have received the blood of Christ.\nIt's considered to be one of the most sacred of relics and is said to be capable of many miracles.",
+      "sourceUnit": "凛ルート三日目-10:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "The most well known legend is that the one who obtains the Holy Grail will obtain the world.\n...But that's just a myth. It's something that exists mostly in theory or belief, but not in actual practice.",
+      "sourceUnit": "凛ルート三日目-10:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "It is true that an object called the Holy Grail, which makes wishes come true, appears in legends and folklore all over the world.\nBut that's the extent of it.\nEven if it did exist, the Holy Grail is an imaginary power impossible to replicate.",
+      "sourceUnit": "凛ルート三日目-10:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"So answer me, Kirei Kotomine. Is the Holy Grail that you talk about the real deal?\"\n\"Of course. The Holy Grail that manifests in this town is real. As proof, miracles that cannot be explained by logic, such as Servants, have occurred.",
+      "sourceUnit": "凛ルート三日目-10:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "Summoning Heroic Spirits from the past for use in battle. No, this miracle, infinitesimally close to resurrection, can be called True Magic.\nThe Holy Grail holds such dominion and grants its bearer infinite power. Things like the authenticity of the object are worthless before that truth.\"",
+      "sourceUnit": "凛ルート三日目-10:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "...\nIn other words...\nHe means that even if it's a fake, the authenticity of it would not be questioned if it has more power than the real thing.",
+      "sourceUnit": "凛ルート三日目-10:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. Let's assume there really is a Holy Grail. Why does there have to be a Holy Grail War? If there's a grail, they don't have to kill each other. If it's something so great, everyone can share it.\"\n\"That is a valid stance, but we do not have such freedom.\nThere can only be one that can obtain the Holy Grail.\nIt is not something that we decided, but what the Holy Grail decided.\"",
+      "sourceUnit": "凛ルート三日目-10:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"Choosing the seven Masters and summoning the seven Servants are all things that the Holy Grail does.\nI told you that this is a ritual. The Holy Grail designates those that are suitable to receive it and selects only one person to be the owner by making them fight for it.\nThat is the Holy Grail War. A ritual of spiritual evocation where those chosen by the grail slay one another to obtain it.\"",
+      "sourceUnit": "凛ルート三日目-10:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe priest says it all matter-of-factly.\nI find myself without an argument as I look down at my left hand.\n...There is the mark that they call the Command Spell.\nThe priest is trying to say that as long as I have this mark, I can't quit being a Master.",
+      "sourceUnit": "凛ルート三日目-10:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not convinced. Even if you can only choose one person, I don't like the idea of having to kill the other Masters.\"\n\"Huh? Hold on. You misunderstand. There's no need to kill the other Masters.\"\nTohsaka taps on my shoulder and blows the argument wide open again.",
+      "sourceUnit": "凛ルート三日目-10:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"What? But you said we have to kill each other. Kotomine said so too.\"\n\"You do have to kill each other.\"\n\"You be quiet, Kirei. Look, the Holy Grail in this town is in spirit form. Since it doesn't exist physically yet, you have to summon it. That's the ritual: we're materializing it.\"",
+      "sourceUnit": "凛ルート三日目-10:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"So mages can summon the grail, but since it's in spirit form, we can't touch it. Do you understand what this means?\"\n\"I understand. Only spirits can touch other spirits, right?\"\n...Oh, that's why we need Servants!\"",
+      "sourceUnit": "凛ルート三日目-10:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. The Holy Grail War is something where you eliminate all the other Servants other than your own. So there's no rule saying that you must kill the Masters.\"",
+      "sourceUnit": "凛ルート三日目-10:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "...\nMan, she could've told me that sooner!\nGeez, Tohsaka and this priest sure love torturing people.\n...Anyways, that's a relief.\nSo even if I participate in the Holy Grail War, Tohsaka's not going to die.",
+      "sourceUnit": "凛ルート三日目-10:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"I see, I suppose that is another way to consider it.\nThen let me ask you, Shirou Emiya. Do you think you can defeat your own Servant?\"",
+      "sourceUnit": "凛ルート三日目-10:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nDefeat Saber?\nThat's impossible.\nMagecraft doesn't work on her, and she's an incredibly powerful swordswoman.",
+      "sourceUnit": "凛ルート三日目-10:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Then let me pose something else. It is absurd, but I must ask: do you think you are superior to your Servant?\"\n\"?\"\nWhat is this guy saying?\nI can't defeat Saber, so there's no way that I can be superior to her.\nNo matter how you phrase it, the answer is still that I'm weaker than my Serva—",
+      "sourceUnit": "凛ルート三日目-10:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\n\"That is right. Servants are hard to defeat even with another Servant. Then, what would you do?\nSee, it's a simple solution. Servants cannot exist without their Master. No matter how powerful the Servant may be, they will cease to exist if their Master is defeated. If so...\"",
+      "sourceUnit": "凛ルート三日目-10:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, it's a natural solution.\nYou wouldn't pick the hard route.\nIn order to win, the most effective way to kill the Servant would be to kill the Master, not the Servant...",
+      "sourceUnit": "凛ルート三日目-10:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay, I understand that in order to eliminate the Servant, defeating the Master is faster.\nBut then, if a Servant is defeated first, would their Master not be a Master anymore? Only Servants can touch the Holy Grail, right? Then, Masters who lost their Servant wouldn't have any worth anymore.\"",
+      "sourceUnit": "凛ルート三日目-10:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"No, as long as they have Command Spells, their rights as a Master and the ability to form a contract remains. As long as they have the mark, they're free to contract with any other Servant.\"",
+      "sourceUnit": "凛ルート三日目-10:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"A Servant who loses their Master does not necessarily disappear right away. They stay in this world until all of the magical energy in their body runs out. If they meet a Master who is bereft of a Servant, they can form another contract, and make a return to the battlefield.\nThat is why Masters kill other Masters. If you allow them to live, there is a possibility they become a future hindrance.\"",
+      "sourceUnit": "凛ルート三日目-10:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then what if you use up your Command Spells? Then you can't form a contract with other Servants, and freed Servants can go off with other Masters too.\"\n\"Wait, that's...\"\n\"Yes, that is correct. If you use up your Command Spells, then you will be liberated from all duties as a Master.\"",
+      "sourceUnit": "凛ルート三日目-10:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"...Although, I cannot imagine that there would be mage that would waste a Command Spell that allows them to use such powerful magecraft.\nIf there was, they would be an amateur or a coward.\"\nThe priest laughs, as if he can see right through me.",
+      "sourceUnit": "凛ルート三日目-10:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHe's getting on my nerves.\nThat priest is making fun of me. He clearly wants to get a rise out of me.",
+      "sourceUnit": "凛ルート三日目-10:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"Is everything clear? If so, I have finished covering the rules.\nNow, let us return to the beginning, Shirou Emiya.\nYou said you have no intention of being Master, but is that still true?\"",
+      "sourceUnit": "凛ルート三日目-10:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"If you wish to quit, then so be it.\nAs you have said, you may use up your Command Spells and terminate your contract with Saber. I would then guarantee your safety until the Holy Grail War ends.\"",
+      "sourceUnit": "凛ルート三日目-10:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Wait, why do you have to guarantee my safety? I can protect myself.\"\n\"I do not have the luxury of time to care for you either, but this is also a rule.\nMy orders are to supervise this occurrence of the Holy Grail War.\nIt is part of my duty to keep the casualties from the Holy Grail War to a minimum.\nProtecting mages who are no longer Masters are my top priority as Overseer.\"",
+      "sourceUnit": "凛ルート三日目-10:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"'This occurrence of the Holy Grail War'...?\"\nHold on.\nThat means...this has happened more than once?",
+      "sourceUnit": "凛ルート三日目-10:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean? The Holy Grail War didn't just start now?\"",
+      "sourceUnit": "凛ルート三日目-10:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. Do you believe that an overseer would be dispatched if so?\nIt is the duty of this church to recover holy relics, as we are part of the lowest-ranked special agencies. Originally, our purpose was to research and recover the True Cross, but here, our duty is to assess the Holy Grail.\nWe are to investigate the 726th Holy Grail that has been observed in this far eastern land. We must recover it if it is real, and invalidate it if it is not.\"",
+      "sourceUnit": "凛ルート三日目-10:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"726th... That many Holy Grails?\"\n\"Who knows? Insofar we understand, there are at least so many similar objects.\"",
+      "sourceUnit": "凛ルート三日目-10:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"And one of those is the grail from the Holy Grail War observed in this town.\nAccording to our records, it is said that the first battle was two hundred years ago.\nSince then, the battle among the Masters have been repeating in a cycle of fifty years.\nThis is the fifth time for this Holy Grail War. Since the last one was ten years ago, this has been the shortest cycle yet.\"",
+      "sourceUnit": "凛ルート三日目-10:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—Are you guys insane? You've had this kind of thing happen four times already...!?\"\n\"I couldn't agree more. Just as you say, this has happened far too many times already.\nYes.\nIn the past, the Holy Grail Wars have all been brutal, fatally. The Masters were driven by their desires, forgetting what they had been taught as mages, and murdered one another wholesale.\"",
+      "sourceUnit": "凛ルート三日目-10:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "\"I am sure that you are aware, the worst crime for mages is to use magecraft in public. Mages are not supposed to reveal their identity to the public.\nHowever, past Masters have violated that.\nThe Mage's Association dispatched third party overseers to maintain order, but they only started from the third Holy Grail War. The one who was dispatched that time was my father. Do you understand, boy?\"",
+      "sourceUnit": "凛ルート三日目-10:page110:1"
+    },
+    "page111": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I get why these overseers are necessary.\nBut based on what you said just now, these Holy Grail Wars are just evil at their core.\n\"Oh? How are they so evil?\"",
+      "sourceUnit": "凛ルート三日目-10:page111:1"
+    },
+    "page112": {
+      "status": "exact_japanese_text",
+      "text": "\"The past Masters were mages who would break the rules, right?\nOkay, so assuming the Holy Grail is real. What if the one who wins is selfish and would only use it for their own interests? It would be bad if it was given to someone who has no problem killing others.\nIf the Mage's Association is responsible for mages, shouldn't you be punishing those kinds of people?\"",
+      "sourceUnit": "凛ルート三日目-10:page112:1"
+    },
+    "page113": {
+      "status": "exact_japanese_text",
+      "text": "I ask, with a glimmer of hope.\nHowever, as expected, Kirei Kotomine laughs.",
+      "sourceUnit": "凛ルート三日目-10:page113:1"
+    },
+    "page114": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. There are no mages that don't act out of self-interest. The only thing we administer are the rules of the war. The aftermath does not interest us. And the Association is not concerned with what kind of individual obtains the grail.\"\n\"That's crazy! What if the Master who gets the grail is a psychopath!?\"",
+      "sourceUnit": "凛ルート三日目-10:page114:1"
+    },
+    "page115": {
+      "status": "exact_japanese_text",
+      "text": "\"Certainly a bother, but there is nothing that we can do. It is the Holy Grail that chooses its owner. And we do not have the power to stop the Master chosen by the grail.\nIt is a grail that makes wishes come true. The one who obtains it will be able to do as they please.\nBut if you do not want such a thing to come to pass, then you must win it yourself. That is the more reliable way, isn't it?\"",
+      "sourceUnit": "凛ルート三日目-10:page115:1"
+    },
+    "page116": {
+      "status": "exact_japanese_text",
+      "text": "Kotomine is trying to hold back his laughter.\nHe seems to enjoy how I'm not able to accept being Master.",
+      "sourceUnit": "凛ルート三日目-10:page116:1"
+    },
+    "page117": {
+      "status": "exact_japanese_text",
+      "text": "\"What happened, boy? I thought that was a good plan, but you don't seem too keen on the idea.\"\n\"...That's not your concern. First off, I have no reason to fight. I'm not interested in the Holy Grail, and I don't feel like a Master even if you call me one.\"",
+      "sourceUnit": "凛ルート三日目-10:page117:1"
+    },
+    "page118": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. So you are not interested in what the victor of the grail would do, even if it leads to disaster?\"",
+      "sourceUnit": "凛ルート三日目-10:page118:1"
+    },
+    "page119": {
+      "status": "exact_japanese_text",
+      "text": "\"That's...\"\n...I don't have anything to say.\nDamn it, everything this guy says is like a beatdown.\nHe just delivers blow after blow of the harsh truth and doesn't let up at all.",
+      "sourceUnit": "凛ルート三日目-10:page119:1"
+    },
+    "page120": {
+      "status": "exact_japanese_text",
+      "text": "\"If you don't have a reason to fight, that's fine. I suppose that means you do not care about what happened ten years ago?\"\n\"...Ten years ago...?\"",
+      "sourceUnit": "凛ルート三日目-10:page120:1"
+    },
+    "page121": {
+      "status": "exact_japanese_text",
+      "text": "\"Correct. At the end of the last Holy Grail War, an unworthy Master touched the grail. I do not know what that Master wished for. What we do know are the results of that disaster.\"\n...",
+      "sourceUnit": "凛ルート三日目-10:page121:1"
+    },
+    "page122": {
+      "status": "exact_japanese_text",
+      "text": "For one moment...\nThat hell appeared in the back of my mind.",
+      "sourceUnit": "凛ルート三日目-10:page122:1"
+    },
+    "page123": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. That can't be...\"\n\"It is. The tragedy that everyone living in Fuyuki is well aware of, Shirou Emiya.\nFive hundred casualties, a hundred and thirty-four buildings destroyed. That fire is what remains of the previous Holy Grail War.\"",
+      "sourceUnit": "凛ルート三日目-10:page123:1"
+    },
+    "page124": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel nauseous.\nMy vision blurs.\nI can't focus anymore.\nIt feels like I'm going to pass out.",
+      "sourceUnit": "凛ルート三日目-10:page124:1"
+    },
+    "page125": {
+      "status": "exact_japanese_text",
+      "text": "I force myself to stand firm before I completely lose control.\nMy teeth clench as I stave off oblivion.\nAnger boils over within me and I use that to fight against the rising nausea.",
+      "sourceUnit": "凛ルート三日目-10:page125:1"
+    },
+    "page126": {
+      "status": "exact_japanese_text",
+      "text": "\"Emiya? What wrong? You're all pale. I know this is all a lot to take in, but you know—Look, why don't you get some air?\"",
+      "sourceUnit": "凛ルート三日目-10:page126:1"
+    },
+    "page127": {
+      "status": "exact_japanese_text",
+      "text": "I must've looked awfully pale.\nThough this must really be something else for Tohsaka to be that worried about me.",
+      "sourceUnit": "凛ルート三日目-10:page127:1"
+    },
+    "page128": {
+      "status": "exact_japanese_text",
+      "text": "\"No need to worry. I feel better after seeing the funny face you're making.\"\n\"...Hey. What is that supposed to mean?\"\n\"I don't mean anything by it. Literally just what I said, don't worry about it.\"",
+      "sourceUnit": "凛ルート三日目-10:page128:1"
+    },
+    "page129": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, fine... Hey. That's worse, lunkhead!\"\nAnd with that, the supposed number one model student Rin Tohsaka smacks me upside the head.\nWhich is just enough.\nThe nausea and anger from earlier disappear altogether.",
+      "sourceUnit": "凛ルート三日目-10:page129:1"
+    },
+    "page130": {
+      "status": "exact_japanese_text",
+      "text": "\"...Thanks. I'm serious, Tohsaka, it was a help. I still have a few things that I need to ask, though, so hold on to whatever else you have for a second.\"\nTohsaka looks like she isn't through with me, but acquiesces.",
+      "sourceUnit": "凛ルート三日目-10:page130:1"
+    },
+    "page131": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you still have questions? So be it, let us clear the air of any concerns.\"\nHe ought to know what I'm gonna say, but he seems to enjoy needling me to say it aloud.\nBring it on.\nI'm not gonna back down.",
+      "sourceUnit": "凛ルート三日目-10:page131:1"
+    },
+    "page132": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'll ask. You said this is the fifth war, right? Then, has anyone ever actually obtained the grail?\"\n\"Of course. Such disasterous misfortune does not happen every time.\"\n\"Then...\"",
+      "sourceUnit": "凛ルート三日目-10:page132:1"
+    },
+    "page133": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't get ahead of yourself. It is easy to obtain it. After all, the Holy Grail itself is looked after by the Church. If you wish to touch it, you may do so any day of the week.\"\n\"What...?\"\nT-the Holy Grail is in this church...?",
+      "sourceUnit": "凛ルート三日目-10:page133:1"
+    },
+    "page134": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course, it is only the vessel. It has no contents. As Rin mentioned earlier, it is still in a spiritual state.\nThe one stored here is an elaborate replica. This is used as a catalyst to materialize the real Holy Grail and form the chalice that can make wishes come true. I suppose it is similar to the relationship between Master and Servant. Yes...there was indeed a man who obtained the real article, at least temporarily.\"",
+      "sourceUnit": "凛ルート三日目-10:page134:1"
+    },
+    "page135": {
+      "status": "exact_japanese_text",
+      "text": "\"So the grail was real? Wait, what happened to that guy who obtained it?\"\n\"Nothing happened. That Holy Grail did not come to completion. All due to the folly of one man's foolishness.\"",
+      "sourceUnit": "凛ルート三日目-10:page135:1"
+    },
+    "page136": {
+      "status": "exact_japanese_text",
+      "text": "...?\nI don't know where his high and mighty attitude went. Suddenly he casts his eyes down and looks regretful.",
+      "sourceUnit": "凛ルート三日目-10:page136:1"
+    },
+    "page137": {
+      "status": "exact_japanese_text",
+      "text": "\"...What do you mean? Didn't the grail appear?\"\n\"If one is only concerned with making the grail appear, that is simple enough. Once the seven Servants are present, it will manifest in time. As Rin says, there is no need to kill the other Masters.\nHowever, that does not complete the Holy Grail. That thing chooses its own suitable owner. A man who avoided battle could not and did not obtain it.\"",
+      "sourceUnit": "凛ルート三日目-10:page137:1"
+    },
+    "page138": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. So you're saying it's pointless to obtain it without a clear conclusion to the battles with other Masters.\nLast time, the first Master to obtain the grail was spineless. He avoided the grail and said he didn't want to fight the other Masters.\"",
+      "sourceUnit": "凛ルート三日目-10:page138:1"
+    },
+    "page139": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka spits out, looking away from Kotomine.\n\"...No way.\"\nSo does that mean that Kotomine was one of the Masters in the last war, and he obtained the Holy Grail but refused to fight and retired...!?",
+      "sourceUnit": "凛ルート三日目-10:page139:1"
+    },
+    "page140": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kotomine. You didn't fight?\"\n\"I did up to the halfway point. But I made a mistake. This resulted in an incomplete Holy Grail.\nWell, that must have been my limit, regardless. The other Masters were all monstrously strong. I lost my Servant right away and was taken under my father's protection.\"",
+      "sourceUnit": "凛ルート三日目-10:page140:1"
+    },
+    "page141": {
+      "status": "exact_japanese_text",
+      "text": "\"...Come to think of it, the overseer's son being chosen as Master was not something that was supposed to happen.\nMy father passed away at that time. After that, I took over the role of overseer and guard the Holy Grail here in the church.\"",
+      "sourceUnit": "凛ルート三日目-10:page141:1"
+    },
+    "page142": {
+      "status": "exact_japanese_text",
+      "text": "Saying that, this priest named Kirei Kotomine turned away.\nFollowing his gaze leads to the symbol of worship towering over us.",
+      "sourceUnit": "凛ルート三日目-10:page142:1"
+    },
+    "page143": {
+      "status": "exact_japanese_text",
+      "text": "\"Our conversation ends here.\nThe only ones who are qualified to obtain the Holy Grail are Masters with Servants. When there is only one left of the seven participants, the grail will manifest.\nYou must decide now whether you will participate in this battle, this Holy Grail War.\"\nThe priest requests my final decision as he looks down at me.",
+      "sourceUnit": "凛ルート三日目-10:page143:1"
+    },
+    "page144": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm at a loss for words.\nUntil this very moment, I had no reason to fight.\nBut now I have a reason, and the will to accompany it.\nAlthough...is this really what I want?",
+      "sourceUnit": "凛ルート三日目-10:page144:1"
+    },
+    "page145": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you still undecided?\nUnderstand that being a Master is not something you become just because you wish it so. Rin has been training as a mage for a long time, but that does not mean that it was determined that she would be a Master.\nAll she could do is decide whether to prepare or not if the opportunity arose.\"",
+      "sourceUnit": "凛ルート三日目-10:page145:1"
+    },
+    "page146": {
+      "status": "exact_japanese_text",
+      "text": "\"Only mages are chosen as Masters. If you are a mage, you should have already been ready.\nIf you are not, then I suppose nothing further can be done.\nBoth you and your instructor are failures. It would be a nusiance for a mage such as you to go into battle, so you should remove your Command Spells right now.\"",
+      "sourceUnit": "凛ルート三日目-10:page146:1"
+    },
+    "page147": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt isn't even a question now.\nI refuse to run.\nTo be honest, this Master and Holy Grail War stuff doesn't feel real at all.\nEven so, if I have to choose between fighting or running away, I would never run away.",
+      "sourceUnit": "凛ルート三日目-10:page147:1"
+    },
+    "page148": {
+      "status": "exact_japanese_text",
+      "text": "The priest even said it.\nIf I'm a mage, I should be prepared.",
+      "sourceUnit": "凛ルート三日目-10:page148:1"
+    },
+    "page149": {
+      "status": "exact_japanese_text",
+      "text": "So I need to get it together.\nEven if I'm an amateur, I'm still a mage.\nIf I decided that I'm going to champion justice and follow in Kiritsugu Emiya's footsteps after admiring him for so long...",
+      "sourceUnit": "凛ルート三日目-10:page149:1"
+    },
+    "page150": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'll fight as a Master. If the cause of the fire ten years ago was the Holy Grail War, then I can't let that happen ever again.\"\nThe priest must've liked my answer as he is smiling with satisfaction.",
+      "sourceUnit": "凛ルート三日目-10:page150:1"
+    },
+    "page151": {
+      "status": "exact_japanese_text",
+      "text": "...\nI threw away all my hesitation.\nI've got to man up and fight.\nI said I would do it, and so I'll face this on my pride as a mage.",
+      "sourceUnit": "凛ルート三日目-10:page151:1"
+    },
+    "page152": {
+      "status": "exact_japanese_text",
+      "text": "\"Well then, I shall approve you as Saber's Master.\nFrom this moment on, the Holy Grail War is officially underway.\nUntil there is one Master left, I approve of the battle in this town. Each shall put their pride and very life on the line and fight to their heart's content.\"",
+      "sourceUnit": "凛ルート三日目-10:page152:1"
+    },
+    "page153": {
+      "status": "exact_japanese_text",
+      "text": "The priest's words echo throughout the church.\nAlthough there's no real purpose to his declaration.\nOnly Tohsaka and I heard his words.\nThis man just carried out his own little ceremony, ringing the starting bell.",
+      "sourceUnit": "凛ルート三日目-10:page153:1"
+    },
+    "page154": {
+      "status": "exact_japanese_text",
+      "text": "\"It's offical, then. I'll be heading out, but can I ask you a question too, Kirei?\"\n\"I don't mind. This may be the last time, so I will answer anything further.\"",
+      "sourceUnit": "凛ルート三日目-10:page154:1"
+    },
+    "page155": {
+      "status": "exact_japanese_text",
+      "text": "\"Then I'll take up on that. Kirei, since you're in charge of overseeing everything, you should have information about other Masters, right? I've followed the Association's rules, so at least tell me what you know.\"",
+      "sourceUnit": "凛ルート三日目-10:page155:1"
+    },
+    "page156": {
+      "status": "exact_japanese_text",
+      "text": "\"That certainly puts me in a bind. I would be more than happy to tell you, but I do not know much myself.\nThere are not many legitimate mages this time. I am only aware of two Masters. Three if you include Shirou Emiya, actually.\"",
+      "sourceUnit": "凛ルート三日目-10:page156:1"
+    },
+    "page157": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, really. Then you should know by the order they were summoned.\nYou are the overseer, after all.\"\n\"...Hm. The first one was Berserker, the second was Caster. And so on and so forth. The other day was Archer, and then Saber was summoned a few hours ago.\"",
+      "sourceUnit": "凛ルート三日目-10:page157:1"
+    },
+    "page158": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So that means...\"\n\"The Holy Grail War has officially begun. Rin, you are not allowed to come to this church until this Holy Grail War is over.\nThe only time it is permitted is...\"\n\"When I lose my Servant and wish for protection, right? So if I rely on you anymore than that, no perfect score.\"",
+      "sourceUnit": "凛ルート三日目-10:page158:1"
+    },
+    "page159": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. You would likely be the victor, but the Church will not ignore your transgressions. The likely result is you are forced to listen to a lecture and they take away your Holy Grail. That would also be problematic for me.\"\n\"You fake priest. You're with the Church, but you're going to support the Mage's Association?\"",
+      "sourceUnit": "凛ルート三日目-10:page159:1"
+    },
+    "page160": {
+      "status": "exact_japanese_text",
+      "text": "\"I am serving the Lord. That does not mean that I am serving the Church.\"\n\"Yeah, right. That's why you're a fake.\"",
+      "sourceUnit": "凛ルート三日目-10:page160:1"
+    },
+    "page161": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka turns her back to Kirei Kotomine.\nWith that, she makes her way towards the exit without saying goodbye.",
+      "sourceUnit": "凛ルート三日目-10:page161:1"
+    },
+    "page162": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you fine with that, Tohsaka? He's your senior, right? Then...\"\nYou sure you want to leave it like this, without a proper farewell?",
+      "sourceUnit": "凛ルート三日目-10:page162:1"
+    },
+    "page163": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine. In fact, it's a relief to cut him off. And you should get out now, too. You have no business with this church anymore.\"\nTohsaka crosses the chapel and, without stopping, really does leave without so much as a goodbye.",
+      "sourceUnit": "凛ルート三日目-10:page163:1"
+    },
+    "page164": {
+      "status": "exact_japanese_text",
+      "text": "I sigh and follow Tohsaka.\nThen...\n\"...!\"\nI feel the presence behind me and can't help but turn around.\nHe crossed the distance before I knew it to loom over me.",
+      "sourceUnit": "凛ルート三日目-10:page164:1"
+    },
+    "page165": {
+      "status": "exact_japanese_text",
+      "text": "\"W-what? Do you still have something to say?\"\nThough I can't help but take a step back.\n...Just as I thought, I'm no good with this guy.\nIt's like we're incompatible or on a different wavelength. I'm not fond of the feeling.",
+      "sourceUnit": "凛ルート三日目-10:page165:1"
+    },
+    "page166": {
+      "status": "exact_japanese_text",
+      "text": "\"If you don't have anything to say, I'm leaving!\"\nI head towards the exit, trying to escape his stare.\nAs I go...\n\"...Rejoice, boy. Your wishes will soon be granted.\"\nSo the priest says, as if he's an oracle.",
+      "sourceUnit": "凛ルート三日目-10:page166:1"
+    },
+    "page167": {
+      "status": "exact_japanese_text",
+      "text": "Those words are...\nAre they really what I've been feeling deep down?",
+      "sourceUnit": "凛ルート三日目-10:page167:1"
+    },
+    "page168": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's this, all of a sudden?\"\n\"You should know. If there was no clear evil, then your wishes wouldn't be granted. Though it may be difficult to swallow, one who champions justice needs an evil to defeat.\"",
+      "sourceUnit": "凛ルート三日目-10:page168:1"
+    },
+    "page169": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy vision is about to go black.\nThe priest says it.\nMy wish is at the same time noble and shameful.\n...Yes. The desire to protect something is...\n...the same as wanting a threat to harm it.",
+      "sourceUnit": "凛ルート三日目-10:page169:1"
+    },
+    "page170": {
+      "status": "exact_japanese_text",
+      "text": "\"...Y-you...\"\nBut there's no way that I would wish something like that.\nI don't remember wishing anything like that.\nThat just means...\n...my aspirations and ideals have a contradiction.\n\"Good thing you have an enemy to face, now.\"\nThat's what the priest is saying, his words like a dagger to my gut.",
+      "sourceUnit": "凛ルート三日目-10:page170:1"
+    },
+    "page171": {
+      "status": "exact_japanese_text",
+      "text": "\"What, no need to keep up appearances. Your dilemma is valid as a human being.\"\nThe priest smiles joyfully.\n\"...\"\nI shake off his words and head towards the exit.",
+      "sourceUnit": "凛ルート三日目-10:page171:1"
+    },
+    "page172": {
+      "status": "exact_japanese_text",
+      "text": "\"Farewell, Shirou Emiya.\nA final warning: be cautious on your return home.\nFrom here on out, your world will change completely. You have become a person who will kill or be killed. You are now a Master.\"\nThose words are a parting shot as I hastily make my way out.",
+      "sourceUnit": "凛ルート三日目-10:page172:1",
+      "recoveredDelimitedTail": true
+    },
+    "page173": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

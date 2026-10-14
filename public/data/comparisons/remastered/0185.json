@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0185",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Now that I think about it, there's one thing that I don't understand.\nWhy wasn't Tohsaka just crushed during our battle with Berserker?\nWhat sort of trickery did she use?",
+      "sourceUnit": "セイバールート十二日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Tohsaka. Can I ask you about something that happened yesterday?\"\n\"What is it? Make it quick. I'm busy.\"",
+      "sourceUnit": "セイバールート十二日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. So Berserker grabbed you. I'm just wondering how you survived. You don't look like it, but do you work your abs or something?\"\n\"Ahahaha. If ripped abs were all I needed to survive Berserker's grip, my stomach would be harder than steel.\"",
+      "sourceUnit": "セイバールート十二日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, that was the wrong way to ask.\nI apologize, so please stop grinning at me like that.\"\n\"Then stop provoking me.\"",
+      "sourceUnit": "セイバールート十二日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"As to how I survived... I placed a jewel on my stomach before the fight. I snuck it into my clothes to create a protective barrier around me. Got it?\"",
+      "sourceUnit": "セイバールート十二日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So you expected Berserker to grab you from the get-go. Makes sense then, planning to protect yourself.\nBut that means your jewels...\"",
+      "sourceUnit": "セイバールート十二日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm all tapped out. I used one for Saber, three to distract Berserker, five to blow his face off, and one to protect myself.\nTen years I spent, saving those up, and they went in an instant. Even after using most of them, I still couldn't defeat Berserker.\"",
+      "sourceUnit": "セイバールート十二日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "In spite of her dejected sigh, Tohsaka doesn't seem to regret what happened.\nWhat's done is done.\nShe knows very well not to dwell on what she lost, but to focus on what she gained in exchange.",
+      "sourceUnit": "セイバールート十二日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Sorry about that, Tohsaka.\"\n\"Thanks. But I'm going to learn from this, and make gems that'll let me defeat an enemy like that all on my own.\"",
+      "sourceUnit": "セイバールート十二日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "She's as blunt as ever about that.\nBut I'm also sure she'll manage it.\n...And then I realize.\nTohsaka is the reason we won against Berserker.",
+      "sourceUnit": "セイバールート十二日目-09:page9:1"
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

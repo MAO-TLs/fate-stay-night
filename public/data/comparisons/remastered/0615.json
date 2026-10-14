@@ -1,0 +1,102 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0615",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll go check on Tohsaka and Illya.\nI'm curious about what they're doing, and there might be something I can do to help.",
+      "sourceUnit": "桜ルート十一日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"There's nothing for you to do here. You're in the way, so leave.\"\nBut...\nA second after I knock on the guestroom door, I'm instantly denied entry.",
+      "sourceUnit": "桜ルート十一日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh. What's with the attitude? You'll regret it if you always spit on people's goodwill.\"",
+      "sourceUnit": "桜ルート十一日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that. We're dealing with Tohsaka and Einzbern family secrets right now, so we can't show them to anyone else.\nI'm happy you want to help, but what you're offering is harmful to me and Illya. You wouldn't want to leak your own family's secrets either, would you?\"",
+      "sourceUnit": "桜ルート十一日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nIt makes sense, when she puts it that way.\nEven if we're working together, we each have our secrets.\nSetting that aside...",
+      "sourceUnit": "桜ルート十一日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Why are you wearing glasses, Tohsaka?\"\n\"...What, do I look weird?\"\n\"No, not weird...\"\nIt's like she's upgraded her image from honors student to student body president.",
+      "sourceUnit": "桜ルート十一日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...They look great on you.\"\n\"...O-oh. I only wear them when I'm alone, so I can't really tell... You don't think they look weird?\"",
+      "sourceUnit": "桜ルート十一日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. I know who you really are, so you can't fool me with that overachiever image. Is it a disguise?\"\n...\nHm? Is the temperature dropping in the room?",
+      "sourceUnit": "桜ルート十一日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? I'm getting kinda chilly for some reason.\"\nMaybe I'm just imagining it. I look to her for confirmation.\n\"How about that? My shoulders happen to be shaking too, Emiya.\nI've been thinking it's high time I right some wrongs. If you've got time to go on afternoon strolls, maybe I ought to train you until you can't move anymore.\"",
+      "sourceUnit": "桜ルート十一日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...hm.\"\n...I'm scared. She isn't kidding.\nLooks like she's seriously raking me over the coals for walking around when she told me to save my strength.",
+      "sourceUnit": "桜ルート十一日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry, that was thoughtless of me. I'll go rest in my room like you said to.\"",
+      "sourceUnit": "桜ルート十一日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Feel free. But if you can move around this much, I think there's something else you should be doing. We're not the ones who need your help right now.\"\n\"Huh? Who needs my help?\"",
+      "sourceUnit": "桜ルート十一日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"The girl right next door. She's the one who can't stand it when you aren't around. I wish you'd be more aware of how important you are to Sakura's happiness.\"",
+      "sourceUnit": "桜ルート十一日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...\nI feel myself flush.\nIt's so embarrassing to hear someone say that out loud.",
+      "sourceUnit": "桜ルート十一日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Um, yeah, roger that. If it's okay to go check on Sakura, then I will.\"\nI nod robotically.",
+      "sourceUnit": "桜ルート十一日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course it is!\n...Ugh, for someone who's usually so careless, you choose some strange times to be cautious.\"",
+      "sourceUnit": "桜ルート十一日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka shuts her bedroom door.\nSakura's room is the next one over, just a meter or so away.",
+      "sourceUnit": "桜ルート十一日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Calm down. Calm down. I'm just going to check in on her.\"\nI take a few deep breaths and stare at the next room's door.\nI-it's not like I have a guilty conscience.\nI'm just going to see whether Sakura's getting her rest.",
+      "sourceUnit": "桜ルート十一日目-01:page17:1",
+      "recoveredDelimitedTail": true
+    },
+    "page18": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

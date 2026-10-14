@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0546",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. So you're okay swearing absolute obedience to me, right?\"",
+      "sourceUnit": "桜ルート九日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Um.\"\nTohsaka says something ominous.\nIt sounds like a question, but clearly...",
+      "sourceUnit": "桜ルート九日目-12:page1:1"
+    }
+  }
+}

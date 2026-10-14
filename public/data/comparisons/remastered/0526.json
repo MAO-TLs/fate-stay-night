@@ -1,0 +1,91 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0526",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Should I try using a Command Spell?\nI don't think Saber would lose to Assassin.\nBut this situation is too unfavorable.\nThis is that old fiend we're talking here. It's too dangerous to let Saber fight alone.",
+      "sourceUnit": "桜ルート八日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So you've managed to rein in that clumsy bloodlust. You must be scheming something.\"",
+      "sourceUnit": "桜ルート八日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "His chuckle is condescending.\nIt's a laugh that says he'll let me try anything I want, since it's all child's play.",
+      "sourceUnit": "桜ルート八日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nFine, go ahead and laugh.\nIf Command Spells are supposed to respond to my wishes, then I'll use as many as it takes to call Saber back!",
+      "sourceUnit": "桜ルート八日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber!\"\nWithout taking my eyes off the shadows before me, I focus my will on my left hand.\nI give one simple order.\nI call Saber back to my side immediately!",
+      "sourceUnit": "桜ルート八日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Mngh!?\"\nHe notices too late.\nMy left hand blazes with warmth, releasing its compressed magical energy in response to its Master's wishes...\n...and loses its color after a brief moment of pain.",
+      "sourceUnit": "桜ルート八日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI wish it only failed.\nI'd like to believe that I used it wrong, because I don't know how it works.",
+      "sourceUnit": "桜ルート八日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew. Looks like it's over. That gave me quite a fright. It must have taken ten years off my life.\"\nHis laughter grates on my ears.\n...Far away, I hear wind howling, like a death cry.",
+      "sourceUnit": "桜ルート八日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "My left hand throbs in pain.\nThe back of my hand is tingling.\nIt hurts where the Command Spells are, almost like I'm bleeding there.",
+      "sourceUnit": "桜ルート八日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"It...can't be...\"\nI feel awful dread.\nI feel awful dread.\nI feel awful dread.\nThe pain in my left hand.\nThe howling wind, gone silent.\nThe old, insect-wielding mage, laughter filling the room with his bloodlust.",
+      "sourceUnit": "桜ルート八日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's cold hard reality. If you're her Master, you should be able to tell that your Servant is gone from this world!\"",
+      "sourceUnit": "桜ルート八日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind is paralyzed.\nMy vision freezes.\nWhat...is he talking about?",
+      "sourceUnit": "桜ルート八日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you so shocked for? Saber is dead. She underestimated Assassin and lost to him. Is that so hard to grasp, boy?\"\n\"That's...\"",
+      "sourceUnit": "桜ルート八日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...bullshit, right?\nMy left hand hurts.\nIt really hurts.\nBut my Command Spells are still there.\nThey're growing fainter by the second, like they're about to fade, but they aren't gone yet.\nThen Saber still has to be out there, ready to come to me right now!",
+      "sourceUnit": "桜ルート八日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you...\"\n\"Let's put an end to this. The Tohsaka girl still has potential, but I have no further use for you. Die in my holy land, along with your Servant!\"\n\"...BULLSHIT ME, MOTHERFUCKER!\"",
+      "sourceUnit": "桜ルート八日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I run.\nI charge at the enemy before me, trying to shake off the pain in my left hand and the horrible dread.",
+      "sourceUnit": "桜ルート八日目-08:page15:1"
+    },
+    "page16": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

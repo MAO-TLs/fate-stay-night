@@ -1,0 +1,32 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0067",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm worried about Saber; she was hurt pretty bad.",
+      "sourceUnit": "セイバールート四日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way, Saber.\nUm...are you all right? It looks like you took a real beating from Berserker.\"\n\"Hm? As you can see, my body is back to normal.\nMy wounds were severe enough to ensure defeat, but not to be fatal. I finished recovering roughly an hour after Berserker retreated.\"",
+      "sourceUnit": "セイバールート四日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"What? So you're completely back to normal already?\"\n\"Of course. However, I am not entirely in peak condition.\nI was able to heal my wounds from Berserker's attacks, because they were rather mundane as these things go, but my wound from Lancer's Noble Phantasm is another matter.\nThat spear must have been imbued with a special curse. The wounds I sustained have not completely healed.\"",
+      "sourceUnit": "セイバールート四日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nNot completely healed, huh?\nShe doesn't look wounded, but Saber doesn't seem the type to complain about pain.\nAs long as I'm fighting with Saber, it's sounding like I'll need to keep a pretty sharp eye on her well-being.",
+      "sourceUnit": "セイバールート四日目-07:page3:1",
+      "recoveredDelimitedTail": true
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

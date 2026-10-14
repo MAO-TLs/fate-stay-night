@@ -1,0 +1,121 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0063",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "We're getting off topic. So, what's next for you?\nYou claim you won't kill people, so are you just going to stand by and watch the other Masters do god knows what?\"",
+      "sourceUnit": "セイバールート四日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...I take it back.\nShe's not only twisted, she's a jerk who's going out of her way to drive me into a corner, all with a smile.",
+      "sourceUnit": "セイバールート四日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"If it comes to that, I'll go in to stop them. The Master won't have much to do as long as their Servant has been defeated, right?\"\n\"Unbelievable. So you're not going to try to defeat any of the other Masters, unless they intend to do bad things.\nDo you even hear yourself?\"",
+      "sourceUnit": "セイバールート四日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I know they're just pretty words. But I can't think of anything else. I'm not changing my principles, no matter what you say.\"",
+      "sourceUnit": "セイバールート四日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmm. There's just one problem. Should I spell it out for you?\"\nI can see the gears turning in her head. She's up to something.\nBut I promised to listen, so I need to hear her out.",
+      "sourceUnit": "セイバールート四日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah?\"\n\"Do you remember the Master from yesterday? The little girl who just casually ordered her Servant to kill us both?\"\n...\nHow can I forget? She attacked us on our way home without any warning.",
+      "sourceUnit": "セイバールート四日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"She is definitely going to come back and kill us. I'm sure even you've worked that out.\"\n...\nOh...right.\nThat girl's a Master too.",
+      "sourceUnit": "セイバールート四日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "She knows that Tohsaka and I are both Masters, so she's bound to come after us eventually.\nIt could be today or tomorrow, but we've already signed our death warrants.\nI have no chance of stopping that monster.",
+      "sourceUnit": "セイバールート四日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Her Servant, Berserker, is on a whole other level.\nAs inexperienced of a Master as you are, you're no match for that thing. And you've been saying you're going to protect yourself by doing nothing. You are not going to be able to defend yourself.\"",
+      "sourceUnit": "セイバールート四日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Look who's talking. You have no chance against that thing either.\"",
+      "sourceUnit": "セイバールート四日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Not in a straight-up fight. That's the ultimate close-quarters Servant. There probably isn't anyone who can match it even among all the heroes of myth and legend. If Berserker attacks me, there's no escape.\"",
+      "sourceUnit": "セイバールート四日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...That goes for me, too. I'm pretty sure I won't survive the next round with that thing.\"",
+      "sourceUnit": "セイバールート四日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "My hand moves unconsciously to my stomach.\nThe wound is closed.\nIt's probably not even fair to call this a wound. It's the spot where a gigantic sword nearly killed me instantly.\nI can't shake off the sudden wave of nausea that wells up in me when I imagine the next time I might get a taste of that blade.",
+      "sourceUnit": "セイバールート四日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"There you have it. Do you get that just sitting around, doing nothing and waiting for the Holy Grail War to end isn't an option?\"",
+      "sourceUnit": "セイバールート四日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I know that now. But Tohsaka, I'm not sure what your point is.\nI'm sure you're not here just to make fun of my inevitable doom...are you?\"",
+      "sourceUnit": "セイバールート四日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"What kind of sadist do you take me for!?\nAfter everything I said, you still can't take a hint? I'm asking if you want to team up.\"",
+      "sourceUnit": "セイバールート四日目-04:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nHm? Wuh? What now? Uh...what?\nIf I take those words at face value, that means...",
+      "sourceUnit": "セイバールート四日目-04:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you want to team up with me, Tohsaka!?\"\n\"Yeah. My Archer's still recovering from a serious wound. That's going to take some time, but in the meantime, I'm not completely out of the fight.\nAnd while your Servant is superb, her Master's dragging her down, making her half as effective. See? Put the two of us together and you've got a whole.\"",
+      "sourceUnit": "セイバールート四日目-04:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, I'm not that bad of a mage.\"\n\"I count three times in which you almost died. You're the first person I know who's had that happen in a single day.\"",
+      "sourceUnit": "セイバールート四日目-04:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Urgh. But...\"\n\"I'll make it worth your while. I'll let you off for getting Archer hurt, and teach you what you need to know to be a Master. Oh, and if we have time, I can even give you some pointers on your magecraft. Deal?\"",
+      "sourceUnit": "セイバールート四日目-04:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Ugh.\nIt is an attractive proposition.\nI know next to nothing, and Tohsaka does seem knowledgeable.",
+      "sourceUnit": "セイバールート四日目-04:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "And I'd like to avoid fighting her, if I can.",
+      "sourceUnit": "セイバールート四日目-04:page21:1"
+    },
+    "page23": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

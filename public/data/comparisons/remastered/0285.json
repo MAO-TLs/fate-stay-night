@@ -1,0 +1,241 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0285",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'm still not over what happened to Mitsuzuri, leading me to the archery range.\nIt's set off from the other school buildings and looks empty.\nClub activities are over, so I don't think I'll find anybody here.",
+      "sourceUnit": "凛ルート六日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I guess I'll go home.\"\nI turn around and head to the gate.\nBeyond that, on the way to the exit...\n...Shinji Matou stands there, as if to block my way.",
+      "sourceUnit": "凛ルート六日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, you're going home this late? Weren't all students supposed to go home immediately what with the danger and all?\"\n...\nI don't have the confidence to stay calm facing Shinji here.\nSo I try to ignore him and walk past.",
+      "sourceUnit": "凛ルート六日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Aww, man. So tired that you can't even greet your friend, huh?\nDamn, must be draining to spend so much time destroying sigils.\"\nHe sounds like he's grinning.\n\"...!\"\nHearing that, I immediately jump back and brace myself.",
+      "sourceUnit": "凛ルート六日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Destroying sigils... For you to say that, then...\"\nI keep myself on alert and glare at Shinji.",
+      "sourceUnit": "凛ルート六日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that's right. The Bounded Field that you so thoroughly eliminated was the security measure I set up.\nIf it's destroyed like that, I'll be so scared that I won't be able to come to school anymore.\"",
+      "sourceUnit": "凛ルート六日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nSo this is how naïve I am.\nWhen I saw him in the woods, I knew he was a Master but didn't try to confirm it because I wasn't prepared for the truth.",
+      "sourceUnit": "凛ルート六日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. Don't be on guard like that, Emiya. Since that annoying Tohsaka is gone, let's talk things over like men. You know I deplore fighting.\"\n\"Talk things over...? You don't want to fight?\"",
+      "sourceUnit": "凛ルート六日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not.\nI'm guessing you were forced to be this Master thing too, right?\nI'm in the same boat. I was forced to be a Master even though I'm not a mage, nor do I really want to fight.\"",
+      "sourceUnit": "凛ルート六日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"So at the moment, I'm trying to find a way to get through this without fighting anybody. I have no intention of starting something with you.\"",
+      "sourceUnit": "凛ルート六日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Then what's up with that Bounded Field? You're saying you don't want to fight even though you have that thing set up?\"",
+      "sourceUnit": "凛ルート六日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Dumbass, that's for my protection. Tohsaka's at this school, and she's a mage through and through.\nShe won't hesitate to fight. So as a Master that's not a mage, I have to set up protection for myself.\nThat's all that that Bounded Field was. I won't activate it as long as I don't get attacked.",
+      "sourceUnit": "凛ルート六日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\n...His story makes sense.\nI still don't know the details behind whether Shinji really is a Master or not, or how he got to this point.\nBut for now, I'll buy it.\nIf Shinji says so, I should give him the benefit of the doubt.\nBut, before that...",
+      "sourceUnit": "凛ルート六日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Are you the one who attacked the female student yesterday?\"\nI need to solve this problem.",
+      "sourceUnit": "凛ルート六日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, yesterday? I couldn't help it.\nMy Servant is an unmanageable woman, and she attacks people if I let her be.\nI'm just a normal person who was chosen to be a Master. I'm not like Tohsaka where it's my main job, so it's hard for me to get her to listen to my orders.\"",
+      "sourceUnit": "凛ルート六日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then what happened yesterday was just an accident, right? Your Servant did it herself?\"",
+      "sourceUnit": "凛ルート六日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I'll be careful from now on. I don't want to cause any incidents in my own neighborhood either. I'll make sure the only thing she does is protect me.\"",
+      "sourceUnit": "凛ルート六日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...You swear that's true, Shinji?\"",
+      "sourceUnit": "凛ルート六日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Why would I lie? I could've hidden it, but I told you about it.\nYou were getting suspicious of me, right? I'll have to defend myself if you come at me, so I came out before that could happen.\nI don't want to fight anybody.\"",
+      "sourceUnit": "凛ルート六日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...I can't take what he says at full value.\nBut, if he really does want to avoid fighting... Everything would work out.",
+      "sourceUnit": "凛ルート六日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I'll believe you. If you're not going to do anything, I won't do anything to you either. That work for you?\"",
+      "sourceUnit": "凛ルート六日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Good, you're being reasonable for once.\nBut not good enough. Can't you tell why I came here to talk?\"",
+      "sourceUnit": "凛ルート六日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "Shinji holds out his hand, as if he wants to shake hands.\nSo that means...",
+      "sourceUnit": "凛ルート六日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you want to cooperate with me, Emiya? You probably didn't know, but the Matous are a family of mages.\n...Well, it ended with my father's generation, but we still have the knowledge. How does it sound? I'll be helpful to an inexperienced Master like you, right?\"",
+      "sourceUnit": "凛ルート六日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe Matou line is a family of mages...?\nTohsaka didn't say such a thing.\nNo, she must've excluded him as an outsider if the blood died out just as Shinji said.",
+      "sourceUnit": "凛ルート六日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you think? If you cooperate with me, we can survive the Holy Grail War without having to rely on Tohsaka. I don't think this is anything you even have to think about.\"",
+      "sourceUnit": "凛ルート六日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe holds out his hand.\n...His proposal isn't wrong.\nIt makes sense, and it's an option.\nHowever...",
+      "sourceUnit": "凛ルート六日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Does Sakura know that you're a Master?\"",
+      "sourceUnit": "凛ルート六日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You really are an amateur, Emiya.\nA family of mages like mine only teaches its secrets to the eldest son. The other kids are no more than spares.\nIt's a waste of time to teach magecraft to spares like that.\n...Hell if I would teach a simpleton like her the ways of a mage.\nI'm the only one who inherited the Matou's secrets.\"",
+      "sourceUnit": "凛ルート六日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nI see.\nThat's really good.\nSakura isn't someone who should be involved in all this.\nI need her to be smiling happily in life.",
+      "sourceUnit": "凛ルート六日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"...Shinji. If you promise not to do anything, then I won't do anything to you either. There isn't a problem with it like that, right?\"",
+      "sourceUnit": "凛ルート六日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"...So you won't cooperate with me?\"",
+      "sourceUnit": "凛ルート六日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"There's no need to, right? If we both aren't going to fight each other, there's no need to cooperate.\nIf you only want to protect yourself, then you should have the church take care of you until the Holy Grail War is over. You know that, right?\"",
+      "sourceUnit": "凛ルート六日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh. What is this, Emiya? Are you actually trying to win this battle to the death?\"",
+      "sourceUnit": "凛ルート六日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I don't intend to die nor do I want to murder anyone.\nBut I'll fight anyone who attacks me, and I can't just ignore those who will try to bring disaster to our town.\nAnd...",
+      "sourceUnit": "凛ルート六日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't plan on killing anyone. But I have to see this Holy Grail thing for myself. In order to do that, I have to survive until the end, right?\"\nI turn away from Shinji.",
+      "sourceUnit": "凛ルート六日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? So you're just going to fight, huh?\nWell, it has nothing to do with me, but then you won't involve Sakura in this, right, Emiya?\"",
+      "sourceUnit": "凛ルート六日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Obviously not. You're going to hide this from her too, right?\"",
+      "sourceUnit": "凛ルート六日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. But as her older brother, I can't let my little sister stay at the place of someone who's going to be involved in battles to the death.\nIf you're going to fight, I won't let Sakura go out until the Holy Grail War is over. You understand, Emiya?\"",
+      "sourceUnit": "凛ルート六日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "...\n...He does have a point.\nAs long as I'm fighting alongside Saber, the Emiya household is also dangerous.",
+      "sourceUnit": "凛ルート六日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"All right, I'll tell Sakura. That's fine, right, Shinji?\"",
+      "sourceUnit": "凛ルート六日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. So nice of you to look out for your juniors.\nTo be honest, I was afraid that you were going to hold her hostage. Well, this solves my most urgent worry.\"",
+      "sourceUnit": "凛ルート六日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...So we're done talking here. I'm going home then.\"\n\"Yeah, go ahead. But you know right, Emiya? What we discussed here stays between us. I told you my secret since you're my friend. If you tell others, I can't anticipate what I might end up doing either.\"",
+      "sourceUnit": "凛ルート六日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "That must mean that he'll activate the Bounded Field if I tell Tohsaka about him.",
+      "sourceUnit": "凛ルート六日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I won't tell anyone. But it's a different story if Tohsaka finds you herself. I'm going to help Tohsaka as much as I can. I won't stop her from fighting you if she finds out your identity.\n...So if you don't want to be found, you should keep your head down.\"",
+      "sourceUnit": "凛ルート六日目-10:page44:1"
+    },
+    "page45": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page46": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

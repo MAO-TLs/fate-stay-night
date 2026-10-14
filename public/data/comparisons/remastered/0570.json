@@ -1,0 +1,171 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0570",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "By the time we're home, the rain has completely stopped.\n...I've been holding hands with Sakura since we left the park.\nShe calmed down while we were walking, and we began to get embarrassed as we went up the hill path, but we didn't stop holding hands until we got home.",
+      "sourceUnit": "桜ルート九日目-29:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? The lights are on. Sakura, did you come back here earlier?\"\n\"...Um, I don't think that was me. Maybe it's Ms. Fujimura...?\"",
+      "sourceUnit": "桜ルート九日目-29:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah.\"\nThat could be it. I head for the door, taking Sakura with me.\nHer hand was freezing cold, but now it's incredibly warm.\nI feel reassured by the life I feel flowing through her veins, and go inside like I would if I just got home from school.",
+      "sourceUnit": "桜ルート九日目-29:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Welcome back. Sorry to intrude, but I made myself at home.\"",
+      "sourceUnit": "桜ルート九日目-29:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka.\"\n\"Ne—Tohsaka...senpai.\"",
+      "sourceUnit": "桜ルート九日目-29:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I decided to check here as a last resort, but I didn't think you'd come back together... Though there was always a chance, knowing you, Emiya.\"",
+      "sourceUnit": "桜ルート九日目-29:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nI gasp and push Sakura behind me, facing Tohsaka squarely.",
+      "sourceUnit": "桜ルート九日目-29:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, you still...!\"\n\"Of course. As a Tohsaka mage, I can't let Sakura Matou go. If I don't execute her as the administrator of Fuyuki, I'll draw the ire of the Association. It'll be too late once that happens.\"",
+      "sourceUnit": "桜ルート九日目-29:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That's your problem. Sakura still hasn't done anything wrong. If you're going to hurt her, then you'll have to go through me.\"\n\"I bet. You're a free mage who isn't affiliated with the Association, so it would be better if I tied up that loose end, too.\nI'm going to kill Sakura. If you get in my way, I'll kill you, too.\"",
+      "sourceUnit": "桜ルート九日目-29:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy nerves stand on edge.\nTohsaka's fingertips.\nIf they so much as twitch, that will be the opening shot.",
+      "sourceUnit": "桜ルート九日目-29:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I have to get Sakura outside before Tohsaka finishes an incantation.\nAfter that...I'll just have to figure it out as we go.\nRight now, I concentrate on how we're going to get out of here.\nThere's a huge disparity in our magical skills.\nArcher's probably around, too, and I have no idea how to deal with him.",
+      "sourceUnit": "桜ルート九日目-29:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka's lips move slightly.\nJust as I realize that she's about to talk instead of cast a spell...\n\"Stop! Please stop, Nee-san!\"\nSakura puts herself between us.",
+      "sourceUnit": "桜ルート九日目-29:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura.\"\n\"S-Senpai is right. He's the only person I've hurt so far. If he's willing to forgive me, then I shouldn't be punished.\"",
+      "sourceUnit": "桜ルート九日目-29:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Do you really understand what's happening to your body right now?\nYou've got some nerve to say that.\"\n\"...I mean it. I'm still all right.\nWhat about you, Tohsaka-senpai? Senpai isn't a Master anymore, but you still are. He's back to how he was now that Saber is gone, and you're still going to attack him?\"",
+      "sourceUnit": "桜ルート九日目-29:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. It doesn't even matter if he's unarmed. If he gets in my way, then I can't show him any mercy.\"",
+      "sourceUnit": "桜ルート九日目-29:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Then...if you're going to fight him, then I'll fight you too. I won't lose to you, as Rider's Master.\"\nSakura's scared, but she faces Tohsaka with all her courage.",
+      "sourceUnit": "桜ルート九日目-29:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Is Tohsaka surprised by Sakura's grit, or does she think she's at a disadvantage?\n\"Fine. If you really mean that, then win this war. That's the only way to save you.\nIf you have the Holy Grail, then you can easily free yourself from Zouken's shackles.\"",
+      "sourceUnit": "桜ルート九日目-29:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...Tohsaka-senpai?\"\n\"I'm not just going to let you go.\nIf we're both competing for the Holy Grail, then we're bound to end up fighting. This just isn't the right place for it.\"",
+      "sourceUnit": "桜ルート九日目-29:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She walks by us.\nWithout any hostility or bloodlust, Tohsaka pushes past us with surprising grace.",
+      "sourceUnit": "桜ルート九日目-29:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"Hmph. Our united front lasted all of one day. Can't really call this an alliance anymore, if you're going to protect Sakura.\"\n...",
+      "sourceUnit": "桜ルート九日目-29:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"But don't forget. We don't know when she'll lose control again.\nYou can get yourself killed if you want...but she's your responsibility now, so make sure you're the only victim.\"\nShe leaves without looking back.",
+      "sourceUnit": "桜ルート九日目-29:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...Senpai, um. I...\"\n\"Don't look so worried, stupid. That's just Tohsaka's way of being sarcastic. She teases people for fun.\"\n\"...\"",
+      "sourceUnit": "桜ルート九日目-29:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "I give the sad girl a little push and go into the hallway.\nWe're both freezing, so we need to change and get warm.",
+      "sourceUnit": "桜ルート九日目-29:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"She's your responsibility now, so make sure you're the only victim.\"",
+      "sourceUnit": "桜ルート九日目-29:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "She means that I need to take Sakura down with me, if she kills me.\nThat was the minimum condition Tohsaka laid down when she left.\n\"...\"\n...It won't happen.\nI tell myself that while I take Sakura to the living room.",
+      "sourceUnit": "桜ルート九日目-29:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...Her hand feels so warm.\nSakura's alive, and she's here.\nThat's all I care about now.\nI can't let other doubts plague me and make Sakura more worried, but...",
+      "sourceUnit": "桜ルート九日目-29:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm?\"\nHold on.\nHer hand is too warm.",
+      "sourceUnit": "桜ルート九日目-29:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. Is your fever back?\"\n\"Huh...? U-um, I'm not sure. Do I feel hot?\"\nSakura says something strange, like she hasn't even noticed.",
+      "sourceUnit": "桜ルート九日目-29:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Not really, but you're still warmer than I am. It's like I feel all warm and fuzzy just by touching you.\"\n\"Ah...i-it must be a cold! I think I caught a cold because I was out in the rain for such a long time!\"\n?\nSakura suddenly looks away bashfully, for some reason.",
+      "sourceUnit": "桜ルート九日目-29:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Yeah, you were. You'd better get changed and warm up. I'll make dinner, so go take your temperature, and if you have a cold, wear something warm in the living room. I'll make something easy to eat.\"",
+      "sourceUnit": "桜ルート九日目-29:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... N-no, I don't need dinner. Um, I'm going to sleep now, so you should rest too!\"\nShe half runs away.",
+      "sourceUnit": "桜ルート九日目-29:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"???\"\n...Well, okay.\nI'll catch a cold if I stay like this too, so I'd better warm up in the bath.",
+      "sourceUnit": "桜ルート九日目-29:page31:1"
+    },
+    "page32": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

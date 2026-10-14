@@ -1,0 +1,382 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0725",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "And then, I wake up.\nI don't feel tired. My mind and body are refreshed, like they belong to someone else.",
+      "sourceUnit": "桜エピローグ2:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh, Senpai?\"\nHe was supposed to be sleeping next to me, but nobody else is in my futon.\nI look at the clock and see that it's already ten o'clock in the morning.\n\"Oh, he went to make breakfast.\"\nI pretend to accept that and get up.",
+      "sourceUnit": "桜エピローグ2:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I'm surprised by my lightness.\nWhat's going on, I wonder.\nIt's as if my arms and legs have been freed from a lifetime of chains.",
+      "sourceUnit": "桜エピローグ2:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Um, right.\"\nI remember, and my body heats up.\nLast night, Senpai shared his blood with me, and we slept together.\n...When we came back from the forest, Senpai only had one arm, but we were sure things would work out.\nI'm feeling fine, so I can ask Rider to help out.",
+      "sourceUnit": "桜エピローグ2:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Nothing bad will happen aymore.\nI have Senpai and Nee-san. We'll all do great, and...",
+      "sourceUnit": "桜エピローグ2:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...ngh.\"\n...A nightmare.\nWhy do I dream about the worst events?",
+      "sourceUnit": "桜エピローグ2:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai?\"\nThe breeze coming in feels nice.\nThe corridor is bathed in light, and walking through it lifts my spirits.\nMy body feels so light.\nMaybe I even lost weight while I was asleep.",
+      "sourceUnit": "桜エピローグ2:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...To be honest, I'm a little on the heavy side, and I do battle with the bathroom scale every night.\nIt hasn't really been working, but if Senpai says something like,\n\"Sakura, you look slender in everything, huh?\"\nIt'll make me swoon, so I'm certainly in favor of this newfound weight loss.",
+      "sourceUnit": "桜エピローグ2:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai...?\"\nMy body really feels so light and relaxed, it feels like the world is changing with each step I take.",
+      "sourceUnit": "桜エピローグ2:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "My body is so light.\nThe air is so beautiful.\nThe pulsing is so warm.",
+      "sourceUnit": "桜エピローグ2:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "It's like I've been freed from a poison permeating my body.\nLike the worms Grandfather implanted in me,\nlike the black mud sticking to my heart,\nlike the awful dreams lingering in the back of my mind never happened at all...",
+      "sourceUnit": "桜エピローグ2:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Senpai?\"\nNobody's here.\nThe hallway is very quiet.",
+      "sourceUnit": "桜エピローグ2:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai... Senpai...?\"\nNobody's here.\nThe sunshine is warm.",
+      "sourceUnit": "桜エピローグ2:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai... Sen...pai...? Oh, are we playing hide and seek?\"\nNobody's here.\nThe air is crisp.",
+      "sourceUnit": "桜エピローグ2:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... That's...weird. Wha... Senpai is just hiding...but...\"\nThat can't be right.\nSomebody has to be here.\nIt was just a bad dream,",
+      "sourceUnit": "桜エピローグ2:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "but I saw someone at the end.\nHis body was totally broken, and they would never meet again—",
+      "sourceUnit": "桜エピローグ2:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"No... It, it isn't true, right, Senpai?\"\nOf course it isn't true.\nHis body wasn't human anymore.\nHe couldn't possibly move in that body, so he should be staying here, waiting somewhere for me to come—",
+      "sourceUnit": "桜エピローグ2:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai... Sen...pai.\"\nBut...\nThe calendar in the living room shows that it's already been over ten days. It's the end of February.",
+      "sourceUnit": "桜エピローグ2:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... No...\"\nI collapse to my knees.\nI understand everything now.\nNo, I knew as soon I woke up, but I pretended not to.",
+      "sourceUnit": "桜エピローグ2:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"No... Come out, please come out, Senpai...!\nI... I can't... I can't do this by myself, Senpai. I can't go on without you, Senpai. Senpai, Senpai, Senpaiii...!!!\"",
+      "sourceUnit": "桜エピローグ2:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "My personality goes blank.\nEven now, I'm about to collapse but can't collapse. I can only weep.\nThat's really all it is.\nI'm a weakling, a crybaby, I don't know any other way to atone, and I can't even be grateful for being alive.",
+      "sourceUnit": "桜エピローグ2:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "It's the end of a long winter.\nI've been freed from the chains binding me for the last eleven years, but I lost my only guidepost.",
+      "sourceUnit": "桜エピローグ2:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Haah. You're so stubborn, Sakura. I underestimated you.\"\nThe boy speaks sullenly.\nHe sighs with a frustrated expression.\n...She was prepared for that.\nShe made contact with him, assuming that he would dislike her and that she would cause him trouble.",
+      "sourceUnit": "桜エピローグ2:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "It was but a slight touch.\nA part of her thought it would hurt if the boy disliked her, while...\n\"Oh, start over from this part. I'm going to be counting on you, so you can't ask me for help.\n—Thanks, Sakura. I'll have you help me until my injury gets better.\nShe saw how the boy muttered it to hide his embarrassment, and she cherished his generosity of spirit.",
+      "sourceUnit": "桜エピローグ2:page23:1"
+    },
+    "page24": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew. That settles one thing, Sakura.\nThe Association's investigation is over, and Kirei's replacement seems decent. They're not going to punish us.\nThis is a happy ending, right?\"",
+      "sourceUnit": "桜エピローグ2:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "Nee-san is strong.\nShe wasn't any more energetic than I was, but her spirits lifted when spring came, and she's working her brain.",
+      "sourceUnit": "桜エピローグ2:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"By the way, Sakura, want to come live at my house? If you're moving out of the Matou house, it'd be easier for you to come over, right?\"",
+      "sourceUnit": "桜エピローグ2:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Nee-san's consideration is so kind.\nI've dreamed for years about living in the Tohsaka house with my sister.\nI can't stand being alone at night, and even today, I'm not sure what will happen if she comes home.\nBut...\nThat's why I need to grow up.",
+      "sourceUnit": "桜エピローグ2:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. You're going to strike out on your own. Then I won't pressure you. I'll be around until I graduate, so feel free to come hang out on your days off.\"",
+      "sourceUnit": "桜エピローグ2:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "She tells me she'll be waiting, and leaves.\n...It must have been stuck in her hair when she came here.\nA pink flower petal flutters through the air.",
+      "sourceUnit": "桜エピローグ2:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Is this your first time cooking, Sakura?\"\nIt wasn't, but I can't say I was familiar with it yet.\nI did my best to read a lot of books before I came, and I was about average in cooking class.\nTo tell the truth, though, I was very, very afraid to have anyone eat something I cooked.",
+      "sourceUnit": "桜エピローグ2:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. I can make simple things.\"\n\"That's not what I meant, um... well, you'll just learn as you go.\nOkay, I'll start from the basics. Here. Careful, it's hot.\"",
+      "sourceUnit": "桜エピローグ2:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "The basic dish was rice balls.\nWe took steaming hot rice and squeezed it together.\nI thought he was making fun of me.\nI sulked a little, thinking that it was beneath me.\nBut when I looked up, I saw that his face was deadly serious, and I couldn't feel upset.\nAnd then...",
+      "sourceUnit": "桜エピローグ2:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, let's trade. I'll give you my rice ball, and I'll eat yours.\"\nHe took the rice ball I just made and stuffed his cheeks with it, right in front of me.\nHe gobbled up something I made and put his hands together in thanks.",
+      "sourceUnit": "桜エピローグ2:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what he was trying to tell me.\nBut the next day, I didn't feel as self-conscious about my cooking, and I wanted him to eat it and thank me again.",
+      "sourceUnit": "桜エピローグ2:page35:1"
+    },
+    "page36": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Are you sure, Sakura? It would help us out a lot if you took over, but...\"",
+      "sourceUnit": "桜エピローグ2:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "I earned a surprising amount of money from selling the Matou house.\nIt's more than enough to maintain this one.\nI asked Ms. Fujimura's grandfather to give me the deed to the property, and decided to keep this place the way it is, no matter what happens from now on.",
+      "sourceUnit": "桜エピローグ2:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm happy you care so much.\nLook, Sakura. Shirou isn't coming—\"",
+      "sourceUnit": "桜エピローグ2:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "I shake my head.\nMs. Fujimura's shoulders droop in resignation.\n\"All right. I'll leave this house to you.\"\nShe smiled like a mother, and left the Emiya house.",
+      "sourceUnit": "桜エピローグ2:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "This...is kind of a tough memory for me.",
+      "sourceUnit": "桜エピローグ2:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sakura. Once this commotion is over, let's go someplace far away.\nYou've never taken a vacation anywhere, have you? It could be fun to go on a trip.\"",
+      "sourceUnit": "桜エピローグ2:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "He said that there was nowhere we couldn't go if we put our minds to it.\nIt was so pure that I laughed.",
+      "sourceUnit": "桜エピローグ2:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay, it's a promise. Once you get better and this is all over...\"",
+      "sourceUnit": "桜エピローグ2:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Oh... That...promise.",
+      "sourceUnit": "桜エピローグ2:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Spring comes.\nI think I haven't met anyone for a while.",
+      "sourceUnit": "桜エピローグ2:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "It's difficult being alone.\nI keep repeating my memories. I want to turn them off like a light switch.\nIt helps that I don't long for company, but then why did I...",
+      "sourceUnit": "桜エピローグ2:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "—...Of course I am. You need to take responsibility for what you've done, Sakura.—",
+      "sourceUnit": "桜エピローグ2:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...Ahh, I need to do something.\nIt's hard being alone and with other people, but I... I need to do what I can...",
+      "sourceUnit": "桜エピローグ2:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "But I don't know how to atone.\nAfter all this time, I can't think of a way to help anyone else.\nBecause this is for myself.\nI've been growing one flower every year, for that promised day.",
+      "sourceUnit": "桜エピローグ2:page50:1"
+    },
+    "page51": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "I'm used to being alone. I can enjoy myself a little when people are around.\nBut the fear is still there.\nI talk to people, but I feel like the world is demanding that I atone.",
+      "sourceUnit": "桜エピローグ2:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "—But I'll protect you. I'll protect you from everything people will ask you. Even if it's hypocritical, I've always tried to live up to the ideal of protecting the people I love.—",
+      "sourceUnit": "桜エピローグ2:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "He was so selfish.\nIt was so nasty of him to say all that and then not protect me.\nSo I can't forgive him so easily.\nI'm going to be really selfish and make him go through the trouble I had to many times over.",
+      "sourceUnit": "桜エピローグ2:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "Mm... But I think I'll forgive him anyway.\nIt might be hypocritical, but his words calm my heart so much.\nIt might be irresponsible, but I love the boy who said that to me, and he loves me, too.",
+      "sourceUnit": "桜エピローグ2:page55:1"
+    },
+    "page56": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page57": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page58": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page59": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "No one comes to visit.",
+      "sourceUnit": "桜エピローグ2:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sad about it.\nBut sometimes, I feel so calm waiting for spring to come that I wonder if I'm still sane.",
+      "sourceUnit": "桜エピローグ2:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "I'm not sad because something is absolute.\nBecause I believe that something will happen that makes up for the suffering.\nI only have one worry.",
+      "sourceUnit": "桜エピローグ2:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...Senpai sure is taking a while. I'm going to be an old woman, at this rate.\"",
+      "sourceUnit": "桜エピローグ2:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "I pray that I can stay healthy until that day comes.",
+      "sourceUnit": "桜エピローグ2:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "Spring comes.\nLately, I haven't been able to move my body as well as I'd like.\nI go out to water the garden as usual.",
+      "sourceUnit": "桜エピローグ2:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Sensei! I'm here to help!\"\nMy student is here.\nI'm self-taught and not very skilled, but I found a student willing to learn from me.\nThe new Tohsaka heir is a good girl. She's very similar to my sister.",
+      "sourceUnit": "桜エピローグ2:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "Light scatters.\nI sit in my rocking chair in its usual place, and gaze out at the yard.",
+      "sourceUnit": "桜エピローグ2:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Sensei. Please don't sleep, okay? I want to hear more stories when I finish.\"",
+      "sourceUnit": "桜エピローグ2:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "That brings me great joy.\nAll I can remember are words now, but words only need to be spoken in order to become stories. They let me relive nostalgic days.",
+      "sourceUnit": "桜エピローグ2:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, you smiled. I love it when you smile. You're so beautiful, unlike my greedy grandma.\"",
+      "sourceUnit": "桜エピローグ2:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "The sunlight is warm. Time flows gently, and sometimes, torturously.\nI keep planting seeds in anticipation of that promised day.\nFlowers of redemption.\nI'll keep waiting for spring until my sins are forgiven.",
+      "sourceUnit": "桜エピローグ2:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "And then, spring comes again.",
+      "sourceUnit": "桜エピローグ2:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "The years pass by in the blink of an eye.\nI close and open my eyes.\nThe hill is covered in cherry blossoms.\nLooking just as he always has, the boy waves at me from the hilltop road of our youth.",
+      "sourceUnit": "桜エピローグ2:page73:1",
+      "recoveredDelimitedTail": true
+    },
+    "page74": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0288",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah.\nI should go check on Sakura before the sun sets.",
+      "sourceUnit": "凛ルート六日目-02:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Fuji-nee, I'm going out for a bit. I don't know what you're up to, but I'll leave dinner to you.\"\n\"Okay, take care. Dinner's going to be delicious crab egg foo young.\"\nCrab egg foo young, huh?\nWell, I guess even Fuji-nee should be able to make that.",
+      "sourceUnit": "凛ルート六日目-02:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I head up the hill as the sun sets.\nAs it's still winter, it's setting early.\nI need to hurry and go to the Matou household so I can check up on Sakura.",
+      "sourceUnit": "凛ルート六日目-02:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, Senpai? Why are you here at this time?\"\n\"Oh... Well, I just felt like it. I was just passing by, so I thought I'd drop in.\"\n\"Passing by? Okay, whatever you say.\"",
+      "sourceUnit": "凛ルート六日目-02:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "My flustered state must've been funny, as Sakura smiles.\nHer expression is genuine, and it doesn't look like she's been harassed by Shinji.",
+      "sourceUnit": "凛ルート六日目-02:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura. I really don't have any business here, but what's Shinji doing?\nIs he home right now?\"\n\"No, I don't think he's home yet.\"",
+      "sourceUnit": "凛ルート六日目-02:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Not home yet...? Then who called my house? Didn't Shinji tell you to come back here?\"\nHuh...? Well, Ms. Fujimura just told me to go home since my grandfather was waiting, so I'm not sure...",
+      "sourceUnit": "凛ルート六日目-02:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI see.\n...But it is true that Shinji hasn't talked to Sakura at all.\nShinji's her brother after all.\nHe would never involve such a good sister in this battle between Masters.",
+      "sourceUnit": "凛ルート六日目-02:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...And there's one thing I have to tell her so I don't involve her in this mess.",
+      "sourceUnit": "凛ルート六日目-02:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "We stare at each other blankly.\nTen seconds pass with us just goofily staring at each other.",
+      "sourceUnit": "凛ルート六日目-02:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"U-um... I'm a bit disappointed, but I'm relieved to hear that from you. I was told to stay at home and not go anywhere at night for a while.\"",
+      "sourceUnit": "凛ルート六日目-02:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-yeah, that's right. It's been dangerous lately, so we should've done so earlier... See you, Sakura.\"",
+      "sourceUnit": "凛ルート六日目-02:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I will refrain from going to your house for a while.\nI'm a little disappointed, but I suppose things will return to normal eventually. Until then, please come visit the kyudo club, Senpai.\"",
+      "sourceUnit": "凛ルート六日目-02:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "Sakura bows and goes back into her house.",
+      "sourceUnit": "凛ルート六日目-02:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I manage to make it back before dinner.\nI tell Saber, who was angrily waiting for me at the entrance, about what happened today and how we eliminated the Bounded Field at school, as well as Tohsaka anticipating a counterattack tomorrow.",
+      "sourceUnit": "凛ルート六日目-02:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "...I don't tell her about Shinji.\nI don't want her to consider him an enemy until his true intentions are clear.",
+      "sourceUnit": "凛ルート六日目-02:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"I understand. Then let us eat, Shirou. Taiga has made dinner and has been waiting.\"\nShe must be hungry, as Saber makes her way quickly to the living room.",
+      "sourceUnit": "凛ルート六日目-02:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I haven't eaten anything she's made since I was a kid.\"\nI'm half worried and half looking forward to it.",
+      "sourceUnit": "凛ルート六日目-02:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...Man.\nWho would have imagined that it was going to turn into such a disaster...?",
+      "sourceUnit": "凛ルート六日目-02:page19:1"
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

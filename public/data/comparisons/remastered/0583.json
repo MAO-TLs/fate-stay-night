@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0583",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going. That's why I'm here.\"\n\"Then stay behind me. I'll send Archer on ahead...so that should help us avoid getting killed instantly.\"",
+      "sourceUnit": "桜ルート十日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "With that, Tohsaka starts running deeper into the forest.\nArcher drops from spirit to material form, gives me one glance, and then charges forward, blazing a path.",
+      "sourceUnit": "桜ルート十日目-09:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

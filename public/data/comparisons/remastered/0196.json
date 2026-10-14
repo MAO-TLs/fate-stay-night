@@ -1,0 +1,127 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0196",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Saber can take care of Caster.\nThere's no Servant left that Saber can't defeat, and Saber should be good against Caster.\nHer strong Magic Resistance should make her a good choice against Caster, who is a mage.",
+      "sourceUnit": "セイバールート十三日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Can you go?\"\n\"Yes. I should go alone if we only face Caster.\nYou have made the right choice.\"\n\"Okay. We'll try to hold down the fort. You just need to focus on defeating Caster.\"",
+      "sourceUnit": "セイバールート十三日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "A strange sound reaches me just as I finish speaking.\nIs it...the sound of Saber tearing through Caster's familiars now that she's jumped out into the hall?",
+      "sourceUnit": "セイバールート十三日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm hearing more of them now. Twenty...thirty...forty... They may be weak, but there's too many of them.\"",
+      "sourceUnit": "セイバールート十三日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shouldn't be a problem. Dragon Tooth Warriors are imitations. They don't stand a chance against Saber. She's the incarnation of a dragon. Even a hundred of them wouldn't be a match for her.\"",
+      "sourceUnit": "セイバールート十三日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "The sounds retreat into the distance.\nThe horde I felt surrounding the house is gone. I assume Saber defeated them all.",
+      "sourceUnit": "セイバールート十三日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nLike Illya said, Caster's familiars can't stop Saber.\nThey must not have made it in here because they couldn't get past Saber.",
+      "sourceUnit": "セイバールート十三日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"As expected...Saber found Caster.\nCaster's trying to recall all her familiars, but this looks like the end for her.\"",
+      "sourceUnit": "セイバールート十三日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "If Illya's right, the battle should be over soon.\nSaber won't lose in single combat.\nShe shouldn't have any trouble cutting Caster down since she doesn't have to worry about protecting us.",
+      "sourceUnit": "セイバールート十三日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Why so glum? You look troubled, even though we're saying the fight's just about over.\"\n\"I could say the same, Tohsaka. Why does it look like something's bothering you?\"",
+      "sourceUnit": "セイバールート十三日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...it just seems like things are going TOO well.\nCaster knows Saber is way more powerful, so...why just launch herself at us like this?\"",
+      "sourceUnit": "セイバールート十三日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe's right.\nCaster came here willingly.\nIf she knows that there's a Master here, she should already know which Servant is here too.\nSo she knows that Saber is here, and that Saber is a bad matchup for her.\n...If she knew that and still attacked, that means—",
+      "sourceUnit": "セイバールート十三日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't hear anything. Illya, do you sense Caster's presence?\"\n\"It's gone. The familiars are still around, but the only Servant left is Saber.\"\n\"There are still familiars left...?\nLook...! Shirou, your arm!\"",
+      "sourceUnit": "セイバールート十三日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI look down at my left arm.\nI...don't understand what happened.\nMy Command Spells, proof of my contract with Saber, are gone.",
+      "sourceUnit": "セイバールート十三日目-01:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, did you use a Command Spell!?\"\n\"No. I didn't.\"\n\"...\"",
+      "sourceUnit": "セイバールート十三日目-01:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "What's going on?\nSaber should've defeated Caster easily.\nSo then why did my Command Spell disappear?\nNo, my Command Spell disappearing doesn't mean my contract is severed. I shouldn't be panicking.",
+      "sourceUnit": "セイバールート十三日目-01:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "Command Spells are there to control Servants who may act against their Master's orders.\nI haven't needed to use them for Saber.\nSo even if I lose the Command Spells, Saber and I should be able to get along fine.",
+      "sourceUnit": "セイバールート十三日目-01:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber's back. She'll be here soon.\"\n\"...\"\nWhat are those two doing?\nSaber's just coming back, so why do they seem so worried?",
+      "sourceUnit": "セイバールート十三日目-01:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "The door opens.\nSaber comes in.\n\"Hngh...guh...!\"\nSaber's gripping her chest. She seems to be in pain.",
+      "sourceUnit": "セイバールート十三日目-01:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber!!!\"\nI rush to her.\n\"No! Wait, Shirou!\"\nI don't hear Tohsaka's warning.\nAll I see is that Saber is injured.\n\"Are you okay, Saber? Where did you—\"",
+      "sourceUnit": "セイバールート十三日目-01:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What...!? No, run, Shirou...!\nSaber...stop—\"\n...",
+      "sourceUnit": "セイバールート十三日目-01:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "In a single stroke, my body is cut in half, from the shoulder to the waist.\nSo quick is the slash that for a moment, I don't even feel pain. My mysterious healing abilities don't seem to work against the attack from Saber's sword.",
+      "sourceUnit": "セイバールート十三日目-01:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sa...ber...\"\nThe world starts to go dark.\nAs I die...\n...more than my fear of death, I find myself wondering why Saber attacked me.",
+      "sourceUnit": "セイバールート十三日目-01:page22:1",
+      "recoveredDelimitedTail": true
+    },
+    "page23": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

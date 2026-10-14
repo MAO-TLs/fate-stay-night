@@ -1,0 +1,567 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0160",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I should be the one asking you! What were you thinking!?\nI have repeatedly told you never to go out alone, but you allowed Illyasviel to capture you—easily at that—and bring you here!\"",
+      "sourceUnit": "セイバールート十一日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"You have failed as a Master. I insist you make an apology for this!\"",
+      "sourceUnit": "セイバールート十一日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...I know I was careless. But seriously, why are you here!?\nYou can barely move, so what were you thinking, coming to Illya's stronghold in this state!?\"",
+      "sourceUnit": "セイバールート十一日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I could ask the same of you!\nServants protect their Masters. It does not matter where you were taken, even Illyasviel's stronghold.\"",
+      "sourceUnit": "セイバールート十一日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber is blunt as ever.\nShe's exactly as she's always been.\nThis isn't the weak, slumbering Saber from last night.",
+      "sourceUnit": "セイバールート十一日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Why have you clammed up? I-I knew it... You were injured in your captivity!\"\n\"Uh...no, that's not it. Don't worry about me. I'm just glad to see you doing better.\"",
+      "sourceUnit": "セイバールート十一日目-17:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I'm genuinely relieved.\nI'm surprised to see Saber here, but I'm much happier to see that she's herself.\nI know it's selfish of me to think this way...\n...but I think this is how Saber should be.",
+      "sourceUnit": "セイバールート十一日目-17:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sorry, Saber. I don't fully understand, but you came to rescue me, right?\"",
+      "sourceUnit": "セイバールート十一日目-17:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...yes. It is a Servant's duty to rescue her Master.\"\n\"Thanks. I'm really glad you came.\"",
+      "sourceUnit": "セイバールート十一日目-17:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "What a relief.\nEverything's sorted itself out.\nNow I just need to get out of here with Saber.\n...Wait a minute.\nIs that...Tohsaka?",
+      "sourceUnit": "セイバールート十一日目-17:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"T-Tohsaka!?\"\nUmmm...\nAre you real? And are you really right here?",
+      "sourceUnit": "セイバールート十一日目-17:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"You look better than I thought you would. Maybe I didn't need to come.\"",
+      "sourceUnit": "セイバールート十一日目-17:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what I said, Rin. I told you to just leave Shirou Emiya be.\nAll he does is cause trouble for everyone around him, then somehow survive himself. This would have been a perfect opportunity to just leave him to die on his own.\"",
+      "sourceUnit": "セイバールート十一日目-17:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Please, Archer. Hold your tongue.\nI asked for your help, yes, but that does not give you the right to insult Shirou.\"",
+      "sourceUnit": "セイバールート十一日目-17:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. You talk big now that your Master's safe. First the Master, then the Servant. They don't have an ounce of gratitude for their own allies.\n...Well, we're going to end up fighting eventually. It's probably best not to have too much in the way of fond feelings.\"",
+      "sourceUnit": "セイバールート十一日目-17:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHe must have hit a nerve, as Saber grows silent.\nThis guy...\nHe's not just unfriendly to me. He treats Saber the same way.",
+      "sourceUnit": "セイバールート十一日目-17:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Enough. I hope you haven't forgotten the situation we're all in right now, Archer.\nWe don't have time for bickering. We need to get out of here before Illyasviel comes back.\"",
+      "sourceUnit": "セイバールート十一日目-17:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Wait a minute.\nYou came here knowing this is where Illya lives? And actually...\"\nIllya left saying she was going to kill Tohsaka and Saber.\nThat means Illya and Tohsaka passed each other.",
+      "sourceUnit": "セイバールート十一日目-17:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a relief. I think Illya's heading to my place right now. If you guys hadn't come here, you would have had to fight her there.\"",
+      "sourceUnit": "セイバールート十一日目-17:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, looks that way. I did see Illya and Berserker head outside. Though I must admit that if they hadn't left, we wouldn't have been able to sneak in here in the first place.\"",
+      "sourceUnit": "セイバールート十一日目-17:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...I get it. Saber and Tohsaka only managed to pull something so bold off because they saw Illya leave.\nShe's bold as ever, but this time, that brazenness worked to our advantage. I'm impressed.",
+      "sourceUnit": "セイバールート十一日目-17:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"We'll talk later. I braced myself, knowing that this was the Einzbern's hideout, but it would be much better if we could avoid confronting any of them at all.\nAnd Saber's in no state to go up against Berserker right now.\"\nTohsaka gestures for me and Saber to separate.",
+      "sourceUnit": "セイバールート十一日目-17:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. What do you mean, Saber's in no state...?\nShe's got her color back, and she's acting like herself.\"",
+      "sourceUnit": "セイバールート十一日目-17:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"You should really know better than to be so blindly optimistic.\nSaber hasn't recovered at all. Can't you see that she's barely able to stand?\"\n\"Rin! You promised to keep that to yourself!\"",
+      "sourceUnit": "セイバールート十一日目-17:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I need to go back on my word. Keeping quiet won't help anyone, and this isn't a secret we can keep forever anyway.\"\n\"...That may be true, but...\"\nShe sounds so pained...\nAnd now I see nothing has changed about her situation.",
+      "sourceUnit": "セイバールート十一日目-17:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Is Tohsaka telling the truth...?\"\n\"...Yes. Rin is correct. It is embarrassing to admit, but I am in no position to fight as a Saber right now. At best, I can be your shield.\"",
+      "sourceUnit": "セイバールート十一日目-17:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. I figured as much. She's too weak to even armor herself up, but she insisted she come with us.\nShe probably figured she'd defend her Master even if she couldn't really fight.\"",
+      "sourceUnit": "セイバールート十一日目-17:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nShe's so weak she can't even arm herself...\nShe was willing to become my shield since she couldn't fight...? What kind of absurd nonsense is she saying?",
+      "sourceUnit": "セイバールート十一日目-17:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"I am sorry, Shirou. I know I am useless as a Servant in my current state, but I can at least be your shield. I know this is not ideal for you, but it is the only—\"",
+      "sourceUnit": "セイバールート十一日目-17:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Oh come on!\nWhy does Saber never think about herself? Why is she only ever worried about everyone else!?",
+      "sourceUnit": "セイバールート十一日目-17:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"To hell with that! Of course I'm not happy!\nTohsaka! Why did you bring Saber!?\nDon't you realize Saber needs more help than me right now!?\"",
+      "sourceUnit": "セイバールート十一日目-17:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what? I tried to stop her! Saber refused to listen, and...we wouldn't have been able to pinpoint where you were without her in the first place! I know it was risky, but we needed Saber!\"",
+      "sourceUnit": "セイバールート十一日目-17:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"But you still...\"\nI want to tell her she shouldn't have brought Saber, but I stop myself.\nI have no business criticizing.\nThis is only happening because I went and got captured.\nTohsaka and Saber were just doing what they thought was right.",
+      "sourceUnit": "セイバールート十一日目-17:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Enough squabbling. Just leave it alone for now, Rin.\nMasters are sensitive to any changes in their homes, so we don't have time to explain every detail just now.\"",
+      "sourceUnit": "セイバールート十一日目-17:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. Illyasviel must be surprised we're gone, so she's probably coming back real quick.\nFine. Let's talk later. Right now our priority is getting out of this castle. Are you okay with that, Shirou?\"",
+      "sourceUnit": "セイバールート十一日目-17:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, we should...\"\n\"Yeah, but...\"\nIf Saber is as bad as she was last night, it'll be hard for her to even walk right now.\nI don't want to push Saber any harder than I have already.",
+      "sourceUnit": "セイバールート十一日目-17:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, you all underestimate me.\"\n\"Eh, Saber?\"",
+      "sourceUnit": "セイバールート十一日目-17:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Even low on magical energy, I can still fight better than Shirou. If anything, I am more concerned about Shirou disappearing.\n...Rin may not have noticed, but your magical energy is disordered, is it not?\"",
+      "sourceUnit": "セイバールート十一日目-17:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Well, this is nothing. I can manage.\nI'm...well, I'm totally fine. Really.\"",
+      "sourceUnit": "セイバールート十一日目-17:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Then we are in the same state, you and I. I may be slightly uncomfortable, but it is not unbearable.\nThis may all be difficult to accept given how quickly it has happened, but let us follow Rin for now. We can discuss this further once we have returned home.\"\nSaber encourages me to go.",
+      "sourceUnit": "セイバールート十一日目-17:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nI give up.\nShe looks so serious, so determined that I can't worry anymore.",
+      "sourceUnit": "セイバールート十一日目-17:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. There are tons of things I want to talk about, but they can wait until we all get home safely.\"\nI want to ask about Saber's condition...and I want to thank her for coming to rescue me.\nBut now isn't the time to ask her about the dream I had.",
+      "sourceUnit": "セイバールート十一日目-17:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Let's go, Saber.\"\nI nod, and get moving as best I can.",
+      "sourceUnit": "セイバールート十一日目-17:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Every step is a supreme effort, but this isn't the time for whining.\nEven weakened as she is, Saber came all the way here.",
+      "sourceUnit": "セイバールート十一日目-17:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whoa.\"\nIs this a hallway?\nThis corridor wouldn't be out of place in a museum... Illya's castle must be massive.",
+      "sourceUnit": "セイバールート十一日目-17:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, no time to gawk. Even if we make it out of the castle, the forest surrounding it is huge. If we don't hurry, it'll be morning before we're out.\"",
+      "sourceUnit": "セイバールート十一日目-17:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"A forest? So are we really in the mountains? Are you talking about the forest that's a couple hours from Miyama by car?\"",
+      "sourceUnit": "セイバールート十一日目-17:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. We're in the Einzbern's secret castle.\nOnce we make it out, it'll take a few hours to get through the forest. It's nighttime right now, so we should be out of the forest before the sun rises.\"",
+      "sourceUnit": "セイバールート十一日目-17:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka heads through the hallway, not hesitating for a moment.\nShe's probably heading toward whatever door they snuck in through.",
+      "sourceUnit": "セイバールート十一日目-17:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...I figured it was night but...how long have I been here?\"\nI thought it was about half a day, but maybe it's actually been a few days.",
+      "sourceUnit": "セイバールート十一日目-17:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Illyasviel captured you in the morning, so it's been about half a day.\nThough, the date has changed, so you have spent a day in captivity, I suppose.\"",
+      "sourceUnit": "セイバールート十一日目-17:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...I see. Sorry.\"\n\"No, please do not apologize. Illyasviel held you captive for a considerable amount of time, but you are still safe. That must be proof that you did not submit mentally, even though your body was captive.\"",
+      "sourceUnit": "セイバールート十一日目-17:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, that may be true, but...\"\n\"Yes. Illyasviel may look like a young girl, but she is still an Einzbern mage. Had you submitted to her, you would likely no longer be yourself.\"",
+      "sourceUnit": "セイバールート十一日目-17:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"And it is not as if I did not consider that possibility. I came to this castle fully prepared to find you dead.\"\n...",
+      "sourceUnit": "セイバールート十一日目-17:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"...Which is why I was so glad to reunite with you, Shirou.\nMy Master has shown me that he is all right, so I cannot possibly show myself to be any worse off.\"",
+      "sourceUnit": "セイバールート十一日目-17:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "I feel the same.\nI couldn't stand not knowing if Saber was safe or not.",
+      "sourceUnit": "セイバールート十一日目-17:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey! You two are serious about escaping, right?\nIf you guys fall behind, I'm gonna leave you!\"\nTohsaka pops her head from the bend of the corridor to yell at us.",
+      "sourceUnit": "セイバールート十一日目-17:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Crap. This really isn't the time for us to chat. Let's hurry, Saber.\"\nI break into a run, urging Saber to do the same.\n...Ungh.\nEverything hurts, but I grit my teeth and keep going.",
+      "sourceUnit": "セイバールート十一日目-17:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "I drive my aching body on, following Tohsaka.\nAs I half-limp, half-run, Saber brings up the rear.\n...She must be in a lot of pain too.\nShe's pretending not to be, but she's in no condition for this.",
+      "sourceUnit": "セイバールート十一日目-17:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, if it's hard for you...\"\nI want to tell her I'll give her a helping hand, but I stop myself.\nSaying that will just make Saber dig in her heels and be more determined not to accept help.",
+      "sourceUnit": "セイバールート十一日目-17:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "All I can do is keep an eye on her.\nOnce Saber's too exhausted to complain, I'll just carry her.\n...Honestly, Saber can be incorrigible sometimes.\nShe has to be forced to even take a break!",
+      "sourceUnit": "セイバールート十一日目-17:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "And so...\nWith Tohsaka leading the way, we managed to get to the exit.",
+      "sourceUnit": "セイバールート十一日目-17:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, you said this was an exit, but this is the entrance, Tohsaka!\"\n\"Huh? What are you on about? You do know that you can go in and out of entrances, right?\"\nTohsaka hurries down the stairs.",
+      "sourceUnit": "セイバールート十一日目-17:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nWell, I'm in no position to complain.\nSaber and I head down the stairs and into the hall.\nIt looks like a lobby.\nAll we have to do now is head out through the big door at the other end of the hall and we're out.",
+      "sourceUnit": "セイバールート十一日目-17:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. We should be okay now that we've come this far. The problem now is how we get through the forest. We might be able to use the cover of darkness to reach the main road.\nWe really don't want to be here when Illyasviel comes back and finds you're gone.\nBy the time she comes back, it'll be morning... Hey, what's with that look, Shirou? You've obviously got a problem.\"",
+      "sourceUnit": "セイバールート十一日目-17:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, nothing. Just kind of...remembering how ballsy you are.\"",
+      "sourceUnit": "セイバールート十一日目-17:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? You have the weirdest thoughts at the weirdest times...\"\n...Well, I was more getting at her just...walking into the enemy stronghold through the front door.",
+      "sourceUnit": "セイバールート十一日目-17:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, whatever. Let's just head out. I remember the way back from here, so we won't get lost.\"",
+      "sourceUnit": "セイバールート十一日目-17:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "We head towards the entrance.\nA long, narrow hall extends from the lobby, and at the end of it is an enormous door.\nThe hall is, unbelievably, about thirty meters long.\nI'm reminded that we're standing in an actual castle, but in the next moment...",
+      "sourceUnit": "セイバールート十一日目-17:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Going home already? What a shame, after you came all the way here.\"",
+      "sourceUnit": "セイバールート十一日目-17:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Illya shouldn't be here, but her giggling voice echoes up and down the hall.",
+      "sourceUnit": "セイバールート十一日目-17:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI whirl around.\nEveryone skids to a stop.\nThe instant we see our enemy, we know we're dead as soon as we turn our backs to them.",
+      "sourceUnit": "セイバールート十一日目-17:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...sviel...\"\nTohsaka's voice trembles.\nBack at the other end of the hall...\n...we see her standing at the top of the stairs we just descended. She shouldn't be here...",
+      "sourceUnit": "セイバールート十一日目-17:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Ironically, it's a similar arrangement to our first meeting.\nIllya standing above us with Berserker behind her.\nBerserker's presence is overwhelming.\nNow that I can assess a Servant's strength, I understand what a monster he really is.\nWe can't do this.\nEven if Saber was at full strength, Berserker is just too powerful.",
+      "sourceUnit": "セイバールート十一日目-17:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...It wouldn't even be a battle.\nThat monster can't be beat. Not in a fight.\nIf we are ever going to beat Berserker, we have to figure out how to do it without fighting him.\nIn other words...\nIf we want to live, we need to stay far away from Berserker.",
+      "sourceUnit": "セイバールート十一日目-17:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Good evening. I'm so happy you came to see me, Rin.\"\nIllya's voice is cheerful and bouncy.\nShe's smiling that same smile I saw the night we met. Innocent but merciless... She won't settle to squash us like bugs.",
+      "sourceUnit": "セイバールート十一日目-17:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "And that's when I realized.\nWe're not going to escape. Period.\nNo matter what I do, I can't stop Illya.\nEven if I try to draw Illya's attention, that won't let Tohsaka and the others escape.",
+      "sourceUnit": "セイバールート十一日目-17:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? You're so boring when you just keep your mouth shut. I'm giving you some time, so I suggest writing a will while you still can.\"",
+      "sourceUnit": "セイバールート十一日目-17:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "She giggles.\nBut we don't have time for these kinds of games.\nWe need to run to the entrance the second we can find an opening.\nEven if we know we'll never get an opening, all we can do is wait and hope.",
+      "sourceUnit": "セイバールート十一日目-17:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then let me ask you one thing.\"\nEven in this situation...\nTohsaka takes a step closer towards Illya.",
+      "sourceUnit": "セイバールート十一日目-17:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Illyasviel. I didn't sense your presence coming back. Were you hiding this entire time?\"",
+      "sourceUnit": "セイバールート十一日目-17:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I didn't go anywhere. I was watching all of you make fools out of yourselves from here.\"\n\"Oh really. So that wasn't the real you heading outside?\"",
+      "sourceUnit": "セイバールート十一日目-17:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. I knew you were coming.\nI'm the lord of this place, so I should entertain my guests, right?\"",
+      "sourceUnit": "セイバールート十一日目-17:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "Right then, the giant vanishes.\nI'm not sure if it jumped or just moved.\nThe next thing I know, Berserker appears in the middle of the lobby, creating a whirlwind.",
+      "sourceUnit": "セイバールート十一日目-17:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "This is the end for us.\nIf we retreat towards the entrance, he'll slice us in half with that axe-sword the moment we turn our backs to him.\nBut we're dead if we stay here too.\nOur only other option is to challenge that walking mass of death, however futile it'll be.",
+      "sourceUnit": "セイバールート十一日目-17:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Are we done talking? Then let's begin, Berserker.\"\nThe pale girl raises her hand as if performing a ritual, and looks down on us\n\"I swear I won't let anyone get away today.\"\nHer declaration is equal parts murderous intent and delight.",
+      "sourceUnit": "セイバールート十一日目-17:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "Berserker's eyes light up.\nBefore, Berserker had moved only as Illya ordered, but now he's free to act, and he identifies us as enemies.",
+      "sourceUnit": "セイバールート十一日目-17:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "...\nSomething's making a grinding sound.\n\"Tohsaka...?\"\nTohsaka grits her teeth hard, as if in regret.",
+      "sourceUnit": "セイバールート十一日目-17:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer, can you hear me?\"\nTohsaka speaks quietly, without turning.\n\"We don't need long. Distract him for us.\"\nShe just ordered her Servant to his death.",
+      "sourceUnit": "セイバールート十一日目-17:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher doesn't answer.\n\"Ridiculous! Are you mad, Rin? Archer cannot possibly go up against Berserker alone!\"\n\"We're going to take that chance to escape. Archer is going to buy us time.\"",
+      "sourceUnit": "セイバールート十一日目-17:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka continues giving her orders, ignoring Saber.\nHer voice is cold, devoid of any emotion.",
+      "sourceUnit": "セイバールート十一日目-17:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "...\nArcher, who had been silent as if pondering something, his eyes fixed on Berserker, gives a slight nod.\n\"A sound plan. I will be able to escape once Rin and the others have.\nIndependent Action is an Archer's strong suit.\"\nHe takes a step forward as if to protect Tohsaka.",
+      "sourceUnit": "セイバールート十一日目-17:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "Berserker doesn't move.\nIllya's laughter echoes from above.",
+      "sourceUnit": "セイバールート十一日目-17:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh wow, this is a surprise. You think your nobody of a Servant can stop my Heracles.\nI never thought you would do something so cute, Rin.\"",
+      "sourceUnit": "セイバールート十一日目-17:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "...\nNeither Tohsaka nor Archer are in any position to object.\nThey know better than anyone.",
+      "sourceUnit": "セイバールート十一日目-17:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "Archer steps forward.\nHe's empty-handed as usual.",
+      "sourceUnit": "セイバールート十一日目-17:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka looks at Archer's back.\nThere's nothing she can say to him.\nShe must know her orders are absurd.\nThey amounted to telling Archer to die so we could escape.",
+      "sourceUnit": "セイバールート十一日目-17:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer, I—\"\nTohsaka is about to say something.\nBut...\n\"Rin, I just want to check something with you.\"\nArcher interrupts her, speaking so nonchalantly that it seems out of place.",
+      "sourceUnit": "セイバールート十一日目-17:page97:1"
+    },
+    "page98": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. What?\"\nTohsaka turns toward Archer, her eyes downcast.\nArcher's gaze stays locked on Berserker.",
+      "sourceUnit": "セイバールート十一日目-17:page98:1"
+    },
+    "page99": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I don't mind buying you time...\nBut you wouldn't mind if I just beat this thing, right?\"\nIt sounds completely ridiculous.",
+      "sourceUnit": "セイバールート十一日目-17:page99:1"
+    },
+    "page100": {
+      "status": "exact_japanese_text",
+      "text": "\"Archer, are you...\"",
+      "sourceUnit": "セイバールート十一日目-17:page100:1"
+    },
+    "page101": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, there's no need to hold back.\nGive him hell, Archer.\"",
+      "sourceUnit": "セイバールート十一日目-17:page101:1"
+    },
+    "page102": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. Guess I should try to live up to your expectations.\"\nArcher walks forward.\nOnly ten meters until he reaches Berserker.\nAt this distance, it could close on Archer instantly.",
+      "sourceUnit": "セイバールート十一日目-17:page102:1"
+    },
+    "page103": {
+      "status": "exact_japanese_text",
+      "text": "\"You're making a mockery of me! Fine! Get him, Berserker! Go, tear that cocky man to pieces!\"\nIllya's voice is hysterical.\nTohsaka turns her back, not paying attention.",
+      "sourceUnit": "セイバールート十一日目-17:page103:1"
+    },
+    "page104": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. Once we're out, we've won.\"\nTohsaka grabs my hand, as well as Saber's, and runs.",
+      "sourceUnit": "セイバールート十一日目-17:page104:1"
+    },
+    "page105": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber doesn't object; she follows Tohsaka.\nI start running toward the entrance, leaving Archer behind.\nBut then, from behind me...\n\"Shirou Emiya.\"\nHe calls out to me, his back still to me.",
+      "sourceUnit": "セイバールート十一日目-17:page105:1"
+    },
+    "page106": {
+      "status": "exact_japanese_text",
+      "text": "...\nI let go of Tohsaka's hand and turned around.\nIn the lobby, now a good ways from me, I see Archer's back as he faces down Berserker.",
+      "sourceUnit": "セイバールート十一日目-17:page106:1"
+    },
+    "page107": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. You're not a fighter. You only create.\"\nBerserker draws near.\nArcher is still empty-handed, and he doesn't take a single step while he watches his enemy closing in.",
+      "sourceUnit": "セイバールート十一日目-17:page107:1"
+    },
+    "page108": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't think about anything else. There's only one thing you can do, so master that one thing.\"\nArcher raises one hand.\nI have no idea when he got it, but he's holding a short sword now.",
+      "sourceUnit": "セイバールート十一日目-17:page108:1"
+    },
+    "page109": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't forget. What you need to do is to always imagine yourself as the strongest. You don't need an enemy. The only opponent you need to fight is your own mind.\"\nI see him start to shift.\nBerserker's sword sends a rush of wind ahead of him.",
+      "sourceUnit": "セイバールート十一日目-17:page109:1"
+    },
+    "page110": {
+      "status": "exact_japanese_text",
+      "text": "I turn and run, not staying to watch the clash.\nTohsaka and Saber are already at the entrance.\nI run and I don't look back.\nThe sight of the man in red made it clear that I needed to go.",
+      "sourceUnit": "セイバールート十一日目-17:page110:1",
+      "recoveredDelimitedTail": true
+    },
+    "page111": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

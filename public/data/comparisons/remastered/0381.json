@@ -1,0 +1,87 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0381",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I go back to my room and lie down.\nSleepiness spreads to my whole body as soon as I do.",
+      "sourceUnit": "凛ルート十三日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stare at the dark ceiling.\nWe are going to Illyasviel... That girl in white's hideout tomorrow.",
+      "sourceUnit": "凛ルート十三日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "No matter what kind of negotiations take place, it's obvious that it'll become a trial of strength.\nTohsaka suggested that we take a nap before we head over, since we won't be able to achieve good results if we go with tired bodies.",
+      "sourceUnit": "凛ルート十三日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Five more hours till dawn. We have to go talk to that girl after that.\"",
+      "sourceUnit": "凛ルート十三日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The young Master that appeared in front of us on the night I became a Master.\nIf Saber is an excellent Servant in all aspects,\nthen Berserker is specialized when it comes to battle.\nThere's no Servant that can match Berserker simply in terms of battle.",
+      "sourceUnit": "凛ルート十三日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...How are we supposed to talk with such monsters?\"\nSaying it makes me believe that it's impossible to negotiate with them.\nHowever...",
+      "sourceUnit": "凛ルート十三日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Strangely, I don't feel any uneasiness.\nI feel like that Illya kid will understand if we talk to her.\n...Just like Tohsaka, I'm sure she can differentiate her enemies and allies as a mage, but I feel like she's a decent kid in a different regard.",
+      "sourceUnit": "凛ルート十三日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Geez, what wishful thinking when I haven't even talked with her yet.\"\nI bet she would flame me, saying that it's a convenient fantasy.\nBut, what's wrong with believing that?\nIs it weird to have hope for someone who you don't know and are about to meet?",
+      "sourceUnit": "凛ルート十三日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...\nI realize that I'm gritting my teeth.\nThe man that told me to drown in my ideals betrayed Tohsaka in front of my eyes.\nA guy with that much trust and power changed his beliefs that easily.",
+      "sourceUnit": "凛ルート十三日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Archer.\"\nI feel my heart start to sink.\nNo, is it freezing?\nMy mind freezes, just thinking back at his actions.",
+      "sourceUnit": "凛ルート十三日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I'm angry.\nI can't forgive him for betraying Tohsaka, out of all people.\nI can't forgive him for abandoning his ally, out of all people.\nI... Will never be like that.\nEven if that had been the very best action to survive and it ends up being the correct path, I will never do something like that.",
+      "sourceUnit": "凛ルート十三日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "His actions have been getting on my nerves.\nHe told me not to talk about ideals.\nI rebelled against him when he said that I can't save everything.\nEven then... I agreed somewhere in my heart.",
+      "sourceUnit": "凛ルート十三日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...His words are correct.\nThe hero of justice that my old man talked about was just a pipe dream,\nand I accepted the fact that I have to become like him if I wanted to get as close to that ideal as possible.\nI've been denying it, even though I had accepted it in my mind.",
+      "sourceUnit": "凛ルート十三日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...But, this time isn't that kind of level.\nI can't accept him.\nI can't accept the action that he took no matter the circumstances.\nI won't be able to keep standing if I approve of it.",
+      "sourceUnit": "凛ルート十三日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's why I can't lose to you.\"\n...My words don't disperse into the night and remain in the room.\nA few more hours until dawn.\nI keep repeating those words in my mud-like slumber...",
+      "sourceUnit": "凛ルート十三日目-12:page14:1",
+      "recoveredDelimitedTail": true
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

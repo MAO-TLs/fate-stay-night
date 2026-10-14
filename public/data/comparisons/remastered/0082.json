@@ -1,0 +1,132 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0082",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "That giant...\nI should ask about the Servant who overwhelmed Saber...Berserker.\nAccording to Saber and Tohsaka, he is likely the strongest Servant, if only in battle.",
+      "sourceUnit": "セイバールート五日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. What would happen if you fought against Berserker again? Um...would you not be able to win with me as your Master?\"\nI'm Saber's greatest weakness.\nSo I ask whether she is unable to demonstrate her full potential just because she formed a contract with an inexperienced Master like me.",
+      "sourceUnit": "セイバールート五日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not the case, Shirou.\nEven if you were a prepared and experienced Master, that would not alter the fact that Berserker is an extremely powerful foe. You need not blame your own immaturity as a Master in this matter.\"",
+      "sourceUnit": "セイバールート五日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. That may be true, but it doesn't change the fact that you have a lot of limitations placed on you.\nSo let's say you were at your full potential...\"",
+      "sourceUnit": "セイバールート五日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Even were I at my full potential, it would still be difficult to defeat Berserker. Or rather, it is likely impossible for any Servant to corner that giant.\"",
+      "sourceUnit": "セイバールート五日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, do you remember the battle that night? Berserker easily deflected Rin's magecraft attack. However, he does not have magic resistance like I do.\nHe simply nullified Rin's magecraft with his own brute strength.\"",
+      "sourceUnit": "セイバールート五日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...I did see that, but is that surprising?\"\nThat just means Berserker's body is tough, right?\"",
+      "sourceUnit": "セイバールート五日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that is not right. Berserker did not endure Rin's magecraft. He simply repelled it. There is a significant difference.\nIf he had endured the attack, it would mean that his armor would eventually break if a single spot were attacked repeatedly. Repelling it is another matter entirely. That means Rin's magecraft never reached Berserker to begin with.\"",
+      "sourceUnit": "セイバールート五日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Didn't reach...? Does that mean he nullified magecraft like you do?\"\n\"Yes. But as I mentioned earlier, Berserker does not possess magic resistance. That can only mean his Noble Phantasm was what repelled the magecraft.\"",
+      "sourceUnit": "セイバールート五日目-11:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"I can only speculate, but Berserker's Noble Phantasm may be his armor. And it may not be just any armor, but close to a theoretical magecraft called Conceptual Weapon.\nBerserker likely possesses an ability to nullify all types of attacks that are below a certain threshold. That may be why my sword and Rin's magecraft did not get through.\"",
+      "sourceUnit": "セイバールート五日目-11:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"If Berserker is indeed the hero from Greece, his abilities are likely to be rank A. If we want to injure him, we will likely have to use an attack that is at least of the same level as him.",
+      "sourceUnit": "セイバールート五日目-11:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"An attack of the same rank? Does that mean...?\"\n\"Yes. I hesitate to say this, but it is likely that he would nullify any attack, whether it be a normal attack or a Noble Phantasm, below rank A.\nIf we mean to defeat that giant, we will need a normal attack that is at least rank A, as well as a Noble Phantasm that exceeds that level.\"",
+      "sourceUnit": "セイバールート五日目-11:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nI close my eyes and remember Saber's abilities.\nSaber's strength...her normal attacks are rank B, and her Noble Phantasm is rank C.",
+      "sourceUnit": "セイバールート五日目-11:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Unbelievable.\nIf what Saber's saying is true, there's no way we can even hurt Berserker, let alone defeat him!",
+      "sourceUnit": "セイバールート五日目-11:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wait a minute! Um, aren't the standards for strength and Noble Phantasms measured differently?\nEven if their ranks are low, aren't Noble Phantasm powerful weapons? So if you convert its strength, wouldn't it at least be rank A?\"",
+      "sourceUnit": "セイバールート五日目-11:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Noble Phantasms are not comparable to normal attacks. A Noble Phantasm of rank C is equivalent to an A or A+ rank in normal abilities.\nBut the...'logic' that protects Berserker operates beyond the scope of reality.\"",
+      "sourceUnit": "セイバールート五日目-11:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Even if a Noble Phantasm is strong enough to destroy the world, if it is below rank A, the idea is that it will still be nullified.\"",
+      "sourceUnit": "セイバールート五日目-11:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then the next time we're attacked...\"\n...will be our last. We'll die.",
+      "sourceUnit": "セイバールート五日目-11:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"No. No matter who the Heroic Spirit is, they will always have a weakness. At the very least, Berserker does not possess an attack that is at an Anti-Fortress level. We should be able to avoid being wiped out by a single attack.\"\nOnce my wounds have completely healed, I should be able to fight more evenly in a one-on-one match against him. You should be able to retreat during that time, or I might be able to find an opportunity to win if I have some form of backup.\"",
+      "sourceUnit": "セイバールート五日目-11:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"So ultimately retreating is what I have to do, huh? So until then, we need to find out Berserker's weakness.\nSo, Saber. What is an Anti-Fortress attack?\"",
+      "sourceUnit": "セイバールート五日目-11:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"It is a type of attack power and range of a Noble Phantasm.\nAnti-Personnel Noble Phantasms shine in single combat...\nAnti-Army Noble Phantasms wreak havoc on entire groups of enemies...\n...and Anti-Fortress Noble Phantasms wipe out massive areas in a single blow.\nNoble Phantasms largely fall into these three categories.\"",
+      "sourceUnit": "セイバールート五日目-11:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "I see.\nAnti-army and Anti-Fortress attacks, just from their names, sounds like giant missiles. They'd wipe out Tohsaka and me in an instant.\nLuckily, Berserker doesn't have any attacks like that.",
+      "sourceUnit": "セイバールート五日目-11:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"But that is where the Master comes in to compensate.\nIllyasviel had a tremendous amount of magical energy. She is a skilled mage, and were Berserker concentrating on protecting her, I would most likely be unable to protect you.\"",
+      "sourceUnit": "セイバールート五日目-11:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\nI see.\nBerserker isn't our only concern.\nMaster and Servant are one.\nI am Saber's weakness in that regard too.",
+      "sourceUnit": "セイバールート五日目-11:page23:1",
+      "recoveredDelimitedTail": true
+    },
+    "page24": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

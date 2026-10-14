@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0020",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess I'll work up a quick sweat if I have so much time.\"\nMorning exercise is my daily routine, so I might as well do some light workouts.",
+      "sourceUnit": "セイバールート二日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The hushed atmosphere of an empty dojo encourages one to focus.\nAnd in the morning, just as the sun rises, its serenity makes the mood even more sacred, enthralling whoever visits the site.",
+      "sourceUnit": "セイバールート二日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway.\"\nThere's only one thing I do here.\nEver since my old man died, the dojo has turned into just a gym to train my body.",
+      "sourceUnit": "セイバールート二日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Training to be a mage means I can't neglect training my body.\nOne of the conditions of being a mage is maintaining yourself at your physical peak.\nWhen Kiritsugu was still alive, he and I sparred often.",
+      "sourceUnit": "セイバールート二日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "Well, more that he just kicked my ass every time, so I never really learned how to win myself.\nBut at least I learned the difference between a fight and a battle.\nIn other words, I learned the difference between killing and beating an opponent, and how to conduct myself in each situation.",
+      "sourceUnit": "セイバールート二日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Knowledge and experience are different.\nWithout the knowledge to know the difference, it's hard to tell if you've gotten yourself into a fight or a massacre.",
+      "sourceUnit": "セイバールート二日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It's as simple as that.\nLearning magecraft means that there is a risk of perishing on your own, as well as the risk of having to fight.\nAnd to mages, that means killing each other. That's why Kiritsugu wanted to teach me that I must always be ready to face death.",
+      "sourceUnit": "セイバールート二日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "But the person reminding me of that lesson is long gone.\nSo the only thing I can do alone is some simple exercises.",
+      "sourceUnit": "セイバールート二日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess I better get on with it.\"\nAfter I stretch to warm up, I focus on my inner strength and begin my exercises.",
+      "sourceUnit": "セイバールート二日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "As I train my body, I assess how my Magic Circuits affect my blood flow, my skeletal frame's creaking, the fatigue I feel, and how much that all distracts my thoughts.",
+      "sourceUnit": "セイバールート二日目-06:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

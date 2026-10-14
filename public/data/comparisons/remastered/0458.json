@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0458",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I think Illya and I chatted for about an hour.\nIllya happily listened as I talked about meaningless topics and everyday stuff.",
+      "sourceUnit": "桜ルート五日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...At some point, I realized how heartbreaking this was.\nIllya really is an innocent little girl.\nShe doesn't hesitate when it comes to being a Master.\nIt's so tragic that she doesn't feel any fear about fighting in a war.",
+      "sourceUnit": "桜ルート五日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe magical lineage known as the Einzberns.\nThis young girl is who they sent to carry out their thousand-year-old obsession.",
+      "sourceUnit": "桜ルート五日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "If that's Illya's objective too, then I...\n\"...Illya. Can I ask you something?\"\n\"Hm? What?\"\n\"Does the name Kiritsugu Emiya ring a bell?\"\nI just have to know.",
+      "sourceUnit": "桜ルート五日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nTime stops.\nIt's an emotionless silence that seems to erase all the time we've spent together so far.",
+      "sourceUnit": "桜ルート五日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I don't know anyone like that.\"\n...Her silver hair sways.\nIllya stands up from the bench and does a little twirl, like a fairy.",
+      "sourceUnit": "桜ルート五日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"It's almost sunset. Berserker will wake up once it's nighttime, so I should go home.\"\n...\nIllya bids me farewell in her childish way.",
+      "sourceUnit": "桜ルート五日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I better get home, too.\"\nI stand up from the bench.\nBreak time is over.\nThe sun's setting, so we're back to being enemies.",
+      "sourceUnit": "桜ルート五日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "And yet, I...\n\"Will we meet again, Illya?\"\nThe question comes naturally to my lips.",
+      "sourceUnit": "桜ルート五日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"U-um, I'm not sure. I don't think so. Do you want to see me again, Shirou?\"\n\"Yeah. I wouldn't ask unless I wanted to.\"\n\"Okay! Then I'll come find you tomorrow if I'm in the mood. Don't wait for me, though.\"\nShe runs out of the park.",
+      "sourceUnit": "桜ルート五日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "But...\nThe pale girl stops awkwardly.",
+      "sourceUnit": "桜ルート五日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I lied earlier. I do know him.\"",
+      "sourceUnit": "桜ルート五日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya...?\"\n\"...I was born to win the Holy Grail War, but my goal is to kill you and Kiritsugu.\"",
+      "sourceUnit": "桜ルート五日目-08:page12:1"
+    },
+    "page13": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート五日目-08:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0090",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I walk down the hill and return to the intersection.\nIf I walk towards the residential area on the other side, I'll be heading home, but...",
+      "sourceUnit": "セイバールート六日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"There's a Master at Ryudou Temple, huh?\"\nThat's about an hour's walk towards the mountain from here.\nThe desolate mountain road eventually reaches the gates of Ryudou Temple.",
+      "sourceUnit": "セイバールート六日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Ryudou Temple is a big temple up on the mountain; it's about the size of our school.\nThe cemetery is large. The temple itself is like a small world of its own with about fifty training monks living on its grounds.\nThe people in town use the Ryudou Temple for various purposes, but they also respect it as a sacred place that shouldn't be entered lightly.",
+      "sourceUnit": "セイバールート六日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Now that I think about it, I haven't been to Ryudou Temple recently.\"\nI haven't been there ever since I stayed there for some mental training last summer.\nI know temple life is harsh during the winter, so I was thinking about visiting during winter break...",
+      "sourceUnit": "セイバールート六日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What's a guy who cut afternoon classes doing here?\"\nSpeak of the devil.\nI run into Ryudou Temple's heir, Issei Ryudou, on the road.",
+      "sourceUnit": "セイバールート六日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey there. Is school over?\"\n\"Obviously. I don't have anything to do for the student council, so I was heading home. Is something wrong? You looked like you were staring up at the mountain.\"",
+      "sourceUnit": "セイバールート六日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"No, there's nothing wrong. I just felt like going home.\"\n\"Hmph. Teachers would be out of a job if people like you just cut classes whenever they felt like it. Anyway, I'm curious why you're staring at the mountain.\"",
+      "sourceUnit": "セイバールート六日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"It's nothing. But can I ask you something? Has anything strange happened recently?\"\n\"Hm. Change is a constant, but doesn't lead to big, dramatic developments. The mountain is always at peace, and peace is the focus of daily life.\"",
+      "sourceUnit": "セイバールート六日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Issei, I'm being serious here.\"\n\"H-how dare you! So am I!\"",
+      "sourceUnit": "セイバールート六日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Guess you are. Sorry to bother you.\"\n\"Hm. It's fine as long as you understand. I'd never kid around with you, Emiya.\"\nIssei clears his throat to calm himself down.",
+      "sourceUnit": "セイバールート六日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Though I do have to report that there has been a change. That said, I'm not entirely sure how to explain it...\"\n\"Eh...? A change? At the temple!?\"",
+      "sourceUnit": "セイバールート六日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, but not of the mountain... However, the situation has left everyone in the temple restless. We have a guest at the temple, and they're apparently an acquaintance of my father, but the awkwardness is because of them... She's a beautiful woman, which makes it a touchy subject.\nHonestly, I don't know why there's such a fuss over a woman.\"",
+      "sourceUnit": "セイバールート六日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"A woman? Does Ryudou Temple have any nuns?\"",
+      "sourceUnit": "セイバールート六日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No. But they've made an exception for her, and we're letting her use a room until the wedding happens—well, she really is beautiful, so I have to admit that even I get captivated by her looks whenever I go out and fetch water from the well.\"\n\"What do you mean, an exception...? Issei? Hey...are you even listening?\"",
+      "sourceUnit": "セイバールート六日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm...apologies. This is why women are bad news.\nReject lust, Issei... Calm down, Issei...\"\nThe student council president mumbles some sort of sutra.",
+      "sourceUnit": "セイバールート六日目-13:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Hellooo? You okay, Issei?\"\n\"I'm quite all right. I'm just not as disciplined, so it's a matter of training harder.\"",
+      "sourceUnit": "セイバールート六日目-13:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I can tell he's not listening.\nIssei continues to mumble, giving himself a pep talk, and disappears into the town's outskirts.",
+      "sourceUnit": "セイバールート六日目-13:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "By the time I get back home, the sun is almost setting.\nAnd just like yesterday, I'm the first one back home.\nSakura and Fuji-nee will probably get here soon too, and Tohsaka will come home later on.",
+      "sourceUnit": "セイバールート六日目-13:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll mention what I learned from Shinji after Sakura and Fuji-nee go home.\"\nThere's no point in talking in secret when those two are around.\nHaving decided that, I'd better prepare dinner.",
+      "sourceUnit": "セイバールート六日目-13:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka beat me with her cooking last night, and I need to do something to improve Fuji-nee's mood.\nThe secret ingredient to a great dish is time and effort, rather than love.\nIf I want to guarantee my win, I'll have to spend double the time I usually would on cooking.",
+      "sourceUnit": "セイバールート六日目-13:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...And so.\nHere's what happened:",
+      "sourceUnit": "セイバールート六日目-13:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah! I didn't lose! Tohsaka, you're such a meanie!!!\"\n\"Let me reiterate. I'm not talking about the food's taste. According to you, tonight's dinner was the best you've ever tasted, so why not share it with everyone?\"",
+      "sourceUnit": "セイバールート六日目-13:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmmng...I don't think that's what you meant.\nYou said you didn't want to eat the food Shirou made.\"",
+      "sourceUnit": "セイバールート六日目-13:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I was only talking about breakfast. I will eat dinner like everyone, and Emiya and I made an arrangement to take turns cooking dinner. So what reason is there for me not to eat?\nIf you don't like that, you're welcome to take my turn cooking tomorrow.\"",
+      "sourceUnit": "セイバールート六日目-13:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...so brazen. She strikes right at my weakness. Damn...I never imagined you were such a bad student.\"\nAnd with that, Fuji-nee reluctantly returns the wooden container of rice to the dining table.\nFive servings of my specialty mixed rice safely return to the dining table.",
+      "sourceUnit": "セイバールート六日目-13:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, Fuji-nee. I made plenty of food today, so there's no need to hoard it. I made enough rice and side dishes for everyone.\"\nMunch, munch.",
+      "sourceUnit": "セイバールート六日目-13:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you may be right, Senpai, but this might be a bit too much even for you...\"\nClack, clack.",
+      "sourceUnit": "セイバールート六日目-13:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. A double-tiered barrel with food enough for four people is certainly over the top.\"\nChomp, chomp.",
+      "sourceUnit": "セイバールート六日目-13:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not a barrel. It's a round wooden container for rice. The main dish is rice today, so I made extra. If we have any leftovers, I'll make them into rice balls for lunch tomorrow.\"\nMunch, munch.",
+      "sourceUnit": "セイバールート六日目-13:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, can I get in on that lunch thing? I don't like fried rice made from leftover rice, but this is exceptional. There's all kinds of stuff in this rice...what's inside?\"\nChew, chew.",
+      "sourceUnit": "セイバールート六日目-13:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"This is basically mushroom mixed rice, correct? And instead of using bean curd, you mixed in yuzu citrus to make it aromatic. Such detail.\"\nClank, clank.",
+      "sourceUnit": "セイバールート六日目-13:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine! I'm going to eat this all by myself! Just you watch!\"",
+      "sourceUnit": "セイバールート六日目-13:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee must have given up monopolizing the wooden container of rice, but she starts to shovel food in her mouth with alarming speed.\nThe moment her rice bowl is empty, she thrusts it out, requesting another helping.",
+      "sourceUnit": "セイバールート六日目-13:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"That's fine, but you really don't need to rush. There's plenty, Fuji-nee...\"\n\"Don't mind me! I'm going to eat all the food that you made, Shirou! I won't be letting some stranger who just barged into our lives eat any of this food!\"\nFuji-nee snatches the rice bowl.",
+      "sourceUnit": "セイバールート六日目-13:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI really don't get it.\nSakura laughs uncomfortably, Tohsaka looks exasperated and ignores Fuji-nee, and Saber just sits, eating her food.\nI worked pretty hard to make all this, but it's looking like that might have backfired.\nThe dinner, which I'd intended to make Tohsaka admit defeat, ended boisterously thanks to Fuji-nee's eccentric behavior.",
+      "sourceUnit": "セイバールート六日目-13:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be heading home, Senpai.\"\n\"Yeah. Fuji-nee, get Sakura home safely.\"\n\"Yeah, yeah. I know. Don't worry.\"\nFuji-nee takes Sakura's hand and they turn to go.",
+      "sourceUnit": "セイバールート六日目-13:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"What? You're looking at me weird, Shirou.\"\n\"Of course I am. No normal person could even move after eating so much.\"",
+      "sourceUnit": "セイバールート六日目-13:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so? I felt a bit full, but it was fine after I finished eating it all.\"\n...And the problem is that Taiga doesn't realize that people have limits.\nYou can't really expect something like that from a wild tiger. Hopefully we can try to keep her contained so she doesn't run wild in polite society.",
+      "sourceUnit": "セイバールート六日目-13:page37:1"
+    },
+    "page38": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page39": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

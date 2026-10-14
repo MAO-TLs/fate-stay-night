@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0281",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I guess that's how it'll be no matter how much I try to smooth this over.\nTohsaka will challenge me even if I refuse to fight.\nWhen that happens... It'll just be more painful for Tohsaka if I get killed without putting up a fight...",
+      "sourceUnit": "凛ルート五日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. Once we defeat the Master hiding at school, I'll go back to being enemies with Tohsaka. That's fine, right, Saber?\"\n\"Yes. I have nothing else to say if you understand that. Let us cooperate with Rin and have you build up battle experience.\"\nSaber bows and dismisses herself.",
+      "sourceUnit": "凛ルート五日目-18:page1:1"
+    },
+    "page2": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

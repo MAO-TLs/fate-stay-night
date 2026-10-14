@@ -1,0 +1,461 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0124",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Try to Strengthen this lamp for starters.\nYou just need to reinforce the glass.\"\nTohsaka hands me an old-looking lamp.",
+      "sourceUnit": "セイバールート七日目-27:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI sit on the floor.\nI cup the lamp with my hands and take a deep breath.\nTohsaka says it like it's so easy, but I'm all tense from nervousness.",
+      "sourceUnit": "セイバールート七日目-27:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I've been trying this every night, but with a success rate below 0.1 percent.\nTohsaka says she wants to see what I can do to measure my skill, but there's nothing to measure if my Strengthening doesn't work in the first place.",
+      "sourceUnit": "セイバールート七日目-27:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI try to shake off any distractions.\nRight now, I need to focus on the lamp.",
+      "sourceUnit": "セイバールート七日目-27:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The blueprint of the lamp pops into my head.\nThe material of the glass, its composition, the flow of its power...I can see it as if it were a network of blood vessels.\nThen all I have to do is to infuse my magical energy into those vessels.",
+      "sourceUnit": "セイバールート七日目-27:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I just have to do what I always do.\nThe sensation of a burning metal rod sliding down my spine.\nAll I have to do is let that burning nerve into myself, however much it shouldn't exist in a human body, and let it fuse with me.\nAs long as that works, all I have to do is to pour the right amount of magical energy into the glass.",
+      "sourceUnit": "セイバールート七日目-27:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nIt shatters.\nI couldn't control myself, and I ended up using more magical energy than I should have...and the glass shattered.",
+      "sourceUnit": "セイバールート七日目-27:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI look timidly at Tohsaka.\n\"Figured. I was afraid this might be the case, and it is.\"",
+      "sourceUnit": "セイバールート七日目-27:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What do you mean, Tohsaka?\"\n\"Isn't it obvious? I was absolutely baffled by your lack of skill! First of all, you don't even understand the basics. Honestly, I'm impressed you can produce any magical energy at all with a method so completely absurd!\"",
+      "sourceUnit": "セイバールート七日目-27:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...um...are you mad?\"",
+      "sourceUnit": "セイバールート七日目-27:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I'm mad! I can hardly believe you've been training when you have such basic problems, and I kind of want to kill your mentor for not correcting you!\nWhy are you doing it in such a roundabout way!?\"",
+      "sourceUnit": "セイバールート七日目-27:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. I get it, but don't bad-mouth my old man. It's my own fault that I don't have talent. He's got nothing to do with it.\"",
+      "sourceUnit": "セイバールート七日目-27:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"He has everything to do with it. A teacher's job is to correct a student's errors, and he took you on as an apprentice.\nI know it's pointless to take it out on someone who's not here anymore, but your teacher got the first step wrong.\"",
+      "sourceUnit": "セイバールート七日目-27:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka, clearly still angry, takes something that looks like a can out of her bag.\nIt looks like a can filled with colorful hard candy, the sort of thing children overseas might like.\nI've seen similar containers in Japan, too.\nThey hold a variety of differently flavored candies. The white ones are mint.",
+      "sourceUnit": "セイバールート七日目-27:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, hold out your hand.\"\n\"Hm?\"\nI do as she asks.\nTohsaka shakes out the can, and a red candy drops into my hand.",
+      "sourceUnit": "セイバールート七日目-27:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Here. Swallow this.\"\n\"What???\"\nAgain, I do as she asks.",
+      "sourceUnit": "セイバールート七日目-27:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not sweet.\"\nActually, it has no flavor at all.\nAnd the texture is...more like rock than candy.",
+      "sourceUnit": "セイバールート七日目-27:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm?\"\nI force myself to swallow it.\n\"Whoa, ouch. My throat's tingling. What was that, Tohsaka?\"",
+      "sourceUnit": "セイバールート七日目-27:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean? It's a jewel. Couldn't you tell?\"\nShe says it so casually.\nBut it's totally outrageous.",
+      "sourceUnit": "セイバールート七日目-27:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...a jewel!? Why!?\"\n\"I couldn't help it. I had some medicine too, but that won't work if I want to correct you. I figure I need to use the strongest possible options to open up your switch.\"",
+      "sourceUnit": "セイバールート七日目-27:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, that's not my point...! Why did you make me swallow a jewel!? I can't digest that!\"",
+      "sourceUnit": "セイバールート七日目-27:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"You know, if you're going to worry, you should worry about other stuff. That wasn't an ordinary jewel.\nWhat I gave you just now is a compulsory learning device, since you don't know anything at all. It's going to start melting soon, so brace yourself or you'll faint.\"",
+      "sourceUnit": "セイバールート七日目-27:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"You say that I'm going to faint so casually—\"\nJust as I say that...\n...it starts to get weird.",
+      "sourceUnit": "セイバールート七日目-27:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"WHAT!?\"\nMy body is burning.\nMy limbs are starting to go numb.\nHeat builds up in my back in a flare of what I can only describe as pain.\nI furrow my brow and try to concentrate, or I know I'll fall over.",
+      "sourceUnit": "セイバールート七日目-27:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"You... What did...\"\nI know.\nI know this feeling.\nThis is the feeling of failure.\nThis is my body reacting when it fails to construct a Magic Circuit inside me!",
+      "sourceUnit": "セイバールート七日目-27:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"It's okay. It might be painful, but it should slowly ease up as long you can maintain this state. Though the heat could last for two or three weeks.\"\n...I really want to respond, but I can't stay composed enough to do it.\nAll I can do is muster the strength to stay balanced so I don't topple over.",
+      "sourceUnit": "セイバールート七日目-27:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. The difference between a mage and a human is the presence or absence of a switch.\nYou already know that this switch is for turning the Magic Circuit on and off.\nSee the electric kettle over there? Mages are like that. Ordinary humans are just regular kettles that can't boil water on their own, but they can at least keep it warm.\"",
+      "sourceUnit": "セイバールート七日目-27:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"That's what we are: similar, but different.\nThe difference is in whether someone has a switch to boil the water or not.\nThe moment we are born with it...or rather, the moment it's made, is when we're separated into electric kettles and plain, insulated bottles. Anyone who doesn't have this switch won't ever be able to experience magecraft.\"",
+      "sourceUnit": "セイバールート七日目-27:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"You see, you might be an amateur, but you do have a Magic Circuit.\nThat means you have an affinity for it. It's why, once you've created a Magic Circuit inside you, all you have to do is use the switch.\nYou're just toggling the switch on and off to produce magic energy.\"",
+      "sourceUnit": "セイバールート七日目-27:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "I calm my breathing.\nJust as Tohsaka said, so long as I maintain my composure, things don't get worse.",
+      "sourceUnit": "セイバールート七日目-27:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"You only have to make a Magic Circuit once. But all this time, you've been creating a Magic Circuit from scratch and incorporating it into yourself every time you use it.\"",
+      "sourceUnit": "セイバールート七日目-27:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"And that's such a waste. Once you've created the circuit inside yourself, even once, all you have to do is turn it on or off.\nNormally, those who have created a Magic Circuit would be trained in how to turn it on and off next.\nBut your mentor didn't do that. So you've been risking your life creating a Magic Circuit every time.\n...Of course, your father may have been misinformed too.\"",
+      "sourceUnit": "セイバールート七日目-27:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "I exhale.\nSensation is starting to return to my limbs.",
+      "sourceUnit": "セイバールート七日目-27:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Since you have been training the wrong way for so long, your switch is closed, which means all I can do is force it open and make your body understand it has a switch.\"",
+      "sourceUnit": "セイバールート七日目-27:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"You see, that jewel you swallowed forces that switch on. So, you'll be like this forever unless you can use your own strength to turn it off and return to your normal state.\nIf you can do that, you won't need the help of the jewel. After that, you should be able to control your Magic Circuit with some simple mental commands.\"",
+      "sourceUnit": "セイバールート七日目-27:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...I...get that, but...\"\nCan't we do something about this burning sensation?\nShe keeps telling me to turn off this switch, but how the hell I am supposed to do that?",
+      "sourceUnit": "セイバールート七日目-27:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh, you can already talk!?\nHuh. I guess you're good at controlling yourself. You might get back to normal faster than I thought.\nAs for the switch itself, your body will naturally try to turn it off to calm down and get comfortable as quickly as it can.\nAll you have to do is will that process to speed up. Easy, right?\"",
+      "sourceUnit": "セイバールート七日目-27:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...it's not... I don't get it.\nYou say there's a switch, but it doesn't feel real to me.\"",
+      "sourceUnit": "セイバールート七日目-27:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"You might think that right now, but eventually you'll be able to form a really clear image. It'll be like a button in your mind, and all you have to do is press it. It should open your Magic Circuit, easy as that.\"",
+      "sourceUnit": "セイバールート七日目-27:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"I hope so...but I just feel sick right now...\"",
+      "sourceUnit": "セイバールート七日目-27:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured you would. You've always closed your Magic Circuit after using your Strengthening magecraft, right?\nNow you're doing the opposite: opening your Magic Circuit up. It's like you're running full speed this whole time, so of course it's tough.\nBut that's all part of being a mage. If you're going to fight as a Master, turning the switch on and off will be a huge help to you.\"",
+      "sourceUnit": "セイバールート七日目-27:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. You took me by surprise, but I appreciate what you did. You're right...once I grasp the idea of this switch, it'll help a lot.\"",
+      "sourceUnit": "セイバールート七日目-27:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"So you do understand. No need to thank me, though. You're my ally, so I'm only doing this because I can't afford for you to be weak forever.\"\nTohsaka huffs and looks away.\nMaybe it's because my body's all warm.\nBut, dazed as I am, I find myself thinking that Tohsaka might just be a good person.",
+      "sourceUnit": "セイバールート七日目-27:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"What? Why are you staring at me like that?\"\n\"Nothing. I just thought you weren't really being honest.\"",
+      "sourceUnit": "セイバールート七日目-27:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You must have a lot of spare energy if you can manage to be so flippant right now. If you're fine, then you won't mind me continuing, right?\"\nTohsaka grins wickedly and draws closer.",
+      "sourceUnit": "セイバールート七日目-27:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\nHold on a minute.\nI still can't move a muscle, so what is she...hey.",
+      "sourceUnit": "セイバールート七日目-27:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Try doing your Strengthening magecraft again.\nYou might not be able to control your magical energy right now, but you'll be no use in battle unless you can get used to being in this state.\nIt's okay. I brought a ton of lamps. I don't know how many times you're going to fail, but I'm not going to let you rest until you succeed in Strengthening.\"",
+      "sourceUnit": "セイバールート七日目-27:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "She smiles, and even though I can hardly move, she hands me a lamp.\n\"...Ungh.\"\nTohsaka, this is brutal. It's like forcing someone to walk a tightrope while they have a forty-degree fever...",
+      "sourceUnit": "セイバールート七日目-27:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, I didn't think I'd give up before you did.\"\nTohsaka glares at me.\nHer penetrating stare is accusing.",
+      "sourceUnit": "セイバールート七日目-27:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uh...sorry?\"\n\"I underestimated you. I never imagined you would destroy all thirty.\nSorry, but that's it for today's training. We don't have anything else left to measure your skill at Strengthening.\"",
+      "sourceUnit": "セイバールート七日目-27:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\nCome on, at least I tried.\nI tried hard, even though my body was burning up like I'd been thrown into a boiling kettle.\nI tried, but in the end, I didn't manage to succeed in my magecraft a single time.",
+      "sourceUnit": "セイバールート七日目-27:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"You know, if it's just the glass that's broken, you can fix it. I saw you fix the broken window in my house the other day.\"\n\"I can't. That window got broken normally, but these lamps broke because it couldn't hold all your magical energy. It's much harder to work with things infused with someone else's magical energy... Remember that, okay?\"",
+      "sourceUnit": "セイバールート七日目-27:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm. Yeah?\"\n\"That's right. Go ahead and rest, Shirou. I'd call this a win since I managed to trigger your switch.\nOnce you're able to control it, I'll teach you the rest.\"",
+      "sourceUnit": "セイバールート七日目-27:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Phew. I appreciate the chance to rest, but what else are you going to teach me?\"",
+      "sourceUnit": "セイバールート七日目-27:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"You can only do Strengthening magecraft, right? You said that's all you can do, so I might be able to kick it up another notch and teach you Alteration magecraft.\nHave you been taught what Strengthening, Alteration, and Projection magecraft are?\"",
+      "sourceUnit": "セイバールート七日目-27:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI have, a little.\nStrengthening is, as the word suggests, used to strengthen something.\nMost people typically think of Strengthening as just making something harder, but it actually involves enhancing an object's attributes and effects.\nA sword gets sharper, a lamp glows brighter, and so on.",
+      "sourceUnit": "セイバールート七日目-27:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "Alteration doesn't need much explanation.\nFor example, you can't start a fire using blades.\nAlteration is when some ability beyond the object's usual traits is imbued into it.\nAnd then Projection is...",
+      "sourceUnit": "セイバールート七日目-27:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait. What is Projection again? I remember my old man saying that word a lot, but...\"",
+      "sourceUnit": "セイバールート七日目-27:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"You know what Strengthening and Alteration are, right? Then I think you can imagine what Projection is.\nSimply put, it's magecraft that can replicate things.\nUnlike Strengthening and Alteration, Projection isn't a magecraft that imbues an object with something.\nIt's essentially magecraft that constructs something from nothing, using only your own magical energy. It's one of the most difficult disciplines.\"",
+      "sourceUnit": "セイバールート七日目-27:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...but you know that magical energy is disposable, right?\nAnything you create with Projection will quickly disappear.\nIf you Project a sword with ten times the magical energy you use to Strengthen an existing sword...the Strengthened sword will still be stronger.\nStrengthening augments something, so it's efficient.\nOn the other hand, Projection uses way too much magical energy, so it's not really used all that often.\"",
+      "sourceUnit": "セイバールート七日目-27:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh I remember now. My old man said something similar. He said it wasn't worth it, so I shouldn't pursue it.\"",
+      "sourceUnit": "セイバールート七日目-27:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. Now if you're done asking questions, let's call it a day. You seem shaky on your feet, so I can help you get back to your room.\"",
+      "sourceUnit": "セイバールート七日目-27:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka helps me to my room.\nAnd Saber is waiting for me by the veranda corridor.",
+      "sourceUnit": "セイバールート七日目-27:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Good work, both of you.\"\n\"...\"\nI don't even have the strength to answer.\nI just nod in thanks and head into my room.",
+      "sourceUnit": "セイバールート七日目-27:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"How is Shirou doing, Rin?\"\n\"Bad. Really bad. He doesn't have the talent.\"\nIt's a typically merciless Tohsaka response.",
+      "sourceUnit": "セイバールート七日目-27:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...And the next thing I know, I'm staring up at the night sky.\nTonight, I'm not trying to run away because I'm anxious around Saber.\nI'm just trying to let the night wind cool my burning body...and to think about what Tohsaka taught me.",
+      "sourceUnit": "セイバールート七日目-27:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Once I can use my switch, then it'll be time to think about the next steps.\nIf I can't even manage the simple task of Strengthening, I don't know what the future might hold for me.\"",
+      "sourceUnit": "セイバールート七日目-27:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "I try to infuse magical energy into a wooden plank I dragged out from the shed as I mumble to myself.\nA cracking sound echoes up to me.\nThe plank cracks, and my Strengthening fails.",
+      "sourceUnit": "セイバールート七日目-27:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"I can see its structure fine, but I don't understand why I can't control my magical energy.\"\nTohsaka said I was putting too much power into it.\nShe even said that I should just use small amounts of magical energy, and just focus on reinforcing the object's weak points.\nSo she's basically telling me to take it easy.",
+      "sourceUnit": "セイバールート七日目-27:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"She doesn't have to remind me.\"\nProblem is, I can't manage to ease up.\nIf only there was a good way to relax...\n\"...\"\nThe sound of barely audible footsteps just reaches my ears.\nThis is the second time I've sensed that presence.",
+      "sourceUnit": "セイバールート七日目-27:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"What? I don't need anything from you.\"\n\"The feeling's mutual. Rin, however, is apparently concerned about you. I can't just sit by and do nothing about that.\"",
+      "sourceUnit": "セイバールート七日目-27:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI throw the plank away, glaring at Archer.\nArcher seems curious about the plank. He picks it up.",
+      "sourceUnit": "セイバールート七日目-27:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Strengthening magecraft, huh? Pretty pathetic quality too, I might add.\"\n\"What!? Yeah, I know I'm not a fully trained mage. I feel bad for making your Master take on extra work for me.\"\n\"No, that's not it. Even Rin is mistaken on this matter.\"\n\"Eh? What do you mea—\"",
+      "sourceUnit": "セイバールート七日目-27:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. Applying new traits to something that already exists? That's just wishful thinking. You aren't skillful enough to do something like that.\"\n\"Gh—!?\"",
+      "sourceUnit": "セイバールート七日目-27:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "He's just saying whatever he wants, but I can't think of a response. He's right.\nI know I'm not skilled, and it's my own fault I can't do magecraft properly.\nThere's no point in taking it out on him.",
+      "sourceUnit": "セイバールート七日目-27:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? You were more spirited last night.\"\n\"Shut up! I'm just not saying anything because you're right.\nIt's all my fault for not being good enough.\"",
+      "sourceUnit": "セイバールート七日目-27:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "I huff and look away.\nI don't know how he interpreted that, but...\n\"Hm. In a way, I think you've been cursed with poor mentors...\"\nArcher almost sounds impressed for a moment.",
+      "sourceUnit": "セイバールート七日目-27:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? That's not true. My old man and Tohsaka are good teachers. I'm the one who can't learn.\"",
+      "sourceUnit": "セイバールート七日目-27:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"That's exactly it. You're better off with a mage who has no talent.\nGeniuses will never understand the struggles of ordinary people.\nRin is far too brilliant to understand the mistakes a failure like you is making.\"",
+      "sourceUnit": "セイバールート七日目-27:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI don't really get what Archer's trying to say.\nI don't get it, but if I had to guess...",
+      "sourceUnit": "セイバールート七日目-27:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't get it. Are you just trying to pick a fight?\"\nIf so...bring it on.\n\"Another mistake. You're not fit for fighting, Shirou Emiya.\nYour battle is supposed to be a mental one...a fight against your own self.\"",
+      "sourceUnit": "セイバールート七日目-27:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"They say a mage's battle is a mental one. I already know that. But if we're gonna fight, it should be with our fists.\"",
+      "sourceUnit": "セイバールート七日目-27:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly...you're making things pretty hard on Saber.\"\nArcher despises me from the bottom of his heart.\nI've never seen his eyes like this... They seem filled with real disappointment and anger.",
+      "sourceUnit": "セイバールート七日目-27:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm only going to say this once, so listen carefully:\nYou haven't got a prayer of winning once the battle starts.\nNone of your skills are worth a damn against Servants.\"",
+      "sourceUnit": "セイバールート七日目-27:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nSaber already told me that.\nI won't win in battle.\nNo matter what grand scheme I try, I have no chance of victory.",
+      "sourceUnit": "セイバールート七日目-27:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Then at least imagine it. If you can't possibly beat the opponent in reality, then beat them in your imagination.\nIf you can't win yourself...imagine something that can win.\nIt's all you can really do.\"",
+      "sourceUnit": "セイバールート七日目-27:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI don't know why...\nBut Archer's words strike a chord with me.",
+      "sourceUnit": "セイバールート七日目-27:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "My heart's telling me not to forget them.\nMore than anyone else, I know I should never forget what this man's saying.",
+      "sourceUnit": "セイバールート七日目-27:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"What a joke. I can't believe I'm giving advice to someone I should be killing. I guess a bit of Rin's softness has rubbed off on me.\"\nAll of a sudden, Archer disappears.\nArcher's supposed to be keeping watch.\nHe must have gone back to the roof, where he can do that best.",
+      "sourceUnit": "セイバールート七日目-27:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"What's with him?\"\nI complain to the empty air.\nNaturally, there's no response.\nWhile Archer's words echo in my mind, the cold air blows over my flushed body.",
+      "sourceUnit": "セイバールート七日目-27:page89:1"
+    },
+    "page90": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

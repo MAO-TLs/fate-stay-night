@@ -1,0 +1,381 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0305",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right.\"\nI'll go search the first floor.\nI feel bad for leaving the Servant to Saber alone, but she should be able to fight by herself.",
+      "sourceUnit": "凛ルート七日目-08:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber, I'll leave the Servant to you. You can handle it on your own?\"\n\"Of course. What will you do, Shirou?\"",
+      "sourceUnit": "凛ルート七日目-08:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll hurry down to the first floor with Tohsaka. It would be dangerous by myself, but I should be fine if I'm with her. Besides, she's the one that can detect magical energy. Let's go.\"",
+      "sourceUnit": "凛ルート七日目-08:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh... Y-yeah, right. I was planning to without your go-ahead.\"\nIt's decided.\nSo now...",
+      "sourceUnit": "凛ルート七日目-08:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, what are you doing!? Are you insane, breaking the leg of a chair like that?\"\n\"We should be armed, right? I can only use Strengthening, so I need something.\"",
+      "sourceUnit": "凛ルート七日目-08:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "I swing the leg of the chair I broke off.\nIt's like I'm recreating what happened that one time with Tohsaka.\nMy success rate seems to be going up, as I easily manage this time. So I grab another leg just in case.",
+      "sourceUnit": "凛ルート七日目-08:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I feel a faint presence outside. It seems like we are surrounded.\"\n\"Huh!? Surrounded by what!?\"\n\"I don't know. However, we simply need to go outside and check.\"",
+      "sourceUnit": "凛ルート七日目-08:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...You're right. Can you take the lead?\"\n\"Of course. It is my duty to be your shield.\"\nSaber jumps out into the hallway.",
+      "sourceUnit": "凛ルート七日目-08:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go, Tohsaka... We'll press on to the first floor!\"",
+      "sourceUnit": "凛ルート七日目-08:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "What the hell?\nThe instant we go out into the hallway, we find out what's surrounding us.\nAre those bones?\nPuppets made out of inhuman bones swarm from the other side of the hallway...!",
+      "sourceUnit": "凛ルート七日目-08:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, what are those...!?\"\n\"Golems! A type of familiar! Get over here! They won't be a match for Saber no matter how many of them there are!\"\n\"Ugh... Sorry, Saber!\"",
+      "sourceUnit": "凛ルート七日目-08:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I run to the stairs.\nThe sound of Saber crushing the strange bone puppets echoes through the hall behind me.",
+      "sourceUnit": "凛ルート七日目-08:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "We go down the stairs.\nIt's not far from the fourth floor to the first.\nHowever...",
+      "sourceUnit": "凛ルート七日目-08:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn...you...!\"\nI smash the bone dolls blocking my way with the chair leg in my hand.",
+      "sourceUnit": "凛ルート七日目-08:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah... Haah, haah...!\"\nThis is the third one already.\nMaybe it's because of the horrible state of this place, but I don't even care about the violence overtaking us.",
+      "sourceUnit": "凛ルート七日目-08:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "My mind has gone numb.\nHatred, fear, sadness, cowardice...all of it has locked up in my brain.\nThe only thing I can think of is to make it to the first floor.\nI'll just keep on swinging these two weapons in my hands just like him!",
+      "sourceUnit": "凛ルート七日目-08:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh no you don't...!\"\nI mow down the fourth body of bones.\nThe bone puppet that tried to attack Tohsaka from one side crumbles as it crashes into the wall.",
+      "sourceUnit": "凛ルート七日目-08:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, are you okay, Tohsaka!?\"\n...\nGood, she's fine...!",
+      "sourceUnit": "凛ルート七日目-08:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Where's the origin of the field!?\"\n\"Y-yeah, it's right there! That classroom!\"\nTohsaka points at a room about ten meters ahead.\nThere are a few more bone puppets that followed us down the stairs.\nBut we don't have the time to deal with them...!",
+      "sourceUnit": "凛ルート七日目-08:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "I parry the attacking sword with the weapon in my right hand.\nThen slash the exposed body with the weapon in my left.",
+      "sourceUnit": "凛ルート七日目-08:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "The fifth bone artifice crumbles.\nBut they just keep coming.\nThere's still more than ten of them swarming the hallway...!",
+      "sourceUnit": "凛ルート七日目-08:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn it, they're persistent...! When will you guys run out...!\"\nI retreat a bit.\nThe chair legs in my hands are worn down.\nEven though I Strengthened them, they're originally just stainless steel.\nI don't know if they can take one more attack...",
+      "sourceUnit": "凛ルート七日目-08:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Get back, Shirou...!\"\n\"Huh...?\"\nI'm surprised, but I retreat like I'm told.",
+      "sourceUnit": "凛ルート七日目-08:page22:1"
+    },
+    "page23": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "...\nWas that some kind of release incantation?\nThere are no sign of destruction in the hallway, and only the scattered remains of the bone figures are there.",
+      "sourceUnit": "凛ルート七日目-08:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks, you gave me time. I rarely use topaz, so it took me a while to get it ready.\n...To be honest, I would've been overwhelmed if you weren't here.\"\nShe drops her shoulders in relief.\nBut she only does so for an instant and glares at the classroom.",
+      "sourceUnit": "凛ルート七日目-08:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. Shinji should be there.\"\nTohsaka runs to our destination.\nI follow her and step inside the red classroom.",
+      "sourceUnit": "凛ルート七日目-08:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "This is absolute hell.",
+      "sourceUnit": "凛ルート七日目-08:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "The air filling the classroom cannot be called a gas anymore.\nThe vaporized blood dyes the eyes of onlookers like paint.\nI hear voices of anguish from all directions.",
+      "sourceUnit": "凛ルート七日目-08:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "This is the source of the Bounded Field, the place where absorption is strongest.\nThe students collapsed on the floor are entirely different to the students on the fourth floor.\n...The groans that I hear are just my imagination.\nThe fainted students have pale faces and are still as wax figures.",
+      "sourceUnit": "凛ルート七日目-08:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka just gazes at the scene, her legs shaking.\nA clicking sound.\nIt must be to suppress her emotions. Tohsaka chatters her teeth as she beholds this horror.",
+      "sourceUnit": "凛ルート七日目-08:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe lifts her shaking leg and moves forward.\nBetween the desks...\nThere is one clearly animated person.\nSitting hunched amongst the fallen students, Shinji Matou looks up at Tohsaka.",
+      "sourceUnit": "凛ルート七日目-08:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji, you...!\"\nA stern voice.\nHe must have reacted to that.\nShinji lets out a strangled cry and clambers away from Tohsaka.",
+      "sourceUnit": "凛ルート七日目-08:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...No excuses. I'll do whatever it takes to make you pay for what you've done.\"\nTohsaka approaches Shinji.",
+      "sourceUnit": "凛ルート七日目-08:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"N-no, no no no no no...! It's not me, it's not me, it's not me, it's not me...!!!\"\nHe shakes his head violently and backs up to the wall.",
+      "sourceUnit": "凛ルート七日目-08:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Not you...? Are you serious?\nRelease the Bounded Field. If you don't, then I'm going to blow that face of yours to hell and—\"\n\"Ah... W-w-w-wait, no, I said no, it's not me, it isn't! I'm not the one who killed her...!!!\"",
+      "sourceUnit": "凛ルート七日目-08:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Eh?\"\nStranger and stranger.\nShinji flees from Tohsaka, but not really.\nHe's looking at the floor...at our feet.",
+      "sourceUnit": "凛ルート七日目-08:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Why there...?\"\nI look down.\nThe only thing there are the students lying unconscious on the floor.\nOther than that, there's nothing...else...",
+      "sourceUnit": "凛ルート七日目-08:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...Tohsaka.\"\nI call to her and point.",
+      "sourceUnit": "凛ルート七日目-08:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nA stunned voice.\nHer anger toward Shinji turns to confusion.\nThe moment she sees the thing lying on the floor, the animosity fades.",
+      "sourceUnit": "凛ルート七日目-08:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nMy breathing catches.\nThe thing collapsed on the floor is completely dead.\nLong purple hair...\nThe woman in black... The Servant who attacked me, Rider.",
+      "sourceUnit": "凛ルート七日目-08:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"She's...dead.\"\nTohsaka's voice is flat, emotionless.\n\"I said it's not me. I didn't do it. I activated the Bounded Field and no one was able to move, but Rider...Rider was...\"",
+      "sourceUnit": "凛ルート七日目-08:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "This Servant in black—Rider—was killed with one blow.\nWhat kind of weapon was it? How was she killed?",
+      "sourceUnit": "凛ルート七日目-08:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "Only one blow against a Servant.\nIt was a single strike to the neck, which was ripped to pieces.\n...I can't imagine how that happened.\nShe must've been caught by surprise, but the enemy must've been skilled to sever her spine in one blow.",
+      "sourceUnit": "凛ルート七日目-08:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "...No, it was more than severed.\nIt's as if her head was set in a vice and then her neck was twisted, muscle, bone, and all.",
+      "sourceUnit": "凛ルート七日目-08:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "Rider disappears.\nAt the same time, the red world fades away.\nIt seems like the field was set up by the Servant after all.\nHowever...",
+      "sourceUnit": "凛ルート七日目-08:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Who did this?\"\n\"Eek...\"\nShinji inches back to the hallway, cornered by Tohsaka.",
+      "sourceUnit": "凛ルート七日目-08:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"I told you that there's one more Master at school. It's your fault for ignoring my warning and causing a commotion.\n...Heh. It looks like you left your Servant to die and survived, but it's your turn now that I found you. I don't know what kind of Master you are, but I'll finish you off next time for sure.\"",
+      "sourceUnit": "凛ルート七日目-08:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...! A-as if! I don't have a Servant anymore! I'm not a Master, so you guys will be the only ones that will be targeted...!\"",
+      "sourceUnit": "凛ルート七日目-08:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Mmm, sure. I suppose you're right. There's no harm in letting you go even if you still have your Command Spells.\nIt might be unsightly to see you running around, but a single, harmless gnat isn't gonna kill a person.\n...Yeah. I won't kill you here, depending on your response.\"",
+      "sourceUnit": "凛ルート七日目-08:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"H-harmless? A gnat...me...?\"\n\"Hey, it's a step below a pest, even.\nShinji Matou is not a mage nor a Master. You're not even an annoyance.\"",
+      "sourceUnit": "凛ルート七日目-08:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"...So. Tell me what you saw. That's your only value right now.\"\n\"...Guh, ungh...!\"\nShinji scrambles back, Tohsaka's very presence a threat.",
+      "sourceUnit": "凛ルート七日目-08:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "Well, I don't even know if she'd actually follow through with her threat.\n...But.\nShe's seriously angry.\nShe's lost control of herself seeing this nightmare.",
+      "sourceUnit": "凛ルート七日目-08:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on...! What kind of Servant finished off your Servant, Shinji!?\"\n\"Ugh... I-I don't know, stupid! Y-you guys are the one who should be scared! You guys will be their next targets...!!!\"",
+      "sourceUnit": "凛ルート七日目-08:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"You...!\"\nShinji runs out into the hallway and Tohsaka starts to go after him.",
+      "sourceUnit": "凛ルート七日目-08:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "She stops, though.\nIt seems to occur to her there what she has to deal with.",
+      "sourceUnit": "凛ルート七日目-08:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...No, that's wrong.\nIt's not like it just occurred.\nShe clenches her teeth, looking back at the collapsed student body in frustration.",
+      "sourceUnit": "凛ルート七日目-08:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nHer expression is somewhat typical of her.\nBut her knees are shaking and her eyes are wavering so much that she looks like she's going to cry.",
+      "sourceUnit": "凛ルート七日目-08:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I can't tell if she's more angry or sad.\nBut I'm convinced.\nShe has a strong attitude, can do anything, and is a distinguished mage.\nBut deep down, she is just a girl that acts her age.",
+      "sourceUnit": "凛ルート七日目-08:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's okay, Tohsaka. Everyone's still breathing. It's not like it's over.\"\n\"Huh...? Everyone's breathing...?\"",
+      "sourceUnit": "凛ルート七日目-08:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I know it's hard, but look closely. Everyone is still alive. The field is gone, so all we have to do now is call for help.\"\nSo. Do we call the ambulance or somewhere else in this case? Should we contact the church if they're injuries caused by magecraft?\"",
+      "sourceUnit": "凛ルート七日目-08:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I ask in a calm voice.\nIt seems like she was finally able to regain her senses, as Tohsaka slaps her own face with both hands.",
+      "sourceUnit": "凛ルート七日目-08:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"You can contact the church. If we explain the situation to Kirei, he can do the rest.\"\n\"All right. Then let's call him right away.\"\nTohsaka nods and dashes into the hall.\nHer destination must be the office.\nThere's a phone there so she can make a call right away.",
+      "sourceUnit": "凛ルート七日目-08:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "We finish contacting the church and go outside.\nIt'll be a problem later if we're found to be the only ones unharmed, so Kirei ordered us to pretend like we weren't at school today.",
+      "sourceUnit": "凛ルート七日目-08:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"So Saber, you were fighting Caster?\"\n\"Yes. It was the Caster-class Servant controlling those golems. I defeated the Caster who was hiding at school, but that must have only been her shadow.\"",
+      "sourceUnit": "凛ルート七日目-08:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nSo it means that Caster was controlling those golems from Ryudou Temple.\nThen there's no doubt that Caster was the one who attacked Shinji's Servant.",
+      "sourceUnit": "凛ルート七日目-08:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"...So the fourth Master at school is Caster's Master, huh? It's possible that she used Shinji to lure Rider into a trap.\"\n\"...That is the likely situation. You say Rider had her head cut off in one blow. I can only think that something was restraining her and that she died without resisting.\"",
+      "sourceUnit": "凛ルート七日目-08:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's worrying. But we found out that Caster's Master is at school. It wasn't completely a waste.\"\nI turn to Tohsaka for confirmation.",
+      "sourceUnit": "凛ルート七日目-08:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka only stares back at me silently.\nEver since we left the classroom, she's been looking at me as if she wants to say something.",
+      "sourceUnit": "凛ルート七日目-08:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, if you have something to say, say it. I get the willies when you look at me like that.\"\nUm, I get worried about when I'll get hit from behind.",
+      "sourceUnit": "凛ルート七日目-08:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka still stares at me for a while. Then, with a serious expression...\n\"You're pretty calm, Emiya. It's a bit unexpected.\"\nShe says.",
+      "sourceUnit": "凛ルート七日目-08:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? No way, I've been a basket case. I'm still really pissed off too, we both are, aren't we?\"\n\"Even then, you were able to figure out everyone's condition. I couldn't do that.\"",
+      "sourceUnit": "凛ルート七日目-08:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? Oh, that's nothing. I'm used to seeing corpses, so I can tell.\"\n\"Huh? Used to seeing corpses...?\"",
+      "sourceUnit": "凛ルート七日目-08:page72:1"
+    },
+    "page73": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート七日目-08:page73:1"
+    },
+    "page74": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0512",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Time to start homeroom!\nStart us off—oh, Aikawa's absent, and so is Aimono? Hmm, then I guess I'll do it. Atten-shun!\"",
+      "sourceUnit": "桜ルート八日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Homeroom begins.\nMore students are absent than yesterday, and the classroom feels less lively.\nNot just our classroom, actually. The entire school feels muted.\nFuji-nee moves homeroom along in a breezy tone, but even she doesn't look as upbeat as usual.",
+      "sourceUnit": "桜ルート八日目-13:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"And on that note, after-school club meetings are suspended.\nThat's all the announcements I have today. By the way, your first period teacher Mr. Kuzuki is out, so you can just self-study. I brought printouts, so just stay here in the classroom.\"",
+      "sourceUnit": "桜ルート八日目-13:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The room collectively celebrates, and begins to move desks around with a clatter.\nFuji-nee's just going to let us do our worksheets at our own pace, meaning we can do whatever we want as long as we stay in the room. But...",
+      "sourceUnit": "桜ルート八日目-13:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, one sec!\"\n...Why is she waving me over in the hallway in such an obviously suspicious manner?",
+      "sourceUnit": "桜ルート八日目-13:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What, Fuji-nee? We're still in class.\"\n\"Yeah, but I didn't come over this morning, right? I just got worried that you might not be doing ok.\"\n\"? Where's this coming from? What are you worried about?\"",
+      "sourceUnit": "桜ルート八日目-13:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm, I'm not really sure. Just a feeling in my bones, I guess?\nI've always had this tingly feeling that I get sometimes before you get hit by a car or fall off a bridge. That's why I wanted to see if you're okay.\"\n\"Uh-huh. Well, I'm doing just fine. If anything, I'm safer now then I've ever been before.\"",
+      "sourceUnit": "桜ルート八日目-13:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm, yeah, but I just wonder...\nIt's a feeling like there's this train we need to get on together, but you stay behind on the platform waving goodbye at me, or something.\"\n\"Hmm... That's a pretty specific example. And I'm guessing you had a dream like that before you woke up today.\"",
+      "sourceUnit": "桜ルート八日目-13:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, could you tell? I overslept because of that!\"\n\"...\"",
+      "sourceUnit": "桜ルート八日目-13:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "I'm kind of amazed.\nSo she didn't come over because she overslept. No other reason.\n...Okay. That's very Fuji-nee, so I'll allow it.",
+      "sourceUnit": "桜ルート八日目-13:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No worries. I'm the same as I always am. On the other hand, you've got dark circles around your eyes. I think it's more than just dreams making you miss sleep.\"",
+      "sourceUnit": "桜ルート八日目-13:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, yeah. I was busy yesterday, and think it's going to be busy today, too. I'll probably have to keep pulling overtime, so I might not be coming over for a while. Sorry, but you don't have to leave any food for me.\"",
+      "sourceUnit": "桜ルート八日目-13:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\n\"I just wanted to let you know. Make sure you do your worksheets, Shirou. You have bad grades in Modern Society. You're going to start failing unless you put more work into it.\"",
+      "sourceUnit": "桜ルート八日目-13:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee gives me a casual wave goodbye and leaves.",
+      "sourceUnit": "桜ルート八日目-13:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...She doesn't need food? I guess that's a load off my back.\"\nI feel a little let down and less motivated.\nIt's a hollow feeling, like my regular life has disappeared.",
+      "sourceUnit": "桜ルート八日目-13:page14:1"
+    },
+    "page15": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

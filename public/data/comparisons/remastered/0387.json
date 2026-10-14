@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0387",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI restrain my body that wants to jump out.\nI see Tohsaka biting her lips in the corner of my eye.",
+      "sourceUnit": "凛ルート十三日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...I know.\nIt's obvious Tohsaka wants to stop him as well.\nBut, we'll be the ones killed if we do so.\nThere's no way we can stop him.",
+      "sourceUnit": "凛ルート十三日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The man's arm reaches out to the girl in white.",
+      "sourceUnit": "凛ルート十三日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"..., ..., ...\"\nI can't breathe.\nMy feet are on fire from wanting to jump out,\nand my arms want to fly out over the terrace.\nMy body... My body is shaking like it's broken and tries to go against my brain's orders.",
+      "sourceUnit": "凛ルート十三日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "It's as if my heart is shattered.",
+      "sourceUnit": "凛ルート十三日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"..., ..., ...\"\nEven then, I suppress my voice and kill my will.\nI let the girl die as if killing myself.",
+      "sourceUnit": "凛ルート十三日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nAnd it ends.\nThe man pulled something out of the girl's body with his bare hands, with a smile still on his face.\nA red, dripping object that looks like a fruit.\nThe thing in the man's hand is, without a doubt, the girl in white's -----.",
+      "sourceUnit": "凛ルート十三日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy mind burns down.\nThe mind that has gone white is making my whole body shake with uncontrollable anger.",
+      "sourceUnit": "凛ルート十三日目-06:page7:1"
+    },
+    "page8": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十三日目-06:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0652",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I let the knife fall.\n...Sakura doesn't move.\nHer eyelids are trembling as if in terror, but she doesn't try to avoid the knife.",
+      "sourceUnit": "桜ルート十三日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe keen silver edge falls towards her pale neck.\nIt bites deep.\nDid someone start a fire?\nThe gushing red reminds me of a sudden geyser of water.",
+      "sourceUnit": "桜ルート十三日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Haah...ah.\"\nI fall to my knees.\nI hear a wheezing sound.\nIt's a wet noise coming from my throat, not Sakura's.",
+      "sourceUnit": "桜ルート十三日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...I see.\nEven if Sakura accepts her death, she won't allow it.\nI try to stab Sakura in her helpless state,\nbut she directs the knife toward me, who's even more defenseless.",
+      "sourceUnit": "桜ルート十三日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nIt doesn't hurt.\nIn fact, it feels liberating.\n...But I am left with one final regret.\nAfter I'm gone...\nWho will atone for Sakura's sins?",
+      "sourceUnit": "桜ルート十三日目-05:page4:1",
+      "recoveredDelimitedTail": true
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

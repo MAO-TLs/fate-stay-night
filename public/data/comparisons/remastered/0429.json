@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0429",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt is a rapid stream of light that eliminates everything.\nShe looks for his figure in the midst of that.\nThe red cloak.\nThe figure of the other knight that she first made a contract with, who fulfilled his duty in the end.",
+      "sourceUnit": "凛ルート十四日目-10:page0:1"
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

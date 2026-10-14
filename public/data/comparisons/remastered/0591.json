@@ -1,0 +1,46 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0591",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's closer to the Shadow than I am.\nArcher's on his last legs, and Tohsaka's too shocked by his injuries to move.\nThat means I'm the only one who can bring her back here...!",
+      "sourceUnit": "桜ルート十日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka!\"\nI let go of Illya's hand and run to Tohsaka.\nI can still make it.\nI'm about five meters from Tohsaka, and the Shadow is another ten meters away. If I run as fast as I can, grab her hand and jump to the side, I can—",
+      "sourceUnit": "桜ルート十日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I was wrong to think I could change anything.",
+      "sourceUnit": "桜ルート十日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The swollen Shadow burst in an instant.\nI couldn't even grab Tohsaka's hand.\nIn a heartbeat, the Shadow overruns the forest,\nswallowing every last prey within its web.",
+      "sourceUnit": "桜ルート十日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "My body temperature rises.\nA lethal jungle fever destroys my body.\nThere's no vaccine against it,\nand even if I try to escape the heat...\n...my mind dies before my body.",
+      "sourceUnit": "桜ルート十日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "My soulless body is swallowed.\nAs I melt into the Shadow...",
+      "sourceUnit": "桜ルート十日目-15:page5:1"
+    },
+    "page6": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十日目-15:page6:1"
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

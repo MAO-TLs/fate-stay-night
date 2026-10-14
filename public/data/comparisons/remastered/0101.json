@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0101",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Why does she want to fight so much?\nI might be able to understand her convictions a little more if I find out why she wants the Holy Grail.\nBut can I really ask her that?",
+      "sourceUnit": "セイバールート七日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Can I ask you something?\"\n\"Yes. What is it, Shirou?\"",
+      "sourceUnit": "セイバールート七日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well...there's something I forgot to ask.\nYou're lending me your power because you want the Holy Grail, right?\nSo...what is your wish for the Holy Grail?\"",
+      "sourceUnit": "セイバールート七日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Why I seek the Holy Grail? Will you be satisfied if I simply tell you that I want it? The Holy Grail is an omnipotent vessel. There is no wish that cannot be granted once you obtain it. One should hardly need a reason for seeking such a thing.\"",
+      "sourceUnit": "セイバールート七日目-04:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No. That's not what I'm asking.\nSaber, you're dodging the question.\"\n\"...Ng. Shirou, that's...\"",
+      "sourceUnit": "セイバールート七日目-04:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not asking why you're seeking it. I want to know the wish you want granted.\nBut if you don't want to tell me, you don't have to. Wishes aren't always something to be shared.\"\n...\nSaber closes her mouth, embarrassed.",
+      "sourceUnit": "セイバールート七日目-04:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "I'm not surprised.\nSaber didn't form a contract with me to help me.\nMasters are the only ones who can obtain the Holy Grail, so she is only here to assist with that.",
+      "sourceUnit": "セイバールート七日目-04:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "And that's why she's hesitant to tell me her wish. But most of all...I don't want to hear her tell me about her selfish wish.\n...So I shouldn't have asked.\nBesides, it's disrespectful for someone without a clear wish to ask about someone else's wish.",
+      "sourceUnit": "セイバールート七日目-04:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, are you commanding me as my Master?\"\nThat catches me off guard.\nSaber turns to look at me, her gaze as serious as her tone.",
+      "sourceUnit": "セイバールート七日目-04:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...no. I'm not. I didn't mean it that way.\nI was just curious. Sorry for asking such a dumb question.\"",
+      "sourceUnit": "セイバールート七日目-04:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"No. As a Servant, I do need to disclose my desires to my Master.\nShirou. I seek the Holy Grail to fulfill a certain obligation. I desire the Holy Grail's power to fulfill the responsibility I failed to see through to the end in my lifetime.\"\nShe looks straight at me.\nI see no deceit in her eyes.",
+      "sourceUnit": "セイバールート七日目-04:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Fulfill an obligation? And when you say lifetime, do you mean before you became a Servant?\"\n\"Yes. In all honesty, I am uncertain of my own intentions.\nPerhaps I only desire to do things over.\"\nSaber looks down quietly.\nFor a moment...\n...she looks like a lost child seeking repentance.",
+      "sourceUnit": "セイバールート七日目-04:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"O-okay. I'm actually relieved.\nI was worried you were going to say something Tohsaka would say, like world domination.\"",
+      "sourceUnit": "セイバールート七日目-04:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah. Rin would be angry if she heard that. But she is not the type to say such a thing. She may use the Holy Grail for herself, but her wish would certainly not bring chaos upon world.\"",
+      "sourceUnit": "セイバールート七日目-04:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so? I still think she probably shouldn't be the one to get the Holy Grail.\"\nI nod to myself.\nAll the while, Saber watches me, her expression gentle.",
+      "sourceUnit": "セイバールート七日目-04:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "This conversation ends here.\nI should never have brought this up.\nThe mood between the two of us eases thanks to the mention of Tohsaka, and I decide it'd be best not to pry.",
+      "sourceUnit": "セイバールート七日目-04:page15:1"
+    },
+    "page16": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

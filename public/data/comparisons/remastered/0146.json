@@ -1,0 +1,376 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0146",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt's frustrating, but I should stay here.\nI can't run up the side of the building, and even if I go after Saber, I wouldn't be able to help her much anyway.",
+      "sourceUnit": "セイバールート十日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\nNo human should get involved in a battle between Servants.\nAll I can do here is believe in Saber and wait for her.",
+      "sourceUnit": "セイバールート十日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "The next sixty seconds pass with agonizing slowness.\nAfter a few moments, I see sparks erupt overhead.",
+      "sourceUnit": "セイバールート十日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"The rooftop!? Did the two of them go all the way up to the roof!?\"\nI strain my eyes, trying to follow Saber's movements.\nThe pair of figures—one black, one silver—never stops moving...then disappears after climbing a few hundred more meters.",
+      "sourceUnit": "セイバールート十日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...What!?\"\nWhat should I do?\nShould I sneak into the building to get to the rooftop now?\nI may not be able to scale the side of the building, but if I can get to the rooftop, where the ground will be stable...",
+      "sourceUnit": "セイバールート十日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What the...!?\"\nA blindingly bright light bursts atop the roof.\nAnd not just once.\nIt flashes again and again, like successive shots, in the steady rhythm of a pendulum swinging back and forth.",
+      "sourceUnit": "セイバールート十日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't tell me that's...\"\nRider's Noble Phantasm!?\nIf it is, Saber doesn't have a chance.\nWe weren't supposed to let Rider use her Noble Phantasm. Saber winning hinged on that.",
+      "sourceUnit": "セイバールート十日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...Saber!\"\nNo time to be indecisive.\nI grit my teeth at my own inadequacy, and sprint back toward the building.",
+      "sourceUnit": "セイバールート十日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...hah...hah...haaah!\"\nI rush up the stairs.\nSneaking in was easy. Getting to the rooftop? Not so much.\nThe elevator only went up to the fortieth floor, so now I have to run up the stairs the rest of the way.",
+      "sourceUnit": "セイバールート十日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Haaa...ah! I can't waste time with crap like this!\"\nThe lights are out, but I keep rushing up the darkened staircase.\nIt's been five minutes since I sneaked inside.\nA normal battle would have ended by now.",
+      "sourceUnit": "セイバールート十日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe ground shakes.\nThe fifty-story skyscraper rocks, like a bomb's just gone off.",
+      "sourceUnit": "セイバールート十日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...What...the...?\nThat wasn't Rider's Noble Phantasm!\"\nJust one more flight of stairs until I reach the rooftop.\nI try to shake off this ominous feeling and focus entirely on reaching the top of the stairs.",
+      "sourceUnit": "セイバールート十日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe instant I open the door, a rush of heat sears my cheek.\nScorching hot wind rushes in at me.",
+      "sourceUnit": "セイバールート十日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What the hell...\"\n...is happening here?\nThe concrete roof is pocked and scorched.",
+      "sourceUnit": "セイバールート十日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "The air is so dry, nothing could survive up here.\n\"...Saber?\"\nSaber is sprawled on the ground at the heart of it all, exhausted.",
+      "sourceUnit": "セイバールート十日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...Saber!!! Come back, Saber!\"\nI rush over to Saber and gather her into my arms.",
+      "sourceUnit": "セイバールート十日目-03:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ah...ah...a...\"\nShe's still breathing.\nSaber's unconscious, and she's breathing heavily from the wound she's sustained.",
+      "sourceUnit": "セイバールート十日目-03:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber...\"\nSaber's alone. Rider's nowhere to be seen.\nWhat happened doesn't matter. The outcome is clear enough.\nIf Rider were still here, she wouldn't just leave Saber alone, weakened as she obviously is.\nWhich means the only survivor...the victor, is Saber.\nRider was defeated, but the effort of beating her must have left Saber unconscious.",
+      "sourceUnit": "セイバールート十日目-03:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Hang in there, Saber. I'll take you home quick and have Tohsaka look at you!\"\nI lift Saber up.\nShe's so, so light.\nSaber weighs no more than an illusion. She lets out an anguished sigh.",
+      "sourceUnit": "セイバールート十日目-03:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"It's done.\nI'm having her sleep in the Japanese-style room. She's not waking up anytime soon though, not with the state she's in.\"",
+      "sourceUnit": "セイバールート十日目-03:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for taking a look. I wouldn't have been able to treat Saber.\"\n\"Well, I just took her armor off to make her more comfortable. There's really nothing to thank me for. Saber's not improving, so I didn't do much.\"",
+      "sourceUnit": "セイバールート十日目-03:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...But still I'm glad Tohsaka was here.\nThe moment I arrived home carrying Saber, Tohsaka understood what was going on.\nTohsaka wasted no time in removing her armor and checking her injuries.",
+      "sourceUnit": "セイバールート十日目-03:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"So what happened?\nYou went to go find Shinji, and you came home with a wounded Saber. I know something happened. Care to explain?\"",
+      "sourceUnit": "セイバールート十日目-03:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"I actually don't know either. All I know is that Saber and Rider fought, and Saber was the only survivor.\"",
+      "sourceUnit": "セイバールート十日目-03:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm. I do want details, but I can let that go for now. Probably the least of your concerns at this point.\"\n\"Why? What do you mean, the least of my concerns?\"",
+      "sourceUnit": "セイバールート十日目-03:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"How was that unclear? You've got to have figured it out by now, that Saber's going to disappear.\"\n\"Wha...!\"\nShe says it so calmly.\nTohsaka just casually brings up the one thing I've been trying so hard to avoid.",
+      "sourceUnit": "セイバールート十日目-03:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Disappear? You're saying Saber's going to disappear?\"",
+      "sourceUnit": "セイバールート十日目-03:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I don't know what happened in that battle, but Saber's almost out of magical energy.\nShe's in so much agony because she's fighting so hard to remain here, even as she's on the brink of disappearing from the lack of magical energy.\"",
+      "sourceUnit": "セイバールート十日目-03:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Saber's going to disappear because she doesn't have magical energy?\"\n\"Yes. She doesn't have enough magical energy to maintain her spiritual form in this world.\nA normal Master would just share their magical energy, but you can't do that. Right now, Saber is like a fish suffocating out of water.\"",
+      "sourceUnit": "セイバールート十日目-03:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Suffocating? That's ridiculous.\nShe was fine before. And Saber said she could recover if she slept—\"",
+      "sourceUnit": "セイバールート十日目-03:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Only because she had an extraordinary amount of magical energy to begin with.\nBut now that's burned up. There are only two ways to restore a Servant's magical energy when they run out.\nEither the Master replenishes their magical energy, or they have the Servant collect magical energy themselves.\"",
+      "sourceUnit": "セイバールート十日目-03:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "A Servant collecting it themselves…\nThat would mean killing innocent people, like Rider.",
+      "sourceUnit": "セイバールート十日目-03:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"That's impossible. Saber would never do that. She said herself that she'd never do such a thing.\"",
+      "sourceUnit": "セイバールート十日目-03:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured as much. But those are your only options. As long as a Master doesn't provide magical energy, the Servant will have to supply their own somehow.\n...But it's your choice.\nIf you want to save Saber, you'll need to tell her to attack people, and eat their souls.\"",
+      "sourceUnit": "セイバールート十日目-03:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat's the most realistic method.\nBut that's...",
+      "sourceUnit": "セイバールート十日目-03:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm sure Saber would hate that. But if you leave this be, she will disappear sooner or later, and you'll be a target for other Masters.\"",
+      "sourceUnit": "セイバールート十日目-03:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber's going to disappear...?\nI can't even consider that.\nI still remember the warmth of her body when I was carrying her.",
+      "sourceUnit": "セイバールート十日目-03:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll let you decide.\nSaber's condition might settle down if she sleeps, but she's at her limit. If you're going to make a decision, you'll have to do it by tomorrow morning at the latest.\"",
+      "sourceUnit": "セイバールート十日目-03:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka leaves the living room.\nI feel dizzy.\nI can't even lift my head, and the only thing I can do is listen to the sound of her footsteps fading down the hall.",
+      "sourceUnit": "セイバールート十日目-03:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's morning...\"\nThe sun rose, but I didn't sleep a wink.\nSaber hasn't woken up.\nShe's still sleeping, looking almost dead.",
+      "sourceUnit": "セイバールート十日目-03:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"At least she's not as pale.\"\nThe situation's not that dire.\nHer breathing is even, and that pained look she had last night has smoothed over.\nSaber is sleeping peacefully.\nIt's a morning like any other.",
+      "sourceUnit": "セイバールート十日目-03:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe...\"\nMaybe if I let her sleep, Saber will recover.\nThat way, I won't have to make her kill anyone.\nThen she could stay with me, just like she has been...",
+      "sourceUnit": "セイバールート十日目-03:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"How could I be so selfish?\"\nI slam my fist into the wall.\nMy own weakness nauseates me.\nIf I put off on my decision any longer, Saber will disappear.",
+      "sourceUnit": "セイバールート十日目-03:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn... Dammit!\"\nI stand up without another sound.\nI don't know when Saber's going to wake up.\nBut I have to make a decision before she does.",
+      "sourceUnit": "セイバールート十日目-03:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "I head out.\nI don't have a plan.\nI just...wander, hoping I'll happen across a sign that will help me make up my mind.",
+      "sourceUnit": "セイバールート十日目-03:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "The park is empty as usual.\nMaybe because it's so cold.\nThere's no one around, and it looks like I'm the only one outside.",
+      "sourceUnit": "セイバールート十日目-03:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...\nI sit on a bench, the question still ringing in my head, no answer yet presenting itself.\nTime slips by me as I sit on the bench; I have no idea how long I remain sitting there.\nBut just as my fingers start to tremble from the cold...",
+      "sourceUnit": "セイバールート十日目-03:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah!!!\nI thought I'd never see you again, but you're here!\"\nI look up, hearing a voice calling to me.",
+      "sourceUnit": "セイバールート十日目-03:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Heehee. It really is you. Hello, Shirou. You look down. Did something happen?\"\n\"Illya? Did you come all the way here by yourself again? It's not safe. You never know where Masters are lurking—\"",
+      "sourceUnit": "セイバールート十日目-03:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...I'm about to warn her that other Masters might be lurking nearby, waiting to attack. I catch myself, realizing how stupid that would be.\nIllya's a Master.\nI shouldn't be worried about her. We're enemies.",
+      "sourceUnit": "セイバールート十日目-03:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I don't really have time to talk right now.\nI know we bumped into each other, but I can't talk today. It's going to be really cold, so you should head home.\"",
+      "sourceUnit": "セイバールート十日目-03:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "I don't get up from the bench as I dismiss Illya.\nThere are plenty of things I'd like to talk to her about, but I can't think of anything other than Saber right now.",
+      "sourceUnit": "セイバールート十日目-03:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "...\nHm?\nWhat's going on?\nIllya doesn't say anything. She's looking at me as if I'm a stranger.",
+      "sourceUnit": "セイバールート十日目-03:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya? Sorry. I don't mean to be harsh.\nI've just...got a lot on my mind right now...\"",
+      "sourceUnit": "セイバールート十日目-03:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. Saber's about to disappear, right?\nAnd you're wondering what to do.\"\nJust out of nowhere...\n...Illya's voice has gotten so cold and detached.",
+      "sourceUnit": "セイバールート十日目-03:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya. How do you...know about that?\"\n\"There's not much to explain. I was there last night, at the building.\nI could only watch from inside though.\"",
+      "sourceUnit": "セイバールート十日目-03:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nI try to make my hands and feet move, but nothing happens.\nNo, it feels like the more I try to move, the stiffer they get.\nIt's those eyes.\nWhenever I see Illya's red eyes, my senses go...dull...",
+      "sourceUnit": "セイバールート十日目-03:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. You're already chained down. You really weren't on your guard at all.\nI thought it'd be easier to capture you if you were all alone, but you're so cute, getting caught so easily.\"",
+      "sourceUnit": "セイバールート十日目-03:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Illya, yo...u...\"\n\"It's no use, brother. You can't move now.\nSoon, you won't be able to talk. But there's nothing to worry about.\nI actually didn't come here to talk today either.\"",
+      "sourceUnit": "セイバールート十日目-03:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "Illya's eyes blaze with murderous intent.\nThis is Illya as I saw her the other night: Berserker's Master.",
+      "sourceUnit": "セイバールート十日目-03:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...! Do you plan to kill me...right here...!?\"\nI grit my teeth and gather all my strength.\nBut my fingers won't so much as budge.\nIt's like Illya's stare has frozen every nerve in my body.",
+      "sourceUnit": "セイバールート十日目-03:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. There's no reason for you to remain a Master, right? If Saber disappears, you'll be all alone. I can't have you go on being a Master.\nI can kill you easily if you have no other means to fight.\"",
+      "sourceUnit": "セイバールート十日目-03:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Illya raises her hand.\nHer slender white fingers reach for my chest.",
+      "sourceUnit": "セイバールート十日目-03:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm glad I found you before the others killed you.\nSo good night, brother. Saber's going to disappear anyway, so the sooner the better, right?\"",
+      "sourceUnit": "セイバールート十日目-03:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "My vision fades.\nMy limbs have gone completely numb, and now I can't see either.\n...How long have I been stuck in this darkness?\nBefore I can figure out whether I'm alive or dead, I lose consciousness.",
+      "sourceUnit": "セイバールート十日目-03:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "H...uh...?\nI think...I'm...still...alive...",
+      "sourceUnit": "セイバールート十日目-03:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you sure about this, Illya? This boy is not your enemy.\"\n\"Y-you stay out of this, Liz. A-a-and I have every right to do this...it's my privilege.\nI've waited ten years for this. I'm not letting him go now.\"",
+      "sourceUnit": "セイバールート十日目-03:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "Ill...ya...?\nWhat...? I can't move...\nNo, I can't... I can't even feel my body...\nWhat the hell happened?\nAm I...really here...?",
+      "sourceUnit": "セイバールート十日目-03:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Refrain from further comment, Leysritt. Preparations to accept the vessel are now ready, Miss. All that remains is to conduct the transfer...\"\n\"Okay. Let's begin. You two can leave.\"",
+      "sourceUnit": "セイバールート十日目-03:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "My vision goes dark.\nThere is no light here.\nAll I can see is the crimson of Illya's Command Spells.",
+      "sourceUnit": "セイバールート十日目-03:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "My consciousness is being taken someplace else.",
+      "sourceUnit": "セイバールート十日目-03:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "I feel nothing, and yet...I feel like someone's taking my arm.",
+      "sourceUnit": "セイバールート十日目-03:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "I'm feeling faint.\nI don't know what will happen to me next, but it seems my fight has already ended...",
+      "sourceUnit": "セイバールート十日目-03:page72:1"
+    },
+    "page73": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

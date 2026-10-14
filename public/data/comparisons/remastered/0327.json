@@ -1,0 +1,86 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0327",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nEveryone watches in astonishment.\nIt's not just me and Tohsaka.\nEven Caster, who ought to have been thrilled by a turn in her favor, stares at her own Master in wonder.",
+      "sourceUnit": "凛ルート九日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Saber's swift attack to Kuzuki's counterattack.\nFrom the nightmare-like neck grab to the impressive throw, it was all incredible, even to the losing side.",
+      "sourceUnit": "凛ルート九日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "...\nSaber doesn't move.\nShe was thrown by her neck and smashed back-first into the wall.\nHer neck injury must be fatal.\nOn top of that, she hit the wall at a speed that was clearly meant to finish her.",
+      "sourceUnit": "凛ルート九日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I don't think it killed her, but I'm sure she can't move.\nAt the least, she'll be laying on the ground until the wounds on her neck and bruises all over her body heal.",
+      "sourceUnit": "凛ルート九日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"No...\"\nI murmur without realizing.\nEven though his fists were Strengthened by Caster's magecraft, Kuzuki's body is still human.\nWho would think that he would be able to overwhelm a Servant in melee combat?",
+      "sourceUnit": "凛ルート九日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine to assume that a Master's role is to provide support from the rear.\"\nThe lean figure turns.\n\"But there are always exceptions. There are also Masters like me that have no choice but to take the vanguard.\"",
+      "sourceUnit": "凛ルート九日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "He just proved that to us just now.\nTherefore, these two are...\nTheir fighting roles as Master and Servant are completely swapped...!",
+      "sourceUnit": "凛ルート九日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you doing, Caster? I told you beforehand.\nIf you are going to support me, you must take care of the enemy's projectile weapons.\"",
+      "sourceUnit": "凛ルート九日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The enemy... Kuzuki stares at Tohsaka.\nSaber is less of a threat to him than Tohsaka, who can attack at a distance.\nSo Kuzuki is wary of targeting us.\nHe feels that mages ought to battle other mages.",
+      "sourceUnit": "凛ルート九日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What happened, Caster? I said that you can do as you wish.\"\n\"...No, I will take care of Saber. Souichirou, please take care of the remaining Masters.\"\n\"...\"",
+      "sourceUnit": "凛ルート九日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "He nods silently and walks towards us.\nBehind him, Caster faces the collapsed Saber.",
+      "sourceUnit": "凛ルート九日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Bring it on. Saber was taken aback, but now we know how he fights. We just have to beat him before he gets close to us.\"",
+      "sourceUnit": "凛ルート九日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka slowly retreats, glaring at Kuzuki.\nA fight between a mage and a warrior is a fight for distance.\nNo matter how many monstrous fighting techniques he may have, Kuzuki has no Magic Resistance.",
+      "sourceUnit": "凛ルート九日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "We can win if we can land a hit at range.\nVictory is ours if we can manage to cast a spell before he reaches us.",
+      "sourceUnit": "凛ルート九日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...\nKuzuki faces Tohsaka and doesn't move.\nCaster walks towards the wall that Saber was thrown at.",
+      "sourceUnit": "凛ルート九日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...That action is a mistake.\nThere's an opening I can take advantage of, so I'll...",
+      "sourceUnit": "凛ルート九日目-03:page15:1"
+    }
+  }
+}

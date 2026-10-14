@@ -1,0 +1,111 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0355",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sun sets.\nThe sun that wasn't even visible sets, and the sky that was already gloomy gets even darker.",
+      "sourceUnit": "凛ルート十一日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So Saber got taken away.\"\nThat was Archer's only response.\nHis Master, Rin Tohsaka, stated the truth simply, but his brevity surpasses hers.",
+      "sourceUnit": "凛ルート十一日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's it? There's two Servants under Caster now. Don't you have anything else to say?\"\n\"Yeah, I cannot think of any way to get out of this. But we should consider it fortunate that we found out her Noble Phantasm.\nBreak the contract between Servant and Master, huh? We should be able to do better if we know that ahead of time.\"\n\"That is true.\n...You sound rather uninterested, Archer. Weren't you supporting Saber?\"",
+      "sourceUnit": "凛ルート十一日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...I do not think I ever displayed such behavior. What makes you think that, Rin?\"\n\"Let's see. Would a woman's intuition be a good enough reason?\"\n\"No. You are not of an age to be called a woman. First of all, you do not have enough charm.\nYou also lack elegance.\nOn top of that... Yeah, this is fatal, but your cuteness is hard to understand.\"",
+      "sourceUnit": "凛ルート十一日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Heh. I see. You're finally back to par, now.\"\nShe smiles happily.\nIt's not Archer if he's not like this.\nAn unemotional Archer is not a partner Rin trusts.\nHer partner always has to be composed and speak sarcastically to anyone, regardless of who it is.",
+      "sourceUnit": "凛ルート十一日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Rin realizes that this is the knight's kindness.\nSpeaking sarcastically is like him indirectly telling others to fix parts of themselves.",
+      "sourceUnit": "凛ルート十一日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Then here's the first item of proof.\nYou went easy on Saber the first time you met her, didn't you?\nRegardless of how strong Saber is, I don't think you, a good defender, can be beaten with one blow.\"",
+      "sourceUnit": "凛ルート十一日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"That was a surprise attack. Like you, I am weak against unexpected events.\"\n\"Shut up. So, next item of proof.\nYou provoked Saber after the incident with Rider, right?\nThat wasn't like you at all.\nI realized once I looked at it from a different perspective. You were scolding Saber back then, right?\"",
+      "sourceUnit": "凛ルート十一日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Oh, was I right? I knew it. I thought that was the case. Even if you knew her from your previous life, it's rare for you to act so coldly.\"\n\"Really? I think I act that way towards anyone.\"\n\"You're the only one who thinks so. I think you're awkward whenever it comes to things that concern you. Everyone was fooled though, because you're usually tactful.\"",
+      "sourceUnit": "凛ルート十一日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Archer frowns, as if reflecting on himself.\nIt seems like he's aware of it.\nThe red knight goes silent with a troubled expression, and his Master looks at that with pleasure.\nThen, suddenly...\n\"So, have you remembered what kind of hero you are? If you're related to Saber, you must be a hero from around that age, right?\"\nShe asks, as if to test him.",
+      "sourceUnit": "凛ルート十一日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, it's still hazy.\nBut as you said, I do remember Saber. She does not seem to know me, so it must have not been a deep connection.\"\n\"Hmm. So you weren't friends or lovers.\nToo bad. I would've found out her identity if that was the case.\"\nShe doesn't sound disappointed.\nA forced line that's not genuine.",
+      "sourceUnit": "凛ルート十一日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'll remember eventually.\nMore importantly, Rin. How is the one you brought here doing? Is it not life threatening?\"",
+      "sourceUnit": "凛ルート十一日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...No, he managed to escape death. Until yesterday, his wounds would heal automatically, but this wound isn't healing at all. The healing powers he got from Saber must've gone away since the contract broke off.\nBut, it turned out okay somehow. Fortunately, it missed his vital spots, so he should be able to eat meals if he rests for about three days.\"",
+      "sourceUnit": "凛ルート十一日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"No, not that one. The other one.\"\n\"Huh? Oh, Ms. Fujimura? I let her sleep in the guestroom. Caster cast a sleeping spell on her, but she's completely fine. I treated her, so there shouldn't be a problem even if she sleeps for a week.\"",
+      "sourceUnit": "凛ルート十一日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. But, she might turn into sleeping beauty with Caster's magecraft. Her magecraft is more like a curse. The simplest way to dispel it is to kill Caster.\"\n\"Yeah. Either way, the Holy Grail won't last much longer. We're going to defeat Caster as soon as possible, and knowing Ms. Fujimura, she might just wake up on her own.\"\nArcher agrees.\nAnd after a brief pause in the conversation...",
+      "sourceUnit": "凛ルート十一日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Beating Caster is first priority. Even though there's one less Master, Saber still exists. We do not have time to spare, Rin.\"\n\"I know, we'll go out into town right away.\nEven Caster should take some time to completely control Saber. If possible, we need to defeat Caster before Saber gets manipulated.\"",
+      "sourceUnit": "凛ルート十一日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. So, the contract with that brat ends here, huh?\"\n\"Huh...?\"\n\"Do not 'huh' me. Shirou Emiya is not a Master anymore, right?\nThen he will not be of help, so there will be no need to protect him. The second Command Spell that you used can be terminated now.\"\n...\n\"What is it? Do not tell me that you will look after him since you fought together.\"\n\"...Of course not. I'm not that good of a person.\"",
+      "sourceUnit": "凛ルート十一日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Then—\"\n\"But, it's not over yet. I won't break our promise until he says that he's quitting.\n...I'll try to turn him down, but I can't end it until he says that he gives up.\"\nShe declares, even though she is not sure.\nBesides, how can he rebel against that?",
+      "sourceUnit": "凛ルート十一日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That's my policy. Do you have any objections, Archer?\"\n\"...It cannot be helped. I am painfully aware that you are that kind of person.\"\nHis reply is sarcastic.\nShe snorts as she orders him.\n\"Let's go, Archer. I don't know why, but Caster isn't back at the Ryudou Temple.\nThen... Let's find and defeat her before she gets back.\"\nThere is no need to answer.\nThe knight in red silently nods and follows behind his Master.",
+      "sourceUnit": "凛ルート十一日目-15:page18:1"
+    },
+    "page19": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page20": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

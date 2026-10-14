@@ -1,0 +1,36 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0168",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Fhhn...\"\nThe moment Saber goes flying, I fire at Berserker.\nThis won't hurt him.\nBut it should at least get his attention!",
+      "sourceUnit": "セイバールート十一日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh—!?\"\nThe arrow hits Berserker squarely on the temple, but it doesn't even leave a scratch.\nI can't even get his attention.\nThe giant does not block the arrow... He doesn't even seem to care.",
+      "sourceUnit": "セイバールート十一日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right, Berserker, leave Shirou alone.\nYou can do whatever you want with him after you kill Saber.\"",
+      "sourceUnit": "セイバールート十一日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "Illya's laugh echoes through the forest.\n\"D...damn...!\"\nI can't do anything.\nSaber's about to collapse right in front of me, but I can't do anything.",
+      "sourceUnit": "セイバールート十一日目-10:page3:1"
+    },
+    "page4": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート十一日目-10:page4:1"
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

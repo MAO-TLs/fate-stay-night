@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0165",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I wonder if Saber's really okay.\nShe says she has no problems fighting, but wouldn't it be hard for her to go up against Berserker when she's so weak?",
+      "sourceUnit": "セイバールート十一日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Or...I suppose I'm more concerned about her Noble Phantasm.\nI will not be able to maintain my body if I use it.\nThat's what Saber said.\nThat means Saber will disappear the instant she uses that attack.",
+      "sourceUnit": "セイバールート十一日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\n\"Yes, what is it, Shirou?\"\nAh...before we go out to fight, can you promise me one thing?\"\n\"Hm? Yes, as long as it is something I can do.\"",
+      "sourceUnit": "セイバールート十一日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Well...yeah. I don't want you to use your Noble Phantasm, no matter what happens.\nIt's important, and I don't want you to die, even if it means we defeat Berserker.\"",
+      "sourceUnit": "セイバールート十一日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. I understand. I do not intend to use my Noble Phantasm either. I do not think I will be able to defeat Berserker with the amount of magical energy I have, and more importantly, I will be unable to obtain the Holy Grail if I disappear.\"\nShe's as direct as ever.\nIt's a relief to hear.",
+      "sourceUnit": "セイバールート十一日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. Yeah, that's the Saber that I know. It's good to hear you being so insanely calm.\"\n\"Hm? And what do you mean by that, Shirou?\"\n\"Nothing. Nothing at all. Let's just get going. Tohsaka will get upset again if we keep her waiting.\"",
+      "sourceUnit": "セイバールート十一日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It appears complaining to you has become something of a hobby of hers.\"\nAnd with that kind of weird observation, Saber turns to leave the ruins.",
+      "sourceUnit": "セイバールート十一日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "But then.\nShe trips on a chunk of rubble and stumbles forward.\n\"Oh!\"\nI quickly grab her hand from behind.",
+      "sourceUnit": "セイバールート十一日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Come on, watch your step. You'll need to be careful in this mess...\"\n\"...\"\nHuh.\nSaber seems to be blushing.",
+      "sourceUnit": "セイバールート十一日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber? What's wrong? Did something happen?\"\n\"No. It is nothing...but if you hold my hand like that, I...\"\nSaber's face turns a deep crimson.\nShe must look like I did a few minutes ago.",
+      "sourceUnit": "セイバールート十一日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah...\"\nI find myself blushing too now.\nWith her hand in mine... I suddenly remember the sensations I felt with Saber, and quickly pull my hand back.",
+      "sourceUnit": "セイバールート十一日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nThe two of us stand rigidly, saying nothing.",
+      "sourceUnit": "セイバールート十一日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"L-let's head out. We'd better get moving. We don't have much time.\"\n\"Y-yes. Let us hurry, Shirou.\"\nWe head out after that bit of awkwardness.",
+      "sourceUnit": "セイバールート十一日目-07:page12:1"
+    },
+    "page13": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "セイバールート十一日目-07:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

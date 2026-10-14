@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0651",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Night has come, and it's time to make a decision.",
+      "sourceUnit": "桜ルート十三日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "We aren't going out on patrol.\nTohsaka's totally exhausted after spending the entire day making a mold of the Jeweled Sword. She's resting in her room.\nThe same goes for Illya.\nAfter the three of us ate dinner in silence, we went off to our respective bedrooms.",
+      "sourceUnit": "桜ルート十三日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "It's 10 o'clock at night.\n...If history is any indication, the Shadow should be moving soon.",
+      "sourceUnit": "桜ルート十三日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stand up without making any noise.\nI pick up a knife from the kitchen counter and leave the room.",
+      "sourceUnit": "桜ルート十三日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "The door isn't locked.\nI quietly open it and walk up to the bed.",
+      "sourceUnit": "桜ルート十三日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "...\nSakura is sleeping.\nThat's all I know.\nI can't tell just by looking if her condition has improved or worsened.",
+      "sourceUnit": "桜ルート十三日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Something's wrong with my eyesight.\nSakura's sleeping right in front of me, but I can't tell what face she's making.",
+      "sourceUnit": "桜ルート十三日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Gh...\"\nI fight down my dizziness and shaking.\nMake up your mind.\nEven as I stand here, the Shadow might be attacking people in town right now.",
+      "sourceUnit": "桜ルート十三日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "The most direct way to defeat it is to  Sakura right now.\nEven if it isn't her fault, someone else will get hurt unless I do it.\nPeople could die.\nInnocent people, unable to resist.\n...Even Sakura, who never asked to commit these sins.",
+      "sourceUnit": "桜ルート十三日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI raise the knife.\nMy mouth is dry.\nMy tongue feels like cardboard.\nThe blade is cold and unfeeling.",
+      "sourceUnit": "桜ルート十三日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "When I imagine this thin strip of metal, which only exists to be sharp, plunging into the soft flesh of Sakura's living human throat, my eyes go numb.\nLike the feeling of falling onto a flathead screwdriver that happened to be bouncing up and stabs me directly in one of my eyeballs.\nThe numb pain of going blind rips the meninges off of my brain like when someone removes the peel off an orange.",
+      "sourceUnit": "桜ルート十三日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy senses are going haywire.\nThe fingers that are gripping the knife look like they're being bent backwards by an unseen force.\nLike telekinesis in the movies.\nI ignore it, and grip the knife harder.",
+      "sourceUnit": "桜ルート十三日目-03:page11:1"
+    },
+    "page12": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

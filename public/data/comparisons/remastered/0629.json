@@ -1,0 +1,56 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0629",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. I'll make it work.\"",
+      "sourceUnit": "桜ルート十二日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I scrounge up every bit of strength and grit, and...",
+      "sourceUnit": "桜ルート十二日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll follow your plan. We're only taking off the shroud, right?\"",
+      "sourceUnit": "桜ルート十二日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I manage to make myself nod.",
+      "sourceUnit": "桜ルート十二日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. You'll do it, huh?\"\n\"What, Tohsaka? You don't like my answer?\"",
+      "sourceUnit": "桜ルート十二日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I didn't say that. I just remembered that it's pointless to try and intimidate you.\nI didn't expect you to say that you'd be okay with taking off the shroud. But I'm satisfied with your answer.\"\nTohsaka huffs and turns away, clearly unhappy.",
+      "sourceUnit": "桜ルート十二日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh. You're being weird. I was trying to show you that I'm determined to help, but you make it sound like I did something wrong.\"",
+      "sourceUnit": "桜ルート十二日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I am being weird.\nIt's the answer I wanted to hear, but it still pisses me off to hear it.\"",
+      "sourceUnit": "桜ルート十二日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"And Shirou, I said earlier that I'd never make you use Archer's arm. Meaning that I wouldn't make you take off the shroud.\nI know how this sounds right after I was trying to test you, but never say that you're going to take off the shroud again.\n...Once you do, there's no going back.\"",
+      "sourceUnit": "桜ルート十二日目-01:page8:1"
+    },
+    "page9": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

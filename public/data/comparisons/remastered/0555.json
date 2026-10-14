@@ -1,0 +1,411 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0555",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait! Didn't you want to team up because you can't save people by yourself!?\"",
+      "sourceUnit": "桜ルート九日目-33:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop.\nHer words are like cool water on my boiling head.",
+      "sourceUnit": "桜ルート九日目-33:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Sorry. But Sakura's still in danger. I know it's suicidal to go in by myself, but I don't have a choice.\"",
+      "sourceUnit": "桜ルート九日目-33:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. If Shinji brought Sakura along, I can't help you on such short notice.\nBut remember, if you can somehow get Sakura away from him, I'll take care of the rest.\"",
+      "sourceUnit": "桜ルート九日目-33:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Take care of what? Shinji?\"\n\"Rider, not Shinji. You need a Servant to fight another Servant.\nI'll be hiding as close by as possible, so just focus on saving Sakura. If you can do that, I swear I'll come rescue you, even if you're one second away from death.\"",
+      "sourceUnit": "桜ルート九日目-33:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says it like she's trying to convince herself.\n...I know this is going to be a heavy burden on her.\nI'm asking her help with that in mind, and she's promising to honor our alliance.",
+      "sourceUnit": "桜ルート九日目-33:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "The reassurance warms my enraged heart.\nI can count on Tohsaka.\nIn exchange, I need to get Sakura out of there unharmed.",
+      "sourceUnit": "桜ルート九日目-33:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll let you back me up.\"\n\"Good. But that's only on the condition that you stay safe and protect Sakura.\nNo matter how well Archer handles Rider, he can't protect Sakura at the same time. And if you give up your own life to save her, that's completely pointless.\"",
+      "sourceUnit": "桜ルート九日目-33:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "There's no sign of anyone on campus.\nSchool has been sending students home early ever since the mass comas spread.\nIt's almost 6:00 PM. There probably aren't even any teachers still on campus, let alone students.",
+      "sourceUnit": "桜ルート九日目-33:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you know where Shinji is, Tohsaka?\"\n\"...Knowing him, he'll be in the building. I bet he's set up somewhere high-up and familiar.\"\nOnly one place fits those conditions.\nShinji's in a classroom on the third floor.",
+      "sourceUnit": "桜ルート九日目-33:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going on ahead. Come after me once you can.\"\n\"...Yeah. I'll sneak in through the front gate once enough time passes.\nI haven't told you yet, but there's a Bounded Field up around the school. They'll detect us even if we try to hide our presence, so I need you to distract Shinji and Rider.\"",
+      "sourceUnit": "桜ルート九日目-33:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "I nod once and start running.\nI feel hot iron enter my back.\nI've already activated my Magic Circuit.\nI tell my impatient self that my only weapon, Strengthening, is for protecting Sakura, not defeating my enemies.",
+      "sourceUnit": "桜ルート九日目-33:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"!\"\nI stop.\nOn the third floor, I find a dark-clothed Servant and Shinji with Sakura next to him. He's holding a knife, its tip pointed at Sakura.",
+      "sourceUnit": "桜ルート九日目-33:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Damn you!\"\nI move on impulse.\nMy legs start sprinting again.\nThe dark Servant, Rider, blocks my path.",
+      "sourceUnit": "桜ルート九日目-33:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Stop. We cannot guarantee her safety if you come any closer.\"\n\"Guh...!\"\nI force myself to halt.\nMy mouth hurts.\nI'm grinding my teeth together so hard they're squeaking.",
+      "sourceUnit": "桜ルート九日目-33:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji!\"\n\"Hey, there. You came charging in, just like I expected. Knowing you, you actually came all alone.\"",
+      "sourceUnit": "桜ルート九日目-33:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh!\"\nMy mind goes white-hot with rage, despite my attempts to suppress it.\nI feel so dizzy from anger, I almost can't see Rider right in front of me.",
+      "sourceUnit": "桜ルート九日目-33:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...What's going on?\"\nWhy is he doing this?\nI'm the one who Shinji hates, right?\nHe didn't need to go to such lengths to call me out here.",
+      "sourceUnit": "桜ルート九日目-33:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "Sakura is Shinji's sister.\nA big brother should protect his sister.\nClose family should help each other, and smile together.\nSo why is he doing this?\nHow can a big brother do this to his little sister's feelings,\nwhen I couldn't do anything to help!?",
+      "sourceUnit": "桜ルート九日目-33:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Are you serious, Shinji!?\"\n\"Of course. That's why I'm here, waiting for you. You fallin' asleep on me now?\"",
+      "sourceUnit": "桜ルート九日目-33:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh...!\"\nMy body leans forward.\nI won't feel at ease until I run in there right now and pull Sakura away from Shinji.",
+      "sourceUnit": "桜ルート九日目-33:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut she's in the way.\nRider blocks my approach to Shinji, protecting him.",
+      "sourceUnit": "桜ルート九日目-33:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...You fail to understand. What did you come here to do?\nIf you have come, then you must obey my Master. You should not have come alone if you intended to fight.\"",
+      "sourceUnit": "桜ルート九日目-33:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Rgh...\"\nRider's completely right.\n...I need to keep a cool head.\nSince I'm following Shinji's directions, I need to focus only on saving Sakura, not beating Shinji.",
+      "sourceUnit": "桜ルート九日目-33:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whew.\"\nI take a deep breath and relax.",
+      "sourceUnit": "桜ルート九日目-33:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Holding Sakura close, Shinji enjoys my apparent dismay.\n...Sakura hangs her head, not looking up at me.\nI'm sure she isn't unconscious, right?\nShe's standing on her own two legs.\nShe's just looking down because she can't raise her head.",
+      "sourceUnit": "桜ルート九日目-33:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji. Did you tell Sakura about the Holy Grail War?\"\nI glare at him without hiding my anger.\n\"Huh?\"",
+      "sourceUnit": "桜ルート九日目-33:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that. So that's what you're worried about!\nRelax, Emiya. You didn't tell her anything, so I explained everything, start to finish! About how we're Masters who are trying to kill each other!\"",
+      "sourceUnit": "桜ルート九日目-33:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\n\"Were you trying to keep it a secret? Of course it'd come out, you idiot! She knew you were hiding things from her, but she didn't ask out of respect for you!\"\n\"Ngh!\"",
+      "sourceUnit": "桜ルート九日目-33:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Sakura turns away, gritting her teeth so that she won't look up.",
+      "sourceUnit": "桜ルート九日目-33:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Ask him, Sakura. Emiya can't hide anything from you now. Go on, ask anything you want!\"\n...\nSakura keeps her mouth shut.\nSo she keeps staring at the floor because...",
+      "sourceUnit": "桜ルート九日目-33:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Why aren't you saying anything?\nGo ahead. Ask him for yourself what he thinks of you, whether he hates you as a filthy Matou woman.\"",
+      "sourceUnit": "桜ルート九日目-33:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Shinji!\"\nShe looks like she's apologizing to me. I can't take this anymore.",
+      "sourceUnit": "桜ルート九日目-33:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Enough. I'm here, like we promised. Now let Sakura go.\"\n\"Huh? What promise? I ordered you to come.\nAll I said is that I wouldn't hurt her if you came alone.\"\n...",
+      "sourceUnit": "桜ルート九日目-33:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't give me that look, Emiya. I'm not a monster. I'm happy that you care enough to try and take my sister back, and I'll reward that loyalty. Once this is over, you can take Sakura home with you.\"",
+      "sourceUnit": "桜ルート九日目-33:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. Is that a promise?\"\n\"Yeah. If you do what I say, I'll let her go.\nIt's a deal. I'll honor it.\"",
+      "sourceUnit": "桜ルート九日目-33:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. So what are your demands? Do you want me to get on my knees?\"\n\"No need to go that far. Having a guy on his knees in front of me isn't a turn-on at all. I called you here to fight. I said we'd settle the score, remember?\"",
+      "sourceUnit": "桜ルート九日目-33:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "Rider takes a step forward.\nShe isn't exhibiting hostility or bloodlust.\nShe merely advances on her Master's orders.",
+      "sourceUnit": "桜ルート九日目-33:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"But a regular fight would be boring, y'know? It isn't fair because I'm not a mage, and we know you'd win in a fistfight.\nSo let's make this fair and have you fight her.\"",
+      "sourceUnit": "桜ルート九日目-33:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nYou've gotta be kidding me.\nHe wants me, a regular person, to go up against Rider?\nHe may as well ask me to kill myself.",
+      "sourceUnit": "桜ルート九日目-33:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, you won't die, at least. I told Rider to hold back.\nIt'll be annoying to have you hanging around though, so I'll have her break a few bones.\"",
+      "sourceUnit": "桜ルート九日目-33:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "...Rider isn't armed with her daggers.\nApparently, she really is holding back.",
+      "sourceUnit": "桜ルート九日目-33:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Simple, right? Just let her beat you up.\nOh, but don't throw in the towel right away. If you pass out before I'm satisfied, I'm taking Sakura home with me.\"",
+      "sourceUnit": "桜ルート九日目-33:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "...\nRider closes in.\nIn just three seconds,\nI'll be within her reach.",
+      "sourceUnit": "桜ルート九日目-33:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. I'm not allowed to resist, but I can't go down easily, either?\nYou're contradicting yourself, Shinji. What do you want?\"",
+      "sourceUnit": "桜ルート九日目-33:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Isn't it obvious!?\nI just want to kick the shit out of you!!!\"",
+      "sourceUnit": "桜ルート九日目-33:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "Rider pounces.\n...\nI raise my hands and brace for a beating.\nInstantly,\na shocking impact pierces my right arm, threatening to tear off my shoulder.",
+      "sourceUnit": "桜ルート九日目-33:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh!\"\nShe targeted my arm which was protecting my head.\nIt's still attached. Nothing's dismembered yet.\nBut it's completely paralyzed, and I can't feel a thing.",
+      "sourceUnit": "桜ルート九日目-33:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...!\"\nI force myself back to my senses.\nUnarmed, I don't have a chance in hell.\nI need to Strengthen something and protect myself if I want to stay in one piece.\nThe next attack will finish me if I can't at least turn my thin school uniform to iron or at least harden my defenseless body!",
+      "sourceUnit": "桜ルート九日目-33:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Rrgh!\"\nMy left arm protecting my head dips.\nThe sledgehammer-like strike smashes through my Strengthened clothes and nearly breaks my limb.\n\"Hah! Damn...it...!\"\nIn the space of a single breath, she disabled both of my arms.\n...No, I can still move them, but I can't feel anything.\nWith reactions this sluggish, I can't use my arms to protect myself from Rider anymore.\nIf she goes for the face next, it'll be an instant knockout!",
+      "sourceUnit": "桜ルート九日目-33:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Rider is merciless.\nShe rains down fists on me, following Shinji's orders.\nThe mechanical way she does it makes her seem like a machine spinning its arms.",
+      "sourceUnit": "桜ルート九日目-33:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah! Guh!\"\nWith arms that can't move properly, I do my best to guard my face.\nRider's fists were never something I could predict and block, anyway.\nI just need to focus on protecting my head so that I don't get knocked out.",
+      "sourceUnit": "桜ルート九日目-33:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh! Kuh!\"\nWhat is Rider thinking, I wonder?\nShe doesn't go for the numerous gaps in my defense.\nAll she does is keep pounding my arms and unprotected stomach.\n...The agony is enough to make me faint, but it isn't the same force that rendered my arms numb.",
+      "sourceUnit": "桜ルート九日目-33:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"..., ...\"\n...That's weird.\nI saw how strong Rider was at Ryudou Temple. She could have cut me in half, if she wanted.\nMaybe she's just holding back, like Shinji said.\nShe might be avoiding my head to keep from knocking me out too early, but this still isn't like her.",
+      "sourceUnit": "桜ルート九日目-33:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh...\"\nIn fact, she's an order of magnitude weaker.\nThe raw magical energy that Servants give off is enough to make my skin crawl.",
+      "sourceUnit": "桜ルート九日目-33:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "At Ryudou Temple, Rider was a formidable Servant.\nBut the Rider attacking me now is the same Rider who lost to Saber in the park.\nI don't know why that is, but this is my chance to turn the tables on Shinji!",
+      "sourceUnit": "桜ルート九日目-33:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Guogh, buh!\"\nI stumble forward.\nLike someone tired of beating on a sandbag, Rider steps in and lays a heavy uppercut into my stomach.\n...\nIt's like a pile driver, hollowing out my insides.\n...That one really hurt.\nMy not-yet healed injuries from last night scream out in pain.\nThe blow makes me vomit gastric juices, and I go weak at the knees.",
+      "sourceUnit": "桜ルート九日目-33:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"Done so soon, Emiya? You gotta man up in front of Sakura. You look like a total loser!\"\nI feel myself pitch forward.",
+      "sourceUnit": "桜ルート九日目-33:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nRider backs off slightly and watches me collapse.",
+      "sourceUnit": "桜ルート九日目-33:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "But, I...\n\"Nnngh...aaahhh!\"\nI grab Rider's arms and force myself to keep standing.",
+      "sourceUnit": "桜ルート九日目-33:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha! Nice, Emiya! You're as stubborn as a cockroach!\nAhaha, you're freakin' hilarious!\"\nArgh...\nDamn, that one really got me good. I'm dizzy, and I didn't even get hit in the head.",
+      "sourceUnit": "桜ルート九日目-33:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahh, but that was a third-rate show. You're just going to keep showing me the same thing over and over. I'm getting bored, so let's wrap this up with a dramatic KO.\"",
+      "sourceUnit": "桜ルート九日目-33:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "The same thing?\nYou've got to be kidding.\nOur positions are completely different now.\nCan't he even tell that our positions are reversed since I pulled myself up using Rider's arms?",
+      "sourceUnit": "桜ルート九日目-33:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"The distance is about five meters. Your endurance has won you this battle.\"\n\"Huh?\"\nI look up.\nWhat did Rider just say to me?",
+      "sourceUnit": "桜ルート九日目-33:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Break's over. Time for round two, Emiya.\"\nRider shakes off my hands.\nThe Servant in the black dress resumes her robotic assault.",
+      "sourceUnit": "桜ルート九日目-33:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "I'm driven backwards.\nEach of Rider's strikes avoids any vital points that would end the fight.",
+      "sourceUnit": "桜ルート九日目-33:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm numb all over.\nInternal bleeding forms dark bruises where she hits me, and I can't even feel the pain anymore.\nIt's because the pain lingering inside me is stronger than the external pain she's inflicting.\nRider is mercilessly destroying my body from within.",
+      "sourceUnit": "桜ルート九日目-33:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"Prepare yourself.\"\nThe Servant utters emotionlessly and moves in.",
+      "sourceUnit": "桜ルート九日目-33:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "That's when I fully understand—\nThis isn't what Shinji wants.\nShe isn't avoiding aiming for my head\nor leaving me just barely mobile\nbecause Shinji ordered her to...",
+      "sourceUnit": "桜ルート九日目-33:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"No need to hold back anymore! Kill him, Rider!\"\n\"...!? Shinji, stop...!\"",
+      "sourceUnit": "桜ルート九日目-33:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "Rider takes a step forward, her long hair dancing through the air.\nThen, she hits me with a thrust to the chest unlike anything I've experienced so far.",
+      "sourceUnit": "桜ルート九日目-33:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"GUH—\"\nI can't breathe.\nMy feet leave the ground.\nI nearly black out from the punch, even though I saw it coming.",
+      "sourceUnit": "桜ルート九日目-33:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Senpai!\"",
+      "sourceUnit": "桜ルート九日目-33:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "Rider sends me flying. As I sail through the air, I hear a muffled scream and a delighted guffaw.\n...Sakura's voice is much closer now.",
+      "sourceUnit": "桜ルート九日目-33:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "I fall.\nOn any other day, I would be dead as soon as I hit the floor.\nShe wouldn't even need the impact of the fall to kill me.\nIt's an attack that sent a whole human being flying.\nI'd expect it to punch a gaping hole through my chest on impact.",
+      "sourceUnit": "桜ルート九日目-33:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hah.\"\nBut I'm still alive.\nShe went out of her way to time the punch so perfectly, anyone could've jumped back at the same time.\nThat attack wasn't meant to kill me.\nUltimately, it was Rider, not Shinji, who decided to avoid hitting me in the face and keep attacking me in a way that allowed me to keep moving.",
+      "sourceUnit": "桜ルート九日目-33:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "\"Here goes...\"\nI'm at a perfect distance.\nJust before I hit the ground, I twist my body in midair, and...",
+      "sourceUnit": "桜ルート九日目-33:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n...grab the knife blade in front of me with my left hand.",
+      "sourceUnit": "桜ルート九日目-33:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "My left palm wraps around the blade.\nIt's already numb, so the sensation of metal cutting flesh doesn't bother me.",
+      "sourceUnit": "桜ルート九日目-33:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh? Wha!?\"\nI bring my right arm around in a wild swing.\nPaying no heed to my left hand being sliced open,\nI slug Shinji squarely in the face with my clenched right fist.",
+      "sourceUnit": "桜ルート九日目-33:page79:1"
+    },
+    "page80": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

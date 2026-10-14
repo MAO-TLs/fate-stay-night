@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0663",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...\nWait.\nThey're going to take the Einzbern Grail...?\n\"...!\"",
+      "sourceUnit": "桜ルート十四日目-04:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I run.\nI don't care about Zouken's cackling.\nHe's just watching me from a safe location, anyway.\nNo, never mind that old bastard's rambling...",
+      "sourceUnit": "桜ルート十四日目-04:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Hurry, Shirou Emiya!\nSakura has already been Darkened. If she catches Illyasviel, she will devour her without mercy...!\"\n\"...!\"",
+      "sourceUnit": "桜ルート十四日目-04:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I run as fast as I can. I don't care if my legs give out.\n\"Be safe, Illya!!!\"\nIt takes twenty minutes to get home from the mansion at a full sprint.\nI run back to Illya as fast as I can, glaring up at the overcast sky.",
+      "sourceUnit": "桜ルート十四日目-04:page3:1"
+    },
+    "page4": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

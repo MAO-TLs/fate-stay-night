@@ -1,0 +1,81 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0298",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Bet the odds are greater than fifty-fifty that she's after me.\nWhat bothers me is how she's acting.\nYou'd think, based on her personality, that she'd just drag me right out if she had business with me. But waiting around more like a regular, everyday girl?",
+      "sourceUnit": "凛ルート七日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...I want to ignore her, but I don't think it wise... I'm scared of what'll happen if I ignore her.\"\nI get up from my seat holding my lunch.\nBracing myself for the interrogation that's sure to come from Gotou and the others later, I make for the hallway.",
+      "sourceUnit": "凛ルート七日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. What are you doing here?\"\n\"O-obviously I'm taking a walk! It's natural to go eat lunch during lunch break, right?\"",
+      "sourceUnit": "凛ルート七日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...Tohsaka is acting too suspiciously.\nShe's restless and doesn't try to make eye contact with me.",
+      "sourceUnit": "凛ルート七日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, yeah, that makes sense. Then go find a good spot.\nI'll be at the student council room.\"\nI raise my lunch to say goodbye and turn that way.",
+      "sourceUnit": "凛ルート七日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey, hold on! You're doing this on purpose, right!?\"\n\"Hm?\"\nI turn back around.",
+      "sourceUnit": "凛ルート七日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Look, Tohsaka. I don't know what happened, but I can't read minds. If you have something to say, out with it.\"\n...\nTohsaka just stares at me, still unable to explain.\n...Hmm.\nCould this be...?",
+      "sourceUnit": "凛ルート七日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Did you forget your lunch money? I won't give you my lunch, but I can lend you some money if you wanna get a sandwich.\"\n\"...Ugh, of course not, you jackass!!!\"",
+      "sourceUnit": "凛ルート七日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka basically screams.\nThe hallway goes quiet at once.\nAfter a few seconds, everything resumes as if nothing happened.",
+      "sourceUnit": "凛ルート七日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see, I see. They rejected reality to substitute their own.\nTheres no way that Rin Tohsaka—the beautiful idol of the second years and model student moreover—would raise her voice in the hallway, let alone say something like \"jackass.\"\nSo what just happened has been ignored and entirely erased from memory.",
+      "sourceUnit": "凛ルート七日目-01:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...Lucky.\nI wish I could do the same for the past four days or so.",
+      "sourceUnit": "凛ルート七日目-01:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...So. If it's not lunch money, then what is it?\"\n\"Uh... Y-you're having lunch, right? Then do you want to come with me? I know a much better place than the student council room.\"",
+      "sourceUnit": "凛ルート七日目-01:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka says in a roundabout way, while peering at me from time to time.\n...Oh.\nBasically, she just wants to talk to me to have a strategy meeting...",
+      "sourceUnit": "凛ルート七日目-01:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Wait.\nIs this really the much better place, Tohsaka?",
+      "sourceUnit": "凛ルート七日目-01:page13:1"
+    },
+    "page14": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

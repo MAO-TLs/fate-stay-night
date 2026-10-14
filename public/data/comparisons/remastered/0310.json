@@ -1,0 +1,106 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0310",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's lunchtime, so I go to the student council room.\n\"Excuse me.\"\nI say, and open the door.\n\"Oh. You're going to eat lunch here today, Emiya?\"\nIssei is eating lunch by himself inside.\n...\n...Good, this is convenient.",
+      "sourceUnit": "凛ルート八日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"How are you doing? How did yesterday's incident turn out?\"\nI sit at the table and try to act casual.",
+      "sourceUnit": "凛ルート八日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I haven't been given an explanation yet. They've only been considering what happened to the chemicals in the empty classroom on the first floor. That's all that resulted from yesterday and this morning's search.\"\nHe seems unhappy, as he bites into a stiff carrot.",
+      "sourceUnit": "凛ルート八日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"But you were fortunate at least. By ditching after lunch, you were able to avoid this disaster. Yes, I guess you were rewarded for your daily conduct.\"",
+      "sourceUnit": "凛ルート八日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "This time, he sips on his tea happily.\n...Well, this is awkward.\nIt doesn't seem like the right time to interrogate him, so I'll wait for a while and see.",
+      "sourceUnit": "凛ルート八日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...!?\"\nDamn, there's only five minutes left before break is up.",
+      "sourceUnit": "凛ルート八日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? What happened, Emiya? Did you come up with something?\"\n\"I didn't come up with anything, but I remembered something. I don't have time to slack off.\"\n\"Hm?\"\nI hurriedly wrap my lunch back up and face Issei.",
+      "sourceUnit": "凛ルート八日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm, I have a bad feeling about this. Please do not ask me for money.\nI don't have any even if you beg.\"\nI get up from my chair.\n...There's no time.\nI just have to dive right in.\n\"Issei. Don't ask any questions and take your shirt off.\"\nI demand as firmly as possible.",
+      "sourceUnit": "凛ルート八日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"W-whaaat!!!???\"\n\"I said, take off your uniform. Not just your jacket, but your shirt too.\nThis isn't going to work unless you're stripped down.\"",
+      "sourceUnit": "凛ルート八日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...W-w-w-what are you asking!? Are you insane!? Is this a new method of debate!? Must I, right this instant!?\"\n\"Yeah, bring it on. Hurry up and strip. It'll be too late once school ends!\"",
+      "sourceUnit": "凛ルート八日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "I grab at Issei.\n\"Woah...! Hey, stop it, you fool! Are you still the son of a samurai!?\"",
+      "sourceUnit": "凛ルート八日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right.\"\nIn the end, there was no Command Spell on Issei's body.\nI searched thoroughly, but I didn't see anything that looked like a Command Spell.",
+      "sourceUnit": "凛ルート八日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Good. Man, I'm glad.\"\nI nod to myself.",
+      "sourceUnit": "凛ルート八日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What's so good about this...!? Why would you go so far just to do nothing!?\"\nMm? Oh, yeah. Sorry, Issei. I can't tell you what's going on, but there was something I had to check. But it's done now, so there's no problem anymore.",
+      "sourceUnit": "凛ルート八日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "I bow my head and apologize.\n\"Mrgh... O-okay. If you think you have done something bad, it's natural for you to apologize.\"\nIssei goes silent with a serious expression.",
+      "sourceUnit": "凛ルート八日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nBut now, it's back to square one.\nIf Issei, who has ties with Ryudou Temple, is innocent, then there's no one else that could be applicable as Caster's Master.",
+      "sourceUnit": "凛ルート八日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Issei. Has there been anything unusual at the temple lately?\"\n\"Hm? Something unusual as in...?\"\n\"I don't know. Is there anything different than usual?\"",
+      "sourceUnit": "凛ルート八日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let me see. If you mean recently, there is a new woman. But that's about it. My father and brother are as they always are.\"\nIssei says calmly.",
+      "sourceUnit": "凛ルート八日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\n...A new woman.\nCould that be Caster? ...Well, I'm sure that Servant would pretend to be a human without a problem.\nOr could that woman be Caster's Master?",
+      "sourceUnit": "凛ルート八日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Should I try and ask Issei?\nMaybe...",
+      "sourceUnit": "凛ルート八日目-00:page19:1"
+    }
+  }
+}

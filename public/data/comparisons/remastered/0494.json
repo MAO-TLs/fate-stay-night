@@ -1,0 +1,196 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0494",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why I'm saying, people get upset when you tell them the truth.\"",
+      "sourceUnit": "桜ルート七日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka pokes at my lunch thoughtfully.\nShe came here empty-handed today,\nmeaning that she doesn't have anything to eat.\nIt was inevitable that she'd come after my lunch, instead.",
+      "sourceUnit": "桜ルート七日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Just eat... Why do you have chopsticks with you when you didn't even bring lunch? Do you always carry those around?\"",
+      "sourceUnit": "桜ルート七日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"? I brought these with me when I left class. You had food with you last time, so I figured we'd just split it today. I needed utensils in case you packed your own lunch.\"",
+      "sourceUnit": "桜ルート七日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, I think you have your priorities out of order.\"\nIf you thought that far ahead, then bring your own dang lunch!",
+      "sourceUnit": "桜ルート七日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't sweat the small stuff. I know you packed enough food for two, so it worked out for everyone.\"",
+      "sourceUnit": "桜ルート七日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThis isn't really meant for two people to share.\nSakura just happened to put too much food in the box.",
+      "sourceUnit": "桜ルート七日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whatever. You're right that I can't finish this on my own. Oh, Tohsaka, don't just eat the veggies. You should take some meat. I'll get bloated if I eat all the meat.\"",
+      "sourceUnit": "桜ルート七日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Aww, but that fried chicken's too sweet for me.\nAlso, don't pressure girls to eat meat. We can figure out our own portions. If we say we don't want it, that's a stop sign.\"",
+      "sourceUnit": "桜ルート七日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Liar. I bet you're the type that doesn't hold back when you're in front of the grill. I know I'm right. While I'm still on the appetizers, you'd be scarfing down the galbi like there's no tomorrow.\nI can tell you wouldn't give a damn about my wallet. In fact, you'd try to bankrupt me. And once you're done, you'd say 'I held back for your sake this time.'\"\nI huff and shoot back a retort, feeling like a sore loser.",
+      "sourceUnit": "桜ルート七日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well said, Emiya. It's scary how I can't even deny everything you said.\"\n\"...\"\nNo...\nI'm pretty sure the scary one here is you.",
+      "sourceUnit": "桜ルート七日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"What a weird lunch, though. The portions are huge, but the garnishes and wrappings are so girly. Do you enjoy cooking?\"\nWhat a coincidence.\nSomeone asked me the same thing this morning.",
+      "sourceUnit": "桜ルート七日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't dislike it, but Sakura's the one who made my lunch today.\nOh, Sakura is...\"\n\"...Tohsaka? What's wrong? Did you bite on a lump of sugar or something?\"\n\"Aw, crap. Now I've done it.\"\nTohsaka sighs and puts away her chopsticks.",
+      "sourceUnit": "桜ルート七日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks for sharing your lunch. You can finish the rest on your own.\"\nTohsaka backs away uncomfortably.",
+      "sourceUnit": "桜ルート七日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nWell, as long as she's full.\nI was getting pretty nervous eating side by side with her, so it'll be nice to enjoy it in peace.",
+      "sourceUnit": "桜ルート七日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I'm on the way back to class.\nFifth period starts in a few minutes. The hall leading back to my classroom is crammed with students.",
+      "sourceUnit": "桜ルート七日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "On the other hand, the stairs are quiet.\nThere aren't many students who visit other years' floors during lunch, so people use the stairs only occasionally.\nOn the way back down,\nI run into Sakura.",
+      "sourceUnit": "桜ルート七日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "As soon as she sees me, she looks away awkwardly.\n\"...?\"\nI wonder why.\nIt's the opposite of how energetic she looked this morning.",
+      "sourceUnit": "桜ルート七日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura—\"\nI speak to her,\nbut before I can say anything else...",
+      "sourceUnit": "桜ルート七日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Sakura. That was poor timing on my part.\"\nTohsaka interjects first.",
+      "sourceUnit": "桜ルート七日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... N-no, you didn't do anything wrong. It isn't any of my business whether the two of you—\"",
+      "sourceUnit": "桜ルート七日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not what this is. I called Emiya out because I had business with him. Also, he didn't break his promise to you. He was just oblivious.\"\n\"...Um. What's that supposed to mean? I never promised her anything—\"",
+      "sourceUnit": "桜ルート七日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, stupid. Sakura made you lunch because she wanted to eat with you. Of course she would be upset.\"\n\"Huh?\"\nW-wait a second.\nWhen did I ever say I would...",
+      "sourceUnit": "桜ルート七日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...U-um, Senpai? What about having lunch at the range?\nThe club building's open during the day, you can make tea there, and, um, it's quiet and there's nobody around, so...\"",
+      "sourceUnit": "桜ルート七日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nI notice that Sakura hasn't unwrapped her lunch yet.",
+      "sourceUnit": "桜ルート七日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\nOh, right.\nWhat the hell am I saying!? Of course Tohsaka would call me stupid!",
+      "sourceUnit": "桜ルート七日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry, Sakura! I'm such an idiot!\"\n\"N-no. It's okay. I mean, we didn't actually agree to meet up. I just thought it would be nice if we did—\"",
+      "sourceUnit": "桜ルート七日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"It's not okay! Let's go right now! There's still time!\nWe'll get it done in the dojo right away—\"\nI grab Sakura's hand and start to run.",
+      "sourceUnit": "桜ルート七日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "However...\n\"You obviously don't have enough time. What can you do in three minutes?\"",
+      "sourceUnit": "桜ルート七日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Argh.\"\nTohsaka's calm logic stops me cold.\nMy guilt over standing Sakura up drove me to action, but Tohsaka's one hundred percent right.",
+      "sourceUnit": "桜ルート七日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"It's all right, Senpai. We have to go back to class.\"\n\"But, Sakura...\"",
+      "sourceUnit": "桜ルート七日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Please, don't worry. I'm already happy enough right now. Thank you.\"\n...\nI don't know what to say to that.",
+      "sourceUnit": "桜ルート七日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be going now. You should get back to class too before you're late.\"\nSakura goes up the stairs with her uneaten lunch.",
+      "sourceUnit": "桜ルート七日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going too.\nOnce school's out, go straight to the Chinese restaurant in the shopping district. I'll wait for you there.\"",
+      "sourceUnit": "桜ルート七日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "And so...\nTohsaka goes back to her classroom, leaving me with those cryptic instructions.",
+      "sourceUnit": "桜ルート七日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Fifth period ends, and the classroom quickly empties.\nIt's still before 2:00 PM.",
+      "sourceUnit": "桜ルート七日目-00:page35:1"
+    },
+    "page36": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page37": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

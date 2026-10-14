@@ -1,0 +1,161 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0377",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Well.\nNow we're drinking tea together after dinner.",
+      "sourceUnit": "凛ルート十三日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So Projection has its limitations.\nIt looks like its powers are unlimited since it makes things you imagine real, but it has its own set of rules.\nThe easiest thing to understand in those rules is the durability of the things Projected. It's the strength of its existence.\"\nTohsaka puts up a finger while she drinks her tea.",
+      "sourceUnit": "凛ルート十三日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Strength of its existence...? What? You mean its flimsiness in being unable to bear an existence of the illusion?\"\nI sip on my green tea and tilt my head in response,",
+      "sourceUnit": "凛ルート十三日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...For someone who doesn't seem to know anything, you sure do know some boring terms... But well, you're not right, but you're not wrong.\nProjection is where you completely reproduce the real thing from your own imagination. There is no exception to this.\nYou can't Project it if it's not perfect inside of you. As it is a shadow of the true object, Projection magecraft doesn't even allow a minute to waste.\"",
+      "sourceUnit": "凛ルート十三日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"So... Basically, things created by Projection has the same strength as you imagine it. In the regard of an illusion, it's perfect.\nAdditionally, the closer the mage's image and knowledge is to the real thing, it becomes perfect in reality as well.\"",
+      "sourceUnit": "凛ルート十三日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm? Hold on, that's weird.\nI Projected Archer's swords. But, Kuzuki destroyed them.\nI know Caster Strengthened Kuzuki's fists, but they aren't strong enough to destroy a Noble Phantasm.\nDoesn't that mean that Archer's Kanshou and Bakuya that I Projected is inferior by several ranks to the original ones?\"",
+      "sourceUnit": "凛ルート十三日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, you realized a good point, Emiya.\nThat's the limitation of Projection, the strength of its existence.\nYou see, Projection is just Projection. It's not creation. What creates the Projection is the mage's image, so when there's a flaw in the image itself, it vanishes even if it has the same ability as the real thing.\"",
+      "sourceUnit": "凛ルート十三日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm? A flaw in the image...? Isn't that weird too? If the image is wrong, then you can't Project it in the first place.\"",
+      "sourceUnit": "凛ルート十三日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. That's why the flaw is created after it is Projected.\n...Let's see. For example, let's say you Projected 'the famous sword that would never break.'\"\nI nod.\nTohsaka nods in satisfaction.",
+      "sourceUnit": "凛ルート十三日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"But, there's no such thing as a sword that never breaks.\nJust by having a personality trait of never breaking in its expression method, tradition, and sales pitch, it can chip or break if it comes across an illusion greater than itself.\"",
+      "sourceUnit": "凛ルート十三日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm? Doesn't that mean that my image was wrong if it breaks? Since I made a sword that won't break, right?\"",
+      "sourceUnit": "凛ルート十三日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"It doesn't.\nAt the point that it succeeded, there's no mistake shape-wise, and first of all, 'a sword that won't break' is like a name, right? There's no such thing as a sword that won't break.\nBut Shirou. What you imagined was 'a sword that never breaks,' right? If this sword breaks in real life, then what you Projected becomes a lie.\"",
+      "sourceUnit": "凛ルート十三日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"That is not because the sword broke.\nWhat you imagined is 'a sword that won't break.'\nAt the point that it broke, 'a sword that won't break' and 'the sword that just broke right now' are two different things.\nIt's because the scale between you and reality tips.\"",
+      "sourceUnit": "凛ルート十三日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "...?\nUmm, so to sum it up...",
+      "sourceUnit": "凛ルート十三日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right.\nSo, I imagined a sword that won't break and Projected it. But, the sword that I Projected broke during battle.\nAt that point, since I denied the sword myself saying, 'hey, this sword breaks in real life,' the Projected thing disappeared as a result.\nBecause of the image's discrepancy.\"",
+      "sourceUnit": "凛ルート十三日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"You're pretty bright. Yes, you're right.\nYou Projected Archer's swords.\nI don't know how you ranked Archer's swords, but you yourself didn't imagine a sword that would get destroyed by Kuzuki's attacks.\"",
+      "sourceUnit": "凛ルート十三日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"But the sword got destroyed in reality.\nAt that point, you thought 'these aren't Archer's swords.'\nSo, the Projection was denied by the creator, so it lost the strength of its existence and became a fantasy again.\"",
+      "sourceUnit": "凛ルート十三日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nEven Projected weapons can break.\nBut, it's not the enemy that makes the Projected weapon disappear, but yourself.\nWhen the difference between your image and reality becomes too big to amend, the Projected weapon disappears.\nMost of all, it is because the one who created it stopped believing in that illusion.",
+      "sourceUnit": "凛ルート十三日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it? That's why Projection magecraft starts from the blueprint. You should also consider the materials, properties, and history. If you have those down, then it shouldn't disappear right away even if reality is slightly different from your image.\"",
+      "sourceUnit": "凛ルート十三日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Then, wouldn't you start from considering why you decided to make that in the first place?\nMaterials and techniques aren't enough.\nToday's dinner also started from you saying that you wanted to eat Japanese cuisine. Then, you have to start from the beginning of the creation.\"",
+      "sourceUnit": "凛ルート十三日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nOh.\nTohsaka is stunned.",
+      "sourceUnit": "凛ルート十三日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nTohsaka stares me.\nI sip my tea and tilt my head in wonder.",
+      "sourceUnit": "凛ルート十三日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. Why did we start talking about this again?\"\n\"...Come to think of it. I thought we were discussing our strategy moving forward...\"",
+      "sourceUnit": "凛ルート十三日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "Yeah, that's right.\nAs we were talking about what we should do moving forward, Tohsaka...\n\"Shirou, do you want to try Projection magecraft fully fledged?\"\n...said an irresponsible thing like that.",
+      "sourceUnit": "凛ルート十三日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I remember now. We were so stuck that we started placing hope on uncertain factors.\"\n\"...Yeah, you're right.\nFirst off, all I can manage to Project is swords. And that's never helped me before, so that probably won't be of much help.\"",
+      "sourceUnit": "凛ルート十三日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nOh, she's looking at me with weird eyes again.\n...I wonder why she makes that expression when we talk about Projection magecraft.",
+      "sourceUnit": "凛ルート十三日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh well. Let's confirm our situation again.\nFor now, the enemy is Caster. It's not a big deal if it's just her, but we can't do anything as long as she's protected by Kuzuki, who's skilled in close combat, and Archer, who went to the other side.\nOn top of that, it's only a matter of time until Saber will be manipulated. The situation is getting worse by the second...\"",
+      "sourceUnit": "凛ルート十三日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah. But, Archer aside, Saber isn't fully under Caster's control yet.\nThat gives us a chance of victory.\nThere's no chance to win once Saber completely submits to Caster.\"",
+      "sourceUnit": "凛ルート十三日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Besides, I won't let that happen.\n...She told me to run.\nFor the sake of Saber who said that while crying, I can't let Caster have her way.",
+      "sourceUnit": "凛ルート十三日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right.\nRaise your hand if you have an idea. Shirou, do you have any good ideas?\"",
+      "sourceUnit": "凛ルート十三日目-00:page29:1"
+    },
+    "page30": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十三日目-00:page30:1"
+    }
+  }
+}

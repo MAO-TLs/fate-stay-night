@@ -1,0 +1,37 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0269",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I still have this weapon in my hand...!",
+      "sourceUnit": "凛ルート五日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Still suspended in the air, I swing with all my might using my other hand.\nShe must have known it was coming.\nThe Servant in black dodges in midair.\nThis grim reaper smirks.",
+      "sourceUnit": "凛ルート五日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Khh...!\"\nI desperately swing my body to avoid it, but it's no use.\nThe Servant mercilessly thrusts the nail towards me right before my eyes.\nShe is shot from the side by numerous light bullets.",
+      "sourceUnit": "凛ルート五日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Augh...!\"\nI fall to the ground.\nThe bullet cuts the chain, and I am unceremoniously dropped on my ass.",
+      "sourceUnit": "凛ルート五日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe Servant in black turns around.\nShe jumps to the tree branch and retreats like a beast.",
+      "sourceUnit": "凛ルート五日目-11:page4:1",
+      "recoveredDelimitedTail": true
+    },
+    "page5": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

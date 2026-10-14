@@ -1,0 +1,51 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0088",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Rider. Was what Shinji said earlier true?\"\nI ask, not really expecting a response.",
+      "sourceUnit": "セイバールート六日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...\nThere's no change in Rider. Just her long hair fluttering in the wind.",
+      "sourceUnit": "セイバールート六日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"I figured as much. Sorry for asking such a stupid question when we're supposed to be enemies.\"\nI step out through the door, raising my hand to show her my appreciation for seeing me out.\n...But then.",
+      "sourceUnit": "セイバールート六日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"He did not lie. There is a witch living in the mountains.\"",
+      "sourceUnit": "セイバールート六日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...? Rider?\"\n\"You must proceed with caution if you intend to challenge her. That witch knows how the minds of men work.\"",
+      "sourceUnit": "セイバールート六日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Rider speaks indifferently.\nI realize her voice is drawing me in, and shake my head to clear it.",
+      "sourceUnit": "セイバールート六日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh...um...thanks for the warning.\nAnd take good care of Shinji. As you can see, he's a bit of a pain, but I hope you can protect him.\"\nI catch myself getting surprised, but I manage to reply.\nI guess that was funny, because...",
+      "sourceUnit": "セイバールート六日目-03:page6:1"
+    },
+    "page7": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page8": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

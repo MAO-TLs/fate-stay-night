@@ -1,0 +1,71 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0553",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...I'll prioritize Tohsaka, since we're working together.\nI want to take care of Sakura and I'm anxious leaving her by herself, but I can make an exception today.",
+      "sourceUnit": "桜ルート九日目-17:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey. Why do you look so reluctant?\nYou don't want the procedure? Well, too bad. I'm your surgeon.\"",
+      "sourceUnit": "桜ルート九日目-17:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I'll do it. Just checking, but this will only take one day, right? It would be a problem if I can't move tomorrow.\"",
+      "sourceUnit": "桜ルート九日目-17:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...To be frank, it could happen. I won't know until we open your Circuits, and it's going to take a while because you're old enough that I shouldn't mess too much with your body. There's also a chance that the surgery itself could fail.\nThat's up to fate. How's your luck lately, Emiya?\"",
+      "sourceUnit": "桜ルート九日目-17:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...Bad.\nAs for what exactly's bad about it, the worst part is that there's someone smiling and asking that question while she has my destiny in a chokehold.",
+      "sourceUnit": "桜ルート九日目-17:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on. That would be really bad.\nI need to go home tomorrow.\"\n\"Home? You mean your house?\"",
+      "sourceUnit": "桜ルート九日目-17:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Sakura has a cold, so I need to look after her. If I'm going to be staying over here a few nights, then I can't rest easy unless I check in on her beforehand.\"",
+      "sourceUnit": "桜ルート九日目-17:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, crap. I forgot.\"\n...She's fed up with me.\nTohsaka looks at me in surprise, then exclaims,\n\"You idiot! If you'd said that sooner, I wouldn't have kept you here so long!\"\nIt's my turn to be surprised.",
+      "sourceUnit": "桜ルート九日目-17:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"We can talk about switches later! We can do the rest at your house!\"\n\"Huh? Huh!?\"\nShe storms across the room to the coat rack and dons her coat.",
+      "sourceUnit": "桜ルート九日目-17:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Let's go. I've done what we came to do, and we can finish the rest at your house. We'll pick this up once you take care of Sakura, so hurry up and get home.\"\n\"Uh...y-yeah. I appreciate that.\"",
+      "sourceUnit": "桜ルート九日目-17:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph! Also, I might forget to say it later, so I'll tell you this now.\nYour real specialty isn't Strengthening, but Projection.\nI don't know when or how you mixed that up, but you're supposed to be a mage who creates things.\"\nTohsaka walks briskly down the hallway.",
+      "sourceUnit": "桜ルート九日目-17:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nI'm a little confused, but I follow her, and we depart the historic Tohsaka mansion.",
+      "sourceUnit": "桜ルート九日目-17:page11:1"
+    },
+    "page12": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

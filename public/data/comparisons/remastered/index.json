@@ -1,0 +1,4390 @@
+{
+  "schema": "fsn-remastered-comparison-index/1",
+  "edition": "all-ages",
+  "witnessCommit": "fc689fc0da0a011fad231dbd6e1747f61beab15d",
+  "provenanceLimit": "Third-party extracted witness; not byte-authenticated against retail game. Exact upstream build and modifications unverified.",
+  "alignment": "Unique exact Japanese visible-text match within the same scene; dash controls and whitespace normalized.",
+  "counts": {
+    "exact_japanese_text": 25172,
+    "no_display_text": 625,
+    "unresolved_alignment": 1631,
+    "source_integrity_hold": 88,
+    "duplicate_reference_hold": 2
+  },
+  "scripts": [
+    {
+      "scriptId": "0000",
+      "script": "プロローグ1日目",
+      "aligned": 298,
+      "candidate_source_pages": 298
+    },
+    {
+      "scriptId": "0001",
+      "script": "プロローグ2日目",
+      "aligned": 120,
+      "candidate_source_pages": 120
+    },
+    {
+      "scriptId": "0002",
+      "script": "プロローグ3日目",
+      "aligned": 258,
+      "candidate_source_pages": 258
+    },
+    {
+      "scriptId": "0003",
+      "script": "セイバールート一日目-00",
+      "aligned": 72,
+      "candidate_source_pages": 72
+    },
+    {
+      "scriptId": "0004",
+      "script": "セイバールート一日目-01",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0005",
+      "script": "セイバールート一日目-02",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0006",
+      "script": "セイバールート一日目-06",
+      "aligned": 47,
+      "candidate_source_pages": 48
+    },
+    {
+      "scriptId": "0007",
+      "script": "セイバールート一日目-03",
+      "aligned": 83,
+      "candidate_source_pages": 84
+    },
+    {
+      "scriptId": "0008",
+      "script": "セイバールート一日目-04",
+      "aligned": 10,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0009",
+      "script": "セイバールート一日目-05",
+      "aligned": 24,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0010",
+      "script": "セイバールート一日目-07",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0011",
+      "script": "セイバールート一日目-09",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0012",
+      "script": "セイバールート一日目-11",
+      "aligned": 20,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0013",
+      "script": "セイバールート一日目-12",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0014",
+      "script": "セイバールート一日目-13",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0015",
+      "script": "セイバールート一日目-14",
+      "aligned": 50,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0016",
+      "script": "セイバールート一日目-15",
+      "aligned": 50,
+      "candidate_source_pages": 50
+    },
+    {
+      "scriptId": "0017",
+      "script": "セイバールート二日目-13",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0018",
+      "script": "セイバールート二日目-00",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0019",
+      "script": "セイバールート二日目-05",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0020",
+      "script": "セイバールート二日目-06",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0021",
+      "script": "セイバールート二日目-03",
+      "aligned": 51,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0022",
+      "script": "セイバールート二日目-15",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0023",
+      "script": "セイバールート二日目-07",
+      "aligned": 45,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0024",
+      "script": "セイバールート二日目-09",
+      "aligned": 0,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0025",
+      "script": "セイバールート二日目-16",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0026",
+      "script": "セイバールート二日目-10",
+      "aligned": 62,
+      "candidate_source_pages": 62
+    },
+    {
+      "scriptId": "0027",
+      "script": "セイバールート二日目-08",
+      "aligned": 58,
+      "candidate_source_pages": 58
+    },
+    {
+      "scriptId": "0028",
+      "script": "セイバールート二日目-04",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0029",
+      "script": "セイバールート二日目-01",
+      "aligned": 23,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0030",
+      "script": "セイバールート二日目-14",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0031",
+      "script": "セイバールート三日目-08",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0032",
+      "script": "セイバールート三日目-09",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0033",
+      "script": "セイバールート三日目-10",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0034",
+      "script": "セイバールート三日目-01",
+      "aligned": 74,
+      "candidate_source_pages": 75
+    },
+    {
+      "scriptId": "0035",
+      "script": "セイバールート三日目-16",
+      "aligned": 113,
+      "candidate_source_pages": 113
+    },
+    {
+      "scriptId": "0036",
+      "script": "セイバールート三日目-00",
+      "aligned": 92,
+      "candidate_source_pages": 92
+    },
+    {
+      "scriptId": "0037",
+      "script": "セイバールート三日目-17",
+      "aligned": 116,
+      "candidate_source_pages": 116
+    },
+    {
+      "scriptId": "0038",
+      "script": "セイバールート三日目-02",
+      "aligned": 132,
+      "candidate_source_pages": 132
+    },
+    {
+      "scriptId": "0039",
+      "script": "セイバールート三日目-18",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0040",
+      "script": "セイバールート三日目-04",
+      "aligned": 69,
+      "candidate_source_pages": 70
+    },
+    {
+      "scriptId": "0041",
+      "script": "セイバールート三日目-05",
+      "aligned": 46,
+      "candidate_source_pages": 47
+    },
+    {
+      "scriptId": "0042",
+      "script": "セイバールート三日目-11",
+      "aligned": 0,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0043",
+      "script": "セイバールート三日目-06",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0044",
+      "script": "セイバールート三日目-07",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0045",
+      "script": "セイバールート三日目-12",
+      "aligned": 26,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0046",
+      "script": "セイバールート三日目-19",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0047",
+      "script": "凛ルート三日目-09",
+      "aligned": 102,
+      "candidate_source_pages": 102
+    },
+    {
+      "scriptId": "0048",
+      "script": "凛ルート三日目-10",
+      "aligned": 173,
+      "candidate_source_pages": 173
+    },
+    {
+      "scriptId": "0049",
+      "script": "凛ルート三日目-11",
+      "aligned": 61,
+      "candidate_source_pages": 61
+    },
+    {
+      "scriptId": "0050",
+      "script": "凛ルート三日目-00",
+      "aligned": 24,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0051",
+      "script": "凛ルート三日目-01",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0052",
+      "script": "凛ルート三日目-03",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0053",
+      "script": "凛ルート三日目-02",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0054",
+      "script": "凛ルート三日目-04",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0055",
+      "script": "凛ルート三日目-05",
+      "aligned": 24,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0056",
+      "script": "凛ルート三日目-07",
+      "aligned": 37,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0057",
+      "script": "凛ルート三日目-06",
+      "aligned": 29,
+      "candidate_source_pages": 30
+    },
+    {
+      "scriptId": "0058",
+      "script": "凛ルート三日目-12",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0059",
+      "script": "セイバールート四日目-00",
+      "aligned": 54,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0060",
+      "script": "セイバールート四日目-01",
+      "aligned": 63,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0061",
+      "script": "セイバールート四日目-02",
+      "aligned": 67,
+      "candidate_source_pages": 68
+    },
+    {
+      "scriptId": "0062",
+      "script": "セイバールート四日目-03",
+      "aligned": 73,
+      "candidate_source_pages": 74
+    },
+    {
+      "scriptId": "0063",
+      "script": "セイバールート四日目-04",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0064",
+      "script": "セイバールート四日目-18",
+      "aligned": 43,
+      "candidate_source_pages": 43
+    },
+    {
+      "scriptId": "0065",
+      "script": "セイバールート四日目-05",
+      "aligned": 130,
+      "candidate_source_pages": 130
+    },
+    {
+      "scriptId": "0066",
+      "script": "セイバールート四日目-06",
+      "aligned": 76,
+      "candidate_source_pages": 77
+    },
+    {
+      "scriptId": "0067",
+      "script": "セイバールート四日目-07",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0068",
+      "script": "セイバールート四日目-09",
+      "aligned": 7,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0069",
+      "script": "セイバールート四日目-08",
+      "aligned": 96,
+      "candidate_source_pages": 96
+    },
+    {
+      "scriptId": "0070",
+      "script": "セイバールート四日目-10",
+      "aligned": 95,
+      "candidate_source_pages": 95
+    },
+    {
+      "scriptId": "0071",
+      "script": "セイバールート四日目-11",
+      "aligned": 83,
+      "candidate_source_pages": 84
+    },
+    {
+      "scriptId": "0072",
+      "script": "セイバールート四日目-12",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0073",
+      "script": "セイバールート四日目-15",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0074",
+      "script": "セイバールート五日目-00",
+      "aligned": 61,
+      "candidate_source_pages": 61
+    },
+    {
+      "scriptId": "0075",
+      "script": "セイバールート五日目-04",
+      "aligned": 51,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0076",
+      "script": "セイバールート五日目-05",
+      "aligned": 64,
+      "candidate_source_pages": 65
+    },
+    {
+      "scriptId": "0077",
+      "script": "セイバールート五日目-06",
+      "aligned": 60,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0078",
+      "script": "セイバールート五日目-07",
+      "aligned": 63,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0079",
+      "script": "セイバールート五日目-08",
+      "aligned": 25,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0080",
+      "script": "セイバールート五日目-09",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0081",
+      "script": "セイバールート五日目-10",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0082",
+      "script": "セイバールート五日目-11",
+      "aligned": 24,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0083",
+      "script": "セイバールート五日目-12",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0084",
+      "script": "セイバールート五日目-14",
+      "aligned": 55,
+      "candidate_source_pages": 58
+    },
+    {
+      "scriptId": "0085",
+      "script": "セイバールート六日目-12",
+      "aligned": 43,
+      "candidate_source_pages": 43
+    },
+    {
+      "scriptId": "0086",
+      "script": "セイバールート六日目-00",
+      "aligned": 63,
+      "candidate_source_pages": 64
+    },
+    {
+      "scriptId": "0087",
+      "script": "セイバールート六日目-01",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0088",
+      "script": "セイバールート六日目-03",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0089",
+      "script": "セイバールート六日目-04",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0090",
+      "script": "セイバールート六日目-13",
+      "aligned": 38,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0091",
+      "script": "セイバールート六日目-05",
+      "aligned": 61,
+      "candidate_source_pages": 62
+    },
+    {
+      "scriptId": "0092",
+      "script": "セイバールート六日目-07",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0093",
+      "script": "セイバールート六日目-06",
+      "aligned": 40,
+      "candidate_source_pages": 40
+    },
+    {
+      "scriptId": "0094",
+      "script": "セイバールート六日目-08",
+      "aligned": 49,
+      "candidate_source_pages": 50
+    },
+    {
+      "scriptId": "0095",
+      "script": "セイバールート六日目-15",
+      "aligned": 0,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0096",
+      "script": "セイバールート六日目-09",
+      "aligned": 9,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0097",
+      "script": "セイバールート六日目-14",
+      "aligned": 57,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0098",
+      "script": "セイバールート六日目-10",
+      "aligned": 93,
+      "candidate_source_pages": 95
+    },
+    {
+      "scriptId": "0099",
+      "script": "セイバールート七日目-00",
+      "aligned": 73,
+      "candidate_source_pages": 73
+    },
+    {
+      "scriptId": "0100",
+      "script": "セイバールート七日目-02",
+      "aligned": 65,
+      "candidate_source_pages": 66
+    },
+    {
+      "scriptId": "0101",
+      "script": "セイバールート七日目-04",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0102",
+      "script": "セイバールート七日目-05",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0103",
+      "script": "セイバールート七日目-06",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0104",
+      "script": "セイバールート七日目-07",
+      "aligned": 95,
+      "candidate_source_pages": 95
+    },
+    {
+      "scriptId": "0105",
+      "script": "セイバールート七日目-28",
+      "aligned": 23,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0106",
+      "script": "セイバールート七日目-01",
+      "aligned": 79,
+      "candidate_source_pages": 79
+    },
+    {
+      "scriptId": "0107",
+      "script": "セイバールート七日目-03",
+      "aligned": 34,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0108",
+      "script": "セイバールート七日目-08",
+      "aligned": 26,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0109",
+      "script": "セイバールート七日目-12",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0110",
+      "script": "セイバールート七日目-13",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0111",
+      "script": "セイバールート七日目-14",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0112",
+      "script": "セイバールート七日目-15",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0113",
+      "script": "セイバールート七日目-16",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0114",
+      "script": "セイバールート七日目-17",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0115",
+      "script": "セイバールート七日目-18",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0116",
+      "script": "セイバールート七日目-19",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0117",
+      "script": "セイバールート七日目-20",
+      "aligned": 37,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0118",
+      "script": "セイバールート七日目-29",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0119",
+      "script": "セイバールート七日目-21",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0120",
+      "script": "セイバールート七日目-22",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0121",
+      "script": "セイバールート七日目-23",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0122",
+      "script": "セイバールート七日目-24",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0123",
+      "script": "セイバールート七日目-25",
+      "aligned": 49,
+      "candidate_source_pages": 53
+    },
+    {
+      "scriptId": "0124",
+      "script": "セイバールート七日目-27",
+      "aligned": 90,
+      "candidate_source_pages": 90
+    },
+    {
+      "scriptId": "0125",
+      "script": "セイバールート九日目-15",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0126",
+      "script": "セイバールート九日目-00",
+      "aligned": 38,
+      "candidate_source_pages": 38
+    },
+    {
+      "scriptId": "0127",
+      "script": "セイバールート九日目-01",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0128",
+      "script": "セイバールート九日目-02",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0129",
+      "script": "セイバールート九日目-03",
+      "aligned": 52,
+      "candidate_source_pages": 53
+    },
+    {
+      "scriptId": "0130",
+      "script": "セイバールート九日目-04",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0131",
+      "script": "セイバールート九日目-05",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0132",
+      "script": "セイバールート九日目-06",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0133",
+      "script": "セイバールート九日目-08",
+      "aligned": 24,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0134",
+      "script": "セイバールート九日目-07",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0135",
+      "script": "セイバールート九日目-09",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0136",
+      "script": "セイバールート九日目-10",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0137",
+      "script": "セイバールート九日目-11",
+      "aligned": 9,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0138",
+      "script": "セイバールート九日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0139",
+      "script": "セイバールート九日目-12",
+      "aligned": 50,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0140",
+      "script": "セイバールート九日目-17",
+      "aligned": 0,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0141",
+      "script": "セイバールート九日目-14",
+      "aligned": 73,
+      "candidate_source_pages": 74
+    },
+    {
+      "scriptId": "0142",
+      "script": "セイバールート十日目-00",
+      "aligned": 102,
+      "candidate_source_pages": 102
+    },
+    {
+      "scriptId": "0143",
+      "script": "セイバールート十日目-09",
+      "aligned": 81,
+      "candidate_source_pages": 81
+    },
+    {
+      "scriptId": "0144",
+      "script": "セイバールート十日目-02",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0145",
+      "script": "セイバールート十日目-01",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0146",
+      "script": "セイバールート十日目-03",
+      "aligned": 73,
+      "candidate_source_pages": 73
+    },
+    {
+      "scriptId": "0147",
+      "script": "セイバールート十日目-04",
+      "aligned": 77,
+      "candidate_source_pages": 77
+    },
+    {
+      "scriptId": "0148",
+      "script": "セイバールート十日目-10",
+      "aligned": 0,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0149",
+      "script": "セイバールート十日目-05",
+      "aligned": 23,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0150",
+      "script": "セイバールート十日目-06",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0151",
+      "script": "セイバールート十日目-07",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0152",
+      "script": "セイバールート十一日目-00",
+      "aligned": 67,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0153",
+      "script": "セイバールート十一日目-16",
+      "aligned": 79,
+      "candidate_source_pages": 81
+    },
+    {
+      "scriptId": "0154",
+      "script": "セイバールート十一日目-02",
+      "aligned": 44,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0155",
+      "script": "セイバールート十一日目-01",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0156",
+      "script": "セイバールート十一日目-03",
+      "aligned": 9,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0157",
+      "script": "セイバールート十一日目-04",
+      "aligned": 11,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0158",
+      "script": "セイバールート十一日目-05",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0159",
+      "script": "セイバールート十一日目-20",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0160",
+      "script": "セイバールート十一日目-17",
+      "aligned": 111,
+      "candidate_source_pages": 111
+    },
+    {
+      "scriptId": "0161",
+      "script": "セイバールート十一日目-19",
+      "aligned": 49,
+      "candidate_source_pages": 50
+    },
+    {
+      "scriptId": "0162",
+      "script": "セイバールート十一日目-18",
+      "aligned": 148,
+      "candidate_source_pages": 150
+    },
+    {
+      "scriptId": "0163",
+      "script": "セイバールート十一日目-118",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0164",
+      "script": "セイバールート十一日目-06",
+      "aligned": 72,
+      "candidate_source_pages": 73
+    },
+    {
+      "scriptId": "0165",
+      "script": "セイバールート十一日目-07",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0166",
+      "script": "セイバールート十一日目-08",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0167",
+      "script": "セイバールート十一日目-09",
+      "aligned": 59,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0168",
+      "script": "セイバールート十一日目-10",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0169",
+      "script": "セイバールート十一日目-11",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0170",
+      "script": "セイバールート十一日目-12",
+      "aligned": 67,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0171",
+      "script": "セイバールート十一日目-13",
+      "aligned": 13,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0172",
+      "script": "セイバールート十一日目-14",
+      "aligned": 44,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0173",
+      "script": "セイバールート十一日目-21",
+      "aligned": 0,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0174",
+      "script": "セイバールート十二日目-13",
+      "aligned": 55,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0175",
+      "script": "セイバールート十二日目-00",
+      "aligned": 70,
+      "candidate_source_pages": 70
+    },
+    {
+      "scriptId": "0176",
+      "script": "セイバールート十二日目-01",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0177",
+      "script": "セイバールート十二日目-02",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0178",
+      "script": "セイバールート十二日目-03",
+      "aligned": 85,
+      "candidate_source_pages": 85
+    },
+    {
+      "scriptId": "0179",
+      "script": "セイバールート十二日目-04",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0180",
+      "script": "セイバールート十二日目-05",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0181",
+      "script": "セイバールート十二日目-06",
+      "aligned": 43,
+      "candidate_source_pages": 62
+    },
+    {
+      "scriptId": "0182",
+      "script": "セイバールート十二日目-14",
+      "aligned": 23,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0183",
+      "script": "セイバールート十二日目-07",
+      "aligned": 70,
+      "candidate_source_pages": 71
+    },
+    {
+      "scriptId": "0184",
+      "script": "セイバールート十二日目-08",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0185",
+      "script": "セイバールート十二日目-09",
+      "aligned": 10,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0186",
+      "script": "セイバールート十二日目-10",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0187",
+      "script": "セイバールート十二日目-11",
+      "aligned": 30,
+      "candidate_source_pages": 30
+    },
+    {
+      "scriptId": "0188",
+      "script": "セイバールート十二日目-12",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0189",
+      "script": "セイバールート十二日目-15",
+      "aligned": 48,
+      "candidate_source_pages": 48
+    },
+    {
+      "scriptId": "0190",
+      "script": "セイバールート十三日目-03",
+      "aligned": 59,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0191",
+      "script": "セイバールート十三日目-12",
+      "aligned": 22,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0192",
+      "script": "セイバールート十三日目-06",
+      "aligned": 35,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0193",
+      "script": "セイバールート十三日目-13",
+      "aligned": 56,
+      "candidate_source_pages": 56
+    },
+    {
+      "scriptId": "0194",
+      "script": "セイバールート十三日目-00",
+      "aligned": 115,
+      "candidate_source_pages": 115
+    },
+    {
+      "scriptId": "0195",
+      "script": "セイバールート十三日目-02",
+      "aligned": 30,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0196",
+      "script": "セイバールート十三日目-01",
+      "aligned": 23,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0197",
+      "script": "セイバールート十三日目-04",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0198",
+      "script": "セイバールート十三日目-05",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0199",
+      "script": "セイバールート十三日目-09",
+      "aligned": 90,
+      "candidate_source_pages": 91
+    },
+    {
+      "scriptId": "0200",
+      "script": "セイバールート十三日目-08",
+      "aligned": 10,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0201",
+      "script": "セイバールート十三日目-15",
+      "aligned": 0,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0202",
+      "script": "セイバールート十三日目-07",
+      "aligned": 121,
+      "candidate_source_pages": 122
+    },
+    {
+      "scriptId": "0203",
+      "script": "セイバールート十三日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0204",
+      "script": "セイバールート十三日目-11",
+      "aligned": 110,
+      "candidate_source_pages": 111
+    },
+    {
+      "scriptId": "0205",
+      "script": "セイバールート十三日目-14",
+      "aligned": 43,
+      "candidate_source_pages": 43
+    },
+    {
+      "scriptId": "0206",
+      "script": "セイバールート十四日目-06",
+      "aligned": 56,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0207",
+      "script": "セイバールート十四日目-08",
+      "aligned": 53,
+      "candidate_source_pages": 53
+    },
+    {
+      "scriptId": "0208",
+      "script": "セイバールート十四日目-07",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0209",
+      "script": "セイバールート十四日目-09",
+      "aligned": 90,
+      "candidate_source_pages": 92
+    },
+    {
+      "scriptId": "0210",
+      "script": "セイバールート十四日目-10",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0211",
+      "script": "セイバールート十四日目-00",
+      "aligned": 119,
+      "candidate_source_pages": 119
+    },
+    {
+      "scriptId": "0212",
+      "script": "セイバールート十四日目-02",
+      "aligned": 58,
+      "candidate_source_pages": 58
+    },
+    {
+      "scriptId": "0213",
+      "script": "セイバールート十四日目-04",
+      "aligned": 41,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0214",
+      "script": "セイバールート十四日目-03",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0215",
+      "script": "セイバールート十四日目-111",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0216",
+      "script": "セイバールート十四日目-11",
+      "aligned": 102,
+      "candidate_source_pages": 104
+    },
+    {
+      "scriptId": "0217",
+      "script": "セイバールート十四日目-12",
+      "aligned": 0,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0218",
+      "script": "セイバールート十四日目-101",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0219",
+      "script": "セイバールート十五日目-00",
+      "aligned": 25,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0220",
+      "script": "セイバールート十五日目-02",
+      "aligned": 63,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0221",
+      "script": "セイバールート十五日目-01",
+      "aligned": 76,
+      "candidate_source_pages": 76
+    },
+    {
+      "scriptId": "0222",
+      "script": "セイバールート十五日目-18",
+      "aligned": 51,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0223",
+      "script": "セイバールート十五日目-23",
+      "aligned": 0,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0224",
+      "script": "セイバールート十五日目-19",
+      "aligned": 90,
+      "candidate_source_pages": 105
+    },
+    {
+      "scriptId": "0225",
+      "script": "セイバールート十五日目-20",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0226",
+      "script": "セイバールート十五日目-21",
+      "aligned": 93,
+      "candidate_source_pages": 93
+    },
+    {
+      "scriptId": "0227",
+      "script": "セイバールート十五日目-03",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0228",
+      "script": "セイバールート十五日目-22",
+      "aligned": 46,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0229",
+      "script": "セイバールート十五日目-24",
+      "aligned": 0,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0230",
+      "script": "セイバールート十五日目-14",
+      "aligned": 30,
+      "candidate_source_pages": 30
+    },
+    {
+      "scriptId": "0231",
+      "script": "セイバールート十五日目-15",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0232",
+      "script": "セイバールート十五日目-16",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0233",
+      "script": "セイバールート十五日目-04",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0234",
+      "script": "セイバールート十五日目-07",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0235",
+      "script": "セイバールート十五日目-05",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0236",
+      "script": "セイバールート十五日目-06",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0237",
+      "script": "セイバールート十五日目-10",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0238",
+      "script": "セイバールート十五日目-08",
+      "aligned": 7,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0239",
+      "script": "セイバールート十五日目-09",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0240",
+      "script": "セイバールート十五日目-11",
+      "aligned": 164,
+      "candidate_source_pages": 164
+    },
+    {
+      "scriptId": "0241",
+      "script": "セイバールート十五日目-12",
+      "aligned": 67,
+      "candidate_source_pages": 68
+    },
+    {
+      "scriptId": "0242",
+      "script": "セイバールート十五日目-13",
+      "aligned": 106,
+      "candidate_source_pages": 108
+    },
+    {
+      "scriptId": "0243",
+      "script": "セイバールート十五日目-25",
+      "aligned": 0,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0244",
+      "script": "セイバールート十五日目-17",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0245",
+      "script": "凛ルート四日目-00",
+      "aligned": 47,
+      "candidate_source_pages": 47
+    },
+    {
+      "scriptId": "0246",
+      "script": "凛ルート四日目-01",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0247",
+      "script": "凛ルート四日目-02",
+      "aligned": 30,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0248",
+      "script": "凛ルート四日目-10",
+      "aligned": 90,
+      "candidate_source_pages": 90
+    },
+    {
+      "scriptId": "0249",
+      "script": "凛ルート四日目-03",
+      "aligned": 119,
+      "candidate_source_pages": 119
+    },
+    {
+      "scriptId": "0250",
+      "script": "凛ルート四日目-04",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0251",
+      "script": "凛ルート四日目-05",
+      "aligned": 53,
+      "candidate_source_pages": 54
+    },
+    {
+      "scriptId": "0252",
+      "script": "凛ルート四日目-06",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0253",
+      "script": "凛ルート四日目-07",
+      "aligned": 47,
+      "candidate_source_pages": 48
+    },
+    {
+      "scriptId": "0254",
+      "script": "凛ルート四日目-09",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0255",
+      "script": "凛ルート四日目-12",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0256",
+      "script": "凛ルート四日目-11",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0257",
+      "script": "凛ルート五日目-00",
+      "aligned": 23,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0258",
+      "script": "凛ルート五日目-01",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0259",
+      "script": "凛ルート五日目-02",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0260",
+      "script": "凛ルート五日目-03",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0261",
+      "script": "凛ルート五日目-20",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0262",
+      "script": "凛ルート五日目-21",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0263",
+      "script": "凛ルート五日目-27",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0264",
+      "script": "凛ルート五日目-04",
+      "aligned": 26,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0265",
+      "script": "凛ルート五日目-06",
+      "aligned": 78,
+      "candidate_source_pages": 78
+    },
+    {
+      "scriptId": "0266",
+      "script": "凛ルート五日目-05",
+      "aligned": 34,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0267",
+      "script": "凛ルート五日目-09",
+      "aligned": 65,
+      "candidate_source_pages": 65
+    },
+    {
+      "scriptId": "0268",
+      "script": "凛ルート五日目-25",
+      "aligned": 0,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0269",
+      "script": "凛ルート五日目-11",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0270",
+      "script": "凛ルート五日目-12",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0271",
+      "script": "凛ルート五日目-10",
+      "aligned": 11,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0272",
+      "script": "凛ルート五日目-13",
+      "aligned": 23,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0273",
+      "script": "凛ルート五日目-26",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0274",
+      "script": "凛ルート五日目-14",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0275",
+      "script": "凛ルート五日目-15",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0276",
+      "script": "凛ルート五日目-22",
+      "aligned": 60,
+      "candidate_source_pages": 61
+    },
+    {
+      "scriptId": "0277",
+      "script": "凛ルート五日目-23",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0278",
+      "script": "凛ルート五日目-24",
+      "aligned": 30,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0279",
+      "script": "凛ルート五日目-16",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0280",
+      "script": "凛ルート五日目-17",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0281",
+      "script": "凛ルート五日目-18",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0282",
+      "script": "凛ルート六日目-13",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0283",
+      "script": "凛ルート六日目-08",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0284",
+      "script": "凛ルート六日目-09",
+      "aligned": 37,
+      "candidate_source_pages": 38
+    },
+    {
+      "scriptId": "0285",
+      "script": "凛ルート六日目-10",
+      "aligned": 45,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0286",
+      "script": "凛ルート六日目-00",
+      "aligned": 6,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0287",
+      "script": "凛ルート六日目-01",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0288",
+      "script": "凛ルート六日目-02",
+      "aligned": 19,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0289",
+      "script": "凛ルート六日目-03",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0290",
+      "script": "凛ルート六日目-04",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0291",
+      "script": "凛ルート六日目-05",
+      "aligned": 11,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0292",
+      "script": "凛ルート六日目-06",
+      "aligned": 58,
+      "candidate_source_pages": 59
+    },
+    {
+      "scriptId": "0293",
+      "script": "凛ルート六日目-14",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0294",
+      "script": "凛ルート六日目-11",
+      "aligned": 146,
+      "candidate_source_pages": 146
+    },
+    {
+      "scriptId": "0295",
+      "script": "凛ルート六日目-12",
+      "aligned": 93,
+      "candidate_source_pages": 94
+    },
+    {
+      "scriptId": "0296",
+      "script": "凛ルート七日目-11",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0297",
+      "script": "凛ルート七日目-00",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0298",
+      "script": "凛ルート七日目-01",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0299",
+      "script": "凛ルート七日目-02",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0300",
+      "script": "凛ルート七日目-03",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0301",
+      "script": "凛ルート七日目-12",
+      "aligned": 68,
+      "candidate_source_pages": 70
+    },
+    {
+      "scriptId": "0302",
+      "script": "凛ルート七日目-04",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0303",
+      "script": "凛ルート七日目-05",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0304",
+      "script": "凛ルート七日目-06",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0305",
+      "script": "凛ルート七日目-08",
+      "aligned": 72,
+      "candidate_source_pages": 74
+    },
+    {
+      "scriptId": "0306",
+      "script": "凛ルート七日目-09",
+      "aligned": 51,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0307",
+      "script": "凛ルート七日目-07",
+      "aligned": 27,
+      "candidate_source_pages": 28
+    },
+    {
+      "scriptId": "0308",
+      "script": "凛ルート八日目-09",
+      "aligned": 13,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0309",
+      "script": "凛ルート八日目-08",
+      "aligned": 56,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0310",
+      "script": "凛ルート八日目-00",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0311",
+      "script": "凛ルート八日目-10",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0312",
+      "script": "凛ルート八日目-01",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0313",
+      "script": "凛ルート八日目-11",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0314",
+      "script": "凛ルート八日目-12",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0315",
+      "script": "凛ルート八日目-02",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0316",
+      "script": "凛ルート八日目-03",
+      "aligned": 54,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0317",
+      "script": "凛ルート八日目-04",
+      "aligned": 11,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0318",
+      "script": "凛ルート八日目-05",
+      "aligned": 24,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0319",
+      "script": "凛ルート八日目-06",
+      "aligned": 49,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0320",
+      "script": "凛ルート九日目-07",
+      "aligned": 37,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0321",
+      "script": "凛ルート九日目-08",
+      "aligned": 56,
+      "candidate_source_pages": 56
+    },
+    {
+      "scriptId": "0322",
+      "script": "凛ルート九日目-00",
+      "aligned": 17,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0323",
+      "script": "凛ルート九日目-01",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0324",
+      "script": "凛ルート九日目-02",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0325",
+      "script": "凛ルート九日目-12",
+      "aligned": 49,
+      "candidate_source_pages": 49
+    },
+    {
+      "scriptId": "0326",
+      "script": "凛ルート九日目-09",
+      "aligned": 35,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0327",
+      "script": "凛ルート九日目-03",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0328",
+      "script": "凛ルート九日目-05",
+      "aligned": 35,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0329",
+      "script": "凛ルート九日目-04",
+      "aligned": 11,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0330",
+      "script": "凛ルート九日目-13",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0331",
+      "script": "凛ルート九日目-14",
+      "aligned": 0,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0332",
+      "script": "凛ルート九日目-10",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0333",
+      "script": "凛ルート九日目-11",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0334",
+      "script": "凛ルート十日目-06",
+      "aligned": 53,
+      "candidate_source_pages": 54
+    },
+    {
+      "scriptId": "0335",
+      "script": "凛ルート十日目-07",
+      "aligned": 48,
+      "candidate_source_pages": 49
+    },
+    {
+      "scriptId": "0336",
+      "script": "凛ルート十日目-00",
+      "aligned": 38,
+      "candidate_source_pages": 38
+    },
+    {
+      "scriptId": "0337",
+      "script": "凛ルート十日目-01",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0338",
+      "script": "凛ルート十日目-02",
+      "aligned": 28,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0339",
+      "script": "凛ルート十日目-03",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0340",
+      "script": "凛ルート十日目-04",
+      "aligned": 60,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0341",
+      "script": "凛ルート十日目-08",
+      "aligned": 67,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0342",
+      "script": "凛ルート十一日目-00",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0343",
+      "script": "凛ルート十一日目-01",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0344",
+      "script": "凛ルート十一日目-02",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0345",
+      "script": "凛ルート十一日目-09",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0346",
+      "script": "凛ルート十一日目-03",
+      "aligned": 44,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0347",
+      "script": "凛ルート十一日目-10",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0348",
+      "script": "凛ルート十一日目-11",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0349",
+      "script": "凛ルート十一日目-04",
+      "aligned": 130,
+      "candidate_source_pages": 131
+    },
+    {
+      "scriptId": "0350",
+      "script": "凛ルート十一日目-08",
+      "aligned": 66,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0351",
+      "script": "凛ルート十一日目-06",
+      "aligned": 63,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0352",
+      "script": "凛ルート十一日目-05",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0353",
+      "script": "凛ルート十一日目-12",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0354",
+      "script": "凛ルート十一日目-17",
+      "aligned": 0,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0355",
+      "script": "凛ルート十一日目-15",
+      "aligned": 19,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0356",
+      "script": "凛ルート十一日目-16",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0357",
+      "script": "凛ルート十一日目-13",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0358",
+      "script": "凛ルート十一日目-14",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0359",
+      "script": "凛ルート十二日目-14",
+      "aligned": 39,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0360",
+      "script": "凛ルート十二日目-00",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0361",
+      "script": "凛ルート十二日目-15",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0362",
+      "script": "凛ルート十二日目-01",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0363",
+      "script": "凛ルート十二日目-03",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0364",
+      "script": "凛ルート十二日目-12",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0365",
+      "script": "凛ルート十二日目-02",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0366",
+      "script": "凛ルート十二日目-10",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0367",
+      "script": "凛ルート十二日目-11",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0368",
+      "script": "凛ルート十二日目-04",
+      "aligned": 26,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0369",
+      "script": "凛ルート十二日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0370",
+      "script": "凛ルート十二日目-06",
+      "aligned": 66,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0371",
+      "script": "凛ルート十二日目-05",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0372",
+      "script": "凛ルート十二日目-07",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0373",
+      "script": "凛ルート十二日目-17",
+      "aligned": 0,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0374",
+      "script": "凛ルート十二日目-08",
+      "aligned": 45,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0375",
+      "script": "凛ルート十二日目-13",
+      "aligned": 60,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0376",
+      "script": "凛ルート十三日目-11",
+      "aligned": 51,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0377",
+      "script": "凛ルート十三日目-00",
+      "aligned": 30,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0378",
+      "script": "凛ルート十三日目-01",
+      "aligned": 25,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0379",
+      "script": "凛ルート十三日目-02",
+      "aligned": 23,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0380",
+      "script": "凛ルート十三日目-03",
+      "aligned": 19,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0381",
+      "script": "凛ルート十三日目-12",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0382",
+      "script": "凛ルート十三日目-13",
+      "aligned": 63,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0383",
+      "script": "凛ルート十三日目-14",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0384",
+      "script": "凛ルート十三日目-21",
+      "aligned": 23,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0385",
+      "script": "凛ルート十三日目-04",
+      "aligned": 67,
+      "candidate_source_pages": 68
+    },
+    {
+      "scriptId": "0386",
+      "script": "凛ルート十三日目-15",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0387",
+      "script": "凛ルート十三日目-06",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0388",
+      "script": "凛ルート十三日目-16",
+      "aligned": 43,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0389",
+      "script": "凛ルート十三日目-17",
+      "aligned": 46,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0390",
+      "script": "凛ルート十三日目-18",
+      "aligned": 47,
+      "candidate_source_pages": 48
+    },
+    {
+      "scriptId": "0391",
+      "script": "凛ルート十三日目-05",
+      "aligned": 60,
+      "candidate_source_pages": 60
+    },
+    {
+      "scriptId": "0392",
+      "script": "凛ルート十三日目-09",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0393",
+      "script": "凛ルート十三日目-07",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0394",
+      "script": "凛ルート十三日目-08",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0395",
+      "script": "凛ルート十三日目-19",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0396",
+      "script": "凛ルート十三日目-20",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0397",
+      "script": "凛ルート十三日目-22",
+      "aligned": 0,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0398",
+      "script": "凛ルート十四日目-17",
+      "aligned": 34,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0399",
+      "script": "凛ルート十四日目-18",
+      "aligned": 34,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0400",
+      "script": "凛ルート十四日目-19",
+      "aligned": 50,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0401",
+      "script": "凛ルート十四日目-20",
+      "aligned": 62,
+      "candidate_source_pages": 64
+    },
+    {
+      "scriptId": "0402",
+      "script": "凛ルート十四日目-00",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0403",
+      "script": "凛ルート十四日目-01",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0404",
+      "script": "凛ルート十四日目-02",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0405",
+      "script": "凛ルート十四日目-03",
+      "aligned": 137,
+      "candidate_source_pages": 138
+    },
+    {
+      "scriptId": "0406",
+      "script": "凛ルート十四日目-21",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0407",
+      "script": "凛ルート十四日目-22",
+      "aligned": 29,
+      "candidate_source_pages": 30
+    },
+    {
+      "scriptId": "0408",
+      "script": "凛ルート十四日目-23",
+      "aligned": 51,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0409",
+      "script": "凛ルート十四日目-24",
+      "aligned": 26,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0410",
+      "script": "凛ルート十四日目-25",
+      "aligned": 114,
+      "candidate_source_pages": 114
+    },
+    {
+      "scriptId": "0411",
+      "script": "凛ルート十四日目-26",
+      "aligned": 81,
+      "candidate_source_pages": 82
+    },
+    {
+      "scriptId": "0412",
+      "script": "凛ルート十四日目-27",
+      "aligned": 147,
+      "candidate_source_pages": 148
+    },
+    {
+      "scriptId": "0413",
+      "script": "凛ルート十四日目-28",
+      "aligned": 88,
+      "candidate_source_pages": 89
+    },
+    {
+      "scriptId": "0414",
+      "script": "凛ルート十四日目-29",
+      "aligned": 22,
+      "candidate_source_pages": 23
+    },
+    {
+      "scriptId": "0415",
+      "script": "凛ルート十四日目-04",
+      "aligned": 73,
+      "candidate_source_pages": 73
+    },
+    {
+      "scriptId": "0416",
+      "script": "凛ルート十四日目-05",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0417",
+      "script": "凛ルート十四日目-06",
+      "aligned": 38,
+      "candidate_source_pages": 38
+    },
+    {
+      "scriptId": "0418",
+      "script": "凛ルート十四日目-07",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0419",
+      "script": "凛ルート十四日目-108",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0420",
+      "script": "凛ルート十四日目-08",
+      "aligned": 156,
+      "candidate_source_pages": 162
+    },
+    {
+      "scriptId": "0421",
+      "script": "凛ルート十四日目-130",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0422",
+      "script": "凛ルート十四日目-31",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0423",
+      "script": "凛ルート十四日目-32",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0424",
+      "script": "凛ルート十四日目-33",
+      "aligned": 32,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0425",
+      "script": "凛ルート十四日目-34",
+      "aligned": 77,
+      "candidate_source_pages": 78
+    },
+    {
+      "scriptId": "0426",
+      "script": "凛ルート十四日目-35",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0427",
+      "script": "凛ルート十四日目-36",
+      "aligned": 91,
+      "candidate_source_pages": 92
+    },
+    {
+      "scriptId": "0428",
+      "script": "凛ルート十四日目-09",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0429",
+      "script": "凛ルート十四日目-10",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0430",
+      "script": "凛ルート十四日目-11",
+      "aligned": 6,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0431",
+      "script": "凛ルート十四日目-12",
+      "aligned": 37,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0432",
+      "script": "凛ルート十四日目-14",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0433",
+      "script": "凛ルート十四日目-13",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0434",
+      "script": "凛ルート十四日目-15",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0435",
+      "script": "凛ルート十四日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0436",
+      "script": "凛ルート十四日目-37",
+      "aligned": 0,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0437",
+      "script": "桜ルート四日目-11",
+      "aligned": 139,
+      "candidate_source_pages": 140
+    },
+    {
+      "scriptId": "0438",
+      "script": "桜ルート四日目-00",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0439",
+      "script": "桜ルート四日目-10",
+      "aligned": 114,
+      "candidate_source_pages": 115
+    },
+    {
+      "scriptId": "0440",
+      "script": "桜ルート四日目-01",
+      "aligned": 153,
+      "candidate_source_pages": 154
+    },
+    {
+      "scriptId": "0441",
+      "script": "桜ルート四日目-07",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0442",
+      "script": "桜ルート四日目-08",
+      "aligned": 57,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0443",
+      "script": "桜ルート四日目-02",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0444",
+      "script": "桜ルート四日目-03",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0445",
+      "script": "桜ルート四日目-04",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0446",
+      "script": "桜ルート四日目-05",
+      "aligned": 90,
+      "candidate_source_pages": 90
+    },
+    {
+      "scriptId": "0447",
+      "script": "桜ルート四日目-09",
+      "aligned": 46,
+      "candidate_source_pages": 47
+    },
+    {
+      "scriptId": "0448",
+      "script": "桜ルート五日目-19",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0449",
+      "script": "桜ルート五日目-20",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0450",
+      "script": "桜ルート五日目-00",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0451",
+      "script": "桜ルート五日目-01",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0452",
+      "script": "桜ルート五日目-02",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0453",
+      "script": "桜ルート五日目-03",
+      "aligned": 76,
+      "candidate_source_pages": 76
+    },
+    {
+      "scriptId": "0454",
+      "script": "桜ルート五日目-04",
+      "aligned": 54,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0455",
+      "script": "桜ルート五日目-05",
+      "aligned": 53,
+      "candidate_source_pages": 54
+    },
+    {
+      "scriptId": "0456",
+      "script": "桜ルート五日目-06",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0457",
+      "script": "桜ルート五日目-07",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0458",
+      "script": "桜ルート五日目-08",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0459",
+      "script": "桜ルート五日目-09",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0460",
+      "script": "桜ルート五日目-10",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0461",
+      "script": "桜ルート五日目-11",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0462",
+      "script": "桜ルート五日目-13",
+      "aligned": 46,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0463",
+      "script": "桜ルート五日目-14",
+      "aligned": 41,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0464",
+      "script": "桜ルート五日目-15",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0465",
+      "script": "桜ルート五日目-16",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0466",
+      "script": "桜ルート五日目-12",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0467",
+      "script": "桜ルート五日目-21",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0468",
+      "script": "桜ルート五日目-22",
+      "aligned": 5,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0469",
+      "script": "桜ルート五日目-17",
+      "aligned": 50,
+      "candidate_source_pages": 50
+    },
+    {
+      "scriptId": "0470",
+      "script": "桜ルート五日目-117",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0471",
+      "script": "桜ルート六日目-00",
+      "aligned": 76,
+      "candidate_source_pages": 79
+    },
+    {
+      "scriptId": "0472",
+      "script": "桜ルート六日目-01",
+      "aligned": 41,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0473",
+      "script": "桜ルート六日目-03",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0474",
+      "script": "桜ルート六日目-04",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0475",
+      "script": "桜ルート六日目-05",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0476",
+      "script": "桜ルート六日目-09",
+      "aligned": 87,
+      "candidate_source_pages": 87
+    },
+    {
+      "scriptId": "0477",
+      "script": "桜ルート六日目-10",
+      "aligned": 69,
+      "candidate_source_pages": 69
+    },
+    {
+      "scriptId": "0478",
+      "script": "桜ルート六日目-07",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0479",
+      "script": "桜ルート六日目-08",
+      "aligned": 6,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0480",
+      "script": "桜ルート六日目-02",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0481",
+      "script": "桜ルート六日目-19",
+      "aligned": 51,
+      "candidate_source_pages": 51
+    },
+    {
+      "scriptId": "0482",
+      "script": "桜ルート六日目-20",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0483",
+      "script": "桜ルート六日目-21",
+      "aligned": 0,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0484",
+      "script": "桜ルート六日目-22",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0485",
+      "script": "桜ルート六日目-16",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0486",
+      "script": "桜ルート六日目-17",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0487",
+      "script": "桜ルート六日目-23",
+      "aligned": 64,
+      "candidate_source_pages": 64
+    },
+    {
+      "scriptId": "0488",
+      "script": "桜ルート六日目-18",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0489",
+      "script": "桜ルート六日目-11",
+      "aligned": 50,
+      "candidate_source_pages": 50
+    },
+    {
+      "scriptId": "0490",
+      "script": "桜ルート七日目-15",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0491",
+      "script": "桜ルート七日目-16",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0492",
+      "script": "桜ルート七日目-01",
+      "aligned": 24,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0493",
+      "script": "桜ルート七日目-17",
+      "aligned": 27,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0494",
+      "script": "桜ルート七日目-00",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0495",
+      "script": "桜ルート七日目-02",
+      "aligned": 57,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0496",
+      "script": "桜ルート七日目-18",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0497",
+      "script": "桜ルート七日目-06",
+      "aligned": 17,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0498",
+      "script": "桜ルート七日目-04",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0499",
+      "script": "桜ルート七日目-07",
+      "aligned": 65,
+      "candidate_source_pages": 65
+    },
+    {
+      "scriptId": "0500",
+      "script": "桜ルート七日目-08",
+      "aligned": 52,
+      "candidate_source_pages": 53
+    },
+    {
+      "scriptId": "0501",
+      "script": "桜ルート七日目-09",
+      "aligned": 8,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0502",
+      "script": "桜ルート七日目-10",
+      "aligned": 20,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0503",
+      "script": "桜ルート七日目-19",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0504",
+      "script": "桜ルート七日目-20",
+      "aligned": 38,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0505",
+      "script": "桜ルート七日目-11",
+      "aligned": 62,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0506",
+      "script": "桜ルート七日目-12",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0507",
+      "script": "桜ルート七日目-13",
+      "aligned": 32,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0508",
+      "script": "桜ルート七日目-05",
+      "aligned": 0,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0509",
+      "script": "桜ルート七日目-21",
+      "aligned": 58,
+      "candidate_source_pages": 59
+    },
+    {
+      "scriptId": "0510",
+      "script": "桜ルート八日目-11",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0511",
+      "script": "桜ルート八日目-12",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0512",
+      "script": "桜ルート八日目-13",
+      "aligned": 15,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0513",
+      "script": "桜ルート八日目-14",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0514",
+      "script": "桜ルート八日目-00",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0515",
+      "script": "桜ルート八日目-01",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0516",
+      "script": "桜ルート八日目-15",
+      "aligned": 47,
+      "candidate_source_pages": 48
+    },
+    {
+      "scriptId": "0517",
+      "script": "桜ルート八日目-23",
+      "aligned": 0,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0518",
+      "script": "桜ルート八日目-16",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0519",
+      "script": "桜ルート八日目-02",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0520",
+      "script": "桜ルート八日目-03",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0521",
+      "script": "桜ルート八日目-04",
+      "aligned": 19,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0522",
+      "script": "桜ルート八日目-17",
+      "aligned": 21,
+      "candidate_source_pages": 21
+    },
+    {
+      "scriptId": "0523",
+      "script": "桜ルート八日目-18",
+      "aligned": 54,
+      "candidate_source_pages": 54
+    },
+    {
+      "scriptId": "0524",
+      "script": "桜ルート八日目-05",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0525",
+      "script": "桜ルート八日目-06",
+      "aligned": 17,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0526",
+      "script": "桜ルート八日目-08",
+      "aligned": 16,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0527",
+      "script": "桜ルート八日目-07",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0528",
+      "script": "桜ルート八日目-09",
+      "aligned": 37,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0529",
+      "script": "桜ルート八日目-24",
+      "aligned": 0,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0530",
+      "script": "桜ルート八日目-19",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0531",
+      "script": "桜ルート八日目-20",
+      "aligned": 52,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0532",
+      "script": "桜ルート八日目-21",
+      "aligned": 29,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0533",
+      "script": "桜ルート八日目-22",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0534",
+      "script": "桜ルート九日目-26",
+      "aligned": 54,
+      "candidate_source_pages": 54
+    },
+    {
+      "scriptId": "0535",
+      "script": "桜ルート九日目-00",
+      "aligned": 9,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0536",
+      "script": "桜ルート九日目-01",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0537",
+      "script": "桜ルート九日目-02",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0538",
+      "script": "桜ルート九日目-03",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0539",
+      "script": "桜ルート九日目-04",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0540",
+      "script": "桜ルート九日目-06",
+      "aligned": 34,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0541",
+      "script": "桜ルート九日目-05",
+      "aligned": 46,
+      "candidate_source_pages": 49
+    },
+    {
+      "scriptId": "0542",
+      "script": "桜ルート九日目-08",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0543",
+      "script": "桜ルート九日目-38",
+      "aligned": 0,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0544",
+      "script": "桜ルート九日目-09",
+      "aligned": 1,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0545",
+      "script": "桜ルート九日目-11",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0546",
+      "script": "桜ルート九日目-12",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0547",
+      "script": "桜ルート九日目-13",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0548",
+      "script": "桜ルート九日目-14",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0549",
+      "script": "桜ルート九日目-27",
+      "aligned": 45,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0550",
+      "script": "桜ルート九日目-15",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0551",
+      "script": "桜ルート九日目-32",
+      "aligned": 29,
+      "candidate_source_pages": 30
+    },
+    {
+      "scriptId": "0552",
+      "script": "桜ルート九日目-16",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0553",
+      "script": "桜ルート九日目-17",
+      "aligned": 12,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0554",
+      "script": "桜ルート九日目-18",
+      "aligned": 47,
+      "candidate_source_pages": 47
+    },
+    {
+      "scriptId": "0555",
+      "script": "桜ルート九日目-33",
+      "aligned": 80,
+      "candidate_source_pages": 80
+    },
+    {
+      "scriptId": "0556",
+      "script": "桜ルート九日目-19",
+      "aligned": 120,
+      "candidate_source_pages": 121
+    },
+    {
+      "scriptId": "0557",
+      "script": "桜ルート九日目-20",
+      "aligned": 13,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0558",
+      "script": "桜ルート九日目-22",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0559",
+      "script": "桜ルート九日目-21",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0560",
+      "script": "桜ルート九日目-35",
+      "aligned": 102,
+      "candidate_source_pages": 103
+    },
+    {
+      "scriptId": "0561",
+      "script": "桜ルート九日目-39",
+      "aligned": 0,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0562",
+      "script": "桜ルート九日目-23",
+      "aligned": 66,
+      "candidate_source_pages": 67
+    },
+    {
+      "scriptId": "0563",
+      "script": "桜ルート九日目-36",
+      "aligned": 11,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0564",
+      "script": "桜ルート九日目-25",
+      "aligned": 24,
+      "candidate_source_pages": 25
+    },
+    {
+      "scriptId": "0565",
+      "script": "桜ルート九日目-37",
+      "aligned": 33,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0566",
+      "script": "桜ルート九日目-40",
+      "aligned": 0,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0567",
+      "script": "桜ルート九日目-24",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0568",
+      "script": "桜ルート九日目-28",
+      "aligned": 80,
+      "candidate_source_pages": 80
+    },
+    {
+      "scriptId": "0569",
+      "script": "桜ルート九日目-34",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0570",
+      "script": "桜ルート九日目-29",
+      "aligned": 32,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0571",
+      "script": "桜ルート九日目-41",
+      "aligned": 0,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0572",
+      "script": "桜ルート九日目-30",
+      "aligned": 94,
+      "candidate_source_pages": 94
+    },
+    {
+      "scriptId": "0573",
+      "script": "桜ルート九日目-130",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0574",
+      "script": "桜ルート十日目-06",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0575",
+      "script": "桜ルート十日目-00",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0576",
+      "script": "桜ルート十日目-01",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0577",
+      "script": "桜ルート十日目-02",
+      "aligned": 10,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0578",
+      "script": "桜ルート十日目-03",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0579",
+      "script": "桜ルート十日目-04",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0580",
+      "script": "桜ルート十日目-07",
+      "aligned": 41,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0581",
+      "script": "桜ルート十日目-05",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0582",
+      "script": "桜ルート十日目-08",
+      "aligned": 54,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0583",
+      "script": "桜ルート十日目-09",
+      "aligned": 2,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0584",
+      "script": "桜ルート十日目-10",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0585",
+      "script": "桜ルート十日目-12",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0586",
+      "script": "桜ルート十日目-34",
+      "aligned": 0,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0587",
+      "script": "桜ルート十日目-11",
+      "aligned": 27,
+      "candidate_source_pages": 28
+    },
+    {
+      "scriptId": "0588",
+      "script": "桜ルート十日目-19",
+      "aligned": 41,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0589",
+      "script": "桜ルート十日目-13",
+      "aligned": 31,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0590",
+      "script": "桜ルート十日目-14",
+      "aligned": 18,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0591",
+      "script": "桜ルート十日目-15",
+      "aligned": 6,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0592",
+      "script": "桜ルート十日目-28",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0593",
+      "script": "桜ルート十日目-35",
+      "aligned": 0,
+      "candidate_source_pages": 12
+    },
+    {
+      "scriptId": "0594",
+      "script": "桜ルート十日目-29",
+      "aligned": 91,
+      "candidate_source_pages": 95
+    },
+    {
+      "scriptId": "0595",
+      "script": "桜ルート十日目-16",
+      "aligned": 34,
+      "candidate_source_pages": 35
+    },
+    {
+      "scriptId": "0596",
+      "script": "桜ルート十日目-17",
+      "aligned": 6,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0597",
+      "script": "桜ルート十日目-18",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0598",
+      "script": "桜ルート十日目-30",
+      "aligned": 6,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0599",
+      "script": "桜ルート十日目-31",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0600",
+      "script": "桜ルート十日目-20",
+      "aligned": 48,
+      "candidate_source_pages": 49
+    },
+    {
+      "scriptId": "0601",
+      "script": "桜ルート十日目-21",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0602",
+      "script": "桜ルート十日目-22",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0603",
+      "script": "桜ルート十日目-32",
+      "aligned": 28,
+      "candidate_source_pages": 29
+    },
+    {
+      "scriptId": "0604",
+      "script": "桜ルート十日目-23",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0605",
+      "script": "桜ルート十日目-24",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0606",
+      "script": "桜ルート十日目-25",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0607",
+      "script": "桜ルート十日目-26",
+      "aligned": 38,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0608",
+      "script": "桜ルート十日目-33",
+      "aligned": 3,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0609",
+      "script": "桜ルート十一日目-06",
+      "aligned": 38,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0610",
+      "script": "桜ルート十一日目-07",
+      "aligned": 44,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0611",
+      "script": "桜ルート十一日目-08",
+      "aligned": 40,
+      "candidate_source_pages": 40
+    },
+    {
+      "scriptId": "0612",
+      "script": "桜ルート十一日目-09",
+      "aligned": 43,
+      "candidate_source_pages": 44
+    },
+    {
+      "scriptId": "0613",
+      "script": "桜ルート十一日目-10",
+      "aligned": 45,
+      "candidate_source_pages": 46
+    },
+    {
+      "scriptId": "0614",
+      "script": "桜ルート十一日目-00",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0615",
+      "script": "桜ルート十一日目-01",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0616",
+      "script": "桜ルート十一日目-02",
+      "aligned": 49,
+      "candidate_source_pages": 49
+    },
+    {
+      "scriptId": "0617",
+      "script": "桜ルート十一日目-03",
+      "aligned": 0,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0618",
+      "script": "桜ルート十一日目-04",
+      "aligned": 92,
+      "candidate_source_pages": 93
+    },
+    {
+      "scriptId": "0619",
+      "script": "桜ルート十一日目-11",
+      "aligned": 37,
+      "candidate_source_pages": 38
+    },
+    {
+      "scriptId": "0620",
+      "script": "桜ルート十一日目-12",
+      "aligned": 18,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0621",
+      "script": "桜ルート十一日目-13",
+      "aligned": 61,
+      "candidate_source_pages": 62
+    },
+    {
+      "scriptId": "0622",
+      "script": "桜ルート十一日目-14",
+      "aligned": 32,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0623",
+      "script": "桜ルート十一日目-15",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0624",
+      "script": "桜ルート十一日目-115",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0625",
+      "script": "桜ルート十一日目-16",
+      "aligned": 30,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0626",
+      "script": "桜ルート十二日目-05",
+      "aligned": 31,
+      "candidate_source_pages": 31
+    },
+    {
+      "scriptId": "0627",
+      "script": "桜ルート十二日目-06",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0628",
+      "script": "桜ルート十二日目-00",
+      "aligned": 47,
+      "candidate_source_pages": 47
+    },
+    {
+      "scriptId": "0629",
+      "script": "桜ルート十二日目-01",
+      "aligned": 9,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0630",
+      "script": "桜ルート十二日目-02",
+      "aligned": 6,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0631",
+      "script": "桜ルート十二日目-03",
+      "aligned": 20,
+      "candidate_source_pages": 20
+    },
+    {
+      "scriptId": "0632",
+      "script": "桜ルート十二日目-07",
+      "aligned": 26,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0633",
+      "script": "桜ルート十二日目-08",
+      "aligned": 14,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0634",
+      "script": "桜ルート十二日目-09",
+      "aligned": 50,
+      "candidate_source_pages": 52
+    },
+    {
+      "scriptId": "0635",
+      "script": "桜ルート十二日目-10",
+      "aligned": 44,
+      "candidate_source_pages": 44
+    },
+    {
+      "scriptId": "0636",
+      "script": "桜ルート十二日目-11",
+      "aligned": 53,
+      "candidate_source_pages": 53
+    },
+    {
+      "scriptId": "0637",
+      "script": "桜ルート十二日目-12",
+      "aligned": 10,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0638",
+      "script": "桜ルート十二日目-13",
+      "aligned": 34,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0639",
+      "script": "桜ルート十二日目-113",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0640",
+      "script": "桜ルート十二日目-14",
+      "aligned": 40,
+      "candidate_source_pages": 40
+    },
+    {
+      "scriptId": "0641",
+      "script": "桜ルート十三日目-08",
+      "aligned": 26,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0642",
+      "script": "桜ルート十三日目-09",
+      "aligned": 33,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0643",
+      "script": "桜ルート十三日目-10",
+      "aligned": 64,
+      "candidate_source_pages": 65
+    },
+    {
+      "scriptId": "0644",
+      "script": "桜ルート十三日目-11",
+      "aligned": 26,
+      "candidate_source_pages": 27
+    },
+    {
+      "scriptId": "0645",
+      "script": "桜ルート十三日目-00",
+      "aligned": 13,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0646",
+      "script": "桜ルート十三日目-01",
+      "aligned": 85,
+      "candidate_source_pages": 86
+    },
+    {
+      "scriptId": "0647",
+      "script": "桜ルート十三日目-02",
+      "aligned": 27,
+      "candidate_source_pages": 28
+    },
+    {
+      "scriptId": "0648",
+      "script": "桜ルート十三日目-12",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0649",
+      "script": "桜ルート十三日目-15",
+      "aligned": 0,
+      "candidate_source_pages": 26
+    },
+    {
+      "scriptId": "0650",
+      "script": "桜ルート十三日目-13",
+      "aligned": 36,
+      "candidate_source_pages": 37
+    },
+    {
+      "scriptId": "0651",
+      "script": "桜ルート十三日目-03",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0652",
+      "script": "桜ルート十三日目-05",
+      "aligned": 5,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0653",
+      "script": "桜ルート十三日目-06",
+      "aligned": 39,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0654",
+      "script": "桜ルート十三日目-14",
+      "aligned": 26,
+      "candidate_source_pages": 28
+    },
+    {
+      "scriptId": "0655",
+      "script": "桜ルート十三日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0656",
+      "script": "桜ルート十四日目-00",
+      "aligned": 45,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0657",
+      "script": "桜ルート十四日目-02",
+      "aligned": 12,
+      "candidate_source_pages": 13
+    },
+    {
+      "scriptId": "0658",
+      "script": "桜ルート十四日目-08",
+      "aligned": 15,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0659",
+      "script": "桜ルート十四日目-09",
+      "aligned": 98,
+      "candidate_source_pages": 99
+    },
+    {
+      "scriptId": "0660",
+      "script": "桜ルート十四日目-01",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0661",
+      "script": "桜ルート十四日目-10",
+      "aligned": 42,
+      "candidate_source_pages": 43
+    },
+    {
+      "scriptId": "0662",
+      "script": "桜ルート十四日目-03",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0663",
+      "script": "桜ルート十四日目-04",
+      "aligned": 4,
+      "candidate_source_pages": 4
+    },
+    {
+      "scriptId": "0664",
+      "script": "桜ルート十四日目-05",
+      "aligned": 4,
+      "candidate_source_pages": 5
+    },
+    {
+      "scriptId": "0665",
+      "script": "桜ルート十四日目-06",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0666",
+      "script": "桜ルート十四日目-11",
+      "aligned": 62,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0667",
+      "script": "桜ルート十五日目-00",
+      "aligned": 17,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0668",
+      "script": "桜ルート十五日目-01",
+      "aligned": 23,
+      "candidate_source_pages": 24
+    },
+    {
+      "scriptId": "0669",
+      "script": "桜ルート十五日目-02",
+      "aligned": 2,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0670",
+      "script": "桜ルート十五日目-22",
+      "aligned": 55,
+      "candidate_source_pages": 55
+    },
+    {
+      "scriptId": "0671",
+      "script": "桜ルート十五日目-03",
+      "aligned": 39,
+      "candidate_source_pages": 39
+    },
+    {
+      "scriptId": "0672",
+      "script": "桜ルート十五日目-27",
+      "aligned": 0,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0673",
+      "script": "桜ルート十五日目-23",
+      "aligned": 44,
+      "candidate_source_pages": 44
+    },
+    {
+      "scriptId": "0674",
+      "script": "桜ルート十五日目-28",
+      "aligned": 0,
+      "candidate_source_pages": 15
+    },
+    {
+      "scriptId": "0675",
+      "script": "桜ルート十五日目-04",
+      "aligned": 36,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0676",
+      "script": "桜ルート十五日目-05",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0677",
+      "script": "桜ルート十五日目-06",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0678",
+      "script": "桜ルート十五日目-07",
+      "aligned": 3,
+      "candidate_source_pages": 3
+    },
+    {
+      "scriptId": "0679",
+      "script": "桜ルート十五日目-08",
+      "aligned": 61,
+      "candidate_source_pages": 61
+    },
+    {
+      "scriptId": "0680",
+      "script": "桜ルート十五日目-09",
+      "aligned": 92,
+      "candidate_source_pages": 93
+    },
+    {
+      "scriptId": "0681",
+      "script": "桜ルート十五日目-10",
+      "aligned": 143,
+      "candidate_source_pages": 145
+    },
+    {
+      "scriptId": "0682",
+      "script": "桜ルート十五日目-11",
+      "aligned": 62,
+      "candidate_source_pages": 63
+    },
+    {
+      "scriptId": "0683",
+      "script": "桜ルート十五日目-12",
+      "aligned": 166,
+      "candidate_source_pages": 166
+    },
+    {
+      "scriptId": "0684",
+      "script": "桜ルート十五日目-24",
+      "aligned": 40,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0685",
+      "script": "桜ルート十五日目-25",
+      "aligned": 90,
+      "candidate_source_pages": 93
+    },
+    {
+      "scriptId": "0686",
+      "script": "桜ルート十五日目-13",
+      "aligned": 11,
+      "candidate_source_pages": 11
+    },
+    {
+      "scriptId": "0687",
+      "script": "桜ルート十五日目-16",
+      "aligned": 0,
+      "candidate_source_pages": 1
+    },
+    {
+      "scriptId": "0688",
+      "script": "桜ルート十五日目-14",
+      "aligned": 7,
+      "candidate_source_pages": 8
+    },
+    {
+      "scriptId": "0689",
+      "script": "桜ルート十五日目-15",
+      "aligned": 7,
+      "candidate_source_pages": 7
+    },
+    {
+      "scriptId": "0690",
+      "script": "桜ルート十五日目-17",
+      "aligned": 6,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0691",
+      "script": "桜ルート十五日目-18",
+      "aligned": 5,
+      "candidate_source_pages": 6
+    },
+    {
+      "scriptId": "0692",
+      "script": "桜ルート十五日目-19",
+      "aligned": 15,
+      "candidate_source_pages": 16
+    },
+    {
+      "scriptId": "0693",
+      "script": "桜ルート十五日目-20",
+      "aligned": 157,
+      "candidate_source_pages": 157
+    },
+    {
+      "scriptId": "0694",
+      "script": "桜ルート十五日目-26",
+      "aligned": 16,
+      "candidate_source_pages": 17
+    },
+    {
+      "scriptId": "0695",
+      "script": "桜ルート十五日目-29",
+      "aligned": 0,
+      "candidate_source_pages": 18
+    },
+    {
+      "scriptId": "0696",
+      "script": "桜ルート十六日目-00",
+      "aligned": 41,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0697",
+      "script": "桜ルート十六日目-14",
+      "aligned": 35,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0698",
+      "script": "桜ルート十六日目-15",
+      "aligned": 34,
+      "candidate_source_pages": 34
+    },
+    {
+      "scriptId": "0699",
+      "script": "桜ルート十六日目-16",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0700",
+      "script": "桜ルート十六日目-01",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0701",
+      "script": "桜ルート十六日目-03",
+      "aligned": 35,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0702",
+      "script": "桜ルート十六日目-04",
+      "aligned": 33,
+      "candidate_source_pages": 33
+    },
+    {
+      "scriptId": "0703",
+      "script": "桜ルート十六日目-02",
+      "aligned": 14,
+      "candidate_source_pages": 14
+    },
+    {
+      "scriptId": "0704",
+      "script": "桜ルート十六日目-05",
+      "aligned": 1,
+      "candidate_source_pages": 2
+    },
+    {
+      "scriptId": "0705",
+      "script": "桜ルート十六日目-23",
+      "aligned": 0,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0706",
+      "script": "桜ルート十六日目-06",
+      "aligned": 10,
+      "candidate_source_pages": 10
+    },
+    {
+      "scriptId": "0707",
+      "script": "桜ルート十六日目-07",
+      "aligned": 54,
+      "candidate_source_pages": 57
+    },
+    {
+      "scriptId": "0708",
+      "script": "桜ルート十六日目-17",
+      "aligned": 86,
+      "candidate_source_pages": 89
+    },
+    {
+      "scriptId": "0709",
+      "script": "桜ルート十六日目-24",
+      "aligned": 0,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0710",
+      "script": "桜ルート十六日目-18",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0711",
+      "script": "桜ルート十六日目-19",
+      "aligned": 35,
+      "candidate_source_pages": 36
+    },
+    {
+      "scriptId": "0712",
+      "script": "桜ルート十六日目-20",
+      "aligned": 42,
+      "candidate_source_pages": 42
+    },
+    {
+      "scriptId": "0713",
+      "script": "桜ルート十六日目-08",
+      "aligned": 21,
+      "candidate_source_pages": 22
+    },
+    {
+      "scriptId": "0714",
+      "script": "桜ルート十六日目-11",
+      "aligned": 66,
+      "candidate_source_pages": 69
+    },
+    {
+      "scriptId": "0715",
+      "script": "桜ルート十六日目-09",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0716",
+      "script": "桜ルート十六日目-21",
+      "aligned": 40,
+      "candidate_source_pages": 45
+    },
+    {
+      "scriptId": "0717",
+      "script": "桜ルート十六日目-22",
+      "aligned": 41,
+      "candidate_source_pages": 41
+    },
+    {
+      "scriptId": "0718",
+      "script": "桜ルート十六日目-10",
+      "aligned": 8,
+      "candidate_source_pages": 9
+    },
+    {
+      "scriptId": "0719",
+      "script": "桜ルート十六日目-12",
+      "aligned": 18,
+      "candidate_source_pages": 19
+    },
+    {
+      "scriptId": "0720",
+      "script": "桜ルート十六日目-13",
+      "aligned": 31,
+      "candidate_source_pages": 32
+    },
+    {
+      "scriptId": "0721",
+      "script": "セイバーエピローグ",
+      "aligned": 117,
+      "candidate_source_pages": 118
+    },
+    {
+      "scriptId": "0722",
+      "script": "凛エピローグ2",
+      "aligned": 156,
+      "candidate_source_pages": 156
+    },
+    {
+      "scriptId": "0723",
+      "script": "凛エピローグ",
+      "aligned": 103,
+      "candidate_source_pages": 104
+    },
+    {
+      "scriptId": "0724",
+      "script": "桜エピローグ",
+      "aligned": 146,
+      "candidate_source_pages": 147
+    },
+    {
+      "scriptId": "0725",
+      "script": "桜エピローグ2",
+      "aligned": 67,
+      "candidate_source_pages": 74
+    },
+    {
+      "scriptId": "0726",
+      "script": "ラストエピソード",
+      "aligned": 94,
+      "candidate_source_pages": 106
+    },
+    {
+      "scriptId": "0727",
+      "script": "セイバールート六日目-02",
+      "aligned": 0,
+      "candidate_source_pages": 0
+    },
+    {
+      "scriptId": "0728",
+      "script": "タイガー道場すぺしゃる",
+      "aligned": 81,
+      "candidate_source_pages": 92
+    }
+  ]
+}

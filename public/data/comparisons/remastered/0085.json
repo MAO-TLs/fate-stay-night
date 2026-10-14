@@ -1,0 +1,226 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0085",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A night passed.\nAfter getting ready just like I would on any normal morning and heading to the living room, I am greeted by the most complicated breakfast table scene of my life.",
+      "sourceUnit": "セイバールート六日目-12:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, sorry Sakura. I can't eat butter. Pass me the marmalade.\"\n\"Is that so? I thought you didn't enjoy sweet things, Miss Tohsaka.\"\n\"That's nonsense, all girls like sweets. It's not that I don't like sweet things...I just shouldn't have too much of them. If I'm not careful, things could start building up in places I can't see. So, I limit myself to eating sweets once a week.\"",
+      "sourceUnit": "セイバールート六日目-12:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? So why marmalade?\"\n\"I have sugar in the morning. Besides, I should have SOME sweet things, or I might pay for it later.\"\n\"I see. Even if you only eat twice a day, it would be a big problem if you ended up eating twice as much.\"\n\"Exactly. Hey, I wasn't going to say anything, but you sure eat a lot, Saber. You might have a small frame, but you eat just as much as Sakura.\"",
+      "sourceUnit": "セイバールート六日目-12:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you think so? I think I eat an average amount. I would like to point out that the toast Sakura ate was twice the size of mine.\"\n\"Th-that is not true...! Miss Tohsaka, Saber, and I were all served two pieces of toast!\"\nYes, but the thickness was different. One was one centimeter thick, while the other was two centimeters, which tells me you eat quite a lot, Sakura. You are in a growth spurt, so there is no problem with you taking in nutrients. Rin, instead of eating only one slice, you should eat everything that has been served to you.\"",
+      "sourceUnit": "セイバールート六日目-12:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"I said I can't, okay? Everything I eat doesn't just go straight to my chest, like Sakura. And if I eat all that in the morning, I'll just end up storing it. I don't usually even eat breakfast, so I'm already compromising.\"\n\"Miss Tohsaka...I suggest you not say that in front of Senpai...\"",
+      "sourceUnit": "セイバールート六日目-12:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Mhm. You continue mentioning that you accumulate things, but why are you avoiding using specific terms, Rin?\"\n\"Like I said, places I can't see on my body! Well, Sakura accumulates in places you can see, so she doesn't count.\"\n\"P-please don't talk about that kind of thing!\"",
+      "sourceUnit": "セイバールート六日目-12:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI take a bite of my crispy toast.\nMy brain just can't follow the situation unfolding in front of me, so I just stay out of it and focus on my toast.\nThere's nothing for me to really add to this anyway.",
+      "sourceUnit": "セイバールート六日目-12:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess I worried over nothing.\"\nFor the time being, the three seem to be getting along.\nTohsaka is the same as always, and Saber's warmed up to the girls a good bit more than last night.\nSakura...still seems a little hesitant around Saber, but it doesn't look like she dislikes her.",
+      "sourceUnit": "セイバールート六日目-12:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm concerned that Fuji-nee's not here, but I'm sure she'll come tonight.\"\nLast night must have done a number on her.\nBut she'll probably come by for dinner, and I think she'll be in a better mood by then.",
+      "sourceUnit": "セイバールート六日目-12:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "Breakfast ends, and I start cleaning up.\n\"Senpai, are you sure it's okay to leave the washing to you?\"",
+      "sourceUnit": "セイバールート六日目-12:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, it's the least I can do. You have to get going to your club, Sakura.\nConsidering what happened yesterday, you should probably go.\"\n\"Yes. I'll go on ahead, Senpai.\"",
+      "sourceUnit": "セイバールート六日目-12:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "Sakura bows to Tohsaka too, and leaves the living room in a hurry.\nNow there're only three of us.\nWith Sakura gone, the people remaining all share a common secret.",
+      "sourceUnit": "セイバールート六日目-12:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I shall excuse myself as well. Please call for me if you need anything.\"\n\"Bye, Saber. I'll look after Shirou, so keep an eye on the house while we're gone.\"",
+      "sourceUnit": "セイバールート六日目-12:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, please take good care of Shirou, Rin.\"\nSaber bows quickly, then returns to her room.",
+      "sourceUnit": "セイバールート六日目-12:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...Well, there's nothing to do here anymore.\nSo she's probably going back to sleep to conserve energy.",
+      "sourceUnit": "セイバールート六日目-12:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Honestly, is fighting the only thing she thinks about?\"\n\"Of course it is. And you should start showing a bit of motivation on that front, or Saber's going to lose patience with you.\nHer wounds may not be completely healed, but she's not the type to just sit around doing nothing for long.\"",
+      "sourceUnit": "セイバールート六日目-12:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "There's a clicking sound.\nWhat Tohsaka has to say worries me a bit, but she just turns on the TV.",
+      "sourceUnit": "セイバールート六日目-12:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? This news again.\"\nThe TV plays the morning news.\nI just listen from the kitchen as I wash dishes.\nBut.\nIt's the same story that I've heard before.",
+      "sourceUnit": "セイバールート六日目-12:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"There was another gas leak incident in Shinto.\nWhat a stupid story. Stuff like this is happening here too... It's not just going on over there.\"\nWhat?\nHold up.\nWhat Tohsaka says there is pretty worrying.",
+      "sourceUnit": "セイバールート六日目-12:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. What do you mean by that?\"\n\"It's about people suddenly getting weak without a real explanation, right? How people are passing out without warning, and then they end up hospitalized, in a coma.\nThere must be a lot of people affected by now. At least nobody's lives are in imminent danger, but I suppose that's all down to whoever's controlling this.\"",
+      "sourceUnit": "セイバールート六日目-12:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!?\"\nWait, wait, wait, wait, wait... Hold up!\nIs she saying that this incident isn't just happening a town over? It's happening here too!?\nUnexplained comas?\nA good number of victims?\nNo, but the main issue is...",
+      "sourceUnit": "セイバールート六日目-12:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, don't tell me you think a Master did this?\"",
+      "sourceUnit": "セイバールート六日目-12:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Who else? Come on, get used to it already. You're a Master too, you know.\"\n\"Okay, maybe so, but why didn't you tell me this before, Tohsaka?\"",
+      "sourceUnit": "セイバールート六日目-12:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Because there's no easy fix here.\nThe Master who cast the Bounded Field over school is third-class, but whoever is causing these incidents across the whole town is first-class. They're skilled enough to extract the power they need from people without killing them.\"",
+      "sourceUnit": "セイバールート六日目-12:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"And while gathering energy that way might be slower, they're staying within the rules for mages, and they don't need to exert themselves to accomplish this. This Master is stealing the life force from everyone in town, one of the simplest forms of magical energy, from a remote location.\"",
+      "sourceUnit": "セイバールート六日目-12:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"From a remote location? Can someone really collect magical energy from a distance?\"\n\"They must be a really skilled mage.\nOnly a truly great mage would be able to cast a net over two towns like Shinto and Miyama to absorb energy like that.\"",
+      "sourceUnit": "セイバールート六日目-12:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Or maybe they lucked into a superb spiritual site. Father mentioned that Fuyuki has a leyline, so if they build a base there, it would be easy to collect life forces.\"",
+      "sourceUnit": "セイバールート六日目-12:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Hold on, Tohsaka.\"\n\"I didn't find any materials in Father's study about this...so if there are any, they'll be in the great master's study... I really don't want to go in there. The place is uninhabited, and scary…\nWhich would mean I might have to ask Kirei... No, I really don't want to owe him anything...\"",
+      "sourceUnit": "セイバールート六日目-12:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Hey...\"\nI try to get her attention, but she doesn't respond.\nGreat, Tohsaka's off in her own world.",
+      "sourceUnit": "セイバールート六日目-12:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "When we get to school, she's still distracted.\nThe gate is packed with arriving students, beginning another typical school day.",
+      "sourceUnit": "セイバールート六日目-12:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "...\nBut, I sense there's something off...\nYesterday, I passed through the gate without noticing, but today I do now that I'm on my guard.\nIt's hard to explain...but there's this feeling that things are TOO calm, so much so that it numbs one's instincts.",
+      "sourceUnit": "セイバールート六日目-12:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. The air feels different in here than outside. It smells like sweet honey.\"\n\"Oh so that's how it feels for you? You don't have any skill at detecting magical energy, but you might be sensitive to changes in the world around you.\"\nTohsaka begins pondering.",
+      "sourceUnit": "セイバールート六日目-12:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"A sweet smell like honey, huh? Like a carnivorous plant, maybe.\nYep, that's a good way to put it.\"\n\"A carnivorous plant? That's disturbing.\"",
+      "sourceUnit": "セイバールート六日目-12:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"You think so? I don't think it's off the mark, though. I mean, once the Bounded Field over the school closes, everyone inside gets eaten.\"",
+      "sourceUnit": "セイバールート六日目-12:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe sees right through me, and I gulp.\n\"I knew it. I love that I can read you like a book.\"\n\"Whatever. Well I don't like it.\"",
+      "sourceUnit": "セイバールート六日目-12:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh don't get so mad. I know what you want to say, so relax. I know you don't want all the students getting dragged into this, and I wouldn't want this to be a battlefield either. See? So, there's only one thing for us to do.\"",
+      "sourceUnit": "セイバールート六日目-12:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nShe's testing me.\nTohsaka's trying to tell me...\n...that this Master I'm willing to fight in the Holy Grail War is the sort willing to hurt innocents to win, which is why they're here at the school.",
+      "sourceUnit": "セイバールート六日目-12:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. We need to find the Master who set up this Bounded Field, and take care of it. And if they say they're not going to take down the Bounded Field, then we just need to defeat them.\"\n\"That's right. Glad you got it.\"",
+      "sourceUnit": "セイバールート六日目-12:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm going to go search for whoever set this Bounded Field, so you go and check anywhere that seems suspicious.\nI've done some searching already, but I might have missed something. And it looks like you're good at finding singularities like this, so I'll let a specialist try his hand.\"\nTohsaka waves and runs toward the school building.",
+      "sourceUnit": "セイバールート六日目-12:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey! Don't just leave me hanging! What kind of places are suspicious, Tohsaka!?\"\n\"To quote you, anywhere the air is sweet!\nYou just need to find places that are nauseatingly syrupy and sweet!\"\nTohsaka yells her reply to me from across campus.",
+      "sourceUnit": "セイバールート六日目-12:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "And then she disappears into the school building.\n\"Oh, what the hell? Why would she need to run in there like that?\"",
+      "sourceUnit": "セイバールート六日目-12:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\nThe bell for homeroom rings.",
+      "sourceUnit": "セイバールート六日目-12:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Th-that's why!!! She should've at least warned me...!\"\nI clutch my bag and start running at full speed.\nAfter all that happened yesterday, I don't know what Fuji-nee will say if I'm late.",
+      "sourceUnit": "セイバールート六日目-12:page42:1"
+    },
+    "page43": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

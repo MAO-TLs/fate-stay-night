@@ -1,0 +1,506 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0659",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I arrive at the church after running without stopping even once.\nI started feeling short of breath on the way down the hill, but it passed by the time I got to the intersection.",
+      "sourceUnit": "桜ルート十四日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah... Haah, hah.\"\nPhysically, I feel surprisingly good.\nI ran nearly five kilometers from home to the church at a full sprint, even if it was the shortest route.",
+      "sourceUnit": "桜ルート十四日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Right, this is no time to be impressed with myself.\"\nI go into the church.\nIf Kotomine's known about this all along, then I'll make him spit it all out, with force if I have to.",
+      "sourceUnit": "桜ルート十四日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Ergh.\"\nThe priest is in the chapel.",
+      "sourceUnit": "桜ルート十四日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "He looks as if he's been waiting for me.\n\"What's the matter, Shirou Emiya? I didn't think you the type to turn to God when trapped in a corner. Have you come to convert?\"\nHe greets me flippantly.",
+      "sourceUnit": "桜ルート十四日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Cut the crap. I don't have time to deal with it right now. If you want a conversation, go have it by yourself.\"\n\"Oh? ...I see. There is indeed little time to waste. You did well to make it all the way here with that body. If this will be a long discussion, join me in the back. It must be difficult to talk while standing.\"",
+      "sourceUnit": "桜ルート十四日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm fine right here. Answer me, Kotomine.\nDid you know Sakura was a Holy Grail?\"",
+      "sourceUnit": "桜ルート十四日目-09:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. I saw what was inside her when I opened her up. It was apparent that she was a dark Holy Grail fashioned by Zouken Matou.\"\nHe answers bluntly.\nIt's like his face is saying, \"so what?\"",
+      "sourceUnit": "桜ルート十四日目-09:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Do you know what that means...!?\"\nMy blood boils.\nI told myself that I need to stay calm, but Kotomine's words light my temper white-hot.",
+      "sourceUnit": "桜ルート十四日目-09:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, probably more than you.\nIf Sakura Matou lived she would go on to kill many people. That is why I warned you, and asked you whether she was worth allowing to live.\"",
+      "sourceUnit": "桜ルート十四日目-09:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...\nI pause.\n...That's true.\nHe did give me a warning back then.\nHe saved Sakura, and told me it was a mistake to let her live..",
+      "sourceUnit": "桜ルート十四日目-09:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. Then why did you save Sakura?\nI just wanted to protect her. But you have no reason to do that, do you?\"",
+      "sourceUnit": "桜ルート十四日目-09:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I do have a reason. Like you, I did not want Sakura Matou to die. I could not allow the life gestating within her to die.\nAll humans die, and that applies to Sakura Matou as well. If her life had been the only one in danger, I never would have gone to such lengths.\"",
+      "sourceUnit": "桜ルート十四日目-09:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, if it was only her?\"\nSo, is this guy saying that he saved Sakura\nto let the Shadow live!?",
+      "sourceUnit": "桜ルート十四日目-09:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly, Shirou Emiya. Creatures can die when they are wounded. That is natural law. But I cannot kill something that might be born, that is trying to be born.\nYou protected Sakura Matou to save her.\nI saved her to save the darkness she was pregnant with.\nThat is my reason. Our objectives may have been different, but we both wanted Sakura Matou to live. Does that answer satisfy you?\"",
+      "sourceUnit": "桜ルート十四日目-09:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm not...unsatisfied.\nWhatever Kotomine was thinking, we needed his help back then.\nOn top of that, he used up his entire Magic Crest to save Sakura.\nI should be grateful for the outcome.",
+      "sourceUnit": "桜ルート十四日目-09:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not interested in what you were thinking.\nBut tell me this, Kotomine. You know what that thing is, don't you?\"",
+      "sourceUnit": "桜ルート十四日目-09:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"The Shadow threatening the town, you mean?\n...I have a few ideas. What about you?\nWhat do you think its identity is?\"\n\"...Zouken said that it's the contents of the Holy Grail. That whatever's inside the Grail is coming out through Sakura.\"",
+      "sourceUnit": "桜ルート十四日目-09:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You asked him directly, then. I see, that does sound like something he would think.\nBut can you completely trust what he says? That the Shadow is leaking out from the Holy Grail through Sakura, and that it will continue to slaughter as long as she lives?\"",
+      "sourceUnit": "桜ルート十四日目-09:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Like hell I trust him. But what he's saying lines up. I can't deny that there's a connection between Sakura and the Shadow.\"",
+      "sourceUnit": "桜ルート十四日目-09:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. Zouken's explanation was not false. But he also has not told you the entire truth.\nThe power which fills the Holy Grail is colorless, you see.\nBecause it lacks any color or will, it would never do anything such as attacking people on its own. Power without direction simply disperses without anything to focus it.\"",
+      "sourceUnit": "桜ルート十四日目-09:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh.\"\n...That's true, now that he mentions it.\nSo why is the thing leaking out of Sakura attacking people indiscriminately?",
+      "sourceUnit": "桜ルート十四日目-09:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean? Why is it attacking people, then?\"\n\"It's quite obvious. There is something which kills people within the Holy Grail. It is the only possible explanation.\"\n\"Wha...\"\nSomething which kills people?\nIt's in the Holy Grail and eating away at Sakura?",
+      "sourceUnit": "桜ルート十四日目-09:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "...\n...My vision jars for a moment.\nI deny that anything so absurd could possibly exist.\n...\nBut, wait.\nDidn't I see something exactly like that with my own eyes, ten years ago?",
+      "sourceUnit": "桜ルート十四日目-09:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Ngh... Th-that's crazy...!\nIf the Grail's power is colorless, then it would never try to kill people!\"",
+      "sourceUnit": "桜ルート十四日目-09:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. It would have been inconceivable. A contradiction that it was never designed to do.\n...Regardless, it lurks within the Holy Grail.\nI told you that ten years ago, Kiritsugu and I survived and fought over the Holy Grail.\nAt the time, the Holy Grail's contents had been contaminated by something. Its power, which should have been colorless, had for whatever reason transformed into a vortex bent on killing humans.\"",
+      "sourceUnit": "桜ルート十四日目-09:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Still, its magnitude was indeed enough to grant any wish.\nIt has not lost its function as a wish-granter.\nThe only problem was its fortunate existence, as something which used evil to highlight good.\nIt caused the tragic fire ten years ago.\nWhile I was willing to accept it despite that, Kiritsugu refused to acknowledge such evil, and destroyed it.\"",
+      "sourceUnit": "桜ルート十四日目-09:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"The result was obvious. My Servant was bathed in the tainted contents of the Holy Grail, and the mud that spilled out of the Grail set fire to the town, killing many people.\nI believe you have firsthand experience with that sight.\"",
+      "sourceUnit": "桜ルート十四日目-09:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah, I watched it happen.\nI saw the root of all this destruction with my own eyes!",
+      "sourceUnit": "桜ルート十四日目-09:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Then...that black hole was...\"\n\"The opening, the gate which we call the Holy Grail.\nHow ironic. It is a chalice meant to collect the purest and greatest of souls.\nAll it took was a single drop of poison to taint that pure vessel. It was colorless, as you know. No matter how vast or unfathomable it was, it was unable to tolerate a single foreign element.\"",
+      "sourceUnit": "桜ルート十四日目-09:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"A foreign element? Is that what changed the Holy Grail?\"",
+      "sourceUnit": "桜ルート十四日目-09:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Most likely. During the third ritual, the Einzberns summoned something forbidden. In doing so, they introduced an impurity into their Holy Grail.\nFor the fifty years between the third and fourth wars, that impurity awaited its birth in the Holy Grail. But it was never allowed to emerge.\"",
+      "sourceUnit": "桜ルート十四日目-09:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"The fourth war was too abrupt.\nWhile it was still incomplete, time ran out while Saber and Archer were still intact. Then, Kiritsugu destroyed the gate as soon as it opened.\"",
+      "sourceUnit": "桜ルート十四日目-09:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"An impurity... Is that who the Shadow is?\"\n\"You would be wrong to consider it a person.\nThe contents of the Holy Grail are still pure power, even if it is tainted. It is magical energy with an orientation.\nIt is a great vortex of curses utterly specialized in killing humans. An evil manifestation of human malice which has no desire to mix with anything else.\"",
+      "sourceUnit": "桜ルート十四日目-09:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That is the identity of the phenomenon within the Holy Grail, the Shadow, which roams at night. It is an unborn fetus which would not even cast a shadow if not for Sakura Matou.\"",
+      "sourceUnit": "桜ルート十四日目-09:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"An unborn fetus...? You've gotta be kidding me. Sakura has to give birth to a strange thing like that!?\"\n\"No, no. If Sakura Matou had been a properly constructed Holy Grail, her body would give birth to it.\nBut she is special.\nThat thing is eating away at her, the gate, and becoming the gate itself.\"",
+      "sourceUnit": "桜ルート十四日目-09:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"In passing its own power to Sakura, it is trying to exist in this world. It is attempting to make its own birth happen, to become something from nothing.\nTo begin with, it is power without a physical body.It does not require a human body.Someone simply needs to inherit its power in order for it to exist in this world.\"",
+      "sourceUnit": "桜ルート十四日目-09:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail's contents are not leaking out now.\nIt is a devil attempting to reach its own birth by infiltrating Sakura Matou.\nThat is why the Shadow is not the contents of the Holy Grail.\nIt is already Sakura Matou herself.\nOnce it consumes its host, once Sakura Matou inherits its power, she will transform into the Shadow.\"",
+      "sourceUnit": "桜ルート十四日目-09:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\nWait.\nHold on a second, Kotomine.\nI can't keep track of everything you're saying.",
+      "sourceUnit": "桜ルート十四日目-09:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail was always incomplete.\n...No, the moment someone used the corrupted Holy Grail in the previous war, her contract was signed.\nThis likely would not have happened with the Einzberns' Holy Grail. The Grail's contents are cursed, but their host would not have adapted to it.\"",
+      "sourceUnit": "桜ルート十四日目-09:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nShut up.\nYou're talking way too much.\nJust say it simply.\nFor example, you could say that the Shadow isn't Sakura's subconscious.\nThat's what Zouken said, but you're implying that the Shadow is attacking people because that's always been its power.\nSakura...\nSakura can't have wanted this to happen.",
+      "sourceUnit": "桜ルート十四日目-09:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"A vortex of curses resides in the Holy Grail, but they would never have gained a form without a suitable vessel to contain them.\nThat thing within the Holy Grail connected to a host that could give it definite form.\nWith a normal Holy Grail, such as one made out of the Einzberns' gold or a bronze chalice using a mage's body, it would have remained amorphous and indefinite. It is a bundle of curses potent enough to have actual mass. Under some circumstances, it might have multiplied into a great lump of flesh.\"",
+      "sourceUnit": "桜ルート十四日目-09:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "...\nThat has nothing to do with me.\nGet to the point.\nTell me the conclusion.\nI thought that I would save her if I defeated the Shadow.\nThat I just needed to beat it before Sakura turned into the Holy Grail.\nBut if Sakura herself is the Shadow...",
+      "sourceUnit": "桜ルート十四日目-09:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"The curse gained Sakura Matou as its host.\nIn the last war, its sense of touch, which leaked into this world, was embedded into her body, and she was raised to have it serve as her Magic Circuits. The more Sakura Matou opens the gate as a Holy Grail, the more she will merge with the thing within her.\nSo, be at ease.\nAs long as her mind is intact, the Shadow will remain a shadow.\nNo matter how tainted she is by the curse, she is in command. As long as she tries to keep the gate closed, it will continue to stay within her and cannot completely emerge.\"",
+      "sourceUnit": "桜ルート十四日目-09:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"It is like the relationship between Master and Servant.\nA Servant cannot use its power as long as its Master does not allow it. No matter how overwhelmingly powerful it may be, it cannot defy their bond of servitude.\nSakura Matou's rational mind prevents the curse from fully indulging in its murderous nature.\"",
+      "sourceUnit": "桜ルート十四日目-09:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Will she accept the curse as a part of herself, or will her mind break under the enormity of its magical energy? Regardless, the darkness within her will be born.\nShe is already the Shadow itself. Now that the Holy Grail War is in its final days, she will be unable to return to her former self.\"",
+      "sourceUnit": "桜ルート十四日目-09:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...\nHe's saying...\nThat if I kill the Shadow and check its dead body,\nI'll find Sakura lying there...",
+      "sourceUnit": "桜ルート十四日目-09:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Hah...ahh...\"\nI thought my heart just stopped.\nI clutch at my chest hard enough to tear the skin, and force myself to start breathing again.",
+      "sourceUnit": "桜ルート十四日目-09:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, if we let Sakura live...\"\n\"That dark Shadow will grow, and eventually her mind will die. At that moment, hell will manifest on this earth.\nI doubted she would be able to hold out in that state, so I must commend you for a job well done, Shirou Emiya. Thanks to you, she is still functioning as a Holy Grail.\"\n\"...!\"",
+      "sourceUnit": "桜ルート十四日目-09:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"You...you want to turn Sakura into a monster...!?\"",
+      "sourceUnit": "桜ルート十四日目-09:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do. No matter what it is, I cannot stop it as long as it wishes to be born.\nDo not mistake my words, Shirou Emiya.\nYou would call it a monster, when it has yet to even appear in this world?\"",
+      "sourceUnit": "桜ルート十四日目-09:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Obviously! That Shadow is a demon. It's a demon that goes around killing people left and right!\"\n\"Your judgment is premature. We only decide whether something is good or evil after it is born. No one can deny a life before it even exists.\nOr are you saying that you would condemn the child of a criminal and accuse it of the same crimes? Would you execute it before it is even born?\"",
+      "sourceUnit": "桜ルート十四日目-09:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...\"\nWhat is he talking about?\nHe himself said that it's something which kills humans.\nIt's already killing people right now!",
+      "sourceUnit": "桜ルート十四日目-09:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"You are mistaken. The Shadow you speak of is a shade modeled after its host, Sakura Matou. It is a separate entity from the thing which wishes to be born from the Holy Grail.\nThe Shadow is merely using Sakura Matou to obtain human lives for its own birth. It is no different from a suckling babe which wishes only to live.\nIt is mindless, and so we cannot judge it as good or evil.\"",
+      "sourceUnit": "桜ルート十四日目-09:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"That's bullshit. People are actually dead, you know!?\"\n\"Yes, they are. Those sins must be brought to account, but only after it is born. No one can deny it at this moment.\nI cannot reject something which has yet to hatch and stand trial in this world.\"",
+      "sourceUnit": "桜ルート十四日目-09:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"You must understand, there is no clear definition of evil in the world.\nStill, if we must apply the label, then would it not be unquestionably evil\nto snuff out a life before it is even born?\"",
+      "sourceUnit": "桜ルート十四日目-09:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy words catch in my throat.\nI don't accept Kotomine's argument to turn Sakura into the \"contents of the Holy Grail\"... or rather, that he refuses to stop it from happening.\nBut attacking him for what he just said won't change anything, and it won't help Sakura.",
+      "sourceUnit": "桜ルート十四日目-09:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Kotomine. Is your goal to turn Sakura into the Holy Grail?\"\nI ask him with menace in my voice.\nIt's already too late to declare war, but I want to know exactly where we each stand.",
+      "sourceUnit": "桜ルート十四日目-09:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"I said it is why I saved her. If it is going to be born, then I will bless it.\nJust as you offered Sakura Matou your aid, I will help her unborn child.\"\n\"...Fine. Then that makes you our enemy.\"",
+      "sourceUnit": "桜ルート十四日目-09:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. However, I do not want to take her life, nor do I desire the Holy Grail's power as Zouken Matou does.\nI protect that which is within the Holy Grail, so that it may be born. If its mother rejects her child before it is born, then I will respect her wishes.\"",
+      "sourceUnit": "桜ルート十四日目-09:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "...Kotomine isn't lying.\nHe really doesn't care about winning the Holy Grail War.",
+      "sourceUnit": "桜ルート十四日目-09:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "All he's interested in is the outcome.\nHe wants to know whether we or Zouken will survive, and see what appears afterward.\nHe doesn't intend to force Sakura's transformation.\nHe said that he would help Sakura when we couldn't do anything to stop her from transforming.",
+      "sourceUnit": "桜ルート十四日目-09:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"...All right. If you're set on watching from the sidelines, then I won't go after you. You did save Sakura, whatever your reasons.\n...That's all I need to know right now.\"",
+      "sourceUnit": "桜ルート十四日目-09:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. I only saw it as saving the mother, but you may interpret that as you wish.\nNow, that should conclude your business here. Return to Sakura Matou. She should not be left alone, in her condition.\"",
+      "sourceUnit": "桜ルート十四日目-09:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nThe priest says it out of concern for Sakura's physical—no, her mental health.\nWe're clearly supposed to be enemies now, but it's as hard as ever to tell whose side he's really on.",
+      "sourceUnit": "桜ルート十四日目-09:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"...I have one more question, actually.\nIt's probably the last thing I'll ever ask you.\"\n\"Oh? Then I can hardly decline. Ask your question.\"\n\"Kotomine, can Sakura be saved?\"",
+      "sourceUnit": "桜ルート十四日目-09:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "My question changes the atmosphere.\nThe gravity that always seems to surround the priest doubles, and he gives me a word of advice.",
+      "sourceUnit": "桜ルート十四日目-09:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"There is a way, though it is only a partial solution.\nOnce she is a complete Holy Grail, Sakura Matou's personality will likely disappear. If her mind can withstand the power of the Holy Grail at all, however...it may buy her a short amount of time.\"",
+      "sourceUnit": "桜ルート十四日目-09:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"I mean seconds, at most.\nIn that interval, one could take control of the Holy Grail and use its power to purge her body of the things infesting it.\nIt is a brute-force approach. One need merely use the power of the Holy Grail to kill the Crest Worms upon which her Grail was built, and the thing inhabiting her body.\nIt may be tainted, but the Holy Grail still functions as a wish-granting device. There is surely nothing which could survive its power, if it were directed to kill.\"",
+      "sourceUnit": "桜ルート十四日目-09:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "\"So this whole war all comes back to the Grail...\"\n\"Yes. This entire affair will be settled once one obtains the Holy Grail.\nBut be warned; you would be directing the Holy Grail's power at the Holy Grail itself.\nMost mages would be unable to handle such power, and you would see the tragedy of ten years past occur again.\nThat's not all. It would be a mind-shattering task to control the Holy Grail for even a few seconds. Such a feat would be a miracle for you alone.\"",
+      "sourceUnit": "桜ルート十四日目-09:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. But I still have to try. We've still got a trick or two up our sleeve.\"",
+      "sourceUnit": "桜ルート十四日目-09:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. You do have Rin with you.\nRin is Sakura Matou's older sister. It would be easy for her to synchronize her mind with Sakura's and lessen the feedback from the Holy Grail.\nThough, I doubt she would agree to such an absurd course of action.\"",
+      "sourceUnit": "桜ルート十四日目-09:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "...\n...He's right, of course.\nMy first priority when I get home is now to convince Tohsaka.",
+      "sourceUnit": "桜ルート十四日目-09:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"Fine. That's our problem to deal with.\nWell, see ya. I hate to admit it, but you really helped us out. I can't agree with you, but I'm grateful.\"\n\"Wait. I answered your question, so let me ask one as well.\"",
+      "sourceUnit": "桜ルート十四日目-09:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "...\nI stop on the way out.\n...I'm not in the mood for this, but it's better than owing him any more favors.",
+      "sourceUnit": "桜ルート十四日目-09:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"What now? I thought you agreed this would be the last time. Make it short.\"\n\"Well, let us assume that you manage to use this method to save Sakura Matou.\nBut is that something you can accept, Shirou Emiya? Even if she is no longer the Holy Grail, it does not change the fact that she has eaten other people. Can you defend such a sinner?\"",
+      "sourceUnit": "桜ルート十四日目-09:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "...\nI halt.\nThis time, his words really do make my blood run cold.",
+      "sourceUnit": "桜ルート十四日目-09:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"You would not be the only one who could not tolerate it.\nSakura Matou has killed many. I do not think she would forgive herself, either.\"\n\"I...\"\n\"It is difficult to commit sins and live without atoning for them. It may be happier for all involved to resolutely kill her instead.\nIt would certainly be easier, and serve to compensate those who had loved ones taken from them.\"",
+      "sourceUnit": "桜ルート十四日目-09:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Yeah.\nThat's where this chain of logic would lead.\nIt doesn't matter how she alone feels about it.\nNo matter what the circumstances were, the victims deserve to see some kind of punishment.\nIf lives were taken, then those they were taken from can never be satisfied unless an equal price is paid.",
+      "sourceUnit": "桜ルート十四日目-09:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "They would want to kill her.\nIf we feel apologetic at all to those who were lost, then society would dictate that Sakura, the perpetrator, be killed as well.",
+      "sourceUnit": "桜ルート十四日目-09:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "And that's not all.\nIf we fail to save Sakura and she becomes a Holy Grail anyway, then all the brakes will be off.\nThere will be ten times as many deaths.\nJust like that day, when innocent people died one after another,\nwithout knowing why.",
+      "sourceUnit": "桜ルート十四日目-09:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "I swallow the bile rising to my throat.\nMy eyes feel bloodshot,\nlike I could cry blood at any moment.\nI take thousands of swords and cut those feelings down.\n\"...Yeah. But that won't make up for anything, either.\"\nI still swore to protect Sakura.",
+      "sourceUnit": "桜ルート十四日目-09:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. So you will not follow in Kiritsugu Emiya's footsteps.\"\nHis voice is calm.\nThe priest looks at me with a bored, even disappointed expression.",
+      "sourceUnit": "桜ルート十四日目-09:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"My old man's footsteps...?\"\n\"Yes. Your father loved humans.\nHis love for humanity was higher, further, and broader than any other. That is why he turned himself into absolute evil.\nI believe that he would have killed Sakura Matou.He was the sort of man who cast off anyhuman emotion for the sake of his idea of justice.\"",
+      "sourceUnit": "桜ルート十四日目-09:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"...And you're different?\nYou would sacrifice the happiness of one person for justice, for the happiness of many?\"\n\"...No. The things which you call happiness have never given me any joy.\"",
+      "sourceUnit": "桜ルート十四日目-09:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nThat doesn't answer the question.\nNo, actually...\nThe musing priest isn't even looking at me.",
+      "sourceUnit": "桜ルート十四日目-09:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, we were different.\nHe abandoned that which he had from the beginning, while I never had anything to abandon.\nThe outcome may have been the same, but the process could not have been more different.\nI found his existence extremely unpleasant. His suffering clearly made him unhappy.\nIf he was going to abandon everything, then he never should have had it to begin with. Yet, he suffered and abandoned things, only to pick them up again. Even though it was the right, human thing to do.\"",
+      "sourceUnit": "桜ルート十四日目-09:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"It was a critical difference between us. Yes, if I was never to have such things, then why was I given life in this world?\"",
+      "sourceUnit": "桜ルート十四日目-09:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "The priest's musings aren't directed at anyone.\nBut I can feel the anger in his words.\nIt's a show of genuine emotion that I didn't think he was capable of.",
+      "sourceUnit": "桜ルート十四日目-09:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Come to think of it, you were never capable of carrying on his legacy. He was able to abandon that which was precious to him, but you can only hold on to both.\nYou and I are similar.\nFrom the moment you died and were revived, you have been broken. Even if it was an acquired trait, we are both innately flawed people.\"\n\"...Broken? You mean something's wrong with me?\"",
+      "sourceUnit": "桜ルート十四日目-09:page89:1"
+    },
+    "page90": {
+      "status": "exact_japanese_text",
+      "text": "\"You simply haven't yet realized it.\nYou have no concept of self. That is why you obsess over a single life. Or perhaps...\"\nIt's not that I obsess over many lives,\nbut that I care about all lives as much as I care about one?\n...Yeah.\nKirei Kotomine thinks out loud, sounding somewhat envious.",
+      "sourceUnit": "桜ルート十四日目-09:page90:1"
+    },
+    "page91": {
+      "status": "exact_japanese_text",
+      "text": "\"...No matter. I will not stop you from saving Sakura Matou. Go ahead and shoulder your own sins.\nThis is my final warning.\nIf you wish to save Sakura Matou in any form, you must kill Zouken Matou. He plans to take over her empty body once her mind is gone. If that happens, it will be impossible to bring her back.\"",
+      "sourceUnit": "桜ルート十四日目-09:page91:1"
+    },
+    "page92": {
+      "status": "exact_japanese_text",
+      "text": "\"Zouken wants to take over Sakura's body!?\"\n\"Yes. He is an insect which parasitizes human bodies. I do not know which insect contains his mind and soul, but it is easy for him to transfer himself to a new body as long as it is intact.\nHe is immortal, in a way. He will never completely disappear unless you find the main body which anchors his soul, or cleanse his soul itself.\"",
+      "sourceUnit": "桜ルート十四日目-09:page92:1"
+    },
+    "page93": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. That's one less thing to worry about, actually. It means I have to kill him no matter what.\"\n\"Heh. It is quite simple, yes.\nYour next steps are to defeat Zouken Matou and make Sakura Matou the victor. Then, control the Holy Grail once it appears and use it to cleanse Sakura Matou's body.\"",
+      "sourceUnit": "桜ルート十四日目-09:page93:1"
+    },
+    "page94": {
+      "status": "exact_japanese_text",
+      "text": "I nod, reluctantly.\nKotomine's right. It's good to keep things simple.",
+      "sourceUnit": "桜ルート十四日目-09:page94:1"
+    },
+    "page95": {
+      "status": "exact_japanese_text",
+      "text": "\"This is only my personal opinion, but Sakura Matou's body is stronger and more suitable to the Holy Grail's curse than expected.\nShe is the yin to Rin's yang. If Zouken Matou made an oversight, it would be this. The Shadow spurred Sakura Matou's growth further than Zouken anticipated. That is why he took action against you.\"",
+      "sourceUnit": "桜ルート十四日目-09:page95:1"
+    },
+    "page96": {
+      "status": "exact_japanese_text",
+      "text": "\"Protect Sakura Matou.\nIf she can endure the Shadow's growth, then she may not die as a womb.\"\nI nod without saying anything else.\nKotomine's goal is Sakura's transformation.\nBut that's still a lot better than anything Zouken has planned.",
+      "sourceUnit": "桜ルート十四日目-09:page96:1"
+    },
+    "page97": {
+      "status": "exact_japanese_text",
+      "text": "\"Just saying, but this isn't your fight. I'm not going to let that shady thing grow.\"\n\"That's the spirit. Do not, by any means, let her fall into Zouken's hands.\"\nI snort and head for the door.",
+      "sourceUnit": "桜ルート十四日目-09:page97:1"
+    },
+    "page98": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page99": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

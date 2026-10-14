@@ -1,0 +1,361 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0183",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, time to start my lesson. First, though, is anything broken?\"",
+      "sourceUnit": "セイバールート十二日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "That's how she began.\nIt's kind of an odd question to ask the moment I arrive.",
+      "sourceUnit": "セイバールート十二日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Broken? Like what?\"",
+      "sourceUnit": "セイバールート十二日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm asking if any part of you isn't working.\nYou did some wild stuff, so you must have burned out a nerve or two.\n...Not to say I care. I just figured it'd be hard to teach you unless I knew whether there was anything wrong.\"",
+      "sourceUnit": "セイバールート十二日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "According to Tohsaka, some parts of me should be numb.\nBut since I'm the one living in my body, I can say she's wrong.",
+      "sourceUnit": "セイバールート十二日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. Everything's working fine.\nThe headache and fever are gone now that I've had a night's sleep. I feel fine.\"",
+      "sourceUnit": "セイバールート十二日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"What? That can't be true! Did you forget the part where you Projected Saber's sword!? That would have cost a normal person their arm!\"",
+      "sourceUnit": "セイバールート十二日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"But I told you, I'm fine.\nBesides, if my body wasn't working, I wouldn't have been able to carry Illya back to the house. And at that point the only thing wrong with me was a headache and a fever.\"\n\"But that's not possible! Shirou, show me your arm!\"",
+      "sourceUnit": "セイバールート十二日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "She tugs on my arm before I can reply, then stares at it.",
+      "sourceUnit": "セイバールート十二日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ngh.\"\nI realize I'm holding my breath.\nI may have gotten used to her being around, but I'm definitely not used to her being so close.",
+      "sourceUnit": "セイバールート十二日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...It really does look like there's nothing wrong.\nI see a few places that are black, like they're burned or bruised...but other than that, everything's healed. It's almost like the flesh grew back like new...\"\nTohsaka mutters quietly to herself as she inspects my arm.",
+      "sourceUnit": "セイバールート十二日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey...!\"\nAs if that weren't enough to leave me beet red...",
+      "sourceUnit": "セイバールート十二日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Your body really is unbelievable. This isn't how normal healing works. Your natural healing is obviously being bolstered by something external, but this...you healed this yourself.\"\nRin lifts my sleeve up, pressing her fingers all along my arm.",
+      "sourceUnit": "セイバールート十二日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"H-hey, stop! That's enough, Tohsaka. Go sit back down if you're done!\"",
+      "sourceUnit": "セイバールート十二日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? I'm examining you, you know! Oh, I get it...\"\nTohsaka leans closer to me.",
+      "sourceUnit": "セイバールート十二日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"You say your fever's gone down, but I'm not so sure. Your face is glowing.\"\n\"Th-that's for me to worry about! It's none of your business, so leave me alone!\"",
+      "sourceUnit": "セイバールート十二日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh really? Then I suppose me doing this won't be a problem, right?\"\n\"Wah! D-don't put your hand on my forehead!\nI don't have a fever, so there's no point to this!\"",
+      "sourceUnit": "セイバールート十二日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"No, apparently not. Even your ears are red now. You don't look like you have a fever. Looks more like you're drunk.\"",
+      "sourceUnit": "セイバールート十二日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "She's doing this on purpose.\nThis is deliberate. I know it.",
+      "sourceUnit": "セイバールート十二日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...you know exactly what you're doing, don't you?\"\n\"You got me. I was just enjoying your reactions. Too funny.\"",
+      "sourceUnit": "セイバールート十二日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nHmph. Anyone who would toy with a man's innocent feelings like that should do their repentance in hell.",
+      "sourceUnit": "セイバールート十二日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'll stop teasing here. If I push it, I might end up having to suffer the consequences.\"\n...That's a problem.\nI feel like Tohsaka's only teasing me harder now.",
+      "sourceUnit": "セイバールート十二日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Might I remind you that this is serious and I'm here to learn from you.\"",
+      "sourceUnit": "セイバールート十二日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, I'm sorry. That's been my intention from the start. I was only checking on my student's health just now.\"\n\"Oh yeah? So, are you going to get to the day's topic, then?\"",
+      "sourceUnit": "セイバールート十二日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, I suppose so. We're stepping outside my specialty here, so I can only offer advice, but it's better than if I didn't say anything at all.\"",
+      "sourceUnit": "セイバールート十二日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"To be honest, that last lesson I gave you was probably the last of the help I can offer.\nYou can't just learn to be a mage in a few lessons.\nAll I did was install a switch inside you that you hadn't learned to use. You know that much at least, right?\"",
+      "sourceUnit": "セイバールート十二日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"You mean that jewel. Yeah, ever since I swallowed it, I've been able to turn my Magic Circuits on and off without creating them from scratch every time.\"",
+      "sourceUnit": "セイバールート十二日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Yep. That's about the only thing I can teach you in such a short time.\nBut even that was just your previous training asserting itself.\nI can only boost the magecraft you've already learned. I'm not going to teach you other forms of magecraft.\nYou just don't have the talent.\"",
+      "sourceUnit": "セイバールート十二日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, you being so blunt about that is enlightening.\nBut you can at least give me some advice about the magecraft that I can use, right? So tell me what kind of magecraft I used last night.\"",
+      "sourceUnit": "セイバールート十二日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...\nTohsaka doesn't answer.\nShe's just glaring at me like I'm her worst enemy.",
+      "sourceUnit": "セイバールート十二日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Um...this is supposed to be lecture, right? I get nervous when you go all quiet like that.\"\n...\nShe looks away, frowning.\nIt's only a brief flicker of her expression, though.",
+      "sourceUnit": "セイバールート十二日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"I can't.\nI can't do Projection magecraft. And I can't teach someone something I don't know how to do.\"\n\"Huh? Something you can't do...?\"",
+      "sourceUnit": "セイバールート十二日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Wasn't what I used against Berserker pretty basic for a mage?\nI just imagined a structure and let magical energy flow into it.\nIt's no different than Strengthening magecraft.\nBut flooding your own magical energy into something that's already formed is difficult.\nIt's like adding what you think is red into an existing mixture of paints to draw out the red hue...only to end up with some completely different color.",
+      "sourceUnit": "セイバールート十二日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "By comparison, it's much easier to work with my own paint from the very beginning.\nI can just draw out whatever I want that way.",
+      "sourceUnit": "セイバールート十二日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean, you can't do it? I'm sure you can do that kind of thing. It's much easier than Strengthening.\"",
+      "sourceUnit": "セイバールート十二日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"You know, if you said that to any other mage, they'd definitely kill you. What you did was called Projection, and you perfectly replicated a Noble Phantasm. I've never heard of anyone doing that before.\"",
+      "sourceUnit": "セイバールート十二日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nA chill runs down my spine.\nIt's not my imagination.\nTohsaka is actually angry.",
+      "sourceUnit": "セイバールート十二日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph. It doesn't matter.\nI had a feeling this was the case when I saw all the junk in your shed. There's no point in being mad about you at this stage.\"",
+      "sourceUnit": "セイバールート十二日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Let me explain, because you're clearly confused: what you did was called Projection magecraft.\nIt's an imperfect magecraft that creates mere images of existing artwork or famed swords using your own magical energy.\nIt's generally used to create temporary objects to be used as stand-ins for rituals. Things you create from images in your mind are understood to be imaginary objects, and so they disappear quickly.\"",
+      "sourceUnit": "セイバールート十二日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI get that they're replicas created from a mental image.\nI saw Saber's sword in my dream, and imagined the golden sword based on it.",
+      "sourceUnit": "セイバールート十二日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't really get it. Magical energy is like clay, right? Reproduction or no, what you make shouldn't disappear once the object takes form, right?\"",
+      "sourceUnit": "セイバールート十二日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not possible! Magical energy can only exist within your body!\nThat's why you pass magical energy through yourself! You need it to interact with nature!\"",
+      "sourceUnit": "セイバールート十二日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Sure, I can knead magical energy like a piece of soft candy to at least make a dagger.\nBut it stops there. It's nothing more than candy in the shape of a dagger. As soon as the magical energy dissipates, the 'dagger' disappears too.\"",
+      "sourceUnit": "セイバールート十二日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen, things made purely from magical energy do not last long. They only briefly take shape.\n...Well, but Projection magecraft creates an object to look and perform like the original...\"",
+      "sourceUnit": "セイバールート十二日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm.\"\nShe's right; magical energy has no shape.\nI can feel it while it's flowing through my body. Once it leaves, it thins out and eventually disappears entirely.",
+      "sourceUnit": "セイバールート十二日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "But then, no matter how many blueprints I make in my mind and form with magical energy...everything will fade because it's all made from magical energy.\nNow that I think about it...\n...when Kiritsugu was teaching me magecraft, I showed him my half-assed attempt at Projection, but he told me to stick to Strengthening because what I was doing instead was inefficient.",
+      "sourceUnit": "セイバールート十二日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. So Projection consumes a lot of magical energy. And there's no point in using it because what you make disappears immediately.\"",
+      "sourceUnit": "セイバールート十二日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly.\nFor example, let's say you use a decent amount of magical energy to create a sword.\nAll that energy you use might get you a sword whose power we'd rate at maybe a three or a four. A human's imagination is unreliable, filled with holes, so it's almost impossible to replicate anything accurately.\nNow let's say you use the same magical energy to Strengthen a sword. That same amount of magical energy can make the sword twenty to thirty times stronger, which means it would last a few hundred times longer than anything you create with Projection.\"",
+      "sourceUnit": "セイバールート十二日目-07:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Got it? Projection magecraft is only used for rituals.\nIts sole use is creating replicas which disappear the moment they're used, and then only as a substitute for tools you can't normally create or get hold of.\nYour father made the right call, teaching you Strengthening.\nYou have only so many Magic Circuits to begin with, so if he taught you something as wasteful as Projection, he'd be no better than an amateur himself.\"",
+      "sourceUnit": "セイバールート十二日目-07:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...\nI got that.\nBut what was that, then?\nThe golden sword I imagined was real for a moment, and it even had the real sword's power...",
+      "sourceUnit": "セイバールート十二日目-07:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh. Was it just a freak accident that I Projected Saber's sword, then?\n...Now that I think about it, the amount of magical energy in that sword was remarkable. Replicating something that ends up with a few hundred times the magical energy I myself have does seem pretty weird.\"",
+      "sourceUnit": "セイバールート十二日目-07:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"That...um...well, you have an affinity for swords. Mages all have connections to something.\nFor you, it's clearly swords.\"",
+      "sourceUnit": "セイバールート十二日目-07:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Connections? You mean elements like fire or water?\"",
+      "sourceUnit": "セイバールート十二日目-07:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"Right. Normally a person takes one of the elements that make up this world. The Mage's Association considers fire to be normal, wind to be noble.\nIt could be earth, water, fire, wind, or ether. Or it could be wood, fire, soil, metal, or water.\nA mage has a connection to one of these, but there are also those with more specific connections.\n...Most of these mages don't see any time in the spotlight. They're considered unusual.\"",
+      "sourceUnit": "セイバールート十二日目-07:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"So in your case, you're connected with swords.\nIt's pretty specific, but that means you could be the authority in swords.\"",
+      "sourceUnit": "セイバールート十二日目-07:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That's probably true.\"\nI've always been fascinated with swords.\nNow I'm curious about Tohsaka's specialty.\nKnowing her, it's probably fire or wind, or something else that'd suit someone like her. But I should probably just ask since I'm curious.",
+      "sourceUnit": "セイバールート十二日目-07:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Tohsaka, I'm curious. What's your specialty?\"\n\"Mine?\nMy connection is with the five elements.\"",
+      "sourceUnit": "セイバールート十二日目-07:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "...\nUm...\nDoes she mean all of them?",
+      "sourceUnit": "セイバールート十二日目-07:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Anyway, that's pretty much that.\nThey say that Projection is about as useful as images on a screen, so try not to use it too much.\"",
+      "sourceUnit": "セイバールート十二日目-07:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Besides, trying to replicate Saber's sword was suicidal. You made it work this time, but I wouldn't have been surprised if you'd just...exploded.\nYou said it yourself. Saber's sword has more magical energy than you ever could. You do realize that creating something like that goes way beyond the limits of your Magic Circuits, right?\"",
+      "sourceUnit": "セイバールート十二日目-07:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I know. But it's not so easy to go beyond your own limits, right? I thought I couldn't go any further anyway, because I was already at my limit to begin with.\"",
+      "sourceUnit": "セイバールート十二日目-07:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, you absolutely can. And death is always lurking right around that corner.\"",
+      "sourceUnit": "セイバールート十二日目-07:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"If magecraft follows a certain form or format, it means any mage can use any magecraft they have knowledge of.\nEven if they're not ever actually able to pull off that miracle, they'll still take a shot.\nMages are only a source of power.\nEven a small engine can reach a high speed if you push the gas hard enough. But it tends to be self-destructive.\"",
+      "sourceUnit": "セイバールート十二日目-07:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Same with mages. If they're willing to accept the risk of destroying themselves, mages can certainly push past their limits.\nDoing so burns Magic Circuits and shreds nerves...but if they keep going, they can reach the miracle they seek.\"",
+      "sourceUnit": "セイバールート十二日目-07:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Your Projection is just that.\nYour body felt feverish after the battle because your nerves were seared. That's the price you pay for magecraft beyond your own means.\nWhat you did could easily have cost you a limb or two.\"",
+      "sourceUnit": "セイバールート十二日目-07:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's voice grows a little louder.\nBut at the same time...",
+      "sourceUnit": "セイバールート十二日目-07:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why you should always keep in mind:\nPracticing magecraft that goes beyond its caster's limits leads only to ruin.\nPromise me you won't Project Saber's sword ever again.\"\nTohsaka is...worried about me. Genuinely.",
+      "sourceUnit": "セイバールート十二日目-07:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "After her warning, Tohsaka prescribes some medicine I'm not familiar with.",
+      "sourceUnit": "セイバールート十二日目-07:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, there's probably no point telling you not to push yourself.\nAt least for our peace of mind, take that painkiller if anything happens. If all goes well, your bruised and discolored skin might heal.\"\nTohsaka explains this as she prepares some kind of green powdery medicine.",
+      "sourceUnit": "セイバールート十二日目-07:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "I drink it with some tea.\nTohsaka rummages through her stuff, and tries to prescribe some other medicine.",
+      "sourceUnit": "セイバールート十二日目-07:page69:1"
+    },
+    "page70": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

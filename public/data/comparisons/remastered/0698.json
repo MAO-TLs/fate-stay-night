@@ -1,0 +1,182 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0698",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "A tepid breeze caresses my cheeks.",
+      "sourceUnit": "桜ルート十六日目-15:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "We come to the end of the passage, which opens into a larger cavern.\nIt's as wide as the school grounds.\nI can't see the ceiling in the murk, but it could be as high as ten meters.",
+      "sourceUnit": "桜ルート十六日目-15:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "There are no signs of life.\nThe forgotten underground wasteland reminds me of the pictures of the moon's surface I saw in books, long ago.\nThere...\nstands Saber, waiting for us.",
+      "sourceUnit": "桜ルート十六日目-15:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "She's the only one in the cave.\nI don't see Sakura, Zouken, or Assassin.\nOnly the darkened swordswoman blocks our path.",
+      "sourceUnit": "桜ルート十六日目-15:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber.\"\n\".........\"\nShe wouldn't have anything to say to me.",
+      "sourceUnit": "桜ルート十六日目-15:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Of course not.\nSaber's only job is to eliminate intruders.\nShe's the gatekeeper and executioner here.\nShe's the strongest Servant protecting Sakura, and she could take us both alone.",
+      "sourceUnit": "桜ルート十六日目-15:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmph. Doesn't look like we'll be able to talk our way through.\"\nTohsaka arms herself with the Jeweled Sword she kept behind her waist, keeping her stance low.",
+      "sourceUnit": "桜ルート十六日目-15:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "She intends to attack from the front.\nI don't know what powers that sword has, but she seems to think it'll work in a clash against Saber.",
+      "sourceUnit": "桜ルート十六日目-15:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "But it won't go well.\nI know Saber, so there are ways to deal with her. We shouldn't reveal our only secret weapon while Zouken and Assassin could still be waiting—",
+      "sourceUnit": "桜ルート十六日目-15:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, wait! Saber is—\"\n\"Rin. I have no reason to fight you. Take care not to point that sword at me. I would be violating Sakura's orders if I killed you here.\"",
+      "sourceUnit": "桜ルート十六日目-15:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...!\"\nSaber's quiet voice is the same as ever. It stops Rin in her tracks.\nTohsaka and I both know what that means.",
+      "sourceUnit": "桜ルート十六日目-15:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...What do you mean? Aren't you the gatekeeper here, Saber?\"\n\"Yes. I will eliminate any who attempt to pass.\nThat was Sakura's order. But...\"\n\"I'm an exception. She wants to see me?\"\nSaber nods wordlessly.",
+      "sourceUnit": "桜ルート十六日目-15:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay. Sakura's serious, then.\"\nShe murmurs briefly.\nAfter a big sigh, Tohsaka walks toward Saber.",
+      "sourceUnit": "桜ルート十六日目-15:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka.\"\n\"Sorry. That's how it is, so I'm going on ahead.\"\nTohsaka boldly walks past Saber.\nJust before she blends into the dark...",
+      "sourceUnit": "桜ルート十六日目-15:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I don't know what will happen to you, but I trust you. Make sure you live up to that.\"",
+      "sourceUnit": "桜ルート十六日目-15:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\n...Hold on.\nI'm not sure what I'm supposed to do with that vague statement, not that my brain is working very well right now.",
+      "sourceUnit": "桜ルート十六日目-15:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I'm saying that I don't want you to complain when you show up after everything's over! ...If you want to save Sakura, then don't take too long.\"\nTohsaka's long hair whips through the air, and she disappears into the depths of the cave without looking back.",
+      "sourceUnit": "桜ルート十六日目-15:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Thanks, Tohsaka.\nThat boosted my spirits.\nIn other words, telling me to come before she settles the score with Sakura was her roundabout way of cheering me on.",
+      "sourceUnit": "桜ルート十六日目-15:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That is impossible. You will die here, Shirou.\"\n\"...!\"",
+      "sourceUnit": "桜ルート十六日目-15:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "Saber's bloodlust swells.\nTohsaka's gone, leaving only me.\nI suppose that in this situation, Saber doesn't need to hide her hostility anymore.",
+      "sourceUnit": "桜ルート十六日目-15:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Did I hear you correctly? You said that you would only kill those who attempt to pass. If he stays here, you should not attack him.\"",
+      "sourceUnit": "桜ルート十六日目-15:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"If he stays there, yes.\nBut he will try to pass. He knows he cannot beat me, but he still needs to go.\nAm I wrong, Rider?\"\n\"No, you did serve him once, Saber.\nYou must be quite familiar with his character.\"",
+      "sourceUnit": "桜ルート十六日目-15:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "...Saber narrows her eyes.\nShe holds a black-dyed sacred sword in her hands.\nShe's coming.\nMe or Rider.\nIf either of us take so much as a step forward, Saber will rush in to cut us down with a single blow.",
+      "sourceUnit": "桜ルート十六日目-15:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...You won't let us pass, no matter what, Saber?\"\n\"Enough! I told you that this is my role now.\"\nI grasp the holy shroud covering my left arm.\n...Saber doesn't show a hint of doubt.\nWe're enemies now.\nThat's the undeniable truth that I saw for myself in the forest that night.",
+      "sourceUnit": "桜ルート十六日目-15:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "And I answer...\n\"...I see. Then we'll destroy you.\"\nI have to accept it.",
+      "sourceUnit": "桜ルート十六日目-15:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "...\n\"I'm going to save Sakura. You're in the way.\"\nSaber isn't my only enemy.\nI still need to deal with Assassin and Zouken, who's responsible for all of this.\nI can't let this take up any more of our time.",
+      "sourceUnit": "桜ルート十六日目-15:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, get behind me. I will engage Saber, as planned.\"\nRider pushes me behind her while removing her blindfold.",
+      "sourceUnit": "桜ルート十六日目-15:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Saber raises her sword.\nThe tip of her sword is already keenly focused on Rider.",
+      "sourceUnit": "桜ルート十六日目-15:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be ridiculous. I said we'd take her together. Rider, you can't...\"\n\"I cannot defeat her, but I can suppress her. Fortunately, Saber has no attribute that protects against Mystic Eyes.\nI cannot petrify her because her magical energy exceeds mine, but I can weigh her down. I should be able to hold out against her for two minutes at maximum effort.\"",
+      "sourceUnit": "桜ルート十六日目-15:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "Rider's eyes focus on Saber.\nThey can turn everything they see to stone, and they can weaken Saber temporarily.",
+      "sourceUnit": "桜ルート十六日目-15:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"I will create an opportunity. Stay still and make sure you don't miss it.\"\n\"Rider...\"\n\"I am off. My life is in your hands, Shirou.\"",
+      "sourceUnit": "桜ルート十六日目-15:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Rider vanishes.\nShe charges the dark knight at extreme speed, raising a gust of wind.",
+      "sourceUnit": "桜ルート十六日目-15:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "Human eyesight can't even perceive Rider's godlike speed.\nSaber casually knocks her back.",
+      "sourceUnit": "桜ルート十六日目-15:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Very well. I'll erase you first, Rider.\"\nAn enormous pressure suffuses the cave.\nThe black swordsman smiles coldly, and calmly begins to move.",
+      "sourceUnit": "桜ルート十六日目-15:page33:1",
+      "recoveredDelimitedTail": true
+    },
+    "page34": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

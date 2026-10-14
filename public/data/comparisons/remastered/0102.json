@@ -1,0 +1,116 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0102",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Before she became a Servant.\nI wonder what Saber was like when she was alive.",
+      "sourceUnit": "セイバールート七日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "Saber is so beautiful, so I'm sure everyone must have liked her.\nCalling her Saber is what's throwing me off, but I bet she was an ordinary girl who never held a sword back in the day.",
+      "sourceUnit": "セイバールート七日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"So...Saber. What were you like before?\"\nI'm so curious, I just blurt out what's on my mind without thinking...or even realizing I'm doing it.",
+      "sourceUnit": "セイバールート七日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Come again? Did you say something, Shirou?\"\n\"Eh? It's nothing. I was just imagining what you were like. I'm not trying to find out your True Name or anything, but I just wanted to know what your life was like.\"",
+      "sourceUnit": "セイバールート七日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What kind of person I was...?\nYou are interested in the strangest things, Shirou.\"",
+      "sourceUnit": "セイバールート七日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"You can just ignore the question if you don't want to answer. It just kind of popped into my head.\nI know you're Saber, a Servant, but I just thought you must have been a completely different person before you became a Servant.\"",
+      "sourceUnit": "セイバールート七日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nI imagine she lived a peaceful life, as befits a lovely girl like her.",
+      "sourceUnit": "セイバールート七日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...I do not think that is true.\nOne's personality does not change just because they become a Servant. I was a knight who was handed a sword the moment I was born. There was never any other me...as you might have imagined.\"",
+      "sourceUnit": "セイバールート七日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Seriously? Then you've always been so harsh?\nThat's no good. I kinda sympathize with the people who were around you.\"",
+      "sourceUnit": "セイバールート七日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you mean by that?\nI may be stern, but I do not recall being harsh to those around me.\"",
+      "sourceUnit": "セイバールート七日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"That can't be true. Today's training taught me you're merciless.\nLook at this welt. I make one tiny mistake, and you happily drive in at every opportunity, you demon.\"",
+      "sourceUnit": "セイバールート七日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"I-I did not do it happily!\nI-it may be tough on you, but it would not be training if I were not strict!\"",
+      "sourceUnit": "セイバールート七日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "...\nThis is strange.\nI somehow never expected Saber to make a face like that.",
+      "sourceUnit": "セイバールート七日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what is that look? I believe it is unfair for you to suddenly fall silent.\"",
+      "sourceUnit": "セイバールート七日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, uh...I never thought you would get mad like that, so you just kind of surprised me.\"",
+      "sourceUnit": "セイバールート七日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"I-is that so? I thought I was only asserting my point.\"\n\"Yeah, but you're not usually so emotional, so that was new to me.\"",
+      "sourceUnit": "セイバールート七日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"D-do you really think so? I was simply expressing what I believe.\"\n\"But those aren't your feelings, they're your beliefs.\nThat's not what I'm talking about. I'm saying that you never speak straight from the heart.\"",
+      "sourceUnit": "セイバールート七日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course not. What is required from me is not my own personal opinion, but rather my opinion based on my standing and position. That is true even now.\nI am a Servant, a Saber, and I will protect Shirou.\nThere is no point in my saying anything unconnected with my purpose.\nAnd there is no sense in me thinking otherwise.\"",
+      "sourceUnit": "セイバールート七日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"That may be true, but that would be boring for you.\nYou might have a role to fill, but that doesn't mean you have to devote yourself to that and nothing else. There are things you want to do too, right?\"",
+      "sourceUnit": "セイバールート七日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"As I said, my job is to protect you. You are inexperienced as a Master to begin with, and so I am attempting to train you because you stubbornly insist you wish to fight in spite of my warnings!\"",
+      "sourceUnit": "セイバールート七日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, that may not be entirely true, but...well, if you say so, then I guess it's okay.\"\nI feel like this conversation has softened Saber up a bit. She even looks more cheerful now. So as not to ruin the moment, I decide not to press the matter.",
+      "sourceUnit": "セイバールート七日目-05:page20:1"
+    },
+    "page21": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

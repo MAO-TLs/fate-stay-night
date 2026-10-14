@@ -1,0 +1,16 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0025",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Classes end, and it's time to go home.\nI can't wander around because I have work today.\nI shouldn't do anything at school. I should head straight to the neighboring town, but...",
+      "sourceUnit": "セイバールート二日目-16:page0:1"
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0059",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Winter, five years ago.",
+      "sourceUnit": "セイバールート四日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It was a beautiful, moonlit night.\nI was just enjoying the sight with my father, Kiritsugu Emiya.\nIt was winter, but it wasn't very cold.\nOn the veranda it was just a little chilly, the perfect weather to watch the moon.",
+      "sourceUnit": "セイバールート四日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "Kiritsugu didn't go outside much anymore.\nHe rarely went out, and he spent most of his time lounging around the house.\n...Every time I recall this, I still feel regret.\nWhy didn't I realize that he was acting the way any creature does when they know their time is almost up?",
+      "sourceUnit": "セイバールート四日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"When I was a boy, I wanted to be a champion of justice.\"\nHe blurted it out, just out of nowhere.\nMy father, who already seemed like a champion of justice in my eyes, said that as if he were reflecting on a memory.",
+      "sourceUnit": "セイバールート四日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"What, you wanted to? So you gave up on it?\"\nI asked, unable to completely hide my disappointment.\nKiritsugu smiled apologetically, and looked up at the distant moon.",
+      "sourceUnit": "セイバールート四日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Unfortunately, yes. You can only be a hero for so long. It gets harder to call yourself one as you grow up. I wish I'd found that out earlier.\"\nThat made sense to me.\nI wasn't sure why, but if Kiritsugu said it, then it had to be true.",
+      "sourceUnit": "セイバールート四日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Well, that's too bad.\"\n\"Yes. It really is too bad.\"\nKiritsugu nodded in agreement.\nSo I just kind of blurted something out, as if it were a natural thing to say.",
+      "sourceUnit": "セイバールート四日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay. If you can't do it, then I'll do it for you.\nYou can't do anything because you're an adult, but I can. You can leave your dream to me.\"",
+      "sourceUnit": "セイバールート四日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "Because I'll make it a reality.",
+      "sourceUnit": "セイバールート四日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "The bold promise made my father smile.\nHis face said everything I needed to know.\nKiritsugu made a long, contented sigh, and whispered,\n\"Ah...that's a relief.\"\nThere, he closed his eyes, and so too his life came to a close.",
+      "sourceUnit": "セイバールート四日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "He looked so peaceful, like he was just going to wake up in the morning, so I didn't think much about it.\nMaybe it was because by then I was used to seeing death.\nOn a winter night, the man I called my father looked up at the moon and entered a long sleep.",
+      "sourceUnit": "セイバールート四日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "The yard was dead silent...not so much as a single chirp from an insect.\nI still remember how fiercely my eyes blazed on that bright, clear night.\nI didn't cry aloud, nor did I feel sad.\nBut tears flowed down my cheek until the moon sank past the horizon.",
+      "sourceUnit": "セイバールート四日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "This happened in the winter, five years ago.\nI probably cried ten years' worth of tears in that time, so after that, there was nothing left.",
+      "sourceUnit": "セイバールート四日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee's dad took care of the funeral arrangements, and that's how I ended up living in the Emiya mansion all alone.\nKiritsugu's passing didn't change anything for me.\nI was set on becoming a man who champions justice and does what's right, just like my father, so I didn't have time to sit around.",
+      "sourceUnit": "セイバールート四日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "That's right.\nI never talk about this, but I still remember it.\nTen years ago, a man saved me from a fire.\nHe picked up a burned, dying child and carried him out of hell, weeping with joy.",
+      "sourceUnit": "セイバールート四日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I've admired him ever since.\nNobody saved me.\nI couldn't save anyone.\nIn the ruins of the fire, there was only a boy who was saved, and the man who saved him.\nThat's why I aspired to be like him.",
+      "sourceUnit": "セイバールート四日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "I wanted to become a hero of justice that saves people and doesn't let anyone die.\nThat's who he wanted to be, and he passed his wish on to me before quietly letting the curtain fall.",
+      "sourceUnit": "セイバールート四日目-00:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "It's only natural for a child to follow in their father's footsteps.\nShirou Emiya must become a hero of justice and save someone the same way that he was once saved.\nI swore to myself I would do it.\nI vowed to fulfill the dream of the man I most admired.",
+      "sourceUnit": "セイバールート四日目-00:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...But honestly, I didn't know how.\nWhat did Kiritsugu mean by doing the right thing and championing justice? How can I grow up faster? Is there some magical way to make Kiritsugu's dream of 'making everyone happy' come true? Seriously, what am I supposed do when I become a Master and I can't get the blonde girl with me out of my head—",
+      "sourceUnit": "セイバールート四日目-00:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...rgh.\"\nI wake up in my room.\n\"...Ugh...something tastes...terrible...\"\nThe steely tang of blood clouds my mouth.\nIt pooled in my mouth while I slept, and every time I breathed, heavy, metallic air filled my lungs.",
+      "sourceUnit": "セイバールート四日目-00:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "...\nI'm not sure why I feel this way.\nA violent urge to vomit makes me want to go wash my face in the restroom.",
+      "sourceUnit": "セイバールート四日目-00:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay.\"\nI lift myself out of bed.\nDizziness sets my head spinning.\nFeeling uneasy on my feet, I plant a hand on the wall.\n\"...Ugh.\"\nI try to move, but it only makes the nausea worse.\n...No, it's more pain than nausea.",
+      "sourceUnit": "セイバールート四日目-00:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "My body feels sluggish, and my insides seem to churn whenever I move. I imagine this is about what it'd feel like if someone forced hot lead down my throat.\n\"Ugh...imagining that is making me feel like I'm going to run a fever.\"\nI wipe the sweat from my forehead, and hobble out my room, leaning against the wall.",
+      "sourceUnit": "セイバールート四日目-00:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, I feel a little better.\"\nI wash my face and dry off my sweat-drenched body.\n\"...Huh?\"\nFor some reason, my abdomen is wrapped in bandages.\nI have no idea why, but I'll deal with it later.",
+      "sourceUnit": "セイバールート四日目-00:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm hungry. Did I leave any extra food in the fridge...?\"\nMy stomach still feels like it's churning, but my body needs nourishment.",
+      "sourceUnit": "セイバールート四日目-00:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Kngh...\"\nI suck up the discomfort and keep walking, braced against the wall.\nThe dizziness won't go away, and worst of all, my whole body feels dull.\n\"Ow! Ow, ow...\"\nI keep moving forward, making pathetic noises along the way.\nWhat the hell did I do before I went to bed last night?\nI don't remember training strenuously enough to make my entire body ache.",
+      "sourceUnit": "セイバールート四日目-00:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "I reach the living room.\nSakura and Fuji-nee must be at school.\nThere's no signs of breakfast, nor do I see any remnants of Fuji-nee wrecking the place.\nThe living room's quiet, like a typical Sunday—\n\"Morning. Sorry I came in without asking, Emiya.\"\n...or not.",
+      "sourceUnit": "セイバールート四日目-00:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha... Eh!?\"\nRin Tohsaka is sitting on the floor by the table in the living room.\nShe's so calm, like she owns the place. So much so that I feel like the guest here.",
+      "sourceUnit": "セイバールート四日目-00:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI have no idea what to say, so I plop down on a cushion.\nAnd then I take a deep breath.",
+      "sourceUnit": "セイバールート四日目-00:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, why're you—\"\n\"Stop. Shouldn't you apologize to me first? I can't move on from last night until you say sorry for what you did.\"\n...I can't even finish asking why she's in my house.",
+      "sourceUnit": "セイバールート四日目-00:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka's glare is all I need to know how angry she is.\nShe seems upset about something that happened last night, but what exactly...",
+      "sourceUnit": "セイバールート四日目-00:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Wait.\"\nI remember now.\nRight, this isn't the time for me to be leisurely breathing in the morning air.\nI tried to help Saber, and... Berserker gutted me like a fish.",
+      "sourceUnit": "セイバールート四日目-00:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...\"\nThe nausea returns.\nA chill grips my entire body as I remember the feeling of having a gaping hole in my body.",
+      "sourceUnit": "セイバールート四日目-00:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "Wait, that's weird.\nI should've died instantly.",
+      "sourceUnit": "セイバールート四日目-00:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"That's weird. Why am I still here?\"\n\"Do you remember now? You did something damned stupid last night. I hope you regret it.\"",
+      "sourceUnit": "セイバールート四日目-00:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka huffs critically.\nThat kinda ticks me off.\nMy brain, frozen since seeing Tohsaka in my living room, finally grinds into action.",
+      "sourceUnit": "セイバールート四日目-00:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you talking about? I had no choice. Well, sure...it might seem like an idiotic move if you just look at the results...and I definitely meant for it to go better than it did...\nSo I wouldn't say it was a mistake.\"\nI return her glare, insisting that I'm not an idiot.",
+      "sourceUnit": "セイバールート四日目-00:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh.\"\nWh-what?\nWhy is she making such a show of sighing at me?",
+      "sourceUnit": "セイバールート四日目-00:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"If the Master dies, the Servant disappears too, remember? I can't believe you actually tried to shield your own Servant.\"",
+      "sourceUnit": "セイバールート四日目-00:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Listen. If you die, then Saber is gone, too. If you wanted to save Saber, you should have thought of another way to do it from a safe distance.\n...Honestly, do you realize how pointless it is to risk your own life for your Servant's?\"",
+      "sourceUnit": "セイバールート四日目-00:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"I wasn't shielding her. I was just trying to get her out of there. I didn't think that would happen to me.\"\nI knew I might die if I got near a monster like that, but that's beside the point.",
+      "sourceUnit": "セイバールート四日目-00:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. Then you had the wrong idea.\"\nTohsaka only looks more irritated, like she knows exactly what I'm thinking.",
+      "sourceUnit": "セイバールート四日目-00:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"I'll be straight with you, Emiya. I didn't take you to the church so that you could win.\nI was just trying to give you a chance to survive because you literally don't know anything. It sounds like you still don't get it.\"",
+      "sourceUnit": "セイバールート四日目-00:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"A chance to survive?\"\n\"Yeah. I figured you wouldn't take risks or really do much if you knew defeat meant death. But it looks like you're the kind of person to walk out at night even in a situation like this.\nI thought that if I scared you straight, you wouldn't throw your own life away for someone else, and if you're lucky, you'd make it until the end.\"",
+      "sourceUnit": "セイバールート四日目-00:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. That didn't cross my mind.\"",
+      "sourceUnit": "セイバールート四日目-00:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"But why are you upset? What does me dying have to do with you?\"",
+      "sourceUnit": "セイバールート四日目-00:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"It has everything to do with me, because you made me worry all night long!\"",
+      "sourceUnit": "セイバールート四日目-00:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka is practically throwing a tantrum.\n...But, okay.\nIt actually feels good to have someone worry about me.\nFrom her tone, it sounds like Tohsaka was the one who took care of me.",
+      "sourceUnit": "セイバールート四日目-00:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that so? Guess I owe you one, Tohsaka. Thanks.\"\nI bow my head in appreciation and apology.\n...",
+      "sourceUnit": "セイバールート四日目-00:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmph! As long as you understand. If you've learned your lesson, then use your head next time.\"",
+      "sourceUnit": "セイバールート四日目-00:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka quickly turns away.\nShe might still be edgy, but I feel like she's in a better mood.",
+      "sourceUnit": "セイバールート四日目-00:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"Then we're done with what happened last night.\nLet's get down to it, then. Do you want to talk business, or talk about yesterday?\"",
+      "sourceUnit": "セイバールート四日目-00:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nTohsaka prompts me matter-of-factly.\nHer straightforwardness takes me off guard, but now that I think about it, she must be here only because she has something to discuss.",
+      "sourceUnit": "セイバールート四日目-00:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "If she hadn't had something to discuss, she'd have gone home already.\nTohsaka's my enemy, so what could she have to talk about that would prompt her to stay in enemy territory?",
+      "sourceUnit": "セイバールート四日目-00:page53:1"
+    },
+    "page54": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

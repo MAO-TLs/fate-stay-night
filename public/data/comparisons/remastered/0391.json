@@ -1,0 +1,306 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0391",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "The sun sets.\nWe return to the hall by the time the gray sky is tinted a crimson color.",
+      "sourceUnit": "凛ルート十三日目-05:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...The girl's corpse is not on the mountain of rubble.\nTohsaka and I just buried her in the courtyard.\nPerhaps because that's what always happens to Servants, the black giant's remains had weathered into sand. But even if it was just sand, we still buried it in the same coffin as the girl.",
+      "sourceUnit": "凛ルート十三日目-05:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Well. Do you have any ideas on what to do now?\"\n\"...I'm thinking. The situation got worse again. I have to sort things out a bit.\"",
+      "sourceUnit": "凛ルート十三日目-05:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah...our strongest enemies, Illyasviel and Berserker, are gone, but some weird guy appeared instead.\nThere should only be seven Servants summoned, but he makes eight, right? ...He doesn't look like a Servant that exists, but I wonder how Shinji made a contract with such a guy.\"",
+      "sourceUnit": "凛ルート十三日目-05:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...The eighth Servant, huh?\nI don't think that man who Shinji brought along can be treated as a Servant.\nA Heroic Spirit that absolutely dominates other Heroic Spirits.\nHe has a seemingly endless supply of Noble Phantasms and is a demon without any human emotion.",
+      "sourceUnit": "凛ルート十三日目-05:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Gilgamesh. He's the hero who appears in ancient Mesopotamian myths, right?\"",
+      "sourceUnit": "凛ルート十三日目-05:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. The half-god and half-human hero. The king of Uruk and seeker of immortality. He is said to have been a tyrant who ruled everything in this world, but I didn't think he was that crazy.\"",
+      "sourceUnit": "凛ルート十三日目-05:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...He defeated Berserker easily, so he might even be stronger than Saber even with her full powers unleashed.\"\nTohsaka's voice doesn't sound sharp.\nIt doesn't seem like it's because the new enemy that appeared is tough.",
+      "sourceUnit": "凛ルート十三日目-05:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mm? What's wrong, Tohsaka? You seem like you want to say something.\"",
+      "sourceUnit": "凛ルート十三日目-05:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh... Yeah, kinda. He was strong. He has that many Noble Phantasms, so his power is first-class, right?\nBut, I was wondering how it actually is. I don't feel that much of a difference between him and Berserker.\"",
+      "sourceUnit": "凛ルート十三日目-05:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "She ponders.\n...Wait.\nDoes Tohsaka not realize how strong he is?",
+      "sourceUnit": "凛ルート十三日目-05:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"No, he himself is about as strong as Saber or Berserker, if not weaker.\nFirst of all, the strength of Heroic Spirits depend on how famous they are in their territory, right? There aren't that many people here that know about Gilgamesh.\"",
+      "sourceUnit": "凛ルート十三日目-05:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's true, but the change in ability based on popularity is not that big.\nIt seemed to me like that Goldy is breaking the rules.\"",
+      "sourceUnit": "凛ルート十三日目-05:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nTohsaka is calling him by a strange nickname.\nWell, that aside...",
+      "sourceUnit": "凛ルート十三日目-05:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"He did. All the Noble Phantasms he had were real... No, they must be the original weapons that the Noble Phantasms are based on.\nGilgamesh is the hero of the oldest myth and a king who indulged in every possible luxury. If that's the case, it's no wonder he possesses all the originals that are the basis of myths from every land.\"",
+      "sourceUnit": "凛ルート十三日目-05:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh... Then what, were the Noble Phantasms that he used not Noble Phantasms, but just weapons...?\"",
+      "sourceUnit": "凛ルート十三日目-05:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"I'd assume so. His Noble Phantasm itself is most likely his warehouse.\nHis warehouse where he kept all the treasures he collected when he was alive is his Noble Phantasm.\"",
+      "sourceUnit": "凛ルート十三日目-05:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Then it's natural that Berserker couldn't beat him. Heroic Spirits each have their weak point. If he has the originals of all the Noble Phantasms, then he can just bring out the one that is his opponent's weak point.\"",
+      "sourceUnit": "凛ルート十三日目-05:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nIf there is a chance of victory, it would be that he has not fully mastered each weapon yet.\nIf he is not a bearer that can master his own weapon to its fullest potential, like Saber or Lancer, then I feel like there's still a way to win.\nWell, that aside...",
+      "sourceUnit": "凛ルート十三日目-05:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey, Tohsaka. This has nothing to do with anything, but why is he a Goldy?\"\n\"Huh...!? Oh, well, you know, he had golden hair.\"",
+      "sourceUnit": "凛ルート十三日目-05:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"What are you saying? Then you would have called Saber that too. Goldy. It sounded like you said it with a lot of meaning behind it. I think you said it because you noticed something else, right?\"\n\"Huh...\"",
+      "sourceUnit": "凛ルート十三日目-05:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't hide it now. You noticed something right, Tohsaka?\"\n\"Y-you're wrong. It's nothing serious like what you noticed, so don't pry so much!\"",
+      "sourceUnit": "凛ルート十三日目-05:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, right. You wouldn't call him a Goldy for nothing. Come on, spit it out, Tohsaka. I want as much information as possible right now.\"\n\"Agh... Oof.\"\nI stare at Tohsaka.\nAfter a few seconds...\nTohsaka must've given up, as she lets out a big sigh.",
+      "sourceUnit": "凛ルート十三日目-05:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Well, that is... He had a lot of things that were expensive, right? So I thought he was really rich.\n...That's why I called him a Goldy. That Goldy looks like he's living a luxurious life, right?\"",
+      "sourceUnit": "凛ルート十三日目-05:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka scratches her cheek as she looks off into the distance, laughing uncomfortably.\n...How scary.\nIt seems like anyone rich is considered a Goldy to Tohsaka.\nAnd what's more scary is that Tohsaka was able to tell that Servant's true nature just because he \"seemed rich.\"",
+      "sourceUnit": "凛ルート十三日目-05:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...Anyways, that's another troublesome guy. It's already bad that there's an eighth Servant, but he himself is the joker.\n...Even if we wanted to question Kirei as the supervisor, he's missing.\nWell, Caster is more important right now, so we'll have to put it off till later.\"",
+      "sourceUnit": "凛ルート十三日目-05:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "...That's right.\nCaster is storing more power as we speak.\nSaber, who is resisting Caster's control, won't be able to defy any longer.\nNo.\nIn the worst case, there's a possibility that even Saber is on the enemy's side now.",
+      "sourceUnit": "凛ルート十三日目-05:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah.\nWe couldn't get Illyasviel's help, but that doesn't mean we can let her be. At this point, we should think of a way to defeat Caster with just the two of us.\"\n\"...Yeah. I don't have any ideas, but that's all we can do.\"",
+      "sourceUnit": "凛ルート十三日目-05:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka sighs and sits down on the rubble.\n\"...Man. I didn't think we'd be having a strategy meeting in a castle.\"\nI follow Tohsaka's lead and sit down.",
+      "sourceUnit": "凛ルート十三日目-05:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "...Well, we'll be able to stay warm here at night.\nWe might even be able to find the magic items Illyasviel had.",
+      "sourceUnit": "凛ルート十三日目-05:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "And the moment that we let our guard down...\n\"Don't do it. You're going to defeat them just by yourselves?\nThat's impossible, you fools.\"\nA fed up voice echoes from the front entrance.",
+      "sourceUnit": "凛ルート十三日目-05:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Guh!?\"\nWe jump to our feet right away and face the front.",
+      "sourceUnit": "凛ルート十三日目-05:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Since that night, huh? It's great to see you both hanging in there.\"\n\"L-Lancer...!?\"",
+      "sourceUnit": "凛ルート十三日目-05:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "I quickly concentrate and connect my Magic Circuit.\nThe man that appeared is definitely Lancer.\n...He speared my heart that night ten days ago.\nI can't let that happen again.\nI need to at least let Tohsaka escape before he swings that spear...!",
+      "sourceUnit": "凛ルート十三日目-05:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, get away...! I'll distract him, so you run to the second floor...!\"\n\"Tohsaka, run...! I'll hold him back, so you run outside...!\"",
+      "sourceUnit": "凛ルート十三日目-05:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on.\nIt seems like you weren't listening at all when I told you to value yourself.\"\nShe lowers her left hand that she had pointed at Lancer and points it at me.\nBut, even if she threatens me like that, I also have complaints.",
+      "sourceUnit": "凛ルート十三日目-05:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't be ridiculous. I refused, saying that I won't listen to your warnings. It's my role to do fist fights. This is my second time fighting him, so I'm more suited for it than you.\"\n\"Yeah, right! He's a foot soldier. How can I, the ranged attacker, run away from an enemy without ranged weapons!?\"",
+      "sourceUnit": "凛ルート十三日目-05:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why! Can't you tell that it's over if he gets close to you!? It's fine, just back me up from a distance!\"",
+      "sourceUnit": "凛ルート十三日目-05:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"You idiot, I can't back you up! Unfortunately, I don't know any magecraft that's precise. It's obvious I'm going to blow you away along with him!\"",
+      "sourceUnit": "凛ルート十三日目-05:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...! Don't come out with that destructive trait of yours!\nFirst of all, why do you always try to be so flashy!? Try doing something modest for a change. You really can't brush off what Caster said when she said she didn't need you.\"\n\"What...!?\"",
+      "sourceUnit": "凛ルート十三日目-05:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...And we argue for a few minutes trying to push each other away.\nJust about when we start to wonder how this started and start to get tired...\nWe notice Lancer observing us with a smile at the entrance of the castle.",
+      "sourceUnit": "凛ルート十三日目-05:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh, are you done already? I'm in no hurry, so go ahead and finish. You should let out all your complaints.\"\n...\n...\nI cough in regret and glare at Lancer.\nI take a half step forward, and Tohsaka is slightly behind me.\n...Geez, there wouldn't have been a problem had we been like this from the start.",
+      "sourceUnit": "凛ルート十三日目-05:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, hold on. I'm sorry to say this after you've reached an agreement, but I'm not here to fight. I just couldn't ignore you guys. I came to butt in so that I can help you guys out a bit.\"",
+      "sourceUnit": "凛ルート十三日目-05:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh...at?\"\nHold on.\nWhat did he just say...!?",
+      "sourceUnit": "凛ルート十三日目-05:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...Did I mishear you? It sounded like you just said you'd help out.\"",
+      "sourceUnit": "凛ルート十三日目-05:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, was it hard to understand? Then I guess I'll rephrase it. You two are no match for Caster. Since you guys can't beat her, I'm saying I'll give you a hand.\"\n...\nMy eyes widen.\nBut Tohsaka quickly grasps the situation.",
+      "sourceUnit": "凛ルート十三日目-05:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. You really are butting in, Lancer. But let me ask you, is that really your idea?\"",
+      "sourceUnit": "凛ルート十三日目-05:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"No, it's my Master's order. He wants someone to cooperate with against Caster since he's alone. Well, we're just making an alliance until we defeat them.\"",
+      "sourceUnit": "凛ルート十三日目-05:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"That's a decent reason. But if that's the case, there's a more reliable guy than us.\"",
+      "sourceUnit": "凛ルート十三日目-05:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "...Is she talking about Shinji and Gilgamesh?\nTohsaka seems to be trying to find out whether Lancer knows about Shinji...",
+      "sourceUnit": "凛ルート十三日目-05:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"No, that won't do. I don't want to ally with them.\nI have no complaints about his power, but it's bothersome having to constantly worry about my back.\"\n\"...Heh. That's the correct choice, Lancer. But, is that also your Master's order?\"",
+      "sourceUnit": "凛ルート十三日目-05:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"That's wrong as well. I chose you guys out of my interest. It's easier to reach a conclusion when we're acquaintances, right?\"\nHe says casually.\nIt seems like fighting Archer and stabbing me in the heart are the same as becoming acquaintances in his mind.",
+      "sourceUnit": "凛ルート十三日目-05:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on, Lancer. I was almost killed by you twice. Yet, you think that I'm going to trust your words?\"",
+      "sourceUnit": "凛ルート十三日目-05:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"I do. Your commander-in-chief is a good frank woman. Such a good woman is helping you out, so you must be a curious good-natured person too, right?\"",
+      "sourceUnit": "凛ルート十三日目-05:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh...\"\nI frown unintentionally.\n...I'm troubled that Tohsaka, who's supposed to be my ally, is nodding at Lancer's words.",
+      "sourceUnit": "凛ルート十三日目-05:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"So that's it. That's why I thought we could cooperate.\n...Oh, let me tell you, but it's not you guys. I'm the one who thought that you guys can cooperate with me.\"\n\"...?\"\nI honestly can't tell the difference in the way he reworded it.",
+      "sourceUnit": "凛ルート十三日目-05:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's some confidence you have. You brought on the proposal, yet you're going to choose?\"\n\"Yeah. I liked you from the first time I saw you.\nYou're beautiful, stubborn, and brave. If I'm to have a female Master, I want one like you.\"",
+      "sourceUnit": "凛ルート十三日目-05:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "Lancer looks at Tohsaka with cool eyes.\n\"...Humph.\"\n...I don't like him for some reason.",
+      "sourceUnit": "凛ルート十三日目-05:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"...Fine. I'm up for it. But it's not decided yet.\nIf Emiya can't trust you, then we'll have to break off negotiations.\"\n\"You heard her. What will you do, kid? Your character is being tested.\"\nLancer looks at me, trying to suppress his laughter.",
+      "sourceUnit": "凛ルート十三日目-05:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "...\nMy answer is...",
+      "sourceUnit": "凛ルート十三日目-05:page59:1"
+    }
+  }
+}

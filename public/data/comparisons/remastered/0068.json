@@ -1,0 +1,47 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0068",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I should ask about those clothes she's wearing.",
+      "sourceUnit": "セイバールート四日目-09:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Saber, I want to ask you something.\"\n\"Yes, what is it?\"\n\"Where did you get those clothes? You look completely different than yesterday, so you kinda caught me off guard.\"\nActually, I'm still bewildered.",
+      "sourceUnit": "セイバールート四日目-09:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Rin provided them for me. She thought it would be best that I avoid attracting attention, as I am unable to return to spirit form.\"\n\"I see. I had no idea.\"",
+      "sourceUnit": "セイバールート四日目-09:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What about them?\"\n\"Uh, nothing... Don't worry about it.\"\nI want to tell her they look good on her, but I manage to stop myself.\nIf I said something like that, I'd probably go beet red.",
+      "sourceUnit": "セイバールート四日目-09:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou?\"\n\"Uh...I...well, yeah...you know...um...yesterday's armor!\nYeah...! I was just wondering what happened to your armor!\"",
+      "sourceUnit": "セイバールート四日目-09:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"There is no need to worry about that. There are no rules for wearing armor, so I have it off while I am wearing these clothes.\nThat armor is created from my magical energy. I can call for it as needed.\"",
+      "sourceUnit": "セイバールート四日目-09:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "...\nI can only respond with amazement.\n...Anyway, there's no doubt she'd draw a lot of attention going around in that armor.\nBut with Saber wearing something like that, I can probably make up some story to the neighbors that she's a distant relative of my old man or something.\n...Well actually, I have to do that anyway.",
+      "sourceUnit": "セイバールート四日目-09:page6:1",
+      "recoveredDelimitedTail": true
+    },
+    "page7": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

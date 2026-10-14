@@ -1,0 +1,316 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0276",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I'll go get us some tea. Do you want sugar or milk?\"\n\"Uh...well, neither for me... Can you tell me one thing before that, Tohsaka?\"",
+      "sourceUnit": "凛ルート五日目-22:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Mm? What is it?\"\n\"What you were saying earlier. About how there's one other Master and that they're up to something.\"",
+      "sourceUnit": "凛ルート五日目-22:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh, that? Oh yeah, you wouldn't be able to notice the Bounded Field, huh? ...To put it simply, there's one other Master at school, other than you and I, who's been doing things like we just saw.\"",
+      "sourceUnit": "凛ルート五日目-22:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...\n...The image of the collapsed female student appears in my mind.\nShe was pale, and she would've died if Tohsaka didn't run over to her.",
+      "sourceUnit": "凛ルート五日目-22:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...So Masters don't only go after other Masters, huh?\nThat priest said so, but why would they do such a thing?\"",
+      "sourceUnit": "凛ルート五日目-22:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"To win the Holy Grail War, of course. The more Servants eat human spirits, the more magical energy they can store.\nThat Master's aim is to try to use all the students as sacrifices and make their Servant stronger.\"",
+      "sourceUnit": "凛ルート五日目-22:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—Using the students as sacrifices... Are they insane!?\"\n\"Who knows? But there's already a Bounded Field set up around school.\nIt's not complete, but once it's activated, everyone inside will weaken and die. Although I'm not going to let that happen.\"",
+      "sourceUnit": "凛ルート五日目-22:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka explains in a straightforward manner.\n...This must be something she's known for days.\nThat's why she knew what she had to do and went to school, even though she told me not to.\nShe knew it's dangerous to be there, but she still went to stop the Master who set up the Bounded Field.",
+      "sourceUnit": "凛ルート五日目-22:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n\"Hm?\"",
+      "sourceUnit": "凛ルート五日目-22:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...I'm ashamed of myself.\nIt's only natural that Tohsaka got irritated seeing me come to school without any thought.\nI wasn't prepared for anything, as I was nonchalantly basking in my everyday life at school.",
+      "sourceUnit": "凛ルート五日目-22:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey. What's wrong? Why are you so down? Did I say something bad...?\"\nShe looks at me worriedly.\n...I bet she's making weird mental gymnastics again.",
+      "sourceUnit": "凛ルート五日目-22:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"No, you didn't. I was just thinking that I'd never be able to beat you.\"\nI feel like it's wrong for me to apologize, so I try my best to put my feelings into words.",
+      "sourceUnit": "凛ルート五日目-22:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...W-what? T-this wasn't about the last fight—\"",
+      "sourceUnit": "凛ルート五日目-22:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"I know that. Emiya, do you want to make a truce for now?\"\nThen...\nShe made a surprise attack on me with a smile that makes my heart jump.",
+      "sourceUnit": "凛ルート五日目-22:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"You mean...between us?\"\n\"Yeah. The Master hiding at school is definitely acting out, and they know about you too. I personally want to take care of this Master before you. So do you want to call a truce and look for the other Master together?\"",
+      "sourceUnit": "凛ルート五日目-22:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nIt takes me aback, but I should consider it carefully.\nNo, don't overthink it.\nWhat Tohsaka is saying is correct, and most of all, I can't ignore this Master.\nFirst of all, I decided to fight so that I can stop Masters who hurt innocent people.",
+      "sourceUnit": "凛ルート五日目-22:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"What do you think? I don't think it's a bad proposal.\"\n\"Yeah, it's promising if I can get your help.\"",
+      "sourceUnit": "凛ルート五日目-22:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on. It doesn't mean I'll be helping you. We just promised on a truce.\"\n\"...I see. So it doesn't mean that an enemy of an enemy is your ally, huh?\"",
+      "sourceUnit": "凛ルート五日目-22:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Nope. But you can trust me until then. I'll have your back as long as you don't betray me.\"\nShe declares.\nThis is so like her, and I am genuinely grateful for this good fortune.",
+      "sourceUnit": "凛ルート五日目-22:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"...Then you can count on me. I look forward to working with you, Tohsaka.\"\nI nod and hold my right arm out.\n\"...H-hmph. I'm sure it won't last long, so be useful, okay?\"",
+      "sourceUnit": "凛ルート五日目-22:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka sounds ungracious.\nBut I'm not falling for it.\nFor all her bluster, she still takes my hand and gives it a firm shake.",
+      "sourceUnit": "凛ルート五日目-22:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. No wonder I thought it was strange. So you're not an official successor, huh? Your father passed away before he could pass down the Magic Crest to you, right?\"",
+      "sourceUnit": "凛ルート五日目-22:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"I don't know. It seems like my old man had no intention of passing down his Magic Crest to me, and he was against me becoming a mage.\"\n\"Mm? But he taught you magecraft, right? Isn't that contradictory?\"",
+      "sourceUnit": "凛ルート五日目-22:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Maybe. It seemed like he taught me reluctantly since I wouldn't give up. At first, he told me to focus on being a spellcaster rather than a proper mage.\"",
+      "sourceUnit": "凛ルート五日目-22:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "We talk about unimportant stuff for a while.\n\"If we're in a truce, I want to know about your family.\"\nSince Tohsaka asked me that, we started talking about how I learned magecraft.",
+      "sourceUnit": "凛ルート五日目-22:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "Kiritsugu Emiya was a lone wolf mage, an outsider to this region.\nBy contrast, Tohsaka's family has a prestigious lineage that manages this land.\nNormally, a mage from outside must show some good faith to the mage that keeps the land they stay in, but Kiritsugu didn't do so.\nActually, he hid the fact that he was a mage.",
+      "sourceUnit": "凛ルート五日目-22:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "It seems that as Rin Tohsaka is the head of the Tohsaka family, she is the manager of this area at her young age.\nShe was entrusted with it ten years ago, and she said that it's only recently that she actually became able to protect the land.",
+      "sourceUnit": "凛ルート五日目-22:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "For that reason, the Tohsaka family was unaware of Kiritsugu Emiya's existence, or his son for that matter.",
+      "sourceUnit": "凛ルート五日目-22:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...A spellcaster, huh? ...So you really are an amateur. You don't have any knowledge other than the magecraft that you can use, right?\"",
+      "sourceUnit": "凛ルート五日目-22:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, that's right. I can only use Strengthening. The only things I know about are the names or a brief overview. I only used Strengthening on that desk to use it as a shield, and that was the best I've ever managed.\"",
+      "sourceUnit": "凛ルート五日目-22:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha—A-are you serious!? Why are you telling me something like that!?\"\nThen...\nShe gets mad for an entirely different reason.",
+      "sourceUnit": "凛ルート五日目-22:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Is that something to get mad about?\"\n\"Well, I'm not mad, but... Look, Emiya.\nWe are cooperating, but there's still things that we have to keep secret, right?\nWe should be hiding the scope of our power, and most of all, a mage needs to keep their magecraft hidden at all costs.\"",
+      "sourceUnit": "凛ルート五日目-22:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Really? There's no use in hiding anything now, right? It's true that we can't be telling people, but you're a mage. There's no problem if I tell you. My old man said that magecraft is not something to hide desperately, no matter who the person is.\"",
+      "sourceUnit": "凛ルート五日目-22:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"...What? Your father seriously said such a thing?\"",
+      "sourceUnit": "凛ルート五日目-22:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I guess he wanted to tell me not to be bound by the rules. He always told me that I don't need to learn magecraft and I can quit anytime I want to.\"",
+      "sourceUnit": "凛ルート五日目-22:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh...!\"\nTohsaka grits her teeth.\nI don't know what she's so irritated about, but Tohsaka radiates hostility like never before.",
+      "sourceUnit": "凛ルート五日目-22:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"...Don't be ridiculous.\nYour father is not a mage. If you were trained by someone like that, I won't approve of you as a mage either.\"",
+      "sourceUnit": "凛ルート五日目-22:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka? Calm down. Why are you so mad? Well, I know I'm no mage compared to you, but my old man was a great mage.\"",
+      "sourceUnit": "凛ルート五日目-22:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's not it. That's not what I'm trying to say. What I can't stand is that...\"\nThat what?\nShe got herself worked up, but having said that, her anger seems to dissipate.",
+      "sourceUnit": "凛ルート五日目-22:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm sorry. I was wrong. Everyone is trained differently. I'm proud of myself, so I don't have the right to tell you what's right or not.\"",
+      "sourceUnit": "凛ルート五日目-22:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't get it. Was there something that bothered you? Um, like my old man's way of teaching or is it my lack of experience?\"",
+      "sourceUnit": "凛ルート五日目-22:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I have complaints about your inexperience.\nHow you've been training for years but only know Strengthening, or how you tell me your weaknesses.\"\nTohsaka smiles suggestively.\n...I think I just felt a chill run down my spine.",
+      "sourceUnit": "凛ルート五日目-22:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh, look, I get it. But there's nothing I can do about it. I'm only good at Strengthening, and my old man passed away. There was no way for me to learn anything else.\"",
+      "sourceUnit": "凛ルート五日目-22:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, that's the limit of a lone mage. Mages don't know when they're going to die, so that's why they pass down their Magic Crest and join the Association, right?\"",
+      "sourceUnit": "凛ルート五日目-22:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"...What I got angry about was that your father didn't try to do any of that.\nA mage's craft isn't theirs alone.\nMagecraft is the sum total of each mage's life that is passed down from parent to child over many generations. So that responsibility is no longer one person's.\"",
+      "sourceUnit": "凛ルート五日目-22:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"So the first condition to be taught magecraft is to pass it down to future generations. A child who is born into a mage's family instantly becomes a successor and an inheritor.\nWe were born for that purpose and die for that purpose.\"",
+      "sourceUnit": "凛ルート五日目-22:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"A mage's child isn't meant to be a human in any way.\nNo, it is the duty of a mage with a lineage to change what is born as a human into something else through many years of hard training.\n...I'm trying to say your father isn't a mage. Your father prioritized being a parent over being a mage.\"",
+      "sourceUnit": "凛ルート五日目-22:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "She explains without making eye contact and looks away.\n\"...\"\nTo be honest, I don't know why Tohsaka is mad.\nHow Tohsaka felt being raised in this house...\nWhat kind of training she went through as the daughter of a mage and how much she had to sacrifice...\nNo matter how hard I try to imagine, I will never be able to be like her.",
+      "sourceUnit": "凛ルート五日目-22:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hey, Tohsaka. Is that why you saw me as an enemy? Since I don't have the mindset of a mage.\"",
+      "sourceUnit": "凛ルート五日目-22:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"...That's right. It's not that I hate you, but I can't approve of how you carry yourself.\n...So that's why I had to teach you a lesson! Is that bad!?\"",
+      "sourceUnit": "凛ルート五日目-22:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, it is bad... But I appreciate the warning.\nIf it wasn't for that happening today, I wouldn't have noticed the Master at school, and I wouldn't have been able to cooperate with you.\"\nI stare at her in affirmation.",
+      "sourceUnit": "凛ルート五日目-22:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka groans uncomfortably.\n\"Geez, why is a guy like this Saber's master!?\"\nHer complaint really comes out of left field.",
+      "sourceUnit": "凛ルート五日目-22:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "We've been talking so long, it's already gotten dark.\nIt's almost 7 PM... I need to get home soon or else Saber will get mad.",
+      "sourceUnit": "凛ルート五日目-22:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"So Tohsaka, we're going to look for the Master at school, right?\"\n\"Right. Let's meet at the hallway after school tomorrow.\nOh, also I'll have Archer take you home. I can't walk you home since I have something to do, but there's no problem with Archer, right?\"",
+      "sourceUnit": "凛ルート五日目-22:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh...?\"\nI completely forgot until she mentioned him.\nThis is Tohsaka's house, so of course Archer would be here.",
+      "sourceUnit": "凛ルート五日目-22:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe knight in red, Archer, takes form.\n\"...\"\nCome to think of it, this is my first time actually facing him.",
+      "sourceUnit": "凛ルート五日目-22:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "The Servant that fought Saber and almost got his head cut off by her.\nThe man who paid no heed to Saber, and even tried to bury her along with Berserker.",
+      "sourceUnit": "凛ルート五日目-22:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...It might be because of those things.\nWhen I faced him and looked him in the eyes, I instinctively felt that...\nI hate him.\nIt's probable that I'll never accept him.",
+      "sourceUnit": "凛ルート五日目-22:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...\nMaybe it's the same for Archer, as he stares at me with enmity.\n...Hmph, that's just what I want.\nIf he hates me, I can hate him back without any guilt.",
+      "sourceUnit": "凛ルート五日目-22:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Take care of him, Archer. We're in a truce now, so don't attack him.\"\n\"...I know. I will obey my Master.\"",
+      "sourceUnit": "凛ルート五日目-22:page59:1"
+    },
+    "page60": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page61": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

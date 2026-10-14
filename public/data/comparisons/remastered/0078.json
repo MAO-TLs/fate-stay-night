@@ -1,0 +1,326 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0078",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Oh right.\nIt was hectic this morning and I couldn't properly explain myself then, so I should go and talk to Sakura now.",
+      "sourceUnit": "セイバールート五日目-07:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I head up to the fourth floor, to the first year classrooms.\nI peek into her classroom from the hallway, and Sakura notices me right away.",
+      "sourceUnit": "セイバールート五日目-07:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh. Is something the matter, Senpai?\"\nSakura steps into the hallway and tilts her head in confusion.\nI thought she would be depressed after what happened with Shinji this morning, but she seems fine.",
+      "sourceUnit": "セイバールート五日目-07:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh nothing really happened, but I just came over to ask you to forgive me about what happened with Tohsaka. I couldn't talk to you about it this morning, so I wanted to apologize before I went home.\"\n\"Oh? What about Miss Tohsaka should I forgive you for?\"",
+      "sourceUnit": "セイバールート五日目-07:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Well...about the thing where she's going to stay with me for a while.\nI should've consulted you first, Sakura. But instead I decided on my own. I'm sorry.\nBut there's a legitimate reason for Tohsaka staying over, and it's nothing shameful. And you might not forgive me for it, but I just wanted to tell you that.\"\nI lower my head apologetically.",
+      "sourceUnit": "セイバールート五日目-07:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"P-please do not do that, Senpai. There's no reason for you to apologize.\"",
+      "sourceUnit": "セイバールート五日目-07:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"I was certainly surprised when I learned Miss Tohsaka was going to stay over, but Ms. Fujimura approved the arrangement, and so I don't see any problem.\nYou are the master of your own home, so you can do as you wish with it, and it is not my place to say anything about it.\"",
+      "sourceUnit": "セイバールート五日目-07:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"You dummy. What the hell are you talking about, Sakura? That house is mine, Fuji-nee's, and yours. I shouldn't just decide things on my own.\"\n\"Eh...Senpai?\"",
+      "sourceUnit": "セイバールート五日目-07:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"That's why I need to apologize. Rather than be mad at Tohsaka, you should be mad at me. Because...well...I'm the one who invited Tohsaka over without consulting with my family first.\nAnd if you don't want Tohsaka to stay over, I'll call it off. I know it's not enough to earn your forgiveness, but I can't continue to do something you don't like.\"",
+      "sourceUnit": "セイバールート五日目-07:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "This isn't just me trying to smooth things over. I'm speaking from the heart.\nTeaming up with Tohsaka doesn't mean she needs to live with me.\nThere should be other ways to work effectively with her.",
+      "sourceUnit": "セイバールート五日目-07:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Um...then I'll forgive you. I will allow Miss Tohsaka to stay over, and I also forgive you for being so selfish.\nIs that what you want, Senpai?\"\n\"Eh...a-are you sure, Sakura?\"",
+      "sourceUnit": "セイバールート五日目-07:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. And I will not even ask about the circumstances. I am satisfied just hearing you say that.\"",
+      "sourceUnit": "セイバールート五日目-07:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Sakura looks at me, smiling warmly.\nShe's not pretending.\nSakura is giving her honest approval of Tohsaka staying with me.",
+      "sourceUnit": "セイバールート五日目-07:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Thanks, Sakura. Um, I'm real glad.\"\n\"Well, I'm the one who is glad.\nOh, but may I ask you something? If I'd told you I didn't want Miss Tohsaka to stay, what would you have done?\"",
+      "sourceUnit": "セイバールート五日目-07:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm? Well, if you'd done that, I might have gone to her instead. Because I actually do need to be with Tohsaka for a while.\"\n\"Eh...? You'd go to her instead...?\"",
+      "sourceUnit": "セイバールート五日目-07:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. Instead of Tohsaka staying here, I probably would have stayed at Tohsaka's place. That way, I wouldn't need to bother you or Fuji-nee about our arrangements.\"",
+      "sourceUnit": "セイバールート五日目-07:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "The thought of staying at the home of a girl I admire...or rather admired...would be terrifying, but I would have no other choice.",
+      "sourceUnit": "セイバールート五日目-07:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I appreciate it. If that had happened, I think she would tease me even more than she does right now.\"\nThat's a relief.\nI'm so glad Sakura forgave me... Hey wait...",
+      "sourceUnit": "セイバールート五日目-07:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"Sakura? What's wrong? You look pale.\"\nI call out to her, asking if she's all right.\nSakura seems to be lost in thought.\n\"I-I'm so glad I didn't say that...\"\nShe sighs deeply for some reason.",
+      "sourceUnit": "セイバールート五日目-07:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "It's after school.\nThe end of day bell rings and I prepare my bag to go home.\nSaber is waiting, so I should go straight home.",
+      "sourceUnit": "セイバールート五日目-07:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "There are a few students still scattered in the hallway.\nSome students going to their club activities...\nSome students still lingering, killing time...\n...and a student who's about ten meters away, stomping towards me, looking...real mad. There are just so many kinds of students still around.",
+      "sourceUnit": "セイバールート五日目-07:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "Hm...?\nI think there's something strange in that mix of students, so I quickly turn and head towards the stairs.",
+      "sourceUnit": "セイバールート五日目-07:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"...Oh right.\nI just remembered that I was told to do something this morning.\"\nI may have been told something, but at this point my only choice is to pretend I forgot.\nActually, I don't see that working. I'll just say I didn't hear.",
+      "sourceUnit": "セイバールート五日目-07:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold it right there. You've got guts, running away when you see me.\"",
+      "sourceUnit": "セイバールート五日目-07:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Ugh.\"\nDamn, I got caught.\nActually, there's nowhere for me to run if I go home, so I let myself get caught here to minimize the damage.",
+      "sourceUnit": "セイバールート五日目-07:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\nI turn slowly.\nYeah, she's absolutely livid.\nThe way she looks now, you wouldn't even imagine she's the school's top honor student.",
+      "sourceUnit": "セイバールート五日目-07:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Yo. What a coincidence, Tohsaka. Want to go home together if you're leaving?\nWe're heading the same way anyw—\"",
+      "sourceUnit": "セイバールート五日目-07:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't 'let's go home,' Shirou, you idiot! Do you have any idea of the position you're in right now!? I was going to warn you, so why didn't you come to the rooftop earlier!?\"",
+      "sourceUnit": "セイバールート五日目-07:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"...Uh.\"\nShe looks so threatening.\nAt this point she won't listen to any excuses I make, but she probably won't calm down if I don't explain myself.",
+      "sourceUnit": "セイバールート五日目-07:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I went to talk to Sakura at lunchtime, so I couldn't go to the rooftop.\"\nShe's showing no sign of calming down, so I tell her the truth.",
+      "sourceUnit": "セイバールート五日目-07:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nTohsaka looks at me blankly, like she's just seen a ghost.",
+      "sourceUnit": "セイバールート五日目-07:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"You went to Sakura? You mean, you went and talked to her about me staying at your place?\"\n\"Yeah. Remember how we left things up in the air with her this morning? So, I went to ask her for her approval of you staying over.\"",
+      "sourceUnit": "セイバールート五日目-07:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"...\n...I see. Well, I can't say much then, can I?\"",
+      "sourceUnit": "セイバールート五日目-07:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm?\"\nTohsaka sheathes her sword just like that, and then, for some reason...\n\"Fine. I forgive you for ditching me at lunchtime. I'm sorry for making you do extra work for Sakura.\"\nShe looks sullen as she makes her apology.",
+      "sourceUnit": "セイバールート五日目-07:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Uh, well...there's nothing for you to apologize for.\nS-so why did you call me up to the rooftop? It was important, right?\"",
+      "sourceUnit": "セイバールート五日目-07:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-Yes. I told you to meet me up there because I had something to tell you, as a Master. I wanted to warn you to be careful because there's a Bounded Field set up over the school.\"",
+      "sourceUnit": "セイバールート五日目-07:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Eh...? W-w-w-wait. A Bounded Field? Here at school!?\"",
+      "sourceUnit": "セイバールート五日目-07:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"That's right. You may not have noticed, but it's a pretty tricky thing that's been set up.\nThe seals, or signs, are installed around a wide area, and once they're activated, the whole thing will envelop the entire school.\nIt's intended to steal the flesh and blood from all the people within the Bounded Field. It looks like it's still at its beginning stages, but haven't you noticed how listless everyone seems?\"",
+      "sourceUnit": "セイバールート五日目-07:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh...\"\nNow that she mentions it, I felt a little strange two days ago, but was that why?\nBut that means...",
+      "sourceUnit": "セイバールート五日目-07:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"That means there's a Master...at school...?\"\n\"Exactly. We have an enemy lurking here. Do you get it now, Emiya? They're not likely to attack here at school, but I wanted tell you to be on alert so you're prepared for battle at any time.\"",
+      "sourceUnit": "セイバールート五日目-07:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "...\nNo wonder Tohsaka was so mad.\nHere I was, spending my entire day in ignorant peace.",
+      "sourceUnit": "セイバールート五日目-07:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Sorry. I should've met you during lunchtime.\"",
+      "sourceUnit": "セイバールート五日目-07:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"You damn well should have. Saber entrusted you to me, so if you had skipped out for some stupid reason, I would have cast a Geass on you to force you to come.\nBut I'll let it pass this time. As it turns out, nothing happened today.\"",
+      "sourceUnit": "セイバールート五日目-07:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "So all's well that ends well...\nI feel better hearing her say that.",
+      "sourceUnit": "セイバールート五日目-07:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Do you know who set up that Bounded Field? Is it someone from this school?\"",
+      "sourceUnit": "セイバールート五日目-07:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"No, I don't know yet.\nI don't sense the presence of any mages other than me here, so they may be an outsider. But there are cases when an amateur like you winds up becoming a Master too...\nSo I can't be sure... But there's a good chance it's someone from this school.\nThey'd have to not stand out here, since they managed to set up a Bounded Field at the school and all.\"",
+      "sourceUnit": "セイバールート五日目-07:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Someone who wouldn't seem suspicious if they came into the school.\nSo it'd be either a student or teacher... Whoever it might be, it means Tohsaka and I aren't the only Masters here.",
+      "sourceUnit": "セイバールート五日目-07:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not the only problem.\nListen, Shirou. Once this Bounded Field is completed and activated, it'll dissolve and absorb everyone inside. Think of it like they're in the belly of some creature.",
+      "sourceUnit": "セイバールート五日目-07:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "Or rather, we might not be affected by it because we're protecting ourselves with magical energy, but anybody who doesn't possess magical energy will weaken and die without their knowing.\"\n\"This is way beyond just involving ordinary citizens. If this Bounded Field activates, it will kill everyone in the school.\nDo you understand? There's a Master in this school who is willing to make a Bounded Field this awful.\"",
+      "sourceUnit": "セイバールート五日目-07:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Wha...!\"\nMy vision blurs momentarily.\nI take a deep breath so I can make sure I fully comprehend what Tohsaka's trying to say.",
+      "sourceUnit": "セイバールート五日目-07:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "But it stops there.\nI attempt to imagine the worst possible outcome, even if my imaginings may fall short, and I keep that image deep within my heart and accept the position I've been placed in.",
+      "sourceUnit": "セイバールート五日目-07:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "\"I get what you're trying to say.\nSo, Tohsaka...can't we try to destroy this Bounded Field?\"",
+      "sourceUnit": "セイバールート五日目-07:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"I tried, but it was impossible.\nI found all the sources for it, but I can't destroy them. The only thing I can do is to temporarily weaken the sources to delay the whole thing from activating.\"",
+      "sourceUnit": "セイバールート五日目-07:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"So as long as you're here, the Bounded Field can't fully be formed?\"",
+      "sourceUnit": "セイバールート五日目-07:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"I can only hope, but that's wishful thinking.\nThe Bounded Field is already set up, and the magical energy needed to activate it is gradually accumulating. According to Archer's estimate, everything will be ready in about eight days.\nWhen it's ready, either the Master or Servant will transform this school into a living hell.\"",
+      "sourceUnit": "セイバールート五日目-07:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Then before that happens...\"",
+      "sourceUnit": "セイバールート五日目-07:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "\"We need to defeat the Master lurking in this school. But it'll be challenging to find them.\nWe've pretty much been at their mercy from the moment that Bounded Field was formed. The Master just needs to wait until it's ready to be activated. They don't need to make themselves known until then. So the only chance we have is...\"",
+      "sourceUnit": "セイバールート五日目-07:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"When they come out, right?\"\n\"Bingo. So you should stay quiet until then. You'll have to fight whether you like it or not when the time comes, and it'd be stupid to let the enemy find you, were you to go searching for the Master yourself.\"",
+      "sourceUnit": "セイバールート五日目-07:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "...I get it.\nWe can't leave someone who would make a Bounded Field like that on the loose, but since I don't know who they are, just making a move at random might cause more problems than it solves.",
+      "sourceUnit": "セイバールート五日目-07:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. I've already done everything I can to slow down the Bounded Field for today, so I'll have to handle the rest tomorrow.\nThere's nothing left to do at school, so you head home.\"\n\"Wait. I'm fine with going home now, but what about you, Tohsaka?\"",
+      "sourceUnit": "セイバールート五日目-07:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't worry about me. Saber's waiting for you. She'll get mad if you don't hurry home.\"\n\"...Hm.\"",
+      "sourceUnit": "セイバールート五日目-07:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "I forgot.\nSaber was against me going to school, and she only allowed me to do so under the condition that I come home before sunset.",
+      "sourceUnit": "セイバールート五日目-07:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "\"Then see you later. Go home. No detours.\"\nTohsaka makes her way toward the back of the school. Maybe she has something to do at the gym?\nAfter watching her backside headed toward the gym for a bit, I hurry out of school.",
+      "sourceUnit": "セイバールート五日目-07:page62:1"
+    },
+    "page63": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0137",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "No. I can't use a Command Spell here.",
+      "sourceUnit": "セイバールート九日目-11:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I hesitate for a second.\nMy Command Spells, especially for an untrained Master like me, are too important. I can only use them three times.\nAlmost the instant I realize I can't just use a Command Spell so casually...",
+      "sourceUnit": "セイバールート九日目-11:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh?\"\nI fall on my back.\nI slam into the ground after being kicked from the third floor.\nCalling it fatal...well it's likely fatal.\nI managed to avoid falling on my head, but I wouldn't be surprised if I'd just broken every bone in my body.",
+      "sourceUnit": "セイバールート九日目-11:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh...y?\"\nBlood seeps from me.\nIt's coming from my chest.\nMy back seems fine; it looks like I survived the impact of the fall... So why...",
+      "sourceUnit": "セイバールート九日目-11:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...What is that thing...\n...sticking out...\n...of my chest as I lay looking up at the sky?",
+      "sourceUnit": "セイバールート九日目-11:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Ha...zh...!\"\nMy chest is opened up.\nWhat looks like several swords protrude from my chest, together forming the shape of a flower in full bloom.",
+      "sourceUnit": "セイバールート九日目-11:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "It's as if someone shoved a bomb in my chest, and it went off the moment I hit the ground.\n\"Sa...Sab...er...\"\nI can't explain it.\nI don't understand what happened to my chest.\nSo...so many blades stick out of me, like my entire rib cage burst through my body.",
+      "sourceUnit": "セイバールート九日目-11:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "I watch blankly as my body slowly dissolves.\n\"...A...ah...I need to hurry...to stop...it...\"\nI can't move.\nThe miracle that healed me from Berserker's attacks doesn't seem to be working with so many swords piercing me.",
+      "sourceUnit": "セイバールート九日目-11:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "My thoughts begin to fall to pieces.\nEven if I were to try using a Command Spell, I don't even know what's happening anymore.",
+      "sourceUnit": "セイバールート九日目-11:page8:1"
+    },
+    "page9": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page10": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0260",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "I'll go wake Fuji-nee up.\nI know I'm just asking for trouble, but I need to know how it went last night.\nIn the worst case scenario, Saber would be angry from being bullied by Sakura and Fuji-nee, and I'm sure Sakura would be mad about Saber staying.",
+      "sourceUnit": "凛ルート五日目-03:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I don't have to think about how difficult it would be if Saber got angry, and even Sakura can be scary if you get on her bad side.\nSo the best strategy would be to ask Fuji-nee, since even if they had a big fight, she would forget about it by morning!",
+      "sourceUnit": "凛ルート五日目-03:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "I roll up my sleeves and stand in front of the door.\n...It seems like Sakura and Saber are already awake and have gone to the living room and dojo.",
+      "sourceUnit": "凛ルート五日目-03:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...Let's do this. Fuji-nee, it's morning!\"\nThe door rattles as I slide it open with gusto.\nAnd when I step directly into the tiger's mouth...\nI get flung back outside.",
+      "sourceUnit": "凛ルート五日目-03:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Shirou? What are you doing there? It's almost time for breakfast.\"",
+      "sourceUnit": "凛ルート五日目-03:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee appears in the corridor, as if she's a complete bystander.\nI see, I see.\nSo she has no memory of grabbing me by the scruff of my neck, spinning around three times, and throwing me?",
+      "sourceUnit": "凛ルート五日目-03:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...I'm not lying here because I want to.\nHey, if you have any memory of it, help me up, you big tiger.\"\n\"Hm? Now that you mention it, I do recall a dream of executing a Romero Special against an invading robot.\"",
+      "sourceUnit": "凛ルート五日目-03:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Fuji-nee opens and closes the palm of her hand.\nThe question marks floating around her make me think that she might recall the event from just minutes ago, but she doesn't.",
+      "sourceUnit": "凛ルート五日目-03:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh well. Anyways, let's hurry and go eat breakfast. I would feel bad for making Sakura and Saber wait.\"\nWriting off that triple somersault with just an \"oh well\" is intolerable.\nWell, I'll get her back for this someday, but there's something I need to ask her first.",
+      "sourceUnit": "凛ルート五日目-03:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey wait a second. Aren't you acting just a little too buddy-buddy already?\"\n\"Hm? What do you mean? Sakura, Saber, and I are the Girlfriend Alliance that had a great sleepover!\"\n\"Well now I know that's just a lie. There's only two girls—\"",
+      "sourceUnit": "凛ルート五日目-03:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Hrrk...!?\"\nH-how was I hit when I'm ten steps away...!?",
+      "sourceUnit": "凛ルート五日目-03:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"This is the Girlfriend Alliance, over?\"\n\"O-over and out...\"\n...I-I see, she came from the corridor to the yard in an instant... As expected of an expert. I forget sometimes, but Fuji-nee was a well-known swordsman back in her student days.",
+      "sourceUnit": "凛ルート五日目-03:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"...Anyway, that's good. Did you and Sakura get close with Saber? ...You aside, I didn't think that Sakura was going to accept it.\"\n\"Hm? Oh, I see. Look at you, you're more considerate than I thought. You were worried that Sakura and Saber wouldn't get along, right?\"",
+      "sourceUnit": "凛ルート五日目-03:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"...Of course I would be worried. I decided on Saber's stay without her permission, so I'm sure she's unhappy.\n...I don't want her to resent me for it, but I can take it. Though I think it would be a shame if they didn't get along.\"",
+      "sourceUnit": "凛ルート五日目-03:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"It's fine, Sakura and I know that Saber is a good kid.\nWell, Sakura doesn't seem to get along with girls like Saber, so they still have to get used to each other. But it seems like they've made peace, so you don't have anything to worry about.\"",
+      "sourceUnit": "凛ルート五日目-03:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "I don't know what she's so happy about, but Fuji-nee is in a good mood as she strolls down the corridor.\n...Well, I guess I'm happy that the problem in the Emiya household seems to have been solved.",
+      "sourceUnit": "凛ルート五日目-03:page15:1"
+    },
+    "page16": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page17": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

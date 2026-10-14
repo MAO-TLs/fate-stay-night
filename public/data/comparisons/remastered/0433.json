@@ -1,0 +1,26 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0433",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "If I'm going to die either way, I can't let him escape...!\n\"Screw you...\"\nI wrap the chain further around my arm.\nUnlike before, I grab onto the chain so that it won't let me go.\n\"...Don't ever come back into this world again...!\"\nWithout resisting, I throw myself into the black hole.\n\"Idio—ARE YOU INSANEEEEEE...!!!???\"\nI roll down.\nI fall into an endless darkness while my body is being melted.",
+      "sourceUnit": "凛ルート十四日目-13:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "The black mud mercilessly eats into my body.\nMy body is stripped off, and I fall into the deep darkness just as the soul known as Shirou Emiya.",
+      "sourceUnit": "凛ルート十四日目-13:page1:1"
+    },
+    "page2": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート十四日目-13:page2:1"
+    },
+    "page3": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

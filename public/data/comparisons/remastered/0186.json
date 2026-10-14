@@ -1,0 +1,17 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0186",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "...Yeah, I'll just sit here quietly.\nTohsaka's on edge, and I can only imagine the punch that might head right for my face if I say something stupid to interrupt her now.",
+      "sourceUnit": "セイバールート十二日目-10:page0:1",
+      "recoveredDelimitedTail": true
+    },
+    "page1": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

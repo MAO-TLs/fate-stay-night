@@ -1,0 +1,461 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0248",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"Going back to our conversation, Saber.\n...Oh, well, just making sure again, but can I call you Saber?\"",
+      "sourceUnit": "凛ルート四日目-10:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. As a Servant who has formed a contract with you, I am your sword. I shall follow your orders, attack your enemies, and protect you.\"\nSaber says without any hesitation.\nThere's no room for me to question her intentions.",
+      "sourceUnit": "凛ルート四日目-10:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"You are my sword, huh? To win the Holy Grail thing?\"\n\"...? Is that not why you summoned me?\"",
+      "sourceUnit": "凛ルート四日目-10:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"No. I only summoned you by chance.\nI'm an amateur mage after all. I'm sorry, but I don't have the knowledge or power as a Master.\nBut, now that I've decided to, I'll fight. I'm inexperienced as a Master, but are you okay with that?\"",
+      "sourceUnit": "凛ルート四日目-10:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. You are my Master, Shirou.\nThis fact will not change no matter what. Servants do not have the freedom to choose their Master.\"\n...\n...Is that true?\nThen, I can only do what I can within the best of my ability to respond to Saber.",
+      "sourceUnit": "凛ルート四日目-10:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Got it. So you're fine with me being your Master, Saber?\"",
+      "sourceUnit": "凛ルート四日目-10:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. However, Shirou, I will not allow defeat.\nIf you do not have any chance, it is my duty to carve out a path to victory. I will use any means possible to have you win the Holy Grail.\nWe Servants do not serve our Masters out of charity. We serve you because we also desire the Holy Grail.\"",
+      "sourceUnit": "凛ルート四日目-10:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"...Huh? Hold on, you mean you want the Holy Grail too...!?\"",
+      "sourceUnit": "凛ルート四日目-10:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course. Originally, the only ones who can touch the Holy Grail's spiritual form are Servants, who are also spirits.\nMasters who win the Holy Grail War obtain the Holy Grail through their Servant. After that, the Servant will have their wish granted in return.\n...That is the relationship between Servant and Master, Shirou.\"",
+      "sourceUnit": "凛ルート四日目-10:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...\n...I see.\nCome to think of it, there's no reason these absurdly strong Heroic Spirits would listen to humans, normally.\nThey only serve Masters as part of a contract to achieve their own goals.",
+      "sourceUnit": "凛ルート四日目-10:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...So that means that Saber also has a wish she wants granted.\nThat's why Saber does not hesitate.\nBut, that is...",
+      "sourceUnit": "凛ルート四日目-10:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hold on, Saber. You said any means possible, right? Does that mean you don't care what measures you take to win?\nFor example...\"",
+      "sourceUnit": "凛ルート四日目-10:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Like that priest said.\nInvolving innocent people who aren't even Masters, and creating a disastrous scene like ten years ago...",
+      "sourceUnit": "凛ルート四日目-10:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, that is not what I mean by any means possible.\nI can only do things I allow myself to. It is impossible for me to betray my own beliefs. Harming unarmed innocents goes against a knight's oath.\"",
+      "sourceUnit": "凛ルート四日目-10:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"However, I must obey if you order so. In that case, you will have to use one of your Command Spells in compensation.\"\nI get overwhelmed by the edge in her voice.",
+      "sourceUnit": "凛ルート四日目-10:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "...\nAt the same time, I feel relief flooding through me.\nSaber seemed like a robot because of her extraordinary power and lack of hesitation, but I know now she's not some cold-blooded killer.",
+      "sourceUnit": "凛ルート四日目-10:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Yeah, I wouldn't make you do anything like that.\nJust as you say, we have to do our best with what we can do... I'm really sorry. What I said must've been insulting.\"",
+      "sourceUnit": "凛ルート四日目-10:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... No, I also failed to grasp your intentions and jumped to conclusions. You are not at fault, so could you please raise your head...?\"\n\"Huh? Oh, I bowed without realizing it.\"\nI raise my head.",
+      "sourceUnit": "凛ルート四日目-10:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "...\nI don't know what's so funny, but Saber has a small smile on her face.\n\"Hm?\"\nWell, I'm glad she's smiling, so I won't question it.",
+      "sourceUnit": "凛ルート四日目-10:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay then, can I ask one more thing?\nYou said Masters are mages who summon Servants, right?\nI get that, but I still don't quite understand your side of things. I do know that like Saber and Lancer aren't your real names, though.\"",
+      "sourceUnit": "凛ルート四日目-10:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, those are only names that are given based on each of our roles... All right, I shall use this as an opportunity to give a rough explanation.\"",
+      "sourceUnit": "凛ルート四日目-10:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"We Servants are Heroic Spirits.\nEach of us made a name for ourselves in our respective time periods; we accomplished some great deed beyond human capabilities. Whatever the means, we are beings who have sublimated to deity-esque status.\"",
+      "sourceUnit": "凛ルート四日目-10:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "That much is obvious.\nHeroic Spirits had supernatural abilities while they were alive, were celebrated after their deaths, and were promoted to a higher spiritual rank than a ghost or such.",
+      "sourceUnit": "凛ルート四日目-10:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"But at the same time, that is also our weakness. Because Heroic Spirits each left a mark upon history, our weaknesses were also recorded.\nBy revealing our names and identities, we would be revealing our weaknesses.\nIt is no problem if the enemy is spiritually inferior, but we are all Heroic Spirits that have the power to kill each other. If our weaknesses are revealed, the enemy would take advantage of that to defeat us.\"",
+      "sourceUnit": "凛ルート四日目-10:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Heroes usually do have some opponent that they are weak against. So that's why you're using a name like Saber and concealing your real name.\"",
+      "sourceUnit": "凛ルート四日目-10:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. However, that is not the only reason I am called Saber.\nThere are seven Servants who were called forth by the Holy Grail, but each of them are all selected according to their class.\"",
+      "sourceUnit": "凛ルート四日目-10:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Class...? So that's where Saber and Archer come from?\"\n\"That is correct. First of all, summoning a Heroic Spirit is itself close to a miracle. To summon seven of them is too much even for the Holy Grail.\nIn order to solve that, the Holy Grail prepares seven vessels beforehand and only calls forth Heroic Spirits who are compatible with those vessels. Such vessels are like objects that keep us temporarily bound to this world.\nThose are the seven classes:",
+      "sourceUnit": "凛ルート四日目-10:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "Saber,\nLancer,\nArcher,\nRider,\nCaster,\nAssassin,\nand Berserker.",
+      "sourceUnit": "凛ルート四日目-10:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"The Holy Grail calls forth Heroic Spirits with abilities that correspond to each role from any time period.\nAnd those who are assigned to these classes are called Servants.\"",
+      "sourceUnit": "凛ルート四日目-10:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...I get it. So you're a Saber because you're a Heroic Spirit who was good with a sword.\"\n\"Correct. There may be some Heroic Spirits who possess multiple attributes, but I would say in all humility that there are none better than I with the sword.\"",
+      "sourceUnit": "凛ルート四日目-10:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"However, that is also my disadvantage.\nI am not a mage, so I can only defeat enemies as your sword.\"\n\"You mean you're not good at the cloak and dagger stuff. I don't consider that a weakness. You're more than strong enough as a Saber.\"",
+      "sourceUnit": "凛ルート四日目-10:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, battles are not won through might alone.\nThis is hypothetical, but if your enemy is better at close combat than you, then what would you do?\"",
+      "sourceUnit": "凛ルート四日目-10:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, I guess... I know that I wouldn't be able to win if I just fight head-on, so I would have to do something without fighting...\"\nI understand once I say that.\nIf their opponent is strong, they're not going to fight fair.\nDefeating opponents with a sword isn't the only way to fight.\nIf you can't beat them with a sword, all you have to do is beat them some other way.",
+      "sourceUnit": "凛ルート四日目-10:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"That is correct. If your opponent discovers that you are skilled in close combat, then they will most likely not challenge you thusly. In that sense, Servants who lack ability will use any means possible.\"",
+      "sourceUnit": "凛ルート四日目-10:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"The Assassin Servant lacks combat capacity but has the ability to hide its presence, and the Caster Servant is proficient in magecraft that does not exist in this age.\"\nYou cannot get your hopes up from a difference in strength alone. Additionally, we have things called 'Noble Phantasms.' No matter what kind of Servant we are, as Heroic Spirits, we have the opportunity to create a fatal attack.\"",
+      "sourceUnit": "凛ルート四日目-10:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Noble Phantasm...?\"\nI've not heard the term.\nThough I think I can glean the meaning from the words.",
+      "sourceUnit": "凛ルート四日目-10:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"Noble Phantasms are special weapons that Servants have.\nWeapons like Lancer's spear, Archer's bow, and my sword are all such treasured tools.\nHeroes do not become so by themselves. It is due to their chosen weapon, the very symbol of their existence, that they are recognized as heroes.\"",
+      "sourceUnit": "凛ルート四日目-10:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Heroes and their armaments are one. As such, those who become Heroic Spirits bear famed and powerful weapons.\nThat is a Noble Phantasm: the trump card for Servants, and what we must be most wary of.\"",
+      "sourceUnit": "凛ルート四日目-10:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "...\n...Saber says that Noble Phantasms are weapons that Heroic Spirits had while they were alive.",
+      "sourceUnit": "凛ルート四日目-10:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "I recall that blue knight's spear.\nIt sucked up all the magical energy in the air and stabbed Saber's chest with an impossible trajectory.\nThat thing is certainly not something that a normal human can handle.\nThe spear itself carried a strong curse, but I felt an amount of magical energy on another level from the words Lancer said back then too.\nThen, could it be...?",
+      "sourceUnit": "凛ルート四日目-10:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber. Are Noble Phantasms magecraft?\nLancer's spear certainly seemed like something with history, but the spear itself was not extraordinary.\nBut with his words, the spear went beyond the realm of weapons. Isn't that a type of magecraft?\"",
+      "sourceUnit": "凛ルート四日目-10:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes, Noble Phantasms are certainly similar to magecraft.\nTake for example Lancer's spear. It is a Noble Phantasm, but its true value is demonstrated only when he puts magical energy into it and says its True Name.\"",
+      "sourceUnit": "凛ルート四日目-10:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "\"Noble Phantasms are technically Mystics that are materialized.\nJust as incantations are necessary to activate magecraft, Noble Phantasms also need their True Name to be recited in order to awaken and activate them.\nHowever, this also has its dangers. By saying the True Name of the Noble Phantasm, that Servant's identity will be revealed.\"",
+      "sourceUnit": "凛ルート四日目-10:page42:1"
+    },
+    "page43": {
+      "status": "exact_japanese_text",
+      "text": "\"I get it. Heroes and weapons are a set. If you know the name of the weapon, you can work out who wields it.\"\nSaber nods in silence.",
+      "sourceUnit": "凛ルート四日目-10:page43:1"
+    },
+    "page44": {
+      "status": "exact_japanese_text",
+      "text": "That is why the Noble Phantasm is a trump card.\nIn exchange for revealing the identity, it would launch an unavoidable fatal blow.\nAnd if that attack misses or fails, the Servant has revealed their weaknesses.",
+      "sourceUnit": "凛ルート四日目-10:page44:1"
+    },
+    "page45": {
+      "status": "exact_japanese_text",
+      "text": "\"So, Saber. Is your Noble Phantasm that invisible sword?\"\n\"...Yes. However, I have not revealed its identity yet. At this point, there should not be any Servants who know my True Name.\"\nWith that, Saber looks away uncomfortably for a second.",
+      "sourceUnit": "凛ルート四日目-10:page45:1"
+    },
+    "page46": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. I have a request about that matter.\"\n\"Huh? What kind of request?\"",
+      "sourceUnit": "凛ルート四日目-10:page46:1"
+    },
+    "page47": {
+      "status": "exact_japanese_text",
+      "text": "\"It's about my True Name. Normally Servants reveal their True Name only to their Master, so they can plan strategies for the battles ahead.\nHowever, you are inexperienced as a mage.\nIf you encounter a superior mage, they should be able to read your mind. Therefore...\"",
+      "sourceUnit": "凛ルート四日目-10:page47:1"
+    },
+    "page48": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah, so you can't reveal your name, huh? Yeah, you're right. Like hypnosis or being hit with a Whisper-type spell, or... Well, I doubt it, but if other Masters have Mystic Eyes, then I might start babbling about it.\nOkay then. I'll leave it up to you to decide when to use your Noble Phantasm.\"",
+      "sourceUnit": "凛ルート四日目-10:page48:1"
+    },
+    "page49": {
+      "status": "exact_japanese_text",
+      "text": "\"Ah... Are you certain you should make such a rash decision?\"\n\"It's not rash. I thought it over, and I'm satisfied by the conclusion I reached.\nI did think it through, so don't worry.\n...",
+      "sourceUnit": "凛ルート四日目-10:page49:1"
+    },
+    "page50": {
+      "status": "exact_japanese_text",
+      "text": "Moving on.\nWe've talked through most things, but I still don't think I understand the whole situation.",
+      "sourceUnit": "凛ルート四日目-10:page50:1"
+    },
+    "page51": {
+      "status": "exact_japanese_text",
+      "text": "Come to think of it, it's strange.\nI decided to fight, yet the only opponent that I know of is Tohsaka, and I have no intention of fighting her at all.\n...Well actually, she's ready to fight me, so I guess I'm not the one in a position to say that.",
+      "sourceUnit": "凛ルート四日目-10:page51:1"
+    },
+    "page52": {
+      "status": "exact_japanese_text",
+      "text": "\"Hey Saber. Do Masters or Servants have some sort of mark? I don't really know what I should be doing.\"",
+      "sourceUnit": "凛ルート四日目-10:page52:1"
+    },
+    "page53": {
+      "status": "exact_japanese_text",
+      "text": "\"No. Unfortunately, there is no definitive way to identify them.\nBut if other Servants are near, a Servant can sense their presence. All the more so if they are in physical form. Servants themselves are a powerful force of magical energy.\"\nYou were able to sense Berserker's presence, correct?\"",
+      "sourceUnit": "凛ルート四日目-10:page53:1"
+    },
+    "page54": {
+      "status": "exact_japanese_text",
+      "text": "\"Ugh... That's true. It would be bad if I can only tell once I'm attacked, right? I need to at least notice before they approach, or else I won't be able to take some kind of countermeasure.\"",
+      "sourceUnit": "凛ルート四日目-10:page54:1"
+    },
+    "page55": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, how about tracking the Master's presence? Masters are mages. Since they use magecraft as a living, there will always be magical energy that is leaked. If you search for that, you may be able to identify the Master's whereabouts.\"\n\"...Sorry. Unfortunately, I can't do anything requiring skills like that.\"",
+      "sourceUnit": "凛ルート四日目-10:page55:1"
+    },
+    "page56": {
+      "status": "exact_japanese_text",
+      "text": "I mean, I didn't even realize Tohsaka's identity, and we go to the same school.\nWe were in the same building for two years, and on top of that, I saw her many times.",
+      "sourceUnit": "凛ルート四日目-10:page56:1"
+    },
+    "page57": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. No wonder I get made fun of for being an amateur. My only proof as Master is my Command Spell. It looks like I have a tough road ahead of me.\"\nI sigh heavily.\nAnd then,",
+      "sourceUnit": "凛ルート四日目-10:page57:1"
+    },
+    "page58": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou. Can you close your eyes for a moment?\"\nSaber's face is stern as she speaks.\n\"Hm...? Close my eyes? Why?\"\n\"I am going to prove that you are a Master. Just listen to me. Close your eyes and regulate your breathing.\"",
+      "sourceUnit": "凛ルート四日目-10:page58:1"
+    },
+    "page59": {
+      "status": "exact_japanese_text",
+      "text": "\"...\"\n...I close my eyes.\nI feel something slightly touching my forehead.\nWait, it's oddly pointed, could it be the end of her sword...!?",
+      "sourceUnit": "凛ルート四日目-10:page59:1"
+    },
+    "page60": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber? Hold on, are you sure you're not doing anything weird?\"\n\"...Master, please be quiet and concentrate on my fingertip. If you are a mage, you should be able to feel my magical energy from that.\"",
+      "sourceUnit": "凛ルート四日目-10:page60:1"
+    },
+    "page61": {
+      "status": "exact_japanese_text",
+      "text": "\"...Mrgh.\"\nOh, so it's Saber's finger touching me.\nI pull myself together and quiet my mind.",
+      "sourceUnit": "凛ルート四日目-10:page61:1"
+    },
+    "page62": {
+      "status": "exact_japanese_text",
+      "text": "Whoa.\nWhat is this?",
+      "sourceUnit": "凛ルート四日目-10:page62:1"
+    },
+    "page63": {
+      "status": "exact_japanese_text",
+      "text": "\"Saber, what was that?\"\n\"Is it not obvious? You and I are connected through a contract, so it is natural to understand my condition.\"",
+      "sourceUnit": "凛ルート四日目-10:page63:1"
+    },
+    "page64": {
+      "status": "exact_japanese_text",
+      "text": "\"Understand your condition...?\"\n\"I do not know how you saw it. Your standards are what determines how you measure a Servant's ability. There are some Masters who distinguish simply through colors, and there are other Masters who understand by comparing them to beasts.\"",
+      "sourceUnit": "凛ルート四日目-10:page64:1"
+    },
+    "page65": {
+      "status": "exact_japanese_text",
+      "text": "\"In other words, it varies by person, but one perceives it in the easiest way for them to identify.\nThis is the basics of being a Master, so from now on, please check frequently. You should be able to understand the details of someone after seeing them once.\"",
+      "sourceUnit": "凛ルート四日目-10:page65:1"
+    },
+    "page66": {
+      "status": "exact_japanese_text",
+      "text": "...I think I get it now.\nI was surprised because it was so sudden, but I might be able to act a bit more like a Master now.",
+      "sourceUnit": "凛ルート四日目-10:page66:1"
+    },
+    "page67": {
+      "status": "exact_japanese_text",
+      "text": "\"...Master. This concludes my abbreviated explanation.\"\n\"Yeah. It's a lot to take in, but it makes sense. Sorry for the trouble, Saber.\"",
+      "sourceUnit": "凛ルート四日目-10:page67:1"
+    },
+    "page68": {
+      "status": "exact_japanese_text",
+      "text": "\"...There is no need to apologize.\nYou need to understand the situation we're in to make decisions about our next steps.\"",
+      "sourceUnit": "凛ルート四日目-10:page68:1"
+    },
+    "page69": {
+      "status": "exact_japanese_text",
+      "text": "Saber leans forward attentively, awaiting my next words.\nThis tells me...\nSaber is probably the same as Tohsaka: she's the sort to strike first.",
+      "sourceUnit": "凛ルート四日目-10:page69:1"
+    },
+    "page70": {
+      "status": "exact_japanese_text",
+      "text": "\"Well, I don't think we'll do anything particularly different.\nI don't plan to go looking for other Masters to defeat them, like Tohsaka.\"",
+      "sourceUnit": "凛ルート四日目-10:page70:1"
+    },
+    "page71": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, that is not what we just talked about. Do you not have any intention of pursuing the Holy Grail in your capacity as a Master?\"\nSaber's eyes narrow.\nThose eyes are those of a cool-headed knight that does not accept any disagreement.\n...\nI stare back, trying not to let myself be intimidated, and clearly convey my intentions.",
+      "sourceUnit": "凛ルート四日目-10:page71:1"
+    },
+    "page72": {
+      "status": "exact_japanese_text",
+      "text": "\"Of course I do. But only because I don't want it to fall into the wrong hands. I don't really have any particular reason to want the Holy Grail for myself.\"\n\"Nnn...!\"",
+      "sourceUnit": "凛ルート四日目-10:page72:1"
+    },
+    "page73": {
+      "status": "exact_japanese_text",
+      "text": "\"But, that doesn't mean I'm not going to fight.\nI'm a mage, even if I'm an amateur. I know I can't back out of this situation now, and that I won't make it out alive if I just sit and do nothing.\"",
+      "sourceUnit": "凛ルート四日目-10:page73:1"
+    },
+    "page74": {
+      "status": "exact_japanese_text",
+      "text": "\"So in this battle that you cannot avoid as a mage... Instead of fighting to obtain the Holy Grail, are you saying that you are fighting to prevent the conflict over the Holy Grail?\"",
+      "sourceUnit": "凛ルート四日目-10:page74:1"
+    },
+    "page75": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Well, I guess that's what it means. Yeah, that's it. I can't really explain it, but I feel like that's something worth fighting for.\"",
+      "sourceUnit": "凛ルート四日目-10:page75:1"
+    },
+    "page76": {
+      "status": "exact_japanese_text",
+      "text": "Yeah.\nHonestly, the idea of a Holy Grail doesn't feel real to me.\nBut preventing battles? That, I can fight my hardest for, and do it with pride.",
+      "sourceUnit": "凛ルート四日目-10:page76:1"
+    },
+    "page77": {
+      "status": "exact_japanese_text",
+      "text": "\"...I don't understand. You say that you are a mage. If so, you should desire the omnipotence of the Holy Grail. Do mages not master their craft because they have a wish that they cannot grant themselves?\"",
+      "sourceUnit": "凛ルート四日目-10:page77:1"
+    },
+    "page78": {
+      "status": "exact_japanese_text",
+      "text": "\"I'm not sure what you're saying. I don't have unfulfillable wishes. I do have a lot of things that I have to do, though.\"\nYeah.\nThat's why I need to do everything in my power to keep innocent people out of this battle.",
+      "sourceUnit": "凛ルート四日目-10:page78:1"
+    },
+    "page79": {
+      "status": "exact_japanese_text",
+      "text": "\"Does that mean you do not need the Holy Grail? You will not fight for it?\"\n\"That's not what I'm saying. I have every intention of getting the Holy Grail since I'm going to fight.\"",
+      "sourceUnit": "凛ルート四日目-10:page79:1"
+    },
+    "page80": {
+      "status": "exact_japanese_text",
+      "text": "\"Your words are contradictory. Why would you bother fighting for something you have no need of?\"\n\"Hm?\"\nWell, because...\nWinning means you get the Holy Grail. And most of all...",
+      "sourceUnit": "凛ルート四日目-10:page80:1"
+    },
+    "page81": {
+      "status": "exact_japanese_text",
+      "text": "\"You need it, right? Then we have to get it.\"\n...",
+      "sourceUnit": "凛ルート四日目-10:page81:1"
+    },
+    "page82": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah, I don't know what kind of people the other Masters are.\nSome of them may be really good people.\nBut I decided I'm going to be on your side. And if you say you want the Holy Grail, then I'll give it my all to help you.\"\n...",
+      "sourceUnit": "凛ルート四日目-10:page82:1"
+    },
+    "page83": {
+      "status": "exact_japanese_text",
+      "text": "\"...Um, I'm only echoing my old man's opinion, but if you want to champion justice, you need to be an egoist.\nIt's pointless to support everybody, so you need to ally yourself only with people that you like and trust.\"",
+      "sourceUnit": "凛ルート四日目-10:page83:1"
+    },
+    "page84": {
+      "status": "exact_japanese_text",
+      "text": "\"I never thought of it that way, but now I think I should.\nI can't just fight for myself.\nBut what I can do is fight for you, Saber.\"",
+      "sourceUnit": "凛ルート四日目-10:page84:1"
+    },
+    "page85": {
+      "status": "exact_japanese_text",
+      "text": "And to be honest...\nIf it's something this girl wants that seriously, it's only natural to want to obtain it for her no matter what.\n...I mean, don't all guys think that way?",
+      "sourceUnit": "凛ルート四日目-10:page85:1"
+    },
+    "page86": {
+      "status": "exact_japanese_text",
+      "text": "\"Does that mean you would forfeit the fight if I gave up the Holy Grail?\"\n\"...Hm.\"\nI wouldn't want that.\nBut if Saber does that, everything I thought of so far falls apart.",
+      "sourceUnit": "凛ルート四日目-10:page86:1"
+    },
+    "page87": {
+      "status": "exact_japanese_text",
+      "text": "\"No. It doesn't matter. I already said I would fight.\nThat's why I won't run away. I've already decided, Saber.\"\nI look at her straight in the eye as I declare this.\nSaber doesn't respond immediately. She takes a deep breath, then looks at me.",
+      "sourceUnit": "凛ルート四日目-10:page87:1"
+    },
+    "page88": {
+      "status": "exact_japanese_text",
+      "text": "\"Understood. If you say so as a Master, I simply have to obey. My objective is the Holy Grail, while your goal is to stop the battle. Our ultimate destination is still the same.\n...But I must say one thing, Shirou.\"",
+      "sourceUnit": "凛ルート四日目-10:page88:1"
+    },
+    "page89": {
+      "status": "exact_japanese_text",
+      "text": "Saber stops abruptly.\nShe seems to look far into the distance.\n\"I struggle to put it into words, but I believe you will come to regret what you've said. In fact, I'm sure of it.\"\nSo she says.",
+      "sourceUnit": "凛ルート四日目-10:page89:1"
+    },
+    "page90": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

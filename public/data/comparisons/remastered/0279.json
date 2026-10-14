@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0279",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "It's getting late.\nAfter dinner, I went to the dojo with Saber to receive punishment—Saber called it training, but I swear she was just bullying me—and when we finished, it was past 10 PM.\nThe three of them are rooming together again, and Fuji-nee and Sakura already turned in.",
+      "sourceUnit": "凛ルート五日目-16:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou...? What is it? Are you not returning to your room?\"\n\"Hm...? Yeah, I'll go. But there's something I wanted to ask you before that.\"",
+      "sourceUnit": "凛ルート五日目-16:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Is something bothering you? Please go ahead, I will answer anything I can.\"\n...",
+      "sourceUnit": "凛ルート五日目-16:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...I guess I should get straight to the point.\nWhat Archer said...\nServants, who have no freedom, desire the Holy Grail to obtain freedom...\nSaber should be the same, but he said that she doesn't seek freedom.",
+      "sourceUnit": "凛ルート五日目-16:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Saber. You need the Holy Grail, right?\"\n\"...Yes. My objective is to obtain the Holy Grail. I became a Heroic Spirit for that reason. I believe I told you this before.\"",
+      "sourceUnit": "凛ルート五日目-16:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"I know. But, for what?\nServants who obtain the Holy Grail can stay in this world without a Master, right?\nThen...you're going to obtain the Holy Grail and do what you wanted to do here, right?\"",
+      "sourceUnit": "凛ルート五日目-16:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...No. I will leave this world after obtaining the Holy Grail. It will not be permitted for me to stay here since I am not from this world, and most of all, I do not have anything that I want to do.\"",
+      "sourceUnit": "凛ルート五日目-16:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "Her eyes are determined.\nThere's absolutely no hesitation or deceit in them, and no room for me to argue the point.",
+      "sourceUnit": "凛ルート五日目-16:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. I can't say anything since I don't know what your objective is, but...\"",
+      "sourceUnit": "凛ルート五日目-16:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "...Well, I'm starting to think that it's unlike Saber to ask for a wish from the Holy Grail.\nI don't know what the Holy Grail is.\nBut I have a feeling deep down that it isn't the sort of thing this golden-haired girl ought to pursue.",
+      "sourceUnit": "凛ルート五日目-16:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"...But I did promise that we'd obtain the Holy Grail...I'll believe your words for now.\"\n\"Is something wrong, Shirou? You have not seemed well ever since you came home.\"",
+      "sourceUnit": "凛ルート五日目-16:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"That's not true... Oh yeah. Saber, about our plans moving forward...\"\nSaber looks serious again.\nAs expected of her. No matter how close she gets with Fuji-nee, Saber is still Saber.\nIt's annoying, but just as Archer said, fighting is her true nature.",
+      "sourceUnit": "凛ルート五日目-16:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"I went to school today and found out that there's a third Master... Um, then I had a quarrel with Tohsaka. A lot happened, and then we ended up settling on a truce until we find the Master hiding at our school...\"",
+      "sourceUnit": "凛ルート五日目-16:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "In a rush, I report what happened.\nSaber was listening with a serious face at first, but as the story went on...\nShe started looking at me in dissatisfaction.",
+      "sourceUnit": "凛ルート五日目-16:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm. Saber, are you opposed to cooperating with Tohsaka?\"\n\"No. I agree with learning from Rin as you have little knowledge.\nHowever, if you make such important decisions, you must tell me right away. Consulting me beforehand would have been preferrable as well.\"\nWith reproach in her tone, Saber stares me down.\n...I'm ashamed of myself since she's absolutely right.",
+      "sourceUnit": "凛ルート五日目-16:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Then, you will cooperate with Rin to search the school starting tomorrow?\"\n\"I guess that's how it'll be. I'll call for you if we find something odd, so stand by here until then.\"",
+      "sourceUnit": "凛ルート五日目-16:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hmm. It is too lenient of a plan, but it will be perfect until you get used to battle.\nSo for the time being, we will be going after the Master that set up the Bounded Field at school?\"\nI nod.\nAfter thinking for a bit...",
+      "sourceUnit": "凛ルート五日目-16:page16:1"
+    },
+    "page17": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "凛ルート五日目-16:page17:1"
+    }
+  }
+}

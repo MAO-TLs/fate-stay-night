@@ -1,0 +1,96 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0667",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Time to make a final choice.",
+      "sourceUnit": "桜ルート十五日目-00:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "It's clear who will win this battle.\nNo, it would be more accurate to say that it was decided long ago.\nThis conclusion was ordained from the moment I lost her.",
+      "sourceUnit": "桜ルート十五日目-00:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"But Shirou, choosing to go after it is the most difficult path of all.\nPlease keep that in mind.\"",
+      "sourceUnit": "桜ルート十五日目-00:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "The girl who fought by your side and acted as your sword until the very end said that.\nOn the night you parted ways,\nyou promised her that you'd go on fighting by yourself to put a stop to the Shadow and this war.",
+      "sourceUnit": "桜ルート十五日目-00:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "You went through hell.\nYou survived it for a reason.\nYou're still alive for a reason.\nYou didn't miraculously survive while everyone else died.\nThey all gave up their lives so that one person might live.",
+      "sourceUnit": "桜ルート十五日目-00:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "You hated that.\nTo break that reality, you told yourself that you had to become a righteous hero who saves everyone.",
+      "sourceUnit": "桜ルート十五日目-00:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "You don't know what his tears meant.\nHe destroyed the Holy Grail, rejected what he'd been fighting for, and desperately dug through the rubble to find a survivor.\nNo matter what he was thinking, his tears saved you and showed you a new path.",
+      "sourceUnit": "桜ルート十五日目-00:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "It became a lonely path.\nHe showed you a dream as he walked ahead of you, and then he died.\n\"Good. That's a relief.\"\nKiritsugu Emiya took the sins he never atoned for to his grave.",
+      "sourceUnit": "桜ルート十五日目-00:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "He couldn't save anyone,\nso he wanted you to become someone who could save others.",
+      "sourceUnit": "桜ルート十五日目-00:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"If you are going to deny everything you are...\nyou will be judged for that sin.\"",
+      "sourceUnit": "桜ルート十五日目-00:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "...You know that.\nYou've spent your entire life trying to redeem yourself.\nYou've killed yourself for the last ten years, believing in that idea.\nYour dead self just keeps nibbling away at your living self, like worms eating a corpse.",
+      "sourceUnit": "桜ルート十五日目-00:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "And this is the embodiment of your sin.\nIt's pointless to mourn a saint.\nAs long as Archer's arm is attached to you, it will devour you and force you to atone.\nIt will bring you a ghastly fate worse than death.",
+      "sourceUnit": "桜ルート十五日目-00:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "Yes.\nEven if you were to lose your life that hangs by a thread, you will not simply die.\nAnd yet, why...",
+      "sourceUnit": "桜ルート十五日目-00:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You know as well as I do that you can only choose to save one person, not everyone.\"",
+      "sourceUnit": "桜ルート十五日目-00:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "For a long, long time that girl searched for her father with only vengeance in her heart.\nWhen you asked her to move in with you, she smiled sadly.\nShe told you it wasn't possible.\nThe two of us cannot live long together.\nAnd that's why...",
+      "sourceUnit": "桜ルート十五日目-00:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "\"Bye. It's been fun, big brother.\"",
+      "sourceUnit": "桜ルート十五日目-00:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "—.",
+      "sourceUnit": "桜ルート十五日目-00:page16:1"
+    },
+    "page17": {
+      "status": "source_integrity_hold",
+      "text": null,
+      "sourceUnit": "桜ルート十五日目-00:page17:1"
+    }
+  }
+}

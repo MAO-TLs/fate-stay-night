@@ -1,0 +1,31 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0343",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "\"...Rolled omelet and miso soup it is then. It's not good to spoil them.\"\nMore importantly, the problem is how I should deal with the intruder that attacked the kitchen in the middle of the night.",
+      "sourceUnit": "凛ルート十一日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Are you awake, Tohsaka?\"\nI knock on the door of the guestroom, but there's no response.\nIt's almost 7 AM.\nIt may be possible for Fuji-nee, but there's no way that Tohsaka, the typical model student, isn't awake at this time.",
+      "sourceUnit": "凛ルート十一日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka. Tohsaka. Tohsaka!\"\n...That's strange.\nDoes this mean she's somewhere else if she's not answering even after calling for her this much?",
+      "sourceUnit": "凛ルート十一日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"...This is a bit weird.\"\n...I'm worried.\nIt's not like she went out to town by herself and hasn't returned, right?",
+      "sourceUnit": "凛ルート十一日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Hm.\"\nI'll...",
+      "sourceUnit": "凛ルート十一日目-01:page4:1"
+    }
+  }
+}

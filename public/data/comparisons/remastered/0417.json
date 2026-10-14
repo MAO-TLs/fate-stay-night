@@ -1,0 +1,202 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0417",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Let's go talk to Saber.\n...Even if we defeat Gilgamesh, Saber will still be gone once this fight is over.\nSaber will destroy the Holy Grail with her own hands, and release herself from her duty as a Servant.\nWhen that moment comes, I won't be able to see her anymore.",
+      "sourceUnit": "凛ルート十四日目-06:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "...This will be our last conversation.\nBefore we head into our last battle, I want to make sure we've left something tangible behind for the two of us.",
+      "sourceUnit": "凛ルート十四日目-06:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou? Did something happen to make you come here?\"\n\"Well, nothing really happened. I just wanted to see your face. Oh, I'm sorry if I'm interfering with something. Maybe you were trying to concentrate before the big fight.\"",
+      "sourceUnit": "凛ルート十四日目-06:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "\"What... N-no, nothing of the sort.\nI also wanted to see your face, so I am happy that you are here... Umm, I thought you would've gone to Rin's room for sure.\"",
+      "sourceUnit": "凛ルート十四日目-06:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm? Why would I go to Tohsaka's room? It's not like she called me to her room or anything.\"",
+      "sourceUnit": "凛ルート十四日目-06:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"Y-you are right. It seems that my assumption was off, please forget about what I said.\nM-maybe it was unnecessary, but I-I just thought maybe that would be for the best...or something like that.\"",
+      "sourceUnit": "凛ルート十四日目-06:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...?\"\nSaber is acting even more weird.\n...Not sure why, but I feel like her face will get infinitely redder if I leave her be, so I decide to ask:",
+      "sourceUnit": "凛ルート十四日目-06:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong, Saber? You're acting weird right now.\nDid something happen?\"",
+      "sourceUnit": "凛ルート十四日目-06:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"N-nothing weird happened. I-I was simply trying to rest up and get ready for the fight ahead of us.\nI could ask you the same thing. Are you not planning to sleep for a bit and be in the best possible condition before we head to Ryudou Temple?\"",
+      "sourceUnit": "凛ルート十四日目-06:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"Mrgh.\"\nWhen she puts it like that, it's really hard to say directly to her face that I just wanted to spend time with her.",
+      "sourceUnit": "凛ルート十四日目-06:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "If I can't say that...\n\"Ummm, I can't really sleep. So I was thinking if I'm up already, I might as well come here and get a cup of tea with you.\nI mean Tohsaka seems kind of busy anyway.\"\nI didn't really think too much and just told her how I felt.",
+      "sourceUnit": "凛ルート十四日目-06:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Tea...you say? When we are about to go face the King of Heroes in just a few hours?\"",
+      "sourceUnit": "凛ルート十四日目-06:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "\"Yeah. I figure we're probably both too tense to properly rest.\nThen spend some time with me, Saber. I will treat you to the best tea I have.\"",
+      "sourceUnit": "凛ルート十四日目-06:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"You're right. I would be glad to spend time with you, Shirou.\"",
+      "sourceUnit": "凛ルート十四日目-06:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "...Then we must strike the iron while it's hot.\nI head back to the kitchen to brew a pot of the Chinese tea that I bought just for this occasion, thinking I will treat Saber to it.",
+      "sourceUnit": "凛ルート十四日目-06:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "Then...\nIn the end, we enjoyed the tea together, and nothing else happened.\nWe didn't strike up a conversation, not even a short exchange of phrases.\nWe simply sat there and stared at the dojo.\nIt was a short few days, but we've exchanged quality time here... I think this while staring at the wooden floor.",
+      "sourceUnit": "凛ルート十四日目-06:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Shirou, you should go find Rin. Knowing her, she's probably already come up with something new.\"\n\"Yeah, maybe. I will go if you say so.\"\nI stand up and leave the dojo.",
+      "sourceUnit": "凛ルート十四日目-06:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"Well then, Shirou, see you soon.\"\n\"Yeah. Let me go check up on that angry Master of yours.\"",
+      "sourceUnit": "凛ルート十四日目-06:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "I leave the dojo as Saber says goodbye to me.\n...In the end, that was our last time spent together.\nNothing tangible was left behind between us.\nThere were neither promises nor warmth that would sear into my memory. I couldn't create a single sign to remind me that Saber was indeed here.",
+      "sourceUnit": "凛ルート十四日目-06:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "...But, I have a feeling perhaps that's for the best.\nWhatever's left behind will eventually end up being a fading memory.\nThat's why I'll make sure I keep the memories of the simple times we've spent together close to my heart...",
+      "sourceUnit": "凛ルート十四日目-06:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"Heeey, Tohsaka. Are you awake?\"\nI knock on her door.",
+      "sourceUnit": "凛ルート十四日目-06:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"...I am awake. What about you? You don't need to sleep? It looks like you were spending some quality time with Saber at the dojo.\"",
+      "sourceUnit": "凛ルート十四日目-06:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"Oh? I didn't know you were watching us.\n...That makes sense, though. You could see the dojo clearly from your room.\nIn that case, you should've come down to the dojo. If you were awake, the three of us could've had some tea together.\"",
+      "sourceUnit": "凛ルート十四日目-06:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"...Whatever.\n...I really didn't think that would work out.\nAnyway, just come in. I was just thinking about going to find you guys to talk about something.\"\nHmmm. She seems kinda irritated at something.",
+      "sourceUnit": "凛ルート十四日目-06:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"...Got it, thanks.\"\nStill wondering what she's thinking, I enter the room and slowly close the door behind me.",
+      "sourceUnit": "凛ルート十四日目-06:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Aren't you confident? What were you doing with Saber?\"\nWhoa.\nShe glares at me as soon as we see each other.",
+      "sourceUnit": "凛ルート十四日目-06:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Nothing really. We were just drinking tea.\nWe have a big battle coming up, so we wouldn't be sparring. I can't just waste my energy, after all.\"",
+      "sourceUnit": "凛ルート十四日目-06:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Waste your energy... O-of course, you really can't afford to waste your energy.\"\n...Huh?\nWhy did you get quiet all of a sudden?",
+      "sourceUnit": "凛ルート十四日目-06:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, are you in a really bad mood right now?\"\nI already know what she's going to say, but it doesn't hurt to ask.\n\"WHAT DO YOU THINK?\"\nShe'd obviously yell at me, but I really am curious, so I end up asking her anyway.\nHowever...",
+      "sourceUnit": "凛ルート十四日目-06:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"...Never mind. It's not like I'm actually mad at you.\"\nWell, now she's making me even more confused.",
+      "sourceUnit": "凛ルート十四日目-06:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, do you...have a fever or something?\"\n\"No, I don't! ...Ugh, will you just sit down already!?\nI will think of something to deal with Gilgamesh since you can't think of anything by yourself!\"",
+      "sourceUnit": "凛ルート十四日目-06:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka drags me inside the room and locks the door. Then she slowly moves back into the room.\n\"...?\"\nAnyway, I start to move toward the center of the room.\nFacing toward Tohsaka, I sit down across from her.",
+      "sourceUnit": "凛ルート十四日目-06:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "...\n...\nAnd somehow we're both not saying a word, this feels awkward...",
+      "sourceUnit": "凛ルート十四日目-06:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka, about Gilgamesh...\"\n\"...I know. You're going to tell me you don't want to have Saber fight him, right? You're really considerate of her.\"",
+      "sourceUnit": "凛ルート十四日目-06:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Hold on, that's not what I'm talking about.\nI'm simply saying that Gilgamesh is a bad match for Saber, so we should rethink our formation, that's all. If Saber is defeated and no one is left to slow him down, Tohsaka would be next.\"",
+      "sourceUnit": "凛ルート十四日目-06:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"...I see. Well how do you propose we change our formation?\nI'm not going up against that Goldy. He is taking advantage of his treasury and has anti-magecraft armor on. He's a bad match for Saber but an even worse match for me. Same for you.\"",
+      "sourceUnit": "凛ルート十四日目-06:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "...\nShe's right.",
+      "sourceUnit": "凛ルート十四日目-06:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "...But I just can't forget those eyes.\nWhat Archer's gaze was trying to tell me.\nThat golden Servant.\nOnly Shirou Emiya can go up against Gilgamesh.",
+      "sourceUnit": "凛ルート十四日目-06:page37:1",
+      "recoveredDelimitedTail": true
+    },
+    "page38": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

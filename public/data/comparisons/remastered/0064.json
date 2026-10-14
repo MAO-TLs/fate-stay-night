@@ -1,0 +1,227 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0064",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Besides, I don't have much choice.\nThere's too much I don't know, and I have no experience as a mage.\nIf Tohsaka is offering to help me, however temporary, it's an offer I can't turn down.",
+      "sourceUnit": "セイバールート四日目-18:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "\"All right. I'll take your offer, Tohsaka. Honestly, I'd really appreciate your help.\"",
+      "sourceUnit": "セイバールート四日目-18:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"Then that settles it. Let's shake on it. We're allies until we defeat Berserker.\"\n\"Oh...right. Yeah, I guess that should be the arrangement. I guess I don't have control over the timing, but it'll probably help to know the timeline.\"",
+      "sourceUnit": "セイバールート四日目-18:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "I shake the offered hand.\n...I'm a little perplexed.\nTohsaka's hand is so soft; it reminds me she's a girl.\nMy hand, in comparison, is covered with scratches and it seems a poor match for hers.",
+      "sourceUnit": "セイバールート四日目-18:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "...\nThe moment I think that, I find myself getting embarrassed. I quickly pull my hand back.",
+      "sourceUnit": "セイバールート四日目-18:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"What's wrong? Are you changing your mind about working with me?\"\n\"Uh, it's not that. I really appreciate that I'm going to be able to work with you. That was more, uh, a personal thing, so don't worry about it.\"",
+      "sourceUnit": "セイバールート四日目-18:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "Tohsaka looks at me strangely.\n\"Ohhh.\"\nHer face turns mischievous.",
+      "sourceUnit": "セイバールート四日目-18:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "\"Wh-what? I might dissolve our agreement if you say something stupid. I'm serious. I really will!\"\n\"Was that the first time you held a girl's hand?\nI thought you had a lot of friends. I didn't realize you were so shy, Shirou.\"",
+      "sourceUnit": "セイバールート四日目-18:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "\"W-wrong! That's not true...!\"\nThere's no way in hell I can could say I got embarrassed because it was her...and yeah, fine, I haven't really touched a girl so intimately before, but...",
+      "sourceUnit": "セイバールート四日目-18:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "And no, Fuji-nee doesn't count.\nShe's more like something from a different planet than someone of a different gender.\n\"...Hey, hold on.\"\nWhat'd Tohsaka just say?",
+      "sourceUnit": "セイバールート四日目-18:page9:1"
+    },
+    "page10": {
+      "status": "exact_japanese_text",
+      "text": "\"Ahaha, you really do wear your feelings on your sleeve. Fine. I'll let it go. I wouldn't want you sulking if I pushed your buttons too much.\"",
+      "sourceUnit": "セイバールート四日目-18:page10:1"
+    },
+    "page11": {
+      "status": "exact_japanese_text",
+      "text": "\"Then here's my deposit. Consider it a proof of my alliance with you.\"\nI don't know where she'd been keeping it, but she tugs out a giant book and slaps it on the table.",
+      "sourceUnit": "セイバールート四日目-18:page11:1"
+    },
+    "page12": {
+      "status": "exact_japanese_text",
+      "text": "It looks like a diary.\nThere's no title, and the cover is wine red.\nIt seems to be Tohsaka's trademark color.",
+      "sourceUnit": "セイバールート四日目-18:page12:1"
+    },
+    "page13": {
+      "status": "exact_japanese_text",
+      "text": "\"This was my father's, but I don't need it anymore, so I'll give it to you. It's not the kind of thing a full-fledged Master needs, but I figure you might benefit from it.\"\nTohsaka gestures for me to flip through it.",
+      "sourceUnit": "セイバールート四日目-18:page13:1"
+    },
+    "page14": {
+      "status": "exact_japanese_text",
+      "text": "\"...Okay, thanks.\"\nI open to a random page.",
+      "sourceUnit": "セイバールート四日目-18:page14:1"
+    },
+    "page15": {
+      "status": "exact_japanese_text",
+      "text": "And then...\nThere's nothing written on the pages, but a strange image suddenly pops into my head.",
+      "sourceUnit": "セイバールート四日目-18:page15:1"
+    },
+    "page16": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? Tohsaka, what is this?\"\n\"It's a chart that records each Servant's abilities. You know there are certain rules in a Holy Grail War, right? That applies to Servants, too.\"",
+      "sourceUnit": "セイバールート四日目-18:page16:1"
+    },
+    "page17": {
+      "status": "exact_japanese_text",
+      "text": "\"First of all, only seven Heroic Spirits get summoned.\nThe seven can only be summoned after they are assigned to one of the predetermined classes the Holy Grail has prepared in advance. Instead of summoning the Heroic Spirits themselves, the Holy Grail creates a vessel close to each Heroic Spirit, and then summons the spirit into it.\"",
+      "sourceUnit": "セイバールート四日目-18:page17:1"
+    },
+    "page18": {
+      "status": "exact_japanese_text",
+      "text": "\"You know how séances and mediums work by calling on the spirit and drawing them into the caster's body so the spirit can communicate, right? It's like that.\nIn order to summon spirits from different ages, you need a sort of container.\"",
+      "sourceUnit": "セイバールート四日目-18:page18:1"
+    },
+    "page19": {
+      "status": "exact_japanese_text",
+      "text": "\"Classes...oh, so that's why Saber's called Saber!\"\n\"Exactly. Remember that Heroic Spirits need to conceal their identities. That's why you never say their real name. So, their summoned class then serves as their name.\"",
+      "sourceUnit": "セイバールート四日目-18:page19:1"
+    },
+    "page20": {
+      "status": "exact_japanese_text",
+      "text": "\"The classes are:\nSaber,\nLancer,\nArcher,\nRider,\nCaster,\nAssassin,\nand Berserker. A total of seven.\"",
+      "sourceUnit": "セイバールート四日目-18:page20:1"
+    },
+    "page21": {
+      "status": "exact_japanese_text",
+      "text": "\"The class lineup may differ depending on the Holy Grail War, but we have a classic lineup in this war. The common belief is that Saber is the most powerful.\nEach class has its own unique characteristics, but each Servant's abilities differ according to the summoned Heroic Spirit's rank, so be mindful of that.\"",
+      "sourceUnit": "セイバールート四日目-18:page21:1"
+    },
+    "page22": {
+      "status": "exact_japanese_text",
+      "text": "\"A Heroic Spirit's rank... You mean how strong they were in life?\"",
+      "sourceUnit": "セイバールート四日目-18:page22:1"
+    },
+    "page23": {
+      "status": "exact_japanese_text",
+      "text": "\"That's part of it, but their abilities are also dependent on their notability.\nWhat they did or what kind of weapon they wielded may not change, but their basic abilities will change depending on how famous they were in their time.\nHeroic Spirits are like gods, so they become more powerful the more people worship them.\"",
+      "sourceUnit": "セイバールート四日目-18:page23:1"
+    },
+    "page24": {
+      "status": "exact_japanese_text",
+      "text": "\"I guess you could say their essence becomes more potent. It's similar to divine spirits falling in rank to elementals if they lose devout followers. Similarly, a hero forgotten by the people doesn't have much power.\nAlthough, a hero who was powerful to begin with should retain at least some power and abilities, whether they were unknown or forgotten.\"",
+      "sourceUnit": "セイバールート四日目-18:page24:1"
+    },
+    "page25": {
+      "status": "exact_japanese_text",
+      "text": "\"Then if the hero is well-known and their legend was extraordinary...\"\n\"They would be a rank A Servant, yeah.\nAnd that's why Berserker might be one of the strongest ever.\nHe's the most famous hero from Greek mythology.\nHeroes from the Age of Gods already have special Noble Phantasms to begin with, and there's not much we can do if the heroes themselves are strong.\"",
+      "sourceUnit": "セイバールート四日目-18:page25:1"
+    },
+    "page26": {
+      "status": "exact_japanese_text",
+      "text": "\"Tohsaka...what the heck's a Noble Phantasm?\"\n\"A Noble Phantasm is a Servant's iconic item which they used during their lifetime. Heroes and magical swords, or sacred swords, come as a set, right? It's basically their armament.\"\n\"Huh? Weapon? Like Saber's invisible sword?\"",
+      "sourceUnit": "セイバールート四日目-18:page26:1"
+    },
+    "page27": {
+      "status": "exact_japanese_text",
+      "text": "\"Something like that. I don't know what the story with that sword is, but whatever Saber's wielding is definitely her Noble Phantasm.\nI don't think I need to even say this, but heroes can't remain in their legend with just their name alone.\nEach hero has a weapon that is sort of their trademark.\nAnd that is the crystallization of the people's desire for a miracle...their Noble Phantasm.\"",
+      "sourceUnit": "セイバールート四日目-18:page27:1"
+    },
+    "page28": {
+      "status": "exact_japanese_text",
+      "text": "\"Hm, so it's a powerful magical item.\"",
+      "sourceUnit": "セイバールート四日目-18:page28:1"
+    },
+    "page29": {
+      "status": "exact_japanese_text",
+      "text": "\"Exactly. Simply put, Heroic Spirits are no match for powerful magecraft or Mystics.\nBut when their Noble Phantasms come into play, it's a whole different story.\nHeroic Spirits who wield Noble Phantasms can defeat even elementals several ranks higher than them.\nThis is because most are sacred or magical swords that appear in legend, and they are close to the level of Magic.\"",
+      "sourceUnit": "セイバールート四日目-18:page29:1"
+    },
+    "page30": {
+      "status": "exact_japanese_text",
+      "text": "\"Swords that can kill dragons, the most powerful species of Phantasmals...shoes that allow the wearer to travel thousands of miles...or even magical swords that can kill deities...\nWhatever they may be, now you understand that the armaments Heroic Spirits wield are on an entirely different level, so much so that you might wonder why they aren't invincible.\nIt's no exaggeration to say that battles between Servants are ultimately battles between their Noble Phantasms.\"",
+      "sourceUnit": "セイバールート四日目-18:page30:1"
+    },
+    "page31": {
+      "status": "exact_japanese_text",
+      "text": "\"So what you're saying is that these Servants, who are Heroic Spirits, will most definitely have at least one Noble Phantasm.\"",
+      "sourceUnit": "セイバールート四日目-18:page31:1"
+    },
+    "page32": {
+      "status": "exact_japanese_text",
+      "text": "\"Yes. And as a general rule, one Heroic Spirit can only wield one Noble Phantasm.\nThey're usually swords or spears. Have you ever heard of the legendary Chinese sword, the Hazanken...the mountain-cutting sword? You can only swing it once, but it's a magecraft item said to destroy an entire mountain in one swing. I think it's like that.\"",
+      "sourceUnit": "セイバールート四日目-18:page32:1"
+    },
+    "page33": {
+      "status": "exact_japanese_text",
+      "text": "\"But, Noble Phantasms are a kind of miracle activated only when their True Names are spoken, so they can't be used casually.\"",
+      "sourceUnit": "セイバールート四日目-18:page33:1"
+    },
+    "page34": {
+      "status": "exact_japanese_text",
+      "text": "\"Huh? It activates when the weapon's name is spoken, right? Why would that make it so hard to use?\"",
+      "sourceUnit": "セイバールート四日目-18:page34:1"
+    },
+    "page35": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't you not realize that saying the weapon's name also tells you which hero the Servant is?\nThe heroes and their magical swords are a set, so if you know their weapon's name, you will also know its wielder's name. If that happens, you'll then know their strengths and weaknesses.\"",
+      "sourceUnit": "セイバールート四日目-18:page35:1"
+    },
+    "page36": {
+      "status": "exact_japanese_text",
+      "text": "\"I see. Yeah, you make a good point.\"\nNow that I think back, when Lancer used his Noble Phantasm, Saber immediately figured out his identity.\nSomething about Ireland's Child of Light...",
+      "sourceUnit": "セイバールート四日目-18:page36:1"
+    },
+    "page37": {
+      "status": "exact_japanese_text",
+      "text": "\"Hmmm...\"\nOkay, so...\nServants are separated by classes, and each of them are Heroic Spirits suited to that class.",
+      "sourceUnit": "セイバールート四日目-18:page37:1"
+    },
+    "page38": {
+      "status": "exact_japanese_text",
+      "text": "They're all concealing their identities.\nAnd the weapons that they wield are the most powerful aces they've got up their sleeve, but they can't use it freely, or they would wind up revealing their identity.",
+      "sourceUnit": "セイバールート四日目-18:page38:1"
+    },
+    "page39": {
+      "status": "exact_japanese_text",
+      "text": "\"That's all I can tell you about Servants.\nIf you want more details, just look in that book. Flip through it when you have the time. Once you get used to it, you should be able to identify Servants intuitively without the book.\"\nWith that, Tohsaka stands up.",
+      "sourceUnit": "セイバールート四日目-18:page39:1"
+    },
+    "page40": {
+      "status": "exact_japanese_text",
+      "text": "\"Okay, well I'm heading home.\"\n\"Eh? Yeah, thanks.\"\nI'm still sitting on the floor, so I look up at Tohsaka as she gets ready to leave.",
+      "sourceUnit": "セイバールート四日目-18:page40:1"
+    },
+    "page41": {
+      "status": "exact_japanese_text",
+      "text": "\"Don't get confused about things just because we formed an alliance. You and me? We're going to fight eventually. When all the other Masters have been defeated, or even if they're still alive, we're bound to fight. No matter what.\nYou're better off not seeing me as human, Emiya.\"",
+      "sourceUnit": "セイバールート四日目-18:page41:1"
+    },
+    "page42": {
+      "status": "exact_japanese_text",
+      "text": "After making very clear where we stand, Tohsaka leaves for her home.",
+      "sourceUnit": "セイバールート四日目-18:page42:1",
+      "recoveredDelimitedTail": true
+    },
+    "page43": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema": "fsn-remastered-comparison/1",
+  "scriptId": "0362",
+  "rows": {
+    "page0": {
+      "status": "exact_japanese_text",
+      "text": "Meet up with Tohsaka.\nShe told me to withdraw now.\nIf I'm going to refuse and fight, I need to let her know.\nThat I won't withdraw on my own, and that we're still cooperating.\nAnd...",
+      "sourceUnit": "凛ルート十二日目-01:page0:1"
+    },
+    "page1": {
+      "status": "exact_japanese_text",
+      "text": "I can't let her fight by herself.\nI owe her big time.\nI can't step down until I repay her for that.",
+      "sourceUnit": "凛ルート十二日目-01:page1:1"
+    },
+    "page2": {
+      "status": "exact_japanese_text",
+      "text": "\"...And she always screws up at the most crucial moment... She's so unreliable, I can't let her be alone.\"\nI adjust the bag on my shoulder.\n...I'm aware that I won't be of much help and that she will object.\nBut I can't obtain peace of mind until I see Tohsaka's face.",
+      "sourceUnit": "凛ルート十二日目-01:page2:1"
+    },
+    "page3": {
+      "status": "exact_japanese_text",
+      "text": "...This is hypothetical, but...\nIf she gets hurt without me knowing, I can't even be there to help her...",
+      "sourceUnit": "凛ルート十二日目-01:page3:1"
+    },
+    "page4": {
+      "status": "exact_japanese_text",
+      "text": "\"...Phew.\"\nI sit down on a bench and rest my burning body.\nIt's past noon.\nI've searched all around Shinto, but I haven't found anything.",
+      "sourceUnit": "凛ルート十二日目-01:page4:1"
+    },
+    "page5": {
+      "status": "exact_japanese_text",
+      "text": "\"...Damn. I knew it wasn't going to be easy, but I didn't think I would find nothing.\"\nI knew that I had no way to find Tohsaka from the start.\nI tested my luck and looked around town, but I couldn't find her or even traces of her.",
+      "sourceUnit": "凛ルート十二日目-01:page5:1"
+    },
+    "page6": {
+      "status": "exact_japanese_text",
+      "text": "\"...The other Masters aren't coming out either... I guess there's no need to even attack me now that I don't have a Command Spell.\"\nI take a deep breath and lean back on the backrest.",
+      "sourceUnit": "凛ルート十二日目-01:page6:1"
+    },
+    "page7": {
+      "status": "exact_japanese_text",
+      "text": "...\nI won't get anywhere like this.\nTohsaka isn't naïve enough to show her tail, and my last resort to use myself as decoy to lure other Masters is failing so far.",
+      "sourceUnit": "凛ルート十二日目-01:page7:1"
+    },
+    "page8": {
+      "status": "exact_japanese_text",
+      "text": "...I get a bit uneasy.\nI can't find Tohsaka and can't save Saber.\nThey might already be in an irreparable situation by the time I find them...",
+      "sourceUnit": "凛ルート十二日目-01:page8:1"
+    },
+    "page9": {
+      "status": "exact_japanese_text",
+      "text": "\"...It's still noon. I won't let that happen so easily.\"\nI stand up from the bench.\nI ignore my left shoulder that starts heating up again and leave the park.",
+      "sourceUnit": "凛ルート十二日目-01:page9:1"
+    },
+    "page10": {
+      "status": "unresolved_alignment",
+      "text": null,
+      "sourceUnit": null
+    },
+    "page11": {
+      "status": "no_display_text",
+      "text": null,
+      "sourceUnit": null
+    }
+  }
+}
