@@ -121,10 +121,23 @@ for (const [name, refs] of Object.entries(finalOriginalExpected)) {
   }
 }
 assert.equal(Object.values(finalOriginalExpected).flat().length,16);
+// These insertion assertions describe the historical manuscript layer. The
+// release overlay has independent exact native/source and concordance tests.
+const releaseBindings=JSON.parse(fs.readFileSync(path.join(root,"scripts/data/reader-v1.3.0.json"))).bindings;
+const historicalPage=(scriptId,page)=>{
+  const binding=releaseBindings.find(row=>row.script_id===scriptId && row.ref===page.ref && !row.occurrence);
+  if(!binding) return page;
+  const restored=structuredClone(page);
+  for(const key of new Set([...Object.keys(binding.before),...Object.keys(binding.after)])) {
+    if(Object.hasOwn(binding.before,key)) restored[key]=structuredClone(binding.before[key]);
+    else delete restored[key];
+  }
+  return restored;
+};
 for (const addition of additions) {
   const meta=scripts.find(s=>s.script===addition.script);
   const data=JSON.parse(fs.readFileSync(path.join(root,"public/data/script",meta.id+".json")));
-  const page=data.pages.find(p=>p.ref===addition.ref);
+  const page=historicalPage(meta.id,data.pages.find(p=>p.ref===addition.ref));
   assert.ok(page,`Missing addition page: ${addition.script}:${addition.ref}`);
   if (addition.virtual) {
     assert.equal(page.editionVirtual,true);
@@ -167,7 +180,7 @@ for (const addition of additions) {
   }
   if (addition.reuse) {
     const donorMeta=scripts.find(s=>s.script===addition.reuse.script);
-    const donor=JSON.parse(fs.readFileSync(path.join(root,"public/data/script",donorMeta.id+".json"))).pages.find(p=>p.ref===addition.reuse.ref);
+    const donor=historicalPage(donorMeta.id,JSON.parse(fs.readFileSync(path.join(root,"public/data/script",donorMeta.id+".json"))).pages.find(p=>p.ref===addition.reuse.ref));
     assert.deepEqual(page.editions.original.en.split("\n\n").slice(1,4),donor.editions.original.en.split("\n\n").slice(1,4));
   }
 }
@@ -178,7 +191,7 @@ assert.ok(originalPassage("page13").includes("The insects recede"));
 assert.ok(!originalPassage("page13").includes("The monsters’ presences"));
 assert.deepEqual(originalPassage("page13").split("\n\n").slice(0,3),chamber.pages.find(p=>p.ref==="page13").en.split("\n\n").slice(0,3));
 assert.ok(originalPassage("page0").includes("someone being dragged in."));
-assert.ok(originalPassage("page15").includes("breeding pool of insects—the black Servant"));
+assert.ok(originalPassage("page15").includes("breeding pool of insects, the black Servant"));
 assert.ok(!originalPassage("page15").includes("monsters—the black Servant"));
 for (const [name,ref,phrases] of [
   ["セイバールート一日目-07","page0",["I walk through the town at night.","starry winter sky","It must be around seven thirty.","not another soul outside"]],

@@ -31,6 +31,12 @@ jobs:
         run: npm test && npm run typecheck && npm run build
       - name: Verify shipped patch display safeguards
         run: python3 scripts/test-patch-display.py
+      - name: Verify reader release synchronization
+        run: |
+          python3 scripts/reader_release.py --check
+          python3 scripts/test-reader-release.py
+          python3 -m unittest discover -s scripts/patch_tools -p 'test_reader_projection.py'
+          node scripts/test-comparison-editions.cjs
       - name: Configure Pages
         uses: actions/configure-pages@v5
       - name: Upload site artifact

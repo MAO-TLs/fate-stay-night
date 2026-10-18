@@ -6,6 +6,7 @@ import json
 import hashlib
 import re
 import argparse
+import reader_release
 
 SITE = Path(__file__).resolve().parents[1]
 ROOT = SITE.parent
@@ -640,7 +641,9 @@ def refresh_editions() -> None:
         path = OUT / f'{meta["id"]}.json'
         before = path.read_text()
         payload = json.loads(before)
+        reader_release.apply(meta["script"], payload["pages"], restore=True)
         embedded_editions(meta["script"], payload["pages"], EN / f'{meta["script"]}.md')
+        reader_release.apply(meta["script"], payload["pages"])
         after = json.dumps(payload, ensure_ascii=False, separators=(",", ":"))
         if after != before:
             changes[path] = after
@@ -665,6 +668,7 @@ def refresh_editions() -> None:
             for edition in ("original", "all-ages")
         }
     index["pageCount"] = sum(meta["pages"] for meta in index["scripts"])
+    index.update(version=reader_release.VERSION, patchSha256=reader_release.PATCH_SHA256)
     encoded_index = json.dumps(index, ensure_ascii=False, separators=(",", ":"))
     if encoded_index != (OUT / "index.json").read_text():
         changes[OUT / "index.json"] = encoded_index
@@ -729,6 +733,7 @@ def main() -> None:
                     "speaker": unit.get("speaker"), "kind": unit["kind"],
                 })
         embedded_editions(script, payload["pages"], en_path)
+        reader_release.apply(script, payload["pages"])
         payloads.append(payload)
         concordance.extend({"scriptId": ids[script], "script": script, "route": route, "title": script,
                             **{key: value for key, value in page.items() if key != "mirrorMoon"}}
@@ -736,7 +741,8 @@ def main() -> None:
     scripts = [{**{k:p[k] for k in ("id", "script", "route", "title")}, "pages":len(p["pages"]),
         "editionPages": {edition: sum(edition in page.get("availableEditions", ["original", "all-ages"]) for page in p["pages"])
                          for edition in ("original", "all-ages")}} for p in payloads]
-    index = {"scripts": scripts, "scriptCount": len(scripts), "pageCount": sum(x["pages"] for x in scripts)}
+    index = {"scripts": scripts, "scriptCount": len(scripts), "pageCount": sum(x["pages"] for x in scripts),
+             "version": reader_release.VERSION, "patchSha256": reader_release.PATCH_SHA256}
     OUT.mkdir(parents=True, exist_ok=True)
     for payload in payloads:
         (OUT / f'{payload["id"]}.json').write_text(json.dumps(payload, ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
