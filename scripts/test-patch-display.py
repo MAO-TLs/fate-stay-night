@@ -27,12 +27,18 @@ assert repair_files(files) == (files, []), "Display cleanup was omitted from the
 for entry in manifest["display_repair"]["changed_entries"]:
     assert hashlib.sha256(files[entry["entry"]]).hexdigest() == entry["after_sha256"]
 assert hashlib.sha256((site / "public/downloads/patch_display_verification.json").read_bytes()).hexdigest() == manifest["display_verification_sha256"]
-native = report["native_display_sweep"]
-assert native["completed"] and native["cases"] == native["expected_cases"]
-assert native["nonblank_clipping_cases"] == 0
-assert set(native["registered_bundled_typefaces"]) == {"Calibri", "Bernhard Modern Std", "Sabon Next LT Pro"}
-assert native["case_count_by_script_edition"] == {"original": 666, "all-ages": 666}
-additional = report["additional_targeted_native_comparison"]
-assert additional["completed"] and additional["cases"] == 18
-assert all(not (r["nonblank_canvas_clips"] or r["nonblank_line_buffer_clips"]) for r in additional["records"] if ':FIX:' in r["case"] or ':MM:' in r["case"])
-print(f"PASS: archive hash, {scripts} scripts / {pages} labels, display-command guards, repair idempotence, and native evidence binding")
+assert report["archive_sha256"] == manifest["output_sha256"]
+assert report["version"] == manifest["version"] == "1.3.0"
+assert manifest["runtime_tested"] is False and report["runtime_tested"] is False
+parity = report["mirror_moon_display_parity"]
+assert parity["candidate_sha256"] == manifest["output_sha256"]
+assert parity["remaining_hold_rows"] == 0
+assert parity["previous_held_rows_resolved"] == 10
+assert parity["profiles_skipped_unaligned"] == 0
+assert parity["unknown_condition_comparisons_unresolved"] == 0
+assert parity["unknown_condition_edition_comparisons_enumerated"] == 110
+assert parity["edition_rows_checked"] == 48408
+assert parity["matching_edition_rows"] + parity["raw_mirror_mismatch_rows"] == parity["edition_rows_checked"]
+assert parity["raw_mirror_mismatch_rows"] == len(parity["source_supported_divergences"])
+assert parity["residuals_exactly_match_reviewed_source_divergences"]
+print(f"PASS: archive hash, {scripts} scripts / {pages} labels, display-command guards, repair idempotence, and final static parity evidence")

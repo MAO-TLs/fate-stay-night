@@ -6,4 +6,4 @@ The script browser can display mirror moon beside the original Japanese and MAO 
 
 Build reader data with `python3 scripts/build-reader-data.py`. Run locally with `npm ci` and `npm run dev -- --host 127.0.0.1`. Production checks are `npm run typecheck` and `npm run build`.
 
-The current patch is [v1.2.1](docs/releases/v1.2.1.md), a display-only hotfix. Run `python3 scripts/test-patch-display.py` to verify the shipped archive and its display safeguards. The download manifest and bounded native display evidence are in `public/downloads/`.
+The current patch is [v1.3.0](docs/releases/v1.3.0.md), which repairs script segmentation, paragraph boundaries, and edition-specific omissions. Run `python3 scripts/test-patch-display.py` to verify the shipped archive, display safeguards, and bound static verification report in `public/downloads/`. Native engine wrapping and playthrough have not been verified for this release. The online manuscript remains at script version v1.2.0.
