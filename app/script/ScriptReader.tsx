@@ -1,4 +1,5 @@
 "use client";
+import { matchesReaderText } from "./reader-search.mjs";
 import { referenceLabel } from "./reference-label";
 import { readSearchLocation, writeSearchLocation } from "./search-location";
 
@@ -201,7 +202,7 @@ export function ScriptReader() {
   const visiblePages = useMemo(() => {
     if (!data) return [];
     const needle = scriptQuery.trim().toLocaleLowerCase();
-    return needle ? data.pages.filter(page => `${page.ja}\n${page.en}`.toLocaleLowerCase().includes(needle)) : data.pages;
+    return needle ? data.pages.filter(page => matchesReaderText(`${page.ja}\u0000${page.en}`, needle)) : data.pages;
   }, [data, scriptQuery, edition]);
   const findingsByPage = useMemo(() => {
     const out = new Map<string, AuditFinding[]>();
@@ -212,7 +213,7 @@ export function ScriptReader() {
   const corpusMatches = useMemo(() => {
     const needle = corpusQuery.trim().toLocaleLowerCase();
     if (!needle || !concordance) return [];
-    return editionConcordance.filter(page => (corpusRoute === "all" || page.route === corpusRoute) && `${page.ja}\n${page.en}`.toLocaleLowerCase().includes(needle));
+    return editionConcordance.filter(page => (corpusRoute === "all" || page.route === corpusRoute) && matchesReaderText(`${page.ja}\u0000${page.en}`, needle));
   }, [concordance, corpusQuery, corpusRoute, editionConcordance]);
 
   function move(offset: number) {
@@ -243,7 +244,7 @@ export function ScriptReader() {
     {error && <p className="script-status">{error}</p>}
     {!error && scope === "script" && data && <><div className="script-meta"><h2>{scriptTitle(data.script)}</h2><p>{data.pages.length.toLocaleString()} source passages</p></div>{visiblePages.length ? <div className="script-lines" id="script-results">{visiblePages.map(page => <ScriptLine key={page.ref} id={page.ref} page={page} showMirrorMoon={edition === "original" && showMirrorMoon} showRemastered={edition === "all-ages" && showRemastered} findings={showAuditFindings ? findingsByPage.get(page.ref) ?? [] : []} activeFindingId={activeFindingId} onToggleFinding={id => setActiveFindingId(current => current === id ? "" : id)}/>)}</div> : <p className="script-empty">No passages match this search.</p>}<a className="back-to-controls" href="#reader-controls" onClick={event => { event.preventDefault(); document.getElementById("reader-controls")?.scrollIntoView({behavior:"instant", block:"start"}); document.getElementById("route")?.focus({preventScroll:true}); }}>Back to controls ↑</a></>}
     {!error && scope === "corpus" && !corpusQuery.trim() && <div className="concordance-prompt"><p className="eyebrow">All scripts</p><h2>Search every route.</h2><p>Enter Japanese or English above to search all {selectedEditionPageCount.toLocaleString()} aligned passages.</p></div>}
-    {!error && scope === "corpus" && corpusQuery.trim() && concordance && <><div className="script-meta concordance-meta"><div><p className="eyebrow">All scripts</p><h2>Search results</h2></div><p>{corpusMatches.length.toLocaleString()} matches</p></div><div className="concordance-route-filter">{[["all","All sections"], ...Object.entries(routeNames)].map(([id,label]) => <button className={corpusRoute === id ? "is-active" : ""} key={id} onClick={() => setCorpusRoute(id)}>{label}<span>{id === "all" ? corpusMatches.length : editionConcordance.filter(x => x.route === id && `${x.ja}\n${x.en}`.toLocaleLowerCase().includes(corpusQuery.toLocaleLowerCase())).length}</span></button>)}</div><div className="concordance-results" id="concordance-results">{corpusMatches.slice(0,resultLimit).map(page => <CorpusResult key={`${page.scriptId}-${page.ref}`} page={page} edition={edition} showMirrorMoon={showMirrorMoon} showRemastered={showRemastered} showErrors={showAuditFindings} activeFindingId={activeFindingId} onToggleFinding={id => setActiveFindingId(current => current === id ? "" : id)}/>)}</div>{corpusMatches.length > resultLimit && <p className="script-status">Showing the first {resultLimit} matches. Refine the search to narrow the result set.</p>}</>}
+    {!error && scope === "corpus" && corpusQuery.trim() && concordance && <><div className="script-meta concordance-meta"><div><p className="eyebrow">All scripts</p><h2>Search results</h2></div><p>{corpusMatches.length.toLocaleString()} matches</p></div><div className="concordance-route-filter">{[["all","All sections"], ...Object.entries(routeNames)].map(([id,label]) => <button className={corpusRoute === id ? "is-active" : ""} key={id} onClick={() => setCorpusRoute(id)}>{label}<span>{id === "all" ? corpusMatches.length : editionConcordance.filter(x => x.route === id && matchesReaderText(`${x.ja}\u0000${x.en}`, corpusQuery.toLocaleLowerCase())).length}</span></button>)}</div><div className="concordance-results" id="concordance-results">{corpusMatches.slice(0,resultLimit).map(page => <CorpusResult key={`${page.scriptId}-${page.ref}`} page={page} edition={edition} showMirrorMoon={showMirrorMoon} showRemastered={showRemastered} showErrors={showAuditFindings} activeFindingId={activeFindingId} onToggleFinding={id => setActiveFindingId(current => current === id ? "" : id)}/>)}</div>{corpusMatches.length > resultLimit && <p className="script-status">Showing the first {resultLimit} matches. Refine the search to narrow the result set.</p>}</>}
   </section>;
 }
 
