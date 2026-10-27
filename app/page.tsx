@@ -18,6 +18,7 @@ export default function Home() {
     <InstallAnchorRelease />
     <section className="hero">
       <img className="hero-backdrop" src="fate-sword-field.png" alt="" aria-hidden="true" />
+<img className="hero-backdrop hero-backdrop-soft" src="fate-sword-field.png" alt="" aria-hidden="true" />
       <SiteNav currentPage="release" />
       <div className="hero-grid shell">
         <div className="hero-copy">
