@@ -8,16 +8,19 @@ import copy
 import hashlib
 import json
 from functools import cache
+import editorial_release as editorial
 
 SITE = Path(__file__).resolve().parents[1]
 BINDINGS = SITE / 'scripts/data/reader-v1.3.0.json'
-VERSION = '1.3.0'
-PATCH_SHA256 = '6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242'
+HISTORICAL_VERSION = '1.3.0'
+HISTORICAL_PATCH_SHA256 = editorial.BASE_PATCH_SHA256
+VERSION = editorial.VERSION
+PATCH_SHA256 = editorial.data()['patch_sha256']
 
 @cache
 def records():
     data = json.loads(BINDINGS.read_text())
-    assert data['version'] == VERSION and data['patch_sha256'] == PATCH_SHA256
+    assert data['version'] == HISTORICAL_VERSION and data['patch_sha256'] == HISTORICAL_PATCH_SHA256
     return data['bindings']
 
 def _page(pages, record):
@@ -35,7 +38,7 @@ def replace(page, values, names):
         if key in values: page[key] = copy.deepcopy(values[key])
         else: page.pop(key, None)
 
-def apply(script, pages, *, restore=False):
+def apply_historical(script, pages, *, restore=False):
     changed = 0
     for record in records():
         if record['script'] != script: continue
@@ -49,6 +52,20 @@ def apply(script, pages, *, restore=False):
         replace(page, target, keys)
         changed += 1
     return changed
+
+def apply(script, pages, *, restore=False):
+    """Compose the frozen and editorial layers atomically and idempotently."""
+    candidate = copy.deepcopy(pages)
+    editorial.undo_applied(script, candidate)
+    apply_historical(script, candidate)
+    editorial.apply(script, candidate)
+    if restore:
+        editorial.apply(script, candidate, restore=True)
+        apply_historical(script, candidate, restore=True)
+    changed = sum(before != after for before, after in zip(pages, candidate, strict=True))
+    if changed: pages[:] = candidate
+    return changed
+
 
 def sync(*, check=False):
     folder = SITE / 'public/data/script'
@@ -70,7 +87,7 @@ def sync(*, check=False):
     else:
         for path,content in outputs.items():
             if path.read_text()!=content: path.write_text(content)
-    print(json.dumps({'version':VERSION,'changed_passages':changed,'bindings':len(records()),'check':check}))
+    print(json.dumps({'version':VERSION,'changed_passages':changed,'bindings':len(records()),'editorial_bindings':len(editorial.records()),'check':check}))
 
 if __name__=='__main__':
     import argparse

@@ -1,9 +1,9 @@
 {
-  "schema": "mao-fsn-display-verification-v2",
-  "version": "1.3.0",
-  "archive_sha256": "6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242",
+  "schema": "mao-fsn-editorial-verification-v1",
+  "version": "1.3.1",
+  "archive_sha256": "2827e92bd83d5aaea40967af87f6a5d30cba1419c4c85664687858d21056eb89",
+  "runtime_tested": false,
   "full_script_scan": {
-    "archive_sha256": "6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242",
     "scripts_checked": 734,
     "page_labels_checked": 27918,
     "command_names": [
@@ -296,297 +296,26 @@
     ],
     "issues": []
   },
-  "mirror_moon_display_parity": {
-    "candidate_sha256": "6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242",
-    "mirror_moon_sha256": "30a883c0281d8ecb038b440f69a1becfe74be44fc3061216ef3c6ad6ccb31d6f",
-    "edition_rows_checked": 48408,
-    "profiles_skipped_unknown": 109,
-    "unknown_condition_edition_comparisons_enumerated": 110,
-    "unknown_condition_comparisons_unresolved": 0,
-    "unknown_condition_difference_rows": 144,
-    "unknown_condition_scripts_with_differences": 25,
-    "profiles_skipped_unaligned": 0,
-    "matching_edition_rows": 48355,
-    "display_break_parity_percent": 99.8905,
-    "marker_or_reviewed_source_changes": true,
-    "non_script_assets_unchanged": true,
-    "version": "1.3.0",
-    "raw_mirror_mismatch_rows": 53,
-    "source_supported_mirror_divergence_rows": 53,
-    "remaining_hold_rows": 0,
-    "previous_held_rows_resolved": 10,
-    "source_supported_divergences": [
-      {
-        "entry": "セイバールート十五日目-02.ks",
-        "display_unit": 28,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十一日目-16.ks",
-        "display_unit": 3,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十一日目-16.ks",
-        "display_unit": 3,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-01.ks",
-        "display_unit": 1,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-01.ks",
-        "display_unit": 1,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-04.ks",
-        "display_unit": 17,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-04.ks",
-        "display_unit": 17,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-05.ks",
-        "display_unit": 15,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-05.ks",
-        "display_unit": 15,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-07.ks",
-        "display_unit": 17,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-07.ks",
-        "display_unit": 17,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 22,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 22,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 57,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 57,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 92,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 92,
-        "edition": "original"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 245,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "凛ルート十四日目-130.ks",
-        "display_unit": 245,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート九日目-32.ks",
-        "display_unit": 18,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート九日目-32.ks",
-        "display_unit": 18,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "display_unit": 0,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "display_unit": 0,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "display_unit": 15,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "display_unit": 15,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "display_unit": 29,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-03.ks",
-        "display_unit": 6,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート五日目-03.ks",
-        "display_unit": 6,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 9,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 9,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 14,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 18,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 18,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 25,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 29,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-05.ks",
-        "display_unit": 37,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-09.ks",
-        "display_unit": 17,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート五日目-15.ks",
-        "display_unit": 5,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート五日目-15.ks",
-        "display_unit": 5,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート八日目-15.ks",
-        "display_unit": 10,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート八日目-15.ks",
-        "display_unit": 10,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート六日目-10.ks",
-        "display_unit": 12,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート六日目-10.ks",
-        "display_unit": 16,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート六日目-10.ks",
-        "display_unit": 16,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート六日目-11.ks",
-        "display_unit": 13,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート六日目-11.ks",
-        "display_unit": 13,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート六日目-19.ks",
-        "display_unit": 43,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート六日目-23.ks",
-        "display_unit": 30,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート六日目-23.ks",
-        "display_unit": 30,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート十二日目-05.ks",
-        "display_unit": 0,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート十二日目-05.ks",
-        "display_unit": 0,
-        "edition": "original"
-      },
-      {
-        "entry": "桜ルート十日目-16.ks",
-        "display_unit": 25,
-        "edition": "all-ages"
-      },
-      {
-        "entry": "桜ルート十日目-16.ks",
-        "display_unit": 25,
-        "edition": "original"
-      }
-    ],
-    "scope": "Static explicit display breaks; automatic pixel wrapping and engine playback are not verified.",
-    "runtime_tested": false,
-    "residuals_exactly_match_reviewed_source_divergences": true
+  "current_delta": {
+    "mid_sentence_capitalizations": 30,
+    "native_pages_changed": 57,
+    "native_scripts_changed": 40,
+    "reader_pages_changed": 37,
+    "browser_verification_bindings": 57,
+    "source_review_scene_pages": 65,
+    "spacing_repairs": 14,
+    "voice_boundary_repairs": 8,
+    "entry_set_preserved": true,
+    "all_non_script_assets_identical": true,
+    "all_at_command_lines_and_order_identical": true,
+    "delta_sha256": "73ee06084eb309e97b3f2657dc75d264b6ce95014f8c907c030c3b5e79bf423d"
   },
-  "runtime_tested": false,
-  "runtime_playthrough_verified": false,
-  "scope": "Static archive, source-bound page and explicit display-boundary verification. No native engine verification for v1.3.0."
+  "inherited_verification": {
+    "version": "1.3.0",
+    "archive_sha256": "6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242",
+    "report_path": "scripts/data/patch-display-v1.3.0.json",
+    "report_sha256": "a7b47cf7694bb8aa7b71289959c8e83bbeba4e8d8f938acab6a8517b80600955",
+    "scope": "Historical break-count parity only. Not recomputed or claimed for v1.3.1; current exact edits and source-bound boundary repairs are verified separately."
+  },
+  "limits": "Static command/cue alignment is not audible synchronization or native pixel-layout verification. No native playthrough. Whole-script discovery plus bounded source adjudication, not a new complete semantic reread."
 }

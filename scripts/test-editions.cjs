@@ -124,13 +124,17 @@ assert.equal(Object.values(finalOriginalExpected).flat().length,16);
 // These insertion assertions describe the historical manuscript layer. The
 // release overlay has independent exact native/source and concordance tests.
 const releaseBindings=JSON.parse(fs.readFileSync(path.join(root,"scripts/data/reader-v1.3.0.json"))).bindings;
+const editorialBindings=JSON.parse(fs.readFileSync(path.join(root,"scripts/data/reader-v1.3.1.json"))).bindings;
 const historicalPage=(scriptId,page)=>{
-  const binding=releaseBindings.find(row=>row.script_id===scriptId && row.ref===page.ref && !row.occurrence);
-  if(!binding) return page;
+  if(!page) return page;
   const restored=structuredClone(page);
-  for(const key of new Set([...Object.keys(binding.before),...Object.keys(binding.after)])) {
-    if(Object.hasOwn(binding.before,key)) restored[key]=structuredClone(binding.before[key]);
-    else delete restored[key];
+  for(const bindings of [editorialBindings,releaseBindings]) {
+    const binding=bindings.find(row=>row.script_id===scriptId && row.ref===page.ref && !row.occurrence);
+    if(!binding) continue;
+    for(const key of new Set([...Object.keys(binding.before),...Object.keys(binding.after)])) {
+      if(Object.hasOwn(binding.before,key)) restored[key]=structuredClone(binding.before[key]);
+      else delete restored[key];
+    }
   }
   return restored;
 };

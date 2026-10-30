@@ -3,7 +3,7 @@ import { SiteNav } from "./SiteNav";
 import { SiteFooter } from "./SiteFooter";
 import { InstallAnchorRelease } from "./InstallAnchorRelease";
 
-const releaseNotesUrl = "https://github.com/MAO-TLs/fate-stay-night/releases/tag/v1.3.0";
+const releaseNotesUrl = "https://github.com/MAO-TLs/fate-stay-night/releases/tag/v1.3.1";
 // Use release assets for download counts. Keep prior assets when publishing hotfixes.
 const patchDownloadUrl = releaseNotesUrl.replace("/tag/", "/download/") + "/patch_lang_english.xp3";
 
@@ -29,7 +29,7 @@ export default function Home() {
             <a className="button button-primary" href={patchDownloadUrl}>Download English patch <span aria-hidden="true">↓</span></a>
             <a className="button button-secondary" href="script/">Script <span aria-hidden="true">→</span></a>
           </div>
-          <p className="compatibility">15.8 MB · <a href={releaseNotesUrl}>Release notes</a> · Patch version v1.3.0 · Windows · Réalta Nua Ultimate Edition required · <a href="#install">Installation instructions</a></p>
+          <p className="compatibility">15.8 MB · <a href={releaseNotesUrl}>Release notes</a> · Patch version v1.3.1 · Windows · Réalta Nua Ultimate Edition required · <a href="#install">Installation instructions</a></p>
         </div>
         <div aria-hidden="true" />
       </div>
@@ -38,7 +38,7 @@ export default function Home() {
     <section className="release-strip" id="release" aria-label="Release information">
       <div className="shell release-grid">
         {[
-          ["Version", "v1.3.0"],
+          ["Version", "v1.3.1"],
           ["Script coverage", "Original + all-ages"],
           ["Passages", pageCount.toLocaleString()],
           ["Status", "Released"],

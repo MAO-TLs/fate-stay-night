@@ -6,6 +6,7 @@ import json
 import re
 import unittest
 import reader_release as release
+import editorial_release as editorial
 from patch_tools.reader_projection import project_script
 from patch_tools.xp3 import read
 
@@ -22,9 +23,13 @@ class ReaderReleaseTests(unittest.TestCase):
         cls.payloads={s['id']:json.loads((DATA/f"{s['id']}.json").read_text()) for s in cls.index['scripts']}
         archive=SITE/'public/downloads/patch_lang_english.xp3'
         assert hashlib.sha256(archive.read_bytes()).hexdigest()==release.PATCH_SHA256
-        cls.archive=read(archive);cls.projections={}
+        cls.archive=editorial.apply_native(read(archive),restore=True);cls.projections={}
+        cls.current_payloads=cls.payloads
+        cls.payloads=copy.deepcopy(cls.current_payloads)
+        for payload in cls.payloads.values():
+            editorial.apply(payload['script'],payload['pages'],restore=True)
     def test_idempotent_and_exact_binding_fields(self):
-        for data in self.payloads.values():
+        for data in self.current_payloads.values():
             clone=copy.deepcopy(data['pages'])
             self.assertEqual(release.apply(data['script'],clone),0)
             self.assertEqual(clone,data['pages'])
@@ -33,9 +38,9 @@ class ReaderReleaseTests(unittest.TestCase):
         page={'ref':record['ref'],**copy.deepcopy(record['before'])}
         first=next(iter(record['before']));page[first]='Stale text'
         with self.assertRaisesRegex(ValueError,'Stale release binding'):
-            release.apply(record['script'],[page])
+            release.apply_historical(record['script'],[page])
     def test_backward_and_forward_projection_preserves_other_fields(self):
-        for data in self.payloads.values():
+        for data in self.current_payloads.values():
             clone=copy.deepcopy(data['pages'])
             release.apply(data['script'],clone,restore=True)
             release.apply(data['script'],clone)
@@ -66,13 +71,14 @@ class ReaderReleaseTests(unittest.TestCase):
     def test_search_and_page_data_are_identical(self):
         expected=[]
         for meta in self.index['scripts']:
-            for page in self.payloads[meta['id']]['pages']:
+            for page in self.current_payloads[meta['id']]['pages']:
                 expected.append({'scriptId':meta['id'],'script':meta['script'],'route':meta['route'],'title':meta['title'],
                                  **{k:v for k,v in page.items() if k!='mirrorMoon'}})
         self.assertEqual(json.loads((DATA/'concordance.json').read_text()),expected)
         self.assertEqual(self.index['scriptCount'],729)
         self.assertEqual(self.index['pageCount'],27530)
-        self.assertEqual(self.index['version'],'1.3.0')
+        self.assertEqual(self.index['version'],release.VERSION)
+        self.assertEqual(self.index['patchSha256'],release.PATCH_SHA256)
     def test_japanese_counterparts_match_reviewed_editions(self):
         checked=0
         for record in release.records():
