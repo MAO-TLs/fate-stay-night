@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import "./wordmark.css";
 import "./wa2-publication.css";
 import "./mao-publication-template.css";
 import "./mao-reader-template.css";
