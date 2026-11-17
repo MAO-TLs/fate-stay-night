@@ -8,6 +8,7 @@ import tempfile
 import unittest
 
 import editorial_release as editorial
+import spacing_release as spacing
 import reader_release as release
 from patch_tools.reader_projection import project_script
 from patch_tools.xp3 import read, write
@@ -36,7 +37,11 @@ class EditorialReleaseTests(unittest.TestCase):
         cls.payloads = {meta['id']: json.loads((DATA / f"{meta['id']}.json").read_text())
                         for meta in cls.index['scripts']}
         cls.archive_path = SITE / 'public/downloads/patch_lang_english.xp3'
-        cls.current = read(cls.archive_path)
+        cls.current = spacing.verify_release()
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'v1.3.1.xp3'
+            write(path, cls.current)
+            cls.archive_bytes = path.read_bytes()
         cls.previous = editorial.apply_native(cls.current, restore=True)
         cls.projections = {}
 
@@ -45,13 +50,13 @@ class EditorialReleaseTests(unittest.TestCase):
                          'aae193ea2a085c1a0c8555f0b205756b3ba7ce70f6bf64816ef8cfa788adef69')
 
     def test_current_and_reconstructed_archive_hashes(self):
-        self.assertEqual(hashlib.sha256(self.archive_path.read_bytes()).hexdigest(), self.document['patch_sha256'])
+        self.assertEqual(hashlib.sha256(self.archive_bytes).hexdigest(), self.document['patch_sha256'])
         with tempfile.TemporaryDirectory() as folder:
             path = Path(folder) / 'patch.xp3'
             write(path, self.previous)
             self.assertEqual(hashlib.sha256(path.read_bytes()).hexdigest(), editorial.BASE_PATCH_SHA256)
             write(path, editorial.apply_native(self.previous))
-            self.assertEqual(path.read_bytes(), self.archive_path.read_bytes())
+            self.assertEqual(path.read_bytes(), self.archive_bytes)
 
     def test_native_exact_delta_and_idempotence(self):
         self.assertEqual(editorial.apply_native(self.current), self.current)
@@ -178,8 +183,8 @@ class EditorialReleaseTests(unittest.TestCase):
         self.assertGreater(checked, 0)
 
     def test_release_metadata_and_passage_ids(self):
-        self.assertEqual(self.index['version'], editorial.VERSION)
-        self.assertEqual(self.index['patchSha256'], self.document['patch_sha256'])
+        self.assertEqual(self.index['version'], spacing.VERSION)
+        self.assertEqual(self.index['patchSha256'], spacing.data()['candidate_sha256'])
         self.assertEqual(self.index['scriptCount'], 729)
         self.assertEqual(self.index['pageCount'], 27530)
         for payload in self.payloads.values():

@@ -9,13 +9,14 @@ import hashlib
 import json
 from functools import cache
 import editorial_release as editorial
+import spacing_release as spacing
 
 SITE = Path(__file__).resolve().parents[1]
 BINDINGS = SITE / 'scripts/data/reader-v1.3.0.json'
 HISTORICAL_VERSION = '1.3.0'
 HISTORICAL_PATCH_SHA256 = editorial.BASE_PATCH_SHA256
-VERSION = editorial.VERSION
-PATCH_SHA256 = editorial.data()['patch_sha256']
+VERSION = spacing.VERSION
+PATCH_SHA256 = spacing.data()['candidate_sha256']
 
 @cache
 def records():

@@ -23,3 +23,18 @@ const reader=fs.readFileSync(path.join(root,'app/script/ScriptReader.tsx'),'utf8
 assert(reader.includes('<EnglishText text={displayEnglish(page.en) || "—"}/>'));
 assert(reader.includes('<ScriptLine id={page.ref}'));
 console.log('PASS: manuscript italics, literal stars, line breaks, HTML escaping, screenshot passage, and shared reader wiring');
+let renderedEnglishFields=0;
+function inspect(value) {
+  if(!value || typeof value !== 'object') return;
+  for(const [key,child] of Object.entries(value)) {
+    if(['en','mirrorMoon'].includes(key) && typeof child==='string') {
+      assert(!/(?:<|\[|@)(?:ruby|rt|furigana)\b/i.test(child),'English ruby opcode');
+      assert(!/<(?:ruby|rt)\b/i.test(render(child)),'English ruby in rendered markup');
+      renderedEnglishFields++;
+    } else if(typeof child==='object') inspect(child);
+  }
+}
+for(const name of fs.readdirSync(path.join(root,'public/data/script')).filter(x=>/^\d+\.json$/.test(x)))
+  inspect(JSON.parse(fs.readFileSync(path.join(root,'public/data/script',name))));
+assert(renderedEnglishFields>27000);
+console.log('PASS: zero English ruby across '+renderedEnglishFields+' rendered reader fields');

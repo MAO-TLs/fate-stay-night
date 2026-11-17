@@ -7,6 +7,7 @@ import re
 import unittest
 import reader_release as release
 import editorial_release as editorial
+import spacing_release as spacing
 from patch_tools.reader_projection import project_script
 from patch_tools.xp3 import read
 
@@ -23,7 +24,7 @@ class ReaderReleaseTests(unittest.TestCase):
         cls.payloads={s['id']:json.loads((DATA/f"{s['id']}.json").read_text()) for s in cls.index['scripts']}
         archive=SITE/'public/downloads/patch_lang_english.xp3'
         assert hashlib.sha256(archive.read_bytes()).hexdigest()==release.PATCH_SHA256
-        cls.archive=editorial.apply_native(read(archive),restore=True);cls.projections={}
+        cls.archive=editorial.apply_native(spacing.apply_native(read(archive),restore=True),restore=True);cls.projections={}
         cls.current_payloads=cls.payloads
         cls.payloads=copy.deepcopy(cls.current_payloads)
         for payload in cls.payloads.values():

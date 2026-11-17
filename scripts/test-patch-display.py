@@ -11,20 +11,28 @@ from xp3 import read
 from sweep_script import inspect
 from repair_candidate import repair_files
 import editorial_release as editorial
+import spacing_release as spacing
+import tempfile
+from patch_tools.xp3 import write
 
 site=HERE.parent;archive=site/'public/downloads/patch_lang_english.xp3'
-manifest=json.loads(archive.with_suffix('.manifest.json').read_text())
-report_path=site/'public/downloads/patch_display_verification.json'
+files=spacing.verify_release()
+# Preserve the historical v1.3.1 checks against the exactly reconstructed
+# parent, after separately checking every current spacing delta above.
+with tempfile.TemporaryDirectory() as folder:
+ parent=Path(folder)/'parent.xp3';write(parent,files);archive_bytes=parent.read_bytes()
+manifest=json.loads((site/'scripts/data/v1.3.1-patch_lang_english.manifest.json').read_text())
+report_path=site/'scripts/data/v1.3.1-patch_display_verification.json'
 report=json.loads(report_path.read_text());delta=editorial.data()
 sha=lambda b:hashlib.sha256(b).hexdigest()
-assert sha(archive.read_bytes())==manifest['output_sha256']==delta['patch_sha256']==report['archive_sha256']
-assert archive.stat().st_size==manifest['output_bytes']
+assert sha(archive_bytes)==manifest['output_sha256']==delta['patch_sha256']==report['archive_sha256']
+assert len(archive_bytes)==manifest['output_bytes']
 assert manifest['version']==report['version']==editorial.VERSION
 assert manifest['runtime_tested'] is False and report['runtime_tested'] is False
 assert manifest['browser']['version']==editorial.VERSION
 assert sha(report_path.read_bytes())==manifest['display_verification_sha256']
 assert sha(editorial.BINDINGS.read_bytes())==manifest['editorial_repair']['bindings_sha256']==report['current_delta']['delta_sha256']
-files=read(archive);previous=editorial.apply_native(files,restore=True)
+previous=editorial.apply_native(files,restore=True)
 assert len(files)==manifest['entries']==895
 scripts,pages,commands,issues=inspect(files)
 assert not issues,issues

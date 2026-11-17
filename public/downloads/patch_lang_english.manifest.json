@@ -1,11 +1,11 @@
 {
-  "schema": "mao-fsn-ultimate-edition-english-v5",
-  "version": "1.3.1",
-  "parent_version": "1.3.0",
-  "parent_sha256": "6e31d6b3208e60654206a17b0a816bdc1807750bc14083a01ac6dca38cc7e242",
-  "output": "release/v1.3.1/patch_lang_english.xp3",
-  "output_sha256": "2827e92bd83d5aaea40967af87f6a5d30cba1419c4c85664687858d21056eb89",
-  "output_bytes": 15792954,
+  "schema": "mao-fsn-ultimate-edition-english-v6",
+  "version": "1.3.2",
+  "parent_version": "1.3.1",
+  "parent_sha256": "2827e92bd83d5aaea40967af87f6a5d30cba1419c4c85664687858d21056eb89",
+  "output": "release/v1.3.2/patch_lang_english.xp3",
+  "output_sha256": "b34a8a903b4040b9aef0073520865cfa8f22835527256e9cce08d25abf94a555",
+  "output_bytes": 15792963,
   "entries": 895,
   "entry_types": {
     ".ttf": 4,
@@ -19,229 +19,20 @@
     ".txt": 1,
     ".fcf": 40
   },
-  "changed_entries": 40,
-  "editorial_repair": {
-    "summary": {
-      "mid_sentence_capitalizations": 30,
-      "native_pages_changed": 57,
-      "native_scripts_changed": 40,
-      "reader_pages_changed": 37,
-      "browser_verification_bindings": 57,
-      "source_review_scene_pages": 65,
-      "spacing_repairs": 14,
-      "voice_boundary_repairs": 8
-    },
-    "bindings_sha256": "73ee06084eb309e97b3f2657dc75d264b6ce95014f8c907c030c3b5e79bf423d",
-    "changed_entries": [
-      {
-        "entry": "セイバールート七日目-07.ks",
-        "before_sha256": "0e895c876591c4ccf11b8109c0a1d2c090ee894ed3f7c115e28e079fb5d0c58f",
-        "after_sha256": "f56bd31ee17dada61c8446a89ad5af2e7d09a8e288ec4bfdd662a11ae2f68df8"
-      },
-      {
-        "entry": "セイバールート七日目-27.ks",
-        "before_sha256": "d8dbe8b50e1d799924371bf70d88e66ab14cc172e7a41cb393b250fd51ef7053",
-        "after_sha256": "67c0311d80679ce958dab074e6d1cc82624272e1121267b9f4bd163adf5fde58"
-      },
-      {
-        "entry": "セイバールート三日目-01.ks",
-        "before_sha256": "f3e847b2fde34d89bdd4ac9870b4d89b30a8dcdcf24dd9b2c432ef17ca822468",
-        "after_sha256": "6f0b5f63c18e69abf8f918461cc9e8a8dc159b71e5d133d0fd0a59cb7b3b1b44"
-      },
-      {
-        "entry": "セイバールート三日目-02.ks",
-        "before_sha256": "de3e58b1ed49922e1116e0ce2c9a382b216bf4ca5a808af1e61553b70a50dbe6",
-        "after_sha256": "9a1c2e9493b93dedb51f58a56dc68bcb74b42d9da94640c09ea79b78b2a8ab31"
-      },
-      {
-        "entry": "セイバールート三日目-16.ks",
-        "before_sha256": "9373f947bcb7750f617912acda73215dd7bad5107359c5eb8a0397e992a7919e",
-        "after_sha256": "7781266490e132782ee3b5f0dc1e9efcdb59dbe872109c9228f729530d14cca4"
-      },
-      {
-        "entry": "セイバールート九日目-03.ks",
-        "before_sha256": "b8e3ce2917953c89f2d9ce0c8604af00f577a4a86d207f38cd71abee307ed4d7",
-        "after_sha256": "5ecb6dca87f5a348d32619e57b598a541c5507fb828a77d61c916708202fe8db"
-      },
-      {
-        "entry": "セイバールート六日目-08.ks",
-        "before_sha256": "cb6a8c7d7af06310accf83b5a59bad45c51bda1c6c8afa355ea583e9122ae1fc",
-        "after_sha256": "268e13aa0d3dd1de55700bbf200d28060ba778b1f9559185b620afa1422725f3"
-      },
-      {
-        "entry": "セイバールート六日目-14.ks",
-        "before_sha256": "38c60585cd01e9decb85968b8e46520ea81965351282cb566f34285e9d06331f",
-        "after_sha256": "fc2bb71fda46ff02005698b1a314042465e8aaa4856c7c9cfa1175167294c841"
-      },
-      {
-        "entry": "セイバールート十三日目-02.ks",
-        "before_sha256": "db03b1bcf29889473e2239a7b2bc7ef3346456a43161ebde3a88c4f5c123fa8d",
-        "after_sha256": "9af1753f07844fe5b4ab18250c48043b39a4fdcdb976c07a7892c34286755960"
-      },
-      {
-        "entry": "セイバールート十二日目-07.ks",
-        "before_sha256": "4443e77fd4651bbdb1c6d9d3ced00ddd783fba749ed5777587dc3158df559445",
-        "after_sha256": "435658aa0e02eb54ffa0114314e9e13abe3a4856e87e691e9b2cde7f55553c3e"
-      },
-      {
-        "entry": "セイバールート十日目-07.ks",
-        "before_sha256": "80e41f5742db19ddc52493c130a7126799a6aac4de2b303ad8dd36cc7b1565e3",
-        "after_sha256": "937f58ecd3334319aaf50281ec55da11afe4248720a82e65af8a8702e6af815d"
-      },
-      {
-        "entry": "セイバールート四日目-07.ks",
-        "before_sha256": "93f1ed8fff4eb1e654258e5a0c0b08fa2e12c774da85c3221eae591cb65138a4",
-        "after_sha256": "0a47875babe1275d7a91bf9f6c47d73961e340997166c5940bc3c564c726baa3"
-      },
-      {
-        "entry": "凛ルート九日目-09.ks",
-        "before_sha256": "4fcb681af2dd4c9b6ce9df098e8ab1b131f7300ada18dea171e4b62aa0e20556",
-        "after_sha256": "a24c4a4a48e4d3cf20782e5f4509017601a28ba94872b65bf2a729640bc49292"
-      },
-      {
-        "entry": "凛ルート五日目-06.ks",
-        "before_sha256": "f515c35b95fdbf9cd10739e793126c8dfa081c2c2b758e7b059bfe846c2689fc",
-        "after_sha256": "2550c86f5304ccc89a0b2410ca2cef233e7d7974fa0e6092636066ff81ef8ed7"
-      },
-      {
-        "entry": "凛ルート五日目-09.ks",
-        "before_sha256": "593e28af9fa61ac34ad0810debdb0375b117e4a860bbbc057431f571e261c0a6",
-        "after_sha256": "1a51bca6d14b55a36cf401e0e49935fd3f990a6c14a4949950824aff360fbc9a"
-      },
-      {
-        "entry": "凛ルート五日目-22.ks",
-        "before_sha256": "983ec7dba453fa85ccd5ea6b76a88745e05aa5bf3f1824731843d904410249ce",
-        "after_sha256": "5ad772842a851201bf7bed21c1564d2fe7d74da7cdaf52460231a77a9579a6de"
-      },
-      {
-        "entry": "凛ルート八日目-00.ks",
-        "before_sha256": "f02e73fd8a81baa193df46d7c43bff6ec8ae4e72eca89bd235548d31a32dede1",
-        "after_sha256": "4ace780f662d9e2fe852362164beddfe6b9390facac929197a8555d7ecc99ecc"
-      },
-      {
-        "entry": "凛ルート十三日目-00.ks",
-        "before_sha256": "1daabab64f5ebf447b1985f80b561b184b57049d9074aef434f13cbe53a77b6d",
-        "after_sha256": "5974125c80a2a74432d70a3014a4925da00eb41e42180d22bbf5758bff7c2e8d"
-      },
-      {
-        "entry": "凛ルート十三日目-04.ks",
-        "before_sha256": "e7e4f2356749e86b8df6334aa2c1acad45970c9377fb5a604eca3f70a2056731",
-        "after_sha256": "07c10ebd27385a1fcef1e56233b023a2abe75adc3a1d14536406f27a722ddb5f"
-      },
-      {
-        "entry": "凛ルート十三日目-16.ks",
-        "before_sha256": "bdbe4c14430fd888acd39bab49dc6d39828b4140d403de8930bbfb0251b95014",
-        "after_sha256": "54e7fbeeb940e18d230a32ef8817a61a634b0fdeef8d6ef878bd48c152aaf8ee"
-      },
-      {
-        "entry": "凛ルート十二日目-05.ks",
-        "before_sha256": "c5b2812658934e66dd0e1010b274ccf974ee0fd90be22a4511d3c07c84545739",
-        "after_sha256": "40b25bbe5e830b0618ae2ac02f7bb9380a486465788283e9d6eafb292d83f806"
-      },
-      {
-        "entry": "凛ルート十二日目-06.ks",
-        "before_sha256": "86fdee628b7e989c54a359df730c7249310b9033d48626c7620c384ddf4a1206",
-        "after_sha256": "edc5822926d5c308e9a94cd30d3bf59b9fbd0da081e78d4c7b79d5411a7dc9b8"
-      },
-      {
-        "entry": "凛ルート十四日目-18.ks",
-        "before_sha256": "748da0e16fbf20f42808ce2de1c5e61db3560346f27d066703bce346bb566855",
-        "after_sha256": "99522d75122bfcfc1ace5429bddfdb0bccff45bc56b59187469719df16a9d663"
-      },
-      {
-        "entry": "凛ルート十四日目-20.ks",
-        "before_sha256": "ce5b42cdd5e3a256d93cf983621f423cb5ccae19b4ad9129cc77455c9a76b588",
-        "after_sha256": "c3f926923b65990beadc03e7b23caf9989a92fffde06369471620692d034e0f6"
-      },
-      {
-        "entry": "凛ルート十四日目-27.ks",
-        "before_sha256": "cad18069394f37d9496de0112433e11a3899b2486bbcac4a57eb4fd01c3ea74a",
-        "after_sha256": "1a42880d3adb52ba3d8c01c44c7c62b578cc1aed2976bdf17916819b80703d7a"
-      },
-      {
-        "entry": "凛ルート十四日目-28.ks",
-        "before_sha256": "522b54bae7b719c7436ecceeff75c28457c2624ea8f6a3cb6a7984c5911f5ffa",
-        "after_sha256": "ca1d0799763d4a6ba4eea27d70bea93a586b1de625ce69f9f6f09ed34a538037"
-      },
-      {
-        "entry": "凛ルート十四日目-33.ks",
-        "before_sha256": "c0604634f72f12a72fd01169bc438de8c902f750810d508b6fa315772d5993a0",
-        "after_sha256": "33e7a6062ce3b104422814729cb412d5ef06d7d7edaf092b4e59719727a76038"
-      },
-      {
-        "entry": "凛ルート十四日目-34.ks",
-        "before_sha256": "395cef2b8b20518df228495f5419d6cfac6e0f62861474a197c4eab7276b8671",
-        "after_sha256": "4fb8d4b754b97f349074caaf1871324dcaf38f715f5832f1af56674a6d6c087e"
-      },
-      {
-        "entry": "凛ルート十日目-08.ks",
-        "before_sha256": "ddf89d895dda5f7b621b961c40c60d93247a06d4f30e404a8b950500178db138",
-        "after_sha256": "10b0721c25cc2fde9281353839be732652aaa7c118cb5b39b2618661ed061832"
-      },
-      {
-        "entry": "桜ルート九日目-15.ks",
-        "before_sha256": "ed42edf290cac5d6f4dc1185b8d908e75e690c5509a6d0fd1f06d3d1cb2893a0",
-        "after_sha256": "f93d7545998cefb21f4f020fd877eb0cdba0d8c97202364d40ea2bca194dc168"
-      },
-      {
-        "entry": "桜ルート九日目-19.ks",
-        "before_sha256": "6d10d18bf5a0bf671be76a29e0eec472c2d36b15d2f71556c0dde9499f6b5689",
-        "after_sha256": "b58733393fb07dcda1760d3837ffa7bb09326050aa33ea93dd67993962d82f0b"
-      },
-      {
-        "entry": "桜ルート九日目-32.ks",
-        "before_sha256": "0b6c13bc5aeb1159de3634e42db756b1263073acbf36b79d4a4bd90724370e76",
-        "after_sha256": "278b9379ea6ab26b4a925cbefc939156344ceded1f5ff57efef1c2c19a56a7d5"
-      },
-      {
-        "entry": "桜ルート九日目-33.ks",
-        "before_sha256": "f4a08200253643ebb45830d1c2a4f6cb322f659c08c090789f81d67e079bf0c7",
-        "after_sha256": "54dd8a40faae56d273a839b21cff33345ed95b02369a37c5ba3df20bff902257"
-      },
-      {
-        "entry": "桜ルート九日目-37.ks",
-        "before_sha256": "39ca3077662f8e1526af436eb8aff833aecaab537759fe195ea8192b24cdd816",
-        "after_sha256": "1c83492a70e4e8552446e315651351f8ddd8aaea3f8f67ace9bcbc9726f25743"
-      },
-      {
-        "entry": "桜ルート八日目-05.ks",
-        "before_sha256": "92d1615995dfe8bd7cc6aa7ae2b25637158e87ac5b8844346050223265053b8a",
-        "after_sha256": "20e104c5de3cc7f1d6a23039929e4b7af1719fbecfffe8e8fca62c799a8f635a"
-      },
-      {
-        "entry": "桜ルート八日目-07.ks",
-        "before_sha256": "a100292d6bbf788ced71cb69be3830c9f5f8767cf9d98fa693d2690759724a02",
-        "after_sha256": "aab5b8bea0bdbede4ddc25456562f0dd629fdd2f0a6b1ac9dc0a27285a3b4fe6"
-      },
-      {
-        "entry": "桜ルート八日目-20.ks",
-        "before_sha256": "b325921471d0df3216d1eb275f10da43b4e29b3f81618d69146e983963663544",
-        "after_sha256": "463aee41b23724ffbff2e4ecc9b391a266181611861424b704957badd23dc80d"
-      },
-      {
-        "entry": "桜ルート十二日目-00.ks",
-        "before_sha256": "e63d3fd8b71ff525899b43201cf30cfb502264928cffcc454095895744c7b820",
-        "after_sha256": "70cd31b59b0ed73f0d1dd502deb2b7c67ed0af7a456ffa435eff7b64f411c66a"
-      },
-      {
-        "entry": "桜ルート十二日目-09.ks",
-        "before_sha256": "398f77cfdf125e7f7969a8f097bbc18fad596ade6f0b71ebc113774307dd3cde",
-        "after_sha256": "83903e6b55bcd80984aa3f70a23e7a1cc72774fbd2e0d7cede5ed88e42264b83"
-      },
-      {
-        "entry": "桜ルート十日目-26.ks",
-        "before_sha256": "22fb154c011d63436891a159d950ab069c7f729e1d116ff7ab5c2a241c5c348a",
-        "after_sha256": "8c5d98e65821a0491e452a62e4590cd0e1db428a28332c4d9102201c815cd80e"
-      }
-    ]
+  "changed_entries": 79,
+  "spacing_repair": {
+    "changedScripts": 79,
+    "emptyBranches": 112,
+    "joinedContinuations": 36
   },
-  "display_verification_sha256": "e6b507f665973f6332ce143fbcf89fa0dec1c53e61c08a2fb796b349a7b38e41",
+  "spacing_bindings_sha256": "4d81383ad4288b62fa8fedae147398b942fcd78004c7480e29868b932a29629e",
+  "display_verification_sha256": "98bd6db0a1c7c3f1c6c8643e92414bc2e9a3cd886270b330d2634c14dc20658c",
   "runtime_tested": false,
   "browser": {
-    "version": "1.3.1",
+    "version": "1.3.2",
     "script_count": 729,
     "page_count": 27530,
-    "content_changed": true
+    "content_changed": false
   },
-  "reader_and_manuscript_content_changed": true
+  "reader_and_manuscript_content_changed": false
 }

@@ -1,0 +1,1235 @@
+{
+  "base_sha256": "2827e92bd83d5aaea40967af87f6a5d30cba1419c4c85664687858d21056eb89",
+  "candidate_sha256": "b34a8a903b4040b9aef0073520865cfa8f22835527256e9cce08d25abf94a555",
+  "changedScripts": 79,
+  "emptyBranches": 112,
+  "joinedContinuations": 36,
+  "nativeRuntimeTested": false,
+  "edits": [
+    {
+      "entry": "セイバールート七日目-06.ks",
+      "changes": [
+        {
+          "offset": 5812,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "005ccc3cac38f4b9f845ae2c52a4f8e5ac918e3476f1ceca2c12069dc7d3d99b",
+      "after_sha256": "f5f670f63fb91c113785a47a5660220e6abd9bf7ee9da1c71ead043fa25e22e7"
+    },
+    {
+      "entry": "セイバールート七日目-07.ks",
+      "changes": [
+        {
+          "offset": 12367,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "f56bd31ee17dada61c8446a89ad5af2e7d09a8e288ec4bfdd662a11ae2f68df8",
+      "after_sha256": "7f4385e7fa060423a7e7cb63b052ca3d8aeb057a01c77c46c3044415e5223ccc"
+    },
+    {
+      "entry": "セイバールート七日目-13.ks",
+      "changes": [
+        {
+          "offset": 5708,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "9173102fbb52baa1b1e66235b70d7f1f2f6aeceeac8371a85d30252fb20ce533",
+      "after_sha256": "23dcef2bcfceef470d384ec730a36d4aa4e89975d7bf7281fd0f71e744ee2e9f"
+    },
+    {
+      "entry": "セイバールート七日目-15.ks",
+      "changes": [
+        {
+          "offset": 5708,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "20a05d02391cf7de14ffbab29f9a6ea51850f65c014f024ea63ab3ec90a2a60e",
+      "after_sha256": "6eda08bf626b054bf559d68fac676ed01545b2e871586476cc4adba9136c9046"
+    },
+    {
+      "entry": "セイバールート七日目-28.ks",
+      "changes": [
+        {
+          "offset": 1599,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "f28092bf8e40c14c65c23a1db79bb0d95a135a31fc6ad1d3584132796a8c6d61",
+      "after_sha256": "d0928f08eb1cc9bcd274eb4d96fe4a054ac8e67f91a42008b0f50e3642a97a3c"
+    },
+    {
+      "entry": "セイバールート七日目-29.ks",
+      "changes": [
+        {
+          "offset": 4086,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 13272,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "e6f77433f97c97732c29da0f35e001c922527e3b6cc775e13a949f68d5fe555f",
+      "after_sha256": "c812a86f9e4bcb4d1acf98c80900e1d34f499795e6a5a52a8e370579d127b489"
+    },
+    {
+      "entry": "セイバールート九日目-08.ks",
+      "changes": [
+        {
+          "offset": 396,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 10465,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "21a83951d3beeb0f80f3f364f01e95ad34a401653e0a967c2ac5f7eaedaf5958",
+      "after_sha256": "d3767bf6b4f4567d719f7bf2fe9571cc34c0f2806f2fa3c86b8bf473bcfd3257"
+    },
+    {
+      "entry": "セイバールート九日目-12.ks",
+      "changes": [
+        {
+          "offset": 10541,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 21577,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "0132d4a7986f409328231b64184dfe68a43fc8d1813d5ef51ca1a20936e45512",
+      "after_sha256": "8c4d7520423ef87c2389411d33d08f1880dd4da0e4651ec0f9ed0e39b186ecb6"
+    },
+    {
+      "entry": "セイバールート九日目-14.ks",
+      "changes": [
+        {
+          "offset": 3019,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 19016,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "d73d83352c84a0aba3221a6fec7843cfa76ddfd1b949567de2d34bf772f8a0e2",
+      "after_sha256": "178d08eea2d13215fb5403dfb3e1670bd8c2100d0e303ce52aecdc8a973de3ba"
+    },
+    {
+      "entry": "セイバールート五日目-00.ks",
+      "changes": [
+        {
+          "offset": 7319,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "57601c7396d7451869a1b001d4cdca2d50ac9c1e2366e5e6c007d9288e578014",
+      "after_sha256": "f22d06162a2adcefd8a4b32d99c18112fa95664f1e0018965e3e930fbf585d0b"
+    },
+    {
+      "entry": "セイバールート五日目-05.ks",
+      "changes": [
+        {
+          "offset": 6362,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 12232,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "7f465fafa437596eedd0ecd8b04fd4b96d0d5b0ef27e995abe5ed8cd37215a1d",
+      "after_sha256": "2c9f72335ee5e352aace6f376d2c5e1b89f74331c4f01797730bbc3368b3481e"
+    },
+    {
+      "entry": "セイバールート五日目-06.ks",
+      "changes": [
+        {
+          "offset": 18002,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "d7208067f67aa8091dc5a2d1cec00abe6e23d224c4745236522b421ddf4fb6c9",
+      "after_sha256": "93480bf103da7b61185a486f8af297353c7a5fa2d39d35208aa6f66621a049c3"
+    },
+    {
+      "entry": "セイバールート五日目-11.ks",
+      "changes": [
+        {
+          "offset": 7248,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "6b22e5f6516dd7335e067b7ecb3fc84a1265c2b238ceb6643ff27b81053f6778",
+      "after_sha256": "eea961c74ac8f0e249532e985f2762bb0b2c34c32a1a4d272925006503405e64"
+    },
+    {
+      "entry": "セイバールート六日目-05.ks",
+      "changes": [
+        {
+          "offset": 15368,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "926fad984ac3cd7149fcda142682ce9cd3107b4c88c37af5b16670402553e0a0",
+      "after_sha256": "983b33466fe54039d9521500b30ce27aec7fbb7f312f84b592ca6e1fe8c8eb1d"
+    },
+    {
+      "entry": "セイバールート六日目-08.ks",
+      "changes": [
+        {
+          "offset": 1783,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 3103,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "268e13aa0d3dd1de55700bbf200d28060ba778b1f9559185b620afa1422725f3",
+      "after_sha256": "b5847fb181927cf52431c5649d08fa60fa628c53c654e7ba21532269f95ee393"
+    },
+    {
+      "entry": "セイバールート六日目-09.ks",
+      "changes": [
+        {
+          "offset": 1478,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "bb5ccbce0634a76b8d344d3a9830bce4bedce3e014d1aa10fbe03621300a575a",
+      "after_sha256": "8c3ab3a294398581b81d6fa27dcfa0fb7f7cb0466e9ace3f54d23a2bb1964848"
+    },
+    {
+      "entry": "セイバールート六日目-10.ks",
+      "changes": [
+        {
+          "offset": 939,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 7819,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 9833,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 12949,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 23080,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 24227,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 27097,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 30279,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "dfede95379c97791518d8cce11c11bec5e71e35543209f8c942d9032ae9a91ee",
+      "after_sha256": "1b6a79c721028b1d841d03695047ddaa49009718f1f7eaf01029112843413966"
+    },
+    {
+      "entry": "セイバールート六日目-12.ks",
+      "changes": [
+        {
+          "offset": 4934,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 8215,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "964f03f2ffb7a35206f6bfea443b954a26a8dae88d57350b2355c12f8e1b01c8",
+      "after_sha256": "751303f11328325c9bfc0e31f1bac557b1fab0d83ef9ed37a48d96bd3a621d5f"
+    },
+    {
+      "entry": "セイバールート十一日目-00.ks",
+      "changes": [
+        {
+          "offset": 9652,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 12299,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "8bb50075f69348c1c0677138612d033ad47e1861edb91725ba09f8ecfb046fa8",
+      "after_sha256": "afb4e4c4b7d7f5b59d4b794e5e5f8c667f2c6571534e997c94f859b80f89e780"
+    },
+    {
+      "entry": "セイバールート十一日目-07.ks",
+      "changes": [
+        {
+          "offset": 4727,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "1855e7078ae2fee29eef3c97626936a9d685fe3c43320984285d53a04ea74a33",
+      "after_sha256": "5dbb0bf0f0554a1ec50a46127967cee8105aba53808545c6651f5069917a1247"
+    },
+    {
+      "entry": "セイバールート十一日目-09.ks",
+      "changes": [
+        {
+          "offset": 8976,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 12862,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 14105,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n   \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "c5da6508de8ac978ac949a2344e199d66e480dd8cbd17b27c8dbb3a2cf0e15bc",
+      "after_sha256": "1aefed406b94a5bfeffd02b0b27c5546c998f3ef914aeb9eb2215be9250c914c"
+    },
+    {
+      "entry": "セイバールート十一日目-18.ks",
+      "changes": [
+        {
+          "offset": 4802,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "818930a06d6225f5ddd3fbe00df0b4d9a1c69df01722bbb3b9d878fe8533499f",
+      "after_sha256": "b23e7ea573492a53df667bb133987f61c8d6be0cd1c78464bb267fba80d81a7e"
+    },
+    {
+      "entry": "セイバールート十一日目-19.ks",
+      "changes": [
+        {
+          "offset": 11297,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "1fdf6d5da11222189d4b3942a2a6e1f051a0f6bb71cf5e711b35b0d156fe9c2d",
+      "after_sha256": "eca59882b6cfd5c14639e4c4a6d1b66d3c2d1aebbd75accaed13aa96f43446c3"
+    },
+    {
+      "entry": "セイバールート十一日目-20.ks",
+      "changes": [
+        {
+          "offset": 2093,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "72b68c6e87dcc22d21841e9a46753855d18b25ee1d5f1eada1837c9dbe4f2dff",
+      "after_sha256": "018b908b154241d7f48ce433dd258523b4f9d4b3fcc2135fc223bb07040fe866"
+    },
+    {
+      "entry": "セイバールート十一日目-21.ks",
+      "changes": [
+        {
+          "offset": 2126,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "ef3ac388416c6727bd0a5ae07306efd7edac8c071baa76c927c1b7c89f5ef18d",
+      "after_sha256": "cfd843559f0544134fc192d9550a0451c79e0416884b8027933befe3f6bbfb7c"
+    },
+    {
+      "entry": "セイバールート十三日目-00.ks",
+      "changes": [
+        {
+          "offset": 33246,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "96d4c12a3a7b544f3cb2e8dce4f3a21b2e06afb1d92a85b0d43c3cd4b9d72d6a",
+      "after_sha256": "fd939ad1bde64add0e20ada4f507e32dbcf241f0537c2f04c6cf34037a9143ff"
+    },
+    {
+      "entry": "セイバールート十三日目-02.ks",
+      "changes": [
+        {
+          "offset": 10244,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "9af1753f07844fe5b4ab18250c48043b39a4fdcdb976c07a7892c34286755960",
+      "after_sha256": "ac568e6f2d9097ea6d2b35e22255cca217fe7c5c22045d4bcbca8dda6723d195"
+    },
+    {
+      "entry": "セイバールート十三日目-09.ks",
+      "changes": [
+        {
+          "offset": 2134,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 22304,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 38053,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "eff82d4dd28c2748afb40c6d655789f039f98d6dc2d01489069d0424856b2730",
+      "after_sha256": "62b62fdd19eaacea66b32193d46379be28a483ebc214076ed4bdc12e62d5ee2d"
+    },
+    {
+      "entry": "セイバールート十三日目-11.ks",
+      "changes": [
+        {
+          "offset": 31922,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 37257,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "1349c578ed8bef35dff47a92662acf661a5b8f0b19484085edce473040af8a77",
+      "after_sha256": "58f8d6c2cfddfd5ac892b4572724b10d1dbb9360d507ba8c7f02d3a08d8cc726"
+    },
+    {
+      "entry": "セイバールート十三日目-12.ks",
+      "changes": [
+        {
+          "offset": 6501,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "f101a3084d0c80842f2ec8ecf98053b95527a5a308d910ed5169faef572b0e59",
+      "after_sha256": "77a9535ef19ab1aaa442d5854367647457f81dd9babb13e8eb8b2c1046c71968"
+    },
+    {
+      "entry": "セイバールート十三日目-14.ks",
+      "changes": [
+        {
+          "offset": 1927,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "f41561e7d58ffe2daa4791c1ad2f6fadfd484f9544f77937876b280f3931b888",
+      "after_sha256": "bc304328e50f6ba31cae22a4dcab674e36bb57033ce5645c9d3e795aace008eb"
+    },
+    {
+      "entry": "セイバールート十二日目-00.ks",
+      "changes": [
+        {
+          "offset": 3777,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 13436,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "927a274f2d88f73045847ede8830a0caf9247726d5d05ce0a06403fc1446088a",
+      "after_sha256": "38437b3cf7cc396647b17f3b728406b92f0317023438b592accab45573a5ed0e"
+    },
+    {
+      "entry": "セイバールート十二日目-02.ks",
+      "changes": [
+        {
+          "offset": 2029,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "fb3d4d52e5556737bcd5631b384819a56e262fbca5ab8bac1828cf9051bfbe3f",
+      "after_sha256": "e79e5779d0e1ba80f2e0d5da78f1b74d7f304e9dfe61ad78f707469e81df3a8a"
+    },
+    {
+      "entry": "セイバールート十二日目-03.ks",
+      "changes": [
+        {
+          "offset": 795,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 1919,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 23434,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "131365a5a053f102ebe60b726db85a530ffc649110e1fb26eae86b5415b835b0",
+      "after_sha256": "3ee04998abea7ef45a0a0fada75c450d07221f7c58d182ccfcf4c5e64aa8238f"
+    },
+    {
+      "entry": "セイバールート十二日目-06.ks",
+      "changes": [
+        {
+          "offset": 588,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "cd342bf5b14128b2467d421d4ea2f34ae3651047df28324b8eae60c717ee5350",
+      "after_sha256": "92b95d3fbcce627dc0014ec6f4c5494923f71f6ca276892aa3ffb6d4d619c05c"
+    },
+    {
+      "entry": "セイバールート十二日目-07.ks",
+      "changes": [
+        {
+          "offset": 5571,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "435658aa0e02eb54ffa0114314e9e13abe3a4856e87e691e9b2cde7f55553c3e",
+      "after_sha256": "e9c4fa98152214accdd755e39e27cbd8522227cf15184add57367953b0004edf"
+    },
+    {
+      "entry": "セイバールート十二日目-12.ks",
+      "changes": [
+        {
+          "offset": 3685,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "42c63ed9b9076a2c2b5d3d42af6d9a3b1d28c585aa954d01e56ef1a03ab8ec84",
+      "after_sha256": "215f24dd0bd7bedca4f63ebfe06fb0c6666492c4549f41c0e1d01cd6dc6f1406"
+    },
+    {
+      "entry": "セイバールート十五日目-03.ks",
+      "changes": [
+        {
+          "offset": 1729,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 1877,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "d96d532b729faaa24207e984d4c7e4091b739d38b4e991bf86450627cc52f935",
+      "after_sha256": "a52649ddd6f6f9fd1d2a66e7b12b4a331c004456d78cd5d1782083a208b53060"
+    },
+    {
+      "entry": "セイバールート十五日目-11.ks",
+      "changes": [
+        {
+          "offset": 45384,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 80232,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "dc7abfa83e5a047bbe3d2b030977cdd3b297fccd3f9f6969c3d3551300a4a327",
+      "after_sha256": "43eb14c1e0d5a3710257e51223c96c9ba4df7fd7e2975947488730608c11f82c"
+    },
+    {
+      "entry": "セイバールート十五日目-13.ks",
+      "changes": [
+        {
+          "offset": 7907,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 29874,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "9b27efb6ac8a6ee72533ae031d944dde7fe3e130625c5d840094967da306028d",
+      "after_sha256": "ae59145f0ae3fc360c001d9843e977faa28c557cfdef4f72681a33579b936814"
+    },
+    {
+      "entry": "セイバールート十五日目-19.ks",
+      "changes": [
+        {
+          "offset": 3897,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "e65f04a5b8ae0dae8c16d54bea1fb3f8f6c3702cd0dce9d9d0fd9b2c5400e4c7",
+      "after_sha256": "c62b3ceb9b7d2b216bef713b37c22df3e75c9db34bb7977ab7d6669205801105"
+    },
+    {
+      "entry": "セイバールート十五日目-21.ks",
+      "changes": [
+        {
+          "offset": 27012,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "1150950407eb130bbfb441c5e36229de2f334ccf0fc6eb93142bc7a51a74c8e7",
+      "after_sha256": "5b0fe88cb14526b617d43031b11a45a3b08e6df24b008c7f830fe0fd98fbbe2e"
+    },
+    {
+      "entry": "セイバールート十五日目-22.ks",
+      "changes": [
+        {
+          "offset": 4688,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "ac40e0dd9f7df3e2617f1f0372c03a0b394e2130a358d093cd4ae75602e1096c",
+      "after_sha256": "e69d0f65c7a2fb488f5266f7497af9eb104618e702af61b3a5cf23fcdbf765b3"
+    },
+    {
+      "entry": "セイバールート十四日目-06.ks",
+      "changes": [
+        {
+          "offset": 1317,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "ef96ed6546212156872918c3b394db687ac43a29ac3cb4a894ef5e354330a93f",
+      "after_sha256": "425dadd373eb4d2346392167716a246e23db79c8636f79b1f1d247e4e9027f08"
+    },
+    {
+      "entry": "セイバールート十四日目-07.ks",
+      "changes": [
+        {
+          "offset": 2159,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 6477,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "1060e1823efda38c49344be4a82bb605f85cf4813686b85c45d766e56e46011f",
+      "after_sha256": "23395e75244251b982aea25d49cfdf183f5f3e708b8f8d54209943fb4558ec3a"
+    },
+    {
+      "entry": "セイバールート十四日目-08.ks",
+      "changes": [
+        {
+          "offset": 9105,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 14218,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "3248e83138d1ab295bba96e3f9c7312123c25be75ed1f6b80569546546799bb2",
+      "after_sha256": "743ff19ea029466307c1723b6b402a92c66c63f47469081a83696cf8d0b1300a"
+    },
+    {
+      "entry": "セイバールート十四日目-11.ks",
+      "changes": [
+        {
+          "offset": 2686,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 4105,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "8f047bbc0c54e81d7d191f3a93ae2ef678ec0c398f99ef9cca257771acbf97dd",
+      "after_sha256": "12dbe9e4b13c73f76b61fadd45b2f7ccd998eb865cdc991b4e984b54caaa40b7"
+    },
+    {
+      "entry": "セイバールート十日目-00.ks",
+      "changes": [
+        {
+          "offset": 7218,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "a5dbd955ca002efc89717657deeddb46fe6995e8c3b231f988b9180aebed4782",
+      "after_sha256": "777f0b6567f9741ac625042e245de8937ef6d259ca8169a5915418da1c7115e3"
+    },
+    {
+      "entry": "セイバールート十日目-01.ks",
+      "changes": [
+        {
+          "offset": 3814,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "c04d6e69c1a8e6285ba77848b596ffef89d496c57c7ceb9584bb19e7749dd1f9",
+      "after_sha256": "3575d784e377c6616185652a1d43c20a2ddd8d4b05b592a05abc3f7364e9aedf"
+    },
+    {
+      "entry": "セイバールート十日目-03.ks",
+      "changes": [
+        {
+          "offset": 13611,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "d72f421b9e6931d00495b4910aa2aa41456b7d1d7c036a0baf73f8bd17cd0be0",
+      "after_sha256": "6aa4d5926dcd8c19e5ad53f6c8c8f0654dfcfb5fd84c05c593d093e89af2fb4a"
+    },
+    {
+      "entry": "セイバールート十日目-07.ks",
+      "changes": [
+        {
+          "offset": 5860,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "937f58ecd3334319aaf50281ec55da11afe4248720a82e65af8a8702e6af815d",
+      "after_sha256": "e6edd4f10b3458f8e3c9ed5c04c4ce784136a5c1f92a5e5938fb07a33fb8df45"
+    },
+    {
+      "entry": "セイバールート十日目-09.ks",
+      "changes": [
+        {
+          "offset": 3787,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "6a07084f30fa8ac3f002ecf3462c315aca982076aafb06f4221482a23a663d79",
+      "after_sha256": "2ae18b17a969e1080ffd1689f9c707f94583711c445f10cd7113893dcdd0425c"
+    },
+    {
+      "entry": "セイバールート四日目-02.ks",
+      "changes": [
+        {
+          "offset": 886,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "b2d5131a43d65bb97e5545a93d281f019935ee1c9032cf9ea77e5f0778c0468a",
+      "after_sha256": "d258354a2bbc9b5cd2d89385f87feb294f25b4d4ed66fa6d423fa85d3d137c8e"
+    },
+    {
+      "entry": "セイバールート四日目-05.ks",
+      "changes": [
+        {
+          "offset": 22516,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "7ee4c547b9897c51f994ba52d8e4edd2c240af8bee4b4bb2ed76ea305651e633",
+      "after_sha256": "ae72369d1126b309fb65395c0643199828e4b3dbc89a7a78a04eafbbc843e9ce"
+    },
+    {
+      "entry": "セイバールート四日目-06.ks",
+      "changes": [
+        {
+          "offset": 1383,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "a9448ab91fba011879c1c3ce0de85e90d2f30493d10b2a8916907a1cc3a1e58d",
+      "after_sha256": "a570d467b95fd412b2117407692704bd5f9ead84bef9a91ee7d599c8d74e87f3"
+    },
+    {
+      "entry": "セイバールート四日目-07.ks",
+      "changes": [
+        {
+          "offset": 1338,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "0a47875babe1275d7a91bf9f6c47d73961e340997166c5940bc3c564c726baa3",
+      "after_sha256": "9b252df6fcc36922730f701ca206fc4167de078a0f2a66749a0fe00796667718"
+    },
+    {
+      "entry": "セイバールート四日目-08.ks",
+      "changes": [
+        {
+          "offset": 6470,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "602709c044640d67d92177af184d17c6837d983c1e7c5da79151f34f25a3fd77",
+      "after_sha256": "869e10bfb920a71ec3cdc5cbf1e686325703d5d16e3198e97a9a0b97ed76b066"
+    },
+    {
+      "entry": "セイバールート四日目-10.ks",
+      "changes": [
+        {
+          "offset": 1983,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 17832,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "64fe0e1071cfb343219a02aa6980c93b0d281839c73ed68ff3471dd6ceceb40b",
+      "after_sha256": "93dad01d966fba99fa0429cd5e2b3523f9ac84b8e6dfeb0bca10dcaf33dfe0b8"
+    },
+    {
+      "entry": "セイバールート四日目-11.ks",
+      "changes": [
+        {
+          "offset": 2399,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 16117,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "edcacc3428578d148cefd39dc2e1e25686d201c9d1ec587cd04fb0dabd55d46b",
+      "after_sha256": "4e766ec3328b2831eb682692a8c7711a09e11572ed0a43530e272c861d7496d0"
+    },
+    {
+      "entry": "セイバールート四日目-15.ks",
+      "changes": [
+        {
+          "offset": 1505,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "ea3b84565c5ddd5c79e348b05d9c47a011fc119ec4cfa0d8753d42fb43fec944",
+      "after_sha256": "ca0637d625d48378e59e0be94d937ffd9304dc02af2896c312ff5e423096ac9d"
+    },
+    {
+      "entry": "凛ルート七日目-11.ks",
+      "changes": [
+        {
+          "offset": 1336,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "367df297161c764cacccd92d932b50eaf7d1e7e3d63985ad133445b5bde9d63e",
+      "after_sha256": "b8d040122526ae3eb15141a5c8a42f8e75603814decf1ff81f65e879a19a9453"
+    },
+    {
+      "entry": "凛ルート九日目-12.ks",
+      "changes": [
+        {
+          "offset": 11089,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='classic'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='classic'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "bb7a0577ec30b0d3f987b5c22750a2de4aef9f14b5286fbd8f67f3460271185f",
+      "after_sha256": "87b67f401db0773fc2164b89bc1a8bc0d3aa0a641f259d73de57b019b1fd25f1"
+    },
+    {
+      "entry": "凛ルート九日目-13.ks",
+      "changes": [
+        {
+          "offset": 4018,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "38457982717654608c454a3ce9687b0b1f7c2a693cf0c3da2e6c2d53804271e7",
+      "after_sha256": "a287b31c3a3f0ea3a130186accc1a55a3affc4b788c9a12ee1f04d9e189bc763"
+    },
+    {
+      "entry": "凛ルート五日目-06.ks",
+      "changes": [
+        {
+          "offset": 22875,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "2550c86f5304ccc89a0b2410ca2cef233e7d7974fa0e6092636066ff81ef8ed7",
+      "after_sha256": "de05cf5fa35e346f7754054ba0bd7015fb25427b99998752fe1127cfd7a69d46"
+    },
+    {
+      "entry": "凛ルート六日目-04.ks",
+      "changes": [
+        {
+          "offset": 2326,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "6137c29ad15e9b2ca40275be4fcb39942f5cb7de307a13dc39ba4d69394ae57c",
+      "after_sha256": "9a7ede4edb52ce65cdb947756adb68bbf176eed2f1f4e8eb7f440f2c101c7c3b"
+    },
+    {
+      "entry": "凛ルート六日目-11.ks",
+      "changes": [
+        {
+          "offset": 24823,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "786b904f2d216320fc5e1f2f0db0f87056aa99496fa125a69156ccb11d943b88",
+      "after_sha256": "2febf7548a18620be87d94e6fd02bcafe223be4e2d2efa3c80505c7ca39dc478"
+    },
+    {
+      "entry": "凛ルート十一日目-04.ks",
+      "changes": [
+        {
+          "offset": 43201,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "9da7dff4d102e7c8ac9e8f3471ddf602f8dca9c475e5b6c281f1d7bb2e0d2bde",
+      "after_sha256": "a880f0827bb121ee3d8847bb768bd88d2e8e7a4256b005eb5dd3fdb25dca0f19"
+    },
+    {
+      "entry": "凛ルート十一日目-05.ks",
+      "changes": [
+        {
+          "offset": 9200,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "c6d05a12384663c53549006b944d1421fec9532d76dc8d2988dc966b304480c9",
+      "after_sha256": "ab9b21fdc9ea15e16be1c56dc79c5418c02c77208b9ef60ddc5d495c74482a3c"
+    },
+    {
+      "entry": "凛ルート十一日目-06.ks",
+      "changes": [
+        {
+          "offset": 20338,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "20c906597f748bee8b801c41f9ba0648a2bb7271b0f7c4fd6a4e82745f995e11",
+      "after_sha256": "597a4c8290a6ce25d77158fea6eb966a6262708cf9ddc257e57ca06cc65a43a7"
+    },
+    {
+      "entry": "凛ルート十三日目-17.ks",
+      "changes": [
+        {
+          "offset": 2245,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        },
+        {
+          "offset": 2616,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "8d6ed2137a3b46cad23f515e630abfd20804e71728ca701de3758b805b840356",
+      "after_sha256": "375e99e01797ecbb8dee05b34a74a70e59faa4ccbbe3589126caadda46b275b2"
+    },
+    {
+      "entry": "凛ルート十二日目-06.ks",
+      "changes": [
+        {
+          "offset": 17223,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "edc5822926d5c308e9a94cd30d3bf59b9fbd0da081e78d4c7b79d5411a7dc9b8",
+      "after_sha256": "d684f0da565bcf6fcf10dce3358f60d21a3e5609a05dc43fbf3e888473bd4da5"
+    },
+    {
+      "entry": "凛ルート十二日目-08.ks",
+      "changes": [
+        {
+          "offset": 4930,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "6c1230ce9ec2116f1f5930172bedccd1ea6bc374febf06e567a774c506264fc7",
+      "after_sha256": "ae522384c0e7ff24e860f3e878dc322c84a00d4161549397a21d028ee414a187"
+    },
+    {
+      "entry": "凛ルート十四日目-12.ks",
+      "changes": [
+        {
+          "offset": 6637,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "a9a32f71342be40bbab8527bd2d9e299b6064f54f459f191a977dca0c7897f1a",
+      "after_sha256": "c54181b7519df6f3592869d76e42593ab7efc469c632d793d03002de62c919c9"
+    },
+    {
+      "entry": "凛ルート十四日目-18.ks",
+      "changes": [
+        {
+          "offset": 8990,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        },
+        {
+          "offset": 9526,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "99522d75122bfcfc1ace5429bddfdb0bccff45bc56b59187469719df16a9d663",
+      "after_sha256": "e77e6186841a41a73a51abc9bd7a9660b2026b1ec3ad38aa293a264d61ea7bc2"
+    },
+    {
+      "entry": "凛ルート十日目-01.ks",
+      "changes": [
+        {
+          "offset": 5671,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "49739227c63bc2e12570efd4c63d5b1aa3ecb7cc699d7f959d7cd41a8cd268eb",
+      "after_sha256": "dbcc7dde50a3c5a48af3578d339488c184fa3312e7ec6b14015635c27279417d"
+    },
+    {
+      "entry": "凛ルート四日目-07.ks",
+      "changes": [
+        {
+          "offset": 4710,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "b58e0f5176f0749a535b8e97c9818add34e1bf1115de8c6e058af142bdfcbae3",
+      "after_sha256": "9eef073c207856aeedcd251ca5f332f95d3297278d8ed7d593167cfb2c34801b"
+    },
+    {
+      "entry": "凛ルート四日目-10.ks",
+      "changes": [
+        {
+          "offset": 12373,
+          "joinedContinuation": true,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n  ",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n "
+        }
+      ],
+      "before_sha256": "7af58426e04e173143e3a86b4f5bb9653c2c75c109550751299f39f53e0c4c96",
+      "after_sha256": "755b8ff8cd0cdf6d4ab76c7f25674b948fee0dc221d8549177e1d197ef81c6ce"
+    },
+    {
+      "entry": "桜ルート十六日目-16.ks",
+      "changes": [
+        {
+          "offset": 13064,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n  \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "26183acbbc71570b8d7105d8e3787f1f9b466f5174898b2cd0de3bba1e840278",
+      "after_sha256": "d4ff0fd2bef48192ee840a02fafe62fc8478d68420327b371804d30d97b692df"
+    },
+    {
+      "entry": "桜ルート十日目-26.ks",
+      "changes": [
+        {
+          "offset": 7558,
+          "joinedContinuation": false,
+          "before": "@if exp=\"sf.gtext=='realta'\"\r\n  \r\n@else\r\n \r\n@endif\r\n",
+          "after": "@if exp=\"sf.gtext=='realta'\"\r\n\r\n@else\r\n\r\n@endif\r\n"
+        }
+      ],
+      "before_sha256": "8c5d98e65821a0491e452a62e4590cd0e1db428a28332c4d9102201c815cd80e",
+      "after_sha256": "440180c7d2cb492cee1b1cb4b6b6858bd2a3be4a61e8a65ce124ccbd2b6b04a5"
+    }
+  ]
+}
